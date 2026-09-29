@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "VASELINE PETRO PURO ORIGINAL 42G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vaselina Vaseline Original Pure Skin Jelly 42 g",
+  "descripcion": "Descripción:\nLa Vaselina Vaseline Original Pure Skin Jelly es un básico del cuidado personal que ayuda a proteger y restaurar la piel seca, manteniéndola suave, hidratada y con una sensación de confort duradero. Su fórmula de petrolato puro forma una barrera protectora sobre la piel que ayuda a retener la humedad natural y favorece su recuperación. Viene en un frasco compacto de 42 g, fácil de llevar en el bolso, la mochila o el botiquín, y de textura suave que se extiende con facilidad.\n\nBeneficios:\n- Ayuda a proteger la piel seca y a retener su humedad natural.\n- Forma una barrera protectora sobre la piel.\n- Deja la piel suave e hidratada.\n- Fórmula sencilla de petrolato puro.\n- Frasco de 42 g práctico para transportar.\n\nIngredientes:\nPetrolato (Petrolatum).\n\nModo de uso:\nAplicar una capa delgada sobre la piel limpia y seca, en las zonas que lo necesiten, las veces que sea necesario.\n\nPresentación:\nFrasco con 42 g.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Vaseline",
+    "fabricante": "Unilever",
+    "linea": "Pure Skin Jelly",
+    "variante": "Original",
+    "presentacion": "Frasco",
+    "contenido_neto": 42,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel seca",
+    "otros": "Ingrediente principal: petrolato; Tipo: vaselina de petrolato puro"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306249356_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/292677-1000-1000/7506306249356.jpg?v=638203957774500000",
+      "pagina": "https://www.lagranbodega.com.mx/crema-vaseline-original-pure-skin-jelly-42-g/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 963,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/crema-vaseline-original-pure-skin-jelly-42-g/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por el nombre de archivo de la foto de la ficha de tienda (7506306249356). Sitios de Vaseline bloqueados (403); la descripción se basa en la ficha de tienda y en la composición de petrolato puro de la marca.",
+    "notas_imagenes": "1 foto de tienda (frente del frasco, 1,000 px). No se encontró una segunda foto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

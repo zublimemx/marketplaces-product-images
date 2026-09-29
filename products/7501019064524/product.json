@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TENA CALZ PANTS NOCT G C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ropa Interior Tena Pants Nocturno Talla G 10 Piezas",
+  "descripcion": "Descripción:\nTENA Pants Nocturno es ropa interior desechable tipo calzón, unisex, para hombres y mujeres con pérdidas de orina durante la noche. Está diseñada para estar acostado, con un ajuste anatómico en la cintura que da mayor descanso, y es tan fácil de poner y quitar como la ropa interior habitual. Presentación en talla G (grande).\n\nCaracterísticas:\n- Absorción súper abundante gracias a su doble núcleo absorbente reforzado\n- Gel súper absorbente que gelatiniza los líquidos y neutraliza los olores; absorbe los escapes de orina en segundos\n- Doble barrera anti-escurrimiento reforzada que ayuda a prevenir accidentes nocturnos\n- Red protectora que reduce el regreso de la humedad durante la noche\n- Ingredientes con ácido glucónico y glicerina de origen natural que cuidan la piel\n- Materiales respirables que mantienen la piel fresca\n- Diseño ergonómico que se adapta al cuerpo durante la noche\n\nPresentación:\nPaquete con 10 piezas, talla G (grande).",
+  "ficha": {
+    "marca": "TENA",
+    "fabricante": "Essity",
+    "linea": "Pants Nocturno",
+    "variante": "Nocturno",
+    "presentacion": "Paquete con 10 piezas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "talla": "G (Grande)",
+    "genero": "Unisex",
+    "otros": "Tipo: ropa interior desechable para incontinencia urinaria; Absorción: súper abundante; Uso: nocturno"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064524_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://essitymx.vtexassets.com/arquivos/ids/159602-1200-auto",
+      "pagina": "https://www.tena.com.mx/tena-pants-nocturno-diez-piezas/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1166,
+      "fecha": "2026-09-29",
+      "lado_util": 1080
+    }
+  ],
+  "url_oficial": "https://www.tena.com.mx/tena-pants-nocturno-diez-piezas/p",
+  "fuentes": [
+    "https://www.tena.com.mx/tena-pants-nocturno-diez-piezas/p",
+    "https://www.farmatodo.com.mx/tena-panal-adulto-pants-nocturno-grande-paquete-c-10-pz-v1/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501019064524 confirmado en el sitio oficial como talla G de 10 piezas (la talla M es 7501019064517).",
+    "notas_imagenes": "1 foto del sitio oficial (1200 px, frente del empaque); se descartaron 2 imágenes con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

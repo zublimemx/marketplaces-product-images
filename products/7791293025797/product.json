@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE MEN DARK TEMP SPY150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Dark Temptation Spray Hombre 150 ml",
+  "descripcion": "Descripción:\nDesodorante corporal en aerosol Axe Dark Temptation para hombre, con la fragancia Dark Temptation, una fragancia intensa y seductora pensada para acompañar tu día y tus noches. Su fórmula ayuda a combatir el mal olor corporal y ofrece hasta 48 horas de fragancia de máxima duración en un envase de 150 ml.\n\nBeneficios:\n- Fragancia Dark Temptation de larga duración, hasta 48 horas\n- Ayuda a combatir el mal olor corporal\n- Aerosol práctico de 150 ml, fácil de aplicar\n- Para uso diario en hombres\n\nModo de uso:\nAgite el envase antes de usar. Aplique a una distancia aproximada de 15 centímetros sobre la piel limpia y seca, en axilas y cuerpo.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nContenido a presión. Producto inflamable; manténgalo alejado del fuego, de las llamas y de fuentes de calor. No lo perfore ni lo incinere, aun vacío. No lo exponga a temperaturas superiores a 50 grados centígrados. Evite el contacto con los ojos y no lo inhale de forma intencional. Úselo en áreas ventiladas. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Men",
+    "variante": "Dark Temptation",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Dark Temptation",
+    "genero": "Hombre",
+    "otros": "Formato: spray corporal en aerosol; Duración de la fragancia: 48 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293025797_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293025797.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/desodorante-axe-dark-temptation-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1622,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-axe-dark-temptation-hombre-150-ml-aerosol.html",
+    "https://despensa.bodegaaurrera.com.mx/ip/desodorante-en-aerosol-axe-dark-temptation-150-ml/00779129302579",
+    "https://www.olimpica.com/desodorante-axe-body-spray-dark-temptation-150-ml-7791293025797--1085020/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN con prefijo 779 (Argentina), aparece igual en fichas de México. Claims de 48 h y mal olor tomados del empaque. Modo de uso y advertencias son las generales de un aerosol. Fabricante Unilever inferido de la marca.",
+    "notas_imagenes": "1 foto de tienda (aerosol frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

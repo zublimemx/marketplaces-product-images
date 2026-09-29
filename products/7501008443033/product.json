@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ALKA SELTZER C 12 TABS 150",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alka-Seltzer Antiácido Analgésico 12 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nAlka-Seltzer es un medicamento de venta libre de Bayer en tabletas efervescentes que se disuelven en agua. Combina ácido acetilsalicílico, bicarbonato de sodio y ácido cítrico para proporcionar alivio rápido del malestar estomacal: acidez, agruras e indigestión, además del dolor de cabeza.\n\nBeneficios:\n- Alivio rápido de la acidez, las agruras y la indigestión.\n- Alivia el dolor de cabeza gracias a su contenido de ácido acetilsalicílico.\n- Tabletas efervescentes que se toman disueltas en agua.\n- Presentación práctica de 12 tabletas.\n\nFórmula:\n- Ácido acetilsalicílico: 324 mg por tableta\n- Ácido cítrico: 1,000 mg por tableta\n- Bicarbonato de sodio: 1,976 mg por tableta\n\nModo de uso:\nVía oral. Disuelva la tableta completamente en un vaso con agua y bébala de inmediato. Respete la dosis y la frecuencia indicadas en el instructivo del empaque.\n\nPresentación:\nCaja con 12 tabletas efervescentes.\n\nAdvertencias:\nContiene ácido acetilsalicílico y bicarbonato de sodio; no lo use si es alérgico a los salicilatos o si tiene restricción de sodio en su dieta, salvo indicación médica. Si los síntomas persisten, consulte a su médico. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alka-Seltzer",
+    "fabricante": "Bayer",
+    "presentacion": "Caja con 12 tabletas efervescentes",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Ácido acetilsalicílico, Bicarbonato de sodio, Ácido cítrico",
+    "concentracion": "324 mg / 1,976 mg / 1,000 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Formato: tableta efervescente; Uso: acidez, agruras, indigestión y dolor de cabeza"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008443033_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5220a89e/images/large/7501008443033_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/alka-seltzer-500mg-12-tabs/MXYZ_7501008443033.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1035,
+      "fecha": "2026-09-29",
+      "lado_util": 959
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/antiacidos-malestar-estomacal/1269-comprar-alka-seltzer-caja-con-12-tabletas-efervescentes-precio-7501008443033.html",
+    "https://www.fahorro.com/alka-seltzer-antiacido-y-analgesico-12-tabletas-efervescentes.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 12 tabletas confirmados. El '150' del nombre del sistema no corresponde a un dato de la ficha y se ignoró. Dosis exacta tomada del instructivo del empaque (no verificada en línea).",
+    "notas_imagenes": "1 foto de tienda con el frente del empaque (1000 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

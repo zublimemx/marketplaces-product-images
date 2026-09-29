@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MENNEN RSA 100G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Bebé Mennen Baby Magic Rosa 100 g",
+  "descripcion": "Descripción:\nTalco para bebés Mennen Baby Magic Rosa de 100 g, hipoalergénico y elaborado por Colgate-Palmolive. Está formulado para el cuidado de la piel del bebé: en el empaque se presenta como un talco que protege su piel, con una sensación de frescura y un aroma suave y delicado que acompaña el momento del baño y del cambio de pañal. El frasco de 100 g es práctico para usarlo en casa o llevarlo en la pañalera.\n\nBeneficios:\n- Talco hipoalergénico para bebés.\n- Ayuda a proteger la piel del bebé.\n- Deja una agradable sensación de frescura.\n- Aroma suave y delicado.\n- Frasco de 100 g fácil de usar y de transportar.\n\nModo de uso:\nAplicar una pequeña cantidad sobre la piel seca del bebé después del baño y en los cambios de pañal, manteniendo el frasco lejos de su cara para evitar que inhale el polvo.\n\nPresentación:\nFrasco con 100 g de talco.\n\nAdvertencias:\nProducto de uso externo. No lo aplique directamente sobre el rostro ni permita que el bebé inhale el polvo. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Baby Magic",
+    "variante": "Rosa",
+    "presentacion": "Frasco de talco",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "genero": "Niña",
+    "registro_sanitario": "420M2014SSAIV",
+    "otros": "Hipoalergénico; Tipo: talco para bebés"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455894",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908123_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw40fc33ef/images/large/7501035908123_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/talco-mennen-baby-magic-nina-100-g/MXYZ_7501035908123.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 940,
+      "fecha": "2026-09-29",
+      "lado_util": 871
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/bebes/13263--talco-rosa-mennen-baby-magic-frasco-con-100-g-aseo-bebe-7501035908123.html",
+    "https://www.yza.mx/talco-mennen-baby-magic-nina-100-g/MXYZ_7501035908123.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "EAN 7501035908123 confirmado como Mennen Baby Magic Rosa 100 g (una farmacia lo nombra 'Niña'). No se encontró lista de ingredientes; el registro sanitario se tomó de una ficha de tienda. Sitios de Colgate/Mennen bloqueados (403).",
+    "notas_imagenes": "1 foto de tienda (frasco de frente, 1,000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SENOSIAIN BEBE C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Supositorios Senosiain Bebé Glicerol 1478 mg 10 Piezas",
+  "descripcion": "Descripción:\nSupositorios Senosiain Bebé son supositorios rectales de glicerol de Laboratorios Senosiain, de uso pediátrico. Según su etiqueta, funcionan como evacuante intestinal y ofrecen alivio del estreñimiento ocasional. Se presentan en caja con 10 supositorios.\n\nComposición:\nCada supositorio contiene glicerol 1478 mg, con excipiente cbp 1 supositorio.\n\nModo de uso:\nVía rectal. La dosis que indica la etiqueta es de 1 o 2 supositorios al día, o la que señale su médico o pediatra.\n\nPresentación:\nCaja con 10 supositorios.\n\nAdvertencias:\n- Contraindicado en oclusión intestinal, apendicitis aguda e hipersensibilidad a los componentes de la fórmula.\n- No lo emplee en padecimientos anorrectales.\n- Si las molestias persisten, consulte a su médico. Conserve a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Senosiain",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Bebé",
+    "presentacion": "Caja con 10 supositorios",
+    "contenido_neto": 10,
+    "unidad_contenido": "supositorios",
+    "unidades_por_envase": 10,
+    "principio_activo": "Glicerol",
+    "concentracion": "1478 mg por supositorio",
+    "via_administracion": "Rectal",
+    "edad_etapa": "Bebés y niños",
+    "registro_sanitario": "68960 SSA VI",
+    "otros": "Evacuante intestinal; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704187_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704187.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1366,
+      "fecha": "2026-09-29",
+      "lado_util": 1265
+    },
+    {
+      "archivo": "7501314704187_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704187_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1371,
+      "fecha": "2026-09-29",
+      "lado_util": 1270
+    },
+    {
+      "archivo": "7501314704187_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704187_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1232,
+      "fecha": "2026-09-29",
+      "lado_util": 1141
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/senosiain-bebe-10-supositorios-caja-glicerol-1478-mg/",
+    "https://www.yza.mx/senosiain-supositorios-bebe-10-sups/MXYZ_7501314704187.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas y en el código de barras de la etiqueta trasera; fórmula, indicación, dosis, contraindicaciones y registro tomados de esa etiqueta.",
+    "notas_imagenes": "3 fotos de tienda: frente, etiqueta trasera con la fórmula y vista en ángulo. Se borró una repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

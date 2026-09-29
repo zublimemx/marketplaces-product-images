@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "DIMEFOR G 500 5MG C 60 TABS RECUB 120",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dimefor G Metformina Glibenclamida 500/5 mg 60 Tabletas",
+  "descripcion": "Descripción:\nDimefor-G es un medicamento de Siegfried Rhein que combina metformina (500 mg) y glibenclamida (5 mg) en tabletas recubiertas. Se utiliza para el tratamiento de la diabetes mellitus tipo 2: ayuda a controlar la cantidad de glucosa en la sangre, disminuyendo la glucosa que se absorbe de los alimentos y la que produce el hígado. La caja contiene 60 tabletas y es un medicamento de prescripción médica.\n\nCaracterísticas:\n- Dos principios activos antidiabéticos en una sola tableta: metformina y glibenclamida.\n- Concentración de 500 mg de metformina y 5 mg de glibenclamida por tableta.\n- Tabletas recubiertas de administración oral.\n- Caja con 60 tabletas.\n\nComposición:\nCada tableta recubierta contiene metformina 500 mg y glibenclamida 5 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y el horario de las tomas los determina el médico según el control de glucosa de cada paciente.\n\nPresentación:\nCaja con 60 tabletas recubiertas.\n\nAdvertencias:\nNo se automedique: el ajuste de la dosis y el seguimiento del nivel de glucosa deben hacerse bajo supervisión médica. Mantenga el medicamento en su empaque, protegido del calor y la humedad. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dimefor",
+    "fabricante": "Siegfried Rhein",
+    "linea": "G",
+    "presentacion": "Tabletas recubiertas, caja con 60",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Metformina, glibenclamida",
+    "concentracion": "500 mg/5 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antidiabético oral; Forma farmacéutica: tableta recubierta; Condición de venta: con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408358_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc4503330/images/large/7501300408358_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/dimefor-g-500-mg-5-mg---caja-con-60-tabletas-metformina-y-glibenclamida/MXYZ_7501300408358.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 882,
+      "fecha": "2026-09-29",
+      "lado_util": 816
+    },
+    {
+      "archivo": "7501300408358_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw0944db95/images/large/7501300408358_7.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/dimefor-g-500-mg-5-mg---caja-con-60-tabletas-metformina-y-glibenclamida/MXYZ_7501300408358.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 880,
+      "fecha": "2026-09-29",
+      "lado_util": 815
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/dimefor-g-500-mg-5-mg-60-tabletas",
+    "https://www.yza.mx/dimefor-g-500-mg-5-mg---caja-con-60-tabletas-metformina-y-glibenclamida/MXYZ_7501300408358.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia lo marca 'receta no obligatoria' por plantilla general; se asume con receta (antidiabético oral, metformina con glibenclamida). Sin posología ni contraindicaciones detalladas en las fuentes.",
+    "notas_imagenes": "2 fotos de tienda (Yza, 900 px aprox.): frente de la caja y caja de tres cuartos. Se descartó la vista lateral.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

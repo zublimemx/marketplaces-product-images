@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "HU ALL AROUND UNI E5 C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Huggies All Around Unisex Etapa 5 40 Piezas",
+  "descripcion": "Descripción:\nPañales Huggies All Around Unisex Etapa 5, paquete con 40 piezas. Son pañales autoajustables pensados para acompañar a los bebés más activos en cada movimiento: la tecnología All Around ofrece un ajuste perfecto y libertad de movimiento, mientras que su cubierta interna brinda máxima absorbencia para mantener la comodidad del bebé. La línea cuenta con pruebas dermatológicas certificadas por Dermatest. Su diseño unisex es apto para niño o niña, y la Etapa 5 corresponde a bebés de 11 a 14.5 kg según el empaque.\n\nCaracterísticas:\n- Pañal autoajustable con tecnología All Around para un ajuste perfecto.\n- Cubierta interna con máxima absorbencia en cada movimiento.\n- Probado dermatológicamente (Dermatest).\n- Diseño unisex.\n- Etapa 5, para bebés de 11 a 14.5 kg.\n- Paquete con 40 pañales.\n\nPresentación:\nPaquete con 40 pañales desechables Etapa 5.\n\nAdvertencias:\nVerifique que la etapa corresponda al peso del bebé. Deseche el pañal usado en la basura, no en el inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "All Around",
+    "variante": "Unisex",
+    "presentacion": "Paquete",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 5 (11 a 14.5 kg)",
+    "genero": "Unisex",
+    "otros": "Pañal autoajustable; Tecnología All Around; Probado dermatológicamente (Dermatest)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943488663_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943488663.jpg",
+      "pagina": "https://www.benavides.com.mx/huggies-all-around-panales-unisex-autoajustable-etapa-5-40-uds",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1534,
+      "fecha": "2026-09-29",
+      "lado_util": 1421
+    },
+    {
+      "archivo": "7501943488663_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9613c423/images/large/7501943488663_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/huggies-all-around-et-5-40-pzas/MXYZ_7501943488663.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 968,
+      "fecha": "2026-09-29",
+      "lado_util": 897
+    }
+  ],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-all-around/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-all-around/",
+    "https://www.benavides.com.mx/huggies-all-around-panales-unisex-autoajustable-etapa-5-40-uds",
+    "https://www.yza.mx/huggies-all-around-et-5-40-pzas/MXYZ_7501943488663.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia. El peso (11 a 14.5 kg) se tomó del empaque; una ficha de tienda mencionaba 46 piezas en una tabla, pero el empaque y las demás fuentes indican 40.",
+    "notas_imagenes": "2 fotos de tienda (frente del paquete): Farmacias del Ahorro 1,600 px y Farmacias YZA 1,000 px. Se descartaron una foto de 520 px y la del panel posterior.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

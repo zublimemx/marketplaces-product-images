@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES KOTEX UNIK SUPERPLUSC/12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Kotex Unika Súper Plus 12 Piezas",
+  "descripcion": "Descripción:\nLos tampones digitales Kotex Unika Súper Plus están diseñados para flujo súper abundante. Son tampones sin aplicador, con curvas anatómicas que se adaptan al cuerpo, lo que facilita su inserción y ofrece una protección cómoda durante los días de mayor flujo. Vienen en caja con 12 piezas.\n\nCaracterísticas:\n- Absorbencia Súper Plus, para flujo súper abundante.\n- Tampones digitales sin aplicador, con menos residuos plásticos.\n- Tecnología Blue Protection con fibras superabsorbentes.\n- Curvas anatómicas que se adaptan al cuerpo.\n- Cubierta suave que facilita una inserción fácil.\n- Cordón de retiro incluido en cada tampón.\n\nModo de uso:\nLávese las manos, retire el envoltorio, sostenga el tampón por la base e insértelo con el dedo, en la posición cómoda que prefiera, hasta que quede bien colocado. Para retirarlo, jale suavemente el cordón. Siga el instructivo ilustrado que viene dentro de la caja.\n\nPresentación:\nCaja con 12 tampones digitales, absorbencia Súper Plus.\n\nAdvertencias:\nCambie el tampón con la frecuencia que indica el instructivo y use la absorbencia mínima necesaria para su flujo. El uso prolongado de tampones se asocia con el síndrome de choque tóxico; si presenta fiebre alta, malestar o erupciones en la piel, retírelo y consulte a un médico de inmediato.",
+  "ficha": {
+    "marca": "Kotex",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Unika",
+    "variante": "Súper Plus",
+    "presentacion": "Caja con 12 tampones digitales",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "genero": "Mujer",
+    "otros": "Absorbencia: Súper Plus (flujo súper abundante); Sin aplicador; Tecnología Blue Protection"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425625574_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw8076ecc9/images/large/7506425625574_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kotex-unika-tampon-super-plus-12-pzas/MXYZ_7506425625574.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 989,
+      "fecha": "2026-09-29",
+      "lado_util": 914
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/tampones-kotex-unika-super-plus-flujo-super-abundante-12-pzas/00750642562557",
+    "https://www.farmatodo.com.mx/kotex-tampones-unika-super-plus-paquete-c-12-pz-v1/p",
+    "https://www.yza.mx/kotex-unika-tampon-super-plus-12-pzas/MXYZ_7506425625574.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema dice 'UNIK'; la marca comercial es 'Unika'. Instrucciones y advertencia de choque tóxico redactadas de forma general, tal como suelen ir en el instructivo de tampones.",
+    "notas_imagenes": "1 foto de tienda con el frente de la caja (989 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

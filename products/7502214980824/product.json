@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PRUDENCE 2 PACK PROMO EXTRATIME Y ZERO C3 OFERTADO 25%",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Prudence 2 Pack Extra Time y Zero 6 Piezas",
+  "descripcion": "Descripción:\nPaquete doble de condones Prudence que reúne dos de sus variedades más populares: una caja de Extra Time con 3 condones y una caja de Zero con 3 condones, para un total de 6 piezas. Todos son condones masculinos lubricados de hule látex natural, pensados para combinar protección con una experiencia más placentera.\n\nCaracterísticas:\n- Extra Time: condón lubricado con lubricante especial que ayuda temporalmente a retardar el clímax masculino y prolongar el placer.\n- Zero: condón lubricado de látex natural, el más delgado de Prudence, para máxima sensibilidad.\n- Hule látex natural, lubricados.\n- 2 cajas con 3 condones cada una.\n\nModo de uso:\nAbra el empaque individual con cuidado, sin usar dientes ni objetos filosos. Coloque el condón sobre el pene erecto antes de cualquier contacto, desenrollándolo hasta la base. Retírelo después de la eyaculación sosteniéndolo por la base, deséchelo en la basura y use uno nuevo en cada relación sexual.\n\nPresentación:\nPaquete con 2 cajas: Prudence Extra Time con 3 condones y Prudence Zero con 3 condones (6 piezas en total).\n\nAdvertencias:\nVerifique la fecha de caducidad antes de usarlo. No use lubricantes a base de aceite, ya que pueden dañar el látex. No reutilice el condón. Si es alérgico al látex, no lo utilice. Conserve en un lugar fresco y seco, lejos de la luz directa del sol.",
+  "ficha": {
+    "marca": "Prudence",
+    "fabricante": "DKT",
+    "linea": "Extra Time y Zero",
+    "variante": "Pack Extra Time + Zero",
+    "presentacion": "Paquete con 2 cajas de 3 condones",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 6,
+    "genero": "Hombre",
+    "otros": "Material: hule látex natural; Lubricados; Contenido: 3 Extra Time (retardante) y 3 Zero (ultra delgado)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214980824_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502214986598.jpg",
+      "pagina": "https://www.fahorro.com/prudence-zero-ultra-sentitivo-caja-con-3.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1121,
+      "fecha": "2026-09-29",
+      "lado_util": 1038
+    },
+    {
+      "archivo": "7502214980824_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502214982439_1_1.jpg",
+      "pagina": "https://www.fahorro.com/prudence-extra-time-con-3-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1576,
+      "fecha": "2026-09-29",
+      "lado_util": 1460
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://tienda.prudence.com.mx/products/2-pack-prudence-extra-time-c3-prudence-zero-c3",
+    "https://www.chedraui.com.mx/condones-prudence-retardante-ultra-sensitivo-extra-time--zero-2-pack-con-6-piezas-3845626/p",
+    "https://www.fahorro.com/prudence-zero-ultra-sentitivo-caja-con-3.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN del pack no apareció en las fichas; se identificó por nombre (2 pack Extra Time C3 + Zero C3). 'OFERTADO 25%' e indicaciones de promoción se ignoraron. Fabricante DKT tomado del material gráfico del producto.",
+    "notas_imagenes": "2 fotos de tienda con el frente de cada caja incluida en el pack: Extra Time (1576 px) y Zero (1121 px). Se descartaron fotos del pack con leyendas promocionales (Lleva uno gratis) y una caja de otra variedad.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

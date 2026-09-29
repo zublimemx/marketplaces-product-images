@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "MONUROL GRAN SOB 3G C1 JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Monurol Fosfomicina 3 g Granulado 1 Sobre",
+  "descripcion": "Descripción:\nMonurol es un antibiótico en granulado para solución oral cuyo principio activo es la fosfomicina (como fosfomicina trometamol). Se utiliza para tratar infecciones no complicadas de las vías urinarias bajas, como la cistitis bacteriana aguda y la uretritis, y en otras situaciones que indique el médico, como la profilaxis de infecciones urinarias en procedimientos quirúrgicos. La caja contiene un sobre monodosis de 3 g. Es un medicamento de prescripción médica.\n\nCaracterísticas:\n- Tratamiento de una sola dosis.\n- Sobre monodosis con granulado que se disuelve en agua.\n- Fabricado por Zambon, importado y distribuido en México por Laboratorios Concordia.\n\nComposición:\nCada sobre contiene fosfomicina trometamol equivalente a 3 g de fosfomicina.\n\nModo de uso:\nVía oral. Adultos: 1 sobre de 3 g una sola vez al día, de preferencia 2 o 3 horas antes o después de los alimentos. Disuelva el contenido del sobre en medio vaso de agua y tómelo de inmediato.\n\nPresentación:\nCaja con 1 sobre monodosis de 3 g.\n\nAdvertencias:\nEstá contraindicado en personas con hipersensibilidad a la fosfomicina o con insuficiencia renal grave. No debe usarse en infecciones complicadas, en pacientes diabéticos descompensados, inmunodeprimidos o con malformaciones urológicas. La toma de alimentos puede disminuir su absorción. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Monurol",
+    "fabricante": "Zambon (distribuido por Laboratorios Concordia)",
+    "presentacion": "Granulado para solución oral, caja con 1 sobre",
+    "contenido_neto": 3,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Fosfomicina trometamol",
+    "concentracion": "3 g de fosfomicina por sobre",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Antibiótico de dosis única; Condición de venta: con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501328977737_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw3dadea31/images/large/7501328977737_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/monurol-3g-1-sb/MXYZ_7501328977737.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/monurol.granulado/42/101/8728/81",
+    "https://www.yza.mx/monurol-3g-1-sb/MXYZ_7501328977737.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de la ficha PLM de Monurol 3 g granulado; la foto de tienda (GTIN en el nombre) muestra la caja con 1 sobre.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja Monurol 3 g (Yza, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

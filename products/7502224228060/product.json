@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "KITOSCELL 3 5GR GEL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Kitoscell Gel de Pirfenidona para Piel Tubo 3.5 g",
+  "descripcion": "Descripción:\nKitoscell es un gel de pirfenidona de aplicación tópica, formulado como auxiliar en el tratamiento de la cicatrización de lesiones de la piel. Se presenta en caja con un tubo de 3.5 g de gel, de fácil aplicación sobre la zona que se desea tratar.\n\nCaracterísticas:\n- Gel de pirfenidona de uso tópico.\n- Auxiliar en el tratamiento de la cicatrización de lesiones de la piel.\n- Presentación en tubo de 3.5 g, práctico y fácil de guardar.\n- Su uso está orientado a zonas con cicatrices o lesiones cutáneas bajo la indicación de un profesional de la salud.\n\nIngredientes:\nPirfenidona en gel. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona limpia y seca, en la cantidad y con la frecuencia que indique el médico tratante. Lávese las manos antes y después de aplicarlo.\n\nPresentación:\nCaja con un tubo con 3.5 g de gel.\n\nAdvertencias:\nPara uso externo. No se automedique. Consulte a su médico antes de usarlo en caso de embarazo o lactancia, o si tiene alguna alergia a los componentes. Suspenda su uso y consulte al médico si aparece irritación. Consérvese a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Kitoscell",
+    "fabricante": "Cell Pharma",
+    "presentacion": "Gel, tubo de 3.5 g",
+    "contenido_neto": 3.5,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Pirfenidona",
+    "via_administracion": "Tópica",
+    "otros": "Formato: gel; Uso: auxiliar en la cicatrización de lesiones de la piel"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502224228060_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502224228060.jpg",
+      "pagina": "https://www.fahorro.com/kitoscell-derma-alta-3-5-g-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1510,
+      "fecha": "2026-09-29",
+      "lado_util": 1399
+    },
+    {
+      "archivo": "7502224228060_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502224228060_2.jpg",
+      "pagina": "https://www.fahorro.com/kitoscell-derma-alta-3-5-g-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1512,
+      "fecha": "2026-09-29",
+      "lado_util": 1400
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/dermatologicos/7695-comprar-kitoscell-caja-con-tubo-con-35-g-gel-lesiones-de-la-piel-precio-7502224228060.html",
+    "https://sanorim.mx/products/kitoscell-pirfenidona-caja-con-tubo-de-3-5-gramos-de-gel"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 3.5 g confirmados. No se encontró el porcentaje de pirfenidona. Una tienda lo lista como libre venta y otra atribuye la elaboración a Grupo Medifarma; se mantuvo Cell Pharma como marca/laboratorio.",
+    "notas_imagenes": "2 fotos de tienda con el frente de la caja: frontal (1510 px) y 3/4 (1512 px). Se descartó el panel posterior con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

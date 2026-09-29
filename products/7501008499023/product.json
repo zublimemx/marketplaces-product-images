@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "REDOXON A0X C10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Redoxon AOX Vitamina C, D y Zinc 10 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nRedoxon AOX Sin Azúcar es un suplemento vitamínico efervescente de Bayer que combina vitamina C, vitamina D y zinc. Según su empaque, contribuye a la función del sistema inmune en la prevención y el tratamiento de la gripe y el resfriado común. Se disuelve en agua para tomarse como bebida, con sabor naranja.\n\nBeneficios:\n- Combina vitamina C, vitamina D y zinc en una sola tableta\n- Fórmula sin azúcar\n- Efervescente: se disuelve en agua\n- Sabor naranja\n- 1 tableta al día\n- Apto para adultos y niños mayores de 12 años\n\nComposición:\nCada tableta efervescente contiene ácido ascórbico (vitamina C) 1000 mg, colecalciferol (vitamina D) 400 UI y zinc 10 mg.\n\nModo de uso:\nDisuelva 1 tableta efervescente en un vaso con agua y tómela una vez al día.\n\nPresentación:\nCaja con 1 tubo con 10 tabletas efervescentes sabor naranja.\n\nAdvertencias:\nNo exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Redoxon",
+    "fabricante": "Bayer",
+    "linea": "AOX",
+    "variante": "Sin azúcar",
+    "presentacion": "Tubo con 10 tabletas efervescentes",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ácido ascórbico, colecalciferol y zinc",
+    "concentracion": "Vitamina C 1000 mg; vitamina D 400 UI; zinc 10 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "sabor_aroma": "Naranja",
+    "registro_sanitario": "007V2018 SSA",
+    "otros": "Sin azúcar; Efervescente; Dosis: 1 tableta al día"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499023_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7797369e/images/large/7501008499023_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/redoxon-aox-efervescente-10-tabs/MXYZ_7501008499023.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    },
+    {
+      "archivo": "7501008499023_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501008499023.jpg",
+      "pagina": "https://www.claroshop.com/producto/1437900/redoxon-aox-10-tabletas-efervescentes",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1072,
+      "fecha": "2026-09-29",
+      "lado_util": 994
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/farmalisto/159880-redoxon-aox-1000-10mg-10tab-eferv-7501008499023.html",
+    "https://www.fahorro.com/redoxon-aox-10-tabletas-efervescentes.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'A0X' del sistema es AOX. Composición leída en la foto del empaque actual. Otra tienda lo clasificaba como antigripal; se trata como suplemento vitamínico. Sitio de Bayer no accesible.",
+    "notas_imagenes": "2 fotos de tienda (975 y 1072 px): la primera es el empaque actual sabor naranja con la composición legible; la segunda es el diseño anterior del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

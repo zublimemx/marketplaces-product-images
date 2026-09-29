@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "LYSOMUCIL T 20 600MG EFER SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lysomucil Acetilcisteína 600 mg 20 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nLysomucil es un mucolítico con acetilcisteína en tabletas efervescentes de 600 mg. Está indicado cuando hay aumento en la secreción de moco y flemas con dificultad para expectorar, en procesos como bronquitis aguda y crónica, sinusitis, rinofaringitis y laringotraqueítis, entre otros. La acetilcisteína disminuye la viscosidad del moco y ayuda a que se expulse con mayor facilidad. Es un producto elaborado en Suiza por Zambon e importado y distribuido en México por Laboratorios Concordia.\n\nFórmula:\nCada tableta efervescente contiene acetilcisteína 600 mg. Excipiente cbp 1 tableta. Contiene aspartamo.\n\nModo de uso:\n- Vía oral. Disuelva la tableta en agua antes de tomarla.\n- Adultos y adolescentes a partir de 14 años: 1 tableta al día, después de los alimentos.\n- No lo use por más de 5 días sin consultar a su médico.\n\nPresentación:\nCaja con 20 tabletas efervescentes de 600 mg.\n\nAdvertencias:\n- No se administre a menores de 14 años ni durante el embarazo y la lactancia.\n- No lo use si es sensible a la acetilcisteína o a los componentes de la fórmula, ni si tiene úlcera gastroduodenal.\n- Atención fenilcetonúricos: contiene fenilalanina (aspartamo).\n- No tome antitusivos ni medicamentos con nitroglicerina al mismo tiempo. Si usa antibióticos, tómelos con un intervalo de 2 horas.\n- Posibles reacciones: náusea, vómito, diarrea, urticaria y dermatitis.\n- Consérvese a no más de 30 °C con la caja bien cerrada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lysomucil",
+    "fabricante": "Zambon (distribuye Laboratorios Concordia)",
+    "linea": "Efervescente",
+    "presentacion": "Tabletas efervescentes",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Acetilcisteína",
+    "concentracion": "600 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y adolescentes desde 14 años",
+    "registro_sanitario": "506M99 SSA VI",
+    "otros": "Grupo: mucolítico; Contiene aspartamo; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502209710108_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502209710108_1.jpg",
+      "pagina": "https://www.fahorro.com/lysomucil-600-mg-oral-20-tabs-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1426,
+      "fecha": "2026-09-29",
+      "lado_util": 1321
+    },
+    {
+      "archivo": "7502209710108_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502209710108_2.jpg",
+      "pagina": "https://www.fahorro.com/lysomucil-600-mg-oral-20-tabs-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1432,
+      "fecha": "2026-09-29",
+      "lado_util": 1326
+    },
+    {
+      "archivo": "7502209710108_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502209710108_3.jpg",
+      "pagina": "https://www.fahorro.com/lysomucil-600-mg-oral-20-tabs-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1422,
+      "fecha": "2026-09-29",
+      "lado_util": 1317
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/lysomucil-600-mg-oral-20-tabs-efervescentes.html",
+    "https://www.medicamentosplm.com/home/productos/lysomucil_tabletas_efervescentes/42/101/36846/218",
+    "https://www.yza.mx/lysomucil-efervescente-600mg-20-caps/MXYZ_7502209710108.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el código de barras de la parte posterior de la caja y como SKU de la ficha de tienda. Dosis y advertencias tomadas de la etiqueta de la caja. La información para prescribir de PLM dice 'Su venta requiere receta médica', pero la caja no lo trae y tiene registro SSA VI (venta libre), y las tiendas la venden sin receta; por eso 'No'. Se agregó como respiratorio de venta libre.",
+    "notas_imagenes": "3 fotos de tienda del servidor de imágenes de Farmacias del Ahorro (frente, parte posterior con la fórmula y parte posterior con el código de barras, más de 1400 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

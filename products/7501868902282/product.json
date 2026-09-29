@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "VENDA DIBAR 5CM C 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Venda Elástica Dibar 5 cm x 5 m Paquete con 24 Piezas",
+  "descripcion": "Descripción:\nPaquete con 24 vendas elásticas Dibar de 5 cm de ancho, para vendaje de sujeción y soporte en uso doméstico, deportivo y de consultorio. Son vendas de tejido elástico de fácil aplicación, que se ajustan al contorno de la zona vendada y se pueden extender hasta alcanzar su longitud útil.\n\nCaracterísticas:\n- Ancho: 5 cm; longitud aproximada de 5 m estirada.\n- Tejido elástico que se adapta a muñecas, tobillos, rodillas, codos y otras zonas.\n- Sirve para sujetar apósitos y gasas y brindar soporte moderado.\n- Presentación en paquete de 24 piezas, práctica para consultorios, botiquines y uso frecuente.\n\nModo de uso:\nInicie el vendaje en la parte más delgada de la extremidad y avance hacia la más gruesa, cubriendo la mitad de la vuelta anterior con cada nueva vuelta y estirando la venda de manera uniforme sin apretar en exceso. Fije el extremo final con el broche o cinta adhesiva.\n\nPresentación:\nPaquete con 24 vendas elásticas de 5 cm de ancho.\n\nAdvertencias:\n- Uso externo. No apriete en exceso: retire o afloje la venda si aparece hormigueo, adormecimiento, cambio de color o dolor.\n- No se aplique sobre heridas abiertas sin cubrirlas con un apósito.\n- Ante una lesión, consulte a su médico.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Paquete con 24 piezas",
+    "contenido_neto": 24,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 24,
+    "otros": "Ancho: 5 cm; Largo: 5 m (estirada); Material elástico; Formato de venta: Paquete con 24 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +28,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://umdmx.com.mx/catalogo/venda-elastica-5-cm-colores-c-24-dibar/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "La búsqueda con el GTIN no lo confirmó; se identificó por el nombre (vendas elásticas Dibar de 5 cm en paquete de 24, presentación que ofrecen varios distribuidores). No se halló el fabricante ni la ficha con este GTIN; largo y material tomados de fichas de vendas Dibar similares. El modo de uso es el estándar de una venda elástica.",
+    "notas_imagenes": "Sin fotos: la única foto abierta era de vendas deportivas de colores con otro código de barras y una marca de agua tenue de la tienda; se borró.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

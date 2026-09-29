@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "DUALGOS 325 200MG C20 TABS PARACET IBUPROFENO LIFERPAL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dualgos Paracetamol 325 mg Ibuprofeno 200 mg 20 Tabletas",
+  "descripcion": "Descripción:\nDualgos es un analgésico y antipirético que combina paracetamol e ibuprofeno en cada tableta. Está indicado para el alivio del dolor de intensidad leve a moderada, como el dolor de cabeza, de espalda, muscular, de garganta, de dientes y el cólico menstrual, y ayuda a bajar la fiebre. Se presenta en caja con 20 tabletas.\n\nBeneficios:\n- Doble acción: analgésico (paracetamol) y antiinflamatorio (ibuprofeno)\n- Alivia el dolor de cabeza, espalda, muscular, garganta, dientes y cólico menstrual\n- Ayuda a bajar la fiebre\n- Caja con 20 tabletas\n\nComposición:\nCada tableta contiene: paracetamol 325 mg e ibuprofeno 200 mg.\n\nPresentación:\nCaja con 20 tabletas para administración oral.\n\nAdvertencias:\nAdministre con precaución si tiene antecedentes de enfermedades gastrointestinales, hepáticas o renales, o si consume alcohol en exceso. No lo use si es alérgico al paracetamol, al ibuprofeno o a otros antiinflamatorios, ni en caso de úlcera péptica activa, trastornos de la coagulación o insuficiencia hepática o renal grave. No exceda la dosis indicada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dualgos",
+    "fabricante": "Liferpal",
+    "presentacion": "Caja",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol, ibuprofeno",
+    "concentracion": "325 mg / 200 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Tipo: medicamento genérico intercambiable"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501836009661_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://club.presalud.com/web/image/product.product/43087/image_1920?unique=da85024",
+      "pagina": "https://club.presalud.com/shop/7501836009661-dualgos-paracetamolibuprofeno-325200-mg-20-tabletas-generico-liferpal-md-43077",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 705,
+      "fecha": "2026-09-29",
+      "lado_util": 653
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/ibuprofeno-paracet-c-20-tabs-liferpal/p",
+    "https://wecarepharma.mx/en/products/dualgos-325mg-200mg-con-20-tabletas-paracetamol-ibuprofeno",
+    "https://club.presalud.com/shop/7501836009661-dualgos-paracetamolibuprofeno-325200-mg-20-tabletas-generico-liferpal-md-43077"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró la dosis oficial ni el registro sanitario en las fichas; se omitieron.",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

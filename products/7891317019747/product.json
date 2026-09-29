@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "NENE DENT 10 G AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Nene-Dent Gel Pediátrico Lidocaína Polidocanol 10 g",
+  "descripcion": "Descripción:\nNene-Dent es un gel pediátrico de Eurofarma que combina lidocaína y polidocanol, ambos con efecto anestésico local. Está indicado como auxiliar en las molestias que aparecen durante la erupción de los primeros dientes del bebé. Se presenta en tubo de 10 g.\n\nBeneficios:\n- Auxiliar en las molestias de la erupción dental del bebé.\n- Fórmula pediátrica con lidocaína y polidocanol.\n- Presentación en gel de aplicación local sobre la encía.\n- Tubo de 10 g fácil de dosificar.\n\nFórmula:\nCada gramo de gel contiene lidocaína 3.4 mg y polidocanol 3.2 mg.\n\nModo de uso:\nUso bucal tópico. Con el dedo limpio, aplique una pequeña cantidad de gel sobre la encía donde va a salir el diente, con la frecuencia que indique el pediatra o el instructivo del empaque. No exceda la dosis recomendada.\n\nPresentación:\nCaja con un tubo de gel de 10 g.\n\nAdvertencias:\nSolo para uso bucal tópico en la encía. No lo use si el bebé es alérgico a la lidocaína, al polidocanol o a algún componente de la fórmula. Suspenda su uso y consulte al pediatra si aparece irritación, si el malestar persiste o si observa cualquier reacción inusual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nene-Dent",
+    "fabricante": "Eurofarma",
+    "linea": "Pediátrico",
+    "presentacion": "Gel, tubo de 10 g",
+    "contenido_neto": 10,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Lidocaína, Polidocanol",
+    "concentracion": "3.4 mg / 3.2 mg por gramo",
+    "via_administracion": "Bucal tópico",
+    "edad_etapa": "Bebés (erupción dental)",
+    "otros": "Formato: gel; Uso: auxiliar en las molestias de la erupción dental"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM47286405"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317019747_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/planogram__1__50c969f4-974d-454d-804d-f5d5db8c5e12.jpg?v=1734653407&width=2401",
+      "pagina": "https://farmaciasanjorge.com/products/6288",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    },
+    {
+      "archivo": "7891317019747_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/product_image__1__bc390116-47d2-4de3-8d2d-8ac06dcda6f8.jpg?v=1734653407&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/6288",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1237,
+      "fecha": "2026-09-29",
+      "lado_util": 1146
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/nene-dent-gel-pediatrico-3-4-3-2-1-mg-mg-mg-gr-tubo-c-10-gr/p",
+    "https://farmaciasanjorge.com/products/6288",
+    "https://www.heb.com.mx/eurofarma-nene-dent-10-g-gel-lidocaina-polidocanol-1-pz-968301/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 10 g confirmados; concentración leída del empaque. Catálogo ML por coincidencia de título (gel 0,34 g/0,32 g, tubo 10 g). No se encontró instructivo detallado; la dosificación se remite al pediatra. Categoría de analgésicos por ser anestésico local.",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja (2000 px) y caja en 3/4 (1237 px). Se descartó una imagen con banner promocional. Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

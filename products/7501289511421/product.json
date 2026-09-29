@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PASTA LASSAR 30GR TARRO ANDROMACO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Lassar Andrómaco Óxido de Zinc 25% Tarro 30 g",
+  "descripcion": "Descripción:\nPasta Lassar Andrómaco es una pomada dermatológica de uso tópico con óxido de zinc al 25%, elaborada por Industria Farmacéutica Andrómaco. Forma una capa protectora sobre la piel irritada y ayuda a aliviar el ardor y la comezón en irritaciones leves. Se presenta en tarro de 30 g.\n\nBeneficios:\n- Alivio del ardor y la comezón en irritaciones leves de la piel\n- Indicada en quemaduras superficiales, heridas leves, piquetes de insectos y rozaduras\n- Forma una capa protectora sobre la piel\n\nFórmula:\nÓxido de zinc 25% (25 g por cada 100 g de producto).\n\nPresentación:\nTarro con 30 g de pasta.\n\nAdvertencias:\n- Uso externo.\n- Mantenga el envase bien cerrado, a no más de 30 °C, en un lugar seco y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Andrómaco",
+    "fabricante": "Industria Farmacéutica Andrómaco, S.A. de C.V.",
+    "variante": "Pasta Lassar con óxido de zinc 25%",
+    "presentacion": "Tarro de 30 g",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc",
+    "concentracion": "25%",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: pasta (pomada); Uso externo; Venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501289511421_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/6996048/7501289511421_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/andromaco-pasta-lassar-tarro-c-30-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    },
+    {
+      "archivo": "7501289511421_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501289511421_1.jpg",
+      "pagina": "https://www.fahorro.com/pasta-lassar-andromaco-cutaneo-30-g-tarro.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1639,
+      "fecha": "2026-09-29",
+      "lado_util": 1518
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/andromaco-pasta-lassar-tarro-c-30-gr/p",
+    "https://www.yza.mx/pasta-de-lassar-tarro-de-30-g-de-andromaco-/MXYZ_7501289511421.html",
+    "https://www.fahorro.com/pasta-lassar-andromaco-cutaneo-30-g-tarro.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado. La etiqueta del empaque y otra ficha dicen óxido de zinc 25%; una ficha de farmacia dice 35%. No se encontró modo de uso detallado ni registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda: el tarro (Farmatodo, 1000 px) y la etiqueta frontal (Farmacias del Ahorro, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

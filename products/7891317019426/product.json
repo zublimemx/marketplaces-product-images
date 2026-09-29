@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "INCRESINA DUO 12.5 850MG C56 TABS ALOGLIPTINA/ METFORMINA EUROFARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Incresina Duo 12.5 mg/850 mg 56 Tabletas",
+  "descripcion": "Descripción:\nIncresina Duo combina en una sola tableta alogliptina (12.5 mg), un inhibidor selectivo de la DPP-4, y clorhidrato de metformina (850 mg), de la clase de las biguanidas. Son dos antihiperglucemiantes con mecanismos de acción complementarios, de Eurofarma.\n\nBeneficios:\n- Indicado como tratamiento complementario a la dieta y el ejercicio para mejorar el control glucémico en adultos con diabetes mellitus tipo 2\n- Puede usarse en pacientes que no han logrado el control con la monoterapia\n\nFórmula:\nCada tableta contiene: benzoato de alogliptina equivalente a 12.5 mg de alogliptina y clorhidrato de metformina 850 mg.\n\nModo de uso:\nVía oral. Debe tomarse dos veces al día con alimentos. El médico individualiza la dosis según el tratamiento del paciente y la escala de forma gradual para reducir los efectos gastrointestinales de la metformina. No parta las tabletas antes de ingerirlas. La dosis diaria máxima recomendada es de 25 mg de alogliptina y 2000 mg de metformina.\n\nPresentación:\nCaja con 56 tabletas de 12.5 mg/850 mg.\n\nAdvertencias:\n- Su venta requiere receta médica. Prohibida la venta fraccionada.\n- Contraindicado en acidosis metabólica aguda o crónica (incluida la cetoacidosis diabética), diabetes tipo 1, disfunción renal e hipersensibilidad grave a alguno de sus componentes.\n- La metformina puede causar acidosis láctica, una complicación rara pero grave.\n- No se use en el embarazo, lactancia ni en menores de 18 años.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Incresina",
+    "fabricante": "Eurofarma",
+    "linea": "Duo",
+    "variante": "12.5 mg/850 mg",
+    "presentacion": "Caja con 56 tabletas",
+    "contenido_neto": 56,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 56,
+    "principio_activo": "Alogliptina; Clorhidrato de metformina",
+    "concentracion": "12.5 mg/850 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "269M2014 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Venta con receta médica; No partir las tabletas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317019426_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317019426.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    },
+    {
+      "archivo": "7891317019426_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317019426_4.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1605,
+      "fecha": "2026-09-29",
+      "lado_util": 1487
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/incresina-duo-125-850-mg-caja-c-56-tabletas-v1/p",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/161665-incresina-duo-125850-mg-56-tabletas-alogliptinametformina-eurofarma-7891317019426.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con el empaque de Eurofarma (Brasil); el texto legal de la ficha de farmacia nombra a Takeda México como titular del registro 269M2014, que también aparece en el reverso del empaque.",
+    "notas_imagenes": "2 fotos de Farmacias del Ahorro (1600 px): frente y reverso con fórmula. La ficha de esa tienda no se pudo abrir; las imágenes salen de su CDN por GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

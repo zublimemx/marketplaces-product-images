@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "DESMAQ PADS PROTEC C/GLIC 100 PZS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pads Desmaquillantes Protec con Glicerina 100 Piezas",
+  "descripcion": "Descripción:\nPads faciales Protec redondos, elaborados de 100% algodón e hipoalergénicos, con glicerina. Son almohadillas suaves y absorbentes pensadas para retirar el maquillaje y limpiar el rostro. Vienen en bolsa con 100 piezas, lo que rinde para el uso diario.\n\nCaracterísticas:\n- Material: 100% algodón.\n- Forma: redondos.\n- Con glicerina.\n- Hipoalergénicos.\n- Contenido: 100 piezas por bolsa.\n- Suaves con la piel del rostro.\n\nModo de uso:\nHumedezca un pad con el desmaquillante, tónico o producto de limpieza facial de su preferencia y páselo suavemente sobre el rostro y el cuello. Utilice un pad limpio para cada aplicación.\n\nPresentación:\nBolsa con 100 pads redondos.\n\nAdvertencias:\n- Producto de uso externo y desechable.\n- Suspenda su uso si presenta irritación.\n- Mantenga la bolsa cerrada y en un lugar limpio y seco.",
+  "ficha": {
+    "marca": "Protec",
+    "linea": "Health & Beauty",
+    "variante": "Redondos con glicerina",
+    "presentacion": "Bolsa con 100 pads",
+    "contenido_neto": 100,
+    "unidad_contenido": "pads",
+    "unidades_por_envase": 100,
+    "otros": "Material: 100% algodón; Forma: Redondos; Con glicerina; Hipoalergénicos; Formato de venta: Bolsa"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM179203",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Limpieza Facial > Desmaquillantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501048623006_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501048623006.jpg",
+      "pagina": "https://www.chedraui.com.mx/pads-desmaquillantes-protec-redondos-100-pads-3059800/p",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1483,
+      "fecha": "2026-09-29",
+      "lado_util": 1374
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/pads-desmaquillantes-protec-redondos-100-pads-3059800/p",
+    "https://www.klyns.mx/pads-faciales-con-glicerina-protec-100-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La foto de empaque, con nombre de archivo igual al GTIN en el servidor de imágenes de una farmacia, confirma 'Pads Faciales con Glicerina, 100% algodón, Redondos, 100 piezas'. Los textos salen de fichas de Chedraui (algodón hipoalergénico) y del empaque. No se abrió la ficha con el número de artículo equivalente al GTIN por bloqueo. El catálogo de Mercado Libre que apareció (MLM26072080) es de 60 piezas y no corresponde.",
+    "notas_imagenes": "1 foto de tienda (bolsa de 100 pads redondos con glicerina, 1483 px) del servidor de imágenes de Farmacias del Ahorro, cuyo archivo lleva el GTIN; el empaque muestra una etiqueta pequeña de lote en la parte inferior. Las páginas de Chedraui y Klyns no exponen fotos.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

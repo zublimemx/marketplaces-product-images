@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "AVAMYS 2A 120DIS SPY",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Avamys 2A Furoato de Fluticasona 27.5 mcg 120 Dosis",
+  "descripcion": "Descripción:\nAvamys 2A es una suspensión para aplicación nasal con furoato de fluticasona (27.5 µg por dosis), un corticosteroide de uso nasal de GlaxoSmithKline que se utiliza para tratar los síntomas de la rinitis alérgica estacional y perenne. Se presenta en frasco con atomizador con 120 disparos (dosis).\n\nCaracterísticas:\n- Furoato de fluticasona micronizado en suspensión de uso nasal\n- Concentración de 27.5 µg por dosis (27.5 µg / 50 µl)\n- Frasco con atomizador con 120 disparos\n- Indicado en adultos, adolescentes y niños mayores de 6 años según la ficha de la farmacia; la etiqueta indica no usarlo en menores de 2 años\n\nFórmula:\nCada g contiene furoato de fluticasona (micronizado) 0.5 mg; vehículo cbp 1 g.\n\nModo de uso:\nVía nasal, para inhalación. Agítese antes de usarse. No ingerible. La dosis es la que el médico señale. Léase el instructivo anexo.\n\nPresentación:\nCaja con un frasco atomizador con 120 disparos.\n\nAdvertencias:\nSu venta requiere receta médica. El empleo de este medicamento durante el embarazo y la lactancia queda bajo la responsabilidad del médico. No se use en menores de 2 años. Evite el contacto con los ojos. Conservar a no más de 30 °C y mantener el frasco bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Avamys",
+    "fabricante": "GlaxoSmithKline México",
+    "linea": "2A",
+    "presentacion": "Frasco atomizador con 120 disparos",
+    "contenido_neto": 120,
+    "unidad_contenido": "dosis",
+    "unidades_por_envase": 1,
+    "principio_activo": "Furoato de fluticasona",
+    "concentracion": "27.5 µg por dosis",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Adultos, adolescentes y niños mayores de 6 años (según ficha de farmacia)",
+    "otros": "Forma farmacéutica: suspensión para atomizador nasal; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5033439034211_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw06e8100c/images/large/5033439034211_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/avamys-2a-suspensio-27.5mcg50-120-dosis/MXYZ_5033439034211.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1028,
+      "fecha": "2026-09-29",
+      "lado_util": 952
+    },
+    {
+      "archivo": "5033439034211_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20240612_1007075.jpg",
+      "pagina": "https://www.benavides.com.mx/avamys-2a-275-mcg50-mcl-furoato-de-fluticasona-120-dosis",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 415
+    },
+    {
+      "archivo": "5033439034211_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/5/0/5033439034211_1.jpg",
+      "pagina": "https://www.fahorro.com/avamys-2a-suspension-nasal-120-dosis.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1380,
+      "fecha": "2026-09-29",
+      "lado_util": 1278
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/avamys-2a-275-mcg50-mcl-furoato-de-fluticasona-120-dosis",
+    "https://www.fahorro.com/avamys-2a-suspension-nasal-120-dosis.html",
+    "https://www.yza.mx/avamys-2a-suspensio-27.5mcg50-120-dosis/MXYZ_5033439034211.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, vía de administración y advertencias leídas en la foto del reverso de la caja ('Su venta requiere receta médica'). Otra tienda menciona 50 ml por frasco; no lo incluí por no estar confirmado en la caja. Registro sanitario no visto.",
+    "notas_imagenes": "3 fotos de tienda: frente de la caja (1028 px), frasco atomizador (561 px) y reverso de la caja con la fórmula (1380 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

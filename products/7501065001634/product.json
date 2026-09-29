@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "CALTRATE 600 D C60 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Caltrate 600+D Calcio y Vitamina D 60 Tabletas",
+  "descripcion": "Descripción:\nCaltrate 600+D es un suplemento de calcio con vitamina D en tabletas. Cada tableta combina carbonato de calcio y colecalciferol (vitamina D3) en una presentación de 600 mg / 400 UI. En el empaque se lee: \"El calcio para huesos sanos y fuertes\" y \"Ayuda a prevenir la osteoporosis\". Se presenta en frasco con 60 tabletas.\n\nBeneficios:\n- Aporta calcio y vitamina D en una sola tableta.\n- Está indicado en requerimientos aumentados de calcio y vitamina D en niños, adolescentes, embarazo y lactancia.\n- Puede formar parte del tratamiento de la menopausia y el climaterio.\n- Es un coadyuvante en la prevención y el tratamiento de la osteopenia y la osteoporosis.\n\nComposición:\nCarbonato de calcio (600 mg de calcio) y colecalciferol (vitamina D3) 400 UI por tableta.\n\nModo de uso:\n- Niños mayores de 8 años: 1 tableta al día con los alimentos.\n- Adolescentes y adultos: 1 tableta dos veces al día junto con los alimentos.\n\nPresentación:\nFrasco con 60 tabletas.\n\nAdvertencias:\n- No exceda la dosis recomendada.\n- Si está embarazada, en periodo de lactancia o bajo tratamiento médico, consulte a su médico antes de usarlo.\n- Mantenga el frasco bien cerrado y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Caltrate",
+    "fabricante": "Haleon",
+    "linea": "600+D",
+    "presentacion": "Tabletas en frasco",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Carbonato de calcio, colecalciferol (vitamina D3)",
+    "concentracion": "600 mg de calcio / 400 UI de vitamina D",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños mayores de 8 años, adolescentes y adultos",
+    "otros": "Suplemento de calcio con vitamina D; Formato de venta: Frasco con 60 tabletas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065001634_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw8f85aadb/images/large/7501065001634_1.jpg",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501065001634.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1524,
+      "fecha": "2026-09-29",
+      "lado_util": 1413
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/caltrate-suplemento-de-calcio-600-d-600-mg-400-ui-60-tabletas.html",
+    "https://www.yza.mx/x/MXYZ_7501065001634.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda (Caltrate 600+D 600 mg/400 UI, 60 tabletas). El fabricante Haleon se toma de la marca actual de Caltrate en México; no aparece en las fichas abiertas. La cantidad de calcio se interpreta como 600 mg de calcio elemental (carbonato de calcio), según la denominación 600 mg/400 UI.",
+    "notas_imagenes": "1 foto de tienda (frente del empaque de 60 tabletas, 1524 px, servidor de imágenes de Yza). Se borró la foto de Farmacias del Ahorro por traer un letrero gráfico superpuesto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD LADYSS FLORAL FRESH GEL 65GN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Lady Speed Stick 24/7 Gel Floral Fresh 65 g",
+  "descripcion": "Descripción:\nLady Speed Stick 24/7 Gel Floral Fresh es un desodorante antitranspirante en gel para mujer, de 65 g. Su fórmula en gel se desliza con suavidad, se seca rápido y ayuda a mantener las axilas frescas y protegidas durante el día con una fragancia floral suave.\n\nBeneficios:\n- Protección antitranspirante de larga duración, de hasta 48 horas según el empaque.\n- Fórmula en gel de aplicación suave y sensación de piel seca.\n- Fragancia Floral Fresh, floral y fresca.\n- Envase de 65 g fácil de aplicar y de llevar en el bolso.\n\nModo de uso:\nGire la base para levantar el gel y aplíquelo sobre las axilas limpias y secas. Deje secar unos segundos antes de vestirse y cierre bien el envase después de cada uso.\n\nPresentación:\nBarra de gel de 65 g. Fragancia Floral Fresh.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos. No lo aplique sobre piel irritada o lastimada; suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Lady Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "24/7",
+    "variante": "Floral Fresh",
+    "presentacion": "Barra de gel",
+    "contenido_neto": 65,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "sabor_aroma": "Floral Fresh",
+    "otros": "Formato: gel antitranspirante; Duración indicada en el empaque: 48 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546029153_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546029153-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/desodorante-lady-sped-dble-defse-floral-fresh-gel-65g",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1933,
+      "fecha": "2026-09-29",
+      "lado_util": 1790
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/desodorante-lady-sped-dble-defse-floral-fresh-gel-65g",
+    "https://www.tudrogueriavirtual.com/desodorante-lady-speed-stick-gel-floral-fresh-frasco-x-65-ml-7509546029153/p",
+    "https://www.megasuper.com/p/desodorante-en-gel-lady-speed-stick-floral-fresh-65g-7509546029153"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'LADYSS' del sistema se interpretó como Lady Speed Stick; GTIN confirmado en fichas de tienda. No se abrió la página del fabricante.",
+    "notas_imagenes": "1 foto de tienda con el frente del envase (1933 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

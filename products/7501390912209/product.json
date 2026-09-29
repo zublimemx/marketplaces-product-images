@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "UROCLASIO NF JBE150 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Uroclasio NF Solución Citrato de Potasio 150 ml",
+  "descripcion": "Descripción:\nUroclasio NF es una solución oral a base de citrato de potasio y ácido cítrico que actúa como alcalinizante urinario. Se presenta en frasco de 150 mL con dosificador.\n\nBeneficios:\n- Indicado en nefrolitiasis cálcica hipocitratúrica\n- Indicado en litiasis por ácido úrico, con o sin nefrolitiasis cálcica\n- Profiláctico para evitar la recurrencia en la formación de cálculos urinarios en pacientes ya tratados\n- Alcalinizante urinario\n\nFórmula:\nCada 100 mL contienen: citrato de potasio monohidratado 30.0 g; ácido cítrico anhidro equivalente a 5.0 g de ácido cítrico monohidratado; vehículo cbp 100 mL.\n\nModo de uso:\nVía oral. Cada 5 mL de solución deben disolverse en un vaso de agua (200 mL). Administrar de 5 a 10 mL, tres veces al día, junto con los alimentos y de preferencia después de las comidas. No debe rebasarse la dosis de 36 mL al día. El médico puede ajustar la dosis según el pH urinario.\n\nPresentación:\nFrasco con 150 mL de solución.\n\nAdvertencias:\n- Su venta requiere receta médica. Debe administrarse bajo estricta supervisión médica.\n- Contraindicado en insuficiencia renal severa, dietas restringidas en sodio, enfermedad de Addison sin tratamiento, deshidratación aguda, hipercalemia, infección urinaria activa y otras condiciones señaladas en el instructivo.\n- Disuelva bien en agua para minimizar el riesgo de daño gastrointestinal.\n- No se utilice durante el embarazo o la lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Uroclasio",
+    "fabricante": "Italmex",
+    "linea": "NF",
+    "variante": "Solución",
+    "presentacion": "Frasco con 150 mL",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Citrato de potasio; Ácido cítrico",
+    "concentracion": "Citrato de potasio 30 g y ácido cítrico 5 g por cada 100 mL",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: solución; Venta con receta médica; Incluye dosificador"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390912209_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7002501/7501390912209_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/uroclasio-nf-solucion-30-5-g-frasco-c-150-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    },
+    {
+      "archivo": "7501390912209_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390912209.jpg",
+      "pagina": "https://www.fahorro.com/uroclasio-nf-solucion-150-ml.html",
+      "ancho_original": 1300,
+      "alto_original": 1300,
+      "lado_final": 1263,
+      "fecha": "2026-09-29",
+      "lado_util": 1169
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/uroclasio-nf-solucion-30-5-g-frasco-c-150-ml/p",
+    "https://farmalisto.com.mx/nefrologia-y-urologia/6521-comprar-uroclasio-nf-caja-con-frasco-con-150-ml-calculos-renales-precio-7501390912209.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado; presentación solución de 150 mL. 'Italmex' viene de la ficha de una farmacia y del empaque; no se vio el registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda: frente (Farmatodo, 1000 px) y vista 3/4 (Farmacias del Ahorro, 1300 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

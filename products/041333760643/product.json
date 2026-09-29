@@ -4,29 +4,66 @@
   "linea": "Mark",
   "nombre_sistema": "DURACELL AA BLISTER TIRA PILA 5 PZS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pilas Alcalinas Duracell AA Blíster con 5 Piezas",
+  "descripcion": "Descripción:\nPilas alcalinas Duracell tamaño AA en blíster con 5 piezas. Son baterías no recargables de 1.5 V para uso diario en dispositivos electrónicos del hogar, y el empaque destaca que duran hasta 10 veces más.\n\nCaracterísticas:\n- Tecnología alcalina de larga duración.\n- Tamaño AA (LR6), el más común en aparatos domésticos.\n- Voltaje nominal de 1.5 V.\n- Blíster con 5 pilas, presentación tipo paquete promocional del fabricante.\n- Aptas para controles remoto, juguetes, linternas, relojes de pared, radios, teclados y ratones inalámbricos, entre otros aparatos de consumo moderado.\n\nPresentación:\nBlíster con 5 pilas alcalinas AA de 1.5 V.\n\nAdvertencias:\nNo son recargables; no intente cargarlas, abrirlas ni exponerlas al fuego o al calor excesivo. Coloque las pilas respetando la polaridad (+/-) y no mezcle pilas nuevas con usadas ni de distintas marcas o tipos. Retire las pilas de los aparatos que no vaya a usar por periodos largos. Manténgalas fuera del alcance de los niños; en caso de ingestión acuda al médico de inmediato. Al terminar su vida útil deséchelas en los puntos de acopio para pilas, no en la basura común.",
+  "ficha": {
+    "marca": "Duracell",
+    "linea": "Alcalina",
+    "variante": "AA",
+    "presentacion": "Blíster con 5 piezas",
+    "contenido_neto": 5,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 5,
+    "otros": "Tipo de pila: AA; Voltaje: 1.5 V; Tecnología: alcalina; No recargable; Formato de venta: blíster"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM7552",
+      "categoria_ruta": "Electrónica, Audio y Video > Pilas y Cargadores > Pilas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19731854"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "041333760643_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/293259-1000-1000/041333760643.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/pila-duracel-blister-aa-5-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 847,
+      "fecha": "2026-09-29",
+      "lado_util": 785
+    },
+    {
+      "archivo": "041333760643_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://urrea.com/media/catalog/product/M/N/MN1500X5_20260904182456.jpg",
+      "pagina": "https://urrea.com/pila-alcalina-duracellr-aa-5-piezas-mn1500x5",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1226,
+      "fecha": "2026-09-29",
+      "lado_util": 1136
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/pila-duracel-blister-aa-5-piezas/p",
+    "https://urrea.com/pila-alcalina-duracellr-aa-5-piezas-mn1500x5"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Catálogo ML MLM19731854 (Pila Duracell alcalina MN1500B5 AA con 5 piezas) asignado por coincidencia de título; no se pudo abrir la página para confirmar el GTIN. Voltaje 1.5 V es la especificación estándar de pila alcalina AA.",
+    "notas_imagenes": "2 fotos de tienda del blíster de 5 pilas (1000 y 1200 px). El empaque trae impreso 'Promopack', es parte del diseño del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

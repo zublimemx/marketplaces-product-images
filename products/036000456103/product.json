@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "GOODNITES UNISEX L-XL C/11",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Calzones Goodnites Unisex para Dormir Talla L/XL 11 Piezas",
+  "descripcion": "Descripción:\nGoodnites es la ropa interior desechable para dormir de Kimberly-Clark, diseñada para niños y adolescentes que necesitan protección confiable durante la noche. En talla grande y extragrande (L/XL), unisex, ofrece un diseño discreto que se parece a la ropa interior normal, para que duerman con comodidad y confianza. Cada paquete contiene 11 calzones.\n\nBeneficios:\n- 5 capas de protección con alta capacidad de absorción\n- Laterales superelásticos y suaves para un ajuste cómodo\n- Doble barrera en las piernas y barreras antifugas\n- Absorbe los olores y ayuda a mantener la piel seca y cómoda\n- Cubierta externa impermeable y discreta\n- No contiene látex\n\nModo de uso:\nElija la talla de acuerdo con el peso y la edad del niño. Colóquelo como ropa interior antes de dormir y, por la mañana, deséchelo enrollándolo y sellándolo con las cintas adhesivas. No lo tire al inodoro.\n\nPresentación:\nPaquete con 11 calzones desechables, talla L/XL, unisex.\n\nAdvertencias:\nManténgase fuera del alcance de los niños pequeños. Consulte a su pediatra si el niño presenta problemas frecuentes de enuresis nocturna.",
+  "ficha": {
+    "marca": "Goodnites",
+    "fabricante": "Kimberly-Clark de México",
+    "variante": "Unisex",
+    "presentacion": "Paquete",
+    "contenido_neto": 11,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 11,
+    "edad_etapa": "Niños y adolescentes",
+    "talla": "L/XL",
+    "genero": "Unisex",
+    "otros": "Tipo: calzón desechable para dormir; Sin látex; 5 capas de protección"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "036000456103_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.alsuper.com/products/406148.png",
+      "pagina": "https://alsuper.com/producto/calzon-406148",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1018,
+      "fecha": "2026-09-29",
+      "lado_util": 943
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/goodnites-ropa-interior-unisex-desechable-talla-lxl-11-uds",
+    "https://costofarma.mx/products/panalgoodnitesunisexl-xlc-11",
+    "https://alsuper.com/producto/calzon-406148"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN UPC de 12 dígitos confirmado por nombre de imagen en tienda (36000456103). Existe un diseño más nuevo del empaque (morado); se dejó el diseño verde que coincide con el GTIN. Modo de uso y advertencias generales; rango de peso por talla no confirmado.",
+    "notas_imagenes": "1 foto de tienda (paquete verde frontal L/XL, 1000 px). Se descartaron fotos del diseño morado (otro empaque) y una duplicada de menor tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

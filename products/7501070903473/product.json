@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "CIPROLISINA 220 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ciprolisina Solución Oral 220 ml Ciproheptadina",
+  "descripcion": "Descripción:\nCiprolisina es una solución oral de laboratorios Carnot que combina ciproheptadina y cianocobalamina (vitamina B12). Se clasifica como estimulante del apetito y se presenta en frasco de 220 ml con dosificador, lo que facilita medir la dosis indicada por el médico.\n\nCaracterísticas:\n- Solución oral con ciproheptadina y cianocobalamina (vitamina B12).\n- Estimulante del apetito, de uso oral.\n- Frasco de 220 ml con dosificador incluido.\n- Concentración indicada en el empaque: 40 mg de ciproheptadina y 300 mcg de cianocobalamina.\n\nIngredientes:\n- Ciproheptadina (clorhidrato)\n- Cianocobalamina (vitamina B12)\n\nModo de uso:\nVía de administración oral. Tome o administre la dosis con el vaso dosificador, en la cantidad y con la frecuencia que indique su médico. No exceda la dosis recomendada ni prolongue el tratamiento sin supervisión médica.\n\nPresentación:\nCaja con frasco de 220 ml de solución y vaso dosificador.\n\nAdvertencias:\nNo lo use si es alérgico a la ciproheptadina o a la cianocobalamina. Evite su uso durante el embarazo y la lactancia salvo indicación médica. Puede causar somnolencia; evite el consumo de alcohol durante el tratamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ciprolisina",
+    "fabricante": "Carnot Laboratorios",
+    "presentacion": "Solución oral con frasco dosificador",
+    "contenido_neto": 220,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ciproheptadina, Cianocobalamina",
+    "concentracion": "40 mg / 300 mcg (según empaque)",
+    "via_administracion": "Oral",
+    "otros": "Formato: solución; Incluye vaso dosificador"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903473_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd35717ea/images/large/7501070903473_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/ciprolisina-solucion-220ml/MXYZ_7501070903473.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 775,
+      "fecha": "2026-09-29",
+      "lado_util": 718
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Ciprolisina-220-Ml-Solucion-Frasco-Dosificador/7501070903473",
+    "https://prixz.com/c/ciprolisina-oral-220-ml-sol/",
+    "https://grupofarmapronto.com/producto/ciprolisina-4mg-300mcg-c-220-ml-solucion/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 220 ml confirmados. Una tienda cita 4 mg/300 mcg por dosis y el empaque dice 40 mg/300 mcg sin aclarar volumen de referencia. Una ficha lo marca como fracción IV (con receta); no se pudo confirmar, por eso 'Revisar'. Sin indicaciones oficiales detalladas.",
+    "notas_imagenes": "1 foto de tienda con el frente del empaque (1000 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "ISOX 15D 100MG CAPS C15 ITRACONAZOL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Isox 15D Itraconazol 100 mg 15 Cápsulas",
+  "descripcion": "Descripción:\nIsox 15D es un antimicótico de Senosiain cuyo principio activo es el itraconazol, en cápsulas de 100 mg. El itraconazol es un antifúngico de amplio espectro, de la familia de los triazoles, que se utiliza en infecciones causadas por hongos y levaduras. Las fichas del producto lo relacionan con el tratamiento de candidiasis, esporotricosis, paracoccidioidomicosis, cromomicosis y coccidioidomicosis. Se administra por vía oral y la caja contiene 15 cápsulas. Es un medicamento que requiere receta médica.\n\nBeneficios:\n- Itraconazol 100 mg por cápsula.\n- Antifúngico para infecciones por hongos y levaduras.\n- Vía oral.\n- Caja con 15 cápsulas.\n\nComposición:\nCada cápsula contiene itraconazol 100 mg.\n\nModo de uso:\nVía oral. Tome las cápsulas en la dosis y durante el tiempo que le indique su médico; por lo general se toman junto con alimentos, salvo otra indicación médica.\n\nPresentación:\nCaja con 15 cápsulas de 100 mg.\n\nAdvertencias:\nMedicamento de prescripción médica. No lo use si es alérgico al itraconazol o a algún componente de la fórmula. Informe a su médico todos los medicamentos que toma, porque el itraconazol puede interactuar con muchos de ellos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Isox",
+    "fabricante": "Senosiain",
+    "linea": "15D",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 15,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Itraconazol",
+    "concentracion": "100 mg por cápsula",
+    "via_administracion": "Oral",
+    "registro_sanitario": "315M89SSAIV",
+    "otros": "Clasificación: antimicótico sistémico; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314705153_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314705153_3.jpg",
+      "pagina": "https://www.fahorro.com/isox-15d-100-mg-oral-15-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1026,
+      "fecha": "2026-09-29",
+      "lado_util": 950
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antimicoticos-receta-medica/6069-comprar-isox-15d-100-mg-caja-con-15-capsulas-precio-7501314705153.html",
+    "https://www.fahorro.com/isox-15d-100-mg-oral-15-capsulas.html",
+    "https://www.yza.mx/isox-15d-100mg-15-caps/MXYZ_7501314705153.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Requiere receta según ficha de farmacia. Indicaciones y advertencias generales; no se abrió el sitio del laboratorio.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

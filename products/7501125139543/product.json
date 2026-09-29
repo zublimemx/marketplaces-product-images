@@ -4,29 +4,67 @@
   "linea": "Farma",
   "nombre_sistema": "COMBESTERAL AMP C3/JGAC3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Combesteral Solución Inyectable 3 Ampolletas y 3 Jeringas",
+  "descripcion": "Descripción:\nCombesteral, de Laboratorios Pisa, es una solución inyectable que combina complejo B (tiamina, piridoxina y cianocobalamina), dexametasona y lidocaína. Está indicado para el tratamiento de enfermedades reumáticas inflamatorias. La caja incluye 3 ampolletas de 1 ml, 3 ampolletas de 2 ml y 3 jeringas para su aplicación. Es un medicamento de prescripción médica.\n\nCaracterísticas:\n- Asocia un corticoesteroide (dexametasona) con un anestésico local (lidocaína) y vitaminas del complejo B.\n- Presentación práctica con las jeringas incluidas en la caja.\n- Ampolletas de dos volúmenes (1 ml y 2 ml) que se preparan juntas según lo indique el médico.\n\nComposición:\nCianocobalamina (vitamina B12), dexametasona, lidocaína, piridoxina (vitamina B6) y tiamina (vitamina B1), en solución inyectable.\n\nModo de uso:\nProducto inyectable. La vía de administración, la dosis y la duración del tratamiento los determina el médico tratante.\n\nPresentación:\nCaja con 3 ampolletas de 1 ml, 3 ampolletas de 2 ml y 3 jeringas.\n\nAdvertencias:\nEvite su uso en personas con antecedentes de alergia o sensibilidad a alguno de los componentes. Consulte a su médico antes de usarlo durante el embarazo o la lactancia. Conserve la caja en un lugar fresco y seco. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Combesteral",
+    "fabricante": "Laboratorios Pisa",
+    "presentacion": "Solución inyectable, caja con 3 ampolletas de 1 ml, 3 ampolletas de 2 ml y 3 jeringas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Cianocobalamina, dexametasona, lidocaína, piridoxina, tiamina",
+    "via_administracion": "Inyectable",
+    "registro_sanitario": "083M84 SSA",
+    "otros": "Contenido: 3 ampolletas de 1 ml + 3 ampolletas de 2 ml + 3 jeringas; Condición de venta: con receta médica; Indicación: enfermedades reumáticas inflamatorias"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125139543_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw0b35478a/images/large/7501125139543_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/combesteral-inyectable-caja-con-3-ampolletas/MXYZ_7501125139543.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 978,
+      "fecha": "2026-09-29",
+      "lado_util": 906
+    },
+    {
+      "archivo": "7501125139543_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/5300268/65f9498a2df0a-3365c7b5-b209-4a78-a0c2-0ae0c4f1978f-1600x1600.jpg",
+      "pagina": "https://www.yza.mx/combesteral-inyectable-caja-con-3-ampolletas/MXYZ_7501125139543.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1277,
+      "fecha": "2026-09-29",
+      "lado_util": 1183
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/combesteral-sol-inyeccion-ampolleta-6/",
+    "https://farmalisto.com.mx/analgesicos/4620-combesteral-caja-con-3-ampolletas-1-de-1-ml-y-2-de-2-ml-y-3-jeringas-rx-7501125139543.html",
+    "https://www.chedraui.com.mx/solucion-inyectable-combesteral-3-ampolletas-1ml-3-ampolletas-2ml-y-3-jeringas-3217691/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontraron concentraciones por ampolleta ni posología; se omitieron. Registro 083M84 SSA según una ficha (otra ficha trae número distinto). Una ficha mostraba 'cloruro de potasio' como principio activo, claramente un error de catálogo.",
+    "notas_imagenes": "2 fotos de tienda: caja de frente (Yza, 1000 px) y caja de tres cuartos (Claroshop, 1600 px). Se descartó una foto con rótulo naranja de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "CENTRUM PERFORMANCE C30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Centrum Performance Multivitamínico 30 Tabletas",
+  "descripcion": "Descripción:\nCentrum Performance es un multivitamínico y multimineral en tabletas con complejo B, ginseng y ginkgo biloba, formulado para apoyar la energía física y mental. Está pensado para cubrir las deficiencias de vitaminas y minerales y para apoyar a las personas con disminución de la capacidad física y de la respuesta al estrés, manifestada como cansancio, debilidad y falta de atención. Viene en frasco con 30 tabletas, para un mes de uso a razón de una tableta al día.\n\nBeneficios:\n- Multivitamínico con minerales y vitaminas del complejo B.\n- Con ginseng y ginkgo biloba.\n- Con antioxidantes.\n- Energía física y mental, según el empaque.\n- Una sola tableta al día.\n\nComposición:\nMinerales, vitaminas del complejo B, antioxidantes, ginseng y ginkgo biloba. Consulte la etiqueta del frasco para conocer la cantidad exacta de cada vitamina y mineral.\n\nModo de uso:\nUna tableta al día, de preferencia con los alimentos.\n\nPresentación:\nCaja con frasco de 30 tabletas.\n\nAdvertencias:\n- No exceda la dosis recomendada.\n- Consulte a su médico si está embarazada, en periodo de lactancia, bajo tratamiento médico o si toma anticoagulantes.\n- Mantenga el frasco bien cerrado y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Centrum",
+    "fabricante": "Haleon",
+    "linea": "Performance",
+    "presentacion": "Tabletas en frasco",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Multivitamínico, minerales, complejo B, ginseng, ginkgo biloba",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Con complejo B, ginseng y ginkgo biloba; Tipo: Multivitamínico y multimineral; Formato de venta: Frasco con 30 tabletas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065095978_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065095978_2.jpg",
+      "pagina": "https://www.fahorro.com/centrum-multivitaminico-performance-30-tabletas.html",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 948,
+      "fecha": "2026-09-29",
+      "lado_util": 879
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/centrum-multivitaminico-performance-30-tabletas.html",
+    "https://www.chedraui.com.mx/tabletas-centrum-multivitaminico-performance-frasco-con-30-tabletas-3026206/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda y en una base de códigos de barras. No se encontró la tabla de ingredientes con cantidades, por eso la composición es cualitativa (el empaque dice complejo B, ginseng y ginkgo biloba). El fabricante Haleon es dato de la marca; no aparece en las fichas abiertas.",
+    "notas_imagenes": "1 foto de tienda (caja con frasco de 30 tabletas, 948 px) de Farmacias del Ahorro. Se borró la otra foto de la misma tienda por traer letreros gráficos superpuestos.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

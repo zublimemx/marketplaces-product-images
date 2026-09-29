@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE TRIPLE ACC 100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Triple Acción Menta Original 100 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Triple Acción sabor menta original en presentación familiar de 100 ml. Está diseñada para la limpieza profunda diaria y, gracias a su fórmula con flúor, ayuda a fortalecer el esmalte y a combatir la caries. Además ayuda a blanquear los dientes y deja un aliento fresco, por eso combina tres acciones en una sola crema dental para la higiene bucal de toda la familia.\n\nBeneficios:\n- Fórmula con flúor que fortalece el esmalte dental.\n- Ayuda a combatir la caries.\n- Ayuda a blanquear los dientes.\n- Aliento fresco con sabor a menta original.\n- Presentación de 100 ml.\n\nModo de uso:\nCepille sus dientes tres veces al día, después de cada comida. Enjuague la boca con agua después de cepillarse y no ingiera la crema dental.\n\nPresentación:\nTubo con 100 ml de crema dental.\n\nAdvertencias:\nEn niños de 6 años o menos, use una cantidad del tamaño de una gota (0.25 g) y supervise el cepillado. No la ingiera. Si recibe flúor de otras fuentes, consulte a su dentista. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Triple Acción",
+    "variante": "Menta original",
+    "presentacion": "Tubo",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Con flúor; Presentación familiar; Tipo: crema dental anticaries"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546000343_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546000343-1.jpg?h=1400",
+      "pagina": "https://www.delsol.com.mx/crema-dental-colgate-triple-accion-100ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "7509546000343_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa417ddd6/images/large/7509546000343_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.delsol.com.mx/crema-dental-colgate-triple-accion-100ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 903
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/crema-dental-colgate-triple-accion-100ml",
+    "https://www.yza.mx/colgate-triple-accion-crema-denta-100ml/MXYZ_7509546000343.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7509546000343 confirmado en ficha de farmacia. El sitio oficial de Colgate no se pudo abrir; no se obtuvo la lista completa de ingredientes ni las ppm de flúor.",
+    "notas_imagenes": "2 fotos de tienda (frente de la caja): Del Sol 1,200 px y Farmacias YZA 1,000 px con el tubo. Se descartaron una foto con banners de tienda y una duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

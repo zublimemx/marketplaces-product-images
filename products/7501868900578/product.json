@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR TEL ADH 2 5 X 5M C 9 4",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tela Adhesiva Dibar 2.5 cm x 5 m 9 Carretes",
+  "descripcion": "Descripción:\nTela adhesiva Dibar en carrete: banda de tela elaborada con fibras de acetato de color blanco, con revestimiento adhesivo en una de sus caras. Es un material de curación de uso externo que se emplea para fijar gasas, apósitos y otros materiales sobre la piel. Cada carrete mide 2.5 cm de ancho por 5 m de largo.\n\nCaracterísticas:\n- Tela de fibras de acetato, color blanco\n- Revestimiento adhesivo en una de sus caras\n- Medida de 2.5 cm x 5 m por carrete\n- Presentación en carrete\n- Marca Dibar\n\nModo de uso:\nCorte la longitud necesaria de tela adhesiva y colóquela sobre gasas, apósitos u otros materiales de curación para fijarlos a la piel limpia y seca. Retire con cuidado al cambiar el vendaje.\n\nPresentación:\nEmpaque con 9 carretes de tela adhesiva de 2.5 cm x 5 m.\n\nAdvertencias:\nMaterial de curación de uso externo. Suspenda su uso si observa irritación o enrojecimiento de la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "fabricante": "Dibar",
+    "linea": "Tela adhesiva",
+    "variante": "En carrete",
+    "presentacion": "Empaque con 9 carretes",
+    "contenido_neto": 9,
+    "unidad_contenido": "carretes",
+    "unidades_por_envase": 9,
+    "otros": "Material: fibras de acetato, color blanco; Adhesivo en una cara; Medida por carrete: 2.5 cm x 5 m; Formato de venta: empaque con 9 carretes"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900578_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://dibar.mx/wp-content/uploads/2025/02/tela-ad.jpg",
+      "pagina": "https://dibar.mx/product/tela-adhesiva-en-carrete/",
+      "ancho_original": 1800,
+      "alto_original": 1350,
+      "lado_final": 1205,
+      "fecha": "2026-09-29",
+      "lado_util": 1115
+    }
+  ],
+  "url_oficial": "https://dibar.mx/product/tela-adhesiva-en-carrete/",
+  "fuentes": [
+    "https://dibar.mx/product/tela-adhesiva-en-carrete/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No hallé el GTIN 7501868900578 publicado; una tienda vende el carrete suelto de 2.5 cm x 5 m con otro GTIN (7501868900561). Se interpretó 'C 9' como empaque con 9 carretes, que coincide con el catálogo del fabricante (2.5 cm x 5 m, 9 carretes). Categoría 'Vendas' elegida por ser la más cercana disponible; 'Farmacia > Otros' (MLM194471) sería alternativa. Las secciones de modo de uso y advertencias son indicaciones generales de uso seguro del tipo de producto, no textos copiados de la etiqueta.",
+    "notas_imagenes": "1 foto oficial del fabricante (1205 px), imagen genérica de la línea de telas adhesivas con carretes de varias medidas; no encontré foto específica del carrete de 2.5 cm x 5 m.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

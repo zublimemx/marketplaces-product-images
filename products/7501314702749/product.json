@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "ARFLA 200MG TAB C12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Arfla Rifaximina 200 mg 12 Tabletas",
+  "descripcion": "Descripción:\nArfla es un antibiótico con rifaximina en tabletas de 200 mg, elaborado por Laboratorios Senosiain. La rifaximina es un antibiótico de la familia de las rifamicinas de uso oral; su indicación, la dosis y la duración del tratamiento deben ser determinadas por un médico según el tipo de infección. Se presenta en caja con 12 tabletas para administración por vía oral.\n\nFórmula:\nCada tableta contiene rifaximina 200 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tome las tabletas exactamente como lo indique su médico y complete el tratamiento indicado, aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 tabletas de 200 mg.\n\nAdvertencias:\n- Antibiótico: para su venta o dispensación requiere receta médica, que se retendrá al surtirse la cantidad completa indicada en el tratamiento. La vigencia de la receta es igual a la duración del tratamiento.\n- No se automedique ni comparta este medicamento; el uso innecesario de antibióticos favorece la resistencia bacteriana.\n- Informe a su médico si es alérgico a la rifaximina, a otros antibióticos de la familia de las rifamicinas o a algún componente de la fórmula.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Arfla",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Rifaximina",
+    "concentracion": "200 mg",
+    "via_administracion": "Oral",
+    "otros": "Grupo: antibiótico; Requiere receta médica que se retiene; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314702749_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702749_1.jpg",
+      "pagina": "https://www.fahorro.com/arfla-200-mg-12-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1167,
+      "fecha": "2026-09-29",
+      "lado_util": 1081
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/arfla-200mg-12-tabs/MXYZ_7501314702749.html",
+    "https://www.fahorro.com/arfla-200-mg-12-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda y en la de Yza (Arfla 200 mg, 12 tabletas, rifaximina, Senosiain). Las fichas no traen indicaciones ni dosis, por eso la descripción es corta y remite al médico; la ficha de Yza la marca como descontinuada. Antibiótico de venta con receta retenida: se colocó en venta libre por instrucción del dueño.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja de 12 tabletas, 1167 px) de Farmacias del Ahorro; las variantes adicionales no existen en su servidor.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

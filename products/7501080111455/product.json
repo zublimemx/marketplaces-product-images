@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "TIN JUST F-MEN BARBA/B NEGRO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tinte Just For Men Barba y Bigote Negro B-55",
+  "descripcion": "Descripción:\nTinte colorante en gel Just For Men para barba y bigote en tono Negro B-55. Fórmula libre de amoniaco con aloe vera que cubre las canas en 5 minutos y deja una apariencia natural y abundante. Incluye cepillo de fácil aplicación y rinde para múltiples aplicaciones.\n\nBeneficios:\n- Cubre 100 % de las canas en 5 minutos, según el empaque.\n- Penetra hasta las canas más difíciles y recupera el color original para una apariencia más abundante y gruesa.\n- Formulado con aloe vera, en una fórmula acondicionante que no es agresiva con la barba.\n- Gel antiescurrimientos y cepillo diseñado para distribuir el color de manera uniforme; use solo lo que necesite y guarde el resto.\n- De larga duración: no se deslava, según el empaque.\n\nModo de uso:\n1. Cepille el producto sobre la barba y el bigote.\n2. Espere 5 minutos.\n3. Enjuague y lave con shampoo.\nRealice siempre una prueba de alergia 48 horas antes de utilizarlo.\n\nPresentación:\nKit de tinte en gel para barba y bigote, tono Negro B-55, con cepillo aplicador.\n\nAdvertencias:\n- Uso externo. Lea las instrucciones del empaque antes de usar y realice la prueba de alergia 48 horas antes.\n- Evite el contacto con los ojos. No lo use si tiene irritación o lesiones en la piel.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Just For Men",
+    "fabricante": "Combe",
+    "linea": "Barba y Bigote",
+    "variante": "Negro B-55",
+    "presentacion": "Kit de tinte en gel con cepillo",
+    "genero": "Hombre",
+    "tipo_piel_cabello": "Barba y bigote con canas",
+    "otros": "Tono: Negro B-55; Libre de amoniaco; Con aloe vera; Tiempo de aplicación: 5 minutos; Incluye cepillo aplicador; Formato de venta: Kit"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430110",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tintes y Decolorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080111455_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111455.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-b-b-ne-28-4-g-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1356,
+      "fecha": "2026-09-29",
+      "lado_util": 1256
+    },
+    {
+      "archivo": "7501080111455_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111455_1.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-b-b-ne-28-4-g-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1351,
+      "fecha": "2026-09-29",
+      "lado_util": 1251
+    },
+    {
+      "archivo": "7501080111455_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111455_2.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-b-b-ne-28-4-g-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1435,
+      "fecha": "2026-09-29",
+      "lado_util": 1329
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/just-for-men-tinte-barbabigote-negro-gel-1-pza/MXYZ_7501080111455.html",
+    "https://grupofarmapronto.com/producto/just-for-men-barba-bigote-negro-b-55-tinte/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas (tinte para barba y bigote negro B-55). Beneficios y pasos tomados del empaque (parte frontal y trasera). No se confirmó el contenido en gramos; ingredientes no disponibles.",
+    "notas_imagenes": "3 fotos de tienda: frente, parte trasera del empaque con los pasos de uso y vista en ángulo. Se borraron dos de otro diseño de caja o recortadas.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

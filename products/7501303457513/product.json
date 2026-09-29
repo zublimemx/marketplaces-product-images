@@ -4,29 +4,61 @@
   "linea": "Farma",
   "nombre_sistema": "YASMIN 24 4 C 28 COMP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Yasmin 24/4 Anticonceptivo 3 mg/0.02 mg 28 Comprimidos",
+  "descripcion": "Descripción:\nYasmin 24/4 es un anticonceptivo oral combinado de Bayer que contiene drospirenona 3 mg y etinilestradiol 0.02 mg. Se toma en un régimen de 24 comprimidos activos con hormonas seguidos de 4 comprimidos inactivos (blancos, sin hormonas) en una caja de 28 comprimidos. La drospirenona tiene propiedades antimineralocorticoides y antiandrogénicas.\n\nBeneficios:\n- Anticonceptivo oral combinado de uso diario\n- Esquema 24/4: 24 comprimidos activos y 4 inactivos\n- En mujeres que eligen anticoncepción oral, también está indicado para el tratamiento del acné vulgar moderado y de los síntomas del trastorno disfórico premenstrual\n- Caja con 28 comprimidos\n\nComposición:\nCada comprimido activo contiene drospirenona 3 mg y etinilestradiol 0.02 mg. La caja incluye 4 comprimidos inactivos sin hormonas.\n\nModo de uso:\nVía oral. Se toma un comprimido diario durante 28 días consecutivos, aproximadamente a la misma hora y en el orden indicado en el blíster, sin interrupción entre un empaque y el siguiente.\n\nPresentación:\nCaja con 28 comprimidos (24 activos y 4 inactivos).\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si tiene o ha tenido eventos trombóticos o tromboembólicos venosos o arteriales, insuficiencia renal o hepática grave, ni durante el embarazo. Fumar aumenta el riesgo de efectos cardiovasculares graves. No protege contra infecciones de transmisión sexual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Yasmin",
+    "fabricante": "Bayer",
+    "linea": "24/4",
+    "presentacion": "Caja con blíster",
+    "contenido_neto": 28,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 28,
+    "principio_activo": "Drospirenona, etinilestradiol",
+    "concentracion": "3 mg / 0.02 mg",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "registro_sanitario": "322M2002 SSA IV",
+    "otros": "Esquema: 24 comprimidos activos y 4 inactivos; Condición de venta: con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501303457513_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa5bdefe7/images/large/7501303457513_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/yasmin-24-4-28-comprimidos/MXYZ_7501303457513.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 820,
+      "fecha": "2026-09-29",
+      "lado_util": 760
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/yasmin.244.comprimidos/22/101/36940/25",
+    "https://farmaciasmedina.com/detalleProducto/Yasmin-24-Dias-Y-4-Sem-28-Comprimidos-Caja/7501303457513",
+    "https://www.yza.mx/yasmin-24-4-28-comprimidos/MXYZ_7501303457513.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una ficha de tienda dice 0.03 mg de etinilestradiol, pero el empaque y PLM indican 3 mg/0.02 mg (24/4). Registro tomado de PLM (puede corresponder a la familia Yasmin).",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1000 px). Se descartaron una foto con banner de texto de la tienda y otra de 500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

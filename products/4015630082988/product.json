@@ -4,14 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "ACCU CHEK EQ ACTIVE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Kit Glucómetro Accu-Chek Active Roche",
+  "descripcion": "Descripción:\nAccu-Chek Active Kit, de Roche, es un sistema de medición de glucosa en sangre con un medidor flexible y práctico, pensado para el automonitoreo de la glucosa. El medidor cuenta con tecnología sin codificación y solo puede usarse con tiras reactivas Accu-Chek Active.\n\nCaracterísticas:\n- Tecnología sin codificación: no requiere programar códigos al cambiar de caja de tiras.\n- Memoria para consultar resultados de hasta 90 días.\n- Avisa cuando la tira está dañada o cuando la gota de sangre fue insuficiente, con oportunidad de agregar sangre (redosificar) dentro de los siguientes 10 segundos.\n- Recordatorios para pruebas antes y después de los alimentos.\n- Pantalla grande de fácil lectura y muestra de sangre pequeña, con la tira dentro o fuera del medidor.\n\nModo de uso:\nInserte una tira reactiva Accu-Chek Active en el medidor, obtenga una gota de sangre con el punzador y acérquela al campo de dosificación de la tira; el resultado aparece en pantalla en unos segundos. Siga las instrucciones del manual incluido.\n\nPresentación:\nKit con medidor de glucosa Accu-Chek Active. Verifique en el empaque los accesorios incluidos.\n\nAdvertencias:\n- Lea las instrucciones de uso. Consulte a su médico, quien es el único facultado para interpretar los resultados y ajustar su tratamiento.\n- El medidor solo debe usarse con tiras reactivas Accu-Chek Active. Mantenga el tubo de tiras bien cerrado después de cada uso.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "linea": "Active",
+    "variante": "Kit",
+    "presentacion": "Kit con medidor de glucosa",
+    "unidades_por_envase": 1,
+    "otros": "Tecnología sin codificación; Memoria de resultados hasta 90 días; Compatible solo con tiras reactivas Accu-Chek Active; Formato de venta: Kit"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "4015630082988_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Ecommerce-Accu-Chek-Active-Kit-4015630082988-638158867158086915-1.jpg",
+      "pagina": "https://pacientes.sfe.com.mx/Productos/1921/accu-chek-active-kit",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 746,
+      "fecha": "2026-09-29",
+      "lado_util": 691
+    },
+    {
+      "archivo": "4015630082988_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.accu-chek.com.mx/sites/g/files/iut326/f/Media%20Root/2023/active/home/Active.png",
+      "pagina": "https://www.accu-chek.com.mx/medicion-de-glucosa-active",
+      "ancho_original": 550,
+      "alto_original": 1100,
+      "lado_final": 1097,
+      "fecha": "2026-09-29",
+      "lado_util": 1016
+    }
+  ],
+  "url_oficial": "https://www.accu-chek.com.mx/medicion-de-glucosa-active",
+  "fuentes": [
+    "https://www.accu-chek.com.mx/medicion-de-glucosa-active",
+    "https://pacientes.sfe.com.mx/Productos/1921/accu-chek-active-kit",
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-active"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como \"Accu-Chek Active Kit\" (código 4015630082988) en la tienda de un distribuidor de Roche; el nombre del sistema dice \"EQ\" (equipo). No se encontró el contenido exacto del kit (número de tiras o lancetas), por eso no se lista.",
+    "notas_imagenes": "2 fotos: de frente de la caja del kit (tienda, 746 px) y del medidor (sitio oficial, 1097 px). Se borró una foto con banda decorativa y leyenda \"Nueva imagen\".",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

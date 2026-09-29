@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TENA SLIP NOCT GDE C/8",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañal para Adulto Tena Slip Nocturno Talla G 8 Piezas",
+  "descripcion": "Descripción:\nTENA Slip Nocturno son pañales para adulto unisex, en talla G (grande), diseñados para dar máxima protección durante la noche a personas con pérdidas de orina abundantes. Están pensados para estar acostado, con un ajuste anatómico en la cintura y cintas adhesivas multiajuste que pueden pegarse varias veces.\n\nCaracterísticas:\n- Absorción superior (súper abundante) con gel súper absorbente que gelatiniza los líquidos y neutraliza el mal olor de la orina\n- Mantiene la piel seca\n- Doble barrera anti-escurrimiento reforzada\n- Cintas ajustables multiajuste para un ajuste cómodo y seguro toda la noche\n- Con ingredientes para el cuidado de la piel, como vitamina E\n- Fácil de poner y quitar a personas con nula movilidad\n\nPresentación:\nPaquete con 8 piezas, talla G (grande).",
+  "ficha": {
+    "marca": "TENA",
+    "fabricante": "Essity",
+    "linea": "Slip Nocturno",
+    "variante": "Nocturno",
+    "presentacion": "Paquete con 8 piezas",
+    "contenido_neto": 8,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 8,
+    "talla": "G (Grande)",
+    "genero": "Unisex",
+    "otros": "Tipo: pañal para adulto con cintas adhesivas; Absorción: súper abundante; Uso: nocturno"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019053283_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://essitymx.vtexassets.com/arquivos/ids/159443-1200-auto",
+      "pagina": "https://www.tena.com.mx/tena-slip-nocturno/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1166,
+      "fecha": "2026-09-29",
+      "lado_util": 1080
+    },
+    {
+      "archivo": "7501019053283_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501019053283_1.jpg",
+      "pagina": "https://www.fahorro.com/pa-al-para-adulto-tena-slip-nocturno-talla-grande-con-8-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1535,
+      "fecha": "2026-09-29",
+      "lado_util": 1422
+    }
+  ],
+  "url_oficial": "https://www.tena.com.mx/tena-slip-nocturno/p",
+  "fuentes": [
+    "https://www.tena.com.mx/tena-slip-nocturno/p",
+    "https://www.farmatodo.com.mx/tena-panal-adulto-nocturno-grande-paquete-c-8-pz/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501019053283 confirmado en el sitio oficial como talla G de 8 piezas (CH/M es 7501019053276). El empaque cambió de diseño (versión ProSkin más reciente); las fotos muestran ambos diseños.",
+    "notas_imagenes": "2 fotos: frente del empaque del sitio oficial (1200 px, diseño ProSkin) y vista 3/4 del diseño anterior (Farmacias del Ahorro, 1600 px); se descartaron 2 imágenes promocionales.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

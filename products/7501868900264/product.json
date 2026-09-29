@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO R 125ML C48 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alcohol Etílico Dibar 96° 125 ml Caja con 48 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico Dibar de 96° GL en frasco de 125 ml con tapa roja. Es un líquido transparente y volátil de uso general en laboratorios, clínicas, análisis químicos y aplicaciones industriales que requieren un agente desinfectante, disolvente o antiséptico. Esta presentación es la caja con 48 frascos de 125 ml.\n\nCaracterísticas:\n- Alcohol etílico de 96° GL (grados Gay-Lussac)\n- Frasco de 125 ml con tapa roja\n- Marca Dibar\n- Presentación de venta: caja con 48 piezas\n\nPresentación:\nCaja con 48 frascos de 125 ml.\n\nAdvertencias:\n- No debe ingerirse ni aplicarse sobre piel lesionada. Producto no apto para consumo humano.\n- No respire los vapores.\n- Guárdese en un lugar fresco, seco y bien ventilado, con el envase bien cerrado y protegido de la luz solar directa y de fuentes de calor.",
+  "ficha": {
+    "marca": "Dibar",
+    "fabricante": "Dibar",
+    "linea": "Alco-R",
+    "variante": "Alcohol etílico 96° GL",
+    "presentacion": "Caja con 48 frascos de 125 ml",
+    "contenido_neto": 125,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 48,
+    "principio_activo": "Alcohol etílico",
+    "concentracion": "96° GL",
+    "otros": "Formato de venta: caja con 48 piezas de 125 ml (según nombre del sistema); Tapa roja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900264_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://acdn-us.mitiendanube.com/stores/001/946/809/products/20-98a2a0dd2b4a0edfb117478475181366-1024-1024.webp",
+      "pagina": "https://www.promexsa.com.mx/productos/alcohol-etilico-de-96-125-ml-dibar/",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 790,
+      "fecha": "2026-09-29",
+      "lado_util": 732
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501868900264-alcohol-etilico-96o-gl-sin-desnaturalizar-rojo-125-ml-dibar-10821",
+    "https://www.promexsa.com.mx/productos/alcohol-etilico-de-96-125-ml-dibar/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "GTIN encontrado en una sola tienda (alcohol etílico 96° GL rojo de 125 ml, Dibar). El GTIN es del frasco individual; 'C48 PZAS' del nombre del sistema se interpretó como caja con 48 frascos (precio unitario bajo); confirmar la unidad de venta. Fuente de uso y advertencias: ficha de otro alcohol Dibar de 96° de 125 ml; no se abrió sitio del fabricante.",
+    "notas_imagenes": "1 foto de tienda (1024 px, frasco de alcohol Dibar de tapa roja); se descartaron una foto de baja resolución (500 px) y otra de algodón.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

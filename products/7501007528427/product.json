@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA LUBRID REP/INT SENS 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Lubriderm Reparación Intensiva 400 ml",
+  "descripcion": "Descripción:\nCrema corporal Lubriderm Reparación Intensiva, formulada para restaurar la piel severamente deshidratada, áspera y seca, evitando la pérdida de agua y humectando hasta 3 veces más la barrera de la piel en una hora (comparado con la piel sin producto). Cuenta con la tecnología Pro-Ceramidas, que ayuda a equilibrar y estimular la producción natural de ceramidas de la piel, y con la tecnología Dermastage, que penetra las capas celulares de la piel para una hidratación profunda. Ofrece una hidratación intensa y duradera hasta por 48 horas. Frasco de 400 ml.\n\nBeneficios:\n- Humecta profundamente la piel áspera y extra seca\n- Fórmula de liberación continua de manteca de karité (shea butter) durante más de 48 horas\n- Complejo multimineral con cobre, zinc y magnesio que ayuda a reparar y proteger la barrera de la piel\n- Clínica y dermatológicamente probada\n- Fórmula hipoalergénica\n- La piel se ve y se siente más suave durante todo el día\n\nIngredientes:\nAqua, Paraffinum Liquidum, Glycerin, Carbomer, Potassium Cetyl Phosphate, Phenoxyethanol, Cetyl Alcohol, Sodium Polyacrylate, Caprylyl Glycol, Hydrogenated Palm Glycerides, Sodium Hydroxide, Butyrospermum Parkii Butter, Parfum, Disodium EDTA, Avena Sativa Kernel Oil, Magnesium Aspartate, Zinc Gluconate, Copper Gluconate.\n\nModo de uso:\nAplíquela diariamente en todo el cuerpo y cara, masajeando circularmente.\n\nPresentación:\nFrasco de 400 ml.\n\nAdvertencias:\nSólo para uso externo. Evite el contacto con los ojos. Si observa alguna reacción desfavorable, suspenda su uso y, si persiste, consulte al médico. Manténgase fuera del alcance de los niños. Conservar en un lugar fresco, protegido de la luz solar directa.",
+  "ficha": {
+    "marca": "Lubriderm",
+    "fabricante": "Kenvue",
+    "linea": "Reparación Intensiva",
+    "variante": "Piel áspera y extra seca",
+    "presentacion": "Frasco de 400 ml",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel severamente seca, áspera y deshidratada",
+    "otros": "Tecnología Pro-Ceramidas y Dermastage; Con manteca de karité; Hipoalergénica; Dermatológicamente probada; Hidratación hasta por 48 horas; Uso: cuerpo y cara"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007528427_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/o692v8iyhg3z/62wdGqx83e9zVmmjPjIflg/9d28af5948a9554e719d99bfdb730865/LUBRIDERM_LATAM_COL_7501007528427_REPARACION_INTENSIVA_400ML_00000_TIF_1.WEBP",
+      "pagina": "https://www.lubriderm.com.mx/productos/reparacion-intensiva",
+      "ancho_original": 3300,
+      "alto_original": 3300,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
+  "url_oficial": "https://www.lubriderm.com.mx/productos/reparacion-intensiva",
+  "fuentes": [
+    "https://www.lubriderm.com.mx/productos/reparacion-intensiva",
+    "https://www.fahorro.com/crema-corporal-lubriderm-reparacion-intensiva-400-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Texto e ingredientes del sitio oficial de Lubriderm México. 'SENS' del sistema no aparece en el nombre oficial; el GTIN corresponde a Reparación Intensiva 400 ml.",
+    "notas_imagenes": "1 foto oficial del fabricante de frente del envase actual (2000 px). Descarté una copia casi idéntica, el reverso (etiqueta de exportación con datos de otros países) y fotos de tienda de diseños anteriores.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

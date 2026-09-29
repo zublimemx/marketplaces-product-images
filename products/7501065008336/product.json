@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PROCTO GLYVENOL CRA 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Procto-Glyvenol Crema Tribenósido Lidocaína 5%/2% 30 g",
+  "descripcion": "Descripción:\nProcto-Glyvenol crema combina tribenósido, un venotónico y antiinflamatorio, con lidocaína, un anestésico local. Está indicada para el tratamiento sintomático de las hemorroides internas y externas y de las fisuras anales, ayudando a aliviar el dolor, la comezón, el ardor y la inflamación de la zona. Se presenta en tubo con 30 g de crema.\n\nBeneficios:\n- Alivia el dolor y la inflamación causados por las hemorroides\n- Acción anestésica local para el alivio de la comezón y el ardor\n- Acción venotónica que ayuda a mejorar la circulación local\n- Indicada en hemorroides internas y externas y en fisuras anales\n\nComposición:\nCada 100 g de crema contiene: tribenósido 5 g y lidocaína 2 g.\n\nModo de uso:\nUso tópico (rectal y anal). Siga las instrucciones del empaque y las indicaciones de su médico sobre la frecuencia de aplicación y la duración del tratamiento.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nEvite el contacto con los ojos y las mucosas distintas del área tratada. No lo aplique sobre heridas abiertas sin supervisión médica. No lo use si es alérgico a alguno de los componentes de la fórmula. Úselo con precaución si tiene enfermedades del sistema nervioso central o antecedentes de convulsiones. Suspenda su uso si presenta reacciones adversas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Procto-Glyvenol",
+    "fabricante": "GlaxoSmithKline",
+    "presentacion": "Tubo",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tribenósido, lidocaína",
+    "concentracion": "5% / 2%",
+    "via_administracion": "Tópica (rectal/anal)",
+    "otros": "Forma farmacéutica: crema; Uso: hemorroides y fisuras anales"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065008336_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065008336.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1554,
+      "fecha": "2026-09-29",
+      "lado_util": 1439
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/procto-glyvenol-crema-5-2-30g-tribenosido-lidocaina",
+    "https://www.farmatodo.com.mx/procto-glyvenol-crema-5-2-tubo-c-30-gr/p",
+    "https://grupofarmapronto.com/producto/proctoglyvenol-5-2-c-30g-crema/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se confirmó la condición de venta (receta o venta libre) ni el registro sanitario en las fichas. Modo de uso sin posología oficial (no encontrada).",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

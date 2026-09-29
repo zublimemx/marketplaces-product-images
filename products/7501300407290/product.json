@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "POLY VI SOL PED GTS 50 ML 84",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Poly-Vi-Sol Pediátrico Multivitamínico Gotas 50 ml",
+  "descripcion": "Descripción:\nPoly-Vi-Sol Pediátrico, de la línea NutriBaby, es un multivitamínico en solución con gotero que aporta vitaminas A, D3, C, B1, B2 y niacinamida. Está indicado para la prevención y el tratamiento de las deficiencias de los componentes de su fórmula en bebés y niños pequeños. Se presenta en frasco de 50 ml con gotero graduado.\n\nBeneficios:\n- Multivitamínico en gotas de fácil administración.\n- Aporta vitamina A, vitamina D3, vitamina C, tiamina (B1), riboflavina (B2) y niacinamida.\n- Gotero graduado para medir la dosis según la edad.\n- Formato de 50 ml.\n\nComposición:\nCada 100 ml contiene:\n- Palmitato de retinol (vitamina A): 150,000 UI\n- Colecalciferol (vitamina D3): 40,000 UI\n- Ácido ascórbico (vitamina C): 3,000 mg\n- Clorhidrato de tiamina (vitamina B1): 50 mg\n- Riboflavina (vitamina B2): 60 mg\n- Niacinamida: 400 mg\n- Vehículo cbp 100 ml\n\nModo de uso:\nVía oral. La dosis depende de la edad (calculada en función de la vitamina A):\n- 0 a 6 meses: 1 a 1.5 ml\n- 6 a 12 meses: 1.5 ml\n- 1 a 3 años: 1.5 ml\n- 4 a 6 años: 2 ml\n\nPresentación:\nCaja con frasco de 50 ml y gotero graduado.\n\nAdvertencias:\nConsulte a su pediatra antes de administrarlo y respete la dosis indicada. Conserve el frasco bien cerrado y a no más de 30 °C. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Poly-Vi-Sol",
+    "linea": "NutriBaby Pediátrico",
+    "variante": "Multivitamínico en gotas",
+    "presentacion": "Solución con gotero graduado",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Vitaminas A, D3, C, B1, B2 y niacinamida",
+    "concentracion": "Por 100 ml: vitamina A 150,000 UI; vitamina D3 40,000 UI; vitamina C 3,000 mg; B1 50 mg; B2 60 mg; niacinamida 400 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Bebés y niños de 0 a 6 años",
+    "otros": "Gotero graduado; Dosis: 1 a 2 ml según la edad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407290_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw676c81fe/images/large/7501300407290_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/poly-vi-sol-oral-pediatrico-50-ml-gotas/MXYZ_7501300407290.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 934,
+      "fecha": "2026-09-29",
+      "lado_util": 862
+    },
+    {
+      "archivo": "7501300407290_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1b3f4023/images/large/7501300407290_7.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/poly-vi-sol-oral-pediatrico-50-ml-gotas/MXYZ_7501300407290.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 925,
+      "fecha": "2026-09-29",
+      "lado_util": 857
+    },
+    {
+      "archivo": "7501300407290_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407290_5.jpg",
+      "pagina": "https://www.yza.mx/poly-vi-sol-oral-pediatrico-50-ml-gotas/MXYZ_7501300407290.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1424,
+      "fecha": "2026-09-29",
+      "lado_util": 1319
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/poly-vi-sol-oral-pediatrico-50-ml-gotas/MXYZ_7501300407290.html",
+    "https://www.fahorro.com/poly-vi-sol-oral-pediatrico-50-ml-gotas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula y dosis por edad leídas del contraempaque (foto de tienda). No se identificó el fabricante en las fuentes, por eso no se incluye. 'Conserve a no más de 30 °C' es una recomendación general.",
+    "notas_imagenes": "3 fotos de tienda (Yza y Farmacias del Ahorro, 900 a 1400 px): frente, contraempaque con fórmula y caja de tres cuartos. Se descartó la vista lateral.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

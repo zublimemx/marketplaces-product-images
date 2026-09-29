@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ELECTROLIT 625ML UVA 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Electrolit Suero Rehidratante Sabor Uva 625 ml",
+  "descripcion": "Descripción:\nElectrolit sabor uva es un suero rehidratante en solución oral de Laboratorios Pisa, formulado con electrolitos y glucosa para ayudar a reponer los líquidos y las sales que el cuerpo pierde por deshidratación, por ejemplo durante episodios de diarrea o vómito, calor intenso o actividad física. Se presenta en botella de 625 ml lista para beber.\n\nBeneficios:\n- Solución oral con electrolitos para hidratación rápida\n- Ayuda a reponer líquidos y sales minerales perdidos\n- Sabor uva\n- Botella de 625 ml lista para tomar\n\nComposición:\nCloruro de sodio, cloruro de potasio, cloruro de calcio dihidratado, cloruro de magnesio hexahidratado, lactato de sodio, glucosa y vehículo c.b.p.\n\nModo de uso:\nVía oral. Siga las indicaciones del empaque o de su médico; se recomienda tomarlo en pequeños sorbos frecuentes hasta reponer los líquidos perdidos.\n\nPresentación:\nBotella de 625 ml.\n\nAdvertencias:\nConsulte a su médico antes de usarlo en personas con enfermedades renales, cardiacas o que sigan una dieta con control de sodio o potasio. No se recomienda en menores de 3 años sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Electrolit",
+    "fabricante": "Laboratorios Pisa",
+    "variante": "Uva",
+    "presentacion": "Botella",
+    "contenido_neto": 625,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Uva",
+    "via_administracion": "Oral",
+    "registro_sanitario": "90127 SSA VI",
+    "otros": "Forma farmacéutica: solución oral; Tipo: suero rehidratante"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM431865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125144851_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125144851_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/electrolit-sabor-uva-625-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1561,
+      "fecha": "2026-09-29",
+      "lado_util": 1446
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://world.openfoodfacts.org/product/7501125144851/suero-electrolit-uva-electro",
+    "https://sanorim.mx/products/electrolit-sabor-uva-625-ml",
+    "https://www.fahorro.com/electrolit-sabor-uva-625-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema termina en 12 (probable caja de 12); el GTIN corresponde a la botella individual de 625 ml y el precio también, por lo que se describe la pieza individual. Modo de uso y advertencias son recomendaciones generales de suero oral; ingredientes de Open Food Facts.",
+    "notas_imagenes": "1 foto de tienda (botella frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

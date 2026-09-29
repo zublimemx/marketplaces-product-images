@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GEL 1LT ANTIBACTERIAL 6",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gel Antibacterial Dibar Aroma Limón 1 Litro",
+  "descripcion": "Descripción:\nGel antibacterial Dibar en botella de 1 litro con bomba dosificadora, con aroma a limón. Es un gel antiséptico transparente, de uso tópico, para la higiene de manos, formulado con alcohol etílico al 75 % v/v ± 5 % y enriquecido con humectantes y emolientes que favorecen su uso frecuente sin resecar la piel. Es hipoalergénico, de rápida evaporación y no requiere enjuague. Su formato de un litro con dosificador es práctico para el hogar, la oficina, escuelas y comercios.\n\nBeneficios:\n- Gel antibacterial con alcohol etílico al 75 % v/v.\n- Con humectantes y emolientes para uso frecuente.\n- Hipoalergénico y de rápida evaporación.\n- No requiere enjuague.\n- Botella de 1 litro con bomba dosificadora.\n\nIngredientes:\nAlcohol etílico al 75 % v/v ± 5 %, humectantes y emolientes.\n\nModo de uso:\nAplique una cantidad suficiente de gel en las palmas de las manos limpias y frote hasta cubrir toda la superficie de las manos y los dedos, durante al menos 30 segundos o hasta que se seque. No requiere enjuague.\n\nPresentación:\nBotella de 1 litro con bomba dosificadora.\n\nAdvertencias:\nProducto inflamable: manténgase alejado del fuego y de fuentes de calor. Uso externo; evite el contacto con los ojos. Conserve el envase bien cerrado, en un lugar fresco, seco y ventilado, alejado de la luz solar directa. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "linea": "Gel antibacterial",
+    "presentacion": "Botella con bomba dosificadora",
+    "contenido_neto": 1000,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Limón",
+    "otros": "Alcohol etílico al 75 % v/v; Hipoalergénico; No requiere enjuague; Uso: higiene de manos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168014",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Geles Antibacteriales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868920156_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://dcdn-us.mitiendanube.com/stores/003/292/109/products/gel-dibar-1-litro11-26dd8a4ea55f46e4cd16886677599397-640-0.webp",
+      "pagina": "https://tienda.biorent.com.mx/productos/gel-antibacterial-1lt-dibar/",
+      "ancho_original": 640,
+      "alto_original": 703,
+      "lado_final": 724,
+      "fecha": "2026-09-29",
+      "lado_util": 671
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.promexsa.com.mx/productos/gel-antibacterial-1-l-dibar/",
+    "https://tienda.biorent.com.mx/productos/gel-antibacterial-1lt-dibar/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7501868920156 no apareció en ninguna ficha; se identificó por nombre y tamaño (Dibar gel antibacterial 1 L). El aroma limón se dedujo de la imagen de la botella y de un listado de Dibar 1 L aroma limón. Las especificaciones (alcohol al 75 %) vienen de la ficha técnica de un distribuidor y podrían variar según el lote. El '6' del nombre del sistema parece ser piezas por caja y se ignoró.",
+    "notas_imagenes": "1 foto de tienda (botella de 1 litro con bomba, 724 px). Se descartó otra foto idéntica de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

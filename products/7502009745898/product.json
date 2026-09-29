@@ -4,29 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "FLAUSIVER 450MG 50MG C20 TABS DIOSMINA HESPERIDINA MAVER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Flausiver Diosmina/Hesperidina 450 mg/50 mg 20 Tabletas",
+  "descripcion": "Descripción:\nFlausiver es un medicamento en tabletas de Maver que contiene una fracción flavonoica purificada y micronizada de diosmina (450 mg) y hesperidina (50 mg). Actúa sobre la pared venosa aumentando el tono venoso y se usa en los trastornos de la circulación venosa de las piernas y en las hemorroides.\n\nBeneficios:\n- Indicado en insuficiencia venosa: várices, síndrome varicoso, flebalgias, piernas pesadas, edemas estáticos de las piernas y secuelas postflebíticas\n- También indicado en estados preulcerosos, hemorroides y hemorragias por fragilidad capilar\n\nFórmula:\nCada tableta contiene: fracción flavonoica purificada y micronizada 500 mg (equivalente a 450 mg de diosmina y 50 mg de hesperidina); excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Várices y hemorroides: 2 tabletas juntas al día, durante semanas o meses según el criterio del médico. Crisis hemorroidal: 6 tabletas diarias durante los primeros 4 días y 4 tabletas diarias los 3 días siguientes; después, dosis de sostén de 2 tabletas diarias el tiempo que el médico juzgue necesario.\n\nPresentación:\nCaja con 20 tabletas de 450 mg/50 mg.\n\nAdvertencias:\n- Su venta requiere receta médica. Literatura exclusiva para médicos.\n- Contraindicado en hipersensibilidad a cualquiera de los componentes de la fórmula.\n- Se han reportado ocasionalmente náuseas y molestias gastrointestinales que desaparecen al suspender el tratamiento.\n- Pregunte a su médico sobre su uso durante el embarazo y la lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flausiver",
+    "fabricante": "Maver",
+    "variante": "450 mg/50 mg",
+    "presentacion": "Caja con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Diosmina; Hesperidina",
+    "concentracion": "450 mg/50 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: tableta; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009745898_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006841/7502009745898_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/flausiver-diosmina-hesperidina-450-50-mg-caja-c-20-tabletas/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7502009745898_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006842/7502009745898_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/flausiver-diosmina-hesperidina-450-50-mg-caja-c-20-tabletas/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7502009745898_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006843/7502009745898_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/flausiver-diosmina-hesperidina-450-50-mg-caja-c-20-tabletas/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 757,
+      "fecha": "2026-09-29",
+      "lado_util": 701
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/flausiver-diosmina-hesperidina-450-50-mg-caja-c-20-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (aparece en la URL de una ficha). No se vio el registro sanitario.",
+    "notas_imagenes": "3 fotos de Farmatodo (800 px): frente, vista 3/4 y reverso con fórmula.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

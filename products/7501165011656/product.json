@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "BUSCAPINA FEM 20 400MG C10 TABS OPELLA 120",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Buscapina Fem Hioscina Ibuprofeno 20/400 mg 10 Tabletas",
+  "descripcion": "Descripción:\nBuscapina Fem es un medicamento en tabletas que combina butilbromuro de hioscina (20 mg) e ibuprofeno (400 mg). Está indicado como auxiliar en el alivio del cólico menstrual (dismenorrea primaria). Combina un antiespasmódico (hioscina) con un antiinflamatorio (ibuprofeno). Se presenta en caja con 10 tabletas y es de venta sin receta.\n\nFórmula:\nCada tableta contiene butilbromuro de hioscina 20 mg, ibuprofeno 400 mg y excipiente cbp 1 tableta.\n\nModo de uso:\n- Vía oral.\n- Mujeres y niñas mayores de 12 años: tomar una tableta cada 8 horas.\n- No exceda la dosis máxima recomendada de 3 tabletas al día.\n- No se administre por más de 5 días.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\n- No se administre en menores de 12 años.\n- No debe usarse durante el embarazo ni la lactancia.\n- No lo tome si es alérgico al ibuprofeno o al butilbromuro de hioscina, ni si tiene miastenia gravis (enfermedad de los músculos) o megacolon (enfermedad del intestino grueso).\n- Lea el instructivo anexo para conocer las precauciones y las reacciones adversas.\n- Consérvese a no más de 30 °C y en lugar seco.\n- Si persisten las molestias, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Buscapina",
+    "fabricante": "Opella Healthcare",
+    "linea": "Fem",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Butilbromuro de hioscina, ibuprofeno",
+    "concentracion": "20 mg / 400 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mujeres y niñas mayores de 12 años",
+    "genero": "Mujer",
+    "otros": "Uso: cólico menstrual (dismenorrea primaria); Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165011656_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501165011656_2.jpg",
+      "pagina": "https://www.yza.mx/buscapina-fem-20mg400mg-10-tabs/MXYZ_7501165011656.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1113,
+      "fecha": "2026-09-29",
+      "lado_util": 1032
+    },
+    {
+      "archivo": "7501165011656_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501165011656_1.jpg",
+      "pagina": "https://www.yza.mx/buscapina-fem-20mg400mg-10-tabs/MXYZ_7501165011656.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1232,
+      "fecha": "2026-09-29",
+      "lado_util": 1141
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/buscapina-fem-20mg400mg-10-tabs/MXYZ_7501165011656.html",
+    "https://www.farmaciasguadalajara.com/medicina/analgesicos/buscapina-fem-20mg-400mg--10-tabletas.-1033395.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el código de barras de la foto de la parte posterior de la caja y en la ficha de Yza. La fórmula, la dosis y las advertencias se copiaron de esa etiqueta. El fabricante se toma del nombre del sistema (Opella); la ficha de Yza aún lo lista como Boehringer Ingelheim México, antiguo titular de la marca. La ficha de Farmacias Guadalajara no abrió.",
+    "notas_imagenes": "2 fotos de tienda del servidor de imágenes de Farmacias del Ahorro (frente de la caja y parte posterior con la fórmula y el código de barras, 1113 y 1232 px). La foto de Yza era muy pequeña (240x300).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

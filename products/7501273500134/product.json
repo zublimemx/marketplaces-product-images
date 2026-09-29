@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "OLEODERM CREMA 225ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Remexa Oleoderm Crema Corporal para Piel Seca 225 ml",
+  "descripcion": "Descripción:\nRemexa Oleoderm Crema es una crema corporal formulada para el cuidado de la piel seca. Combina aceite de almendras dulces e hidróxido de calcio en una textura ligera que ayuda a hidratar y proteger la epidermis, especialmente en zonas con resequedad. Se presenta en frasco de 225 ml.\n\nBeneficios:\n- Ayuda a combatir la resequedad de la piel.\n- Hidrata y protege la epidermis en zonas secas del cuerpo.\n- Con aceite de almendras dulces, conocido por su efecto suavizante.\n- Textura de crema fácil de extender.\n- Frasco de 225 ml para uso diario.\n\nIngredientes:\nAceite de almendras dulces e hidróxido de calcio. Consulte la lista completa de ingredientes en la etiqueta del producto.\n\nModo de uso:\nAplique sobre la piel limpia y seca, en las zonas con resequedad, dando un ligero masaje hasta su completa absorción. Úsela diariamente y las veces que sea necesario.\n\nPresentación:\nFrasco con 225 ml de crema.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos y las mucosas. Suspenda su uso si aparece irritación o enrojecimiento. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Remexa",
+    "fabricante": "Remexa",
+    "linea": "Oleoderm",
+    "presentacion": "Frasco de crema",
+    "contenido_neto": 225,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel seca",
+    "otros": "Ingredientes principales: aceite de almendras dulces e hidróxido de calcio; Uso: corporal"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501273500134_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501273500134.jpg",
+      "pagina": "https://www.fahorro.com/oleoderm-crema-225-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1458,
+      "fecha": "2026-09-29",
+      "lado_util": 1350
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dermaexpress.com.mx/products/oleoderm-crema-225ml-7501273500134",
+    "https://www.farmatodo.com.mx/oleoderm-crema-tubo-c-225-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y contenido de 225 ml confirmados. Categoría de cuidado corporal por tratarse de crema emoliente cosmética; alternativa: Dermatológicos Venta Libre (MLM457819).",
+    "notas_imagenes": "1 foto de tienda con el frente del frasco (1458 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,29 +4,93 @@
   "linea": "Farma",
   "nombre_sistema": "CIPROFLOX DM 1G C7 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ciproflox DM Ciprofloxacino 1 g 7 Tabletas",
+  "descripcion": "Descripción:\nCiproflox DM es un antibiótico de Laboratorios Senosiain (línea Altia) cuyo principio activo es el ciprofloxacino, de la familia de las fluoroquinolonas. Se presenta en tabletas de liberación prolongada de 1 g, en caja con 7 tabletas. Los antibióticos sirven para tratar infecciones causadas por bacterias, y su indicación, dosis y duración deben ser determinadas por un médico.\n\nComposición:\nCada tableta de liberación prolongada contiene clorhidrato de ciprofloxacino equivalente a 1 g de ciprofloxacino, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale. Complete el tratamiento indicado aunque se sienta mejor.\n\nPresentación:\nCaja con 7 tabletas de liberación prolongada de 1 g.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Antibiótico: el uso incorrecto de este producto puede causar resistencia bacteriana.\n- No se use en el embarazo ni en la lactancia, ni en menores de 18 años.\n- Conserve a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ciproflox DM",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Altia",
+    "presentacion": "Caja con 7 tabletas de liberación prolongada",
+    "contenido_neto": 7,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 7,
+    "principio_activo": "Ciprofloxacino (como clorhidrato)",
+    "concentracion": "1 g por tableta de liberación prolongada",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "086M2013 SSA IV",
+    "otros": "Tabletas de liberación prolongada; Antibiótico; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701889_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701889_3.jpg",
+      "pagina": "https://www.fahorro.com/ciproflox-dm-1-g-oral-7-tabletas-liberacion-prolongada.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1409,
+      "fecha": "2026-09-29",
+      "lado_util": 1305
+    },
+    {
+      "archivo": "7501314701889_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701889_1.jpg",
+      "pagina": "https://www.fahorro.com/ciproflox-dm-1-g-oral-7-tabletas-liberacion-prolongada.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1427,
+      "fecha": "2026-09-29",
+      "lado_util": 1322
+    },
+    {
+      "archivo": "7501314701889_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701889_2.jpg",
+      "pagina": "https://www.fahorro.com/ciproflox-dm-1-g-oral-7-tabletas-liberacion-prolongada.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1220,
+      "fecha": "2026-09-29",
+      "lado_util": 1130
+    },
+    {
+      "archivo": "7501314701889_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501314701889.jpg",
+      "pagina": "https://www.fahorro.com/ciproflox-dm-1-g-oral-7-tabletas-liberacion-prolongada.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1134,
+      "fecha": "2026-09-29",
+      "lado_util": 1050
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ciproflox-dm-1-g-oral-7-tabletas-liberacion-prolongada.html",
+    "https://www.farmaciasguadalajara.com/medicina/antibioticos/ciproflox-dm-1-gr--7-tabletas.-1195069.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas y en el código de barras de la etiqueta trasera; fórmula, receta, advertencias y registro tomados de esa etiqueta. No se hallaron indicaciones detalladas, por eso la descripción es general.",
+    "notas_imagenes": "4 fotos de tienda: frente, etiqueta trasera con la fórmula, vista en ángulo y otra de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

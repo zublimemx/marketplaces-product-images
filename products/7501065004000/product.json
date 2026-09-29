@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "CENTRUM GENDER MUJER C/60 TABS 50 MAS VIT Y MIN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Centrum Gender Adulto Mujer +50 Multivitamínico 60 Tabletas",
+  "descripcion": "Descripción:\nCentrum Gender Adulto para Mujeres (presentado anteriormente como Centrum Gender +50 Mujer) es un multivitamínico en tabletas con una fórmula balanceada desarrollada para complementar las necesidades nutrimentales de la mujer mayor de 50 años. Es un auxiliar en la deficiencia de vitaminas, minerales y antioxidantes. Su empaque destaca que contiene vitaminas C y E, calcio, hierro y retinol, entre otros nutrientes.\n\nBeneficios:\n- Fórmula balanceada para mujeres mayores de 50 años\n- Auxiliar en la deficiencia de vitaminas, minerales y antioxidantes\n- Una tableta al día, preferentemente con los alimentos\n- Frasco con 60 tabletas, suficiente para 60 días de uso\n\nComposición:\nMultivitamínico y multimineral con, entre otros: vitaminas C y E, calcio, hierro y retinol (vitamina A).\n\nModo de uso:\nVía oral. Adultos: una tableta al día, preferentemente con los alimentos. No exceda la dosis diaria recomendada.\n\nPresentación:\nFrasco con 60 tabletas.\n\nAdvertencias:\nEn caso de embarazo y lactancia, consulte a su médico antes de usarlo. No lo use si tiene hipersensibilidad a alguno de los componentes de la fórmula. Contiene hierro que, a dosis altas, puede ser dañino en niños; no se recomienda su uso pediátrico. Si toma otro complemento, lea su etiqueta, ya que podría contener el mismo ingrediente. Puede causar malestar abdominal, constipación, diarrea, náusea o malestar estomacal. Contiene un desecante no ingerible; consérvelo dentro del envase, bien cerrado, protegido de la luz y a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Centrum",
+    "fabricante": "Haleon (GSK Consumer Healthcare México)",
+    "linea": "Gender Adulto",
+    "variante": "Mujer +50",
+    "presentacion": "Frasco con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "via_administracion": "Oral",
+    "edad_etapa": "Mujeres mayores de 50 años",
+    "genero": "Mujer",
+    "registro_sanitario": "003V2017 SSA",
+    "otros": "Multivitamínico y multimineral; Dosis: 1 tableta al día; Contiene vitaminas C y E, calcio, hierro y retinol; Contiene desecante no ingerible"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065004000_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/es_MX/sliced-images/packshot/Gender-mujer.jpg?auto=format",
+      "pagina": "https://centrum.com.mx/productos/centrum-gender-adulto-mujeres/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1200,
+      "fecha": "2026-09-29",
+      "lado_util": 1112
+    },
+    {
+      "archivo": "7501065004000_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/es_MX/products/ProductsInfos/Gender-Mujer.jpg?auto=format",
+      "pagina": "https://centrum.com.mx/productos/centrum-gender-adulto-mujeres/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1185,
+      "fecha": "2026-09-29",
+      "lado_util": 1098
+    }
+  ],
+  "url_oficial": "https://centrum.com.mx/productos/centrum-gender-adulto-mujeres/",
+  "fuentes": [
+    "https://centrum.com.mx/productos/centrum-gender-adulto-mujeres/",
+    "https://farmaciasanjorge.com/products/36123",
+    "https://wecarepharma.mx/en/products/centrum-gender-50-mujer-con-60-tabletas-multivitaminico"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN aparece en tiendas como 'Centrum Gender +50 Mujer 60 tabletas' (empaque Pfizer) y el fabricante hoy lo llama 'Centrum Gender Adulto para Mujeres' (mujer mayor de 50 años); se trata como el mismo producto renombrado, sin poder verificar que el GTIN sea idéntico en el empaque nuevo. Registro 003V2017 SSA leído en la etiqueta oficial; la lista completa de nutrientes por tableta no estaba en las fuentes.",
+    "notas_imagenes": "2 fotos oficiales del fabricante (1200 y 1185 px): caja actual 'Gender Adulto para Mujeres' y reverso con la etiqueta. Descarté la foto de tienda del empaque anterior 'Gender +50'.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

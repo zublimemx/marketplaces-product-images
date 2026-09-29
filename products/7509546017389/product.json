@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH PALMOL OPT EXTIN 2EN1 700ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Palmolive Optims 2 en 1 Extra Intensivo 700 ml",
+  "descripcion": "Descripción:\nShampoo 2 en 1 Palmolive Optims Nivel 4 Acondicionamiento Extra Intensivo con Vital Keratina, en presentación de 700 ml. Limpia y acondiciona en un solo paso, y deja el cabello hasta 3 veces más suave, según el empaque.\n\nBeneficios:\n- Fórmula 2 en 1: shampoo y acondicionador en un solo producto.\n- Acondicionamiento extra intensivo (nivel 4 de la línea Optims) para un cabello 3 veces más suave.\n- Con queratina hidrolizada (Vital Keratina) y una mezcla de aceites vegetales como camelia, girasol, almendra dulce, semilla de uva y argán.\n- Botella hecha con 39% de plástico reciclado.\n\nIngredientes:\nAqua, Sodium Laureth Sulfate, Dimethiconol, Cocamide MEA, Glycol Distearate, Parfum, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Phosphate, Tetrasodium EDTA, Disodium Laureth Sulfosuccinate, Sodium Salicylate, Sodium Benzoate, Stearyl Dimethicone PG-Diethylmonium Chloride, Hydrolyzed Keratin, Polyquaternium-6, Sodium Hydroxide, Camellia Sinensis Leaf Oil, Helianthus Annuus (Sunflower) Seed Oil, Camellia Oleifera Seed Oil, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Vitis Vinifera (Grape) Seed Oil, Argania Spinosa Kernel Oil.\n\nModo de uso:\nAplique el producto sobre el cabello mojado y masajee suavemente, distribuyendo la espuma hasta las puntas. Déjelo actuar durante unos minutos, enjuague y repita si es necesario.\n\nPresentación:\nBotella de 700 ml.\n\nAdvertencias:\nEvite el contacto con los ojos; si sucede, enjuáguelos con agua. Suspenda su uso si observa alguna reacción desfavorable. No se recomienda su uso en niños menores de 3 años. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Optims",
+    "variante": "Nivel 4 Extra Intensivo con Vital Keratina, 2 en 1",
+    "presentacion": "Botella",
+    "contenido_neto": 700,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Formato: 2 en 1 (shampoo y acondicionador); Nivel de acondicionamiento: 4 (extra intensivo); Botella con 39% de plástico reciclado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546017389_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/ImagenGrande/PV-7509546017389-1_large.jpg",
+      "pagina": "https://www.delsol.com.mx/shampoo-2-en-1-palmolive-optims-nivel-4-700-ml-7509546017389p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 790,
+      "fecha": "2026-09-29",
+      "lado_util": 732
+    },
+    {
+      "archivo": "7509546017389_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/ImagenGrande/MK-7509546017389-3_large.jpg",
+      "pagina": "https://www.delsol.com.mx/shampoo-2-en-1-palmolive-optims-nivel-4-700-ml-7509546017389p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/shampoo-2-en-1-palmolive-optims-nivel-4-700-ml-7509546017389p",
+    "https://www.fahorro.com/shampoo-palmolive-optims-extra-intensivo-2-en-1-700-ml.html",
+    "https://incibeauty.com/en/produit/7509546017389"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes, modo de uso y precauciones leídos de la foto del contraempaque. 'Todo tipo de cabello' es criterio general (las fuentes no especifican tipo).",
+    "notas_imagenes": "2 fotos de tienda (Del Sol): frente de la botella (790 px) y contraempaque con ingredientes (980 px). Se descartaron un banner de 'Vital Keratina' y una foto con gráfico de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

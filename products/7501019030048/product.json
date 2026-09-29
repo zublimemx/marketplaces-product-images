@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TENA SLIP MED C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañal para Adulto TENA Slip Maxi Protect CH/M 10 Piezas",
+  "descripcion": "Descripción:\nTENA Slip Maxi Protect es un pañal para adulto tipo slip, unisex, pensado para personas con incontinencia urinaria de nivel abundante. Se presenta en talla chica/mediana (CH/M), en paquete con 10 piezas. Ofrece la máxima protección de la línea Slip de TENA, con cintas ajustables y tecnología ProSkin.\n\nBeneficios:\n- Absorción abundante: nivel 9 en la escala de absorción de TENA (de 10).\n- Tecnología ProSkin que cuida y protege la piel, con vitamina E y extracto de avena.\n- Doble barrera anti-escurrimientos para mayor seguridad.\n- Cintas multiajuste para acomodar el pañal de forma segura.\n- Materiales respirables que ayudan a cuidar la piel.\n\nPresentación:\nPaquete con 10 pañales para adulto, talla CH/M.\n\nModo de uso:\nAbra el pañal, colóquelo entre las piernas y ajuste las cintas adhesivas a la cintura hasta que quede firme y cómodo, sin apretar. Cámbielo cuando esté húmedo o sucio y realice la higiene de la piel en cada cambio.\n\nAdvertencias:\nProducto desechable de un solo uso. Deséchelo en la basura, no en el inodoro. Consulte a su médico si aparece irritación en la piel o si los escapes son frecuentes. Mantenga el paquete fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "TENA",
+    "fabricante": "Essity",
+    "linea": "Slip Maxi Protect",
+    "variante": "Pañal para adulto tipo slip",
+    "presentacion": "Paquete con 10 piezas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "talla": "Chica/Mediana (CH/M)",
+    "genero": "Unisex",
+    "otros": "Absorción: abundante (nivel 9 de 10); Tecnología ProSkin con vitamina E y extracto de avena; Cintas multiajuste; Doble barrera anti-escurrimientos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019030048_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7501019030048-1.jpg",
+      "pagina": "https://www.delsol.com.mx/protector-anatomico-tena-slip-maxi-protect-chico-mediano-10-piezas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
+  "url_oficial": "https://www.tena.com.mx/pants-y-slips",
+  "fuentes": [
+    "https://www.delsol.com.mx/protector-anatomico-tena-slip-maxi-protect-chico-mediano-10-piezas",
+    "https://www.tena.com.mx/pants-y-slips"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La foto de tienda tiene el GTIN en el nombre del archivo y muestra 'Slip Maxi Protect CH/M, 10 piezas' (el sistema solo dice 'MED'). Beneficios leídos del empaque y de imágenes del fabricante; la página de Del Sol devolvió 403. Fabricante Essity inferido de la marca TENA.",
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1000 px) del paquete de frente. Se descartaron 3 infografías promocionales con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

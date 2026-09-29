@@ -4,29 +4,79 @@
   "linea": "Farma",
   "nombre_sistema": "HEMOSIN K FA C3 AMP 10MG HORMONA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hemosin-K Solución Inyectable 10 mg/10 mg 3 Aplicaciones",
+  "descripcion": "Descripción:\nHemosin-K es una solución inyectable de dos componentes que combina carbazocromo y bisulfito sódico de menadiona (vitamina K3). Según la información de farmacia, es un medicamento hemostático indicado para prevenir y tratar diversos tipos de hemorragias, incluso antes, durante y después de procedimientos quirúrgicos, siempre por indicación médica. La presentación incluye 3 frascos ámpula con la solución A y 3 ampolletas con la solución B, que se mezclan antes de aplicar.\n\nComposición:\n- Cada frasco ámpula con solución A contiene sulfonato sódico de carbazocromo 10 mg, vehículo cbp 2 ml.\n- Cada ampolleta con solución B contiene bisulfito sódico de menadiona (vitamina K3) 10 mg, vehículo cbp 2 ml.\n- Hecha la mezcla, el frasco ámpula contiene carbazocromo 10 mg y bisulfito sódico de menadiona 10 mg en 4 ml.\n\nModo de uso:\nVía intramuscular o intravenosa, con la dosis que el médico señale. Después de limpiar con alcohol el tapón del frasco ámpula con solución A y de abrir la ampolleta con solución B, con aguja y jeringa esterilizadas aspire el contenido de la ampolleta y viértalo dentro del frasco ámpula, perforando el tapón. Aspire con la jeringa la solución preparada antes de inyectarla. Hecha la mezcla, adminístrese de inmediato y deseche el sobrante.\n\nPresentación:\nCaja con 3 frascos ámpula de 2 ml (solución A) y 3 ampolletas de 2 ml (solución B).\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use en el embarazo.\n- Conserve a temperatura ambiente a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hemosin-K",
+    "fabricante": "Laboratorios Sanfer (Hormona Laboratorios, según la versión del empaque)",
+    "presentacion": "Caja con 3 frascos ámpula y 3 ampolletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Carbazocromo (sulfonato sódico) y bisulfito sódico de menadiona (vitamina K3)",
+    "concentracion": "10 mg / 10 mg",
+    "via_administracion": "Intramuscular o intravenosa",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "64810 SSA IV",
+    "otros": "Solución A (frasco ámpula de 2 ml) y solución B (ampolleta de 2 ml) para mezclar antes de aplicar; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
+      "catalogo_id": "MLM28753051"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385410055_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385410055.jpg",
+      "pagina": "https://farmalisto.com.mx/hematologia/6432-comprar-hemosin-k-solucion-inyectable-10-mg-10-mg-caja-con-3-aplicaciones-antihemorragico-precio-7501385410055.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1464,
+      "fecha": "2026-09-29",
+      "lado_util": 1356
+    },
+    {
+      "archivo": "7501385410055_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385410055_1.jpg",
+      "pagina": "https://farmalisto.com.mx/hematologia/6432-comprar-hemosin-k-solucion-inyectable-10-mg-10-mg-caja-con-3-aplicaciones-antihemorragico-precio-7501385410055.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1445,
+      "fecha": "2026-09-29",
+      "lado_util": 1338
+    },
+    {
+      "archivo": "7501385410055_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385410055_2.jpg",
+      "pagina": "https://farmalisto.com.mx/hematologia/6432-comprar-hemosin-k-solucion-inyectable-10-mg-10-mg-caja-con-3-aplicaciones-antihemorragico-precio-7501385410055.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1541,
+      "fecha": "2026-09-29",
+      "lado_util": 1427
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/hemosin-k-3-x-2-ml-fam",
+    "https://farmalisto.com.mx/hematologia/6432-comprar-hemosin-k-solucion-inyectable-10-mg-10-mg-caja-con-3-aplicaciones-antihemorragico-precio-7501385410055.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (3 frascos ámpula con 3 ampolletas). La fórmula y la receta salen de la etiqueta trasera; una farmacia lo describe con fitomenadiona, pero el empaque indica bisulfito sódico de menadiona (vitamina K3). Existen dos diseños de caja (Hormona Laboratorios y Sanfer). El catálogo ML sale de un resultado de búsqueda (\"Hemosin-K solución inyectable 10 mg/10 mg, 3 frascos, 3 ampolletas\"); la página no se abrió.",
+    "notas_imagenes": "3 fotos de tienda con el diseño de caja de Hormona Laboratorios (frente, parte trasera con la vía de administración y vista en ángulo). Se borraron las de la versión con marca Sanfer y una repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

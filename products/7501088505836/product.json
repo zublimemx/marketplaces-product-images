@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "TROFERIT FLOW 30 30MG TAB C15",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Troferit Flow Dropropizina/Ambroxol 30 mg/30 mg 15 Tabletas",
+  "descripcion": "Descripción:\nTroferit Flow es un medicamento en tabletas que combina dropropizina (30 mg), un antitusígeno no narcótico de acción periférica, y ambroxol (30 mg). Es un producto de Chinoin.\n\nBeneficios:\n- Auxiliar en el alivio de la tos de diversos padecimientos respiratorios\n- Combina dropropizina y ambroxol en una sola tableta\n\nFórmula:\nCada tableta contiene: dropropizina 30 mg y clorhidrato de ambroxol 30 mg; excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico; consulte también el instructivo del empaque.\n\nPresentación:\nCaja con 15 tabletas de 30 mg/30 mg.\n\nAdvertencias:\n- No se use en niños menores de 12 años.\n- Úsese con precaución en pacientes con antecedentes de enfermedad hepática o renal o de úlcera gástrica.\n- Para su uso durante el embarazo y la lactancia debe evaluarse la relación riesgo-beneficio con el médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Troferit",
+    "fabricante": "Productos Farmacéuticos, S.A. de C.V. (Chinoin)",
+    "linea": "Flow",
+    "variante": "30 mg/30 mg",
+    "presentacion": "Caja con 15 tabletas",
+    "contenido_neto": 15,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Dropropizina; Ambroxol",
+    "concentracion": "30 mg/30 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mayores de 12 años y adultos",
+    "otros": "Forma farmacéutica: tableta"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088505836_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088505836.jpg",
+      "pagina": "https://www.fahorro.com/troferit-flow-15-tabs.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1191,
+      "fecha": "2026-09-29",
+      "lado_util": 1101
+    },
+    {
+      "archivo": "7501088505836_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006051/7501088505836_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/troferit-30-30-mg-caja-c-15-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/troferit-flow-30-30-mg-c-15-tabs/p",
+    "https://www.farmatodo.com.mx/troferit-30-30-mg-caja-c-15-tabletas/p",
+    "https://www.farmaciasguadalajara.com/medicina/vias-respiratorias/troferit-flow-30mg-30mg--15-tabletas.-1321668.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado, pero la ficha de una farmacia lista solo dropropizina 30 mg (versión sin ambroxol); la composición dropropizina/ambroxol 30/30 mg sale del empaque y de otras tiendas. No se encontró la dosis ni la clasificación de receta: una ficha lo marca como fracción IV y no trae la leyenda de receta; revisar.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro 1200 px, con fórmula, y Farmatodo 1000 px, vista 3/4); se descartó una imagen de 400 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

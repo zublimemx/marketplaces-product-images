@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM HUGG SUPREM P-N C/80",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Huggies Supreme Protección Delicada 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé Huggies Supreme, con suavidad superior gracias a su textura algodonosa y cuidado superior con aceite de almendra. Están dermatológicamente probadas e hipoalergénicas, pensadas para limpiar con delicadeza la piel del bebé en cada cambio de pañal. Se presentan en paquete con tapa de 80 toallitas.\n\nBeneficios:\n- Textura suave tipo algodón para una limpieza delicada\n- Con aceite de almendra para el cuidado de la piel del bebé\n- Dermatológicamente probadas\n- Hipoalergénicas\n- Paquete con tapa para conservar la humedad de las toallitas\n\nModo de uso:\nTome una toallita del paquete y limpie suavemente la piel del bebé. Cierre bien la tapa después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\nUso externo. No tire las toallitas al inodoro. Manténgase fuera del alcance de los niños. Suspenda su uso si observa irritación en la piel del bebé.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Supreme",
+    "variante": "Protección Delicada (antes Pure & Natural)",
+    "presentacion": "Paquete con tapa",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel delicada de bebé",
+    "otros": "Dermatológicamente probadas: sí; Hipoalergénicas: sí; Con aceite de almendra"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425607808_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425607808.png?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000&format=jpeg",
+      "pagina": "https://www.fahorro.com/huggies-supreme-toallitas-humedas-80-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1505,
+      "fecha": "2026-09-29",
+      "lado_util": 1394
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/huggies-supreme-toallitas-humedas-proteccion-delicada-80-uds",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-huggies-supreme-80-piezas",
+    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-80-pz.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN aparece como Huggies Supreme Pure & Natural 80 piezas (abreviatura P-N del sistema) y la foto oficial del mismo GTIN muestra el empaque vigente Protección Delicada. Modo de uso y advertencias son recomendaciones generales de toallitas húmedas.",
+    "notas_imagenes": "1 foto de tienda (paquete frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS CLARANB3 FPS30 FAC200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 FPS 30 200 g",
+  "descripcion": "Descripción:\nCrema facial Pond's Clarant B3 con protección solar FPS 30, en tubo de 200 g. Desarrollada por el Pond's Institute y dermatológicamente probada, combina humectación diaria con protección contra los rayos UVA y UVB, y contiene vitaminas B3 (niacinamida) y B6. Su empaque indica que ayuda a aclarar la piel y su textura es ultraligera.\n\nBeneficios:\n- Humectante de uso diario.\n- Protege de los rayos UVA/UVB con FPS 30.\n- Con vitamina B3 (niacinamida) y vitamina B6.\n- Ayuda a aclarar la piel, según el empaque.\n- Sensación ultraligera en la piel.\n\nIngredientes:\nEntre sus ingredientes principales figuran agua, salicilato de etilhexilo, niacinamida, glicerina, butil metoxidibenzoilmetano, ácido fenilbencimidazol sulfónico, dimeticona, octocrileno, dióxido de titanio, vitamina B6, vitamina C y acetato de vitamina E. Consulte la lista completa en el empaque.\n\nModo de uso:\nDespués de lavar la cara con un limpiador facial, aplique una generosa cantidad en el rostro y cuello. Úsela diariamente.\n\nPresentación:\nTubo con 200 g de crema facial con protección solar FPS 30.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua.\n- Suspenda su uso si aparece irritación o enrojecimiento en la piel.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Crema facial con protección solar FPS 30",
+    "presentacion": "Tubo de crema facial",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "FPS 30; Protege contra rayos UVA y UVB; Con niacinamida (vitamina B3) y vitamina B6; Dermatológicamente probada; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306215764_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506306215764.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/crema-ponds-clarant-b3-fps30-200-g/p",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1490,
+      "fecha": "2026-09-29",
+      "lado_util": 1380
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/crema-con-protector-solar-clarant-b3-30fps.html/07506306215764",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/crema-con-protector-solar-clarant-b3-30fps.html/07506306215764",
+    "https://www.lagranbodega.com.mx/crema-ponds-clarant-b3-fps30-200-g/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Pond's México (dirección con el código) y en tiendas; beneficios tomados del empaque y modo de uso e ingredientes de la página oficial. La lista oficial usa nombres comerciales de materias primas, por eso se resumió.",
+    "notas_imagenes": "1 foto de tienda de frente del tubo de 200 g; la imagen de la página oficial no se pudo descargar.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

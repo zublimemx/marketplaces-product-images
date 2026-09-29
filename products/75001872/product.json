@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "BRILL PALMOL LIQ 52ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Brillantina Palmolive Líquida con Aceite de Oliva 52 ml",
+  "descripcion": "Descripción:\nBrillantina líquida Palmolive con aceite de oliva en frasco de 52 ml. Es un producto para el arreglo del cabello que ayuda a mantener el peinado durante todo el día y aporta brillo, suavidad y un acabado sedoso sin sensación pesada. Su textura líquida permite aplicarla con muy poca cantidad de producto.\n\nBeneficios:\n- Mantiene el peinado durante todo el día\n- Aporta brillo natural al cabello\n- Ayuda a suavizar el cabello y lo deja más manejable y fácil de peinar\n- Ayuda a controlar el frizz y mejora la apariencia del cabello seco o maltratado\n- Fórmula con aceite de oliva, en presentación líquida y con aroma floral\n- Frasco transparente con tapa negra de 52 ml, práctico para llevar\n\nPresentación:\nFrasco de 52 ml (contenido neto).",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Brillantina",
+    "variante": "Con aceite de oliva",
+    "presentacion": "Frasco de 52 ml",
+    "contenido_neto": 52,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Floral",
+    "otros": "Formato: brillantina líquida; Ingrediente destacado: aceite de oliva"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75001872_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/6996985/75001872_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/palmolive-brillantina-con-aceite-de-oliva-frasco-c-52-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/palmolive-brillantina-con-aceite-de-oliva-frasco-c-52-ml/p",
+    "https://www.dax.com.mx/producto/palmolive-brillantina-liquida-52-ml-aceite-de-oliva-75001872.html",
+    "https://www.lagranbodega.com.mx/brillantina-palmolive-liquido-52-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 8 dígitos confirmado en varias tiendas. Los beneficios salen de descripciones de tienda, no del fabricante; no se encontró lista de ingredientes ni modo de uso, y se omitieron.",
+    "notas_imagenes": "1 foto de Farmatodo (1000 px, frente del frasco).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

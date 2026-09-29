@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH MENNEN 2EN1 PROTEINA 700ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Mennen 2 en 1 Enriquecido con Proteína 700 ml",
+  "descripcion": "Descripción:\nShampoo 2 en 1 de la marca Mennen, enriquecido con proteína, de la línea Fuerza y Manejabilidad. Su fórmula limpia y acondiciona suavemente el cabello en un solo paso, dejándolo manejable, fácil de peinar y lleno de vitalidad. Está pensado para toda la familia y se presenta en una botella de 700 ml, práctica para el uso diario y para rendir por más tiempo.\n\nBeneficios:\n- Limpia y acondiciona en un solo paso gracias a su fórmula 2 en 1\n- Enriquecido con proteína para dar fuerza al cabello\n- Deja el cabello manejable, fácil de peinar y con vitalidad\n- Apto para uso familiar\n- Botella de 700 ml\n\nIngredientes:\nAqua, Sodium Laureth Sulfate, Cocamide MEA, Glycol Distearate, Sodium Chloride, Parfum, Cocamidopropyl Betaine, Sodium Benzoate, Dimethiconol, Decyl Glucoside, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Jojoba Wax PEG-120 Esters, Bis-Cetearyl Amodimethicone, Sodium Hydroxide, Laurdimonium Hydroxypropyl Hydrolyzed Wheat Protein, entre otros.\n\nModo de uso:\nHumedezca el cabello y aplique el producto. Masajee suavemente distribuyendo la espuma hasta las puntas y deje actuar durante unos minutos. Enjuague y repita si es necesario.\n\nPresentación:\nBotella de 700 ml.\n\nAdvertencias:\nEvite el contacto con los ojos; si sucede, enjuague con agua. Suspenda su uso si observa alguna reacción desfavorable. Manténgase fuera del alcance de los niños cuando un adulto no supervise su manejo.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Fuerza y Manejabilidad",
+    "variante": "Enriquecido con Proteína",
+    "presentacion": "Botella",
+    "contenido_neto": 700,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Fórmula: Shampoo 2 en 1 (shampoo y acondicionador); Uso: familiar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546072043_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwba82c88d/images/large/7509546072043_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.sears.com.mx/producto/811513/mennen-2-en-1-shampoo-con-acondicionador-con-proteina-fuerza-y-manejabilidad-700-ml-botella",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1070,
+      "fecha": "2026-09-29",
+      "lado_util": 991
+    },
+    {
+      "archivo": "7509546072043_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6696c377/images/large/7509546072043_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.sears.com.mx/producto/811513/mennen-2-en-1-shampoo-con-acondicionador-con-proteina-fuerza-y-manejabilidad-700-ml-botella",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1078,
+      "fecha": "2026-09-29",
+      "lado_util": 998
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/mennen-shampoo-proteina-700ml/MXYZ_7509546072043.html",
+    "https://www.sears.com.mx/producto/811513/mennen-2-en-1-shampoo-con-acondicionador-con-proteina-fuerza-y-manejabilidad-700-ml-botella"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Descripción, modo de uso, precauciones e ingredientes tomados de la etiqueta posterior del envase (foto). Lista de ingredientes parcial.",
+    "notas_imagenes": "2 fotos de tienda (frente y contraetiqueta del envase), 1000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

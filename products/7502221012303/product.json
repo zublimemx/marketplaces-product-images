@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM CLARIS DESMAQ ALOE C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Desmaquillantes Claris Aloe Vera 40 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas desmaquillantes Claris con extracto de aloe vera, para todo tipo de piel. Remueven el maquillaje de cara, cuello y contorno de ojos con una sola toallita y dejan la piel limpia. Cada paquete incluye 40 toallitas y cuenta con tapa de plástico para cerrarlo después de cada uso.\n\nBeneficios:\n- Remueve el maquillaje con solo una toallita\n- Con extracto de aloe vera\n- Sin parabenos y sin alcohol\n- Libre de crueldad animal\n- Para todo tipo de piel\n\nIngredientes:\nWater, glycerin, PEG-12 dimethicone, aloe barbadensis leaf extract (extracto de aloe vera), polysorbate 20, methylisothiazolinone, iodopropynyl butylcarbamate, citric acid, fragrance.\n\nModo de uso:\n- Levante la tapa de plástico\n- Saque una toallita húmeda del paquete\n- Limpie suavemente su rostro y cuello para remover maquillaje y suciedad\n- Vuelva a cerrar la tapa de plástico\n\nPresentación:\nPaquete con 40 toallitas desmaquillantes.\n\nAdvertencias:\nEvite el contacto con los ojos. Manténgase fuera del alcance de los niños. Si observa algún tipo de reacción adversa, suspenda su uso y consulte a su médico.",
+  "ficha": {
+    "marca": "Claris",
+    "fabricante": "Betone, S.A. de C.V.",
+    "linea": "Toallitas desmaquillantes",
+    "variante": "Aloe vera",
+    "presentacion": "Paquete con 40 toallitas",
+    "contenido_neto": 40,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 40,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Sin parabenos; Sin alcohol; Libre de crueldad animal; Con tapa de plástico; Hecho en México"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM179203",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Limpieza Facial > Desmaquillantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502221012303_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7502221012303-01.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-desmaquillantes-claris-con-aloe-vera-40-pz",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1050,
+      "fecha": "2026-09-29",
+      "lado_util": 970
+    },
+    {
+      "archivo": "7502221012303_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7502221012303-02.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-desmaquillantes-claris-con-aloe-vera-40-pz",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 959,
+      "fecha": "2026-09-29",
+      "lado_util": 888
+    },
+    {
+      "archivo": "7502221012303_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7502221012303-03.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-desmaquillantes-claris-con-aloe-vera-40-pz",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 921,
+      "fecha": "2026-09-29",
+      "lado_util": 853
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-desmaquillantes-claris-con-aloe-vera-40-pz",
+    "https://farmaciasanjorge.com/products/24670"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes, modo de uso y precauciones leídos en la foto del reverso (código de barras 7502221012303 visible). Fabricante Betone S.A. de C.V. según etiqueta.",
+    "notas_imagenes": "3 fotos de tienda (1050, 959 y 921 px): frente en ángulo, frente y reverso del empaque actual. Descarté una foto del empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

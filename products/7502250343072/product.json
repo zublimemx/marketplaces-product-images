@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "VITACILINA 28G 2X1",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vitacilina Ungüento Neomicina y Retinol 28 g",
+  "descripcion": "Descripción:\nVitacilina es un ungüento tópico con neomicina y retinol (vitamina A) en tubo de 28 g. En el empaque se lee que ayuda en el tratamiento de eczema, rozaduras y espinillas, quemaduras y heridas leves, y úlceras de la piel. La neomicina es un antibiótico de uso local.\n\nFórmula:\nLa etiqueta indica neomicina 0.350 g y retinol 100 000 UI (palmitato de vitamina A), en base de ungüento.\n\nModo de uso:\nVía cutánea. Limpie y seque la zona afectada y aplique una capa delgada de ungüento, una o varias veces al día, o como lo indique su médico. Después de aplicar, lávese las manos.\n\nPresentación:\nTubo con 28 g de ungüento, en caja.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos y las mucosas.\n- No lo use si es alérgico a la neomicina o a algún componente de la fórmula.\n- No lo aplique en heridas profundas o extensas ni por periodos prolongados sin supervisión médica.\n- Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "presentacion": "Ungüento en tubo",
+    "contenido_neto": 28,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Neomicina, retinol (palmitato de vitamina A)",
+    "concentracion": "Neomicina 0.350 g; retinol 100 000 UI",
+    "via_administracion": "Cutánea",
+    "otros": "Uso: eczema, rozaduras, espinillas, quemaduras y heridas leves, úlceras; Formato de venta: Caja con tubo de 28 g"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502250343072_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/354312225133_761ece97-0855-4adb-a2ca-5221e173e35f.jpg?v=1701387186&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/1205",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 945,
+      "fecha": "2026-09-29",
+      "lado_util": 875
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/botiquin/95-comprar-vitacilina-unguento-caja-con-tubo-con-28-g-precio.html",
+    "https://farmaciasanjorge.com/products/1205",
+    "https://grupofarmapronto.com/producto/vitacilina-28g-unguento/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre y por el tubo: el GTIN 7502250343072 no apareció en ninguna ficha (la Vitacilina de 28 g normal circula con el código 354312225133), y el nombre del sistema trae '2X1', que parece una promoción de dos tubos. Se describió una Vitacilina de 28 g; conviene confirmar si el código es un paquete doble. La composición (neomicina y retinol) sale del tubo y de fichas de tienda; una tienda la describe con polimixina y bacitracina y se descartó.",
+    "notas_imagenes": "1 foto de tienda (tubo de Vitacilina de 28 g con la fórmula visible, 945 px) de una farmacia; corresponde al código normal 354312225133, no al código del paquete 2x1.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

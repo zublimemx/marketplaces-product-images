@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "FIGRAL 100 C10 SILDENAFIL MAVI",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Figral Sildenafil 100 mg 10 Tabletas",
+  "descripcion": "Descripción:\nFigral es un medicamento a base de sildenafilo, un inhibidor de la fosfodiesterasa tipo 5, indicado para el tratamiento de la disfunción eréctil en hombres adultos. Cada tableta contiene 100 mg de sildenafilo y la caja incluye 10 tabletas. Es un medicamento de prescripción médica: su médico determinará la dosis adecuada según su respuesta y tolerancia.\n\nBeneficios:\n- Tratamiento de la disfunción eréctil\n- Concentración de 100 mg por tableta\n- Caja con 10 tabletas de administración oral\n\nComposición:\nCada tableta contiene sildenafilo 100 mg.\n\nModo de uso:\nVía oral. En disfunción eréctil, la dosis inicial habitual es de 50 mg tomada aproximadamente una hora antes de la actividad sexual; según la eficacia y la tolerancia, su médico puede ajustarla a 100 mg o reducirla a 25 mg. La dosis máxima es de 100 mg una vez al día.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use con nitratos ni donadores de óxido nítrico, ni si tiene hipotensión, insuficiencia hepática grave, disfunciones cardiovasculares graves o hipersensibilidad al sildenafilo. Puede causar mareos y alteraciones visuales. Si la erección dura más de 4 horas, solicite atención médica de inmediato. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Figral",
+    "fabricante": "Mavi",
+    "presentacion": "Caja",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Sildenafilo",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "032M2012 SSA",
+    "otros": "Forma farmacéutica: tabletas; Clasificación ATC: G04BE03; Condición de venta: con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "785118753962_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/785118753962-min.jpg?v=1723131399&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/31231",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 741,
+      "fecha": "2026-09-29",
+      "lado_util": 687
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1278553/figral-tableta-100-mg",
+    "https://farmaciasanjorge.com/products/31231",
+    "https://www.cadistribucion.mx/shop/785118753962-figral-100mg-tabletas-c-10-19687"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (UPC) confirmado en cadistribucion. Registro y posología tomados de la ficha de vademécum.",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1080 px original).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

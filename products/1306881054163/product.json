@@ -5,7 +5,7 @@
   "nombre_sistema": "NEURODEX INY C 1 DEXAMETASONA COMPLEJO B MEDICAM",
   "nombres_sistema_alternos": [],
   "titulo": "Neurodex Dexametasona Complejo B Inyectable 1 Ampolleta",
-  "descripcion": "Descripción:\nNeurodex es un medicamento inyectable que, según su denominación comercial, combina dexametasona (un corticosteroide) con vitaminas del complejo B en una sola presentación. La marca también se comercializa en tabletas con los mismos componentes. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nDexametasona y vitaminas del complejo B. Las concentraciones de cada componente y el volumen de la ampolleta deben confirmarse en el empaque.\n\nModo de uso:\nSolución inyectable. La vía de administración, la dosis y la frecuencia deben ser indicadas por el médico, y la aplicación debe realizarla personal de salud.\n\nPresentación:\nCaja con 1 ampolleta (1 pieza).\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nNeurodex inyectable es un medicamento que, según su denominación comercial, combina dexametasona (un glucocorticoide) con vitaminas del complejo B en una sola presentación. La misma marca se comercializa también en tabletas con los mismos componentes. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nDexametasona y vitaminas del complejo B. Las concentraciones de cada componente y el volumen de la ampolleta deben confirmarse en el empaque.\n\nModo de uso:\nSolución inyectable. La vía de administración, la dosis y la frecuencia deben ser indicadas por el médico, y la aplicación debe realizarla personal de salud.\n\nPresentación:\nCaja con 1 ampolleta (1 pieza).\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- No lo aplique por cuenta propia ni lo combine con otros medicamentos sin consultar a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Neurodex",
     "presentacion": "Solución inyectable",
@@ -13,6 +13,7 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 1,
     "principio_activo": "Dexametasona y vitaminas del complejo B",
+    "via_administracion": "Inyectable",
     "edad_etapa": "Adultos",
     "otros": "Proveedor: Medicam; Concentraciones y vía de administración por confirmar en el empaque; Formato de venta: Caja"
   },
@@ -31,15 +32,16 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://farmaciaherrera.com.mx/products/dexametasona-complejo-b-neurodex-con-12-tabletas"
+    "https://fielfarmacias.com.mx/multivitaminicos/462-neurodex-inyectable-dexametasona-complejo-b-1306881054163.html",
+    "https://www.rappi.com.mx/p/neurodex-dexanetasonacomplejo-b-1170212"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "nombre",
-    "notas": "No se encontró ninguna ficha de la presentación inyectable con datos de composición; solo aparecen la versión en tabletas (12 tabletas, proveedor Medicam) y un listado de Mercado Libre cuyo título indica dexametasona/complejo B, 1 ampolleta. El GTIN 1306881054163 es un código interno, no comercial. Se desconocen concentraciones, volumen, vía y fabricante. Por ser un corticosteroide inyectable se asume receta; va en venta libre por instrucción del dueño.",
-    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen de la presentación inyectable.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 1306881054163 aparece en la dirección de una ficha de \"Neurodex inyectable dexametasona complejo B\" de una farmacia en línea (no se pudo abrir la página) y un listado de marketplace lo titula \"1 amp.\". Composición, concentraciones, volumen y fabricante no se pudieron confirmar; la descripción usa datos de la marca (versión en tabletas) y el nombre del sistema. Corticosteroide inyectable: se asume receta; va en venta libre por instrucción del dueño.",
+    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen de la presentación inyectable (la página con el GTIN no abrió y el marketplace bloquea el acceso).",
     "fecha": "2026-09-29",
-    "sesion": 3
+    "sesion": 4
   }
 }

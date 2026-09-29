@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "VIAGRA 100MG C1 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Viagra Sildenafil 100 mg 1 Tableta",
+  "descripcion": "Descripción:\nViagra (sildenafil) 100 mg es un medicamento de prescripción indicado para el tratamiento de la disfunción eréctil, es decir, la incapacidad de lograr o mantener una erección suficiente para una relación sexual satisfactoria. Para que el medicamento funcione se requiere estimulación sexual. Las tabletas son cubiertas con película, de color azul y forma de diamante. Esta presentación contiene una sola tableta de 100 mg.\n\nFórmula:\nCada tableta contiene citrato de sildenafil equivalente a 100 mg de sildenafil. Excipiente cbp 1 tableta.\n\nModo de uso:\n- Vía oral.\n- La dosis inicial recomendada es de 50 mg aproximadamente una hora antes de la actividad sexual; según la eficacia y la tolerancia, el médico puede ajustarla entre 25 mg y 100 mg.\n- La dosis máxima recomendada es una vez al día.\n\nPresentación:\nCaja con 1 tableta de 100 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use junto con nitratos, nitritos ni donadores de óxido nítrico, ni con riociguat, porque puede causar una disminución peligrosa de la presión arterial.\n- No lo use si es alérgico al sildenafil o a algún componente de la fórmula.\n- Su médico debe valorar su estado cardiovascular antes de indicarlo; la actividad sexual implica un riesgo cardiaco.\n- Si una erección dura más de 4 horas o si presenta pérdida repentina de la visión, busque atención médica de inmediato.\n- Informe a su médico si usa bloqueadores alfa u otros medicamentos.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Viagra",
+    "fabricante": "Viatris",
+    "presentacion": "Tableta recubierta",
+    "contenido_neto": 1,
+    "unidad_contenido": "tableta",
+    "unidades_por_envase": 1,
+    "principio_activo": "Sildenafil (como citrato)",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos (hombres)",
+    "genero": "Hombre",
+    "registro_sanitario": "213M98 SSA IV",
+    "otros": "Uso: disfunción eréctil; Requiere receta médica; Formato de venta: Caja con 1 tableta"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "840149675727_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/840149675727_1.jpg",
+      "pagina": "https://www.fahorro.com/viagra-100-mg-oral-1-tableta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1230,
+      "fecha": "2026-09-29",
+      "lado_util": 1139
+    },
+    {
+      "archivo": "840149675727_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/840149675727_2.jpg",
+      "pagina": "https://www.fahorro.com/viagra-100-mg-oral-1-tableta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1233,
+      "fecha": "2026-09-29",
+      "lado_util": 1142
+    },
+    {
+      "archivo": "840149675727_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/840149675727_3.jpg",
+      "pagina": "https://www.fahorro.com/viagra-100-mg-oral-1-tableta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1233,
+      "fecha": "2026-09-29",
+      "lado_util": 1142
+    }
+  ],
+  "url_oficial": "https://labeling.pfizer.com/ShowLabeling.aspx?id=3614",
+  "fuentes": [
+    "https://www.fahorro.com/viagra-100-mg-oral-1-tableta.html",
+    "https://labeling.pfizer.com/ShowLabeling.aspx?id=3614"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos confirmado como SKU de la ficha de tienda (Viagra 100 mg oral 1 tableta) y en una base de códigos de barras. La información clínica sale de la etiqueta de Pfizer en español; la caja actual indica Viatris y el registro 213M98 SSA IV. Se colocó en venta libre por instrucción del dueño; requiere receta.",
+    "notas_imagenes": "3 fotos de tienda (frente y dos ángulos de la caja de 1 tableta de 100 mg, más de 1200 px) de Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

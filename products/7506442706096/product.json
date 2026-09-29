@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "DAPAGLIFLOZINA 10MG FRS C28 TAB CAMBER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dapagliflozina 10 mg 28 Tabletas Camber",
+  "descripcion": "Descripción:\nDapagliflozina Camber es un medicamento de prescripción cuyo principio activo es la dapagliflozina, un inhibidor del cotransportador de sodio y glucosa tipo 2 (SGLT2). Se presenta en tabletas de 10 mg, en caja con un frasco con 28 tabletas e instructivo anexo. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nComposición:\nCada tableta contiene dapagliflozina 10 mg. Este medicamento contiene lactosa.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale. Lea el instructivo anexo.\n\nPresentación:\nCaja con un frasco con 28 tabletas de 10 mg e instructivo anexo.\n\nAdvertencias:\n- Su venta requiere receta médica y está prohibida la venta fraccionada del producto.\n- No se administre a menores de 18 años.\n- No se use durante el embarazo ni la lactancia.\n- Este medicamento contiene lactosa. Conserve la caja bien cerrada a no más de 25 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Camber",
+    "fabricante": "Hetero Labs Limited (India), para Camber",
+    "presentacion": "Caja con frasco de 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Dapagliflozina",
+    "concentracion": "10 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "042M2025 SSA IV",
+    "otros": "Contiene lactosa; Incluye instructivo anexo; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": "MLM54426843"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506442706096_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.pharmasi.com.mx/wp-content/uploads/2025/09/dapagliflozina-10-mg.jpeg",
+      "pagina": "https://www.pharmasi.com.mx/p/dapagliflozina-10mg-28-tabletas/",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7506442706096_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.pharmasi.com.mx/wp-content/uploads/2025/09/dapagliflozina-10-mg-atras.jpeg",
+      "pagina": "https://www.pharmasi.com.mx/p/dapagliflozina-10mg-28-tabletas/",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7506442706096_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GENERICO_DE_FORXIGA.jpg?v=1748651161",
+      "pagina": "https://www.pharmasi.com.mx/p/dapagliflozina-10mg-28-tabletas/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1089,
+      "fecha": "2026-09-29",
+      "lado_util": 1007
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.pharmasi.com.mx/p/dapagliflozina-10mg-28-tabletas/",
+    "https://farmaciaherrera.com.mx/products/dapagliflozina-10mg-28-tabletas-camber"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7506442706096 confirmado en varias tiendas como Dapagliflozina 10 mg, 28 tabletas, Camber. La foto trasera de una tienda muestra otro código (7506442705273, versión de otro fabricante), por eso se borró; fórmula, receta y registro salen de la etiqueta lateral de la caja con Hetero Labs. No se detallan indicaciones porque no aparecen en la etiqueta ni en fichas consultadas. El catálogo ML sale de un resultado de búsqueda (\"Dapagliflozina 10 mg caja con 28 tabletas Camber\"); la página no se abrió.",
+    "notas_imagenes": "3 fotos de tienda: frente y lateral de la caja (700 px, chicas) y un render de la caja (1089 px). Se borraron un logotipo genérico de farmacia y una foto trasera con otro código de barras.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE LUMIN WHITE 125ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Dental Colgate Luminous White Brilliant 125 ml",
+  "descripcion": "Descripción:\nPasta dental blanqueadora Colgate Luminous White Brilliant, formulada para remover las manchas superficiales de los dientes y ayudar a lograr una sonrisa más blanca y luminosa. Además de su acción blanqueadora, brinda aliento fresco durante el cepillado. Se presenta en tubo de 125 ml.\n\nBeneficios:\n- Remueve hasta el 100% de las manchas superficiales de los dientes\n- Ayuda a devolver la blancura natural de los dientes\n- Brinda aliento fresco\n- Tubo de 125 ml\n\nModo de uso:\nAplique una cantidad de pasta del tamaño de un chícharo sobre el cepillo dental y cepille los dientes al menos dos veces al día, después de cada comida, durante dos minutos. Escupa el exceso y enjuague la boca.\n\nPresentación:\nTubo de 125 ml.\n\nAdvertencias:\nLos niños menores de 6 años deben usar una cantidad muy pequeña de pasta y ser supervisados para evitar que la traguen. En caso de ingestión accidental, busque ayuda médica. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Luminous White",
+    "variante": "Brilliant",
+    "presentacion": "Tubo",
+    "contenido_neto": 125,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Tipo: pasta dental blanqueadora; Acción: remueve manchas superficiales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546053875_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546053875_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/c-d-colgate-luminous-white-125-ml-tbo-3875.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/pasta-dental-blanqueadora-colgate-luminous-white-brilliant-125ml-3200441/p",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-dental-colgate-lumious-white-brilliant-white-125-ml",
+    "https://www.fahorro.com/c-d-colgate-luminous-white-125-ml-tbo-3875.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró la lista de ingredientes ni el modo de uso oficial; el uso y las advertencias son las generales de una pasta dental. La ficha de un distribuidor menciona sabor Brilliant Mint; se marcó Menta. No se confirmó que contenga flúor.",
+    "notas_imagenes": "1 foto de tienda (tubo y caja frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

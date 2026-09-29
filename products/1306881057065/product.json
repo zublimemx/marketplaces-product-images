@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "B-PRACET-KP C30 PREGABALINA KETOPROFENO VIT B1 VIT B12MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "B-Pracet-KP Pregabalina Ketoprofeno Vitaminas B1 B12 30 Pzas",
-  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento que, según su denominación comercial, combina pregabalina, ketoprofeno y las vitaminas B1 (tiamina) y B12 (cobalamina) en una sola presentación. Reúne un neuromodulador (pregabalina), un antiinflamatorio no esteroideo (ketoprofeno) y vitaminas del complejo B. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nPregabalina, ketoprofeno, vitamina B1 y vitamina B12. La concentración de cada componente y la forma farmacéutica exacta (tabletas o cápsulas) deben confirmarse en el empaque.\n\nModo de uso:\nVía oral. Siga la dosis y la duración indicadas por su médico.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "B-Pracet-KP Pregabalina Ketoprofeno B1 B12 30 Piezas",
+  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento de la marca Medicam que, según su denominación, combina pregabalina, ketoprofeno y las vitaminas B1 (tiamina) y B12 (cobalamina) en una sola presentación. Reúne un neuromodulador (pregabalina), un antiinflamatorio no esteroideo (ketoprofeno) y vitaminas del complejo B. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nPregabalina, ketoprofeno, vitamina B1 y vitamina B12. La concentración de cada componente y la forma farmacéutica exacta (tabletas o cápsulas) deben confirmarse en el empaque.\n\nModo de uso:\nVía oral. Siga la dosis y la duración indicadas por su médico.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- Puede producir somnolencia o mareo; consulte a su médico antes de conducir o manejar maquinaria.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "B-Pracet-KP",
     "presentacion": "Envase con 30 piezas",
@@ -31,16 +31,14 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [
-    "https://www.rappi.com.mx/p/b-tracet-pl-inyectable-500-mg10-mg1-95778"
-  ],
+  "fuentes": [],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "No se encontró ninguna ficha de B-Pracet-KP (la búsqueda solo devolvió productos de la familia B-Tracet y monografías de ketoprofeno con vitaminas). El GTIN 1306881057065 es un código interno, no comercial. Título y ficha salen del nombre del sistema; Medicam parece ser el proveedor (aparece como proveedor de Neurodex en otra farmacia) y no se confirmó como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en venta libre por instrucción del dueño.",
+    "notas": "La búsqueda con el GTIN y el nombre no devolvió ninguna ficha de B-Pracet-KP (solo productos de la familia B-Tracet y monografías genéricas de ketoprofeno con vitaminas). El GTIN 1306881057065 parece un código interno, no comercial. Título y ficha salen solo del nombre del sistema; Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en venta libre por instrucción del dueño.",
     "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto.",
     "fecha": "2026-09-29",
-    "sesion": 3
+    "sesion": 4
   }
 }

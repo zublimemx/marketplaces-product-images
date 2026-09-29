@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GASA MONARCA C100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gasa Estéril Dibar Monarca 10 x 10 cm 8 Capas 100 Piezas",
+  "descripcion": "Descripción:\nGasa Monarca de Dibar: gasa simple estéril de 100 % algodón para la aplicación de antisépticos y la absorción de fluidos durante la curación de heridas. Cada pieza mide 10 x 10 cm, con tejido 18 x 24 y 8 capas, y el producto está esterilizado con óxido de etileno. Se vende en presentación con 100 piezas, práctica para consultorios, botiquines y uso en casa.\n\nCaracterísticas:\n- 100 % algodón\n- Estéril, esterilizada con óxido de etileno\n- Medida de 10 x 10 cm\n- Tejido 18 x 24 en 8 capas\n- Marca Dibar, línea Monarca\n\nModo de uso:\nSirve para aplicar antisépticos y absorber fluidos en la limpieza y curación de heridas. Abra el empaque justo al momento de usarla, evite tocar la gasa con las manos sucias, colóquela sobre la zona a cubrir o utilícela para aplicar el antiséptico y deséchela después de usarla.\n\nPresentación:\nCaja o exhibidor con 100 piezas de gasa estéril de 10 x 10 cm.\n\nAdvertencias:\nProducto estéril de un solo uso: no lo utilice si el empaque está abierto o dañado. Es un material de curación de uso externo. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "fabricante": "Dibar",
+    "linea": "Monarca",
+    "variante": "Gasa simple estéril 10 x 10 cm, 8 capas",
+    "presentacion": "Caja con 100 piezas",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "otros": "Material: 100% algodón; Medidas: 10 cm x 10 cm; Capas: 8; Tejido: 18 x 24; Estéril con óxido de etileno; Formato de venta: caja o exhibidor con 100 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191087",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900714_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://dibar.mx/wp-content/uploads/2025/02/gasa-s.jpg",
+      "pagina": "https://dibar.mx/product/gasas-monarca/",
+      "ancho_original": 1800,
+      "alto_original": 1350,
+      "lado_final": 1202,
+      "fecha": "2026-09-29",
+      "lado_util": 1113
+    }
+  ],
+  "url_oficial": "https://dibar.mx/product/gasas-monarca/",
+  "fuentes": [
+    "https://dibar.mx/product/gasas-monarca/",
+    "https://www.claroshop.com/producto/17353343/gasa-esteril-10x10-monarca-100pz-dibar"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No encontré el GTIN 7501868900714 publicado en ninguna página; identificado por nombre y por el catálogo del fabricante (Gasas Monarca 10 x 10 cm, 8 capas, exhibidor con 100 piezas). Existe un catálogo ML (MLM19639133) de gasa simple estéril Dibar 100 piezas, pero es la línea 'simple', no Monarca, por eso no lo anoto. Las secciones de modo de uso y advertencias son indicaciones generales de uso seguro del tipo de producto, no textos copiados de la etiqueta.",
+    "notas_imagenes": "1 foto oficial del fabricante (caja/exhibidor con 100 piezas de Gasa Simple Estéril Dibar y cajas individuales), 1200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

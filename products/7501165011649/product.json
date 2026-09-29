@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "BUSCAPINA 10MG C24 TAB 192",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Buscapina Butilhioscina 10 mg 24 Tabletas",
+  "descripcion": "Descripción:\nBuscapina tabletas contiene hioscina (butilhioscina o butilbromuro de hioscina) 10 mg, un antiespasmódico que actúa directamente sobre el músculo liso de la panza, en la zona del espasmo, para aliviar los cólicos estomacales e intestinales y el retortijón. Comienza a actuar a partir de los 15 minutos y su efecto puede durar hasta 8 horas.\n\nBeneficios:\n- Auxiliar en el alivio de las molestias causadas por espasmos estomacales e intestinales\n- Acción antiespasmódica directa en la zona del dolor\n- Comienza a actuar a partir de los 15 minutos\n- Para adultos y niños mayores de 6 años\n\nComposición:\nCada tableta contiene hioscina (butilhioscina) 10 mg.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 6 años: 1 o 2 tabletas de 3 a 5 veces al día, sin exceder 10 tabletas al día. Tome las tabletas enteras con suficiente líquido; no se deben masticar. No las use por más de 3 días.\n\nPresentación:\nCaja con 24 tabletas de 10 mg.\n\nAdvertencias:\nNo tomar durante el primer trimestre del embarazo. No dar a menores de 6 años. No usar en caso de hipersensibilidad a los componentes, miastenia gravis, megacolon, obstrucción mecánica del tracto gastrointestinal o íleo paralítico. Si presenta fiebre o si las molestias persisten por más de 3 días, consulte a su médico. Conservar entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Buscapina",
+    "fabricante": "Sanofi (Opella)",
+    "linea": "Buscapina",
+    "presentacion": "Caja con 24 tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Hioscina (butilhioscina)",
+    "concentracion": "10 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 6 años",
+    "registro_sanitario": "39657 SSA VI",
+    "otros": "Forma farmacéutica: tabletas (grageas); Clasificación ATC: A03BB01; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165011649_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd4cd036a/images/large/7501165011649_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/buscapina-10mg-24-tabs/MXYZ_7501165011649.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 934,
+      "fecha": "2026-09-29",
+      "lado_util": 864
+    },
+    {
+      "archivo": "7501165011649_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw59475774/images/large/7501165011649_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/buscapina-10mg-24-tabs/MXYZ_7501165011649.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
+  "url_oficial": "https://www.buscapina.com/es-mx/productos/buscapina-tabletas",
+  "fuentes": [
+    "https://www.buscapina.com/es-mx/productos/buscapina-tabletas",
+    "https://www.benavides.com.mx/buscapina-10-mg-hioscina-24-tabletas",
+    "https://www.farmalisto.com.mx/antiacidos-malestar-estomacal/82568-buscapina-10-mg-caja-con-24-tabletas-7501165011649.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de modo de uso y advertencias del sitio oficial de Buscapina México; registro sanitario 39657 SSA VI de ficha de tienda. Algunas tiendas la llaman 'grageas'.",
+    "notas_imagenes": "2 fotos de tienda de frente de la caja de 24 tabletas (934 y 976 px). Descarté un anuncio de Buscapina Duo (otro producto) y un duplicado de baja resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

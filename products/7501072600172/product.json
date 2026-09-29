@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT CLINIC INTER ORTHO MED38 C12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Clinic Inter-Ortho Mediano 38 Caja 12 Piezas",
+  "descripcion": "Descripción:\nEl cepillo dental Clinic Inter-Ortho está diseñado para personas que usan ortodoncia (brackets y aparatos fijos). Su diseño ayuda a limpiar alrededor de los brackets y entre los dientes, y cuenta con cerdas de dureza media (mediano, número 38) para una limpieza eficaz sin lastimar las encías. Esta presentación es una caja con 12 piezas, ideal para consultorios, clínicas dentales, familias o reventa.\n\nCaracterísticas:\n- Cepillo dental para ortodoncia, línea Inter Ortho de Clinic.\n- Cerdas de dureza media (Med), número 38.\n- Mango transparente y cabezal diseñado para limpiar alrededor de brackets y alambres.\n- Colores surtidos según disponibilidad.\n- Caja con 12 piezas.\n\nModo de uso:\nHumedezca el cepillo, aplique crema dental y cepille dientes, brackets y encías con movimientos suaves después de cada comida, con una duración aproximada de dos minutos. Enjuague el cepillo después de cada uso y déjelo secar al aire.\n\nPresentación:\nCaja con 12 cepillos dentales Inter Ortho mediano 38.\n\nAdvertencias:\nReemplace el cepillo cada tres meses o antes si las cerdas se desgastan. Suspenda su uso y consulte a su odontólogo si observa sangrado o dolor persistente en las encías. Manténgase fuera del alcance de los niños pequeños.",
+  "ficha": {
+    "marca": "Clinic",
+    "linea": "Inter Ortho",
+    "variante": "Mediano 38",
+    "presentacion": "Caja con 12 cepillos",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "otros": "Dureza: media; Número: 38; Uso: ortodoncia (brackets); Colores surtidos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501072600172_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501072600172.jpg",
+      "pagina": "https://www.fahorro.com",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1649,
+      "fecha": "2026-09-29",
+      "lado_util": 1527
+    },
+    {
+      "archivo": "7501072600172_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501072600172_2.jpg",
+      "pagina": "https://www.fahorro.com",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1624,
+      "fecha": "2026-09-29",
+      "lado_util": 1504
+    },
+    {
+      "archivo": "7501072600172_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501072600172_3.jpg",
+      "pagina": "https://www.fahorro.com",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1713,
+      "fecha": "2026-09-29",
+      "lado_util": 1587
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.tododental.com.mx/products/cepillo-de-ortodoncia-inter-ortho-caja-c-12-piezas",
+    "https://www.farmaleal.com.mx/products/cep-dent-clinic-inter-ortho-med38-7501072600172",
+    "https://www.amazon.com.mx/Cepillo-Ortodoncia-Mediano-interdentale-repuestos/dp/B09H1TY1QP"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "Descripción de características basada en el nombre del producto y las fotos; no se encontró ficha oficial con especificaciones técnicas. El formato de caja con 12 se toma del nombre del sistema; las fotos muestran una pieza individual con colores surtidos.",
+    "notas_imagenes": "3 fotos de tienda: cepillo en blíster (1649 px), cepillo individual (1624 px) y 4 colores (1713 px). No hay foto de la caja de 12.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

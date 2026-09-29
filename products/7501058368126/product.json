@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "SICO ROJO SENS C3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Sico Sensitive Delgados de Látex 3 Piezas",
+  "descripcion": "Descripción:\nCondones Sico Sensitive de látex natural, de pared delgada y diseño anatómico que facilita la colocación y permite mayor sensibilidad durante el uso. Están lubricados con silicona y tienen un ancho nominal de 56 ± 2 mm, con la promesa de más conexión y la misma protección. La cartera incluye 3 piezas, ideal para llevar contigo.\n\nBeneficios:\n- Grosor delgado para una mayor sensación\n- Diseño anatómico que facilita la colocación\n- Lubricados con silicona\n- Látex natural, color natural\n- Presentación práctica de 3 piezas\n\nModo de uso:\n- Revise la fecha de caducidad; si está caduco, use otro\n- Abra el empaque con cuidado, sin usar objetos filosos\n- Saque el aire de la punta y coloque el condón sobre el pene firme, desenrollando hacia abajo\n- Al terminar, retírelo deslizándolo desde la base hacia la punta, envuélvalo en papel y tírelo a la basura; nunca al escusado\n\nPresentación:\nCartera con 3 condones.\n\nAdvertencias:\nAlgunas personas pueden ser sensibles al látex. Consulte a su médico antes de usarlo si tiene dudas y suspenda el uso si presenta molestias. Lea las instrucciones de uso.",
+  "ficha": {
+    "marca": "Sico",
+    "fabricante": "Reckitt (RB Health México)",
+    "linea": "Sensitive",
+    "variante": "Delgado",
+    "presentacion": "Cartera con 3 condones",
+    "contenido_neto": 3,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 3,
+    "genero": "Unisex",
+    "otros": "Material: látex natural; Lubricante: silicona; Ancho: 56 ± 2 mm; Grosor: delgado; Color: natural; Diseño anatómico"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058368126_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw563759c9/images/large/7501058368126_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/condones-sensitive-3-pzas/MXYZ_7501058368126.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 923,
+      "fecha": "2026-09-29",
+      "lado_util": 854
+    },
+    {
+      "archivo": "7501058368126_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://eu-images.contentstack.com/v3/assets/bltcc0d7f2f3b1240c5/blt10ef760dc9c1ee3b/68ff30ab67606e5541c168fc/654345.png",
+      "pagina": "https://www.sico.com.mx/products/sico-sensitive",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1138,
+      "fecha": "2026-09-29",
+      "lado_util": 1055
+    }
+  ],
+  "url_oficial": "https://www.sico.com.mx/products/sico-sensitive",
+  "fuentes": [
+    "https://www.sico.com.mx/products/sico-sensitive",
+    "https://boners.com.mx/condones-y-preservativos/sico/7501058368126/11699-sico-sensitive-3-piezas.html",
+    "https://www.fahorro.com/sico-sensitive-condones-delgados-de-hule-latex-natural-cartera-con-3-piezas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas; en algunas aparece con el empaque anterior 'Sensitive Feel'.",
+    "notas_imagenes": "2 fotos de frente del empaque actual (1 del fabricante, 1138 px; 1 de tienda, 923 px). Descarté la foto del empaque anterior 'Sensitive Feel'.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

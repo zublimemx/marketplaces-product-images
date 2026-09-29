@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "SICO PIEL CON PIEL C3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Sico Piel con Piel Sin Látex 3 Piezas",
+  "descripcion": "Descripción:\nPreservativos masculinos Sico Piel con Piel, fabricados sin látex, diseñados para ofrecer una sensación más cercana al contacto natural y mayor sensibilidad. Vienen en una caja con 3 piezas, ideal para llevar contigo. Son una alternativa para quienes buscan un preservativo sin látex.\n\nBeneficios:\n- Fabricados sin látex\n- Diseñados para brindar mayor sensibilidad, con sensación piel con piel\n- Método de barrera para ayudar a prevenir el embarazo y reducir el riesgo de infecciones de transmisión sexual\n- Caja compacta con 3 piezas\n\nModo de uso:\nUso tópico externo. Abra el empaque con cuidado sin usar las uñas ni objetos filosos, coloque el preservativo cuando el pene esté erecto, desenrolle hasta la base y, después de la relación, retírelo sujetándolo por la base. Use un preservativo nuevo en cada relación y deséchelo en la basura.\n\nPresentación:\nCaja con 3 preservativos.\n\nAdvertencias:\nNo reutilice el preservativo. Revise la fecha de caducidad y no lo use si el empaque está dañado. Almacene en un lugar fresco y seco, entre 15 y 30 grados centígrados. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Sico",
+    "linea": "Piel con Piel",
+    "variante": "Sin látex",
+    "presentacion": "Caja",
+    "contenido_neto": 3,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 3,
+    "via_administracion": "Tópica (externa)",
+    "genero": "Hombre",
+    "otros": "Material: sin látex; Producto: preservativo masculino; Almacenamiento: 15 a 30 °C"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506460100111_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506460100111_1_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/condones-sin-latex-sico-piel-con-piel-3-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/condones/37225-comprar-condones-sico-sin-latex-piel-con-piel-3-piezas-precio-7506460100111.html",
+    "https://www.fahorro.com/condones-sin-latex-sico-piel-con-piel-3-pz.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró el material específico ni la lista de características del empaque; se describe solo lo confirmado (sin látex, 3 piezas). Modo de uso y advertencias son las generales de un preservativo.",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

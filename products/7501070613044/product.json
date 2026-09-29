@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "ANDANTOL 25GR JALEA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Andantol Jalea Isotipendilo 0.75 g/100 g 25 g",
+  "descripcion": "Descripción:\nAndantol Jalea es un producto de uso tópico de Sanfer que contiene isotipendilo (0.75 g por cada 100 g), un antihistamínico. Brinda alivio efectivo de la comezón, incluida la causada por picaduras de insectos y salpullido, y se emplea en casos de irritación y urticaria de la piel. Su presentación en jalea se aplica directamente sobre la piel afectada.\n\nBeneficios:\n- Alivio efectivo de la comezón\n- Para picaduras de insectos\n- Para salpullido\n- Textura de jalea de uso tópico\n- Tubo de 25 g\n\nComposición:\nCada 100 g de jalea contienen isotipendilo 0.75 g.\n\nModo de uso:\nVía tópica (uso externo). Aplique sobre la piel afectada.\n\nPresentación:\nCaja con tubo de 25 g de jalea.\n\nAdvertencias:\nUso externo. Suspenda su uso si presenta irritación o alguna reacción en la piel. Conservar entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Andantol",
+    "fabricante": "Sanfer",
+    "linea": "Andantol",
+    "presentacion": "Caja con tubo de 25 g",
+    "contenido_neto": 25,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Isotipendilo",
+    "concentracion": "0.75 g / 100 g",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "49817 SSA VI",
+    "otros": "Forma farmacéutica: jalea; Antihistamínico de uso tópico; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070613044_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwcfdb457c/images/large/7501070613044_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/andantol-jalea-0.75g-25g/MXYZ_7501070613044.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 799
+    },
+    {
+      "archivo": "7501070613044_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw82f18423/images/large/7501070613044_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/andantol-jalea-0.75g-25g/MXYZ_7501070613044.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 854,
+      "fecha": "2026-09-29",
+      "lado_util": 790
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antihistaminicos/2757-andantol-jalea-caja-con-tubo-con-25-g-7501070613044.html",
+    "https://www.fahorro.com/andantol-jalea-25-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro sanitario 49817 SSA VI de ficha de tienda (no visto en la caja). Categoría dermatológicos por ser de uso tópico; 'Antihistamínicos' (MLM194698) es alternativa.",
+    "notas_imagenes": "2 fotos de tienda de frente de la caja en distintos ángulos (862 y 854 px). Descarté una tercera casi idéntica.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

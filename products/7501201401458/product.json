@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "REFRESH FUSION GTS OFT 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Refresh Fusion Solución Oftálmica Lubricante 10 ml",
+  "descripcion": "Descripción:\nRefresh Fusion es una solución oftálmica estéril en gotas que combina carboximetilcelulosa sódica, glicerina y hialuronato de sodio. Está indicada como lubricante ocular para el tratamiento del ojo seco. Se presenta en un frasco con gotero de 10 ml, listo para usarse, y es un producto de la marca Refresh, de AbbVie (Allergan).\n\nBeneficios:\n- Lubrica y humecta la superficie del ojo para aliviar la sensación de resequedad.\n- Su fórmula reúne tres agentes lubricantes: carboximetilcelulosa sódica, glicerina y hialuronato de sodio.\n- Solución estéril en frasco con gotero, práctica para llevar y aplicar en cualquier momento.\n- Puede utilizarse con lentes de contacto, según la ficha de farmacia consultada.\n\nComposición:\nCarboximetilcelulosa sódica, glicerina y hialuronato de sodio, en solución oftálmica estéril.\n\nModo de uso:\nInstile 1 o 2 gotas en el ojo afectado según sea necesario. Si utiliza otros productos oftálmicos, espere al menos 5 minutos entre una aplicación y otra. Evite tocar la punta del gotero con los dedos o con cualquier superficie para no contaminar la solución.\n\nPresentación:\nCaja con frasco gotero de 10 ml.\n\nAdvertencias:\nSuspenda su uso y consulte a su médico si presenta dolor ocular. No se automedique; ante cualquier duda solicite orientación a su médico o a su químico farmacéutico. Mantenga el frasco bien cerrado después de cada uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Refresh",
+    "fabricante": "AbbVie (Allergan)",
+    "linea": "Fusion",
+    "presentacion": "Solución oftálmica estéril en gotas, frasco gotero",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Carboximetilcelulosa sódica, glicerina, hialuronato de sodio",
+    "via_administracion": "Oftálmica",
+    "otros": "Uso: lubricante ocular para ojo seco; Estéril; Apto para lentes de contacto (según ficha de farmacia); Condición de venta: sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM50891507"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501201401458_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501201401458.jpg",
+      "pagina": "https://www.fahorro.com/refresh-fusion-solucion-oftalmica-gotas-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1341,
+      "fecha": "2026-09-29",
+      "lado_util": 1241
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/refresh-fusion-solucion-oftalmica-gotas-10-ml.html",
+    "https://www.benavides.com.mx/refresh-fusion-carboximetilcelulosa-sodicaglicerina-solucion-oftalmica-10-ml-gotas",
+    "https://www.farmaciasahumada.cl/refresh-fusion-solucion-oftalmica-10-ml-92110.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso tomado de una ficha de farmacia chilena del mismo producto; sin concentraciones porque las fuentes no coinciden. Catálogo ML por coincidencia exacta de título en resultados de búsqueda (página no abierta).",
+    "notas_imagenes": "1 foto de tienda (caja AbbVie de frente, 1600 px original). Se descartó otra foto con empaque Allergan (versión anterior).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

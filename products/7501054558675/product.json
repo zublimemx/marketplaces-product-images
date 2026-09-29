@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NIVEA LATA 20MLC/10+2GTS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Nivea Creme Lata 20 ml Exhibidor 12 Piezas",
+  "descripcion": "Descripción:\nNivea Creme es la crema humectante de cuidado integral de la piel para toda la familia, en su clásica lata azul de 20 ml. Esta presentación corresponde a un exhibidor con 12 latas pequeñas, práctico para llevar en el bolso, la mochila o el botiquín y tener a la mano para el cuidado diario de la piel.\n\nBeneficios:\n- Ayuda a mantener la piel tersa, suave e hidratada\n- Ayuda a suavizar las zonas del cuerpo más propensas a resecarse, como rodillas, codos, pies y manos\n- Crema multiusos apta para toda la familia\n- Formato de lata compacto de 20 ml, fácil de transportar\n\nModo de uso:\nAplique una pequeña cantidad sobre la piel limpia y seca y extienda con un suave masaje hasta su completa absorción. Use las veces que sea necesario.\n\nPresentación:\nExhibidor con 12 latas de crema de 20 ml cada una.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Creme",
+    "variante": "Crema humectante multiusos",
+    "presentacion": "Lata",
+    "contenido_neto": 20,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 12,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Formato de venta: exhibidor con 12 latas de 20 ml; Uso: corporal, familiar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054558675_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75000950.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/crema-nivea-ch-20-g-lata-0950.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1587,
+      "fecha": "2026-09-29",
+      "lado_util": 1470
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.zedelvallarta.com.mx/catalogo/nivea-creme-crema-corporal-lata-20-ml/",
+    "https://www.distribuidorapebe.mx/shop/1043-crema-nivea-lata-20ml-exh-c-10-2-21570"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El nombre del sistema (20ML C/10+2 GTS) y el precio indican un exhibidor de 12 latas (10 + 2 de obsequio); no se pudo confirmar el GTIN en ninguna ficha. Descripción basada en la lata individual de 20 ml. Modo de uso y advertencias genéricos de crema corporal.",
+    "notas_imagenes": "1 foto de tienda (lata de 20 ml, 1600 px); es la lata individual, no el exhibidor de 12.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

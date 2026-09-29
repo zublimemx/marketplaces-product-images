@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE MEN EXCITE SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Excite Aerosol para Hombre 150 ml",
+  "descripcion": "Descripción:\nAxe Excite es un desodorante en aerosol (body spray) para hombre de 150 ml, con una fragancia intensa y fresca de larga duración. Está pensado para acompañarte durante todo el día con un aroma masculino que destaca y ayuda a combatir el mal olor corporal.\n\nBeneficios:\n- Fragancia Excite, intensa y fresca, de larga duración.\n- Ayuda a combatir el mal olor corporal durante el día.\n- Formato aerosol de aplicación rápida y práctica.\n- Lata de 150 ml.\n\nModo de uso:\nAgite el envase, sostenga el aerosol a no menos de 15 cm de distancia y aplique sobre las axilas limpias y secas. No lo aplique sobre piel húmeda, irritada o lastimada.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nContenido bajo presión, extremadamente inflamable. No lo use cerca de fuentes de calor, llamas o mientras fuma. No lo exponga al sol ni a temperaturas superiores a 50 °C, no lo perfore ni lo arroje al fuego, incluso vacío. Evite el contacto con los ojos y no inhale directamente. Use en áreas ventiladas y manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "variante": "Excite",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Excite",
+    "otros": "Formato: desodorante en aerosol (body spray)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293025803_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293025803_1.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-excite-hombre-150-ml-aerosol.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1244,
+      "fecha": "2026-09-29",
+      "lado_util": 1152
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-excite-150-ml.html/07791293025803",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-excite-150-ml.html/07791293025803",
+    "https://www.fahorro.com/desodorante-axe-excite-hombre-150-ml-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página del fabricante. No se incluyeron notas olfativas ni horas de protección porque la página actual y el empaque de la foto difieren (72 h vs 48 h).",
+    "notas_imagenes": "1 foto de tienda con el frente de la lata (1244 px). La imagen oficial del fabricante no pudo descargarse. Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

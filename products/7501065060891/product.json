@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "CONTAC ULTRA C12 TBS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Contac Ultra Antigripal 12 Tabletas 500 mg/5 mg/2 mg",
+  "descripcion": "Descripción:\nContac Ultra es un antigripal en tabletas que combina paracetamol 500 mg, fenilefrina 5 mg y clorfenamina 2 mg para brindar alivio eficaz y rápido de los síntomas de la gripe. El paracetamol actúa como analgésico y antipirético, la fenilefrina como descongestionante nasal y la clorfenamina como antihistamínico. Cada caja contiene 6 sobres con 2 tabletas cada uno, para un total de 12 tabletas.\n\nBeneficios:\n- Fiebre y cuerpo cortado\n- Dolor de cabeza y garganta\n- Congestión y escurrimiento nasal\n- Estornudos y ojos llorosos\n- Presentación práctica en sobres de 2 tabletas\n\nComposición:\nCada tableta contiene paracetamol 500 mg, fenilefrina 5 mg y clorfenamina 2 mg.\n\nModo de uso:\nVía oral. Siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 12 tabletas (6 sobres con 2 tabletas cada uno).\n\nAdvertencias:\nNo lo use si es hipersensible a los componentes de la fórmula, si tiene enfermedad hepática grave, presión arterial elevada o si toma inhibidores de la monoaminooxidasa (IMAO). Precaución en caso de cardiopatía, diabetes, hipertiroidismo o glaucoma. Puede producir somnolencia. No se recomienda durante el embarazo y la lactancia salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Contac",
+    "fabricante": "Haleon (GSK)",
+    "linea": "Ultra",
+    "presentacion": "Caja con 12 tabletas (6 sobres de 2 tabletas)",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, fenilefrina y clorfenamina",
+    "concentracion": "500 mg / 5 mg / 2 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Presentación: 6 sobres con 2 tabletas cada uno; Antigripal"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065060891_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065060891_4.jpg",
+      "pagina": "https://www.fahorro.com/contac-ultra-antigripal-12-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1601
+    },
+    {
+      "archivo": "7501065060891_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9653c3f2/images/large/7501065060891_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/contac-ultra-500mg-12-tabs-/MXYZ_7501065060891.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 968,
+      "fecha": "2026-09-29",
+      "lado_util": 897
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/contac-ultra-500mg-5mg-2mg-con-12-tabletas-paracetamol-fenilefrina-clorfenamina",
+    "https://www.fahorro.com/contac-ultra-antigripal-12-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición y síntomas leídos en la caja. Contraindicaciones tomadas de una ficha de farmacia; dosis no confirmada, por lo que se remite al empaque. Registro sanitario no visto. El sitio de la marca no estaba disponible.",
+    "notas_imagenes": "2 fotos de tienda de frente de la caja (1728 y 968 px). Descarté una tercera con marca de agua de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

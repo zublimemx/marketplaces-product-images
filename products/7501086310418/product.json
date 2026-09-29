@@ -4,29 +4,94 @@
   "linea": "Farma",
   "nombre_sistema": "DALVEAR 200ML AD MIEL LIMON 108",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dalvear Dropropizina Bromhexina Jarabe Adulto 200 ml",
+  "descripcion": "Descripción:\nDalvear Adulto es un jarabe de Siegfried con dropropizina y bromhexina, sabor miel, lima y limón, en frasco de 200 ml con vaso dosificador. Es un antitusígeno no narcótico de acción periférica con efecto mucolítico y expectorante. Según la información del medicamento, se emplea en la tos de cualquier origen y como coadyuvante en padecimientos con secreción bronquial anormal, como faringitis, laringitis, bronquitis y enfermedades broncopulmonares crónicas, siempre por indicación médica.\n\nComposición:\nCada 100 ml contienen dropropizina 300 mg y bromhexina 160 mg, con vehículo cbp 100 ml. Contiene 60 por ciento de azúcar y colorante Amarillo No. 6, que puede producir reacciones de hipersensibilidad.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale.\n\nPresentación:\nCaja con frasco de 200 ml de jarabe adulto sabor miel, lima y limón, con vaso dosificador.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se administre a menores de 2 años. No se use en el embarazo, la lactancia ni por periodos prolongados.\n- Se contraindica en úlcera gástrica activa, gastritis e insuficiencia hepática o renal; use con precaución en personas con diabetes por su contenido de azúcar.\n- Conserve el frasco bien tapado a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dalvear",
+    "fabricante": "Siegfried",
+    "linea": "Adulto",
+    "variante": "Miel, lima y limón",
+    "presentacion": "Jarabe en frasco con vaso dosificador",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dropropizina y bromhexina",
+    "concentracion": "300 mg / 160 mg por 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Miel, lima y limón",
+    "otros": "Contiene azúcar (60 %) y colorante Amarillo No. 6; No se administre a menores de 2 años; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086310418_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310418.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-adulto-300-mg-160-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1473,
+      "fecha": "2026-09-29",
+      "lado_util": 1364
+    },
+    {
+      "archivo": "7501086310418_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310418_1.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-adulto-300-mg-160-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1447,
+      "fecha": "2026-09-29",
+      "lado_util": 1340
+    },
+    {
+      "archivo": "7501086310418_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310418_2.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-adulto-300-mg-160-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1481,
+      "fecha": "2026-09-29",
+      "lado_util": 1372
+    },
+    {
+      "archivo": "7501086310418_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310418_4.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-adulto-300-mg-160-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1389,
+      "fecha": "2026-09-29",
+      "lado_util": 1287
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/dalvear.sf.jarabe/170/101/57649/94",
+    "https://www.fahorro.com/dalvear-adulto-300-mg-160-mg-100-ml-jarabe-200-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas y en fotos identificadas con ese código. La etiqueta lateral de esa versión (con azúcar) dice que su venta requiere receta; una tienda lista la versión sin azúcar (SF) como \"receta no obligatoria\". Concentraciones de la etiqueta y la monografía PLM.",
+    "notas_imagenes": "4 fotos de tienda: frente, etiqueta lateral con la fórmula y 2 vistas en ángulo de la caja. Se borró una repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

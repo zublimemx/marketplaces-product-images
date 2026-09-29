@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "CEFTRIAXONA 1G SOL INY BRULUAGSA 72",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ceftriaxona 1 g Solución Inyectable Bruluagsa",
+  "descripcion": "Descripción:\nCeftriaxona 1 g en solución inyectable de Laboratorios Bruluagsa. Es un antibiótico de amplio espectro, una cefalosporina de tercera generación, que actúa inhibiendo el crecimiento de las bacterias. Se presenta como frasco ámpula con polvo y ampolleta con 3.5 mL de diluyente con lidocaína, para su preparación antes de aplicarse.\n\nBeneficios:\n- Se usa para tratar infecciones provocadas por bacterias, según el criterio del médico\n- Presentación de una sola dosis de 1 g, con diluyente incluido\n\nFórmula:\nCada frasco ámpula con polvo contiene ceftriaxona sódica equivalente a 1 g de ceftriaxona. La ampolleta trae 3.5 mL de diluyente con lidocaína.\n\nModo de uso:\nUso inyectable. La dosis, la vía de administración y la duración del tratamiento las indica el médico tratante.\n\nPresentación:\nCaja con 1 frasco ámpula con 1 g de ceftriaxona y 1 ampolleta con 3.5 mL de diluyente.\n\nAdvertencias:\n- Su venta requiere receta médica vigente. No se automedique.\n- Consérvese a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bruluagsa",
+    "fabricante": "Laboratorios Bruluagsa",
+    "variante": "1 g con diluyente de 3.5 mL",
+    "presentacion": "Caja con 1 frasco ámpula y 1 ampolleta con diluyente",
+    "contenido_neto": 1,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ceftriaxona sódica",
+    "concentracion": "1 g por frasco ámpula",
+    "via_administracion": "Inyectable (intramuscular, según indicación médica)",
+    "registro_sanitario": "226M2001 SSA IV",
+    "otros": "Forma farmacéutica: solución inyectable; Diluyente: 3.5 mL con lidocaína; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502208894557_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7013974/7502208894557_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/ceftriaxona-1-gr-solucion-inyectable-c-1-ampolleta/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 838,
+      "fecha": "2026-09-29",
+      "lado_util": 776
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/ceftriaxona-1-g-inyectable-ampolleta-con-diluyente-de-3-5-ml",
+    "https://www.farmaciasdrahorro.com.mx/productos/ceftriaxona-solucion-inyectable-1-g-bruluagsa/",
+    "https://www.farmatodo.com.mx/ceftriaxona-1-gr-solucion-inyectable-c-1-ampolleta/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas; es la versión genérica intercambiable de Bruluagsa (no la marca Trixona, cuyo catálogo de ML no se anotó). El registro 226M2001 SSA IV viene de una sola ficha y una tienda muestra otro número en la imagen; verificar en el empaque.",
+    "notas_imagenes": "1 foto de Farmatodo (1200 px, frente de la caja); una foto de otra tienda era de 400 px y se descartó.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,29 +4,81 @@
   "linea": "Mark",
   "nombre_sistema": "BBTIPS T6 40PZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Bbtips Sensitive Etapa 6 Unisex 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Bbtips Sensitive Etapa 6 (XL-Grande) diseñados para la piel delicada del bebé. Cuentan con núcleo Ultrasafe que brinda hasta 12 horas de protección y ayuda a mantener la piel seca y sana. Son para bebés de 13 a 16 kg, aproximadamente entre 27 y 28 meses de edad. El paquete incluye 40 pañales.\n\nCaracterísticas:\n- Cubierta Extra Soft, suave al tacto\n- Fórmula Pro-Derm y materiales hipoalergénicos para cuidar la piel sensible\n- Núcleo Ultrasafe con microperlas absorbentes que ayudan a evitar fugas\n- Hasta 12 horas de protección\n- Cintas adhesivas ajustables para un ajuste cómodo\n- Unisex, para niño y niña\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 6 (XL-Grande), para bebés de 13 a 16 kg.\n\nAdvertencias:\nLos pañales desechables son inflamables si se exponen al fuego; mantenga a los niños alejados de cualquier flama. Mantenga la bolsa de plástico fuera del alcance del bebé o de los niños. Para desechar el pañal, enróllelo y péguelo con sus mismas cintas y tírelo a la basura, no al inodoro.",
+  "ficha": {
+    "marca": "Bbtips",
+    "fabricante": "Productos Internacionales Mabe",
+    "linea": "Sensitive",
+    "variante": "Extra Soft",
+    "presentacion": "Paquete con 40 pañales",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 6 (13 a 16 kg)",
+    "talla": "XL-Grande",
+    "genero": "Unisex",
+    "otros": "Protección de hasta 12 horas; Núcleo Ultrasafe; Fórmula Pro-Derm; Hipoalergénico; Peso del bebé: 13 a 16 kg"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379873"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "013117019971_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw2237d294/images/large/13117019971_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/bb-tips-talla-6-40-pzas/MXYZ_13117019971.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 916,
+      "fecha": "2026-09-29",
+      "lado_util": 847
+    },
+    {
+      "archivo": "013117019971_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw51c293b5/images/large/13117019971_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/bb-tips-talla-6-40-pzas/MXYZ_13117019971.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 920,
+      "fecha": "2026-09-29",
+      "lado_util": 853
+    },
+    {
+      "archivo": "013117019971_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw81492d39/images/large/13117019971_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/bb-tips-talla-6-40-pzas/MXYZ_13117019971.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/bbtips-sensitive-panales-extra-soft-etapa-6-40-uds",
+    "https://www.yza.mx/bb-tips-talla-6-40-pzas/MXYZ_13117019971.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema decía 'BBTIPS T6 40PZ' (pañales, no hisopos). GTIN de 12 dígitos 013117019971 corresponde a Bbtips Sensitive Etapa 6 de 40 piezas. El catálogo MLM17379873 coincide por nombre (Bbtips Sensitive Etapa 6, 40 piezas) pero no pude abrir la ficha para verificarlo. Fabricante según ficha de tienda.",
+    "notas_imagenes": "3 fotos de tienda (916, 920 y 1080 px): 2 de frente del empaque actual y 1 gráfico del pañal con sus características. Descarté una foto de un empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

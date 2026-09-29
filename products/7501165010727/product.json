@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "HISTIACIL FAM INF 140ML 42",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Histiacil Fam Infantil Jarabe Sabor Fresa 140 ml",
+  "descripcion": "Descripción:\nHistiacil Fam Infantil es un jarabe sabor fresa para la tos que combina guaifenesina y citrato de oxolamina. Disminuye la frecuencia y la intensidad de la tos y, al mismo tiempo, fluidifica el moco y facilita la expulsión de las flemas. Incluye vaso dosificador. Es un producto de Sanofi.\n\nBeneficios:\n- Alivia la tos irritativa, seca o con flemas\n- Fluidifica el moco y facilita la expulsión de las flemas\n- Sabor fresa\n\nFórmula:\nCada 100 mL contienen: guaifenesina 2.0 g, citrato de oxolamina 1.0 g, vehículo cbp 100 mL.\n\nModo de uso:\nVía oral, con el vaso dosificador. Niños de 2 a 7 años: 5 mL cada 6 horas. Niños de 7 a 15 años: 10 mL cada 6 horas. Mayores de 15 años: 15 mL cada 6 horas.\n\nPresentación:\nFrasco con 140 mL de jarabe, sabor fresa.\n\nAdvertencias:\n- No se use en menores de 2 años. No se use en el embarazo y la lactancia.\n- Contraindicado en hipersensibilidad a los componentes, úlcera péptica activa y tos crónica causada por asma, bronquitis crónica o enfisema.\n- No se administre junto con anticoagulantes.\n- Contiene 55 por ciento de azúcar y 7 por ciento de otros azúcares.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histiacil",
+    "fabricante": "Sanofi-Aventis de México, S.A. de C.V.",
+    "linea": "FAM Infantil",
+    "variante": "Sabor fresa",
+    "presentacion": "Frasco con 140 mL",
+    "contenido_neto": 140,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Guaifenesina; Citrato de oxolamina",
+    "concentracion": "Guaifenesina 2.0 g y citrato de oxolamina 1.0 g por cada 100 mL",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 15 años",
+    "sabor_aroma": "Fresa",
+    "registro_sanitario": "297M2015 SSA IV",
+    "otros": "Forma farmacéutica: jarabe; Incluye vaso dosificador; Venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165010727_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006076/7501165010727_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/histiacil-fam-infantil-fresa-jarabe-2-gr-frasco-c-140-ml-v1/p",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1690,
+      "fecha": "2026-09-29",
+      "lado_util": 1565
+    },
+    {
+      "archivo": "7501165010727_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006077/7501165010727_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/histiacil-fam-infantil-fresa-jarabe-2-gr-frasco-c-140-ml-v1/p",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1541,
+      "fecha": "2026-09-29",
+      "lado_util": 1427
+    },
+    {
+      "archivo": "7501165010727_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006078/7501165010727_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/histiacil-fam-infantil-fresa-jarabe-2-gr-frasco-c-140-ml-v1/p",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1539,
+      "fecha": "2026-09-29",
+      "lado_util": 1425
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/histiacil-fam-infantil-fresa-jarabe-2-gr-frasco-c-140-ml-v1/p",
+    "https://farmalisto.com.mx/gripe-y-tos/35243-precio-histiacil-fam-jarabe-para-la-tos-infantil-sabor-fresa-140-ml-formula-con-accion-3-en-1-7501165010727.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado. La ficha lo clasifica como fracción VI (venta sin receta) aunque el registro trae 'SSA IV'; se dejó receta 'No'.",
+    "notas_imagenes": "3 fotos de Farmatodo (2000 px): frente del diseño nuevo y 2 reversos con dosificación.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

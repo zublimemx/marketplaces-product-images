@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TREDA C30 TAB 156",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Treda Neomicina Caolín Pectina 30 Tabletas",
+  "descripcion": "Descripción:\nTreda es un antidiarreico y bactericida específico del tracto gastrointestinal de Laboratorios Sanfer. Combina caolín y pectina con una dosis farmacológicamente activa de neomicina, un antimicrobiano eficaz contra las bacterias enteropatógenas más frecuentes. Está indicado en el tratamiento de las diarreas agudas producidas por cepas susceptibles de Escherichia coli, Salmonella, Shigella, Enterobacter y Proteus. La caja indica que elimina la diarrea, infecciosa y no infecciosa.\n\nFórmula:\nCada tableta contiene caolín ligero 280 mg, sulfato de neomicina equivalente a 129 mg de neomicina base y pectina cítrica 30 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique su médico.\n\nPresentación:\nCaja con 30 tabletas (presentación promocional 20+10).\n\nAdvertencias:\n- No debe administrarse durante el embarazo, ya que la neomicina atraviesa la barrera placentaria.\n- Si las molestias persisten, consulte a su médico.\n- Conserve la caja bien cerrada, en un lugar fresco y seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Treda",
+    "fabricante": "Laboratorios Sanfer",
+    "presentacion": "Tabletas, caja con 30 (20+10)",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Neomicina, caolín, pectina",
+    "concentracion": "129 mg / 280 mg / 30 mg por tableta (neomicina / caolín / pectina)",
+    "via_administracion": "Oral",
+    "otros": "Uso: diarreas agudas; Presentación promocional 20+10; Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070612436_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciapvr.com/wp-content/uploads/2022/07/TREDA-2010-Diseno-Farmacia-PVR.jpg",
+      "pagina": "https://farmaciapvr.com/en/producto/treda-2010-tabs-en/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 367
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/treda-20-tabs/MXYZ_7501070612368.html",
+    "https://farmaciapvr.com/en/producto/treda-2010-tabs-en/",
+    "https://grupofarmapronto.com/producto/treda-129-280-30-mg-tabletas-c-20/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas como 'Treda 20+10 tab C/30'. La composición sale de la ficha de Yza de Treda de 20 tabletas (misma fórmula) y coincide con la caja de 20+10 (neomicina, caolín, pectina; 129 mg, 280 mg, 30 mg). Una ficha de tienda describe Treda como sulfametoxazol/trimetoprima, dato que se descartó por contradecir la caja. Condición de venta dudosa: las farmacias la marcan sin receta, pero contiene un antibiótico; por eso 'Revisar'. La ficha de Yza de la presentación de 30 no abrió.",
+    "notas_imagenes": "1 foto de tienda (caja de Treda 20+10 tabletas, 600 px de origen con el producto pequeño en el lienzo) de una farmacia. La caja lleva el marbete 20+10 impreso. No se halló una foto de mayor resolución de esta presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "BIOGAIA PROTECTIS GOTAS 5ML JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "BioGaia Protectis Probiótico en Gotas 5 ml",
+  "descripcion": "Descripción:\nBioGaia Protectis es un suplemento alimenticio a base de probióticos en gotas, elaborado con la cepa Lactobacillus reuteri Protectis (DSM 17938). Se presenta en un frasco gotero de 5 ml que facilita la dosificación y su uso diario, y está pensado para apoyar el bienestar digestivo de bebés, niños y adultos.\n\nCaracterísticas:\n- Suplemento alimenticio a base de probióticos en formato de gotas orales.\n- Contiene Lactobacillus reuteri Protectis, una cepa probiótica de origen humano.\n- Aporta alrededor de 100 millones de UFC (unidades formadoras de colonias) por dosis.\n- Ayuda a mantener el equilibrio de la flora intestinal y el bienestar digestivo.\n- Frasco gotero de 5 ml, fácil de dosificar y de llevar a cualquier lugar.\n\nIngredientes:\nLactobacillus reuteri Protectis (DSM 17938).\n\nModo de uso:\nAdministre las gotas por vía oral, directamente o mezcladas con una pequeña cantidad de líquido o alimento, en la dosis indicada en el empaque o por su médico o pediatra. Úselo de forma regular para obtener mejores resultados.\n\nPresentación:\nCaja con 1 frasco gotero de 5 ml. Contenido neto: 5 ml.\n\nAdvertencias:\nEste producto no es un medicamento. Consulte a su médico antes de usarlo durante el embarazo, la lactancia o si tiene una condición médica. Consérvese en un lugar fresco y seco, protegido de la luz solar directa. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "BioGaia",
+    "fabricante": "BioGaia AB",
+    "linea": "Protectis",
+    "variante": "Lactobacillus reuteri Protectis",
+    "presentacion": "Frasco gotero",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Lactobacillus reuteri Protectis (DSM 17938)",
+    "concentracion": "100 millones de UFC por dosis",
+    "via_administracion": "Oral",
+    "otros": "Formato: gotas orales; Tipo: suplemento alimenticio a base de probióticos; Distribuido en México por Abbott"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7350012552138_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/7350012552138_1_2.jpg",
+      "pagina": "https://www.fahorro.com/biogaia-protectis-probioticos-gotas-orales-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1611,
+      "fecha": "2026-09-29",
+      "lado_util": 1492
+    },
+    {
+      "archivo": "7350012552138_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe25bf6b3/images/large/7350012552138_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.fahorro.com/biogaia-protectis-probioticos-gotas-orales-5-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 806,
+      "fecha": "2026-09-29",
+      "lado_util": 747
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.probemedic.mx/biogaia-protectis-gotas-5-ml.html",
+    "https://www.yza.mx/biogaia-protectis-gotas-5ml/MXYZ_7350012552138.html",
+    "https://wecarepharma.mx/en/products/biogaia-protectis-gotas-5ml-probioticos"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. Las fichas traen datos técnicos escasos y a veces contradictorios (cepa y UFC salen de una sola ficha; no se confirmó dosis exacta ni registro). Se redactó lo mínimo confiable.",
+    "notas_imagenes": "2 fotos de tienda: frente del empaque (1611 px) y vista 3/4 (806 px), sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

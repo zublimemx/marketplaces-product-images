@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "VENDA DIBAR 10 CM C 18",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Venda Elástica Dibar 10 cm x 5 m Caja con 18 Piezas",
+  "descripcion": "Descripción:\nVenda elástica de tejido plano de la marca Dibar, de 10 cm de ancho por 5 m de largo (estirada), en caja con 18 piezas. Es un vendaje de uso general en botiquines y consultorios para sujetar apósitos y gasas, y para dar soporte o compresión suave en articulaciones y extremidades cuando lo indica un profesional de la salud.\n\nCaracterísticas:\n- Medidas: 10 cm de ancho por 5 m de largo estirada.\n- Tejido plano elástico, flexible y ajustable.\n- Presentación en caja con 18 piezas, útil para consultorios, clínicas y botiquines.\n- Fácil de cortar y de fijar.\n\nModo de uso:\nLimpie y seque la zona. Comience a vendar desde la parte más alejada del cuerpo hacia arriba, con tensión moderada y traslapando cada vuelta sobre la anterior, y fije el extremo con el sujetador o cinta. Ajuste sin apretar en exceso para no obstaculizar la circulación.\n\nPresentación:\nCaja con 18 vendas elásticas de 10 cm x 5 m.\n\nAdvertencias:\n- Si observa entumecimiento, hormigueo, cambio de color, hinchazón o dolor en la zona vendada, afloje el vendaje y consulte a su médico.\n- No lo use directamente sobre heridas abiertas sin cubrirlas con una gasa.\n- Conserve en un lugar fresco y seco, fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Caja con 18 vendas",
+    "contenido_neto": 18,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 18,
+    "otros": "Medidas: 10 cm x 5 m (estirada); Tejido plano elástico; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +28,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://quimicaasociados2.mitiendanube.com/productos/venda-elastica-10cmx5m-dibar-c-18/",
+    "https://oficinaaries.com.mx/articulos-de-seguridad/2421-venda-elastica-dibar-10-cm-en-rollo.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre: hay un proveedor con 'Venda elástica 10cmx5m Dibar C/18', pero ningún sitio confirma el GTIN 7501868902268 (otro proveedor lo lista con el código 750186892268, casi igual). La descripción es general de una venda elástica y no hay datos oficiales del fabricante; verificar si la caja de 18 corresponde a este código.",
+    "notas_imagenes": "Sin fotos: las dos fuentes encontradas no sirvieron; una imagen es un collage de tres medidas con texto y la otra es un rollo pequeño en un lienzo grande, sin la caja de 18.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

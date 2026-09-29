@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "SOLDRIN OTICO GTS C 10 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Soldrin Ótico Solución en Gotas 10 ml",
+  "descripcion": "Descripción:\nSoldrin Ótico es una solución ótica en gotas de Laboratorios Pisa que combina un corticoesteroide (hidrocortisona), un antibiótico (cloranfenicol) y un anestésico local (benzocaína). Se utiliza en el tratamiento de infecciones del oído y se presenta en un frasco con gotero de 10 ml. Es un medicamento de prescripción médica.\n\nCaracterísticas:\n- Solución ótica con tres principios activos: hidrocortisona, cloranfenicol y benzocaína.\n- Aplicación directa en el oído mediante frasco gotero.\n- Presentación de 10 ml.\n\nComposición:\nCada ml contiene: hidrocortisona 10 mg, cloranfenicol 25 mg y benzocaína 20 mg. Excipiente cbp 1 ml.\n\nModo de uso:\nVía de administración ótica (aplicación en el conducto auditivo externo). La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con frasco gotero de 10 ml.\n\nAdvertencias:\nUso exclusivo por vía ótica. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Conserve el frasco entre 15 y 30 °C, bien cerrado y fuera del alcance de los niños. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Soldrin",
+    "fabricante": "Laboratorios Pisa",
+    "linea": "Ótico",
+    "presentacion": "Solución ótica en gotas, frasco gotero",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hidrocortisona, cloranfenicol, benzocaína",
+    "concentracion": "Por ml: hidrocortisona 10 mg; cloranfenicol 25 mg; benzocaína 20 mg",
+    "via_administracion": "Ótica",
+    "registro_sanitario": "63186SSA",
+    "otros": "Condición de venta: con receta médica; Conservación: 15 a 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125109928_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/s/o/soldrin-otico-10-ml-gts-9928_1.jpg",
+      "pagina": "https://www.fahorro.com/solucion-soldrin-otico-10-ml-gotas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "7501125109928_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6b3f4dd8/images/large/7501125109928_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/soldrin-otico-10ml/MXYZ_7501125109928.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 787,
+      "fecha": "2026-09-29",
+      "lado_util": 729
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-oticos/4481-soldrin-otico-solucion-frasco-gotero-con-10-ml-7501125109928.html",
+    "https://www.yza.mx/soldrin-otico-10ml/MXYZ_7501125109928.html",
+    "https://www.farmaciasguadalajara.com/medicina/antibioticos/soldrin-otico-gotas--10-ml.-142859.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Concentraciones 10/25/20 mg por ml coinciden en dos fichas; otra ficha daba valores distintos y describía uso oftálmico (descartada). Una ficha lo marca sin receta y otra con receta: se asume con receta por contener antibiótico.",
+    "notas_imagenes": "2 fotos de tienda: frasco de frente (Farmacias del Ahorro, 1200 px) y frasco con código de barras (Yza, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

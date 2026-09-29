@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "SICO SOFTLUBE GEL LUBR INTIM SUAVIDAD Y CONFORT ORIGINAL 56.7G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sico SoftLube Original Gel Lubricante Íntimo 56.7 g",
+  "descripcion": "Descripción:\nSico SoftLube Original es un gel lubricante íntimo a base de agua que ofrece suavidad y confort durante la intimidad. Su textura de gel ayuda a reducir la fricción y la resequedad íntima. Se presenta en un envase de 56.7 g, discreto y fácil de usar.\n\nBeneficios:\n- Lubricante íntimo en gel a base de agua.\n- Suavidad y confort en cada aplicación.\n- Ayuda a disminuir la fricción y la sensación de resequedad.\n- Envase de 56.7 g, discreto y fácil de llevar.\n\nModo de uso:\nAplique una pequeña cantidad de gel sobre la zona íntima o sobre el condón antes de la relación, y reaplique si lo desea. Cierre bien el envase después de usarlo.\n\nPresentación:\nEnvase con 56.7 g de gel lubricante íntimo, versión Original.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación o comezón y consulte a su médico. Verifique la fecha de caducidad antes de usarlo. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Sico",
+    "fabricante": "RB Health México",
+    "linea": "SoftLube",
+    "variante": "Original",
+    "presentacion": "Gel en envase",
+    "contenido_neto": 56.7,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Base: agua; Uso: lubricante íntimo; Claim del empaque: suavidad y confort"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167991",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Lubricantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506460101514_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506460101514.jpg",
+      "pagina": "https://www.fahorro.com/sico-softlube-original-lubricante-intimo-envase-56-7-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/sico-lubricante-soft-lube-56-7-g",
+    "https://www.heb.com.mx/sico-gel-lubricante-softlub-original-56-7-g-7371/p",
+    "https://www.farmaciasguadalajara.com/salud-sexual/lubricantes/softlube-sico-original-gel-lubricante-intimo-suavidad-y-confort--56.7-gr.-922781.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Producto y contenido de 56.7 g confirmados en varias fichas; el GTIN corresponde al nombre de archivo de la foto de tienda. Ingredientes y compatibilidad con condones no se verificaron en línea (solo 'a base de agua').",
+    "notas_imagenes": "1 foto de tienda con el empaque de frente y rótulo '56.7 g' (1728 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

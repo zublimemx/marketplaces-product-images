@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "LACTULAX JBE 250 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lactulax Lactulosa Jarabe 10 g/15 ml 250 ml",
+  "descripcion": "Descripción:\nLactulax es un jarabe de lactulosa de Senosiain, presentado en frasco de 250 ml con vaso dosificador. Cada 15 ml contienen 10 g de lactulosa, un azúcar sintético que no se absorbe en el intestino y actúa como laxante osmótico: retiene agua en el colon, ablanda las heces y facilita la evacuación. Se utiliza para el tratamiento del estreñimiento y es de administración oral, con un vaso que permite medir la dosis con precisión.\n\nBeneficios:\n- Laxante osmótico con lactulosa 10 g por cada 15 ml.\n- Ayuda a ablandar las heces y a facilitar la evacuación.\n- Incluye vaso dosificador para medir la dosis.\n- Frasco de 250 ml para tratamientos de varios días.\n\nComposición:\nCada 15 ml de jarabe contienen 10 g de lactulosa.\n\nModo de uso:\nVía oral. Mida la dosis con el vaso dosificador incluido, según la indicación de su médico o el instructivo del empaque.\n\nPresentación:\nFrasco con 250 ml de jarabe y vaso dosificador.\n\nAdvertencias:\nNo lo use si es alérgico a la lactulosa, si tiene obstrucción intestinal o galactosemia. Las personas con diabetes deben consultar a su médico antes de usarlo. Si aparece diarrea persistente o deshidratación, suspenda su uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lactulax",
+    "fabricante": "Senosiain",
+    "presentacion": "Jarabe",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Lactulosa",
+    "concentracion": "10 g / 15 ml",
+    "via_administracion": "Oral",
+    "otros": "Clasificación: laxante osmótico; Incluye vaso dosificador; Formato de venta: frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704965_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/s/k/sku-7501314704965_1.jpg",
+      "pagina": "https://www.fahorro.com/lactulax-10-g-15-ml-jarabe-250-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1047,
+      "fecha": "2026-09-29",
+      "lado_util": 970
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/lactulax-10-g-15-ml-jarabe-250-ml.html",
+    "https://www.farmalisto.com.mx/laxantes-con-receta/6065-comprar-lactulax-jarabe-10-g-15-ml-caja-con-frasco-con-250-ml-laxante-precio-7501314704965.html",
+    "https://wecarepharma.mx/en/products/lactulax-jarabe-10g-15ml-250ml-lactulosa"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Una farmacia lo clasifica como con receta y otra sin receta; se dejó 'No' igual que en lotes anteriores de Lactulax. Indicaciones tomadas de ficha de tienda, no del sitio del laboratorio.",
+    "notas_imagenes": "1 foto de tienda (caja de frente con vaso dosificador, 1,200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

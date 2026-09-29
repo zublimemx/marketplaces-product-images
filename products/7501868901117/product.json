@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO A 250ML C36 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alcohol Etílico Dibar 71.5° G.L. 250 ml Caja con 36 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico desnaturalizado de la marca Dibar, con una graduación de 71.5° G.L., en botella de plástico de 250 ml. Se ofrece en caja con 36 piezas, una presentación práctica para reventa o para el abasto de consultorios, escuelas, negocios y hogares.\n\nCaracterísticas:\n- Alcohol etílico desnaturalizado, 71.5° G.L.\n- Contenido neto de 250 ml por botella.\n- Botella de plástico blanca con tapa azul y etiqueta frontal con el contenido neto.\n- Caja con 36 botellas, lo que facilita el surtido de varias piezas de una sola vez.\n- Producto de uso externo, empleado comúnmente para la limpieza de superficies y objetos de uso cotidiano.\n\nPresentación:\nCaja con 36 botellas de 250 ml cada una (9 litros en total).\n\nAdvertencias:\nProducto de uso externo. No se ingiera. Es inflamable: manténgase alejado de flamas, chispas y fuentes de calor, y conserve el envase bien cerrado. Evite el contacto con los ojos; si sucede, enjuague con abundante agua. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Botella de plástico, caja con 36 piezas",
+    "variante": "Alcohol etílico desnaturalizado 71.5° G.L.",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 36,
+    "principio_activo": "Alcohol etílico desnaturalizado",
+    "concentracion": "71.5° G.L.",
+    "via_administracion": "Uso externo",
+    "otros": "Contenido total de la caja: 9 litros; Grado alcohólico: 71.5° G.L.; Formato de venta: caja con 36 botellas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868901117_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://tofuu.getjusto.com/orioneat-prod/WZ4jKkL9sWyczN2LD-7501868901117.jpg",
+      "pagina": "https://www.farmacia24siete.com/pedir/hT9rCfg3zxNFv3vcu/dibar-alcohol-con-250-ml-7501868901117",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 671,
+      "fecha": "2026-09-29",
+      "lado_util": 622
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmacia24siete.com/pedir/hT9rCfg3zxNFv3vcu/dibar-alcohol-con-250-ml-7501868901117"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde a la botella individual de 250 ml (alcohol etílico 71.5°); la caja de 36 piezas se deduce del nombre del sistema y del precio. Advertencias y usos son generales de un alcohol desnaturalizado, porque no se halló ficha del fabricante. Descripción corta por poca información disponible.",
+    "notas_imagenes": "1 foto de tienda de la botella de 250 ml (800 px original; muestra 'Alcohol etílico desnaturalizado 71.5° G.L.').",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

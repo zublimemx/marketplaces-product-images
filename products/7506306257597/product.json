@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "REXONA 100GR TCO PIES EFFICIENT ORIG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Pies Rexona Efficient Original 100 g",
+  "descripcion": "Descripción:\nTalco desodorante para pies Rexona Efficient Original con protección antibacterial, en bote de 100 g. Está pensado para el cuidado diario de los pies, una zona que transpira de forma intensa y que suele pasar buena parte del día encerrada en el calzado. Según la marca, los pies transpiran hasta cuatro veces más que las axilas, por eso es importante mantenerlos secos y frescos. Su fórmula en polvo es adecuada para la higiene personal de toda la familia.\n\nBeneficios:\n- Talco desodorante con protección antibacterial para los pies.\n- Ayuda a mantener los pies secos y con sensación de frescura.\n- Se puede aplicar directamente sobre la piel o en el interior del calzado.\n- Apto para toda la familia.\n- Presentación práctica de 100 g.\n\nIngredientes:\nTalc, Zea Mays Starch, Zinc Oxide, Parfum, Benzalkonium Chloride, Disodium EDTA, Benzyl Salicylate, Coumarin, Limonene, Linalool.\n\nModo de uso:\nAplicar directamente sobre los pies limpios y secos, incluyendo el espacio entre los dedos, y espolvorear también en el interior del calzado.\n\nPresentación:\nBote con 100 g de talco.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos y no inhale el polvo. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Efficient",
+    "variante": "Original",
+    "presentacion": "Bote de talco",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Unisex",
+    "otros": "Tipo: talco desodorante para pies; Protección antibacterial; Uso: toda la familia"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191691",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Talcos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306257597_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501056360412_2.jpg",
+      "pagina": "https://www.fahorro.com/rexona-efficient-talco-para-pies-100-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1356,
+      "fecha": "2026-09-29",
+      "lado_util": 1256
+    },
+    {
+      "archivo": "7506306257597_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/mkt/62bcd8360a9cf_rexona-originajpg.jpg",
+      "pagina": "https://www.claroshop.com/producto/15531746/rexona-efficient-talco-para-pies-100g",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 814,
+      "fecha": "2026-09-29",
+      "lado_util": 754
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/rexona-efficient-talco-para-pies-100-g.html",
+    "https://www.claroshop.com/producto/15531746/rexona-efficient-talco-para-pies-100g"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7506306257597 no aparece en las fichas; las tiendas listan el mismo producto (Rexona Efficient Original, talco para pies 100 g) con el código 7501056360412, probablemente el código anterior de Unilever. Sitio de la marca bloqueado (403).",
+    "notas_imagenes": "2 fotos de tienda (frente del bote): Farmacias del Ahorro 1,600 px y ClaroShop 800 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

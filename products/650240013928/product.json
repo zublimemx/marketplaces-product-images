@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA TEATRICA SOL LAN ROS 400G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Teatrical Rosas y Lanolina 400 g",
+  "descripcion": "Descripción:\nCrema Teatrical con rosas y lanolina en tarro de 400 g. Es la crema de tocador clásica de la marca Teatrical, con una fórmula a base de lanolina y extracto de rosas que brinda humectación y cuidado a la piel. Su tarro de gran tamaño la hace práctica para el uso diario en rostro, cuello y cuerpo.\n\nBeneficios:\n- Ayuda a humectar y cuidar la piel de manera intensiva.\n- Fórmula con lanolina y extracto de rosas.\n- Textura cremosa en tarro de 400 g de rendimiento prolongado.\n\nModo de uso:\nAplique diariamente sobre la piel limpia del rostro y cuello, o sobre las zonas del cuerpo que necesiten humectación, y extienda con un ligero masaje hasta su absorción.\n\nPresentación:\nTarro con 400 g de crema con rosas y lanolina. Uso tópico.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece irritación o enrojecimiento en la piel.\n- Manténgase fuera del alcance de los niños.\n- Consérvese en un lugar fresco (15 a 30 °C), con el tarro bien cerrado.",
+  "ficha": {
+    "marca": "Teatrical",
+    "fabricante": "Genomma Lab",
+    "linea": "Crema de tocador",
+    "variante": "Rosas y lanolina",
+    "presentacion": "Tarro",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Con lanolina y extracto de rosas; Uso en rostro, cuello y cuerpo; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240013928_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/650240013928.jpg",
+      "pagina": "https://www.sanborns.com.mx/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1237,
+      "fecha": "2026-09-29",
+      "lado_util": 1145
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/cremas/288-compra-teatrical-crema-con-rosas-y-laolina-tarro-con-400-g-cuidado-de-la-piel-precio-650240013928.html",
+    "https://www.rappi.com.mx/p/teatrical-crema-facial-lanolina-y-r-24103"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una farmacia en línea (tarro de 400 g, rosas y lanolina) y en una foto identificada con ese código. No se halló la lista completa de ingredientes; las tiendas la ubican como crema facial o corporal.",
+    "notas_imagenes": "1 foto de tienda (vista superior de la tapa del tarro de 400 g); no se hallaron más fotos abiertas del producto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

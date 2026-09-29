@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SYNCOL C24 500 25 15MG SANFER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Syncol Paracetamol Pamabrom Pirilamina 24 Comprimidos",
+  "descripcion": "Descripción:\nSyncol es un medicamento de Laboratorios Sanfer en comprimidos que combina paracetamol (analgésico y antipirético), pamabrom (diurético suave) y maleato de pirilamina (antihistamínico). Según su etiqueta, es auxiliar en el tratamiento del síndrome premenstrual, caracterizado por cólicos, aumento en la retención de agua, dolor de cabeza, espalda y vientre.\n\nComposición:\nCada comprimido contiene paracetamol al 90 % equivalente a 500 mg de paracetamol, pamabrom 25 mg y maleato de pirilamina 15 mg, con excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. Dos comprimidos como dosis inicial al presentar las primeras molestias y posteriormente uno cada 6 horas de uno a tres días, o la que indique su médico.\n\nPresentación:\nCaja con 24 comprimidos.\n\nAdvertencias:\n- Contraindicado en embarazo y en menores de 12 años, en hipersensibilidad a los componentes de la fórmula, enfermedades hepáticas, trastornos de la coagulación y úlcera péptica.\n- No se administre junto con anticoagulantes, bebidas alcohólicas, sedantes o tranquilizantes.\n- Los pacientes con daño hepático deben consultar a su médico antes de usarlo. Conserve a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Syncol",
+    "fabricante": "Grimann para Laboratorios Sanfer",
+    "presentacion": "Caja con 24 comprimidos",
+    "contenido_neto": 24,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 24,
+    "principio_activo": "Paracetamol, pamabrom y maleato de pirilamina",
+    "concentracion": "500 mg / 25 mg / 15 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "016M93 SSA VI",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070600556_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070600556.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1595,
+      "fecha": "2026-09-29",
+      "lado_util": 1478
+    },
+    {
+      "archivo": "7501070600556_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070600556_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1037,
+      "fecha": "2026-09-29",
+      "lado_util": 961
+    },
+    {
+      "archivo": "7501070600556_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070600556_4.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1024,
+      "fecha": "2026-09-29",
+      "lado_util": 949
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasguadalajara.com/syncol-500mg-25mg-15mg-24-comprimidos-603104",
+    "https://wecarepharma.mx/en/products/syncol-500mg-25mg-15mg-con-24-comprimidos-paracetamol-pamabrom-pirilamina"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas y en la etiqueta trasera del empaque (código de barras); fórmula, dosis, contraindicaciones y registro tomados de esa etiqueta.",
+    "notas_imagenes": "3 fotos de tienda: frente, vista en ángulo y etiqueta trasera con la fórmula. Se borraron una con otro diseño de caja, una duplicada y un panel de lote sin datos.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

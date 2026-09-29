@@ -4,29 +4,91 @@
   "linea": "Farma",
   "nombre_sistema": "NORFENON 150MG 30TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Norfenon Propafenona 150 mg 30 Tabletas",
+  "descripcion": "Descripción:\nNorfenon es un medicamento de Abbott cuyo principio activo es el clorhidrato de propafenona, un antiarrítmico. Se utiliza en el tratamiento de arritmias cardíacas. Esta presentación contiene 30 tabletas de 150 mg para administración oral y su venta requiere receta médica.\n\nCaracterísticas:\n- Principio activo: clorhidrato de propafenona.\n- Concentración de 150 mg por tableta.\n- Caja con 30 tabletas.\n- Medicamento de marca fabricado en México por Abbott Laboratorios de México.\n\nComposición:\nCada tableta contiene clorhidrato de propafenona 150 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale.\n\nPresentación:\nCaja con 30 tabletas de 150 mg.\n\nAdvertencias:\nSu venta requiere receta médica. El uso de este medicamento durante el embarazo y la lactancia queda bajo la estricta responsabilidad del médico. Puede producir somnolencia y afectar el estado de alerta, por lo que no debe conducir vehículos automotores ni operar maquinaria pesada durante su uso. Consérvese la caja bien cerrada a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Norfenon",
+    "fabricante": "Abbott Laboratorios de México",
+    "presentacion": "Tabletas, caja con 30",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Clorhidrato de propafenona",
+    "concentracion": "150 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "079M82 SSA IV",
+    "otros": "Condición de venta: con receta médica; Conservación: no más de 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033923234_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4199-large_default/norfenon-150-mg-c30-tabs.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 785,
+      "fecha": "2026-09-29",
+      "lado_util": 726
+    },
+    {
+      "archivo": "7501033923234_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4200-large_default/norfenon-150-mg-c30-tabs.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 768,
+      "fecha": "2026-09-29",
+      "lado_util": 711
+    },
+    {
+      "archivo": "7501033923234_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4201-large_default/norfenon-150-mg-c30-tabs.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 775,
+      "fecha": "2026-09-29",
+      "lado_util": 713
+    },
+    {
+      "archivo": "7501033923234_4.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4202-large_default/norfenon-150-mg-c30-tabs.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 785,
+      "fecha": "2026-09-29",
+      "lado_util": 726
+    }
+  ],
+  "url_oficial": "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+  "fuentes": [
+    "https://www.abbottienda.com/farmaceutica/116-norfenon-150-mg-c30-tabs.html",
+    "https://www.farmalisto.com.mx/presion-arterial/1532-comprar-norfenon-150-mg-caja-con-30-tabletas-cardivascular-precio-7501033923234.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, registro y advertencias leídos del lateral de la caja (foto oficial de la tienda de Abbott). La tienda de Abbott muestra otro número de registro (FP 05030818-F), que parece un código interno; se usó el del empaque.",
+    "notas_imagenes": "4 fotos del fabricante (tienda oficial de Abbott, 800 px): frente, tres cuartos, lateral con fórmula y otro ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

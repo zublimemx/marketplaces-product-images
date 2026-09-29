@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "TOPRON SUSP 4 4 G 120 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Topron Nifuroxazida Suspensión 4.4 g/100 ml 120 ml",
+  "descripcion": "Descripción:\nTopron es una suspensión oral cuyo principio activo es la nifuroxazida, un agente antibacteriano de amplio espectro que actúa a nivel local en el intestino. Su mínima absorción reduce los efectos sistémicos y no modifica la flora bacteriana. Es un producto de Chinoin.\n\nBeneficios:\n- Indicado para la diarrea de cualquier etiología\n- Actividad contra agentes infecciosos como E. coli, Shigella spp, Salmonella spp y Campylobacter jejuni\n\nFórmula:\nCada 100 mL de suspensión contienen: nifuroxazida 4.4 g; vehículo cbp 100 mL.\n\nModo de uso:\nVía oral. Niños de 6 meses a 6 años: 1 1/2 cucharaditas (7.5 mL) cada 12 horas. Niños mayores de 6 años: 2 cucharaditas (10 mL) cada 12 horas. Se recomienda un tratamiento de no más de 4 días.\n\nPresentación:\nFrasco con 120 mL de suspensión.\n\nAdvertencias:\n- No se administre por un periodo mayor de 4 días. No se deben ingerir bebidas alcohólicas durante el tratamiento.\n- Si la diarrea se prolonga más de 4 días o se acompaña de fiebre alta, dolor abdominal severo, vómito o moco y sangre en las evacuaciones, consulte al médico de inmediato.\n- Contraindicado en insuficiencia renal grave, hipersensibilidad a los nitrofuranos o a la fórmula, embarazo y lactancia, y en menores de 6 meses.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Topron",
+    "fabricante": "Productos Farmacéuticos, S.A. de C.V. (Chinoin)",
+    "variante": "Suspensión 4.4 g/100 mL",
+    "presentacion": "Frasco con 120 mL",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Nifuroxazida",
+    "concentracion": "4.4 g/100 mL",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños desde 6 meses y adultos",
+    "registro_sanitario": "434M93 SSA VI",
+    "otros": "Forma farmacéutica: suspensión; Venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088575600_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088575600.jpg",
+      "pagina": "https://www.fahorro.com/topron-oral-suspension-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1369,
+      "fecha": "2026-09-29",
+      "lado_util": 1268
+    },
+    {
+      "archivo": "7501088575600_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088575600_2.jpg",
+      "pagina": "https://www.fahorro.com/topron-oral-suspension-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1308,
+      "fecha": "2026-09-29",
+      "lado_util": 1211
+    },
+    {
+      "archivo": "7501088575600_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088575600_1.jpg",
+      "pagina": "https://www.fahorro.com/topron-oral-suspension-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1269,
+      "fecha": "2026-09-29",
+      "lado_util": 1175
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/topron-suspension-4-4-100-g-ml-caja-c-120-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado; presentación de 120 mL. La ficha lo clasifica como fracción VI (sin receta); revisar si el punto de venta lo maneja con receta por ser antimicrobiano.",
+    "notas_imagenes": "3 fotos de Farmacias del Ahorro (1600 px): frente, vista 3/4 y reverso con la fórmula.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

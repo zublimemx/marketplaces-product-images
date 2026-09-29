@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "KI CAB 50MG TEGOPRAZAN 30TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ki-Cab Tegoprazán 50 mg 30 Tabletas",
+  "descripcion": "Descripción:\nKi-Cab contiene tegoprazán 50 mg, un medicamento gastrointestinal de Laboratorios Carnot para el manejo de trastornos relacionados con la acidez gástrica. Se presenta en caja con 30 tabletas de administración oral y se usa bajo indicación médica.\n\nBeneficios:\n- Enfermedad por reflujo gastroesofágico erosiva y no erosiva\n- Úlcera gástrica\n- Coadyuvante en la erradicación de Helicobacter pylori\n- Una sola tableta al día, con o sin alimentos, según indicación médica\n\nComposición:\nCada tableta contiene tegoprazán 50 mg.\n\nModo de uso:\nVía oral. Se recomienda una tableta al día, con o sin alimentos, según indicación médica. Complete el tratamiento indicado por su médico.\n\nPresentación:\nCaja con 30 tabletas de 50 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es hipersensible al tegoprazán o a los componentes de la fórmula. No se recomienda durante el embarazo ni la lactancia, salvo indicación médica estricta. Puede causar dolor abdominal, náusea, diarrea o dolor de cabeza; en casos raros, reacciones alérgicas en la piel o aumento de enzimas hepáticas. Precaución en pacientes con antecedentes de enfermedad hepática o renal. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ki-Cab",
+    "fabricante": "Laboratorios Carnot",
+    "linea": "Ki-Cab",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Tegoprazán",
+    "concentracion": "50 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124184797_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124184797_1.jpg",
+      "pagina": "https://www.fahorro.com/ki-cab-50-mg-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1715,
+      "fecha": "2026-09-29",
+      "lado_util": 1587
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/ki-cab-50-mg-tegoprazan-30-tabletas",
+    "https://wecarepharma.mx/en/products/ki-cab-50mg-con-30-tabletas-tegoprazan",
+    "https://www.fahorro.com/ki-cab-50-mg-30-tabs.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Un sitio lo marca como 'receta no obligatoria (farmacia)' y otro como 'requiere receta'; se marcó 'Sí' por ser molécula de prescripción. Registro sanitario no visto. La ficha de una tienda lo atribuía a otro laboratorio, pero la caja muestra Carnot.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda, 1715 px). Descarté dos copias de la misma imagen en menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

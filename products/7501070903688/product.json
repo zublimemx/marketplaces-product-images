@@ -4,29 +4,84 @@
   "linea": "Farma",
   "nombre_sistema": "LIBERTRIM SII 100 37 5 MG C 20 COMPR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Libertrim SII 100 mg/37.5 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nLibertrim SII es un medicamento en comprimidos que combina maleato de trimebutina (100 mg) y simeticona (37.5 mg). La trimebutina regula el tono y la motilidad gastroesofágica e intestinal, y la simeticona, un agente antiespumante que no se absorbe, ayuda a eliminar los gases del tracto digestivo. Es un producto de Carnot Laboratorios, elaborado por Productos Científicos, S.A. de C.V.\n\nBeneficios:\n- Indicado en el tratamiento del síndrome de intestino irritable (colon irritable)\n- Alivia el dolor abdominal tipo cólico, la distensión abdominal, la flatulencia y la aerofagia\n- Regula la evacuación en caso de constipación y/o diarrea\n- Indicado también en colitis agudas y crónicas, colitis espasmódicas, colopatías funcionales, duodenitis, reflujo gastroesofágico y esofagitis\n\nFórmula:\nCada comprimido contiene: maleato de trimebutina 100 mg y simeticona 37.5 mg; excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. Adolescentes: 1 comprimido cada 8 horas. Adultos: 1 a 2 comprimidos cada 8 horas. Se recomienda tomarlo de 15 a 30 minutos antes de los alimentos, durante un periodo mínimo de 4 a 8 semanas, a criterio del médico.\n\nPresentación:\nCaja con 20 comprimidos de 100 mg/37.5 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Contiene amarillo No. 5 y 6, que pueden producir reacciones alérgicas.\n- No se use en caso de hipersensibilidad a alguno de los componentes de la fórmula.\n- No se use durante el embarazo y la lactancia.\n- Consérvese a no más de 30 °C en su envase original.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Libertrim",
+    "fabricante": "Productos Científicos, S.A. de C.V. (Carnot Laboratorios)",
+    "linea": "SII",
+    "variante": "100 mg/37.5 mg",
+    "presentacion": "Caja con 20 comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 20,
+    "principio_activo": "Maleato de trimebutina; Simeticona",
+    "concentracion": "100 mg/37.5 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adolescentes y adultos",
+    "registro_sanitario": "410M2008 SSA IV",
+    "otros": "Forma farmacéutica: comprimido; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903688_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070903688_1.png",
+      "pagina": "https://www.fahorro.com/libertrim-sii-100-mg-37-mg-20-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1455,
+      "fecha": "2026-09-29",
+      "lado_util": 1348
+    },
+    {
+      "archivo": "7501070903688_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7043261/7501070903688_05.jpg",
+      "pagina": "https://www.farmatodo.com.mx/libertrim-sii-100-37-5-mg-caja-c-20-comprimidos-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 989,
+      "fecha": "2026-09-29",
+      "lado_util": 916
+    },
+    {
+      "archivo": "7501070903688_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7043260/7501070903688_04.jpg",
+      "pagina": "https://www.farmatodo.com.mx/libertrim-sii-100-37-5-mg-caja-c-20-comprimidos-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1036,
+      "fecha": "2026-09-29",
+      "lado_util": 960
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/libertrim.sii.comprimidos/35/101/10761/25",
+    "https://www.farmatodo.com.mx/libertrim-sii-100-37-5-mg-caja-c-20-comprimidos-v1/p",
+    "https://www.fahorro.com/libertrim-sii-100-mg-37-mg-20-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia. La ficha de una farmacia trae el registro 0004M79 (Libertrim de trimebutina sola); se usó 410M2008 SSA IV, visible en el empaque y en PLM para Libertrim SII.",
+    "notas_imagenes": "3 fotos de tienda: frente (Farmacias del Ahorro, 1600 px) y vista 3/4 y fórmula del empaque (Farmatodo, 1200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

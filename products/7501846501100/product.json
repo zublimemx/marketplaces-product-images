@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CERA MOD XIOMARA WAX&S 60 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cera Modeladora Xiomara Wax & Shine Classic 60 g",
+  "descripcion": "Descripción:\nCera modeladora para el cabello Xiomara Wax & Shine Classic, de fijación normal y duradera con efecto de estilo profesional. Acentúa los detalles del peinado, proporciona brillo y una fijación con estilo, y humecta y acondiciona el cabello sin dejar sensación pegajosa. Es apta para todo tipo de cabello y se presenta en un práctico frasco de 60 g.\n\nBeneficios:\n- Fijación normal y duradera para peinados con estilo profesional\n- Da brillo al cabello y acentúa los detalles del peinado\n- Humecta y acondiciona sin sensación pegajosa\n- Para todo tipo de cabello\n- Frasco de 60 g fácil de llevar\n\nModo de uso:\nTome una pequeña cantidad de cera, frótela entre las palmas de las manos y aplíquela sobre el cabello seco o ligeramente húmedo. Peine o modele hasta lograr el estilo deseado.\n\nPresentación:\nFrasco de 60 g.\n\nAdvertencias:\nUso externo, solo para el cabello. Evite el contacto con los ojos; si esto sucede, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Xiomara",
+    "linea": "Wax & Shine",
+    "variante": "Classic",
+    "presentacion": "Frasco",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Tipo: cera modeladora; Fijación: normal y duradera; Acabado: brillo, sin sensación pegajosa"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501846501100_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501846501100.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/xiomara-profesional-wax-shine.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1345,
+      "fecha": "2026-09-29",
+      "lado_util": 1246
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/xiomara-cera-modeladora-para-cabello-wax-shine-60-g-7501846501100.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/cera-wax-and-shine-clasica-xiomara-60grs",
+    "https://farmalisto.com.mx/higiene-y-belleza/7050-xiomara-wax-shine-bote-con-50-g-cera-modeladora-cebello-7501846501100.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una ficha de tienda anota 50 g para el mismo GTIN; el nombre del sistema y las demás fichas indican 60 g. Ingredientes no disponibles. Modo de uso y advertencias generales.",
+    "notas_imagenes": "1 foto de tienda (frasco frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

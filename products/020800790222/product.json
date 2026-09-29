@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "METAMUCIL PVO NAT 210G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Metamucil Fibra en Polvo Sabor Natural 210 g",
+  "descripcion": "Descripción:\nMetamucil es un suplemento de fibra de origen natural elaborado con cáscara de psyllium (Plantago psyllium), en polvo para suspensión. Restaura y mantiene la regularidad intestinal y auxilia en el tratamiento del estreñimiento. Esta presentación de 210 g, con sabor natural, rinde 30 dosis.\n\nBeneficios:\n- Fibra de origen natural.\n- Restaura y mantiene la regularidad intestinal.\n- Auxilia en el tratamiento del estreñimiento.\n- Sabor natural, para preparar con agua.\n- Presentación de 210 g con 30 dosis.\n\nIngredientes:\nPlantago psyllium (cáscara de semilla) en polvo. Consulte la lista completa de ingredientes en la etiqueta.\n\nModo de uso:\nVía oral. Mezcle una dosis con un vaso de agua u otro líquido, agite bien y tómelo de inmediato, siguiendo la dosis y la frecuencia indicadas en el empaque. Beba siempre con abundante líquido durante el día.\n\nPresentación:\nFrasco con 210 g de polvo, sabor natural (30 dosis).\n\nAdvertencias:\nTómelo siempre con suficiente líquido para evitar dificultad para tragar o atragantamiento. No lo use si tiene dificultad para tragar, obstrucción intestinal o dolor abdominal sin causa conocida. Si los síntomas persisten o cambian sus hábitos intestinales, consulte a su médico. Consérvese en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Metamucil",
+    "fabricante": "Procter & Gamble",
+    "variante": "Sabor natural",
+    "presentacion": "Frasco de polvo",
+    "contenido_neto": 210,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Plantago psyllium",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Natural",
+    "registro_sanitario": "0258M80 SSA VI",
+    "otros": "Formato: polvo para suspensión; Dosis por envase: 30; Fibra de origen natural"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM27783463"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "020800790222_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/2/0/20800790222_7.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/514",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1373,
+      "fecha": "2026-09-29",
+      "lado_util": 1271
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/laxantes/3975-metamucil-polvo-frasco-con-210-g-sabor-natural-20800790222.html",
+    "https://www.heb.com.mx/metamucil-fibra-sabor-natural-30-dosis-210-g-79817/p",
+    "https://www.fahorro.com/metamucil-polvo-fibra-natural-30-dosis1.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (UPC 020800790222) y presentación de 210 g sabor natural confirmados. Dosis exacta remitida al empaque. Catálogo ML por coincidencia de título (210 g, natural).",
+    "notas_imagenes": "1 foto de tienda con el frasco de frente y la cuchara (1373 px). Se descartaron una versión repetida en menor resolución, una con marca de agua y otra con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

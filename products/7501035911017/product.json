@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Máxima Protección Anticaries 150 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Máxima Protección Anticaries (MFP) en presentación familiar de 150 ml. Está reforzada con Calci-Protect para fortalecer los dientes y ayuda a proteger el esmalte contra las caries cuando se usa al cepillarse tres veces al día. Deja un aliento fresco con su sabor original de larga duración y es apta para toda la familia.\n\nBeneficios:\n- Protección anticaries con flúor.\n- Fórmula con Calci-Protect para dientes más fuertes.\n- Ayuda a remover partículas y a prevenir la placa y el sarro.\n- Aliento fresco con sabor original de larga duración.\n- Presentación familiar de 150 ml.\n\nModo de uso:\nColoque sobre el cepillo una cantidad de crema dental y cepille todos los dientes y las encías, de preferencia después de cada comida y al menos tres veces al día. Escupa el excedente y enjuague la boca.\n\nPresentación:\nTubo de 150 ml (formato familiar).\n\nAdvertencias:\n- Uso externo bucal; no se ingiera.\n- Supervise el cepillado de los niños pequeños y mantenga el tubo fuera de su alcance.\n- Ante la ingestión accidental de una cantidad mayor a la usada al cepillarse, busque atención médica.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "MFP Sabor Original",
+    "presentacion": "Tubo",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Original",
+    "otros": "Con Calci-Protect; Con flúor; Formato: Familiar; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911017_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035911017_5.jpg",
+      "pagina": "https://www.fahorro.com/crema-dental-colgate-mfp-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1556,
+      "fecha": "2026-09-29",
+      "lado_util": 1441
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-dental-colgate-mfp-150-ml.html",
+    "https://grupofarmapronto.com/producto/colgate-maxima-proteccion-anticaries-150-ml-crema-dental/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda (Crema dental Colgate MFP 150 ml = Máxima Protección Anticaries). Las advertencias son las generales de una crema dental con flúor; no se abrió el empaque del producto. El sitio oficial de Colgate México no muestra fotos por requerir scripts.",
+    "notas_imagenes": "1 foto de tienda (tubo con caja, 1556 px) de Farmacias del Ahorro; trae una cinta gráfica inferior con 'Familiar 150 mL'. No se encontró una foto más limpia con resolución suficiente (la de otra tienda es de 225 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

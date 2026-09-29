@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ALKA S BOOST C10 TBS 150",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alka-Seltzer Boost 10 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nAlka-Seltzer Boost, de Bayer, son tabletas efervescentes que combinan ácido acetilsalicílico y cafeína. Según su etiqueta, están indicadas para las agruras, la acidez y la indigestión ácida, así como para las molestias ocasionadas por exceso en las comidas y bebidas alcohólicas, como fuertes dolores de cabeza, fatiga y cansancio. Se disuelven en agua antes de tomarse.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 0.500 g y cafeína anhidra 0.065 g, con excipiente cbp 1 tableta. Contiene sodio, lo que podría influir en personas con restricciones en su dieta de ese elemento.\n\nModo de uso:\nVía oral, efervescente. Adultos y mayores de 14 años: 2 tabletas disueltas en agua, repitiendo en caso necesario hasta un máximo de 8 tabletas en 24 horas. Disuelva la tableta previamente en agua y tome también el residuo que queda en el vaso.\n\nPresentación:\nCaja con 10 tabletas efervescentes.\n\nAdvertencias:\n- No se use en caso de hipersensibilidad a los salicilatos, sangrado gastrointestinal, úlcera péptica, gastritis, tendencia a hemorragias, enfermedad del riñón o del hígado ni asma bronquial.\n- No se use en el embarazo ni en la lactancia. No se administre a menores de 14 años ni en influenza o varicela por el riesgo de síndrome de Reye.\n- No se administre junto con anticoagulantes, corticosteroides, antirreumáticos, sulfonilureas, metotrexato, alcohol o fármacos antigota.\n- En caso de sobredosis puede presentarse vértigo y zumbido de oídos. Conserve a no más de 25 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alka-Seltzer",
+    "fabricante": "Bayer de México",
+    "linea": "Boost",
+    "presentacion": "Caja con 10 tabletas efervescentes",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "concentracion": "Ácido acetilsalicílico 500 mg y cafeína anhidra 65 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 14 años",
+    "registro_sanitario": "206M2011 SSA VI",
+    "otros": "Tabletas efervescentes; Contiene sodio; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008497593_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008497593_3.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/18793/alka-seltzer-boost-10-tabletas-efervecentes",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1196,
+      "fecha": "2026-09-29",
+      "lado_util": 1108
+    },
+    {
+      "archivo": "7501008497593_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008497593_2.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/18793/alka-seltzer-boost-10-tabletas-efervecentes",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 963,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    },
+    {
+      "archivo": "7501008497593_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7005152/7501008497593_02.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/18793/alka-seltzer-boost-10-tabletas-efervecentes",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 904
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/alka-seltzer-boost-antiacido-y-analgesico-10-tabletas-efervescentes.html",
+    "https://www.farmatodo.com.mx/alka-seltzer-boost-antiacido-caja-c-10-tabletas-efervescentes/p",
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/1305-alka-seltzer-boost-caja-con-10-tabletas-efervescentes-7501008497593.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas; composición, dosis, advertencias y registro tomados de la etiqueta trasera del empaque. Una ficha de farmacia menciona 1.976 g y 0.324 g (parece la base efervescente), sin afectar los activos.",
+    "notas_imagenes": "3 fotos de tienda (2 de frente del empaque y 1 etiqueta trasera con la fórmula). Se borró una con banner promocional \"10 Tab\"; una imagen de otra tienda no abrió.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

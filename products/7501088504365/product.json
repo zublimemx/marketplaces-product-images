@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "METEOSPASMYL CAPS 40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Meteospasmyl Alverina 60 mg Simeticona 300 mg 40 Cápsulas",
+  "descripcion": "Descripción:\nMeteospasmyl es un medicamento de Mayoly Spindler que combina citrato de alverina, un antiespasmódico, con simeticona, un antiflatulento. Está indicado para el alivio de las molestias digestivas asociadas al exceso de gas y a los espasmos intestinales, como distensión abdominal, meteorismo, flatulencia, eructos, dolor abdominal, náuseas, trastornos dispépticos y síndrome de intestino irritable. Se presenta en caja con 40 cápsulas.\n\nBeneficios:\n- Antiespasmódico y antiflatulento en una sola cápsula\n- Ayuda a aliviar la distensión abdominal y el meteorismo\n- Ayuda en el manejo del dolor por espasmo intestinal y de la flatulencia\n- Útil en molestias dispépticas, eructos y síndrome de intestino irritable\n- Caja con 40 cápsulas\n\nComposición:\nCada cápsula contiene: citrato de alverina 60 mg y simeticona 300 mg.\n\nPresentación:\nCaja con 40 cápsulas para administración oral.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Informe a su médico si está embarazada o en periodo de lactancia. La dosis y la duración del tratamiento deben ser indicadas por su médico. Almacene a temperatura ambiente controlada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Meteospasmyl",
+    "fabricante": "Mayoly Spindler",
+    "presentacion": "Caja",
+    "contenido_neto": 40,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 40,
+    "principio_activo": "Citrato de alverina, simeticona",
+    "concentracion": "60 mg / 300 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "046M2002 SSA IV",
+    "otros": "Forma farmacéutica: cápsulas; Clasificación ATC: A03AX58"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088504365_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088504365_1.png?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000&format=jpeg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 3300,
+      "alto_original": 2550,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/gastroenterologia/3212-meteospasmyl-60-mg-300-mg-caja-con-40-capsulas-7501088504365.html",
+    "https://www.farmatodo.com.mx/meteospasmyl-60-300-mg-caja-c-40-capsulas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El registro termina en SSA IV (fracción IV, receta), pero las fichas de tienda no indican condición de venta; se marca Revisar. No se encontró la dosis oficial.",
+    "notas_imagenes": "1 foto de tienda (caja frontal, alta resolución).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

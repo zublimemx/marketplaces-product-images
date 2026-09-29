@@ -4,29 +4,56 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLG TRIPL-ACC EXTBL 50ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Triple Acción Xtra Blancura 50 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Triple Acción Xtra Blancura en tubo de 50 ml. Contiene micropartículas pulidoras que ayudan a remover las manchas de los dientes para lograr una blancura natural, además de ofrecer protección anticaries con flúor y frescura en el aliento. Es un formato práctico para el uso diario o para llevar de viaje.\n\nBeneficios:\n- Micropartículas pulidoras para dientes más blancos.\n- Remueve manchas y brinda una blancura natural.\n- Protección anticaries con flúor.\n- Frescura en el aliento.\n- Apta para toda la familia.\n\nModo de uso:\nColoque una cantidad de crema dental sobre el cepillo y cepille todos los dientes y las encías, de preferencia después de cada comida. Escupa el excedente y enjuague la boca.\n\nPresentación:\nTubo de 50 ml.\n\nAdvertencias:\n- Uso externo bucal; no se ingiera.\n- Supervise el cepillado de los niños pequeños y mantenga el tubo fuera de su alcance.\n- Ante la ingestión accidental de una cantidad mayor a la usada al cepillarse, busque atención médica.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Triple Acción",
+    "variante": "Xtra Blancura",
+    "presentacion": "Tubo",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Tipo: Crema dental blanqueadora; Con micropartículas pulidoras; Con flúor; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19541749"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546068909_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw183f7963/images/large/7509546068909_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7509546068909.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1029,
+      "fecha": "2026-09-29",
+      "lado_util": 953
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-dental-colgate-triple-accion-whitening-50-ml.html",
+    "https://www.yza.mx/x/MXYZ_7509546068909.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda y en la de Yza. El catálogo MLM19541749 salió en los resultados con el mismo nombre (Pasta Dental Colgate Triple Acción Extra Blancura 50 ml); no se pudo abrir por bloqueo, se anota por coincidir el título. Las advertencias son las generales de una crema dental con flúor.",
+    "notas_imagenes": "1 foto de tienda (tubo con caja en ángulo, 1029 px) de Yza. Se borraron dos fotos por traer una etiqueta de 'súper precio'.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

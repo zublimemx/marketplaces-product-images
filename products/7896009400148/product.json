@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "COREGA 40G MTA OCTUBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ultra Corega Crema Adhesiva Sabor Menta 40 g",
+  "descripcion": "Descripción:\nUltra Corega Crema Sabor Menta es una crema adhesiva para prótesis dentales de Haleon, diseñada para fijar firmemente la prótesis y mantenerla libre de restos de comida, para que pueda comer, hablar y sonreír con confianza. Ofrece fijación firme hasta por 12 horas y forma un sello que ayuda a impedir la entrada de alimentos entre la prótesis y la encía, lo que ayuda a prevenir la irritación de las encías y mejora el ajuste y la comodidad de la prótesis. Fórmula sin zinc, con sabor menta. Contenido neto de 40 g.\n\nBeneficios:\n- Fijación firme hasta por 12 horas\n- Sello que ayuda a impedir que se acumulen restos de comida\n- Mejora el ajuste y la comodidad de la prótesis\n- Fórmula libre de zinc\n- Sabor menta\n\nModo de uso:\n- La primera vez utilice una pequeña cantidad y agregue más si es necesario; demasiado adhesivo puede desbordar\n- Limpie y seque su prótesis\n- Aplique el producto en pequeñas tiras, no muy cerca de los bordes de la prótesis\n- Enjuague su boca antes de colocarse la prótesis y presiónela firmemente por unos segundos para asegurar la fijación\n- Para remover: enjuague su boca con agua, quite la prótesis suavemente y retire los residuos de adhesivo con agua tibia y un cepillo suave\n- Aplique una vez por día para una fijación segura\n\nPresentación:\nTubo con 40 g de crema adhesiva sabor menta.\n\nAdvertencias:\nIngerir pequeñas cantidades de este producto, utilizado según lo indicado, puede ocurrir y no es perjudicial. Las prótesis mal adaptadas pueden afectar su salud; visite periódicamente a su odontólogo. Si necesita aplicar más de una vez al día, consulte a su odontólogo. Uso personal. Mantenga la tapa y la boquilla secas y vuelva a colocar la tapa después de usarlo.",
+  "ficha": {
+    "marca": "Corega",
+    "fabricante": "Haleon",
+    "linea": "Ultra Corega",
+    "variante": "Sabor menta",
+    "presentacion": "Tubo de 40 g",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "registro_sanitario": "0594C2008 SSA",
+    "otros": "Crema adhesiva para prótesis dentales; Fórmula libre de zinc; Fijación firme hasta por 12 horas; Uso personal"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180914",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7896009400148_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7896009400148.jpg",
+      "pagina": "https://www.fahorro.com/ultra-corega-menta-crema-adhesiva-para-protesis-dentales-40-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    },
+    {
+      "archivo": "7896009400148_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb09a3442/images/large/7896009400148_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/corega-adhesivo-dental-menta-40-g/MXYZ_7896009400148.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 997,
+      "fecha": "2026-09-29",
+      "lado_util": 924
+    },
+    {
+      "archivo": "7896009400148_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw12c87d17/images/large/7896009400148_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/corega-adhesivo-dental-menta-40-g/MXYZ_7896009400148.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 992,
+      "fecha": "2026-09-29",
+      "lado_util": 919
+    }
+  ],
+  "url_oficial": "https://corega.com/es-mx/productos/pegamento-protesis-dentales/poligrip-mint/",
+  "fuentes": [
+    "https://corega.com/es-mx/productos/pegamento-protesis-dentales/poligrip-mint/",
+    "https://corega.com/es-mx/productos/pegamento-protesis-dentales/ultra-corega/",
+    "https://www.yza.mx/corega-adhesivo-dental-menta-40-g/MXYZ_7896009400148.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso y advertencias leídos en el reverso del empaque (código de barras 7896009400148 visible). Registro 0594C2008 SSA del sitio oficial (Ultra Corega Menta). Categoría 'Cuidado Bucal > Otros' por no haber una específica para adhesivos de prótesis.",
+    "notas_imagenes": "3 fotos de tienda (1728, 997 y 992 px): caja con tubo y sello 'Sabor Menta 40 g', frente de la caja y reverso con instrucciones. La imagen oficial era muy pequeña (214 px) y no se usó.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

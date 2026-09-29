@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "STERIMAR SOLUCION 100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Stérimar Uso Diario Solución Nasal Agua de Mar 100 ml",
+  "descripcion": "Descripción:\nStérimar Uso Diario es una solución nasal isotónica de agua de mar 100% natural, en atomizador de 100 ml. Sirve para la higiene nasal diaria de niños y adultos: favorece la limpieza, la humectación y la lubricación de la nariz y libera de secreciones mucosas en episodios de infección y alergia. Su envase de aluminio con sistema antirreflujo mantiene el producto sin conservadores, y su boquilla de microdifusión dispersa la solución de manera uniforme.\n\nBeneficios:\n- Higiene nasal diaria para toda la familia.\n- Humidifica la mucosa nasal.\n- Coadyuvante en la rinitis y, en particular, en la rinitis atrófica.\n- Auxiliar en el reblandecimiento y la expulsión de costras después de una cirugía nasal.\n- No irrita ni daña la mucosa nasal.\n- Rinde hasta 300 atomizaciones.\n\nComposición:\nAgua de mar (solución isotónica) cbp 100 ml, sin conservadores.\n\nModo de uso:\nAplique de 2 a 6 atomizaciones por día en cada fosa nasal, o según indique su médico.\n\nPresentación:\nAtomizador de aluminio con 100 ml (hasta 300 atomizaciones).\n\nAdvertencias:\n- Evite el contacto con los ojos.\n- No perfore ni incinere el envase.\n- No lo exponga a los rayos solares ni lo almacene a más de 50 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Stérimar",
+    "fabricante": "Church & Dwight",
+    "linea": "Uso Diario",
+    "presentacion": "Solución nasal en atomizador",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Agua de mar",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Niños y adultos",
+    "otros": "Solución isotónica de agua de mar 100% natural; Sin conservadores; Hasta 300 atomizaciones; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080912076_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080912076_1_2.jpg",
+      "pagina": "https://www.fahorro.com/sterimar-agua-de-mar-uso-diario-100-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1540,
+      "fecha": "2026-09-29",
+      "lado_util": 1426
+    },
+    {
+      "archivo": "7501080912076_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwef51e3c6/images/large/7501080912076_1.jpg",
+      "pagina": "https://www.yza.mx/spray-nasal-sterimar-100ml-/MXYZ_7501080912076.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 757,
+      "fecha": "2026-09-29",
+      "lado_util": 701
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sterimar-agua-de-mar-uso-diario-100-ml.html",
+    "https://www.yza.mx/spray-nasal-sterimar-100ml-/MXYZ_7501080912076.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU de la ficha de tienda y en la de Yza. El fabricante Church & Dwight sale de la ficha de Yza. Se eligió la categoría de respiratorios de venta libre porque no hay una categoría específica de higiene nasal con el tipo de medicamento.",
+    "notas_imagenes": "2 fotos de tienda (caja con atomizador y frente de la caja de 100 ml, 757 y 1540 px) de Farmacias del Ahorro y Yza.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

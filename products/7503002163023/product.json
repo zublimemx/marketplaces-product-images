@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "GEL X-TREME TRANSP 250 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gel Fijador Xtreme Professional Transparente 250 g",
+  "descripcion": "Descripción:\nGel fijador para el cabello Xtreme Professional, de Henkel, en presentación transparente de 250 g. Está pensado para dar control y fijación al peinado con un gel para todos, y su empaque destaca una fijación de hasta 24 horas y un nivel de fijación 10X.\n\nCaracterísticas:\n- Sin alcohol.\n- Sin residuos.\n- Con sábila.\n- Control extremo del peinado por más de 24 horas, según el empaque.\n- Textura de gel transparente en frasco de boca ancha, fácil de tomar con la mano.\n\nModo de uso:\nAplique la cantidad necesaria de gel sobre la palma de las manos. Distribuya el gel de manera uniforme en el cabello húmedo y limpio y péinelo hasta lograr el look deseado.\n\nPresentación:\nFrasco con 250 g (8.81 oz) de gel fijador transparente.\n\nAdvertencias:\n- En caso de ingestión consulte a su médico.\n- Evite el contacto con los ojos.\n- Manténgase fuera del alcance de los niños. No usar en niños menores de 3 años.\n- Conserve el producto en un lugar fresco, seco y protegido de la luz solar.",
+  "ficha": {
+    "marca": "Xtreme",
+    "fabricante": "Henkel",
+    "linea": "Xtreme Professional",
+    "variante": "Transparente",
+    "presentacion": "Frasco de gel fijador",
+    "contenido_neto": 250,
+    "unidad_contenido": "g",
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Sin alcohol; Sin residuos; Con sábila; Fijación de más de 24 horas; Nivel de fijación 10X; Peso neto: 250 g (8.81 oz); Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503002163023_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503002163023.1.jpg",
+      "pagina": "https://www.fahorro.com/gel-xtreme-transparante-250-g-tarro-3.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1612,
+      "fecha": "2026-09-29",
+      "lado_util": 1493
+    },
+    {
+      "archivo": "7503002163023_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503002163023.2.jpg",
+      "pagina": "https://www.fahorro.com/gel-xtreme-transparante-250-g-tarro-3.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1612,
+      "fecha": "2026-09-29",
+      "lado_util": 1493
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/gel-xtreme-transparente-250-gr/p",
+    "https://www.fahorro.com/gel-xtreme-transparante-250-g-tarro-3.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas y visible en el código de barras de la foto trasera del empaque; instrucciones y precauciones tomadas de esa etiqueta (fabricado para Henkel Capital, México).",
+    "notas_imagenes": "2 fotos de tienda con el diseño actual del empaque (frente y etiqueta trasera con el código de barras). Se borraron dos de diseños anteriores.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

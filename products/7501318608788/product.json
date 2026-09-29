@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "XARELTO 20 MG C 28 JUNIO 27 RIVAROXABAN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Xarelto Rivaroxabán 20 mg 28 Comprimidos",
+  "descripcion": "Descripción:\nXarelto 20 mg de Bayer es un anticoagulante oral cuyo principio activo es el rivaroxabán (micronizado). Cada comprimido contiene 20 mg de rivaroxabán. Es un medicamento de prescripción: su médico lo indica, entre otros usos, para la prevención de eventos cardiovasculares y del embolismo sistémico, de acuerdo con las necesidades de cada paciente. Se presenta en caja con 28 comprimidos.\n\nComposición:\nCada comprimido contiene rivaroxabán 20 mg; excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina su médico; no suspenda ni modifique el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 28 comprimidos de 20 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Los anticoagulantes pueden aumentar el riesgo de sangrado; informe a su médico y a su odontólogo que toma este medicamento y consulte de inmediato si presenta sangrados inusuales. Conservar entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Xarelto",
+    "fabricante": "Bayer",
+    "linea": "Xarelto",
+    "presentacion": "Caja con 28 comprimidos",
+    "contenido_neto": 28,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 28,
+    "principio_activo": "Rivaroxabán",
+    "concentracion": "20 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "357M2008 SSA IV",
+    "otros": "Forma farmacéutica: comprimidos; Anticoagulante; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318608788_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5434c595/images/large/7501318608788_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/xarelto-20mg-28-comp-/MXYZ_7501318608788.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 520
+    },
+    {
+      "archivo": "7501318608788_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501318608788_141770d0-d010-4994-bbe8-07140fc48d2a.jpg?v=1701392252&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/22659",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/12228-xarelto-20-mg-28-comprimidos-rivaroxaban-bayer-7501318608788.html",
+    "https://grupofarmapronto.com/producto/xarelto-20mg-tabletas-c-28/",
+    "https://farmaciasanjorge.com/products/22659"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición leída en la foto de la caja. Indicaciones descritas en forma general (la ficha de tienda solo lista eventos cardiovasculares y embolismo sistémico). Registro sanitario de ficha de tienda. Sitio de Bayer no accesible.",
+    "notas_imagenes": "2 fotos de frente de la caja de 28 comprimidos (tienda, 561 y 976 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

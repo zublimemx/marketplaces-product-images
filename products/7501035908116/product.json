@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MENNEN AZUL 100G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Bebé Mennen Baby Magic Azul 100 g",
+  "descripcion": "Descripción:\nTalco para bebés Baby Magic de Mennen, versión azul hipoalergénica, en frasco de 100 g. Su suave fórmula cuida la piel del bebé rechazando el paso de la humedad, con lo que ayuda a prevenir las rozaduras, además de mantenerla fresca y perfumada.\n\nBeneficios:\n- Fórmula hipoalergénica que protege la piel del bebé.\n- Ayuda a prevenir las rozaduras al rechazar la humedad.\n- Ayuda a mantener la piel fresca y con el aroma característico de Baby Magic.\n- Frasco de 100 g con tapa dosificadora.\n\nIngredientes:\nTalco, estearato de magnesio, carbonato de magnesio y fragancia (Talc, Magnesium Stearate, Magnesium Carbonate, Parfum).\n\nModo de uso:\nPonga un poco de talco en la palma de la mano y aplíquelo en el área del pañal del bebé. Puede usarse sobre todo el cuerpo para mantenerlo fresco.\n\nPresentación:\nFrasco con 100 g de talco para bebé.\n\nAdvertencias:\n- Manténgase fuera del alcance de los niños.\n- Durante su aplicación, evite el contacto con la nariz, la boca y los ojos del bebé.\n- No lo use en piel irritada o lastimada. Suspenda su uso en caso de irritación, enrojecimiento o molestia.",
+  "ficha": {
+    "marca": "Mennen",
+    "linea": "Baby Magic",
+    "variante": "Azul hipoalergénico",
+    "presentacion": "Frasco de talco",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel de bebé",
+    "otros": "Hipoalergénico; Ingredientes: Talc, Magnesium Stearate, Magnesium Carbonate, Parfum; Peso neto: 100 g; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455894",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908116_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035908116_1.jpg",
+      "pagina": "https://www.yza.mx/talco-mennen-baby-magic-nino-100-g/MXYZ_7501035908116.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    },
+    {
+      "archivo": "7501035908116_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035908116_3.jpg",
+      "pagina": "https://www.yza.mx/talco-mennen-baby-magic-nino-100-g/MXYZ_7501035908116.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    },
+    {
+      "archivo": "7501035908116_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035908116_4.jpg",
+      "pagina": "https://www.yza.mx/talco-mennen-baby-magic-nino-100-g/MXYZ_7501035908116.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/talco-mennen-baby-magic-nino-100-g/MXYZ_7501035908116.html",
+    "https://www.megasuper.com/p/talco-para-bebe-mennen-azul-100-g-7501035908116"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas (Mennen Baby Magic azul de 100 g); ingredientes, modo de uso y precauciones tomados de la gráfica de la etiqueta del producto. Fabricante no confirmado.",
+    "notas_imagenes": "3 fotos de tienda: frente del frasco azul y dos vistas laterales con el código de barras. Se borraron la del frasco rosa (otra variante), una gráfica de la etiqueta y una repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

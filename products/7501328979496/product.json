@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "HISTIACIL NF INF JBE 150 ML 42",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Histiacil NF Jarabe Infantil Dextrometorfano 150 ml",
+  "descripcion": "Descripción:\nHistiacil NF Jarabe Infantil es un medicamento antitusivo y mucolítico para niños de 2 a 12 años, con dextrometorfano y ambroxol, de Sanofi. Es auxiliar en el alivio de la tos y facilita la expulsión de flemas. Está indicado como coadyuvante en procesos respiratorios con aumento de secreciones bronquiales, como bronquitis, neumonía, sinusitis y en general aquellos donde sea necesario calmar la tos y obtener un efecto mucolítico.\n\nFórmula:\nCada 100 ml de jarabe contienen bromhidrato de dextrometorfano y clorhidrato de ambroxol; la etiqueta indica 113 mg/150 mg. Excipiente cbp 100 ml.\n\nModo de uso:\n- Vía oral. Se administra con el vaso dosificador graduado en mililitros incluido en la caja.\n- La dosis y la frecuencia deben ser las que indique el médico o el instructivo; la ficha de referencia señala una toma cada 6 horas en niños de 6 a 12 años.\n\nPresentación:\nCaja con frasco de 150 ml y vaso dosificador.\n\nAdvertencias:\n- Uso exclusivo para niños de 2 a 12 años.\n- Consulte a su médico antes de combinarlo con otros medicamentos.\n- Si las molestias persisten, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histiacil",
+    "fabricante": "Sanofi-Aventis de México",
+    "linea": "NF Infantil",
+    "presentacion": "Jarabe, frasco con 150 ml y vaso dosificador",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dextrometorfano, ambroxol",
+    "concentracion": "113 mg/150 mg (dextrometorfano/ambroxol)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 12 años",
+    "otros": "Uso: tos seca y con flemas; Incluye vaso dosificador; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501328979496_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501328979496_1_3.jpg",
+      "pagina": "https://www.fahorro.com/histiacil-nf-jarabe-tos-infantil-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1578,
+      "fecha": "2026-09-29",
+      "lado_util": 1462
+    },
+    {
+      "archivo": "7501328979496_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw299b2fa0/images/large/7501328979496_1.jpg",
+      "pagina": "https://www.yza.mx/histiacil-nf-jarabe-infantil-150ml/MXYZ_7501328979496.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 802,
+      "fecha": "2026-09-29",
+      "lado_util": 743
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/histiacil-nf-jarabe-tos-infantil-150-ml.html",
+    "https://www.yza.mx/histiacil-nf-jarabe-infantil-150ml/MXYZ_7501328979496.html",
+    "https://www.chedraui.com.mx/histiacil-nf-jarabe-para-la-tos-infantil-el-experto-en-tos-150ml-3032007/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. Las cantidades de la ficha de tienda están mal redactadas (varían de una página a otra); se usó la concentración impresa en el empaque (113 mg/150 mg, cada 100 ml según la ficha de Yza). La dosis exacta por edad no se encontró completa, por eso se remite al instructivo y al médico.",
+    "notas_imagenes": "2 fotos de tienda (frente y ángulo de la caja de 150 ml, 802 y 1578 px). Se borraron una foto repetida y una infografía promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

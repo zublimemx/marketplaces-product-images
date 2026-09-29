@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "THE SENSUAL TEA ZISEN C 2 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "The Sensual Tea Zisen Tabs Vigorizante 2 Tabletas",
+  "descripcion": "Descripción:\nZisen Tabs de The Sensual Tea es un suplemento vigorizante para hombre y mujer en tabletas, elaborado con una mezcla de plantas naturales de origen (extractos herbales y té). El empaque indica acción rápida, de 40 a 60 minutos después de tomarlo, y viene en comprimidos de fácil deglución.\n\nCaracterísticas:\n- Suplemento vigorizante natural para hombre y mujer.\n- Base de extractos herbales y té.\n- Mezcla de plantas naturales de origen.\n- Acción rápida en 40 a 60 minutos según el empaque.\n- Comprimidos de fácil deglución.\n\nComposición:\nMezcla de plantas naturales de origen (extractos herbales y té). Consulte el empaque para ver la lista completa de ingredientes.\n\nModo de uso:\nTomar una tableta 60 minutos antes de la actividad con bastante agua. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 2 tabletas.\n\nAdvertencias:\n- No se administre durante el embarazo ni la lactancia.\n- No exceda la dosis recomendada.\n- Las personas bajo tratamiento médico o con antecedentes de problemas cardiovasculares, gastrointestinales, hepáticos o diabetes deben consultar a su médico antes de usarlo.\n- No lo use junto con estimulantes como alcohol, café, bebidas energizantes o medicamentos controlados.\n- No lo use para aumentar la masa corporal ni el rendimiento físico en personas sanas.",
+  "ficha": {
+    "marca": "The Sensual Tea",
+    "linea": "Zisen",
+    "variante": "Zisen Tabs",
+    "presentacion": "Caja con 2 tabletas",
+    "contenido_neto": 2,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Mezcla de plantas naturales (extractos herbales y té)",
+    "via_administracion": "Oral",
+    "genero": "Hombre y mujer",
+    "otros": "Tipo: Suplemento vigorizante; Acción rápida: 40 a 60 minutos; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503002057810_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503002057810_3.jpg",
+      "pagina": "https://www.fahorro.com/zisen-the-sensual-tea-2-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1162,
+      "fecha": "2026-09-29",
+      "lado_util": 1076
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/zisen-the-sensual-tea-2-tabletas.html",
+    "https://www.yza.mx/x/MXYZ_7503002057810.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de tienda y en la de Yza (Zisen Dat 450 mg, 2 tabletas). Se evitaron las afirmaciones de desempeño sexual de las tiendas y solo se dejó lo impreso en el empaque; se categorizó como suplemento (también podría ir en Cuidado Sexual > Otros). La lista completa de ingredientes no apareció.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja con 2 tabletas, 1162 px) de Farmacias del Ahorro. Se borró una segunda foto equivalente de otra tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "KY6 C10 CLORFENAMINA COMP BRULUART",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "KY6 Clorfenamina Compuesta 10 Tabletas",
+  "descripcion": "Descripción:\nKY6 clorfenamina compuesta es un medicamento en tabletas de Laboratorios Bruluart para el alivio de las molestias del resfriado común, como dolor de cabeza, fiebre, congestión nasal, cuerpo cortado, estornudos, escurrimiento nasal y ojos llorosos. Contiene clorfenamina, un antihistamínico que ayuda a reducir los estornudos, la comezón y el escurrimiento nasal. Se presenta en caja con 10 tabletas.\n\nBeneficios:\n- Alivia las molestias del resfriado común\n- Ayuda con dolor de cabeza, fiebre y cuerpo cortado\n- Ayuda con congestión nasal, estornudos, escurrimiento nasal y ojos llorosos\n- Caja con 10 tabletas\n\nPresentación:\nCaja con 10 tabletas para administración oral.\n\nAdvertencias:\nPuede causar somnolencia; evite conducir u operar maquinaria durante su uso. No lo use si es alérgico a la clorfenamina o a alguno de los componentes de la fórmula, ni junto con otros medicamentos para el resfriado sin consultar a su médico. Consulte a su médico si tiene glaucoma, retención urinaria o si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "KY6",
+    "fabricante": "Bruluart",
+    "presentacion": "Caja",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Clorfenamina compuesta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Uso: alivio de síntomas del resfriado común"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502208895196_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Ky6.jpg?v=1694961835",
+      "pagina": "https://sanorim.mx/products/ky6-clorfenamina-compuesta-caja-con-10-tabletas",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 547,
+      "fecha": "2026-09-29",
+      "lado_util": 507
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/clorfenamina-compuesta-c-10-tabs-bruluar/p",
+    "https://sanorim.mx/products/ky6-clorfenamina-compuesta-caja-con-10-tabletas",
+    "https://wecarepharma.mx/en/products/ky6-500mg-con-10-tabletas-clorfenamina-compuesta"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se encontró la fórmula completa por tableta (concentraciones ni componentes asociados) ni registro sanitario; las fichas de tienda son escuetas y una indica receta. Indicaciones tomadas del empaque (foto). GTIN no confirmado en ninguna ficha. Condición de venta por verificar.",
+    "notas_imagenes": "1 foto de tienda (caja frontal de 600 px original).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

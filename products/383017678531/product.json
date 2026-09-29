@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "BD JGA ULTRA-FINE INSUL 0.3ML/30UI 31G/6MM C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringa Insulina BD Ultra-Fine 0.3 ml 31G 6 mm 30 Piezas",
+  "descripcion": "Descripción:\nJeringa para insulina BD Ultra-Fine de 0.3 ml (30 unidades) con aguja fija (integrada) de 6 mm de largo y calibre 31G (0.25 mm), para uso con insulina U-100. Cuenta con escala graduada de 0.5 en 0.5 unidad y capacidad de hasta 30 unidades de insulina. Las jeringas son estériles y de un solo uso, y la caja contiene 30 piezas.\n\nCaracterísticas:\n- Capacidad de 0.3 ml / 30 UI\n- Aguja fija de 6 mm de longitud y calibre 31G\n- Escala graduada de 0.5 en 0.5 unidad\n- Para insulina U-100\n- Jeringas estériles de un solo uso\n\nPresentación:\nCaja con 30 jeringas para insulina.\n\nAdvertencias:\nProducto de un solo uso; no reutilice ni comparta las jeringas. Deséchelas en un contenedor adecuado para objetos punzocortantes. Úselas únicamente con insulina U-100 y siga las indicaciones de su médico.",
+  "ficha": {
+    "marca": "BD",
+    "fabricante": "Embecta (antes BD)",
+    "linea": "Ultra-Fine",
+    "presentacion": "Caja con 30 jeringas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "otros": "Capacidad: 0.3 ml (30 UI); Aguja: fija de 6 mm, calibre 31G (0.25 mm); Escala: 0.5 unidad; Para insulina U-100; Estéril y de un solo uso; El empaque actual muestra la marca embecta; Referencia 326785"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "383017678531_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20260605_1027944.jpg",
+      "pagina": "https://www.benavides.com.mx/bd-ultra-fine-jeringa-para-insulina-u-100-0-3-ml-31g-x-6-mm-30-uds",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 986,
+      "fecha": "2026-09-29",
+      "lado_util": 913
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/bd-ultra-fine-jeringa-para-insulina-u-100-0-3-ml-31g-x-6-mm-30-uds"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 383017678531 (12 dígitos) confirmado en el campo gtin de la ficha de tienda. El empaque actual dice 'embecta Ultra-Fine' (BD Diabetes Care se separó como embecta). Sitio de BD/embecta no accesible.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda, 986 px). Descarté un duplicado de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

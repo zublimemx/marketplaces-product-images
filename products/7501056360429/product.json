@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TCO DESOD EFICC PIES 200 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco Desodorante para Pies Rexona Efficient 200 g",
+  "descripcion": "Descripción:\nTalco desodorante para pies Rexona Efficient Original, de 200 g. Ayuda a mantener los pies secos y a combatir las bacterias que causan el mal olor por la sudoración, ofreciendo frescura y protección desodorante durante todo el día. Es un producto de uso unisex, ideal para aplicar en los pies y dentro del calzado.\n\nBeneficios:\n- Mantiene los pies secos y frescos\n- Ayuda a evitar las bacterias causantes del mal olor por sudoración\n- Protección desodorante a lo largo de la jornada\n- Uso unisex\n- Frasco de 200 g\n\nModo de uso:\nDespués del baño y con los pies bien secos, aplique una pequeña cantidad de talco sobre los pies, entre los dedos y, si lo desea, dentro del calzado.\n\nPresentación:\nFrasco de 200 g.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos y no lo inhale. No lo aplique sobre heridas ni piel irritada. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Efficient",
+    "variante": "Original",
+    "presentacion": "Frasco",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Unisex",
+    "via_administracion": "Tópica (externa)",
+    "otros": "Tipo: talco desodorante para pies"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191691",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Talcos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056360429_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056360429-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/talco-efficient-200-grs",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1937,
+      "fecha": "2026-09-29",
+      "lado_util": 1794
+    },
+    {
+      "archivo": "7501056360429_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw2e0129bb/images/7501056360429/7501056360429_1.jpg",
+      "pagina": "https://www.dax.com.mx/producto/rexona-talco-para-pies-efficient-200-g-7501056360429.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1125,
+      "fecha": "2026-09-29",
+      "lado_util": 1042
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/rexona-talco-para-pies-efficient-200-g-7501056360429.html",
+    "https://www.farmalisto.com.mx/higiene-y-belleza/11979-efficient-talco-frasco-con-200-g-pies-7501056360429.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/talco-efficient-200-grs"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema (EFICC) corresponde a Rexona Efficient Original. Ingredientes no disponibles. Modo de uso y advertencias generales. Fabricante Unilever inferido de la marca.",
+    "notas_imagenes": "2 fotos de tienda (frasco frontal, 1937 y 1125 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

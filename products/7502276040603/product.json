@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MEXSANA MED 160G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco Mexsana Polvo Desodorante Corporal 160 g",
+  "descripcion": "Descripción:\nMexsana es un polvo desodorante corporal para toda la familia que refresca, absorbe la humedad y ayuda a mantener la piel seca y cómoda durante el día. Su presentación en envase de 160 g es práctica para el uso diario en casa.\n\nBeneficios:\n- Aporta hidratación, frescura y reduce asperezas\n- Ayuda a prevenir rozaduras y a absorber el exceso de sudor\n- Ideal para pies, axilas y zonas propensas a la fricción\n- Fórmula sin triclosán\n- Fragancia con notas de alcanfor, romero y cítricos de naranja\n\nPresentación:\nEnvase con 160 g de polvo.",
+  "ficha": {
+    "marca": "Mexsana",
+    "fabricante": "Bayer",
+    "variante": "Polvo desodorante corporal",
+    "presentacion": "Envase con 160 g",
+    "contenido_neto": 160,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Alcanfor, romero y cítricos de naranja",
+    "otros": "Sin triclosán; Uso: cuerpo y pies; Formato: talco en polvo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191691",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Talcos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502276040603_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77958528/7502276040603_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/mexsana-talco-para-pies-160g-3066053/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1185,
+      "fecha": "2026-09-29",
+      "lado_util": 1098
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/mexsana-talco-para-pies-160g-3066053/p",
+    "https://farmaciasanisidro.mx/producto/mexsana-talco-160gr/",
+    "https://www.fahorro.com/mexsana-talco-desodorante-corporal-160-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como talco Mexsana de 160 g (en una tienda figura junto con el GTIN 7501050624015 como el mismo artículo). 'MED' del nombre del sistema (medicado) no se pudo confirmar en el empaque; una tienda lo clasifica como medicamento, otras como higiene corporal. No se encontró fórmula ni modo de uso; el fabricante Bayer se tomó del logotipo del envase.",
+    "notas_imagenes": "1 foto de tienda (1200 px, frente del envase de 160 g).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

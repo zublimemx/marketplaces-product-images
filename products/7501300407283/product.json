@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "TRI VI SOL PED GTS 50ML 84",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tri-Vi-Sol Pediátrico Gotas Vitaminas A, D y C 50 ml",
+  "descripcion": "Descripción:\nTri-Vi-Sol Pediátrico es una solución en gotas con retinol (vitamina A), colecalciferol (vitamina D3) y ácido ascórbico (vitamina C), para bebés y niños desde el nacimiento hasta los 6 años. Se administra con el gotero graduado incluido en el envase. Es un producto de Siegfried Rhein con la marca NutriBaby.\n\nBeneficios:\n- Para la prevención y el tratamiento de las deficiencias de las vitaminas A, D y C\n- Fórmula pensada para cubrir las recomendaciones actuales de ingesta diaria de estas vitaminas\n- Frasco con gotero graduado para dosificar con facilidad\n\nFórmula:\nCada 100 mL contiene: retinol (vitamina A) 150,000 UI, colecalciferol (vitamina D3) 40,000 UI, ácido ascórbico (vitamina C) 3.0 g, vehículo cbp 100 mL. Cada mL equivale a 20 gotas.\n\nModo de uso:\nVía oral. Administrar exclusivamente con el gotero del envase original. No mezclar con otros medicamentos no indicados por su médico.\n- Dosis preventiva: recién nacidos a 1 año, 6 gotas (0.3 mL) al día; de 1 a 3 años, 12 gotas (0.6 mL) al día; de 3 a 6 años, 12 gotas (0.6 mL) dos veces al día.\n- Dosis terapéutica (calculada en función de la vitamina A): 0 a 6 meses, 1 a 1.5 mL al día; 6 a 12 meses, 1.5 mL al día; 1 a 3 años, 1.5 mL al día; 4 a 6 años, 2 mL al día.\n\nPresentación:\nCaja con frasco de 50 mL con gotero graduado.\n\nAdvertencias:\n- Un exceso de vitamina A durante el embarazo puede provocar malformaciones congénitas en el feto.\n- El exceso en el aporte de vitamina D puede resultar en calcificación de tejidos blandos.\n- Si persisten las molestias consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tri-Vi-Sol",
+    "fabricante": "Siegfried Rhein, S.A. de C.V.",
+    "linea": "NutriBaby Pediátrico",
+    "variante": "Gotas",
+    "presentacion": "Caja con frasco con gotero",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Retinol (vitamina A); Colecalciferol (vitamina D3); Ácido ascórbico (vitamina C)",
+    "concentracion": "Por cada 100 mL: 150,000 UI de vitamina A, 40,000 UI de vitamina D3 y 3.0 g de vitamina C",
+    "via_administracion": "Oral",
+    "edad_etapa": "Del nacimiento a los 6 años",
+    "registro_sanitario": "166M82 SSA VI",
+    "otros": "Forma farmacéutica: solución; Cada mL equivale a 20 gotas; Venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,65 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407283_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407283.jpg",
+      "pagina": "https://www.fahorro.com/tri-vi-sol-pediatrico-oral-50-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1293,
+      "fecha": "2026-09-29",
+      "lado_util": 1198
+    },
+    {
+      "archivo": "7501300407283_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407283_2.jpg",
+      "pagina": "https://www.fahorro.com/tri-vi-sol-pediatrico-oral-50-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1272,
+      "fecha": "2026-09-29",
+      "lado_util": 1178
+    },
+    {
+      "archivo": "7501300407283_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407283_4.jpg",
+      "pagina": "https://www.fahorro.com/tri-vi-sol-pediatrico-oral-50-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1351,
+      "fecha": "2026-09-29",
+      "lado_util": 1251
+    },
+    {
+      "archivo": "7501300407283_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407283_1.jpg",
+      "pagina": "https://www.fahorro.com/tri-vi-sol-pediatrico-oral-50-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1312,
+      "fecha": "2026-09-29",
+      "lado_util": 1215
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/tri-vi-sol-pediatrico-solucion-150000-ui-c-50-ml-v1/p",
+    "https://www.yza.mx/tri-vi-sol-pediatrico-gotas-50ml/MXYZ_7501300407283.html",
+    "https://www.fahorro.com/tri-vi-sol-pediatrico-oral-50-ml-gotas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado; fórmula verificada en el empaque. Sus fichas lo clasifican como medicamento de venta sin receta, pero se publicó en Suplementos Alimenticios (vitaminas). Una ficha dice frasco de 60 mL; el empaque y la mayoría de fichas dicen 50 mL.",
+    "notas_imagenes": "4 fotos de Farmacias del Ahorro (1600 px): frente, vista 3/4, otro frente y reverso con la fórmula.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

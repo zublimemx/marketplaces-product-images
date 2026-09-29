@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SYSTANE ULTRA GTS 10 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Systane Ultra Gotas Oftálmicas Lubricantes 10 ml",
+  "descripcion": "Descripción:\nSystane Ultra Alto Desempeño son gotas oftálmicas lubricantes estériles de Alcon para aliviar los síntomas del ojo seco y la irritación ocular. Su fórmula de doble acción proporciona lubricación, protección e hidratación de la superficie del ojo, con un alivio de acción rápida. Se pueden usar con lentes de contacto y vienen en frasco gotero multidosis de 10 ml.\n\nBeneficios:\n- Alivio del ojo seco con lubricación duradera.\n- Fórmula de doble acción que protege e hidrata la superficie ocular.\n- Puede usarse con lentes de contacto.\n- Frasco gotero multidosis fácil de usar.\n- Para ojo seco con deficiencia acuosa, según el fabricante.\n\nComposición:\nSolución estéril con polietilenglicol 400 y propilenglicol, hidroxipropil-guar, sorbitol, ácido bórico y sales, con cloruro de poliodronio (Polyquad) 0.001% como conservador, según la información del fabricante.\n\nModo de uso:\nAplique 1 o 2 gotas en el ojo afectado y parpadee. Puede usarse tantas veces como sea necesario durante el día. Evite tocar la punta del gotero con el ojo o los dedos y cierre el frasco después de cada uso.\n\nPresentación:\nCaja con frasco gotero de 10 ml.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Suspenda su uso y consulte a su médico si presenta molestias oculares persistentes, lagrimeo excesivo, cambios en la visión o enrojecimiento.\n- Una vez abierto, el frasco puede usarse hasta por 6 meses.\n- Para personas mayores de 18 años.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Systane",
+    "fabricante": "Alcon",
+    "linea": "Ultra",
+    "variante": "Alto Desempeño",
+    "presentacion": "Frasco gotero",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Polietilenglicol 400, propilenglicol",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos mayores de 18 años",
+    "otros": "Solución estéril; Se puede usar con lentes de contacto; Frasco multidosis Drop-Tainer; Uso después de abierto: 6 meses; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "300651431681_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/3/0300651431681_1.png",
+      "pagina": "https://www.fahorro.com/systane-ultra-gotas-lubricantes-oculares-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1556,
+      "fecha": "2026-09-29",
+      "lado_util": 1441
+    }
+  ],
+  "url_oficial": "https://systane.myalcon.com/es/products/systane-ultra/",
+  "fuentes": [
+    "https://www.fahorro.com/systane-ultra-gotas-lubricantes-oculares-10-ml.html",
+    "https://systane.myalcon.com/es/products/systane-ultra/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos confirmado como SKU (con un 0 inicial) de la ficha de tienda. La página oficial encontrada es la de Alcon España; composición, modo de uso y advertencias salen de ahí y la fórmula en México podría variar ligeramente, por lo que conviene cotejar con el empaque. Se eligió Para Ojos y Oídos Venta Libre por tener más artículos que Oftálmicos.",
+    "notas_imagenes": "1 foto de tienda (caja con frasco de 10 ml, empaque mexicano Alcon, 1556 px) de Farmacias del Ahorro. La página oficial solo muestra fotos de estilo de vida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

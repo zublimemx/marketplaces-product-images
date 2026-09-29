@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD NEUTRO B AP SPY 91 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Palmolive Neutro Balance Aerosol 91 g",
+  "descripcion": "Descripción:\nPalmolive Neutro Balance es un desodorante antitranspirante en aerosol de 91 g (150 ml) para el cuidado diario de las axilas. Ayuda a combatir el mal olor y la transpiración durante la jornada, con una sensación de frescura duradera y una fórmula suave con la piel. El empaque lo presenta como dermoprotector que protege e hidrata.\n\nBeneficios:\n- Protección contra la transpiración y el mal olor.\n- Sensación de frescura durante todo el día.\n- Fórmula suave con la piel, sin alcohol según la información de la tienda consultada.\n- Formato aerosol: aplicación rápida y uniforme.\n\nIngredientes:\nEntre sus ingredientes se encuentran butano e isobutano como propelentes, clorhidrato de aluminio como activo antitranspirante y palmitato de isopropilo. Consulte la lista completa en el envase.\n\nModo de uso:\nAgite antes de usar. Aplique oprimiendo la válvula desde una distancia aproximada de 15 cm de la axila, previamente limpia y seca.\n\nPresentación:\nAerosol de 91 g (150 ml).\n\nAdvertencias:\nPara uso exclusivo en las axilas. No se aplique sobre piel lastimada; suspenda su uso si se presenta irritación. Evite el contacto con los ojos. Envase presurizado e inflamable: no lo exponga al sol ni a temperaturas mayores de 50 °C, no lo perfore ni lo arroje al fuego, y no lo aplique cerca de una flama. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Neutro Balance",
+    "variante": "Antitranspirante en aerosol",
+    "presentacion": "Aerosol",
+    "contenido_neto": 91,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Contenido: 91 g / 150 ml; Tipo: antitranspirante; Formato: aerosol; Uso: axilas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546071558_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546071558-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/antitranspirante-palmolive-neutro-balance-en-aerosol-91-g",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1110,
+      "fecha": "2026-09-29",
+      "lado_util": 1028
+    },
+    {
+      "archivo": "7509546071558_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe73151bf/images/large/7509546071558_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/palmolive-neutro-balance-aerosol-91g/MXYZ_7509546071558.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1036,
+      "fecha": "2026-09-29",
+      "lado_util": 960
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/palmolive-neutro-balance-aerosol-91g/MXYZ_7509546071558.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/antitranspirante-palmolive-neutro-balance-en-aerosol-91-g"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes parciales leídos del contraempaque (versión anterior, texto cortado). Duración en horas omitida porque el frente actual dice 72 h y el contraempaque anterior 48 h. Sin sitio oficial abierto.",
+    "notas_imagenes": "2 fotos de tienda: frente del aerosol (Del Sol, 1200 px) y contraempaque nuevo con código QR (Yza, 1000 px). Se descartó un contraempaque de versión anterior y una foto repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

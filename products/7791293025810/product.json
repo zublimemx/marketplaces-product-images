@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE MEN FUSION SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante en Aerosol Axe Fusion Men 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol AXE Fusion para hombre, en presentación de 150 ml. Ofrece protección contra el sudor y el mal olor por hasta 48 horas y una fragancia intensa de fresh citrus y pimienta, que combina notas frescas con toques picantes para un aroma masculino y sofisticado.\n\nBeneficios:\n- Protección contra el sudor y el mal olor por 48 horas\n- Incluye destructores del mal olor para una protección de larga duración\n- Fórmula con 0% de sales de aluminio\n- Aroma fresco e intenso de fresh citrus y pimienta\n- Lata de aluminio reciclable\n\nModo de uso:\nAbra, gire y aplique directamente en las axilas a no menos de 15 cm de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\n- Evite aplicarlo sobre piel excesivamente húmeda, irritada o lastimada.",
+  "ficha": {
+    "marca": "AXE",
+    "fabricante": "Unilever",
+    "linea": "Fusion",
+    "variante": "Fusion Men",
+    "presentacion": "Aerosol de 150 ml",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresh citrus y pimienta",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Protección: 48 horas; 0% sales de aluminio; Lata de aluminio reciclable"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293025810_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293025810.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-fusion-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1622,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-fusion-150-ml.html/07791293025810",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-fusion-150-ml.html/07791293025810",
+    "https://www.farmatodo.com.mx/axe-fusion-spray-desodorante-c-150-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de AXE México. Texto tomado de la página oficial.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px, aerosol de frente); la página oficial bloqueó la descarga de sus imágenes.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

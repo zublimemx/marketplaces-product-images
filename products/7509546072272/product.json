@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE KIDS FRESANTASTICO 50G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Kids Fresantástico Sabor Fresa 50 g",
+  "descripcion": "Descripción:\nCrema dental infantil Colgate Kids Fresantástico con sabor a fresa, en presentación de 50 g. Está formulada para niños con flúor, para ayudar a prevenir las caries, combatir la placa y fortalecer el esmalte, con un sabor que hace más agradable la hora de cepillarse.\n\nBeneficios:\n- Protección contra las caries con flúor.\n- Ayuda a combatir la placa y a fortalecer el esmalte.\n- Sabor a fresa que motiva a los niños a cepillarse.\n- Tubo de 50 g, ideal para el baño o para llevar de viaje.\n\nModo de uso:\nAplique una pequeña cantidad de crema dental sobre el cepillo. Cepille los dientes superiores hacia abajo, los inferiores hacia arriba y las muelas con movimiento de adelante hacia atrás. Se recomienda cepillarse tres veces al día durante aproximadamente dos minutos.\n\nPresentación:\nTubo de 50 g dentro de caja de cartón.\n\nAdvertencias:\nSupervise siempre el cepillado de los niños pequeños y enséñeles a escupir; no debe tragarse la crema dental. Si se ingiere más de la cantidad usada para el cepillado, busque ayuda médica o comuníquese con un centro de control toxicológico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Kids",
+    "variante": "Fresantástico",
+    "presentacion": "Tubo de crema dental",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresa",
+    "edad_etapa": "Niños",
+    "otros": "Con flúor; Sabor: fresa; Formato: tubo en caja de cartón"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546072272_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546072272-1.jpg",
+      "pagina": "https://www.yza.mx/colgate-crema-dental-kids-50gr/MXYZ_7509546072272.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1189,
+      "fecha": "2026-09-29",
+      "lado_util": 1101
+    }
+  ],
+  "url_oficial": "https://www.colgate.com/es-co/products/toothpaste/colgate-kids-fresantastica",
+  "fuentes": [
+    "https://www.colgate.com/es-co/products/toothpaste/colgate-kids-fresantastica",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-dental-kids%C2%A0colgate-50-grs",
+    "https://www.yza.mx/colgate-crema-dental-kids-50gr/MXYZ_7509546072272.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "Otra tienda muestra este GTIN con caja de sabor uva; Del Sol lo muestra como Fresantástico (fresa) y coincide con el sistema. Beneficios y modo de uso de la página oficial de Colgate Colombia (mismo producto en otro país); no se listan ingredientes por posible diferencia de fórmula.",
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1200 px) de la caja Fresantástico de fresa. Se descartaron 3 fotos del mismo GTIN con caja de sabor uva y una foto casi idéntica.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

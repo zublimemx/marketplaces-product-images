@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "FIXODENT FRESH PAST 40ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Adhesiva Fixodent Fresh para Dentadura 40 ml",
+  "descripcion": "Descripción:\nFixodent Fresh es una pasta adhesiva para prótesis dentales y dentaduras postizas con fijación extra fuerte para todo el día. Su fórmula con sabor a menta aporta una sensación de frescura sin interferir con el sabor de la comida, y ayuda a fijar la dentadura con seguridad.\n\nBeneficios:\n- Fijación extra fuerte, pensada para durar todo el día\n- Sensación fresca y limpia gracias a la menta\n- No interfiere con el sabor de los alimentos\n- Sujeción sólida y cómodo ajuste\n\nPresentación:\nTubo con 40 ml (47 g) de pasta adhesiva.",
+  "ficha": {
+    "marca": "Fixodent",
+    "fabricante": "Procter & Gamble",
+    "linea": "Fresh",
+    "variante": "Menta",
+    "presentacion": "Tubo de 40 ml (47 g)",
+    "contenido_neto": 40,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Tipo: pasta adhesiva para dentaduras; Fijación extra fuerte; Peso neto: 47 g"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180914",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5000174003963_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77798693/5000174003963_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/pasta-adhesiva-para-dentadura-fixodent-fresh-1-ud-40ml-3129345/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1193,
+      "fecha": "2026-09-29",
+      "lado_util": 1105
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/pasta-adhesiva-para-dentadura-fixodent-fresh-1-ud-40ml-3129345/p",
+    "https://www.fahorro.com/fixodent-fresh-fijacion-extra-fuerte-pasta-adhesiva-para-dentadura-40-ml.html",
+    "https://www.farmatodo.com.mx/fixodent-fresh-adhesivo-crema-dental-caja-c-40-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. No se encontró modo de uso ni ingredientes; se omitieron esas secciones. Fabricante P&G según la ficha de una farmacia.",
+    "notas_imagenes": "1 foto de tienda (1200 px, frente del tubo); se descartaron 3 imágenes promocionales con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

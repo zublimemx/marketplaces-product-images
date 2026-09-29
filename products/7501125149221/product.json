@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ELECTROLIT 625ML FKIWI",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Electrolit Suero Rehidratante Fresa Kiwi 625 ml",
+  "descripcion": "Descripción:\nElectrolit Fresa Kiwi es un suero oral rehidratante de PiSA que ayuda a recuperar y mantener los líquidos y electrolitos que el cuerpo pierde en situaciones como diarrea y desgaste físico. Su sabor fresa kiwi lo hace fácil de tomar tanto para adultos como para niños. Viene listo para beber en botella de 625 ml.\n\nBeneficios:\n- Ayuda a reponer líquidos y electrolitos perdidos por deshidratación.\n- Útil en casos de diarrea y desgaste físico.\n- Solución lista para beber, sin necesidad de preparación.\n- Sabor fresa kiwi agradable.\n- Botella de 625 ml con tapa de rosca.\n\nComposición:\nSolución electrolítica oral con sodio, potasio, cloruro, citrato y glucosa, y sabor fresa kiwi. Consulte la tabla de composición completa en la etiqueta.\n\nModo de uso:\nVía oral. Tome pequeños sorbos frecuentes a lo largo del día, según la necesidad de hidratación o las recomendaciones de su médico. Una vez abierta la botella, consúmala en el menor tiempo posible.\n\nPresentación:\nBotella de 625 ml, sabor fresa kiwi.\n\nAdvertencias:\nSi presenta diarrea intensa, vómito continuo, fiebre alta o signos de deshidratación severa, acuda al médico. Personas con enfermedad renal, hipertensión o diabetes deben consultar a su médico antes de consumirla. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Electrolit",
+    "fabricante": "PiSA",
+    "variante": "Fresa Kiwi",
+    "presentacion": "Botella",
+    "contenido_neto": 625,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Electrolitos (sodio, potasio, cloruro, citrato) y glucosa",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Fresa kiwi",
+    "otros": "Formato: solución lista para beber; Uso: rehidratación oral"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM431865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125149221_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125149221.jpg",
+      "pagina": "https://www.fahorro.com/electrolit-sabor-fresa-kiwi-625-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1514,
+      "fecha": "2026-09-29",
+      "lado_util": 1402
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/electrolit-fresa-kiwi-625-ml-liquido-botella-cloruro-de-sodio-12-mg/",
+    "https://www.walmart.com.mx/ip/suero-rehidratante-electrolit-fresa-kiwi-625-ml/00750112514922",
+    "https://www.yza.mx/electrolit-fresa-kiwi-625ml/MXYZ_7501125149221.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'FKIWI' del sistema = Fresa Kiwi. GTIN confirmado. La tabla exacta de composición no aparece en las fichas; se listó solo lo genérico. Alternativa de categoría: Bebidas Isotónicas (MLM194303), con más publicaciones; se eligió Rehidratantes Orales por ser un suero de farmacia.",
+    "notas_imagenes": "1 foto de tienda con el frente de la botella (1514 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

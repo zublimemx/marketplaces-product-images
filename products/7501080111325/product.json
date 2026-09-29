@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TIN JUST F-MEN NEGRO 60 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tinte en Shampoo Just For Men Negro H-55 60 ml",
+  "descripcion": "Descripción:\nJust For Men Fórmula Original es un tinte colorante en shampoo para hombre, en tono Negro (H-55). Su tecnología \"Justo al Blanco\" se aplica de forma sencilla, como si fuera un shampoo, no escurre y en solo 5 minutos cubre las canas con un aspecto natural, dejando el cabello con un tono muy cercano al color original.\n\nBeneficios:\n- Aspecto 100% natural, con tonos discretos.\n- Listo en 5 minutos.\n- Libre de amoniaco.\n- Formulado con keratina y aceite de oliva para cabello fuerte, con vitamina E.\n- Fácil y rápido de aplicar.\n\nModo de uso:\n- Mezcle el color base con el revelador dentro del envase aplicador.\n- Haga espuma aplicándolo sobre el cabello como si fuera un shampoo.\n- Deje actuar 5 minutos.\n- Lave y enjuague el cabello.\nElija el tono más parecido a su color natural y siga el instructivo incluido en la caja.\n\nPresentación:\nCaja con tubo de color base de 60 ml, envase aplicador con revelador de color, guantes de plástico e instructivo.\n\nAdvertencias:\n- Lea el instructivo incluido en el empaque antes de usar el producto.\n- Uso externo exclusivo para cabello y barba de adultos.",
+  "ficha": {
+    "marca": "Just For Men",
+    "linea": "Fórmula Original",
+    "variante": "Negro H-55",
+    "presentacion": "Caja con tubo de color base y envase aplicador",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "tipo_piel_cabello": "Cabello con canas",
+    "otros": "Tono: Negro (H-55); Tipo: Tinte colorante en shampoo; Libre de amoniaco; Con keratina, aceite de oliva y vitamina E; Incluye: color base, revelador, guantes e instructivo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430110",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tintes y Decolorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080111325_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111325.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-negro-60-ml-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1520,
+      "fecha": "2026-09-29",
+      "lado_util": 1408
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/tinte-just-for-men-negro-60-ml-gel.html",
+    "https://www.yza.mx/just-for-men-tinte-negro-60ml/MXYZ_7501080111325.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de tienda y en el código de la ficha de Yza. La instrucción de uso se resume de los cuatro pasos que muestra la ficha (mezcla, haz espuma, lava, listo) y los 5 minutos indicados; el tiempo exacto debe revisarse en el instructivo. El fabricante no aparece en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja, tono Negro H-55, 1520 px). Se borró una segunda foto idéntica de otra tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

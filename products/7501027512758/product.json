@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "BIB EVENFLO ZOO 2 ONZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biberón Evenflo Zoo Friends 2 oz 60 ml",
+  "descripcion": "Descripción:\nBiberón Evenflo de la línea Zoo Friends con capacidad de 2 onzas (60 ml), pensado para las primeras tomas del bebé o para ofrecer agua y otras bebidas en porciones pequeñas. Incluye tetina de flujo lento y se vende por pieza. La botella lleva ilustraciones de animalitos, por lo que el diseño y el color de la tapa pueden variar según la disponibilidad.\n\nCaracterísticas:\n- Capacidad: 2 oz (60 ml).\n- Línea: Zoo Friends, con ilustraciones de animales.\n- Tetina de flujo lento, adecuada para bebés pequeños.\n- Botella transparente de tamaño compacto.\n- Se vende por pieza; los diseños y colores pueden variar.\n\nModo de uso:\nAntes del primer uso, lave el biberón y todas sus piezas con agua caliente y jabón neutro, y enjuague bien. Llene con la cantidad deseada, coloque la tetina y el anillo y cierre con la tapa. Revise la tetina antes de cada uso y cámbiela si observa desgaste.\n\nPresentación:\n1 biberón de 2 oz (60 ml) con tetina y tapa.\n\nAdvertencias:\n- Utilice siempre bajo la supervisión de un adulto.\n- Revise la temperatura de la bebida antes de dar al bebé.\n- No lo deje al alcance de niños sin supervisión.",
+  "ficha": {
+    "marca": "Evenflo",
+    "linea": "Zoo Friends",
+    "variante": "Diseño de animales (varía)",
+    "presentacion": "Biberón de 1 pieza",
+    "contenido_neto": 2,
+    "unidad_contenido": "oz",
+    "unidades_por_envase": 1,
+    "otros": "Capacidad: 2 oz (60 ml); Tetina: flujo lento; Diseños y colores variables; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM5363",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Biberones y Accesorios > Biberones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027512758_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw53435bd6/images/large/7501027512758_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/evenflo-biberon-zoo-friends-2oz/MXYZ_7501027512758.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 947,
+      "fecha": "2026-09-29",
+      "lado_util": 877
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/evenflo-biberon-zoo-friends-2oz/MXYZ_7501027512758.html",
+    "https://wecarepharma.mx/collections/bebes/products/biberon-zoo-flujo-lento-2oz-evenflo"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de Yza (Evenflo Biberón Zoo Friends 2 Oz). Las fichas abiertas casi no traen texto descriptivo: el 'flujo lento' sale del nombre de otra tienda para el mismo modelo y las recomendaciones de uso son generales. Materiales y si es libre de BPA no se confirmaron, por eso no se mencionan.",
+    "notas_imagenes": "1 foto de tienda (biberón Zoo Friends con diseño de mapache, 947 px) de Yza. Se borraron un collage de cuatro diseños con leyenda de venta por separado y una lámina de otra línea (Forest).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

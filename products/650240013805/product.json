@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ALLIVIAX 550 MG C 10 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alliviax Naproxeno Sódico 550 mg 10 Tabletas",
+  "descripcion": "Descripción:\nAlliviax es un medicamento de Genomma Lab cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo, en tabletas de 550 mg. Se utiliza para aliviar el dolor y la inflamación en problemas musculoesqueléticos como golpes, torceduras, dolor muscular y articular, tortícolis y lumbalgia, así como molestias del resfriado, dolor de garganta, dolor dental y cólicos menstruales. La caja contiene 10 tabletas.\n\nBeneficios:\n- Alivia el dolor y la inflamación muscular, de cólicos y de garganta, según su empaque.\n- Dosis de 550 mg por tableta, con un esquema de una tableta cada 6 u 8 horas.\n- Caja con 10 tabletas.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos: una tableta cada 6 u 8 horas, sin exceder la dosis indicada. No lo tome por más de 10 días.\n\nPresentación:\nCaja con 10 tabletas de 550 mg.\n\nAdvertencias:\nNo se administre por más de 10 días. Está contraindicado en caso de hipersensibilidad al naproxeno o a otros antiinflamatorios no esteroideos, úlcera péptica, insuficiencia hepática o renal, embarazo y lactancia. Requiere vigilancia médica en personas con antecedentes de úlcera o problemas gastrointestinales. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alliviax",
+    "fabricante": "Genomma Lab",
+    "presentacion": "Tabletas, caja con 10",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "550 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Antiinflamatorio no esteroideo (AINE); Uso máximo: 10 días"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240013805_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240013805-1.jpeg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/alliviax-10-tab",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1952,
+      "fecha": "2026-09-29",
+      "lado_util": 1808
+    },
+    {
+      "archivo": "650240013805_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240013805-2.jpeg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/alliviax-10-tab",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1933,
+      "fecha": "2026-09-29",
+      "lado_util": 1790
+    },
+    {
+      "archivo": "650240013805_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240013805-3.jpeg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/alliviax-10-tab",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1941,
+      "fecha": "2026-09-29",
+      "lado_util": 1798
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/alliviax.tabletas/63/101/46562/210",
+    "https://www.benavides.com.mx/alliviax-naproxeno-550mg-alivia-dolor-e-inflamacion-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se comercializa como producto de autocuidado, pero el naproxeno de 550 mg suele requerir receta en genéricos: revisar la leyenda del empaque. GTIN de 12 dígitos escrito con 0 inicial (0650240013805); la foto de tienda lleva el GTIN en el nombre. Datos de la ficha PLM.",
+    "notas_imagenes": "3 fotos de tienda (Del Sol, unos 2000 px): frente de la caja y dos vistas de tres cuartos.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

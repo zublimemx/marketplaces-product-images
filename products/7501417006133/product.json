@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PASTA LASSAR 145G COYOACAN XIDO DE ZINC QUIMICA 72",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta de Lassar Óxido de Zinc Coyoacán 145 g",
+  "descripcion": "Descripción:\nPasta de Lassar con óxido de zinc en tarro de 145 g. Es una pasta de uso tópico, de textura espesa, elaborada con óxido de zinc, almidón, lanolina y vaselina. Al aplicarse forma una capa sobre la piel que actúa como emoliente y protector cutáneo, por lo que se utiliza en zonas irritadas o sometidas a fricción. Su presentación en tarro permite tomar la cantidad necesaria con facilidad y conservar el producto bien cerrado entre aplicaciones.\n\nBeneficios:\n- Emoliente y protector de la piel de uso tópico.\n- Fórmula a base de óxido de zinc con almidón, lanolina y vaselina.\n- Textura espesa que se adhiere a la zona de aplicación.\n- Tarro de 145 g.\n\nComposición:\nÓxido de zinc, almidón, lanolina y vaselina.\n\nModo de uso:\nAplicar una capa delgada sobre la zona limpia y seca, las veces que indique su médico o el instructivo del empaque.\n\nPresentación:\nTarro con 145 g.\n\nAdvertencias:\nUso externo. No aplicar en los ojos ni en heridas abiertas. Si hay irritación o los síntomas persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Coyoacán",
+    "linea": "Pasta de Lassar",
+    "presentacion": "Tarro",
+    "contenido_neto": 145,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc",
+    "via_administracion": "Tópica",
+    "otros": "Composición: almidón, lanolina, vaselina y óxido de zinc; Formato de venta: tarro"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501417006133_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501417006133.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/pasta-de-lassar-tarro-145gr/",
+      "ancho_original": 750,
+      "alto_original": 750,
+      "lado_final": 645,
+      "fecha": "2026-09-29",
+      "lado_util": 598
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaleal.com.mx/products/pasta-de-lassar-tarro-145-g-7501417006133",
+    "https://grupofarmapronto.com/producto/pasta-de-lassar-tarro-145gr/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. El nombre del sistema dice 'Coyoacán ... Química 72'; una tienda lista como fabricante Coyoquimex, por eso solo se puso la marca Coyoacán. No se confirmó el porcentaje de óxido de zinc ni indicaciones oficiales; la descripción es general.",
+    "notas_imagenes": "1 foto de tienda (tarro de frente, 750 px). Otra foto de 194 px se rechazó por tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

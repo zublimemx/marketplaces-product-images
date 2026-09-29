@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "EXCELSIOR POM 8G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pomada Excelsior Ácido Salicílico 0.4 g/g 8 g",
+  "descripcion": "Descripción:\nExcelsior es una pomada (ungüento) de uso tópico a base de ácido salicílico, de la línea de cuidado de los pies. Actúa como queratolítico, ayudando a eliminar el exceso de piel endurecida en callosidades y callos, y se utiliza también como antiverrugoso en verrugas plantares y vulgares. Se presenta en tubo aplicador con 8 g de producto.\n\nBeneficios:\n- Queratolítico: ayuda a reblandecer y eliminar la piel endurecida\n- Indicado en hiperqueratosis (callosidades y callos)\n- Antiverrugoso para verrugas plantares y vulgares\n- Tubo aplicador práctico de 8 g\n\nComposición:\nÁcido salicílico 0.4 g por cada gramo de ungüento.\n\nModo de uso:\nUso tópico (externo). Aplique sobre la zona afectada según las instrucciones del empaque o las indicaciones de su médico.\n\nPresentación:\nTubo aplicador con 8 g de ungüento.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos, las mucosas y la piel sana circundante. No lo aplique sobre heridas ni piel irritada. No lo use si es alérgico al ácido salicílico. Suspenda su uso si aparece irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Excelsior",
+    "fabricante": "Grisi",
+    "linea": "Pies",
+    "variante": "Pomada callicida",
+    "presentacion": "Tubo aplicador",
+    "contenido_neto": 8,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido salicílico",
+    "concentracion": "0.4 g/g",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "3790 SSA",
+    "otros": "Forma farmacéutica: ungüento; Uso: callicida y antiverrugoso"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022112106_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501022112106_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/excelsior-pomada-8-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1252,
+      "fecha": "2026-09-29",
+      "lado_util": 1160
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/excelsior-8-gr-pomada-tubo-acido-salicilico-0-4-gr/",
+    "https://www.yza.mx/excelsior-pomada-8g/MXYZ_7501022112106.html",
+    "https://www.farmalisto.com.mx/higiene-y-belleza/35334-comprar-excelsior-pomada-8g-precio-7501022112106.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicaciones tomadas del empaque (foto). Modo de uso y advertencias son genéricos de un callicida tópico; no se encontró instructivo detallado.",
+    "notas_imagenes": "1 foto de tienda (blíster frontal, 1600 px original); el blíster trae un sello pequeño de imagen nueva. Se descartó una copia de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

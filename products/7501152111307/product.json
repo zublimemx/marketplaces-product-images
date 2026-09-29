@@ -13,7 +13,7 @@
     "unidades_por_envase": 10,
     "otros": "Formato de venta: Paquete con 10 piezas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194677",
@@ -32,9 +32,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "No se encontró el GTIN ni una ficha que lo confirme en las páginas revisadas (farmacias, bases de códigos de barras y catálogos VTEX). Se desconoce fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional.",
-    "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada.",
+    "notas": "La búsqueda con el GTIN 7501152111307 solo devolvió productos de árnica de otras marcas (Boiron, gel, cápsulas); ninguna ficha confirma este código. Se desconoce fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional. Receta \"No\" por el principio activo, no por la presentación.",
+    "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada y las imágenes de árnica de otras marcas no representan este producto.",
     "fecha": "2026-09-29",
-    "sesion": 3
+    "sesion": 4
   }
 }

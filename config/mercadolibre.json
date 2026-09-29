@@ -50,7 +50,7 @@
   },
   "avance": {
     "productos_por_sesion": 200,
-    "sesiones_realizadas": 3,
+    "sesiones_realizadas": 4,
     "historial": [
       {
         "sesion": 1,
@@ -72,6 +72,13 @@
         "investigados": 200,
         "verificados": 194,
         "con_fotos": 188
+      },
+      {
+        "sesion": 4,
+        "fecha": "2026-09-29",
+        "investigados": 200,
+        "verificados": 195,
+        "con_fotos": 190
       }
     ]
   }

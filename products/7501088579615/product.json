@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TOPRON CAP 400 MG C16",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Topron Nifuroxazida 400 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nTopron es un antidiarreico intestinal de Chinoin cuyo principio activo es la nifuroxazida, en cápsulas de 400 mg. En el empaque se indica para el tratamiento de la diarrea. La nifuroxazida es un antiséptico intestinal que actúa de manera local en el tubo digestivo. Se administra por vía oral y la caja contiene 16 cápsulas, suficientes para un esquema corto de tratamiento según la indicación médica.\n\nBeneficios:\n- Nifuroxazida 400 mg por cápsula.\n- Indicado para el tratamiento de la diarrea.\n- Acción local en el intestino.\n- Vía oral.\n- Caja con 16 cápsulas.\n\nComposición:\nCada cápsula contiene nifuroxazida 400 mg.\n\nModo de uso:\nVía oral. Ingiera las cápsulas con agua, en la dosis y durante el tiempo que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 16 cápsulas de 400 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la nifuroxazida o a algún componente de la fórmula. Si la diarrea dura más de 48 horas, hay sangre en las evacuaciones, fiebre alta o signos de deshidratación, suspenda su uso y acuda al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Topron",
+    "fabricante": "Chinoin",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Nifuroxazida",
+    "concentracion": "400 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Clasificación: antidiarreico intestinal; Formato de venta: caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088579615_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088579615_5.jpg",
+      "pagina": "https://www.fahorro.com/topron-400-mg-oral-16-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1531,
+      "fecha": "2026-09-29",
+      "lado_util": 1418
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/topron-400-mg-oral-16-capsulas.html",
+    "https://farmalisto.com.mx/antidiarreicos/3308-topron-400-mg-caja-con-16-capsulas-7501088579615.html",
+    "https://www.yza.mx/topron-400mg-16-caps-/MXYZ_7501088579615.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. La farmacia indica que no requiere receta; el empaque dice 'indicado para la diarrea'. Conviene verificar la leyenda de venta del empaque.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

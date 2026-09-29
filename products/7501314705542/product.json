@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "AFUMIX TAB C 4 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Afumix Fluconazol Tinidazol 4 Tabletas",
+  "descripcion": "Descripción:\nAfumix es un medicamento de Laboratorios Senosiain (línea Altia) que combina fluconazol, un antimicótico, y tinidazol, un antiprotozoario y antibacteriano, en una sola tableta. Según las fichas del producto, está indicado para infecciones causadas por hongos y protozoarios, como candidiasis vaginal, orofaríngea o esofágica, amebiasis intestinal, giardiasis e infecciones por bacterias anaerobias, siempre por indicación médica.\n\nComposición:\nCada tableta contiene fluconazol y tinidazol; las fichas de farmacia reportan 37.5 mg de fluconazol y 500 mg de tinidazol por tableta. Confirme las concentraciones en el empaque.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 4 tabletas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Evite el alcohol durante el tratamiento.\n- Úselo con precaución en personas con enfermedad del hígado o del riñón.\n- No se recomienda durante el embarazo ni la lactancia, salvo que el médico lo indique. No lo use si es alérgico a los antimicóticos azólicos o a los nitroimidazoles.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Afumix",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Altia",
+    "presentacion": "Caja con 4 tabletas",
+    "contenido_neto": 4,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 4,
+    "principio_activo": "Fluconazol y tinidazol",
+    "concentracion": "Fluconazol 37.5 mg y tinidazol 500 mg por tableta (según fichas de farmacia)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314705542_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501314705542.jpg",
+      "pagina": "https://www.claroshop.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1223,
+      "fecha": "2026-09-29",
+      "lado_util": 1133
+    },
+    {
+      "archivo": "7501314705542_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__26c630ed-c9b4-4e48-b724-928f15eed5d4.jpg",
+      "pagina": "https://www.claroshop.com/",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1849
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/afumix-37-5-500mg-con-4-tabletas-fluconazol-tinidazol",
+    "https://farmaciasmedina.com/detalleProducto/Afumix-4-Tableta-Caja/7501314705542"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (caja con 4 tabletas). Las concentraciones (37.5 mg / 500 mg) vienen solo de fichas de farmacia y el empaque de la foto no las muestra; verificar contra el empaque. No se pudo abrir la ficha de otras farmacias por bloqueo.",
+    "notas_imagenes": "2 fotos de tienda de frente del empaque (caja con 4 tabletas, fluconazol y tinidazol); la segunda es de 2000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

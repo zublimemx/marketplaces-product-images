@@ -4,29 +4,57 @@
   "linea": "Mark",
   "nombre_sistema": "POM LAB JALOMA V/SABO VITROL C/60",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pomada Labial Jaloma Sabores Surtidos 60 Piezas",
+  "descripcion": "Descripción:\nPomada labial Jaloma en vitrolero con 60 piezas, en cuatro sabores surtidos. Cada pieza es una pomada para labios pensada para hidratar y proteger, ayudando a prevenir la resequedad y las grietas, con un toque de sabor en cada aplicación. La presentación en vitrolero es práctica para tener producto siempre a la mano, para compartir o para surtir un punto de venta, y cada pomada es pequeña y fácil de llevar en el bolso o el bolsillo.\n\nBeneficios:\n- Hidrata y protege los labios.\n- Ayuda a prevenir la resequedad y las grietas.\n- Cuatro sabores surtidos en un mismo vitrolero.\n- Pomadas individuales de tamaño compacto y fáciles de transportar.\n- Presentación con 60 piezas.\n\nModo de uso:\nAplicar directamente sobre los labios limpios y secos, las veces que sea necesario.\n\nPresentación:\nVitrolero con 60 pomadas labiales (piezas) en sabores surtidos.\n\nAdvertencias:\nProducto de uso externo, exclusivo para los labios. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Jaloma",
+    "linea": "Pomada para labios",
+    "variante": "Sabores surtidos",
+    "presentacion": "Vitrolero",
+    "contenido_neto": 60,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 60,
+    "sabor_aroma": "Surtido (4 sabores)",
+    "otros": "Formato de venta: vitrolero con 60 pomadas labiales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM172339",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Bálsamos Labiales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM20714462"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "759684391255_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/Imagenes_de_planograma__62027a5e-77ee-4fab-b269-34fbeb9278c3__00759684391255.1.jpg?v=1764892455",
+      "pagina": "https://openfarma.mx/products/pomada-labial-jaloma-sabores-60-piezas",
+      "ancho_original": 550,
+      "alto_original": 550,
+      "lado_final": 533,
+      "fecha": "2026-09-29",
+      "lado_util": 494
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://openfarma.mx/products/pomada-labial-jaloma-sabores-60-piezas",
+    "https://wecarepharma.mx/en/products/pomada-labial-jaloma-varios-sabores-vitrolero-60-tubos",
+    "https://www.claroshop.com/producto/15030237/pomada-labial-jaloma-varios-sabores-60-pzas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 759684391255 (12 dígitos) confirmado en fichas de tienda. catalogo_ml: por título coincide 'Pomada Labial Jaloma 60 Pzas' (MLM20714462), pero la página de Mercado Libre no se pudo abrir para verificarlo. No se identificaron los nombres de los cuatro sabores.",
+    "notas_imagenes": "1 foto de tienda (frente del vitrolero, 550 px). Se descartó una segunda foto porque el envase traía pegada una etiqueta con datos de lote.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

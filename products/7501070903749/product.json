@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "DESPAMEN LBD PRELLE 50 2 5MG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Despamen LBD Testosterona Estradiol 50/2.5 mg Jeringa",
+  "descripcion": "Descripción:\nDespamen LBD es una solución inyectable de Laboratorios Carnot que combina un andrógeno y un estrógeno: enantato de testosterona 50 mg y valerato de estradiol 2.5 mg en 0.5 ml. Se presenta en una jeringa prellenada de 0.5 ml, lista para su aplicación por vía intramuscular, con aguja estéril desechable. Es un medicamento hormonal de prescripción; las fichas de farmacia lo relacionan con síntomas del climaterio y la menopausia. La indicación, la dosis y la frecuencia de aplicación deben ser determinadas por el médico.\n\nBeneficios:\n- Combinación de testosterona y estradiol en una sola solución inyectable.\n- Jeringa prellenada de 0.5 ml, lista para aplicar.\n- Incluye aguja estéril desechable.\n- Vía intramuscular.\n\nComposición:\nCada jeringa prellenada con 0.5 ml contiene enantato de testosterona 50 mg y valerato de estradiol 2.5 mg.\n\nModo de uso:\nVía intramuscular. Debe aplicarlo un profesional de la salud o seguir estrictamente la indicación de su médico en cuanto a dosis y frecuencia.\n\nPresentación:\nCaja con una jeringa prellenada con 0.5 ml y una aguja estéril desechable.\n\nAdvertencias:\nMedicamento de prescripción médica. No lo use si es alérgico a alguno de los componentes de la fórmula ni durante el embarazo o la lactancia, salvo indicación de su médico. Requiere vigilancia médica durante el tratamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Despamen",
+    "fabricante": "Carnot",
+    "linea": "LBD",
+    "presentacion": "Jeringa prellenada",
+    "contenido_neto": 0.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Enantato de testosterona, valerato de estradiol",
+    "concentracion": "50 mg / 2.5 mg en 0.5 ml",
+    "via_administracion": "Intramuscular",
+    "registro_sanitario": "45667SSAIV",
+    "otros": "Clasificación: hormonal inyectable; Incluye aguja estéril desechable; Formato de venta: caja con 1 jeringa"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903749_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070903749_1.jpg",
+      "pagina": "https://www.fahorro.com/despamen-lbd-50-mg-2-5-mg-0-5-ml-jeringa.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1642,
+      "fecha": "2026-09-29",
+      "lado_util": 1521
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/medicamentos/2846-despamen-lbd-solucion-inyectable-50-mg-25-mg-caja-con-una-jeringa-prellenada-con-05-ml-7501070903749.html",
+    "https://www.fahorro.com/despamen-lbd-50-mg-2-5-mg-0-5-ml-jeringa.html",
+    "https://www.yza.mx/despamen-lbd-jeringa-pr-50mg2.5mg-0.5ml/MXYZ_7501070903749.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Requiere receta. Las indicaciones oficiales no estaban en las fichas consultadas (solo la asociación con climaterio y menopausia), por eso la descripción es cauta y remite al médico.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

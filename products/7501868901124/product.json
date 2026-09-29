@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO A 500ML C24 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alcohol Etílico Dibar 500 ml Caja con 24 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico desnaturalizado Dibar de 71.5° G.L., en botella de plástico de 500 ml con tapa de rosca. Es un producto de curación de uso externo que se emplea para la limpieza de la piel y de superficies. Esta presentación corresponde a una caja con 24 botellas, práctica para consultorios, escuelas, oficinas y negocios que lo consumen con frecuencia.\n\nCaracterísticas:\n- Alcohol etílico desnaturalizado a 71.5° G.L.\n- Botella de 500 ml con tapa de rosca que facilita su dosificación.\n- Marca Dibar, de amplio uso en material de curación.\n- Caja con 24 piezas, ideal para abasto y reventa.\n\nComposición:\nAlcohol etílico desnaturalizado, 71.5° G.L.\n\nModo de uso:\nSolo para uso externo. Aplique una pequeña cantidad sobre una gasa o algodón y frote la zona o superficie que desee limpiar. Cierre bien el envase después de cada uso.\n\nPresentación:\nCaja con 24 botellas de 500 ml cada una (12 litros en total).\n\nAdvertencias:\nProducto inflamable: manténgase alejado del fuego, de las chispas y de fuentes de calor. Solo para uso externo; no se ingiera. Evite el contacto con los ojos y con heridas abiertas profundas. Manténgase fuera del alcance de los niños en un lugar fresco y ventilado.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Caja con 24 botellas de 500 ml",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 24,
+    "principio_activo": "Alcohol etílico desnaturalizado",
+    "concentracion": "71.5° G.L.",
+    "via_administracion": "Uso externo",
+    "otros": "Formato de venta: caja con 24 piezas; Envase: botella de plástico con tapa de rosca"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868901124_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://distribuidorasanantonio.com/wp-content/uploads/2024/04/image-3.jpg",
+      "pagina": "https://articulosdentalesprofesionales.com.mx/categorias/638-alcohol-500-ml-dibar.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 316
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://distribuidorasanantonio.com/producto/alcohol-etilico-dibar-500ml-7501868901124/",
+    "https://articulosdentalesprofesionales.com.mx/categorias/638-alcohol-500-ml-dibar.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501868901124 corresponde a la botella individual de 500 ml; el formato 'caja con 24 piezas' se toma del nombre del sistema (precio consistente con 24 piezas). Concentración leída de la etiqueta (71.5° G.L.). Sin ficha del fabricante.",
+    "notas_imagenes": "1 foto de tienda con la botella de 500 ml (500 px de origen, menor resolución). Se descartó otra foto de mejor tamaño por traer marca de agua de una tienda. No hay foto de la caja de 24.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

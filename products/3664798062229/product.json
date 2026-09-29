@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "PHARMATON COMPLETE SUPLEM ALIM C/GINSENG G115+VIT Y MIN 773MG C30 BIOFARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pharmaton Complete con Ginseng G115 30 Tabletas",
+  "descripcion": "Descripción:\nPharmaton Complete es un suplemento alimenticio para adultos que combina extracto de Ginseng G115 con vitaminas y minerales. Cada tableta es de 773 mg y el envase trae 30 tabletas, suficientes para un mes con una tableta al día.\n\nBeneficios:\n- Complementa la alimentación diaria con 12 vitaminas (A, B1, B2, B3, B5, B6, B7, B9, B12, C, D y E) y minerales como magnesio, zinc, selenio, manganeso, cobre y hierro\n- Incluye Ginseng G115, extracto estandarizado de raíz de Panax ginseng (40 mg)\n- Formulado para incrementar, complementar o suplir las deficiencias de vitaminas y minerales de la dieta\n- Presentación práctica: una tableta al día\n\nModo de uso:\nIngerir una tableta al día, por vía oral.\n\nPresentación:\nCaja con 30 tabletas de 773 mg.\n\nAdvertencias:\n- No se automedique. Consulte a su médico en caso de dudas.\n- Los pacientes bajo tratamiento con anticoagulantes deben consultar a su médico antes de tomar este producto.\n- Si los síntomas persisten, consulte a su médico.\n- No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pharmaton",
+    "fabricante": "Sanofi-Aventis de México, S.A. de C.V.",
+    "linea": "Complete",
+    "variante": "Con Ginseng G115, vitaminas y minerales",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Ginseng G115; vitaminas y minerales",
+    "concentracion": "Tableta de 773 mg; Ginseng G115 40 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma: tabletas; Dosis: 1 tableta al día; Suplemento alimenticio"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798062229_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3664798062229_1.jpg",
+      "pagina": "https://www.fahorro.com/complete-40-mg-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1493,
+      "fecha": "2026-09-29",
+      "lado_util": 1383
+    },
+    {
+      "archivo": "3664798062229_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7012733/3664798062229_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/pharmaton-complete-40-mg-caja-c-30-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1363,
+      "lado_final": 1404,
+      "fecha": "2026-09-29",
+      "lado_util": 1300
+    },
+    {
+      "archivo": "3664798062229_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7012734/3664798062229_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/pharmaton-complete-40-mg-caja-c-30-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1363,
+      "lado_final": 1384,
+      "fecha": "2026-09-29",
+      "lado_util": 1282
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/pharmaton-complete-suplemento-alimenticio-con-ginseng-g115-vitaminas-y-minerales-30-tabletas",
+    "https://www.farmatodo.com.mx/pharmaton-complete-40-mg-caja-c-30-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y 30 tabletas de 773 mg confirmados con el empaque. La ficha de una farmacia conserva el texto de la versión anterior (medicamento en cápsulas); se usó la ficha de suplemento alimenticio vigente. El dato de 40 mg de Ginseng viene del nombre de la ficha de varias farmacias.",
+    "notas_imagenes": "3 fotos de tienda: frente (Farmacias del Ahorro) y 2 vistas 3/4 del empaque (Farmatodo, 1000x1363 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

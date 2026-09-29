@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TUMS FCO SURT 750MG C48 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tums Antiácido 750 mg Sabores Surtidos 48 Tabletas",
+  "descripcion": "Descripción:\nTums es un antiácido en tabletas masticables de carbonato de calcio 750 mg, en frasco con 48 tabletas de sabores surtidos de frutas. Está indicado como antiácido para el tratamiento sintomático de las condiciones relacionadas con la acidez estomacal, incluyendo el ardor de estómago, las agruras, la indigestión ácida, la pesadez y el malestar estomacal. Por su presentación masticable y su sabor agradable es fácil de llevar y de tomar en cualquier momento del día.\n\nBeneficios:\n- Antiácido con carbonato de calcio 750 mg por tableta.\n- Alivio sintomático de acidez, ardor de estómago, agruras e indigestión ácida.\n- Tabletas masticables de sabores surtidos de frutas.\n- Frasco con 48 tabletas.\n\nComposición:\nCada tableta masticable contiene carbonato de calcio 750 mg.\n\nModo de uso:\nVía oral. Mastique bien la tableta antes de tragarla, en la dosis que indique el instructivo del empaque o su médico.\n\nPresentación:\nFrasco con 48 tabletas masticables, sabores surtidos.\n\nAdvertencias:\nNo lo use si es alérgico al carbonato de calcio o a algún componente de la fórmula. Si los síntomas persisten por más de dos semanas o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tums",
+    "presentacion": "Frasco",
+    "contenido_neto": 48,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 48,
+    "principio_activo": "Carbonato de calcio",
+    "concentracion": "750 mg por tableta",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Frutas surtidas",
+    "otros": "Clasificación: antiácido; Tabletas masticables; Formato de venta: frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065054029_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw0727bf71/images/large/7501065054029_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/tums-extra-surtido-48-tabs/MXYZ_7501065054029.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/tums-antiacido-tabletas-masticables-extra-surtido-48-unidades.html",
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/2684-tums-extra-750mg-frasco-con-48-tabletas-masticables-varios-sabores-7501065054029.html",
+    "https://www.yza.mx/tums-extra-surtido-48-tabs/MXYZ_7501065054029.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Algunas tiendas lo llaman 'Tums Extra'; el empaque dice 'Antiácido'. La regla de 'síntomas por más de dos semanas' es una precaución general para antiácidos; no se abrió el sitio del fabricante.",
+    "notas_imagenes": "1 foto de tienda (frasco de frente, 1,000 px, Farmacias YZA). Se descartó una foto con banners de la farmacia.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

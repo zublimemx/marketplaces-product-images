@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO ROY MEN SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante en Aerosol Stefano Royal Hombre 159 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Stefano Royal para hombre, con fragancia Oriental Fougère creada a base de una mezcla de lavanda, toques de vainilla y ámbar. Deja una sensación de limpieza en las axilas durante todo el día y neutraliza los olores desagradables que surgen de la sudoración combinada con las bacterias. Presentación en aerosol de 159 ml (113 g).\n\nBeneficios:\n- Protección contra el mal olor durante todo el día\n- Fragancia Oriental Fougère de lavanda, vainilla y ámbar\n- No deja sensación pegajosa en la piel\n- No mancha las prendas con residuos blancos\n- Presentación práctica para llevar al trabajo, la escuela, el gimnasio o de viaje\n\nPresentación:\nAerosol de 159 ml (113 g).",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Royal",
+    "variante": "Royal Hombre",
+    "presentacion": "Aerosol de 159 ml (113 g)",
+    "contenido_neto": 159,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Oriental Fougère: lavanda, vainilla y ámbar",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Peso neto: 113 g"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546077253_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546077253.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-stefano-royal-hombre-113-g-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1506,
+      "fecha": "2026-09-29",
+      "lado_util": 1395
+    },
+    {
+      "archivo": "7509546077253_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/6997362/7509546077253_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/desodorante-stefano-royal-hombre-159-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/desodorante-stefano-royal-hombre-159-gr/p",
+    "https://www.fahorro.com/desodorante-stefano-royal-hombre-113-g-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Stefano Royal en aerosol (113 g / 159 ml). El nombre del sistema dice 'ROY MEN'.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro 1600 px y Farmatodo 1000 px, frente del aerosol); se descartó una imagen con banner de texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

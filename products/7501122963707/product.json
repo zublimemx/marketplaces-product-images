@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "ESPACIL COMP CAPS C 20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Espacil Compuesto 125 mg/10 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nEspacil Compuesto es un medicamento que combina clonixinato de lisina, un analgésico antiinflamatorio, con butilhioscina (bromuro de hioscina), un antiespasmódico. Está indicado para el manejo del dolor visceral de tipo cólico, como el cólico renal, ureteral y vesical, la urolitiasis, el dolor posquirúrgico, el enteroespasmo, la colitis, el síndrome de colon irritable y otros padecimientos de origen genitourinario. Se presenta en caja con 20 cápsulas.\n\nBeneficios:\n- Doble acción: analgésica y antiespasmódica\n- Alivia el dolor tipo cólico de origen digestivo y genitourinario\n- Indicado en cólico renal, urolitiasis, colitis y colon irritable\n- Caja con 20 cápsulas\n\nComposición:\nCada cápsula contiene: clonixinato de lisina 125 mg y butilhioscina (bromuro de hioscina) 10 mg.\n\nPresentación:\nCaja con 20 cápsulas para administración oral.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a alguno de sus componentes ni si tiene glaucoma de ángulo cerrado, obstrucción intestinal o retención urinaria. La dosis y la duración del tratamiento deben ser indicadas por su médico. Almacene a temperatura ambiente controlada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Espacil",
+    "fabricante": "Valeant",
+    "linea": "Compuesto",
+    "presentacion": "Caja",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Clonixinato de lisina, butilhioscina (bromuro de hioscina)",
+    "concentracion": "125 mg / 10 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "73540 SSA IV",
+    "otros": "Forma farmacéutica: cápsulas; Condición de venta: con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501122963707_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501122963707_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1559,
+      "fecha": "2026-09-29",
+      "lado_util": 1444
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/gastroenterologia/4221-espacil-compuesto-125-mg-10-mg-caja-con-20-capsulas-7501122963707.html",
+    "https://www.yza.mx/espacil-compuesto-125mg10mg-20-caps/MXYZ_7501122963707.html",
+    "https://farmaciagloria.mx/Medicamentos_de_patente/1472-espacil-compuesto-125mg-10mg-con-20-capsulas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las contraindicaciones y efectos indicados son generales de los componentes; la ficha de tienda no trae advertencias ni dosis. Registro tomado tal cual de la ficha de tienda.",
+    "notas_imagenes": "1 foto de tienda (caja frontal, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

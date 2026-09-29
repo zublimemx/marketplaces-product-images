@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM SUAVELASTIC C198",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas KleenBebé Suavelastic Max 198 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé KleenBebé Suavelastic Max, en presentación con un total de 198 toallitas. Están formuladas con fibras naturales y tienen una estructura de doble textura que limpia desde la primera pasada sin dejar residuos, con una limpieza suave y eficaz pensada para la piel del bebé.\n\nCaracterísticas:\n- Fibras naturales.\n- Doble textura para limpiar sin dejar residuos.\n- Limpian desde la primera pasada.\n- Ayudan a evitar la irritación de la piel del bebé.\n- Presentación económica con 198 toallitas.\n\nModo de uso:\nExtraiga una toallita del empaque y límpiela suavemente sobre la piel del bebé en cada cambio de pañal o cuando lo necesite. Cierre bien la tapa o el sello después de usar para conservar la humedad de las toallitas.\n\nPresentación:\n198 toallitas húmedas en total. Consulte el empaque para conocer cómo se distribuyen en paquetes.\n\nAdvertencias:\n- Producto desechable; no se arroje al inodoro.\n- Suspenda su uso si el bebé presenta irritación o reacción en la piel.\n- Mantenga el empaque cerrado, en un lugar fresco y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Suavelastic Max",
+    "presentacion": "Toallitas húmedas",
+    "contenido_neto": 198,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 198,
+    "edad_etapa": "Bebés",
+    "otros": "Fibras naturales; Doble textura; Total de 198 toallitas (la distribución en paquetes no se confirmó); Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-kleenbebe-suavelastic-max-2-paquetes-de-100-toallitas-cu-3079088/p",
+    "https://www.fahorro.com/kleenbebe-suavelastic-max-toallas-humedas-100-pz.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre: la búsqueda mostró 'Toallitas Suavelastic Max 198 Pz' en una tienda de autoservicio, pero no se pudo abrir (bloqueo) y ninguna fuente confirma el GTIN 7506425664535. La descripción sale de las fichas de KleenBebé Suavelastic Max de 100 piezas y del pack de 2 x 100; no se sabe si las 198 piezas son un paquete o varios. Fabricante Kimberly-Clark es dato de la marca.",
+    "notas_imagenes": "Sin fotos: las tiendas abiertas solo muestran el empaque de 100 piezas (otra presentación) y las fichas de la de 198 piezas están bloqueadas o cargan con scripts.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

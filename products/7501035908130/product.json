@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MENNEN AZUL 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Bebé Mennen Baby Magic Hipoalergénico 200 g",
+  "descripcion": "Descripción:\nTalco para bebés Baby Magic de Mennen en presentación de 200 g. Ayuda a mantener la piel del bebé seca y protegida, controlando la humedad y previniendo las rozaduras en las zonas de pliegues y del área del pañal. Su formulación es hipoalergénica y se puede usar después del baño y en cada cambio de pañal.\n\nBeneficios:\n- Ayuda a controlar la humedad y a mantener la piel seca\n- Ayuda a evitar rozaduras\n- Formulación hipoalergénica que protege la piel del bebé\n- Envase de 200 g\n\nIngredientes:\nTalco, meticona y sílice hidratada, entre otros.\n\nModo de uso:\nDespués del baño y con la piel seca, aplique una pequeña cantidad de talco sobre el cuerpo del bebé. Uso externo. Se recomienda verter el talco primero en la mano, lejos de la cara del bebé, y después aplicarlo sobre la piel.\n\nPresentación:\nFrasco de 200 g.\n\nAdvertencias:\nUso externo. Evite que el bebé inhale el polvo y el contacto con los ojos. Manténgase fuera del alcance de los niños. Consulte a su pediatra ante cualquier duda.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Baby Magic",
+    "variante": "Hipoalergénico",
+    "presentacion": "Frasco",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel de bebé",
+    "via_administracion": "Tópica (externa)",
+    "otros": "Hipoalergénico: sí; Color del envase: azul"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455894",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908130_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw2d075ca6/images/large/7501035908130_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/talco-mennen-baby-magic-nino-200-g/MXYZ_7501035908130.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 804,
+      "fecha": "2026-09-29",
+      "lado_util": 745
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/bebes/1674-comprar-mennen-talco-azul-frasco-con-200-g-aseo-bebe-precio-7501035908130.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/talco-menen-para-bebe-baby-magic-azul-200-g",
+    "https://www.yza.mx/talco-mennen-baby-magic-nino-200-g/MXYZ_7501035908130.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tres fichas de tienda. Ingredientes según ficha de tienda (no vistos en etiqueta). Modo de uso y advertencias son recomendaciones generales de uso de talco infantil.",
+    "notas_imagenes": "1 foto de tienda (frente del frasco azul, 1000 px). Se descartó otra foto con diseño anterior del envase.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

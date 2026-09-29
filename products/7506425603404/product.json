@@ -4,14 +4,22 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM ESCUDO ANTBAC C/50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Escudo Antibacterial 50 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas antibacteriales Escudo, portátiles y prácticas para la limpieza e higiene de las manos en cualquier lugar, cuando no tienes agua y jabón a la mano. Se presentan en un paquete con 50 toallitas, ideal para llevar en el bolso, la mochila, el auto o la oficina.\n\nBeneficios:\n- Elimina el 99.9% de bacterias\n- Fórmula sin alcohol\n- Sin parabenos ni triclosán, para cuidar tu piel\n- Formato práctico para llevar contigo\n- Paquete con 50 toallitas\n\nModo de uso:\nTome una toallita del paquete y frótela por ambas manos, cubriendo toda la superficie, hasta que se sequen. Cierre bien el paquete después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 50 toallitas húmedas antibacteriales.\n\nAdvertencias:\nUso externo. No las use en los ojos ni en heridas abiertas. Suspenda su uso si aparece irritación. No tire las toallitas al inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Escudo",
+    "linea": "Antibacterial",
+    "presentacion": "Paquete",
+    "contenido_neto": 50,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 50,
+    "otros": "Uso: limpieza de manos; Sin alcohol; Sin parabenos ni triclosán; Toallitas húmedas antibacteriales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167968",
+      "categoria_ruta": "Hogar, Muebles y Jardín > Cuidado del Hogar y Lavanderia > Productos de Limpieza > Toallitas Desinfectantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425603404_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425603404.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1694,
+      "fecha": "2026-09-29",
+      "lado_util": 1569
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/escudo-antibacterial-toallitas-humedas-antibacteriales-50-piezas-3658481/p",
+    "https://www.sanborns.com.mx/producto/133048/toallitas-humedas-antibacteriales-escudo-c-50-pzs"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Promesa de 99.9% de bacterias, sin alcohol y sin parabenos ni triclosán tomada de la ficha de tienda. Fabricante no confirmado en fichas (no se incluyó). Modo de uso y advertencias generales.",
+    "notas_imagenes": "1 foto de tienda (paquete de 50, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

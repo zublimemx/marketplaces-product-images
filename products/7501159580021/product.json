@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "PULMONAR OM C 20 AMP JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pulmonarom Lisados Bacterianos 20 Ampolletas de 3 ml",
+  "descripcion": "Descripción:\nPulmonarom (también escrito Pulmonar-OM) es una solución oral a base de lisados bacterianos que se presenta en ampolletas de 3 ml. Se utiliza como auxiliar en infecciones de las vías respiratorias, acortando el tiempo de tratamiento. La caja contiene 20 ampolletas listas para tomar.\n\nCaracterísticas:\n- Solución ingerible de administración oral.\n- Principio activo: lisados bacterianos.\n- Ampolletas individuales de 3 ml.\n- Se comercializa con receta médica en su clasificación sanitaria.\n\nComposición:\nLisados bacterianos en solución oral. El detalle de las cepas y sus cantidades se encuentra en el prospecto del producto.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 20 ampolletas de 3 ml cada una.\n\nAdvertencias:\nConserve el producto a una temperatura no mayor de 30 °C. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pulmonarom",
+    "fabricante": "Sanofi",
+    "linea": "Pulmonar-OM",
+    "presentacion": "Solución oral, caja con 20 ampolletas",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 20,
+    "principio_activo": "Lisados bacterianos",
+    "via_administracion": "Oral",
+    "registro_sanitario": "13485SSAIV",
+    "otros": "Contenido: 20 ampolletas de 3 ml; Condición de venta: con receta médica (según ficha de farmacia); Conservación: no más de 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501159580021_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159580021_.jpg",
+      "pagina": "https://www.fahorro.com/pulmonarom-20-ampolletas-con-3ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 981,
+      "fecha": "2026-09-29",
+      "lado_util": 909
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pulmonarom-20-ampolletas-con-3ml.html",
+    "https://www.farmalisto.com.mx/sistema-respiratorio/4859-pulmonarom-solucion-oral-caja-20-ampolletas-con-3-ml-7501159580021.html",
+    "https://www.farmatodo.com.mx/pulmonar-om-solucion-c-20-ampolletas-de-3-ml-c-u-v1/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se hallaron fórmula detallada ni posología. Una ficha lo marca con receta (fracción IV); otra lo presenta sin esa indicación: revisar. Fabricante Sanofi según dos fichas de farmacia.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja (Farmacias del Ahorro, 1200 px). Se descartó otra foto con etiqueta 'Nueva imagen' sobre el empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

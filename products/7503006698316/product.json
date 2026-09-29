@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "MICRODACYN 60 SOL 120 M",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Microdacyn 60 Solución Antiséptica 120 ml",
+  "descripcion": "Descripción:\nMicrodacyn es una solución antiséptica de Sanfer, lista para usar, indicada como coadyuvante en la limpieza y curación de todo tipo de heridas (superficiales, agudas, crónicas y otras). Su acción antiséptica y germicida de amplio espectro es eficaz contra bacterias gram positivas y gram negativas, virus, hongos y esporas, por lo que resulta ideal para desinfectar cortaduras, raspones, abrasiones, quemaduras e infecciones de la piel. Se presenta en frasco de 120 ml.\n\nBeneficios:\n- No arde al aplicar\n- Rápido y eficaz contra bacterias, virus, hongos y esporas\n- No es tóxico\n- No mancha ni daña la piel\n- Listo para usar: se aplica directamente, sin diluir\n- Biodegradable\n\nModo de uso:\n- Limpiar: lave cuidadosamente la herida con agua y jabón y séquela, de preferencia con gasa estéril\n- Desinfectar: aplique la solución directamente sobre toda la herida y déjela actuar hasta que seque por completo\n- Proteger: si es necesario, cubra la herida con una vendita, gasa o compresa limpia\n- Repita el proceso 3 veces al día o como lo indique su médico\n\nPresentación:\nFrasco de 120 ml.\n\nAdvertencias:\nEn caso de irritación o malestar local, suspenda el uso. No la mezcle con productos que contengan amoníaco. Si las molestias persisten, consulte a su médico. Conservar en un lugar seco a no más de 30 °C, sin congelar y alejada de la luz solar directa. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Microdacyn",
+    "fabricante": "Sanfer",
+    "linea": "Microdacyn 60",
+    "presentacion": "Frasco de 120 ml",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Solución antiséptica y germicida de amplio espectro; Se aplica sin diluir; Biodegradable; No mezclar con productos con amoníaco; Frasco con atomizador"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503006698316_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe9637f09/images/large/7503006698316_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/microdacyn-solucion-120ml/MXYZ_7503006698316.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 871,
+      "fecha": "2026-09-29",
+      "lado_util": 807
+    },
+    {
+      "archivo": "7503006698316_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd2407a7b/images/large/7503006698316_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/microdacyn-solucion-120ml/MXYZ_7503006698316.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 871,
+      "fecha": "2026-09-29",
+      "lado_util": 807
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/microdacyn-solucion-120ml/MXYZ_7503006698316.html",
+    "https://www.farmatodo.com.mx/microdacyn-60-solucion-frasco-c-120-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicaciones, modo de uso y precauciones leídos en la foto del reverso del frasco (texto algo borroso). La composición exacta (agua superoxidada / ácido hipocloroso) no aparecía legible, por eso no se cita. Sin registro sanitario visible.",
+    "notas_imagenes": "2 fotos de tienda (871 px): frente y reverso del frasco actual de Sanfer con etiqueta. Descarté la foto del frasco anterior de Oculus.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

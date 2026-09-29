@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "CIALIS 20MG C1 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cialis Tadalafilo 20 mg 1 Tableta",
+  "descripcion": "Descripción:\nCialis es un medicamento de Eli Lilly cuyo principio activo es el tadalafilo, en tabletas de 20 mg. Está indicado para el tratamiento de la disfunción eréctil en hombres adultos. Se administra por vía oral, con o sin alimentos, y la caja contiene una tableta. Según la información técnica, la dosis recomendada de 20 mg se toma antes de la actividad sexual, entre 30 minutos y 36 horas antes, y la dosis máxima es de una tableta al día. Es un medicamento que requiere receta médica.\n\nBeneficios:\n- Tadalafilo 20 mg por tableta.\n- Indicado para el tratamiento de la disfunción eréctil.\n- Se puede tomar con o sin alimentos.\n- Caja con 1 tableta.\n\nComposición:\nCada tableta contiene tadalafilo 20 mg.\n\nModo de uso:\nVía oral. La dosis recomendada es de una tableta de 20 mg antes de la actividad sexual, sin exceder una tableta al día, y siempre según la indicación de su médico.\n\nPresentación:\nCaja con 1 tableta de 20 mg.\n\nAdvertencias:\nMedicamento de prescripción médica. No lo use junto con nitratos orgánicos ni si es alérgico al tadalafilo. No se recomienda en menores de 18 años. Suspenda su uso y acuda al médico si tiene una erección que dure más de 4 horas o pérdida súbita de la visión en uno o ambos ojos. Consulte a su médico si toma bloqueadores alfa o si tiene problemas del corazón. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cialis",
+    "fabricante": "Eli Lilly",
+    "presentacion": "Tabletas",
+    "contenido_neto": 1,
+    "unidad_contenido": "tableta",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tadalafilo",
+    "concentracion": "20 mg por tableta",
+    "via_administracion": "Oral",
+    "genero": "Hombre",
+    "otros": "Clasificación: inhibidor de la fosfodiesterasa tipo 5; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501082212143_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/c/i/cialis-20-mg-oral-1-tab-2143_1.jpg",
+      "pagina": "https://www.fahorro.com/cialis-20-mg-oral-1-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1171,
+      "fecha": "2026-09-29",
+      "lado_util": 1085
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/cialis.tabletas.recubiertas/50/101/6896/222",
+    "https://www.fahorro.com/cialis-20-mg-oral-1-tabletas.html",
+    "https://www.yza.mx/cialis-20mg-1-tab/MXYZ_7501082212143.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias; indicación y dosis tomadas de PLM. Requiere receta.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,171 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

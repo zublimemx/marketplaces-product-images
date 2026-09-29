@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "IODEX CRISTAL 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Iodex Cristal Ungüento Rubefaciente 60 g",
+  "descripcion": "Descripción:\nIodex Cristal es un ungüento analgésico no narcótico y rubefaciente, útil en dolores musculares leves. Su fórmula combina salicilato de metilo, alcanfor, mentol y eucaliptol, y se presenta en frasco de 60 g. Se aplica sobre la piel en las zonas doloridas o con esfuerzo, por ejemplo antes y después del ejercicio.\n\nBeneficios:\n- Analgésico no narcótico de uso tópico.\n- Efecto rubefaciente sobre la zona de aplicación.\n- Útil en dolores musculares leves.\n- Frasco de 60 g de ungüento.\n\nFórmula:\nUngüento con salicilato de metilo 5%, alcanfor 7%, mentol 3% y eucaliptol 1%, según la información de etiqueta y de las fichas de tienda.\n\nModo de uso:\nAplique de 2 a 3 veces al día, antes y después del ejercicio, en las áreas del cuerpo donde se hace más esfuerzo y en las áreas doloridas.\n\nPresentación:\nFrasco con 60 g de ungüento.\n\nAdvertencias:\n- Solo para uso externo; no lo aplique sobre heridas ni mucosas.\n- Evite el contacto con los ojos.\n- Si el dolor persiste o empeora, suspenda su uso y consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Iodex",
+    "fabricante": "GSK",
+    "linea": "Cristal",
+    "presentacion": "Ungüento en frasco",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salicilato de metilo, alcanfor, mentol, eucaliptol",
+    "concentracion": "5% / 7% / 3% / 1%",
+    "via_administracion": "Tópica",
+    "otros": "Analgésico rubefaciente; Uso en dolores musculares leves; Formato de venta: Frasco de 60 g"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501064560163_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501064560163_1_1.jpg",
+      "pagina": "https://www.fahorro.com/iodex-unguento-cristal-60-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/iodex-unguento-cristal-60-g.html",
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/2669-iodex-cristal-ungueento-tarro-con-60-g-7501064560163.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501064560163 corresponde a Iodex Cristal ungüento de 60 g en varias fichas y en el frasco. El nombre del sistema dice 'IODEX CRISTAL 24', sin unidad; no se encontró una presentación de 24 g, por eso la confianza es media. Porcentajes 5/7/3/1 tomados de las fichas y del frasco; GSK se lee en el envase.",
+    "notas_imagenes": "1 foto de tienda (frasco verde de 60 g, 1568 px) de Farmacias del Ahorro; las variantes _2 y _3 no existen en su servidor.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

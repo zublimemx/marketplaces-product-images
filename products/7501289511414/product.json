@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PASTA LASSAR 60GR TARRO ANDROMACO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Lassar Andrómaco Óxido de Zinc 25% Tarro 60 g",
+  "descripcion": "Descripción:\nPasta de Lassar Andrómaco es una pasta de uso cutáneo con óxido de zinc al 25%. Forma una capa protectora sobre la piel dañada que ayuda a disminuir el ardor y la comezón, y está indicada en irritaciones leves de la piel como quemaduras superficiales, heridas leves, rozaduras y piquetes de insectos. Se presenta en tarro de 60 g.\n\nBeneficios:\n- Forma una capa protectora sobre la piel dañada, que disminuye el ardor y la comezón.\n- Protege la piel de la humedad.\n- Favorece el alivio en irritaciones leves.\n- Ayuda a prevenir infecciones.\n- Puede aplicarse en cada cambio de pañal para prevenir rozaduras.\n\nComposición:\nCada 100 g contienen: óxido de zinc 25 g. Excipiente cbp 100 g.\n\nModo de uso:\nAplique una capa de Pasta de Lassar Andrómaco sobre la piel dañada cada 8 horas o 3 veces al día hasta eliminar las molestias. Para prevenir rozaduras, puede aplicarse en cada cambio de pañal.\n\nPresentación:\nTarro con 60 g.\n\nAdvertencias:\nVía cutánea, no ingerible. No se deje al alcance de los niños. Consérvese a no más de 30 °C y con el tarro bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Andrómaco",
+    "fabricante": "Andrómaco",
+    "linea": "Pasta de Lassar",
+    "presentacion": "Pasta cutánea, tarro",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc",
+    "concentracion": "25 g por cada 100 g",
+    "via_administracion": "Cutánea",
+    "otros": "No ingerible; Conservación: no más de 30 °C; Indicada en quemaduras superficiales, heridas leves, rozaduras y piquetes de insectos"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501289511414_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/2339828/6064d19e16c98-a1fca579-117f-4718-8ddb-07a6a302bd3e-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/13709643/pasta-de-lassar-andromaco-tarro-con-60-g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1676,
+      "fecha": "2026-09-29",
+      "lado_util": 1552
+    },
+    {
+      "archivo": "7501289511414_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/2339828/6064d1a070987-3bebfca9-948b-4bfc-9591-55c1bdbf4fd3-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/13709643/pasta-de-lassar-andromaco-tarro-con-60-g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1665,
+      "fecha": "2026-09-29",
+      "lado_util": 1541
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pasta-lassar-andromaco-cutaneo-oxido-de-zinc-25-tarro-60-gr.html",
+    "https://www.claroshop.com/producto/13709643/pasta-de-lassar-andromaco-tarro-con-60-g",
+    "https://farmalisto.com.mx/cuidado-de-la-piel/5478-pasta-de-lassar-andromaco-tarro-con-60-g-7501289511414.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, acción, modo de empleo y advertencias leídos del contraempaque del tarro de 60 g.",
+    "notas_imagenes": "2 fotos de tienda (Claroshop, 1600 px): tarro de frente y contraetiqueta con la fórmula. Se descartaron una foto de etiqueta plana y una foto de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

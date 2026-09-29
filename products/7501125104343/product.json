@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "ELECTROLIT 625ML MANZANA FEBRERO 27 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Suero Rehidratante Electrolit Manzana 625 ml",
+  "descripcion": "Descripción:\nElectrolit sabor manzana es una solución esterilizada de electrolitos orales, lista para beber, indicada para la prevención y el tratamiento por vía oral del desequilibrio causado por deshidratación en personas mayores de 6 años. Ayuda a reponer los líquidos y electrolitos que el cuerpo pierde por gastroenteritis aguda, actividad física intensa, trabajo pesado o exposición a ambientes muy cálidos, y aporta glucosa como fuente útil de calorías.\n\nBeneficios:\n- Repone líquidos y electrolitos perdidos por sudoración o gastroenteritis aguda\n- Aporta 20 kcal por cada 100 ml\n- Solución lista para tomar, sin preparación\n- Sabor manzana en botella individual de 625 ml\n\nComposición:\nCloruro de sodio, cloruro de potasio, cloruro de calcio dihidratado, cloruro de magnesio hexahidratado, lactato de sodio, glucosa y vehículo cbp. Sabor manzana.\n\nModo de uso:\nVía oral. La cantidad por tomar depende del grado de deshidratación; siga las indicaciones del empaque o de su médico.\n\nPresentación:\nBotella de plástico con 625 ml de suero rehidratante sabor manzana.\n\nAdvertencias:\nSi tiene diabetes o alguna enfermedad renal, consulte a su médico antes de consumirlo, ya que debe ajustarse a su plan de alimentación y tratamiento. Conservar a temperatura ambiente controlada (15 a 30 °C). Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Electrolit",
+    "fabricante": "Laboratorios PiSA",
+    "linea": "Electrolit",
+    "variante": "Manzana",
+    "presentacion": "Botella de 625 ml",
+    "contenido_neto": 625,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Electrolitos orales (sodio, potasio, calcio, magnesio) y glucosa",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mayores de 6 años",
+    "sabor_aroma": "Manzana",
+    "registro_sanitario": "90127 SSA",
+    "otros": "Solución esterilizada de electrolitos orales; Aporte energético: 20 kcal por 100 ml; Origen: México"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM431865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125104343_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/316883/316883_01.webp?v=6bb7397f",
+      "pagina": "https://www.heb.com.mx/electrolit-suero-oral-manzana-625-ml-73824/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 600
+    }
+  ],
+  "url_oficial": "https://electrolit.com.mx/",
+  "fuentes": [
+    "https://electrolit.com.mx/preguntas-frecuentes/",
+    "https://mx.openfoodfacts.org/producto/7501125104343/suero-rehidratante-electrolit-sabor-manzana",
+    "https://www.heb.com.mx/electrolit-suero-oral-manzana-625-ml-73824/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro 90127 SSA tomado del sitio oficial. La página oficial ya no muestra el sabor manzana; datos del sabor y presentación confirmados por el GTIN en tiendas y Open Food Facts.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 600 px de origen). No hallé versión de mayor resolución sin marcas de tienda; el sitio oficial no publica el sabor manzana.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

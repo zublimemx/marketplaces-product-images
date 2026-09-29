@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "ALGIDOL 600MG C10 CAPS IBUPROFENO GELPHARMA 294",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Algidol Ibuprofeno 600 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nAlgidol 600 mg es un medicamento en cápsulas de gel cuyo principio activo es el ibuprofeno, un antiinflamatorio no esteroideo (AINE) con acción analgésica. Está indicado en adultos y mayores de 12 años para el alivio del dolor en padecimientos articulares como artritis reumatoide, osteoartritis y gota, en afecciones reumáticas no articulares como tendinitis, bursitis y dolor lumbar, y en la dismenorrea primaria (dolor menstrual). Es fabricado por Gelpharma.\n\nBeneficios:\n- Alivia el dolor y la inflamación de origen articular y reumático\n- Indicado en dolor lumbar, tendinitis y bursitis\n- Auxiliar en el dolor menstrual (dismenorrea primaria)\n- Cada cápsula contiene 600 mg de ibuprofeno, lo que permite una dosificación práctica\n\nComposición:\nCada cápsula contiene ibuprofeno 600 mg.\n\nModo de uso:\nVía oral. Adultos y mayores de 12 años: una cápsula de 3 a 4 veces al día, o según la indicación de su médico. Se recomienda tomar la cápsula con un vaso de agua y, de preferencia, con alimentos.\n\nPresentación:\nCaja con 10 cápsulas de 600 mg.\n\nAdvertencias:\nNo se administre en caso de hipersensibilidad al ibuprofeno u otros antiinflamatorios no esteroideos, durante el último trimestre del embarazo, en menores de 12 años ni en personas con antecedentes de úlcera gastrointestinal. Use con precaución si tiene insuficiencia renal o hepática severa, hipertensión, asma o enfermedad inflamatoria intestinal. Puede causar molestias gastrointestinales, dolor de cabeza, vértigo o erupción en la piel. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Algidol",
+    "fabricante": "Gelpharma, S.A. de C.V.",
+    "linea": "Algidol",
+    "presentacion": "Caja con 10 cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "600 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "343M2014 SSA",
+    "otros": "Forma farmacéutica: cápsulas de gel; Clasificación: antiinflamatorio no esteroideo (AINE); Requiere receta médica según las fichas consultadas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502227426715_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/ibuprofeno_algidol_600_mg_con_10_capsulas_7502227426715_c5a8c5e6-d1cd-4b44-8bed-d3c6abd2750c.jpg?v=1763651923&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/ibuprofeno-algidol-600-mg-con-10-capsulas",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 727,
+      "fecha": "2026-09-29",
+      "lado_util": 674
+    },
+    {
+      "archivo": "7502227426715_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/Ibuprofeno_600_Mg_Con_10_Capsulas_Algidol_7502227426715.jpg?v=1761842045&width=1920",
+      "pagina": "https://openfarma.mx/products/ibuprofeno-600-mg-con-10-capsulas-algidol",
+      "ancho_original": 600,
+      "alto_original": 601,
+      "lado_final": 619,
+      "fecha": "2026-09-29",
+      "lado_util": 572
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/algidol.600.capsulas/2339/101/65195/14",
+    "https://farmaciaherrera.com.mx/products/ibuprofeno-algidol-600-mg-con-10-capsulas",
+    "https://wecarepharma.mx/en/products/algidol-600mg-con-10-capsulas-ibuprofeno"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ficha de PLM y de tiendas mexicanas; el fabricante no tiene sitio de producto. Dos fuentes indican que requiere receta, por eso receta_mx = Sí (ibuprofeno de 600 mg); se publica en venta libre con sugerencia de categoría con receta.",
+    "notas_imagenes": "2 fotos de tienda de frente de la caja de 10 cápsulas (727 y 619 px), ambas por debajo de 800 px pero sin otra fuente mejor.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

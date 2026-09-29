@@ -4,29 +4,56 @@
   "linea": "Farma",
   "nombre_sistema": "PLASTIPACK 3ML C100 VERDE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringa BD Plastipak 3 ml Aguja 21G x 32 mm 100 Piezas",
+  "descripcion": "Descripción:\nJeringas desechables BD Plastipak de 3 ml con aguja verde de calibre 21G y 32 mm de longitud, en caja con 100 piezas. Son jeringas estériles de un solo uso, de diseño de 3 piezas, para inyecciones y para la aspiración de líquidos de viales y ampolletas.\n\nCaracterísticas:\n- Capacidad de 3 ml.\n- Aguja de calibre 21G x 32 mm (1 1/4 de pulgada), con conector verde.\n- Diseño de 3 piezas con cilindro transparente y escala en negritas para dosificar con precisión.\n- Émbolo con tope sin látex, lubricado con silicona para un movimiento suave.\n- Anillo de retención que evita que el émbolo se salga del cilindro.\n- Estéril, empaque individual, de un solo uso.\n\nPresentación:\nCaja con 100 jeringas de 3 ml con aguja 21G x 32 mm.\n\nAdvertencias:\nProducto estéril de un solo uso: no se reutilice. No lo utilice si el empaque individual está abierto o dañado. Después de usarlo, deseche la jeringa con la aguja en un contenedor rígido para residuos punzocortantes. Manténgase fuera del alcance de los niños. Uso bajo indicación y supervisión de personal de salud.",
+  "ficha": {
+    "marca": "BD",
+    "fabricante": "Becton Dickinson (BD)",
+    "linea": "Plastipak",
+    "variante": "Aguja verde 21G x 32 mm",
+    "presentacion": "Caja con 100 jeringas",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 100,
+    "otros": "Capacidad: 3 ml; Aguja: 21G x 32 mm; Estéril; De un solo uso; Sin látex en el émbolo; Empaque individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22606866"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "17501073025391_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501073025394.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1658,
+      "fecha": "2026-09-29",
+      "lado_util": 1536
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.bd.com/es-es/products-and-solutions/products/product-families/bd-plastipak-3-piece-syringe",
+    "https://www.fahorro.com/plastipak-jeringa-desechable-21-x-32-con-5-unidades-de-3-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN de 14 dígitos (17501073025391) es el de la caja de 100; el de la pieza individual es 7501073025394, con el que se localizó la foto. Características generales de la familia BD Plastipak (página del fabricante). Catálogo ML por coincidencia exacta de título (jeringa BD Plastipak 3 ml aguja verde 21G x 32 mm, 100 piezas); página no abierta.",
+    "notas_imagenes": "1 foto de tienda de la jeringa individual con aguja verde en su empaque (1600 px), obtenida por el GTIN de la pieza; no se halló foto de la caja de 100.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,14 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "AMBIDERM MED GUANTE EST C100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Guantes Ambiderm Látex Estériles Talla Mediana 100 Piezas",
+  "descripcion": "Descripción:\nGuantes de látex para exploración, estériles, marca Ambiderm, en talla mediana. Son de hule látex natural, confortables, seguros y desechables, con alta sensibilidad al tacto, ambidiestros y atóxicos. Cada guante viene en empaque individual de polietileno y están ligeramente lubricados con polvo absorbente permitido por la USP. Caja con 100 guantes.\n\nCaracterísticas:\n- Guante estéril de látex natural para exploración\n- Ajuste perfecto, seguro y confortable\n- Alta sensibilidad al tacto\n- Ambidiestro y atóxico\n- Desechable, con empaque individual de polietileno\n- Lubricado con polvo absorbente permitido por la USP\n- Producto bajo en proteínas\n- Nivel de calidad aceptable AQL 1.5\n\nPresentación:\nCaja con 100 guantes, talla mediana.\n\nAdvertencias:\nContiene látex natural, que puede causar reacciones alérgicas en personas sensibles al látex; no lo use si es alérgico. Producto de un solo uso: deséchelo después de utilizarlo. No lo use si el empaque individual está dañado o abierto. Almacene en un lugar fresco y seco, lejos de la luz solar directa.",
+  "ficha": {
+    "marca": "Ambiderm",
+    "presentacion": "Caja",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "talla": "Mediana",
+    "otros": "Material: látex natural; Estéril; Ambidiestro; Lubricado con polvo absorbente; Uso: exploración; AQL 1.5"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178496",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Indumentaria Quirúrgica > Guantes Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "17502224240656_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://prosafetymx.com/cdn/shop/products/GuanteEsterilAmbidermTallaMediana.jpg?v=1688580608&width=1920",
+      "pagina": "https://prosafetymx.com/products/772192907",
+      "ancho_original": 1920,
+      "alto_original": 1512,
+      "lado_final": 1829,
+      "fecha": "2026-09-29",
+      "lado_util": 1693
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prosafetymx.com/products/772192907",
+    "https://biosmed.com.mx/producto/guantes-esteriles-ambiderm/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN-14 confirmado como Ambiderm estéril talla mediana en ficha de tienda (variante Mediana). Contiene látex: se incluye advertencia de alergia.",
+    "notas_imagenes": "1 foto de tienda (caja talla mediana, alta resolución). Se descartó otra foto que era de talla chica.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

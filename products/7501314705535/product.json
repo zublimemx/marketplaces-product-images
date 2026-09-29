@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "EVIPRESS 10MG C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Evipress Lercanidipino 10 mg 30 Tabletas",
+  "descripcion": "Descripción:\nEvipress es un medicamento en tabletas cuyo principio activo es el clorhidrato de lercanidipino, un calcio antagonista del grupo de las dihidropiridinas. Cada tableta contiene 10 mg.\n\nBeneficios:\n- Indicado para el tratamiento de la hipertensión arterial leve o moderada\n- Se toma una vez al día\n\nFórmula:\nCada tableta contiene: clorhidrato de lercanidipino 10 mg; excipiente cbp 1 tableta. Contiene lactosa.\n\nModo de uso:\nVía oral. La dosis recomendada es de 10 mg una vez al día, por lo menos 15 minutos antes de las comidas. El médico puede aumentarla a 20 mg según la respuesta del paciente; el aumento debe ser gradual, ya que el efecto antihipertensivo máximo puede tardar cerca de 2 semanas.\n\nPresentación:\nCaja con 30 tabletas de 10 mg.\n\nAdvertencias:\n- Su venta requiere receta médica. Literatura exclusiva para médicos.\n- No se use en el embarazo y la lactancia, ni en mujeres en edad fértil sin un método anticonceptivo eficaz.\n- Contraindicado en hipersensibilidad a las dihidropiridinas o a la fórmula, insuficiencia cardiaca congestiva no tratada, angina de pecho inestable y disfunción renal o hepática severa.\n- No se administre con inhibidores potentes de CYP3A4, ciclosporina ni jugo de toronja.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Evipress",
+    "fabricante": "Altia",
+    "variante": "10 mg",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Clorhidrato de lercanidipino",
+    "concentracion": "10 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: tableta; Venta con receta médica; Contiene lactosa"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314705535_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314705535.jpg",
+      "pagina": "https://www.fahorro.com/evipress-10-mg-oral-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1556,
+      "fecha": "2026-09-29",
+      "lado_util": 1441
+    },
+    {
+      "archivo": "7501314705535_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7000619/7501314705535_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evipress-10-mg-caja-c-30-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 973,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/evipress-10-mg-caja-c-30-tabletas/p",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/6076-evipress-10-mg-lercanidipino-caja-con-30-tabletas-altia-7501314705535.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (aparece en la URL de una ficha). El empaque muestra el logotipo de Altia; una ficha de farmacia lista a Senosiain como marca. No se vio el registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro 1600 px y Farmatodo 1000 px, frente de la caja).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

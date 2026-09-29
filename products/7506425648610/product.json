@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "SUAVE CH E2 C/16",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales KleenBebé Suavelastic Etapa 2 Chico 16 Piezas",
+  "descripcion": "Descripción:\nPañales desechables KleenBebé Suavelastic Etapa 2 Chico, paquete con 16 piezas, para bebés de aproximadamente 5 a 7 kg. Están diseñados para ofrecer suavidad y protección a la piel del bebé durante el día y la noche. Cuentan con cubierta transpirable Maxi Suave para mayor comodidad, una fórmula botánica con aloe vera, vitamina E y manzanilla, la tecnología BlockGel 3D de máxima absorbencia para ayudar a mantener la piel seca por más tiempo y un diseño con bolsillo posterior para reducir las fugas. Su tamaño de 16 piezas es práctico para llevar en la pañalera.\n\nCaracterísticas:\n- Etapa 2, talla Chico, para bebés de 5 a 7 kg aproximadamente.\n- Cubierta transpirable Maxi Suave para mayor suavidad.\n- Fórmula botánica con aloe vera, vitamina E y manzanilla.\n- Tecnología BlockGel 3D de máxima absorbencia.\n- Bolsillo posterior para reducir fugas.\n- Diseño unisex.\n- Paquete con 16 pañales.\n\nPresentación:\nPaquete con 16 pañales desechables Etapa 2 Chico.\n\nAdvertencias:\nVerifique que la talla corresponda al peso del bebé. Deseche el pañal usado en la basura, no en el inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Suavelastic",
+    "variante": "Unisex",
+    "presentacion": "Paquete",
+    "contenido_neto": 16,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 16,
+    "edad_etapa": "Etapa 2 (5 a 7 kg)",
+    "talla": "Chico",
+    "genero": "Unisex",
+    "otros": "Cubierta transpirable Maxi Suave; BlockGel 3D; Bolsillo posterior anti fugas; Fórmula con aloe vera, vitamina E y manzanilla"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425648610_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/179693-1200-auto?v=638690513769030000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/suavelastic-max-chico-c-16/p",
+      "ancho_original": 947,
+      "alto_original": 947,
+      "lado_final": 906,
+      "fecha": "2026-09-29",
+      "lado_util": 839
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/kbb-suavelastic-panal-e2-chico-paquete-c-16-pz-v1/p",
+    "https://www.klyns.mx/suavelastic-max-chico-c-16/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "EAN 7506425648610 confirmado en dos farmacias (KBB Suavelastic E2 Chico c/16). El rango de peso (5 a 7 kg) viene de una ficha de farmacia; el empaque dice 'Maxi mejorados'. No se abrió el sitio oficial de KleenBebé (403).",
+    "notas_imagenes": "1 foto de tienda (paquete de frente, 906 px, Farmacias Klyns). Se descartó una foto del panel posterior del paquete.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

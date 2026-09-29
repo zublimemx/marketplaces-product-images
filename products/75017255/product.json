@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "SOLUTINA F GOTAS 15 ML BLISTER JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solutina F Gotas Oftálmicas Feniramina Nafazolina 15 ml",
+  "descripcion": "Descripción:\nSolutina F es una solución oftálmica en gotas de Alcon que combina feniramina (un antihistamínico) y nafazolina (un vasoconstrictor). Se utiliza para aliviar el enrojecimiento, la irritación y el malestar ocular. Se presenta en frasco gotero de 15 ml, en empaque blíster.\n\nBeneficios:\n- Ayuda a aliviar el ojo rojo y el ojo irritado.\n- Alivia el malestar ocular causado por irritantes o por alergias leves.\n- Fórmula con dos activos: feniramina y nafazolina.\n- Frasco gotero de 15 ml de fácil aplicación.\n\nComposición:\nSolución oftálmica con feniramina 0.300 g y nafazolina 0.016 g, según indica el empaque.\n\nModo de uso:\nVía oftálmica. Aplique las gotas en el ojo afectado en la cantidad y con la frecuencia que indique el instructivo o su médico. No toque la punta del gotero con los dedos ni con el ojo y cierre bien el frasco después de cada uso.\n\nPresentación:\nEnvase blíster con frasco gotero con 15 ml de solución.\n\nAdvertencias:\nPara uso oftálmico exclusivo; no se ingiera. No lo use si es alérgico a alguno de sus componentes ni si tiene glaucoma de ángulo cerrado, salvo indicación médica. Suspenda su uso y consulte a su médico si el enrojecimiento o la irritación persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Solutina F",
+    "fabricante": "Alcon",
+    "presentacion": "Solución oftálmica en frasco gotero, empaque blíster",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Feniramina, Nafazolina",
+    "concentracion": "0.300 g / 0.016 g (según empaque)",
+    "via_administracion": "Oftálmica",
+    "otros": "Formato: gotas oftálmicas; Uso: ojo rojo, ojo irritado y malestar ocular; GTIN de 8 dígitos (EAN-8)"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75017255_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75017255_1.jpg",
+      "pagina": "https://www.fahorro.com/solutina-f-oftalmico-15-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1318,
+      "fecha": "2026-09-29",
+      "lado_util": 1221
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/solutina-f-oftalmico-15-ml-gotas.html",
+    "https://farmaciasmedina.com/detalleProducto/Solutina-F/75017255",
+    "https://wecarepharma.mx/products/solutina-f-gotas-0-3g-0-016g-15ml-feniramina-nafazolina"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 8 dígitos (75017255) confirmado. Cantidades por referencia del empaque; las fichas de tienda difieren en el formato de la concentración. Instrucciones de dosis no encontradas en línea, se remite al empaque.",
+    "notas_imagenes": "1 foto de tienda con el frente del blíster (1318 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "VIBRAMICINA 100MG CAP C10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vibramicina Doxiciclina 100 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nVibramicina es un antibiótico de Pfizer cuyo principio activo es la doxiciclina (como hiclato), en cápsulas de 100 mg. La doxiciclina es una tetraciclina de amplio espectro que se utiliza en infecciones causadas por diversos microorganismos, entre ellos ricketsias, clamidias, micoplasmas y bacterias grampositivas y gramnegativas. También se indica en el tratamiento de la malaria, la leptospirosis, el cólera y en la profilaxis del ántrax inhalado. Se administra por vía oral y la caja contiene 10 cápsulas. Es un medicamento que requiere receta médica.\n\nBeneficios:\n- Doxiciclina 100 mg por cápsula.\n- Antibiótico de amplio espectro de la familia de las tetraciclinas.\n- Vía oral.\n- Caja con 10 cápsulas.\n\nComposición:\nCada cápsula contiene hiclato de doxiciclina equivalente a 100 mg de doxiciclina.\n\nModo de uso:\nVía oral. En adultos, la dosis habitual comienza con 200 mg el primer día y continúa con 100 mg al día, pero debe ajustarla y supervisarla su médico. Tome las cápsulas con un vaso lleno de agua.\n\nPresentación:\nCaja con 10 cápsulas de 100 mg.\n\nAdvertencias:\nMedicamento de prescripción médica. No lo use si es alérgico a la doxiciclina. Puede causar decoloración permanente de los dientes en menores de 8 años; evítelo durante el embarazo y la lactancia. Suspenda su uso y consulte al médico si aparece diarrea intensa, dolor de cabeza persistente o reacciones graves en la piel. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vibramicina",
+    "fabricante": "Pfizer",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Doxiciclina (hiclato)",
+    "concentracion": "100 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Clasificación: antibiótico (tetraciclina); Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501287631206_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501287631206.jpg",
+      "pagina": "https://www.fahorro.com/vibramicina-100-mg-con-10-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1671,
+      "fecha": "2026-09-29",
+      "lado_util": 1548
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/vibramicina-capsulas/131/101/10371/14",
+    "https://farmalisto.com.mx/antibioticos/5354-vibramicina-100-mg-caja-con-10-capsulas-rx2-7501287631206.html",
+    "https://www.yza.mx/vibramicina-100mg-10-caps/MXYZ_7501287631206.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Indicaciones, dosis y advertencias tomadas de PLM. Antibiótico de venta con receta.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,671 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

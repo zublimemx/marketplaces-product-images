@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "ARDOSONS C20 CAPS INDOMETA BETAMET METOCARB SONS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ardosons Indometacina/Betametasona/Metocarbamol 20 Cápsulas",
+  "descripcion": "Descripción:\nArdosons es un medicamento de Laboratorios Sons en cápsulas que combina tres principios activos: indometacina 25 mg (antiinflamatorio no esteroideo), betametasona 0.75 mg (corticoesteroide) y metocarbamol 215 mg (relajante muscular). De acuerdo con las fichas consultadas, se emplea en el manejo de padecimientos reumáticos, procesos inflamatorios y dolorosos, y en el dolor agudo y crónico asociado a inflamación y tensión muscular. Se administra por vía oral y la caja contiene 20 cápsulas. Es un medicamento que requiere receta médica.\n\nBeneficios:\n- Combinación de antiinflamatorio, corticoesteroide y relajante muscular en una sola cápsula.\n- Indicado en procesos inflamatorios y dolorosos.\n- Vía oral.\n- Caja con 20 cápsulas.\n\nComposición:\nCada cápsula contiene indometacina 25 mg, betametasona 0.75 mg y metocarbamol 215 mg.\n\nModo de uso:\nVía oral. Ingiera las cápsulas con agua, junto con alimentos, en la dosis y durante el tiempo que le indique su médico.\n\nPresentación:\nCaja con 20 cápsulas.\n\nAdvertencias:\nMedicamento de prescripción médica. No lo use si es alérgico a alguno de los componentes de la fórmula, si tiene úlcera gástrica o duodenal activa o insuficiencia renal grave. No se recomienda durante el embarazo ni la lactancia sin indicación médica. El uso prolongado requiere vigilancia médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ardosons",
+    "fabricante": "Sons",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Indometacina, betametasona, metocarbamol",
+    "concentracion": "25 mg / 0.75 mg / 215 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Clasificación: antiinflamatorio con corticoesteroide y relajante muscular; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502001162426_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__12202838-0db2-486c-9d90-c533d2b286be_1200x1200.jpg?v=1744661693",
+      "pagina": "https://wecarepharma.mx/en/products/ardosons-25mg-0-75mg-215mg-con-20-capsulas-indometacina-betametasona-metocarbamol",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1237,
+      "fecha": "2026-09-29",
+      "lado_util": 1146
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/ardosons-25mg-0-75mg-215mg-con-20-capsulas-indometacina-betametasona-metocarbamol",
+    "https://grupofarmapronto.com/producto/indometacina-betametasona-metocarbamol-25-75-215-mg-c-20-capsulas-ardosons-2/",
+    "https://super.walmart.com.mx/ip/indometacina-betametasona-metocarbamol-ardosons-son-s-25-mg-0-75-mg-215-mg-20-pzas/00750200116242"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (el código aparece en la URL de una tienda). Las indicaciones y precauciones vienen de una ficha de tienda, no del laboratorio; no se encontró registro sanitario.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1,237 px). Otra foto de 350 px se rechazó por tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

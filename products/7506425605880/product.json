@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "HUG PULL-UPS NINO XL C/30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Calzón Entrenador Huggies Pull-Ups Niño Talla XL 30 Piezas",
+  "descripcion": "Descripción:\nLos calzones entrenadores desechables Huggies Pull-Ups para niño, talla XL (extra grande, de 17 a 25 kg), acompañan a los pequeños en la transición del pañal al calzoncito. El paquete trae 30 piezas con diseño de Mickey Mouse, pensado para motivar el aprendizaje del uso del baño.\n\nBeneficios:\n- Dibujos que desaparecen al mojarse, para ayudar al niño a reconocer cuándo tuvo un accidente.\n- Sistema elástico en la cintura que sube y baja con facilidad, como un calzoncito de tela.\n- Laterales abre-fácil para cambios rápidos después de un accidente.\n- Absorbencia Huggies para mantener al niño seco de día y de noche.\n- Diseño específico para niño.\n\nPresentación:\nPaquete con 30 calzones entrenadores desechables, talla XL.\n\nModo de uso:\nColoque el calzón como un calzoncito común, subiéndolo por las piernas hasta la cintura. Después de un accidente, retírelo abriendo los laterales abre-fácil. Cámbielo en cuanto se humedezca.\n\nAdvertencias:\nProducto desechable de un solo uso; no se lave ni se reutilice. Deséchelo en la basura, sin tirarlo al inodoro. Mantenga el empaque fuera del alcance de los niños y consulte al pediatra si observa irritación en la piel.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Pull-Ups",
+    "variante": "Calzón entrenador desechable",
+    "presentacion": "Paquete con 30 piezas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "edad_etapa": "Entrenamiento para dejar el pañal",
+    "talla": "XL (Extra Grande, 17 a 25 kg)",
+    "genero": "Niño",
+    "otros": "Diseño: Mickey Mouse; Dibujos que desaparecen al mojarse; Laterales abre-fácil; Uso: día y noche"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425605880_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/315757/315757_01.webp?v=a665a9f5",
+      "pagina": "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nino-30-pz-710991/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 575,
+      "fecha": "2026-09-29",
+      "lado_util": 533
+    },
+    {
+      "archivo": "7506425605880_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/315757/315757_02.webp?v=0a343048",
+      "pagina": "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nino-30-pz-710991/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 586,
+      "fecha": "2026-09-29",
+      "lado_util": 543
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nino-30-pz-710991/p",
+    "https://www.walmart.com.mx/ip/calzon-entrenador-huggies-pull-ups-talla-extra-grande-nino-30-pzas/00750642560588",
+    "https://www.chedraui.com.mx/calzones-entrenadores-huggies-pull-ups-talla-extra-grande-para-ninos-30-calzones-3584045/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Rango de peso 17-25 kg leído del empaque. Fabricante Kimberly-Clark inferido de la marca Huggies (no aparece en las fichas). Modo de uso redactado con criterio general del producto.",
+    "notas_imagenes": "2 fotos de tienda (frente y reverso del paquete, ambas de unos 600 px; no se halló mayor resolución). Se descartó una infografía con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

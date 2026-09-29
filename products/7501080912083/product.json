@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "STERIMAR SOLUCION C 50 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Stérimar Uso Diario Solución Nasal Agua de Mar 50 ml",
+  "descripcion": "Descripción:\nStérimar Uso Diario es una solución humectante nasal de agua de mar 100% natural, en spray de 50 ml. Está pensada para la higiene y humectación nasal diaria de toda la familia: ayuda a mejorar la respiración, restaura la humedad natural de la mucosa y libera las secreciones cuando hay resfriado, infecciones o alergias. También es coadyuvante en la sequedad nasal por rinitis.\n\nBeneficios:\n- Higiene y humectación de las fosas nasales de uso diario.\n- Ayuda a liberar las secreciones nasales.\n- Microdifusión que prolonga el contacto con la mucosa nasal.\n- Solución fisiológica: agua de mar equivalente a 0.9% de cloruro de sodio.\n- Aproximadamente 150 atomizaciones por envase.\n\nComposición:\nAgua de mar (equivalente a 0.9% de NaCl) y agua purificada cbp 50 ml.\n\nModo de uso:\nDe 3 a 6 aplicaciones por día en cada fosa nasal, o según la indicación de su médico. Vía nasal, mediante spray presurizado.\n\nPresentación:\nEnvase spray de 50 ml.\n\nAdvertencias:\nContenido bajo presión: no perforar ni quemar, y no exponer a temperaturas superiores a 50 °C. Evite el contacto con los ojos. No se conocen contraindicaciones hasta la fecha. En bebés, nunca coloque la cabeza hacia atrás al aplicar. Manténgase fuera del alcance de los niños. Lea las instrucciones del empaque. Consulte a su médico.",
+  "ficha": {
+    "marca": "Stérimar",
+    "fabricante": "Church & Dwight",
+    "linea": "Uso Diario",
+    "variante": "Solución de agua de mar",
+    "presentacion": "Spray nasal",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Agua de mar (equivalente a 0.9% de NaCl)",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Toda la familia",
+    "otros": "Aproximadamente 150 atomizaciones; Microdifusión; Solución 100% natural de agua de mar"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080912083_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080912083_1_2.jpg",
+      "pagina": "https://www.fahorro.com/sterimar-agua-de-mar-uso-diario-50-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1617,
+      "fecha": "2026-09-29",
+      "lado_util": 1498
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/sterimar-uso-diario-solucion-spray/2521/101/65788/185",
+    "https://www.fahorro.com/sterimar-agua-de-mar-uso-diario-50-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de composición y uso tomados de la ficha PLM de Stérimar Uso Diario 50 ml; la foto (con GTIN en el nombre del archivo) corresponde a esa misma presentación.",
+    "notas_imagenes": "1 foto de tienda: caja y spray de frente (Farmacias del Ahorro, 1600 px). Se descartó una segunda foto de diseño de caja distinto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

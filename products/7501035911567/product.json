@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP II 50ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Máxima Protección Anticaries 50 ml",
+  "descripcion": "Descripción:\nColgate Máxima Protección Anticaries es una crema dental con flúor, en su versión de sabor original mentolado y con fórmula Calci-Protect. Ayuda a proteger el esmalte contra las caries y deja una sensación de aliento fresco después del cepillado. Viene en tubo práctico de 50 ml, ideal para llevar de viaje o para uso personal.\n\nBeneficios:\n- Protección anticaries diaria gracias a su contenido de flúor.\n- Fórmula Calci-Protect para reforzar la protección del esmalte.\n- Sabor original mentolado que deja un aliento fresco.\n- Tubo de 50 ml fácil de guardar y de transportar.\n\nIngredientes:\nContiene monofluorofosfato de sodio (MFP) como fuente de flúor. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nAplique una porción de crema dental sobre el cepillo y cepille todos los dientes y encías, de preferencia después de cada alimento o según las indicaciones de su odontólogo. Escupa el exceso y enjuague la boca.\n\nPresentación:\nTubo de 50 ml.\n\nAdvertencias:\nNo se ingiera. Los niños pequeños deben cepillarse con supervisión de un adulto y usar solo una pequeña cantidad de crema dental. Si se ingiere accidentalmente más de lo usado para el cepillado, busque ayuda médica. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "Original",
+    "presentacion": "Tubo",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Monofluorofosfato de sodio",
+    "sabor_aroma": "Menta original",
+    "otros": "Tecnología: Calci-Protect; Uso: protección anticaries; Nombre del sistema: MFP II"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911567_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035911567.jpg",
+      "pagina": "https://www.fahorro.com",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1526,
+      "fecha": "2026-09-29",
+      "lado_util": 1413
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/crema-dental-colgate-maxima-proteccion-anticaries-original-50-ml/00750103591156",
+    "https://www.farmatodo.com.mx/colgate-pasta-dental-mfp-tubo-c-50-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'MFP II' del sistema corresponde a Colgate Máxima Protección Anticaries Original de 50 ml (GTIN confirmado). Se usó el sabor mentolado indicado en fichas de tienda.",
+    "notas_imagenes": "1 foto de tienda con el frente del tubo (1526 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

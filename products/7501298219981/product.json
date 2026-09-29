@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "FLORATIL 250MG CAP 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Floratil Saccharomyces boulardii 250 mg 12 Cápsulas",
+  "descripcion": "Descripción:\nFloratil es un probiótico antidiarreico de origen natural que contiene la levadura Saccharomyces boulardii CNCM I-745, de Biocodex. Está indicado en diarrea de cualquier tipo, aguda o crónica, en el tratamiento de la diarrea asociada al uso de antibióticos, en la diarrea del viajero y como restaurador de la flora intestinal. También se emplea de forma preventiva en diarreas asociadas a la terapia con antibióticos.\n\nFórmula:\nCada cápsula contiene Saccharomyces boulardii (CNCM I-745) 282.50 mg, equivalente a 250 mg de células vivas. Excipiente cbp 1 cápsula. Excipiente con efecto notorio: lactosa.\n\nModo de uso:\n- Vía oral.\n- Diarrea aguda en adultos: 1 a 2 cápsulas al día, distribuidas en dos tomas (mañana y noche); según la gravedad puede aumentarse hasta 1 cápsula de 250 mg cuatro veces al día. Dosis máxima: 1 g al día.\n- Niños de 12 años en adelante: 1 cápsula dos veces al día.\n- Diarrea crónica y prevención de diarreas por antibióticos: 1 a 2 cápsulas al día, en dos tomas.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\n- No se recomienda en menores de 12 años.\n- No lo use si es alérgico a las levaduras, en especial a Saccharomyces boulardii, ni en pacientes con catéter venoso central o periférico, críticamente enfermos o severamente inmunocomprometidos.\n- No se administre junto con un tratamiento antifúngico; no lo mezcle con bebidas o alimentos muy calientes (más de 50 °C), helados o con alcohol.\n- El uso durante el embarazo y la lactancia debe ser bajo prescripción médica.\n- Reacciones ocasionales: flatulencia, meteorismo y estreñimiento.\n- Si las molestias persisten por más de 5 días, consulte a su médico. Conserve a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Floratil",
+    "fabricante": "Biocodex",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Saccharomyces boulardii CNCM I-745",
+    "concentracion": "250 mg de células vivas (282.50 mg de liofilizado)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños desde 12 años",
+    "registro_sanitario": "160M82 SSA VI",
+    "otros": "Probiótico antidiarreico; Contiene lactosa; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298219981_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwfed29a4a/images/large/P12/7501298219981_2.jpg",
+      "pagina": "https://www.yza.mx/floratil-250mg-12-caps/MXYZ_7501298219981.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 987,
+      "fecha": "2026-09-29",
+      "lado_util": 914
+    },
+    {
+      "archivo": "7501298219981_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwcf6d6c76/images/large/P12/7501298219981_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/floratil-250mg-12-caps/MXYZ_7501298219981.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 990,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    },
+    {
+      "archivo": "7501298219981_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298219981_2.jpg",
+      "pagina": "https://www.yza.mx/floratil-250mg-12-caps/MXYZ_7501298219981.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1324,
+      "fecha": "2026-09-29",
+      "lado_util": 1226
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/floratil-250mg-12-caps/MXYZ_7501298219981.html",
+    "https://www.benavides.com.mx/floratil-250-mg-saccharomyces-boulardii-probioticos-12-capsulas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de Yza (Floratil 250 mg, 12 cápsulas) y por el SKU de otra tienda. La fórmula, la dosis y las advertencias se copiaron de la etiqueta de la parte posterior de la caja (fotos de tienda). La ficha de Yza lo lista con Merck como laboratorio; la caja indica Biocodex.",
+    "notas_imagenes": "3 fotos de tienda (frente, parte posterior con la etiqueta completa y ángulo de la caja de 12 cápsulas, más de 980 px) de Yza y Farmacias del Ahorro. Se borró una foto con el texto legal ilegible.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

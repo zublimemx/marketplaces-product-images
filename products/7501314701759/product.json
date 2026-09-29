@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "FOSFOCIL C6 CAP 500MG AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fosfocil Fosfomicina 500 mg 6 Cápsulas",
+  "descripcion": "Descripción:\nFosfocil es un antibiótico con fosfomicina cálcica en cápsulas de 500 mg, de Laboratorios Senosiain (línea Cetus). Está indicado en infecciones causadas por gérmenes sensibles a la fosfomicina, como infecciones respiratorias (amigdalitis, faringitis, sinusitis, bronquitis), infecciones urinarias complicadas y no complicadas (cistitis, pielonefritis, uretritis), infecciones de la piel y tejidos blandos, e infecciones gastrointestinales. Su uso y la duración del tratamiento deben ser determinados por un médico.\n\nFórmula:\nCada cápsula contiene fosfomicina cálcica monohidratada equivalente a 500 mg de fosfomicina. Excipiente cbp 1 cápsula.\n\nModo de uso:\n- Vía oral.\n- Adultos y niños con más de 40 kg: 1 cápsula cada 6 horas o 2 cápsulas cada 8 horas.\n- La dosis y la duración las señala su médico; complete el tratamiento indicado.\n\nPresentación:\nCaja con 6 cápsulas de 500 mg.\n\nAdvertencias:\n- Antibiótico: su venta requiere receta médica.\n- No lo use si tiene hipersensibilidad a la fosfomicina o a algún componente de la fórmula.\n- Consérvese a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fosfocil",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Cetus",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 6,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Fosfomicina (como fosfomicina cálcica monohidratada)",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "84969 SSA IV",
+    "otros": "Grupo: antibiótico; Requiere receta médica; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701759_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701759_3.jpg",
+      "pagina": "https://www.fahorro.com/fosfocil-500-mg-oral-6-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1359,
+      "fecha": "2026-09-29",
+      "lado_util": 1259
+    },
+    {
+      "archivo": "7501314701759_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701759_1.jpg",
+      "pagina": "https://www.fahorro.com/fosfocil-500-mg-oral-6-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1343,
+      "fecha": "2026-09-29",
+      "lado_util": 1244
+    },
+    {
+      "archivo": "7501314701759_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701759_2.jpg",
+      "pagina": "https://www.fahorro.com/fosfocil-500-mg-oral-6-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1469,
+      "fecha": "2026-09-29",
+      "lado_util": 1361
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/fosfocil.capsulas/168/63/7824/14",
+    "https://vitau.mx/fosfocil-500mg-caja-con-6-capsulas-8858",
+    "https://www.fahorro.com/fosfocil-500-mg-oral-6-capsulas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el código de barras de la parte posterior de la caja (7 501314 701759). La información para prescribir de PLM confirma fórmula, indicaciones, dosis, Senosiain y 'Su venta requiere receta médica' con el registro 84969 SSA IV, que coincide con la caja. La página de Farmacias del Ahorro respondió con bloqueo al leer el texto, pero sirvió para las fotos. Antibiótico: se colocó en venta libre por instrucción del dueño.",
+    "notas_imagenes": "3 fotos de tienda del servidor de imágenes de Farmacias del Ahorro (frente, parte posterior con código de barras y ángulo de la caja de 6 cápsulas, más de 1340 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

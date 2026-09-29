@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "PERIOXIDIN COLUTORIO 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enjuague Bucal Lacer Perioxidin Clorhexidina 0.12% 200 ml",
+  "descripcion": "Descripción:\nPerioxidin de Lacer es un enjuague bucal con digluconato de clorhexidina al 0.12 %, adicionado con xilitol y sin alcohol, de sabor agradable. Está formulado para mantener y controlar la salud bucodental, prevenir la gingivitis y la formación de placa dental bacteriana, y se usa como coadyuvante en el tratamiento de la enfermedad periodontal (gingivitis y periodontitis).\n\nBeneficios:\n- Control activo de la placa dental\n- Coadyuvante en el tratamiento de gingivitis y periodontitis\n- Fórmula sin alcohol\n- Con xilitol y sabor agradable\n- Frasco de 200 ml\n\nComposición:\nDigluconato de clorhexidina al 0.12 % y xilitol, en solución sin alcohol.\n\nModo de uso:\nDespués del cepillado dental, enjuague la boca durante un minuto con 15 ml del producto sin diluir.\n\nPresentación:\nFrasco con 200 ml de enjuague bucal.\n\nAdvertencias:\nNo se ingiera. Manténgase fuera del alcance de los niños. Conservar a menos de 30 °C.",
+  "ficha": {
+    "marca": "Lacer",
+    "fabricante": "Lacer",
+    "linea": "Perioxidin",
+    "presentacion": "Frasco con 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Digluconato de clorhexidina",
+    "concentracion": "0.12%",
+    "via_administracion": "Bucal (enjuague)",
+    "sabor_aroma": "Agradable",
+    "registro_sanitario": "2256C2024 SSA",
+    "otros": "Sin alcohol; Con xilitol; Importado y distribuido en México por Digrimex, S.A. de C.V."
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501043162074_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw60842029/images/large/7501043162074_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/perioxidin-enjuague-bucal-sin-alcohol-200ml/MXYZ_7501043162074.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 887,
+      "fecha": "2026-09-29",
+      "lado_util": 822
+    },
+    {
+      "archivo": "7501043162074_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7e9ba877/images/large/7501043162074_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/perioxidin-enjuague-bucal-sin-alcohol-200ml/MXYZ_7501043162074.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 926,
+      "fecha": "2026-09-29",
+      "lado_util": 857
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Lacer_Perioxidin_Enjuague_Bucal_Con_Clorhexidina/7501043162074",
+    "https://www.yza.mx/perioxidin-enjuague-bucal-sin-alcohol-200ml/MXYZ_7501043162074.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso, precauciones y registro leídos en la foto del reverso del empaque (código de barras 7501043162074 visible). No accesible el sitio del fabricante.",
+    "notas_imagenes": "2 fotos de tienda (887 y 926 px): frente y reverso del empaque con etiqueta legible.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

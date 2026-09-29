@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE TOTAL12 CLEAN MINT 50ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Total 12 Clean Mint 50 ml",
+  "descripcion": "Descripción:\nColgate Total 12 Clean Mint es una crema dental anticaries con flúor, en presentación de 50 ml, que ofrece salud bucal completa con su nueva fórmula. Según su empaque, ayuda a reducir las bacterias en los dientes, la lengua, las mejillas y las encías, y cuida aspectos como caries, esmalte, placa, encías, mal aliento, sarro, blanqueamiento y sensibilidad. Con sabor menta fresca (Clean Mint).\n\nBeneficios:\n- Crema dental anticaries con flúor\n- Reduce las bacterias en dientes, lengua, mejillas y encías\n- Cuidado de caries, esmalte, placa, encías y sarro\n- Ayuda contra el mal aliento\n- Sabor Clean Mint\n- Tamaño de 50 ml, práctico para llevar\n\nModo de uso:\nColoque una porción de crema dental sobre el cepillo y cepille dientes, encías y lengua; después enjuague la boca con agua. Se recomienda cepillarse después de cada comida o, al menos, dos veces al día.\n\nPresentación:\nTubo de 50 ml en caja.\n\nAdvertencias:\nUso exclusivo para higiene bucal; no se ingiera. En niños pequeños use solo una pequeña cantidad y supervise el cepillado para evitar que la traguen. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Total 12",
+    "variante": "Clean Mint",
+    "presentacion": "Tubo de 50 ml",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta (Clean Mint)",
+    "otros": "Crema dental anticaries con flúor; Salud bucal completa; Nueva fórmula"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546007083_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7509546007083.png?v=1726161816&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/crema-dental-colgate-total-12-clean-mint-50-ml",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 461
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://grupofarmapronto.com/producto/colgate-total-12-clean-mint-50-ml-crema-dental/",
+    "https://farmaciaherrera.com.mx/products/crema-dental-colgate-total-12-clean-mint-50-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos tiendas. Sin ingredientes ni modo de uso accesibles (el sitio de Colgate México bloqueó el acceso), por eso la descripción se basa en los textos visibles del empaque y es corta. Las secciones de modo de uso y advertencias son indicaciones generales de uso seguro del tipo de producto, no textos copiados de la etiqueta.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda, 540 px; el origen es de 500 px, no encontré una de mayor resolución). Descarté una foto del empaque anterior de menor tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

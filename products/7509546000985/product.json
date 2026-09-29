@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE TRIP-AC75ML PESP NOV26",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Triple Acción Menta Original 75 ml",
+  "descripcion": "Descripción:\nCrema dental con flúor Colgate Triple Acción sabor menta original, en tubo de 75 ml. Es una pasta dental para toda la familia con tres beneficios en una sola fórmula: protección anticaries, dientes blancos y aliento fresco, según se indica en su empaque.\n\nBeneficios:\n- Protección anticaries gracias a su contenido de flúor, que ayuda a fortalecer los dientes desde la primera aplicación, según la información del producto.\n- Ayuda a mantener los dientes blancos.\n- Aliento fresco por más tiempo con su sabor menta original.\n- Sensación de frescura y limpieza bucal después de cada cepillado.\n\nModo de uso:\nAplique sobre el cepillo dental una cantidad de crema del tamaño de un chícharo y cepille todos los dientes, las encías y la lengua durante dos minutos, al menos dos veces al día. Escupa el exceso y enjuague la boca con agua.\n\nPresentación:\nCaja con un tubo de 75 ml (99 g).\n\nAdvertencias:\n- No se ingiera. Supervise el cepillado de los niños pequeños y use solo una cantidad mínima de crema.\n- Manténgase fuera del alcance de los niños.\n- Visite a su dentista al menos dos veces al año.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Triple Acción",
+    "variante": "Menta original",
+    "presentacion": "Tubo de crema dental",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta original",
+    "otros": "Crema dental con flúor; Peso neto: 99 g; Protección anticaries, dientes blancos y aliento fresco; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546000985_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546000985.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1621,
+      "fecha": "2026-09-29",
+      "lado_util": 1500
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/colgate-triple-accion-crema-dental-75ml/MXYZ_7509546000985.html",
+    "https://farmalisto.com.mx/pasta-de-dientes/12441-comprar-colgate-triple-accion-c-75-ml-precio-7509546000985.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas; contenido (75 ml / 99 g) y beneficios tomados de la foto del empaque. No se encontró la lista de ingredientes ni la concentración de flúor; el modo de uso es el estándar de una pasta dental.",
+    "notas_imagenes": "1 foto de tienda de frente del empaque. Se borró una segunda con la leyenda \"Nueva imagen\".",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

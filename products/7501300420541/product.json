@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "ALIREN C24 TABS 144 MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aliren Antigripal 50/3/300 mg 24 Cápsulas",
+  "descripcion": "Descripción:\nAliren es un antigripal en cápsulas que combina amantadina, clorfenamina y paracetamol. Está indicado para el tratamiento sintomático de la gripe: actúa contra el virus que la causa y alivia los síntomas del resfriado común como fiebre, cuerpo cortado, estornudos y escurrimiento nasal. Lo fabrica Siegfried Rhein y se presenta en caja con 24 cápsulas.\n\nBeneficios:\n- Tres principios activos en una sola cápsula para atender varios síntomas de la gripe.\n- Ayuda a aliviar fiebre, cuerpo cortado, estornudos y escurrimiento nasal.\n- Esquema cómodo: una cápsula cada 8 horas.\n\nComposición:\nCada cápsula contiene: clorhidrato de amantadina 50 mg, maleato de clorfenamina 3 mg y paracetamol 300 mg. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: tomar una cápsula cada 8 horas. Se recomienda iniciar la administración desde el inicio de los síntomas.\n\nPresentación:\nCaja con 24 cápsulas.\n\nAdvertencias:\nNo se administre a menores de 12 años ni durante el embarazo o la lactancia. No lo use por más de 5 días. Está contraindicado en personas con antecedentes de enfermedad mental o nerviosa, epilepsia, crisis convulsivas o padecimientos graves de hígado o riñón. En mayores de 65 años solo debe administrarse con valoración médica. Puede producir somnolencia y afectar el estado de alerta, por lo que no debe conducir vehículos ni operar maquinaria pesada durante su uso. Conserve a no más de 30 °C. Si persisten las molestias consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aliren",
+    "fabricante": "Siegfried Rhein",
+    "presentacion": "Cápsulas, caja con 24",
+    "contenido_neto": 24,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Clorhidrato de amantadina, maleato de clorfenamina, paracetamol",
+    "concentracion": "Por cápsula: amantadina 50 mg; clorfenamina 3 mg; paracetamol 300 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "198M2017 SSA",
+    "otros": "Condición de venta: sin receta; Conservación: no más de 30 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300420541_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/_/7_501300420541_1.jpg",
+      "pagina": "https://www.fahorro.com/aliren-antigripal-24-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1446,
+      "fecha": "2026-09-29",
+      "lado_util": 1339
+    },
+    {
+      "archivo": "7501300420541_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa0a71866/images/large/7501300420541_7.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/aliren-50mg3mg300mg-24-caps/MXYZ_7501300420541.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 907,
+      "fecha": "2026-09-29",
+      "lado_util": 838
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/aliren-antigripal-24-capsulas.html",
+    "https://farmalisto.com.mx/gripe-y-tos/35399-aliren-50-mg-3mg-300-mg-caja-con-24-capsulas-7501300420541.html",
+    "https://www.yza.mx/aliren-50mg3mg300mg-24-caps/MXYZ_7501300420541.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice TABS pero el producto es en cápsulas (caja con 24). Fórmula y advertencias tomadas del contraempaque; registro 198M2017 SSA según ficha de farmacia.",
+    "notas_imagenes": "2 fotos de tienda: caja de tres cuartos (Farmacias del Ahorro, 1600 px) y contraempaque con la fórmula (Yza, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

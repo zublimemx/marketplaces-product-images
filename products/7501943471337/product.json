@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM KBB ABSORSEC C/90",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas KleenBebé Absorsec 90 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas KleenBebé Absorsec para la limpieza diaria del bebé, en paquete con 90 piezas. Son hipoalergénicas, no contienen parabenos ni alcohol y se elaboran con fibras naturales, vitamina E y un suave aroma a manzanilla, para limpiar con delicadeza la piel del bebé en cada cambio de pañal. El paquete de 90 piezas es ideal para tener siempre a la mano en casa, en la pañalera o de viaje.\n\nBeneficios:\n- Hipoalergénicas, sin parabenos y sin alcohol.\n- Con vitamina E y fibras naturales.\n- Suave aroma a manzanilla.\n- Limpieza delicada en cada cambio de pañal.\n- Paquete con 90 toallitas húmedas.\n\nIngredientes:\nCon manzanilla, aloe vera y vitamina E, según la ficha técnica del producto.\n\nModo de uso:\nExtraiga una toallita del paquete y limpie suavemente la piel del bebé. Después de cada uso cierre bien el empaque para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 90 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. No arroje las toallitas al inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Absorsec",
+    "presentacion": "Paquete",
+    "contenido_neto": 90,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "sabor_aroma": "Manzanilla",
+    "otros": "Hipoalergénicas; Sin parabenos; Sin alcohol; Con vitamina E y fibras naturales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943471337_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/289700-1000-1000/7501943471337.jpg?v=638055200207530000",
+      "pagina": "https://www.lagranbodega.com.mx/toallas-humedas-kleenbebe-absorsec-90-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1051,
+      "fecha": "2026-09-29",
+      "lado_util": 974
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/bebes/7189-comprar-toallitas-humedas-kleen-bebe-absorsec-empaque-con-90-piezas-precio.html",
+    "https://www.klyns.mx/t-hum-absorsec-c-90/p",
+    "https://www.lagranbodega.com.mx/toallas-humedas-kleenbebe-absorsec-90-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "EAN 7501943471337 confirmado en ficha de farmacia (Absorsec 90 toallitas, manzanilla). Sitio de KleenBebé bloqueado (403).",
+    "notas_imagenes": "1 foto de tienda (paquete de frente, 1,000 px). Otra imagen candidata no se pudo descargar.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

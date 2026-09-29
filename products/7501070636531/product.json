@@ -4,29 +4,68 @@
   "linea": "Farma",
   "nombre_sistema": "OMURO TAB C30 40MG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Omuro Bromuro de Otilonio 40 mg 30 Tabletas",
+  "descripcion": "Descripción:\nOmuro es un medicamento de Laboratorios Sanfer cuyo principio activo es el bromuro de otilonio, un antiespasmódico de acción digestiva. Está indicado en estados espasmódicos y discinesias del canal digestivo, como el colon irritable, la gastritis, la gastroduodenitis, la enteritis y las afecciones esofágicas. Esta presentación contiene 30 tabletas de 40 mg de administración oral.\n\nCaracterísticas:\n- Principio activo: bromuro de otilonio.\n- Concentración de 40 mg por tableta.\n- Caja con 30 tabletas.\n- Administración por vía oral.\n\nComposición:\nCada tableta contiene bromuro de otilonio 40 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique el médico o el empaque del producto.\n\nPresentación:\nCaja con 30 tabletas de 40 mg.\n\nAdvertencias:\nNo se automedique. Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Omuro",
+    "fabricante": "Laboratorios Sanfer",
+    "presentacion": "Tabletas, caja con 30",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Bromuro de otilonio",
+    "concentracion": "40 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antiespasmódico digestivo; Condición de venta: sin receta según una ficha de farmacia"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473343"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070636531_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw0e64ec7f/images/large/7501070636531_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/omuro-40mg-30-tabs/MXYZ_7501070636531.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1047,
+      "fecha": "2026-09-29",
+      "lado_util": 970
+    },
+    {
+      "archivo": "7501070636531_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/OMURO.png?v=1725466639",
+      "pagina": "https://www.yza.mx/omuro-40mg-30-tabs/MXYZ_7501070636531.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1140,
+      "fecha": "2026-09-29",
+      "lado_util": 1056
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/omuro-40mg-30-tabs/MXYZ_7501070636531.html",
+    "https://sanorim.mx/products/omuro-bromuro-de-otilonio-40-mg-caja-con-30-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una ficha lo marca 'venta sin receta'; no se pudo confirmar en el empaque, por eso 'Revisar'. Posología no encontrada. Catálogo ML por coincidencia exacta de título en resultados (página no abierta).",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja (Yza, 1000 px) y caja de tres cuartos (Sanorim, 1200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

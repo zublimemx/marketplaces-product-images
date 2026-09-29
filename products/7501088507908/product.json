@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "SUMA B SOL INY",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Suma-B Solución Inyectable 2 ml 5 Ampolletas con Jeringas",
+  "descripcion": "Descripción:\nSuma-B es una solución inyectable que combina tres vitaminas del complejo B: tiamina (B1), piridoxina (B6) e hidroxocobalamina (B12). Se clasifica como complemento vitamínico y se presenta en una caja con 5 ampolletas de 2 ml y 5 jeringas desechables con aguja, listas para su aplicación por vía intramuscular.\n\nCaracterísticas:\n- Complemento vitamínico inyectable con vitaminas B1, B6 y B12.\n- Clasificado como antineurítico y hematopoyético.\n- Cada caja incluye 5 ampolletas de 2 ml y 5 jeringas desechables con aguja.\n- Vía de administración intramuscular.\n\nFórmula:\n- Tiamina (vitamina B1): 100 mg por ampolleta de 2 ml\n- Piridoxina (vitamina B6): 50 mg por ampolleta de 2 ml\n- Hidroxocobalamina equivalente a 10,000 mcg (10 mg) de vitamina B12 por ampolleta de 2 ml\n\nModo de uso:\nVía intramuscular profunda. Debe aplicarlo personal de salud capacitado, con la dosis y la frecuencia indicadas por el médico.\n\nPresentación:\nCaja con 5 ampolletas de 2 ml y 5 jeringas desechables con aguja.\n\nAdvertencias:\nUso exclusivo por vía intramuscular. No lo use si es alérgico a alguno de los componentes de la fórmula. Consulte a su médico antes de usarlo durante el embarazo o la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Suma-B",
+    "fabricante": "Chinoin",
+    "presentacion": "Solución inyectable, caja con 5 ampolletas y 5 jeringas desechables",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 5,
+    "principio_activo": "Tiamina, Piridoxina, Hidroxocobalamina",
+    "concentracion": "100 mg / 50 mg / 10,000 mcg por ampolleta de 2 ml",
+    "via_administracion": "Intramuscular",
+    "otros": "Contenido: 5 ampolletas de 2 ml y 5 jeringas desechables con aguja; Vitaminas B1, B6 y B12"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48919088"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088507908_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw59c9c53f/images/large/7501088507908_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/suma-b-jeringas-desechables-5-amp-x-2ml/MXYZ_7501088507908.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1048,
+      "fecha": "2026-09-29",
+      "lado_util": 971
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/suma-b-jeringas-desechables-5-amp-x-2ml/MXYZ_7501088507908.html",
+    "https://www.klyns.mx/suma-b-con-5-jeringas-de-2ml/p",
+    "https://www.vademecum.es/mexico/medicamento/1342809/suma-b-solucion-inyectable-100-mg-50-mg-10-mg-2-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula tomada del empaque (100 mg/50 mg/10,000 mcg por 2 ml); una ficha de vademécum dio otras cifras y se descartó. Catálogo ML por coincidencia exacta de título (5 ampolletas y 5 jeringas). Al ser inyectable puede requerir receta en México; no se confirmó, por eso 'Revisar'. Categoría de suplementos por regla de vitaminas; si ML lo trata como medicamento, usar 'Para la Sangre' o 'Sistema Nervioso'.",
+    "notas_imagenes": "1 foto de tienda con el frente de la caja (1000 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

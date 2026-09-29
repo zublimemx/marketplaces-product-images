@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "SUAVE MED E3 C/14",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales KleenBebé Suavelastic Etapa 3 Mediano 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables KleenBebé Suavelastic Etapa 3, talla Mediano (M), para bebés de 7 a 10 kg. Bajo el lema \"pompis secas son pompis sanas\", ofrecen maxi sequedad con Blockgel 4D, maxi cuidado con protección dermatológicamente certificada y maxi ajuste con 4 puntos de agarre y cintas estirables. El paquete incluye 14 pañales, una presentación práctica para probar o para llevar.\n\nCaracterísticas:\n- Etapa 3, talla Mediano (M), para bebés de 7 a 10 kg\n- Maxi sequedad con Blockgel 4D\n- Maxi cuidado: dermatológicamente certificado\n- Maxi ajuste con 4 puntos de agarre y cintas estirables\n- Diseño unisex\n\nModo de uso:\nColoque el pañal ajustando las cintas estirables a la cintura del bebé para que quede cómodo y sin apretar. Cámbielo con frecuencia y siempre que esté mojado o sucio; después de usarlo, envuélvalo y deséchelo en la basura.\n\nPresentación:\nPaquete con 14 pañales desechables Etapa 3 Mediano.\n\nAdvertencias:\nMantenga el producto y sus empaques fuera del alcance de los niños. No deje al bebé sin supervisión durante el cambio de pañal. No arroje el pañal usado al inodoro.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "KleenBebé",
+    "linea": "Suavelastic",
+    "presentacion": "Paquete con 14 pañales",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 14,
+    "edad_etapa": "Etapa 3 (7 a 10 kg)",
+    "talla": "Mediano (M)",
+    "genero": "Unisex",
+    "otros": "Blockgel 4D; Dermatológicamente certificado; 4 puntos de agarre y cintas estirables; Peso del bebé: 7 a 10 kg"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017376971_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/307062-1000-1000/7501017376971.jpg?v=639060070661330000",
+      "pagina": "https://www.lagranbodega.com.mx/kleen-bebe-suavelastic-max-med-14-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 895,
+      "fecha": "2026-09-29",
+      "lado_util": 829
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://superfenix.mx/producto/panales-para-bebe-kleenbebe-suavelastic-etapa-3-mediano-unisex-14-piezas/",
+    "https://farmaciasanjorge.com/products/14507",
+    "https://www.lagranbodega.com.mx/kleen-bebe-suavelastic-max-med-14-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'SUAVE MED E3 C/14' se identificó como Suavelastic Mediano Etapa 3 de 14 piezas por el GTIN 7501017376971 en varias tiendas, sin usar búsquedas extra. Datos técnicos leídos del empaque actual; el sitio del fabricante bloqueó el acceso. Las secciones de modo de uso y advertencias son indicaciones generales de uso seguro del tipo de producto, no textos copiados de la etiqueta.",
+    "notas_imagenes": "1 foto de frente del empaque actual (895 px, tienda). Descarté dos fotos de diseños anteriores del mismo GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

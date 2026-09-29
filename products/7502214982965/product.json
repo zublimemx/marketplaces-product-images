@@ -4,29 +4,67 @@
   "linea": "Farma",
   "nombre_sistema": "PRUDENCE VITRO C100 CLASICO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Prudence Clásico Lubricados Vitrolero 100 Piezas",
+  "descripcion": "Descripción:\nCondones Prudence Clásico, preservativos masculinos de hule látex natural lubricados, en presentación de vitrolero (bote) con 100 piezas. La línea Prudence Clásico ofrece una sensación de sedosidad placentera y una protección confiable en cada uso.\n\nCaracterísticas:\n- Condón masculino de hule látex natural lubricado\n- Ligero aroma a vainilla que evita el olor a látex\n- Cuentan con calificaciones FDA, CE e ISO (línea Prudence Clásico)\n- Vitrolero con 100 condones, ideal para uso institucional, consultorios, campañas de salud y distribución\n\nPresentación:\nVitrolero con 100 condones masculinos lubricados.",
+  "ficha": {
+    "marca": "Prudence",
+    "linea": "Clásico",
+    "variante": "Clásico lubricado",
+    "presentacion": "Vitrolero con 100 condones",
+    "contenido_neto": 100,
+    "unidad_contenido": "condones",
+    "unidades_por_envase": 100,
+    "sabor_aroma": "Vainilla (ligero)",
+    "otros": "Material: hule látex natural; Lubricado; Formato de venta: vitrolero (bote) con 100 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19543731"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214982965_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502214982965_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1664,
+      "fecha": "2026-09-29",
+      "lado_util": 1540
+    },
+    {
+      "archivo": "7502214982965_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502214982965.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1358,
+      "fecha": "2026-09-29",
+      "lado_util": 1258
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/salud-sexual/22494-comprar-preservativo-prudence-vitrolero-clasico-con-100-piezas-precio-7502214982965.html",
+    "https://www.chedraui.com.mx/condon-de-latex-prudence-clasico-1-condon-3527660/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Prudence Clásico vitrolero de 100 piezas en una farmacia (una tienda asocia el GTIN a un condón individual). 'catalogo_ml' se dedujo del título del resultado 'Prudence Clásico con 100 condones vitrolero' sin poder abrirlo (Mercado Libre bloquea el acceso). El fabricante no se encontró.",
+    "notas_imagenes": "2 fotos de Farmacias del Ahorro (1600 px): vitrolero de 100 condones en dos diseños de etiqueta; su ficha no se pudo abrir y las imágenes salen de su CDN por GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

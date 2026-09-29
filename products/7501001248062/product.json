@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "VICK INHALADOR C 12 AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vick VapoRub Inhalador Nasal Caja con 12 Piezas",
+  "descripcion": "Descripción:\nVick VapoRub Inhalador es un inhalador nasal portátil de mentol y alcanfor para el alivio de la congestión nasal. Su formato de barra permite usarlo en cualquier lugar, aspirando directamente por la nariz. La caja incluye 12 inhaladores individuales de 0.5 ml, de la marca Vick (Procter & Gamble).\n\nBeneficios:\n- Práctico y portátil: cabe en el bolsillo o la bolsa.\n- Con mentol y alcanfor, ingredientes característicos de la marca Vick.\n- Se clasifica como descongestionante nasal de venta libre.\n- Caja con 12 piezas, ideal para toda la familia o para tener siempre a la mano.\n\nComposición:\nMentol y alcanfor. Contenido de 0.5 ml por inhalador.\n\nModo de uso:\nUso nasal. Retire la tapa y acerque el inhalador a la fosa nasal para aspirar; siga las indicaciones del empaque.\n\nPresentación:\nCaja con 12 inhaladores nasales de 0.5 ml cada uno.\n\nAdvertencias:\nSolo para inhalación nasal; no se ingiera. Evite su uso en personas con alergia o sensibilidad al alcanfor, al mentol o a otros componentes. No se recomienda durante el embarazo y la lactancia sin supervisión médica. Conserve entre 15 y 25 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "VapoRub",
+    "variante": "Inhalador nasal",
+    "presentacion": "Caja con 12 inhaladores",
+    "contenido_neto": 0.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 12,
+    "principio_activo": "Mentol, alcanfor",
+    "via_administracion": "Nasal (inhalación)",
+    "registro_sanitario": "27919 SSA",
+    "otros": "Contenido por inhalador: 0.5 ml; Clasificación: descongestionante nasal; Condición de venta: sin receta; Conservación: 15 a 25 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001248062_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/vick_vaporub_nasal_inh_12_piezas_7501001248062_1_192ed912-a356-40a7-a547-11d9b5b301cd.jpg?v=1757196805&width=1920",
+      "pagina": "https://openfarma.mx/products/vick-vaporub-nasal-inh-12-piezas",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 734,
+      "fecha": "2026-09-29",
+      "lado_util": 679
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/gripe-y-tos/400-comprar-vick-vaporub-inhalador-para-la-congestion-nasal-5-ml-precio-7501001248062.html",
+    "https://prixz.com/c/vick-inhalador-individual-0-5-ml-liquido-inhalador-mentol-197-mg/",
+    "https://vidafarmacias.com/mx/descongestionantes/15337-vick-vaporub-de-197-mg-inhalador-nasal-caja-con-12-piezas-mentol-alcanfor.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes difieren en la cantidad de mentol por inhalador (197 mg o 40 mg), por eso no se incluye concentración. Modo de uso redactado en términos generales por falta de ficha oficial. Una ficha le atribuye indicación muscular, que se descartó.",
+    "notas_imagenes": "1 foto de tienda (OpenFarma, 800 px) del inhalador individual; no se halló foto de la caja con 12 piezas.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

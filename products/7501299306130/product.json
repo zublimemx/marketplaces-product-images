@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "SUPRADOL C 4 SUBLINGUAL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Supradol Ketorolaco 30 mg 4 Tabletas Sublinguales",
+  "descripcion": "Descripción:\nSupradol es un analgésico antiinflamatorio no esteroideo (AINE) de Laboratorios Liomont, con ketorolaco trometamina en tabletas de administración sublingual. Está indicado para el tratamiento del dolor de leve a intenso, como en casos de cefalea, migraña, dolor menstrual, dolor dental, neuralgias, quemaduras, fracturas, luxaciones y posoperatorios. Su absorción por vía sublingual es rápida.\n\nFórmula:\nCada tableta sublingual contiene ketorolaco trometamina 30 mg y excipiente cbp 1 tableta. Contiene aspartamo.\n\nModo de uso:\n- Vía sublingual: coloque la tableta debajo de la lengua; no se ingiere.\n- Adultos y mayores de 16 años con más de 50 kg: 1 tableta (30 mg) al inicio; puede repetirse cada 6 horas sin exceder 4 tabletas (120 mg) en 24 horas, durante 2 a 5 días como máximo.\n- Mayores de 65 años, peso menor a 50 kg o insuficiencia renal: la dosis se reduce a media tableta; consulte a su médico.\n\nPresentación:\nCaja con 4 tabletas sublinguales de 30 mg, en envase de burbuja.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use durante el embarazo ni en la lactancia. No se administre a menores de 16 años.\n- Contraindicado en alergia al ketorolaco, al ácido acetilsalicílico u otros antiinflamatorios, úlcera péptica o sangrado gastrointestinal, insuficiencia renal y riesgo de sangrado.\n- Atención fenilcetonúricos: contiene fenilalanina (aspartamo).\n- Consérvese a no más de 30 °C, en lugar seco y protegido de la luz.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Supradol",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Tabletas sublinguales",
+    "contenido_neto": 4,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 4,
+    "principio_activo": "Ketorolaco trometamina",
+    "concentracion": "30 mg",
+    "via_administracion": "Sublingual",
+    "edad_etapa": "Adultos y mayores de 16 años",
+    "otros": "Grupo: AINE analgésico; Contiene aspartamo; Requiere receta médica según la información para prescribir; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299306130_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299306130_3.jpg",
+      "pagina": "https://www.fahorro.com/supradol-sublingual-30-mg-con-4-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1522,
+      "fecha": "2026-09-29",
+      "lado_util": 1410
+    },
+    {
+      "archivo": "7501299306130_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa6e8f5f7/images/large/7501299306130_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/supradol-sublingual%C2%A0-30mg-4-tabs/MXYZ_7501299306130.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "fecha": "2026-09-29",
+      "lado_util": 903
+    },
+    {
+      "archivo": "7501299306130_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa2745ca1/images/large/7501299306130_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/supradol-sublingual%C2%A0-30mg-4-tabs/MXYZ_7501299306130.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/supradol.tabletas.sublinguales/103/101/9939/224",
+    "https://www.fahorro.com/supradol-sublingual-30-mg-con-4-tabletas.html",
+    "https://www.yza.mx/supradol-sublingual%C2%A0-30mg-4-tabs/MXYZ_7501299306130.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. La información para prescribir (PLM) indica 'Su venta requiere receta médica', mientras que dos farmacias en línea la marcan sin receta; se dejó 'Sí' por la leyenda oficial. Se colocó en venta libre por instrucción del dueño.",
+    "notas_imagenes": "3 fotos de tienda (frente y dos ángulos de la caja de 4 tabletas sublinguales, más de 950 px), de Farmacias del Ahorro y Yza. Se borró una foto repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }

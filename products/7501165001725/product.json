@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ALLEGRA 180 MG C 10 COMPR JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Allegra Fexofenadina 180 mg 10 Tabletas",
+  "descripcion": "Descripción:\nAllegra 180 mg es un antialérgico de Sanofi cuyo principio activo es el clorhidrato de fexofenadina, un antihistamínico indicado para adultos y niños mayores de 12 años. Se toma una sola vez al día y está formulado para aliviar los síntomas de la alergia sin causar sueño.\n\nBeneficios:\n- Alivia el escurrimiento nasal, los estornudos, los ojos llorosos y la comezón de nariz y garganta.\n- Ayuda a aliviar las ronchas y la comezón de la piel (urticaria).\n- Antihistamínico que no causa somnolencia.\n- Una tableta cada 24 horas.\n- El alivio comienza aproximadamente a la media hora.\n\nIngredientes:\nCada tableta contiene clorhidrato de fexofenadina 180 mg.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: una tableta cada 24 horas. Ingiera la tableta completa con un poco de agua.\n\nPresentación:\nCaja con 10 tabletas de 180 mg.\n\nAdvertencias:\nSi los síntomas persisten, consulte a su médico. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Allegra",
+    "fabricante": "Sanofi",
+    "presentacion": "Caja con 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Fexofenadina (clorhidrato)",
+    "concentracion": "180 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Formato: tableta; Dosis: 1 tableta cada 24 horas; No causa somnolencia"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antihistamínicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165001725_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwbf40c967/images/large/7501165001725_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/allegra-180mg-10-comp/MXYZ_7501165001725.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 873,
+      "fecha": "2026-09-29",
+      "lado_util": 809
+    },
+    {
+      "archivo": "7501165001725_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc35f7161/images/large/7501165001725_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/allegra-180mg-10-comp/MXYZ_7501165001725.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 991,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/allegra-180mg-10-comp/MXYZ_7501165001725.html",
+    "https://www.benavides.com.mx/allegra-180-mg-fexofenadina-10-tabletas",
+    "https://www.probemedic.mx/allegra-180-mg-10-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Fabricante Sanofi (actualmente comercializado por Opella).",
+    "notas_imagenes": "2 fotos de tienda: frente del empaque (873 px) y empaque con leyenda de marca (991 px). Se descartó una tercera imagen que era solo texto.",
+    "fecha": "2026-09-29",
+    "sesion": 4
   }
 }
