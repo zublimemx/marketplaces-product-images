@@ -4,29 +4,93 @@
   "linea": "Farma",
   "nombre_sistema": "FLAGENASE 400 SUSP PEDIAT",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Flagenase 400 Pediátrico Suspensión 120 ml",
+  "descripcion": "Descripción:\nFlagenase 400 Pediátrico es una suspensión oral de Laboratorios Liomont que combina metronidazol (en forma de benzoilo de metronidazol) y diyodohidroxiquinoleína. Es un amebicida indicado en el tratamiento de la amebiasis intestinal y extraintestinal, incluido el absceso hepático amebiano, y también se emplea en giardiasis. Se presenta en frasco de 120 ml para uso pediátrico, siempre bajo indicación médica.\n\nComposición:\nCada 100 ml de suspensión contienen benzoilo de metronidazol equivalente a 2.5 g de metronidazol y 2.0 g de diyodohidroxiquinoleína.\n\nModo de uso:\nVía oral. En niños de 1 a 9 años, la dosis se calcula a razón de 40 mg de metronidazol por kg de peso al día, repartida en 3 tomas durante 10 días. La dosis final la determina el médico; agite bien el frasco antes de usar.\n\nPresentación:\nCaja con frasco de 120 ml de suspensión.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad al metronidazol o al yodo, enfermedad orgánica del sistema nervioso central o daño hepático previo. No se administre junto con alcohol, anticoagulantes cumarínicos ni disulfiram; evite bebidas alcohólicas durante el tratamiento y hasta 3 días después. Puede oscurecer la orina. En tratamientos prolongados se recomienda vigilancia hematológica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flagenase",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "400 Pediátrico",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Metronidazol y diyodohidroxiquinoleína",
+    "concentracion": "2.5 g/2.0 g por 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 1 a 9 años",
+    "registro_sanitario": "75910 SSA IV",
+    "otros": "Amebicida; Frasco de 120 ml"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
+      "categoria_rx_sugerida": "MLM457835",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299301128_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299301128_1.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-400-oral-pediatrico-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1648,
+      "fecha": "2026-09-29",
+      "lado_util": 1526
+    },
+    {
+      "archivo": "7501299301128_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299301128.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-400-oral-pediatrico-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1306,
+      "fecha": "2026-09-29",
+      "lado_util": 1210
+    },
+    {
+      "archivo": "7501299301128_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299301128_2.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-400-oral-pediatrico-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1672,
+      "fecha": "2026-09-29",
+      "lado_util": 1549
+    },
+    {
+      "archivo": "7501299301128_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299301128_3.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-400-oral-pediatrico-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1651,
+      "fecha": "2026-09-29",
+      "lado_util": 1529
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/flagenase.400.pediatrico.suspension/103/101/7731/194",
+    "https://farmaciasmedina.com/detalleProducto/Flagenase-400-Pediatrico-120-Ml-Suspension-Frasco/7501299301128"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "4 foto(s): 7501299301128_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px); 7501299301128_2.jpg (de tienda, production-media.fahorro.com, 1600x1600 px); 7501299301128_3.jpg (de tienda, production-media.fahorro.com, 1600x1600 px); 7501299301128_4.jpg (de tienda, production-media.fahorro.com, 1600x1600 px). Cuatro vistas del empaque; el panel negro y azul es parte del diseño de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

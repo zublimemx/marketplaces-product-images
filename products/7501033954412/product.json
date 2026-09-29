@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "CONTROLIP 160MG CAP C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Controlip 160 mg 30 Cápsulas Fenofibrato",
+  "descripcion": "Descripción:\nControlip 160 mg es un medicamento en cápsulas de Abbott cuyo principio activo es el fenofibrato micronizado, un derivado del ácido fíbrico que regula los lípidos en sangre al activar el receptor PPAR alfa. Cada cápsula aporta 160 mg de fenofibrato en una formulación de mayor biodisponibilidad, y su absorción aumenta cuando se toma con alimentos.\n\nBeneficios:\n- Indicado en hipercolesterolemia e hipertrigliceridemia, solas o combinadas (dislipidemias tipos IIa, IIb y IV, así como tipos III y V).\n- Para pacientes que no responden a las medidas dietéticas y no farmacológicas, como reducir de peso o aumentar la actividad física, sobre todo cuando existen factores de riesgo asociados.\n- Las medidas dietéticas iniciadas antes del tratamiento deben continuarse durante el mismo.\n\nFórmula:\nCada cápsula contiene fenofibrato 160 mg y excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Adultos: una cápsula de 160 mg una vez al día. La duración del tratamiento y cualquier ajuste los define su médico.\n\nPresentación:\nCaja con 30 cápsulas de 160 mg. Conservar a temperatura ambiente, a no más de 30 °C y en lugar seco.\n\nAdvertencias:\nSu venta requiere receta médica. Está contraindicado en insuficiencia hepática o renal, enfermedad de la vesícula biliar, hipersensibilidad al fenofibrato o a los componentes de la fórmula, antecedentes de reacciones fotoalérgicas o fototóxicas con fenofibrato o ketoprofeno, y en niños. No se administre durante el embarazo y la lactancia. Se recomienda vigilar las transaminasas durante el tratamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Controlip",
+    "fabricante": "Abbott Laboratories de México",
+    "linea": "Controlip 160",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Fenofibrato",
+    "concentracion": "160 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "373M93 SSA IV",
+    "otros": "Forma farmacéutica: cápsula; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033954412_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw84eb4c7f/images/large/7501033954412_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/controlip-160mg-30-caps/MXYZ_7501033954412.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 655,
+      "fecha": "2026-09-29",
+      "lado_util": 607
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/controlip/3/103/7033/14",
+    "https://www.fahorro.com/controlip-160-mg-oral-30-caps.html",
+    "https://www.yza.mx/controlip-160mg-30-caps/MXYZ_7501033954412.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos técnicos tomados de la información para prescribir de PLM; el GTIN coincide con las fichas de farmacia.",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA, 1000 px), frente de la caja con 30 cápsulas de 160 mg.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

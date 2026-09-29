@@ -5,16 +5,18 @@
   "nombre_sistema": "PASTA LASSAR 50G COYOACAN OXIDO DE ZIN QUIMICA",
   "nombres_sistema_alternos": [],
   "titulo": "Pasta Lassar Óxido de Zinc Coyoacán 50 g",
-  "descripcion": "Descripción:\nPasta Lassar con óxido de zinc en presentación de 50 g, marca Coyoacán. La pasta de Lassar es una preparación dermatológica tradicional de uso externo a base de óxido de zinc, de textura espesa, que forma una capa protectora sobre la piel. Se emplea comúnmente en irritaciones leves de la piel, como rozaduras, y como barrera de protección contra la humedad.\n\nComposición:\nÓxido de zinc como ingrediente activo, en una base de pasta para uso tópico. La concentración exacta debe confirmarse en el empaque (las pastas de Lassar de referencia contienen 25 g de óxido de zinc por cada 100 g).\n\nModo de uso:\nUso cutáneo. Como referencia de esta clase de productos, se aplica una capa sobre la zona limpia y seca de la piel, hasta 3 veces al día, según indique el empaque o su médico.\n\nPresentación:\nContenedor con 50 g de pasta Lassar.\n\nAdvertencias:\nUso exclusivamente externo. No lo aplique en ojos ni mucosas. Suspenda su uso y consulte a su médico si aparece irritación o si las molestias persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nPasta de Lassar de Química Coyoacán, en presentación de 50 g. Es una pasta de uso externo a base de óxido de zinc que forma una capa protectora sobre la piel. Es un producto de botiquín de uso tradicional en el cuidado de la piel irritada, por ejemplo en rozaduras, y también puede aplicarse en la zona del pañal.\n\nComposición:\nÓxido de zinc como principio activo, en una base de pasta. La pasta de Lassar clásica combina óxido de zinc con almidón y vaselina. Consulte en el empaque el porcentaje de óxido de zinc y los demás componentes de este producto.\n\nModo de uso:\nUso cutáneo. Limpie y seque la zona, aplique una capa delgada de pasta sobre la piel y repita la aplicación cuando sea necesario, sin exceder las indicaciones del empaque. Para ayudar a prevenir rozaduras en el bebé puede aplicarse en cada cambio de pañal.\n\nPresentación:\nContenido de 50 g.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos y no la ingiera.\n- No la aplique sobre heridas profundas o quemaduras extensas sin indicación médica.\n- Suspenda su uso si aparece enrojecimiento, comezón o irritación, y consulte a su médico si la molestia persiste.\n- Conserve el envase bien cerrado, a temperatura ambiente y en un lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Coyoacán",
-    "presentacion": "Pasta (ungüento) de uso tópico",
+    "fabricante": "Química Coyoacán",
+    "linea": "Pasta de Lassar",
+    "presentacion": "Pasta de uso externo",
     "contenido_neto": 50,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "principio_activo": "Óxido de zinc",
-    "via_administracion": "Cutánea (tópica)",
-    "otros": "Forma farmacéutica: pasta; Concentración de óxido de zinc por confirmar en el empaque; Formato de venta: pieza"
+    "via_administracion": "Cutánea",
+    "otros": "Concentración de óxido de zinc por confirmar en el empaque (la pasta de Lassar clásica lleva 25%); Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -37,9 +39,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "No se encontró ninguna ficha con el GTIN 7501417007550 ni de la pasta Lassar Coyoacán de 50 g; la descripción se basa en fichas de pasta de Lassar de otra marca (Andrómaco), por lo que composición, modo de uso y laboratorio deben verificarse contra el empaque. El nombre del sistema menciona 'Coyoacán' y 'Química', sin más detalle.",
-    "notas_imagenes": "Sin fotos: ninguna tienda consultada tiene foto de la pasta Lassar Coyoacán de 50 g; las de otras marcas o presentaciones no representan el producto.",
+    "notas": "No se encontró ninguna ficha con el GTIN 7501417007550 ni de la pasta Lassar Coyoacán de 50 g (solo un listado de reparto a domicilio en resultados, no abrible). La descripción se basa en la monografía de la pasta de Lassar de Andrómaco (óxido de zinc 25 g por 100 g, cutánea, modo de empleo cada 8 horas), otra marca; composición exacta, modo de uso y fabricante deben verificarse contra el empaque. \"Química Coyoacán\" como fabricante se deduce del nombre del sistema.",
+    "notas_imagenes": "Sin fotos: no se pudo abrir ninguna página con imagen de la pasta Lassar Coyoacán; las imágenes de otras marcas no representan el producto.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

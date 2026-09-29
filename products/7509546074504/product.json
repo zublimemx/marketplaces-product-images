@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH MENNEN ZERO% SVE 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Mennen Zero% Cabello Saludable 400 ml",
+  "descripcion": "Descripción:\nMennen Zero% Cabello Saludable es un shampoo de fórmula suave para el cuidado delicado del cabello, en presentación de 400 ml. Está formulado con 0% alcohol, 0% colorantes y 0% siliconas, y sin parabenos, para una limpieza suave que deja el cabello saludable.\n\nBeneficios:\n- Fórmula suave para cuidado delicado\n- 0% alcohol, 0% colorantes y 0% siliconas\n- Sin parabenos\n- Para cabello saludable\n- Presentación de 400 ml\n\nIngredientes:\nAqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Sodium Chloride, Parfum, Tetrasodium EDTA, entre otros. Consulte la lista completa en el empaque.\n\nModo de uso:\nAplique sobre el cabello húmedo, masajee suavemente hasta formar espuma y enjuague con abundante agua.\n\nPresentación:\nFrasco de 400 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con agua. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Zero%",
+    "variante": "Cabello Saludable",
+    "presentacion": "Frasco de 400 ml",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello normal, cuidado delicado",
+    "otros": "Fórmula: 0% alcohol, 0% colorantes, 0% siliconas, sin parabenos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194228",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546074504_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/287610-1000-1000/7509546074504_00.jpg?v=637932474245470000",
+      "pagina": "https://www.lagranbodega.com.mx/shampoo-mennen-zero-400-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    },
+    {
+      "archivo": "7509546074504_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.alsuper.com/products/431369.png",
+      "pagina": "https://www.lagranbodega.com.mx/shampoo-mennen-zero-400-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1070,
+      "fecha": "2026-09-29",
+      "lado_util": 991
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://incibeauty.com/en/produit/7509546074504",
+    "https://despensa.bodegaaurrera.com.mx/ip/shampoo-mennen-cabello-saludable-zero-formula-suave-sin-parabenos-400-ml/00750954607450",
+    "https://www.lagranbodega.com.mx/shampoo-mennen-zero-400-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La lista de ingredientes es parcial (algunos ingredientes aparecen ocultos en la fuente). Se eligió la categoría de shampoos para bebés porque el empaque de Mennen Zero muestra la imagen infantil; si se prefiere, puede ir en Cuidado del Cabello > Shampoos y Acondicionadores (MLM430117). Fabricante inferido del prefijo del GTIN y de la marca.",
+    "notas_imagenes": "2 fotos de tienda (frasco de frente, 980 y 1070 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

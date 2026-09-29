@@ -5,15 +5,13 @@
   "nombre_sistema": "OXIMETRO DE PULSO INHALACARE HOMECARE",
   "nombres_sistema_alternos": [],
   "titulo": "Oxímetro de Pulso para Dedo InhalaCare Homecare",
-  "descripcion": "Descripción:\nOxímetro de pulso digital para dedo de la marca InhalaCare de Homecare. Permite medir de manera rápida y no invasiva la saturación de oxígeno en la sangre (SpO2) y la frecuencia del pulso, colocando el dedo en el dispositivo y leyendo el resultado en la pantalla. Es un equipo compacto y portátil para el monitoreo en casa.\n\nCaracterísticas:\n- Oxímetro de pulso para dedo\n- Mide saturación de oxígeno en sangre (SpO2) y frecuencia de pulso\n- Pantalla digital de lectura rápida\n- Compacto y portátil, funciona con baterías\n\nPresentación:\nUna pieza.\n\nAdvertencias:\nEs un dispositivo de medición de referencia. Consulte a su médico para la interpretación de las lecturas y ante cualquier valor que le preocupe.",
+  "descripcion": "Descripción:\nOxímetro de pulso para dedo de la marca InhalaCare de Homecare. Es un dispositivo portátil que mide de manera rápida y no invasiva la saturación de oxígeno en la sangre (SpO2) y la frecuencia del pulso. Se coloca en el dedo, muestra el resultado en su pantalla en unos segundos y, por su tamaño compacto, es fácil de llevar y de usar en casa para el monitoreo personal.\n\nCaracterísticas:\n- Medición de saturación de oxígeno en sangre (SpO2) y frecuencia de pulso.\n- Uso en el dedo, sin agujas ni procedimientos invasivos.\n- Pantalla digital de fácil lectura.\n- Tamaño compacto y ligero, práctico para trasladarlo.\n\nModo de uso:\nEncienda el equipo, introduzca el dedo (de preferencia el índice) con la uña hacia arriba y mantenga la mano quieta y en reposo unos segundos hasta que la lectura se estabilice. Consulte el instructivo del empaque para conocer el detalle de su modelo.\n\nPresentación:\nUna pieza. Consulte en el empaque el modelo, los accesorios incluidos y el tipo de pilas.\n\nAdvertencias:\n- Equipo de uso doméstico; no sustituye la valoración médica. Ante lecturas anormales o síntomas, consulte a su médico.\n- El esmalte o las uñas postizas, las manos frías y el movimiento pueden alterar la lectura.\n- Manténgalo fuera del alcance de los niños.",
   "ficha": {
     "marca": "InhalaCare",
     "fabricante": "Homecare",
-    "presentacion": "Pieza",
-    "contenido_neto": 1,
-    "unidad_contenido": "pieza",
+    "presentacion": "Oxímetro de pulso para dedo",
     "unidades_por_envase": 1,
-    "otros": "Tipo de producto: oxímetro de pulso para dedo; Mide: SpO2 y frecuencia de pulso; Modelo exacto no confirmado"
+    "otros": "Mide SpO2 y frecuencia de pulso; Uso en el dedo; Modelo exacto por confirmar en el empaque (existen varios modelos InhalaCare con GTIN distintos); Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -36,10 +34,10 @@
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "El GTIN 7502256732016 no aparece en ninguna página consultada. Existen varios modelos InhalaCare/Homecare con GTIN distintos (INH01 = 7502256731934, FS10E, FS20E, otros), y no se pudo saber cuál corresponde. Descripción genérica de oxímetro de dedo; sin datos técnicos (rango, batería, dimensiones) para no afirmar de un modelo equivocado.",
-    "notas_imagenes": "Sin fotos: no se pudo confirmar el modelo exacto y las fotos disponibles corresponden a otros modelos con GTIN diferente (INH01, FS10E, FS20E).",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7502256732016 no aparece en ninguna página. Existen varios modelos InhalaCare/Homecare con GTIN distintos (INH01 = 7502256731934, FS10E, FS20E y otro con 7502256729917) y no se pudo saber cuál corresponde. Descripción genérica de oxímetro de dedo, sin datos técnicos (rango, batería, dimensiones); verificar el modelo con el empaque.",
+    "notas_imagenes": "Sin fotos: al no saberse el modelo exacto, las fotos de INH01, FS10E o FS20E podrían no corresponder al producto vendido.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

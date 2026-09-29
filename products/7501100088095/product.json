@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "TYLENOL 500MG C20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylenol Paracetamol 500 mg 20 Tabletas",
+  "descripcion": "Descripción:\nTylenol 500 mg es un analgésico y antipirético cuyo ingrediente activo es el paracetamol, en tabletas. Actúa a partir de los 30 minutos para ayudar a aliviar el dolor y bajar la fiebre, y no irrita el estómago cuando se usa como se indica.\n\nBeneficios:\n- Alivia el dolor de cabeza y los dolores musculares\n- Ayuda a bajar la fiebre y aliviar el dolor asociado con infecciones respiratorias\n- Alivia el dolor de muelas y los dolores menstruales\n- Auxiliar en el dolor articular por osteoartritis y en molestias tras la vacunación\n- No irrita el estómago\n\nComposición:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 1 o 2 tabletas cada 4 a 6 horas, sin exceder 8 tabletas (4,000 mg de paracetamol) en 24 horas. No lo use por más de 5 días sin indicación médica.\n\nPresentación:\nCaja con frasco con 20 tabletas de 500 mg. Elaborado por Kenvue.\n\nAdvertencias:\n- Una sobredosis o el uso junto con otros medicamentos que contengan paracetamol puede causar daño grave al hígado\n- Puede causar reacciones alérgicas en la piel; suspenda su uso si aparecen\n- No lo use si tiene enfermedad del hígado; evite combinarlo con warfarina sin consultar a su médico\n- Si está embarazada o en periodo de lactancia, consulte a su médico antes de usarlo\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylenol",
+    "fabricante": "Kenvue",
+    "linea": "Tylenol 500 mg",
+    "presentacion": "Caja con frasco con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "140M87 SSA VI",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: analgésico y antipirético; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501100088095_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/7n02dTXvMlJ2aUaqhlAn4f/ea0238051a529daa4036e25a4438a695/tylenol-caja-con-frasco-20-tabletas-980-x-980-px-1-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-20-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    },
+    {
+      "archivo": "7501100088095_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/3WQEUVXN8c4De0BmMxLJfd/15c010d720542f7dfd0bce676eab1793/tylenol-caja-con-frasco-20-tabletas-980-x-980-px-2-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-20-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1044,
+      "fecha": "2026-09-29",
+      "lado_util": 967
+    },
+    {
+      "archivo": "7501100088095_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/3NqXXrW3AOlDgbwCaq6CIz/dd3c39c0b8f1ba5a62b9e58b7e844cb1/tylenol-caja-con-frasco-20-tabletas-980-x-980-px-3-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-20-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    }
+  ],
+  "url_oficial": "https://www.tylenol.com.mx/productos/adultos/tylenol-20-tabletas",
+  "fuentes": [
+    "https://www.tylenol.com.mx/productos/adultos/tylenol-20-tabletas",
+    "https://www.benavides.com.mx/tylenol-500-mg-paracetamol-20-tabletas",
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3905-tylenol-500-mg-caja-con-20-tabletas-7501100088095.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501100088095 confirmado en tiendas; datos de la página oficial de Tylenol México (caja con 20 tabletas de 500 mg).",
+    "notas_imagenes": "3 fotos oficiales del fabricante (caja con frasco de 20 tabletas, 1044 a 1058 px) de la página de Tylenol México.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

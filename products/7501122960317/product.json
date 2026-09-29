@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "CLOBESOL 0 05 CRA 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Clobesol Crema Clobetasol 0.05% 30 g",
+  "descripcion": "Descripción:\nClobesol crema 0.05% es un corticosteroide tópico de alta potencia cuyo principio activo es el propionato de clobetasol. Está indicado en las manifestaciones agudas de dermatosis inflamatorias que no responden a esteroides más débiles, como prurito intenso, dermatitis atópica resistente, eczema, psoriasis y liquen escleroso, siempre bajo indicación médica. Se presenta en tubo de 30 g.\n\nComposición:\nCada 100 g de crema contienen 0.05 g de propionato de clobetasol, excipiente cbp 100 g.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre el área de la piel a tratar, una o dos veces al día, sin exceder 50 g a la semana. Preferentemente el tratamiento no debe durar más de 14 días. Lávese las manos después de aplicarlo.\n\nPresentación:\nCaja con tubo de 30 g de crema.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a los componentes de la fórmula. No aplicar en el área alrededor de los ojos por el riesgo de glaucoma, ni en acné, rosácea o dermatitis peribucal. No se recomienda en menores de 12 años. Requiere supervisión estrecha en tratamientos prolongados y mayor cuidado en el rostro, donde son más frecuentes los efectos adversos. Si hay infección de la piel, el médico puede indicar un antibiótico o antimicótico adicional. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Clobesol",
+    "fabricante": "Laboratorios Grossman",
+    "presentacion": "Crema",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Propionato de clobetasol",
+    "concentracion": "0.05%",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "515M2001 SSA",
+    "otros": "Corticosteroide tópico de alta potencia; Tubo de 30 g"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501122960317_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501122960317_a68cd1a9-1bc7-44e7-bde6-afdf243db396.jpg?v=1701389107&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/7175",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1041,
+      "fecha": "2026-09-29",
+      "lado_util": 964
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/clobesol.crema.005/187/101/6966/239",
+    "https://farmaciasmedina.com/detalleProducto/Clobesol-30-G-Crema-Tubo/7501122960317"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha PLM indica Laboratorios Grossman; la foto de catálogo muestra un empaque con el logotipo Valeant (presentación igual). Verificar el laboratorio en el empaque actual.",
+    "notas_imagenes": "1 foto(s): 7501122960317_1.jpg (de tienda, farmaciasanjorge.com, 1000x1000 px). Una sola foto (1000 px); el empaque muestra el logotipo Valeant.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

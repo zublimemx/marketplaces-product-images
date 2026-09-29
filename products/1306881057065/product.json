@@ -5,9 +5,10 @@
   "nombre_sistema": "B-PRACET-KP C30 PREGABALINA KETOPROFENO VIT B1 VIT B12MEDICAM",
   "nombres_sistema_alternos": [],
   "titulo": "B-Pracet-KP Pregabalina Ketoprofeno B1 B12 30 Piezas",
-  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento de la marca Medicam que, según su denominación, combina pregabalina, ketoprofeno y las vitaminas B1 (tiamina) y B12 (cobalamina) en una sola presentación. Reúne un neuromodulador (pregabalina), un antiinflamatorio no esteroideo (ketoprofeno) y vitaminas del complejo B. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nPregabalina, ketoprofeno, vitamina B1 y vitamina B12. La concentración de cada componente y la forma farmacéutica exacta (tabletas o cápsulas) deben confirmarse en el empaque.\n\nModo de uso:\nVía oral. Siga la dosis y la duración indicadas por su médico.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- Puede producir somnolencia o mareo; consulte a su médico antes de conducir o manejar maquinaria.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento de la marca Medicam que combina pregabalina, ketoprofeno y las vitaminas B1 (tiamina) y B12 (cobalamina) en una sola presentación. Reúne un neuromodulador (pregabalina), un antiinflamatorio no esteroideo (ketoprofeno) y vitaminas del complejo B. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\n- Pregabalina.\n- Ketoprofeno.\n- Vitamina B1 (tiamina).\n- Vitamina B12 (cobalamina).\nConsulte en el empaque la concentración de cada componente y la forma farmacéutica.\n\nModo de uso:\nVía oral. Siga la dosis y la duración indicadas por su médico.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- Puede producir somnolencia o mareo; consulte a su médico antes de conducir o manejar maquinaria.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "B-Pracet-KP",
+    "fabricante": "Medicam",
     "presentacion": "Envase con 30 piezas",
     "contenido_neto": 30,
     "unidad_contenido": "piezas",
@@ -15,7 +16,7 @@
     "principio_activo": "Pregabalina, ketoprofeno, vitamina B1 y vitamina B12",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Proveedor: Medicam; Forma farmacéutica y concentraciones por confirmar en el empaque; Formato de venta: Unidad"
+    "otros": "Forma farmacéutica y concentraciones por confirmar en el empaque; Requiere receta médica; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -36,9 +37,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda única con GTIN y nombre no devolvió ninguna ficha de B-Pracet-KP (solo patentes, monografías genéricas y productos afines de otras marcas); el GTIN 1306881057065 parece código interno. Título y ficha salen solo del nombre del sistema; Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en categoría de venta libre por instrucción del dueño.",
-    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto; sondeos directos a URL por GTIN en tres tiendas dieron 404.",
+    "notas": "La búsqueda con el GTIN y el nombre solo devolvió patentes, monografías genéricas y productos afines de otras marcas (Talflex, Dolo Bedoyecta, etc.); ninguna ficha de B-Pracet-KP. El GTIN 1306881057065 parece código interno y la página del distribuidor por GTIN dio 404. Título, fórmula y ficha salen solo del nombre del sistema. Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en categoría de venta libre por regla del dueño.",
+    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto en las fuentes revisadas.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

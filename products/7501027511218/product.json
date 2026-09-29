@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "BIB EVENFLO CUELL ANC 9OZ 3PZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biberones Evenflo Cuello Ancho 9 oz 3 Piezas",
+  "descripcion": "Descripción:\nBiberones Evenflo de cuello ancho con capacidad de 9 oz (270 ml), en paquete con 3 piezas. Están fabricados con botella de polipropileno entintado libre de BPA y cuentan con mamila de silicón de grado alimenticio con diseño piramidal, pensada para ofrecer mayor suavidad y una textura cómoda para el bebé.\n\nCaracterísticas:\n- Cuello ancho que facilita el llenado y la limpieza\n- Botella de polipropileno entintado, libre de BPA\n- Mamila de silicón grado alimenticio con sistema anticólicos\n- Flujo medio, recomendada a partir de los 3 meses\n- Protector transparente para el cuello ancho\n- Capacidad de 270 ml (9 oz) por biberón\n- Colores y diseños surtidos; pueden variar\n\nPresentación:\nPaquete con 3 biberones de 9 oz.\n\nAdvertencias:\nLave y esterilice los componentes antes del primer uso. Revise la mamila con frecuencia y deséchela si presenta daños. Supervise siempre al bebé durante la alimentación.",
+  "ficha": {
+    "marca": "Evenflo",
+    "fabricante": "Evenflo",
+    "variante": "Cuello ancho",
+    "presentacion": "Paquete con 3 biberones",
+    "contenido_neto": 270,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 3,
+    "edad_etapa": "3 meses en adelante",
+    "otros": "Capacidad: 9 oz por biberón; Material: polipropileno libre de BPA; Mamila: silicón grado alimenticio, flujo medio, anticólicos; Colores y diseños surtidos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM5363",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Biberones y Accesorios > Biberones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027511218_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7009467/7501027511218_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-biberon-cuello-ancho-9-oz-c-3-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1200,
+      "fecha": "2026-09-29",
+      "lado_util": 1112
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/evenflo-biberon-cuello-ancho-9-oz-c-3-pz-v1/p",
+    "https://www.yza.mx/biberon-evenflo-cuello-ancho-9-oz/MXYZ_7501027512918.html",
+    "https://alsuper.com/producto/biberon-cuello-ancho-400665"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las características técnicas vienen de las fichas del biberón individual de la misma línea (9 oz, cuello ancho, flujo medio), porque la ficha del paquete de 3 solo trae nombre y foto. Colores y diseños varían.",
+    "notas_imagenes": "1 foto de tienda (frente de los 3 biberones, 1200 px). Se descartaron fotos de biberón individual, una imagen en blanco y una foto del costado de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

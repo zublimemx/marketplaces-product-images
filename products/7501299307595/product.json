@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "QUIMARA-1 CRA 5% 5G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Quimara-1 Imiquimod 5% Crema Tubo 5 g",
+  "descripcion": "Descripción:\nQuimara-1 es una crema dermatológica de uso tópico de Laboratorios Liomont que contiene imiquimod al 5%, un modificador de la respuesta inmunitaria de la piel. Se ubica en el grupo de medicamentos dermatológicos anti VPH y su uso debe ser indicado y supervisado por el médico.\n\nIndicaciones:\nSe emplea de forma tópica en el tratamiento de lesiones de la piel relacionadas con el virus del papiloma humano, como las verrugas genitales externas y perianales, según lo determine el médico tratante.\n\nComposición:\nImiquimod al 5%. Código ATC D06BB10.\n\nModo de uso:\nSolo para aplicación en piel, en la forma y con la frecuencia que indique el médico o el instructivo anexo. No se administra por vía oral.\n\nPresentación:\nCaja con tubo de 5 g de crema. Vía de administración: tópica. Conservar a temperatura ambiente controlada (15 a 30 °C).\n\nAdvertencias:\nVenta con receta médica. Solo para uso externo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Quimara-1",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Caja con tubo de 5 g",
+    "contenido_neto": 5,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Imiquimod",
+    "concentracion": "5%",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: crema; Código ATC: D06BB10; Requiere receta médica; Almacenamiento 15 a 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
+      "catalogo_id": "MLM27796510"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299307595_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501299307595_923bb06b-bff1-4261-8f67-d6cdbeb385c1.jpg?v=1744688267",
+      "pagina": "https://wecarepharma.mx/en/products/quimara-crema-5-5g-imiquimod",
+      "ancho_original": 538,
+      "alto_original": 458,
+      "lado_final": 572,
+      "fecha": "2026-09-29",
+      "lado_util": 530
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/35753-quimara-1-crema-5-imiquimod-caja-con-tubo-de-5g-liomont-7501299307595.html",
+    "https://www.farmaciasguadalajara.com/dermatologia/anti-vph/quimara-1-5--crema--3-gr.-1107305.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las páginas abiertas no traen indicaciones detalladas; se redactó con la clasificación anti VPH y el perfil del imiquimod. Verificar contra el instructivo. Catálogo ML MLM27796510 (Quimara-1 imiquimod 5% 5 g) visto en resultados, no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda (farmacia en línea), 572 px, frente de la caja. Es la única con la presentación de 5 g; no se halló una versión de mayor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

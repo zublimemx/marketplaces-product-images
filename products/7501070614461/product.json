@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "AMOXIBRON SUSP 250 8MG 5ML C 75 ML MARZO 28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Amoxibron Amoxicilina Bromhexina 250 mg Suspensión 75 ml",
+  "descripcion": "Descripción:\nAmoxibron pediátrico es un antibiótico en polvo para preparar suspensión oral que combina amoxicilina, una penicilina de amplio espectro, con bromhexina, un mucolítico que ayuda a fluidificar las secreciones. Está indicado en infecciones agudas o crónicas de las vías respiratorias altas y bajas causadas por bacterias sensibles, como faringitis, bronquitis, neumonía y bronconeumonía. Su venta requiere receta médica.\n\nComposición:\nCada 5 ml de suspensión reconstituida contienen amoxicilina (como trihidrato) 250 mg y clorhidrato de bromhexina 8 mg. Excipiente cbp 5 ml.\n\nModo de uso:\nVía oral. Agítese antes de usarse. Prepare la suspensión siguiendo las instrucciones del empaque y utilice la cuchara dosificadora incluida. La dosis y la duración del tratamiento las indica el médico según el peso del niño; como referencia, la ficha del medicamento señala 40 a 50 mg/kg/día de amoxicilina repartidos en tomas cada 8 horas. Complete el tratamiento indicado aunque desaparezcan los síntomas.\n\nPresentación:\nCaja con un frasco con polvo para preparar 75 ml de suspensión y cuchara dosificadora.\n\nAdvertencias:\n- No lo use si es alérgico a las penicilinas, a las cefalosporinas o a algún componente de la fórmula\n- Pueden presentarse reacciones graves de hipersensibilidad; suspenda su uso y acuda al médico si aparecen\n- En tratamientos prolongados se recomienda vigilar la función renal, hepática y hematológica\n- Puede requerirse ajuste de dosis en insuficiencia renal\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Amoxibron",
+    "fabricante": "Sanfer (Grimann)",
+    "linea": "Amoxibron pediátrico",
+    "presentacion": "Caja con frasco con polvo para 75 ml de suspensión y cuchara dosificadora",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amoxicilina, bromhexina",
+    "concentracion": "Amoxicilina 250 mg y bromhexina 8 mg por cada 5 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Pediátrico",
+    "registro_sanitario": "90290 SSA IV",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; Grupo terapéutico: antibiótico con mucolítico; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070614461_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070614461_1.jpg",
+      "pagina": "https://www.fahorro.com/amoxibron-250-mg-suspension-oral-75-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1374,
+      "fecha": "2026-09-29",
+      "lado_util": 1273
+    },
+    {
+      "archivo": "7501070614461_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501070614461.jpg?v=1726101005&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/amoxibron-suspension-250-mg-75-ml",
+      "ancho_original": 1772,
+      "alto_original": 1772,
+      "lado_final": 1519,
+      "fecha": "2026-09-29",
+      "lado_util": 1407
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/amoxibron.suspension/160/101/44399/194",
+    "https://www.fahorro.com/amoxibron-250-mg-suspension-oral-75-ml.html",
+    "https://farmaciasmedina.com/detalleProducto/Amoxibron-Pediatrico-250-8mg-75-Ml-Suspension-Frasco-Dosificador/7501070614461"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501070614461 confirmado en varias tiendas y en las fotos de la caja (250 mg - 8 mg / 5 ml, 75 ml). PLM lista al laboratorio como Grimann y una tienda como Sanfer; en la caja aparece el logotipo de Sanfer. Antibiótico de venta con receta. El nombre del sistema trae una fecha de caducidad que se ignoró.",
+    "notas_imagenes": "2 fotos de frente de la caja Sanfer de Amoxibron pediátrico 75 ml (1374 y 1519 px) de las fichas de Farmacias del Ahorro y Farmacia Herrera.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

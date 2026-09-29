@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES KOTEX UNIK REGULAR C/12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Kotex Unika Regular Sin Aplicador 12 Piezas",
+  "descripcion": "Descripción:\nTampones digitales Kotex Unika de absorción regular, para flujo moderado, en paquete con 12 piezas. Son tampones sin aplicador plástico, con curvas anatómicas y cubierta suave, pensados para brindar máxima protección y comodidad con un menor impacto en el medio ambiente.\n\nBeneficios:\n- Tecnología Blue Protection: barrera protectora con fibras súper absorbentes para mayor seguridad.\n- Curvas anatómicas y cubierta suave que se adaptan al cuerpo para una fácil inserción.\n- Doble cordón para mayor tranquilidad al retirarlo.\n- Absorción regular, ideal para flujo moderado (de 6 a 9 gramos absorbidos).\n- Al no incluir aplicador plástico, generan un menor impacto ambiental.\n\nCaracterísticas:\nTampones digitales, sin aplicador, en paquete de 12 piezas. La línea Kotex Unika también ofrece absorciones Super y Super Plus para flujo abundante.\n\nPresentación:\nPaquete con 12 tampones digitales sin aplicador, absorción regular.\n\nAdvertencias:\nLéase el instructivo anexo antes de usar. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Kotex",
+    "linea": "Unika",
+    "variante": "Regular, flujo moderado",
+    "presentacion": "Paquete con 12 tampones",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "genero": "Mujer",
+    "otros": "Tampones digitales sin aplicador; Absorción regular (6 a 9 g); Tecnología Blue Protection; Curvas anatómicas; Doble cordón"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425625536_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425625536_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1375
+    },
+    {
+      "archivo": "7506425625536_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7008899/7506425625536_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/kotex-tampones-unika-regular-paquete-c-12-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1002,
+      "fecha": "2026-09-29",
+      "lado_util": 925
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/kotex-tampones-unika-regular-paquete-c-12-pz-v1/p",
+    "https://www.klyns.mx/tampones-kotex-unika-regular-12-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema dice UNIK; las tiendas lo venden como Unika.",
+    "notas_imagenes": "2 fotos de tienda (CDN de Farmacias del Ahorro y farmacia en línea), 1,486 y 1,002 px: frente y parte posterior con la tabla de absorción. Se descartó una copia del frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

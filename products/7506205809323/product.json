@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ENFAMIL 2 PREMIUM 800GR 6 A 12 MESES MARZO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fórmula Infantil Enfamil Premium Etapa 2 800 g 6 a 12 Meses",
+  "descripcion": "Descripción:\nEnfamil Premium Etapa 2 es una fórmula infantil de continuación con hierro, en polvo, para bebés de 6 a 12 meses. Se presenta en lata de 800 g y está diseñada para acompañar la alimentación del bebé después de los primeros meses de vida.\n\nBeneficios:\n- Fórmula de continuación con hierro.\n- Mezcla exclusiva de prebióticos: galactooligosacáridos (GOS) y polidextrosa (PDX).\n- Con DHA y MFGM, nutrientes que forman parte de su fórmula.\n- Formato de 800 g, para bebés de 6 a 12 meses (Etapa 2).\n\nModo de uso:\nPrepare la fórmula siguiendo las instrucciones y la tabla de preparación del empaque. Lávese las manos con agua y jabón antes de prepararla, use recipientes limpios y agua potable hervida y enfriada, y agregue la cantidad de polvo indicada.\n\nPresentación:\nLata de 800 g de fórmula en polvo, Etapa 2 (6 a 12 meses).\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé. Consulte a su pediatra antes de usar una fórmula infantil. Prepare y utilice la fórmula según las instrucciones; una preparación incorrecta puede ser perjudicial para el bebé. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Enfamil",
+    "fabricante": "Mead Johnson Nutrition",
+    "linea": "Premium",
+    "variante": "Etapa 2",
+    "presentacion": "Lata",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "6 a 12 meses (Etapa 2)",
+    "otros": "Fórmula infantil de continuación en polvo; Con hierro; Prebióticos GOS y polidextrosa; Con DHA y MFGM; Empaque: lata de 800 g"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506205809323_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506205809323_1.jpg",
+      "pagina": "https://www.fahorro.com/enfamil-premium-etapa-2-formula-infantil-para-lactantes-de-6-a-12-meses-lata-de-800-gr.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "7506205809323_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506205809323_2.jpg",
+      "pagina": "https://www.fahorro.com/enfamil-premium-etapa-2-formula-infantil-para-lactantes-de-6-a-12-meses-lata-de-800-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1539,
+      "fecha": "2026-09-29",
+      "lado_util": 1425
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/enfamil-premium-etapa-2-formula-infantil-para-lactantes-de-6-a-12-meses-lata-de-800-gr.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El mismo GTIN aparece en tiendas con el nombre Premium y con Pro Select (misma etapa 2 de 800 g); se respetó el nombre Premium del sistema y la lata que muestra la foto. La lista de ingredientes completa no se encontró. La tabla de preparación de la lata no se leyó con precisión, por eso el modo de uso es general.",
+    "notas_imagenes": "2 fotos de tienda (CDN de Farmacias del Ahorro), de 1,296 y 1,539 px: arte plano de la caja y lata de frente. Se descartó una lámina de instrucciones de preparación.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

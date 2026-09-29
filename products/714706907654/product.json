@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "BRONCOFRESH SAB MIX 33G EXH 12PZAS 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Caramelos Bronco Fresh Sabores Surtidos 33 g 12 Piezas",
+  "descripcion": "Descripción:\nExhibidor de caramelos Bronco Fresh, de la marca Broncolin, con 12 piezas de 33 g en sabores surtidos. Son pastillas refrescantes para boca y garganta, elaboradas con miel, mentol y extractos herbales, que se utilizan como auxiliar en molestias de garganta asociadas al resfriado común, la tos y la garganta irritada.\n\nBeneficios:\n- Refresca la boca y la garganta\n- Auxiliar en la tos y la garganta irritada del resfriado común\n- Sabores surtidos: la charola incluye variedad de sabores de la línea\n- Formato individual práctico para llevar en el bolso o la mochila\n- Ideal para reventa o para tener a la mano en casa y oficina\n\nComposición:\nLas variedades con miel de la línea se elaboran a base de miel de abeja, mentol y ácido cítrico; la formulación exacta puede variar según el sabor, por lo que se recomienda revisar el empaque.\n\nModo de uso:\nDisuelva lentamente una pastilla en la boca cuando lo necesite. No se mastique.\n\nPresentación:\nExhibidor con 12 piezas de 33 g cada una (cada pieza contiene aproximadamente 9 pastillas). Sabores surtidos.\n\nAdvertencias:\nSi los síntomas persisten o empeoran, consulte a su médico. Los niños pequeños deben usarlo bajo supervisión de un adulto.\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bronco Fresh",
+    "fabricante": "Broncolin",
+    "linea": "Bronco Fresh",
+    "variante": "Sabores surtidos (mix)",
+    "presentacion": "Exhibidor con 12 piezas de 33 g",
+    "contenido_neto": 33,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 12,
+    "sabor_aroma": "Surtido (miel, mentol y otros sabores de la línea)",
+    "otros": "Formato de venta: exhibidor de 12 piezas; Cada pieza: caramelo de 33 g con aproximadamente 9 pastillas; Categoría: caramelo refrescante para garganta"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +32,18 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://vitau.mx/bronco-fresh-cara-miel-euca-33gs-8-mg-cu-sub-empaque-de-12-piezas-23914",
+    "https://www.farmaciasantonio.com/pastillas-broncolin-bronco-fresh-limon-33g",
+    "https://farmalisto.com.mx/inicio/162822-bronco-fresh-caramelo-de-33-g-con-9-pastillas-sabor-miel-limn-714706903410.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 714706907654 no apareció en ninguna página; se identificó por nombre. La descripción usa datos de otras variedades de Bronco Fresh (miel-mentol, miel-limón) y del formato de 12 piezas de 33 g. No se pudo confirmar qué sabores incluye el surtido.",
+    "notas_imagenes": "Sin fotos: solo se encontró la foto del exhibidor de miel-eucalipto (otro GTIN, vista lateral) y se descartó por no ser el surtido.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

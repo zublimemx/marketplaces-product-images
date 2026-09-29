@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ANAFERON C20 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Anaferon Adulto 20 Tabletas Materia Medica",
+  "descripcion": "Descripción:\nAnaferon Adulto es un medicamento homeopático en tabletas de Materia Medica, elaborado con anticuerpos afinopurificados anti interferón gamma humano en diluciones homeopáticas 12C, 30C y 200C. Se administra por vía oral.\n\nIndicaciones:\nSegún la información del producto, aumenta la producción de anticuerpos (incluyendo la IgA secretora), activa la función de los linfocitos T efectores y T cooperadores (Th) y normaliza su correlación. También aumenta la reserva funcional de los linfocitos Th y de otras células que participan en la respuesta inmunológica.\n\nComposición:\nAnticuerpos afinopurificados contra interferón gamma humano, diluciones 12C, 30C y 200C.\n\nModo de uso:\nSiga la dosis y la duración que indique el empaque o su médico.\n\nPresentación:\nCaja con 20 tabletas de administración oral.\n\nAdvertencias:\nNo use el producto si es alérgico a alguno de sus componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Anaferon",
+    "fabricante": "Materia Medica",
+    "linea": "Anaferon Adulto",
+    "variante": "12C, 30C, 200C",
+    "presentacion": "Caja con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Anticuerpos afinopurificados anti interferón gamma humano",
+    "concentracion": "12C, 30C, 200C",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Medicamento homeopático; Forma farmacéutica: tabletas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457815",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4607009581187_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/4/6/4607009581187_1.jpg",
+      "pagina": "https://www.fahorro.com/anaferon-adulto-oral-20-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1549,
+      "fecha": "2026-09-29",
+      "lado_util": 1435
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/anaferon-adulto-oral-20-tabs.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró la posología ni las advertencias oficiales en las páginas abiertas; se omitió el detalle de dosis. Venta libre asumida por ser homeopático.",
+    "notas_imagenes": "1 foto de tienda (CDN de Farmacias del Ahorro), 1,549 px, frente de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

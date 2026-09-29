@@ -4,29 +4,83 @@
   "linea": "Farma",
   "nombre_sistema": "UNASAL 250MG TAB C 30 TERBINAFINA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Unasal Terbinafina 250 mg 30 Tabletas",
+  "descripcion": "Descripción:\nUnasal es un antimicótico oral de Laboratorios Senosiain cuyo principio activo es la terbinafina, un medicamento que actúa contra los hongos dermatofitos, causantes de infecciones de la piel y de las uñas. Se toma una vez al día y el médico define la duración del tratamiento según el tipo y la gravedad de la infección.\nEstá indicado en el tratamiento de la onicomicosis (hongos en las uñas) y de las dermatomicosis como tiña de la cabeza (capitis), tiña del cuerpo (corporis) y tiña inguinal (cruris), así como de otras micosis causadas por gérmenes sensibles a la terbinafina.\n\nComposición:\nCada tableta contiene clorhidrato de terbinafina equivalente a 250 mg de terbinafina base. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos: una tableta de 250 mg al día. Duraciones habituales de referencia: tiña pedis de 2 a 6 semanas; tiña corporis, tiña cruris y candidiasis cutánea de 2 a 4 semanas; tiña capitis 4 semanas; onicomicosis de manos 6 semanas y onicomicosis de pies 12 semanas. El médico ajustará el tratamiento a cada caso.\n\nPresentación:\nCaja de cartón con 30 tabletas de 250 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la terbinafina o a los componentes de la fórmula, en menores de 18 años, ni durante el embarazo o la lactancia. Los efectos secundarios más comunes son molestias digestivas leves, como náusea, dolor abdominal o diarrea, y erupciones en la piel. Informe a su médico si toma otros medicamentos. Reporte cualquier sospecha de reacción adversa. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Unasal",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Unasal",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Terbinafina (como clorhidrato)",
+    "concentracion": "250 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "083M2006 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Antimicótico; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": "MLM39474372"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701223_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701223_2.jpg",
+      "pagina": "https://www.fahorro.com/unasal-250-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1509,
+      "fecha": "2026-09-29",
+      "lado_util": 1398
+    },
+    {
+      "archivo": "7501314701223_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701223_3.jpg",
+      "pagina": "https://www.fahorro.com/unasal-250-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1509,
+      "fecha": "2026-09-29",
+      "lado_util": 1398
+    },
+    {
+      "archivo": "7501314701223_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501314701223_1200x1200.jpg?v=1744694153",
+      "pagina": "https://www.fahorro.com/unasal-250-mg-oral-30-tabletas.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 460
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/unasal.tabletas/168/75/10259/210",
+    "https://wecarepharma.mx/products/unasal-250mg-con-30-tabletas-terbinafina",
+    "https://www.fahorro.com/unasal-250-mg-oral-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia lo muestra como 'no requiere receta', pero la información del fabricante (SSA IV) dice 'Su venta requiere receta médica'; se marcó con receta. El catálogo MLM39474372 coincide por título, sin abrirse.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro 2 de 1600 px y WeCare 1 de 500 px), frente de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

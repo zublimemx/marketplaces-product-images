@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "TRAZIDEX UNGENA 3 5G AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Trazidex Ungena Tobramicina Dexametasona Ungüento 3.5 g",
+  "descripcion": "Descripción:\nTrazidex Ungena es un ungüento oftálmico estéril de Laboratorios Sophia que combina tobramicina, un antibiótico aminoglucósido de amplio espectro, con dexametasona, un corticosteroide antiinflamatorio. Se presenta en tubo de 3.5 g.\n\nBeneficios:\n- Tratamiento de infecciones externas del ojo y sus anexos causadas por microorganismos sensibles a la tobramicina.\n- Control de la inflamación ocular posquirúrgica o postraumática y prevención de la propagación de infecciones.\n- Útil en la inflamación de la conjuntiva palpebral y bulbar, la córnea y el tracto uveal anterior cuando se acompaña de infección o existe riesgo de ella.\n- Puede usarse en niños y adultos, y en profilaxis prequirúrgica y postoperatoria.\n\nFórmula:\nCada gramo de ungüento contiene sulfato de tobramicina equivalente a 3 mg de tobramicina, dexametasona 1 mg y excipiente cbp 1 g.\n\nModo de uso:\nVía oftálmica. Aplique una tira de 1 cm en el fondo de saco conjuntival, de 2 a 4 veces al día. La duración varía según cada padecimiento y la define el médico.\n\nPresentación:\nCaja con tubo de 3.5 g de ungüento oftálmico.\n\nAdvertencias:\nSu venta requiere receta médica. Está contraindicado en hipersensibilidad a la tobramicina o a los componentes, en queratitis dendrítica y otras enfermedades virales de la córnea y la conjuntiva, y en enfermedades micóticas oculares. El uso prolongado de corticoides oftálmicos puede favorecer la aparición de glaucoma. Úselo con precaución en embarazo y lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Trazidex",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Trazidex Ungena",
+    "presentacion": "Caja con tubo de 3.5 g",
+    "contenido_neto": 3.5,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tobramicina y dexametasona",
+    "concentracion": "Tobramicina 3 mg y dexametasona 1 mg por g",
+    "via_administracion": "Oftálmica",
+    "registro_sanitario": "145M95 SSA IV",
+    "otros": "Forma farmacéutica: ungüento oftálmico; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
+      "catalogo_id": "MLM39474151"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085048063_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw019e3caf/images/large/736085048063_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/trazidex-ungena-oftalmico-unguento-3.5g/MXYZ_736085048063.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 820,
+      "fecha": "2026-09-29",
+      "lado_util": 761
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/trazidex.ungena.unguento.oftalmico/174/101/10167/233",
+    "https://www.yza.mx/trazidex-ungena-oftalmico-unguento-3.5g/MXYZ_736085048063.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de la información para prescribir de PLM; el nombre del sistema dice 'UNGENA 3 5G' (3.5 g). Se ignoró la caducidad (agosto 27).",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA, 1000 px), caja de Trazidex Ungena de 3.5 g de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

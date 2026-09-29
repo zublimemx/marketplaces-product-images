@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "MACROZIT 500MG C 3 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Macrozit 500 mg Azitromicina 3 Tabletas",
+  "descripcion": "Descripción:\nMacrozit 500 mg es un antibiótico de la familia de los macrólidos cuyo principio activo es la azitromicina. Se presenta en caja con 3 tabletas de 500 mg para administración por vía oral y es elaborado por Laboratorios Liomont. Es un medicamento de prescripción: su venta requiere receta médica. Según la información profesional del medicamento, se utiliza en infecciones causadas por microorganismos sensibles a la azitromicina, como las de las vías respiratorias (bronquitis y neumonía), las odontoestomatológicas, las de la piel y los tejidos blandos y algunas infecciones de transmisión sexual.\n\nComposición:\nCada tableta contiene 500 mg de azitromicina.\n\nModo de uso:\nTome las tabletas exactamente como lo indique su médico. Como referencia, un esquema habitual en adultos es una tableta de 500 mg una vez al día durante 3 días. No suspenda ni prolongue el tratamiento por su cuenta.\n\nPresentación:\nCaja con 3 tabletas de 500 mg.\n\nAdvertencias:\nNo debe usarse en personas con antecedentes de alergia a la azitromicina, la eritromicina, otros macrólidos o antibióticos cetólidos. Puede producir molestias gastrointestinales como náuseas, diarrea o vómito, y en casos poco frecuentes alteraciones hepáticas, reacciones alérgicas graves o prolongación del intervalo QT. Informe a su médico si tiene problemas del hígado o del corazón, o si toma otros medicamentos. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Macrozit",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Tabletas",
+    "contenido_neto": 3,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Azitromicina",
+    "concentracion": "500 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antibiótico macrólido; Requiere receta médica; Caja con 3 tabletas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299306765_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299306765_2.jpg",
+      "pagina": "https://www.fahorro.com/macrozit-500-mg-oral-3-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1589,
+      "fecha": "2026-09-29",
+      "lado_util": 1472
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/macrozit.tabletas/103/101/8520/210",
+    "https://www.fahorro.com/macrozit-500-mg-oral-3-tabletas.html",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/5805-comprar-macrozit-500-mg-caja-con-3-tabletas-rx2-antibiotico-precio-7501299306765-liomont.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmacias del Ahorro y en Farmalisto. Las fuentes traen dos números de registro sanitario distintos, por eso no se incluyó. Antibiótico de venta con receta.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro) a 1600 px: caja frontal con 3 tabletas de 500 mg.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

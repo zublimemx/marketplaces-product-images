@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD LADYSS PRO 5EN1 STICK 45G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Lady Speed Stick Pro 5 en 1 Barra 45 g",
+  "descripcion": "Descripción:\nLady Speed Stick Pro 5 en 1 es un desodorante antitranspirante en barra de Colgate-Palmolive que brinda protección contra el sudor y el mal olor gracias a una fórmula con 5 beneficios. Su empaque indica hasta 48 horas de protección. El formato en barra de 45 g permite aplicarlo directamente sobre la piel.\n\nCaracterísticas:\n- Formato en barra sólida de 45 g.\n- Fórmula Pro 5 en 1 con 5 beneficios.\n- 48 horas de protección indicadas en el empaque.\n- Línea Lady Speed Stick, para mujer.\n\nModo de uso:\nAplique directamente sobre las axilas limpias y secas.\n\nPresentación:\nBarra de 45 g.",
+  "ficha": {
+    "marca": "Lady Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Pro 5 en 1",
+    "variante": "Antitranspirante en barra",
+    "presentacion": "Barra de 45 g",
+    "contenido_neto": 45,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "otros": "Formato: barra; Protección: 48 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546057545_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/3663601/624cc93778fe4-bb7af1c6-af73-41e3-a0ed-01418609e1a7-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/15020912/lady-speed-stick-desodorante-pro-5-barra-con-45-g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1359,
+      "fecha": "2026-09-29",
+      "lado_util": 1258
+    },
+    {
+      "archivo": "7509546057545_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/3663601/624cc939d90c8-7bdc108e-4cc2-409d-a663-f4517ec921ef-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/15020912/lady-speed-stick-desodorante-pro-5-barra-con-45-g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1357,
+      "fecha": "2026-09-29",
+      "lado_util": 1257
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto?name=Lady_Speed_Stick_Desodorante_En_Barra_Pro_5_En_1_48_Horas_De_Proteccion&producto=7509546057545",
+    "https://www.claroshop.com/producto/15020912/lady-speed-stick-desodorante-pro-5-barra-con-45-g",
+    "https://www.drogueriascolsubsidio.com/desodorante-lady-speed-stick-pro-5-en-1-7509546057545/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes casi no detallan los 5 beneficios ni los ingredientes; descripción breve. No se encontró la página oficial de la marca en México.",
+    "notas_imagenes": "2 fotos de tienda (Claroshop, 1600 px): barra de 45 g de frente y en ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

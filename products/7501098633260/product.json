@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "ATACAND PLUS 16 12 5 MG C 28 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Atacand Plus 16 mg/12.5 mg Candesartán 28 Tabletas",
+  "descripcion": "Descripción:\nAtacand Plus es un medicamento antihipertensivo de AstraZeneca que combina candesartán cilexetilo, un antagonista de los receptores de angiotensina II, con hidroclorotiazida, un diurético. Su acción combinada ayuda a reducir la presión arterial de forma más eficaz que cada componente por separado. Está indicado para el tratamiento de la hipertensión arterial en adultos. Es un medicamento de uso crónico y su venta requiere receta médica.\n\nComposición:\nCada tableta contiene candesartán cilexetilo 16 mg e hidroclorotiazida 12.5 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico, quien vigilará la presión arterial y los electrolitos durante el tratamiento. No suspenda ni modifique el tratamiento por su cuenta.\n\nPresentación:\nCaja con 28 tabletas de 16 mg/12.5 mg.\n\nAdvertencias:\n- No lo use si es alérgico al candesartán, a la hidroclorotiazida o a algún componente de la fórmula\n- No lo use si ha presentado angioedema con inhibidores de la ECA o antagonistas de los receptores de angiotensina\n- No se recomienda en insuficiencia renal grave o anuria\n- Precaución en personas con enfermedad cardiovascular, renal o hepática, en adultos mayores y en pacientes diabéticos\n- Puede requerir vigilancia por riesgo de deshidratación y alteraciones de electrolitos\n- Conservar a temperatura ambiente, entre 15 y 30 °C, en lugar fresco y seco\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Atacand",
+    "fabricante": "AstraZeneca",
+    "linea": "Atacand Plus",
+    "presentacion": "Caja con 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Candesartán cilexetilo, hidroclorotiazida",
+    "concentracion": "Candesartán 16 mg e hidroclorotiazida 12.5 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "401M2001 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antihipertensivo (antagonista de angiotensina II con diurético); Venta con receta médica; Medicamento de uso crónico"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501098633260_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe234f22f/images/large/7501098633260_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/atacand-plus-16mg12.5mg-28-tabs/MXYZ_7501098633260.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 896,
+      "fecha": "2026-09-29",
+      "lado_util": 830
+    },
+    {
+      "archivo": "7501098633260_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501098633260.jpg",
+      "pagina": "https://www.yza.mx/atacand-plus-16mg12.5mg-28-tabs/MXYZ_7501098633260.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/3885-atacand-plus-16-mg125-mg-28-tabletas-candesartanhidroclorotiazida-astrazeneca-7501098633260.html",
+    "https://wecarepharma.mx/products/atacand-plus-16mg-12-5mg-con-28-tabletas-candesartan-hidroclorotiazida",
+    "https://www.yza.mx/atacand-plus-16mg12.5mg-28-tabs/MXYZ_7501098633260.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501098633260 confirmado en varias tiendas (28 tabletas de 16 mg/12.5 mg). Medicamento antihipertensivo de venta con receta. Las fichas no traen posología; las contraindicaciones provienen de una sola ficha de tienda.",
+    "notas_imagenes": "2 fotos de frente y en tres cuartos de la caja de AstraZeneca (896 y 1536 px) de las fichas de Yza y Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

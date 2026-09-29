@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "PVO DESOD REXONA EFFI ANT-PRO 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco Desodorante Rexona Efficient Antibacterial Pies 200 g",
+  "descripcion": "Descripción:\nRexona Efficient Antibacterial Protection es un talco desodorante para pies en presentación de 200 g. Su fórmula combate las bacterias que causan el mal olor y absorbe la humedad para mantener los pies frescos y secos, con protección de hasta 48 horas.\n\nBeneficios:\n- Protección contra el mal olor de los pies hasta por 48 horas\n- Elimina el 99.9% de las bacterias que producen mal olor\n- Absorbe la humedad y ayuda a mantener los pies secos\n- Dermatológicamente probado\n- Aroma fresco de larga duración\n\nModo de uso:\nAplique directamente sobre los pies limpios y secos, y también dentro del calzado.\n\nPresentación:\nBote con 200 g de talco desodorante para pies.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos y no inhale el polvo. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Efficient",
+    "variante": "Antibacterial Protection",
+    "presentacion": "Bote de talco desodorante para pies",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Protección: hasta 48 horas; Elimina el 99.9% de las bacterias; Dermatológicamente probado; Formato: talco"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306257603_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506306257603.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1613,
+      "fecha": "2026-09-29",
+      "lado_util": 1494
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com/ip/Rexona-Efficient-Desodorante-Antibacterial-para-Pies-en-Talco-Elimina-Bacterias-200-g/602191940",
+    "https://www.amazon.com.mx/Desodorante-Polvo-Antibacterial-Rexona-Efficient/dp/B0GZJ3DDBC"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN solo se vio como nombre de archivo de una foto de tienda; no se abrió una ficha con el GTIN. Información tomada de la ficha del mismo producto en 200 g (Antibacterial Protection).",
+    "notas_imagenes": "1 foto de tienda (bote Efficient Antibacterial Protection, 1613 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

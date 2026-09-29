@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NIVEA B MILK EXTSCA 400 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Nivea Milk Nutritiva Piel Extra Seca 400 ml",
+  "descripcion": "Descripción:\nNIVEA Body Milk Nutritiva es una crema corporal para piel seca a extra seca, en envase de 400 ml. Su fórmula de cuidado 5 en 1 combina aceite de almendras, vitamina E y ácido hialurónico para brindar hasta 72 horas de humectación y nutrición profunda, dejando la piel suave y tersa.\n\nBeneficios:\n- Hasta 72 horas de humectación profunda\n- Nutre la piel seca y extra seca\n- Contiene aceite de almendras, vitamina E y ácido hialurónico\n- Rápida absorción y sin sensación grasosa\n- Ayuda a proteger la piel de la resequedad diaria\n\nModo de uso:\nAplique sobre la piel limpia y seca con un suave masaje hasta su completa absorción. Úsela diariamente en todo el cuerpo, en especial en las zonas más secas.\n\nPresentación:\nEnvase de 400 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Este producto no es un protector solar. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "NIVEA",
+    "fabricante": "Beiersdorf",
+    "linea": "Body Milk",
+    "variante": "Nutritiva",
+    "presentacion": "Envase de 400 ml",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel seca a extra seca",
+    "otros": "Humectación: hasta 72 horas; Ingredientes destacados: aceite de almendras, vitamina E, ácido hialurónico; Fórmula 5 en 1"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054504535_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/9/9/0/ec9fd0ccb9054a3ea84d8cea5ccaaae0-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    },
+    {
+      "archivo": "7501054504535_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/0/9/5/f1bb870dd4cc4777bf2910918617dfa4-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 885,
+      "fecha": "2026-09-29",
+      "lado_util": 820
+    }
+  ],
+  "url_oficial": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+    "https://www.yza.mx/nivea-crema-corporal-humectante-body-milk-nutritiva-48-horas-de-nutricion-y-humectacion-profunda-para-piel-extra-seca-400-ml/MXYZ_7501054504535.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se ignoró la abreviatura 'EXTSCA' como piel extra seca. No se obtuvo la lista completa de ingredientes (INCI) del empaque.",
+    "notas_imagenes": "2 fotos del sitio oficial (frasco de frente y gráfico con el contenido de 400 ml). Se borraron 2 imágenes promocionales (antes/después y Marca N°1).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,58 @@
   "linea": "Mark",
   "nombre_sistema": "TENA CALZ PANTS MAXIPROT MUCH/M14N",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "TENA Pants Maxi Protect Mujer Talla M 14 Piezas",
+  "descripcion": "Descripción:\nTENA Pants Maxi Protect Mujer es una ropa interior desechable tipo calzón, de corte alto, diseñada para mujeres que necesitan protección contra pérdidas de orina abundantes. Ahora con Proskin, cuida y protege la piel gracias a su tela ultrasuave, con vitamina E y extracto de semilla de algodón. Este paquete es de talla M (Chico/Mediano) y contiene 14 piezas.\n\nCaracterísticas:\n- Escala de absorción 9, para absorción abundante.\n- Gel súper absorbente que absorbe en segundos y neutraliza los olores.\n- Absorción hasta 20% más rápida y control eficaz de olores.\n- Doble barrera anti-escurrimiento para mayor seguridad.\n- Tela ultrasuave con vitamina E y aceite de semilla de algodón que cuidan la piel.\n- Ajuste perfecto Perfect-Fit que se adapta al cuerpo y permite moverse con libertad.\n- Materiales suaves y respirables; discreta bajo la ropa.\n- Dermatológicamente probado.\n\nModo de uso:\nColóquela como ropa interior común y ajústela a la cintura. Para retirarla, rompa los laterales. Cámbiela cuando sea necesario.\n\nPresentación:\nPaquete con 14 piezas, talla M (Chico/Mediano).\n\nAdvertencias:\nDeseche el producto usado en la basura; no lo tire en el inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "TENA",
+    "fabricante": "Essity",
+    "linea": "Pants Maxi Protect Mujer",
+    "variante": "Corte alto con Proskin",
+    "presentacion": "Paquete de ropa interior desechable",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 14,
+    "talla": "M (Chico/Mediano)",
+    "genero": "Mujer",
+    "otros": "Escala de absorción: 9 (abundante); Doble barrera anti-escurrimiento; Gel súper absorbente; Dermatológicamente probado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48929031"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064753_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/78006700/7501019064753_00.jpg?v=639259718549630000",
+      "pagina": "https://www.chedraui.com.mx/ropa-interior-desechable-tena-pants-mujer-talla-m-14-piezas-3864325/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1000,
+      "fecha": "2026-09-29",
+      "lado_util": 925
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/ropa-interior-desechable-tena-pants-mujer-talla-m-14-piezas-3864325/p",
+    "https://www.fahorro.com/ropa-interior-desechable-tena-pants-mujer-talla-g-14-piezas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Chedraui (TENA Pants Mujer Talla M 14 piezas). Catálogo de Mercado Libre tomado de un resultado de búsqueda con el mismo producto (Tena Pants Mujer talla M 14 piezas); no se pudo abrir la página. El modo de uso es el habitual de este tipo de producto.",
+    "notas_imagenes": "1 foto de tienda (Chedraui) a 1000 px: paquete frontal de TENA Pants Maxi Protect Mujer CH/M con 14 piezas. Se descartaron tres infografías con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

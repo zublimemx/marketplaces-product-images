@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD SPEED S FRESH STICK 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Speed Stick Fresh Hombre en Barra 60 g",
+  "descripcion": "Descripción:\nSpeed Stick Fresh es un desodorante en barra para hombre con fragancia fresca y limpia. Su fórmula, clínicamente probada y sin alcohol, ofrece 24 horas de protección contra el mal olor, ayuda a evitar la resequedad y está pensada para no producir irritación. Viene en una presentación de 60 g, práctica para llevar al trabajo, al gimnasio o a la escuela.\n\nBeneficios:\n- 24 horas de protección contra el mal olor.\n- Fragancia fresca y agradable que da sensación de limpieza.\n- Fórmula sin alcohol, clínicamente probada.\n- Barra que se aplica fácilmente después del baño.\n\nIngredientes:\nPropilenglicol, agua, estearato de sodio, perfume, cloruro de sodio, alcohol estearílico, EDTA tetrasódico, FD&C Azul no. 1 (CI 42090), FD&C Amarillo no. 5 (CI 19140), benzoato bencílico, linalool, cumarina, dipenteno, citronelol, geraniol y citral.\n\nModo de uso:\nGire el tornillo hasta que salga la barra y aplique.\n\nPresentación:\nBarra desodorante de 60 g.\n\nAdvertencias:\nPara uso exclusivo en las axilas. No se aplique sobre piel irritada o lastimada. Descontinúe su uso en caso de presentarse irritación, enrojecimiento o alguna molestia. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Men Speed Stick",
+    "variante": "Fresh",
+    "presentacion": "Barra",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Fresh",
+    "otros": "Protección: 24 horas; Fórmula sin alcohol; Desodorante en barra"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035907508_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77916376/7501035907508_00.jpg?v=639258729066070000",
+      "pagina": "https://www.chedraui.com.mx/desodorante-gel-men-speed-stick-fresh-clasico-24-horas-de-proteccion-60g-3086658/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1192,
+      "fecha": "2026-09-29",
+      "lado_util": 1104
+    },
+    {
+      "archivo": "7501035907508_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77916380/7501035907508_01.jpg?v=639258729069500000",
+      "pagina": "https://www.chedraui.com.mx/desodorante-gel-men-speed-stick-fresh-clasico-24-horas-de-proteccion-60g-3086658/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1192,
+      "fecha": "2026-09-29",
+      "lado_util": 1103
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/desodorante-gel-men-speed-stick-fresh-clasico-24-horas-de-proteccion-60g-3086658/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Chedraui. La tienda lo nombra 'gel' en el título pero el empaque dice 'barra desodorante'. Ingredientes, modo de uso y precauciones se transcribieron de la etiqueta trasera del empaque.",
+    "notas_imagenes": "2 fotos de tienda (Chedraui): frente del desodorante y etiqueta trasera con ingredientes, ambas a 1200 px. Se descartó una infografía promocional y una foto duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

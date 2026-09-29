@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "NULYTELY PVO SOB 4 110 1G CZA NOVIEMBRE 26",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Nulytely Polvo Sabor Cereza 4 Sobres 110.1 g",
+  "descripcion": "Descripción:\nNulytely es un polvo para solución oral de Asofarma a base de macrogol 3350 y electrolitos, sabor cereza. Se utiliza para realizar una limpieza intestinal completa previa a una endoscopia, colonoscopia, cirugía de abdomen y estudios de imagen con medio de contraste.\n\nComposición por sobre:\n- Macrogol 3350: 105 g\n- Bicarbonato de sodio: 1.43 g\n- Cloruro de sodio: 2.80 g\n- Cloruro de potasio: 0.37 g\n- Saborizante de cereza\n\nModo de uso:\nCada sobre se disuelve en 1 litro de agua hervida o purificada. Según la ficha del producto, se ingiere un vaso (250 ml) cada 10 a 15 minutos hasta consumir la cantidad indicada por el médico, en un lapso máximo aproximado de 4 horas. Siga siempre el esquema de preparación que le indique su médico.\n\nPresentación:\nCaja con 4 sobres de polvo sabor cereza (110.1 g por sobre). Vía de administración: oral. Registro sanitario 248M94 SSA IV.\n\nAdvertencias:\nNo debe usarse en caso de obstrucción intestinal, retención gástrica, perforación intestinal, colitis tóxica o megacolon tóxico. No se recomienda en menores de 3 años. Durante el embarazo y la lactancia solo debe usarse con valoración médica. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nulytely",
+    "fabricante": "Asofarma de México",
+    "variante": "Sabor cereza",
+    "presentacion": "Caja con 4 sobres de polvo",
+    "contenido_neto": 4,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 4,
+    "principio_activo": "Macrogol 3350, bicarbonato de sodio, cloruro de sodio, cloruro de potasio",
+    "concentracion": "Macrogol 3350 105 g por sobre",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Cereza",
+    "registro_sanitario": "248M94 SSA IV",
+    "otros": "Forma farmacéutica: polvo para solución oral; Peso por sobre: 110.1 g; Uso: limpieza intestinal previa a estudios; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871730339_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7001615/7501871730339_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/nulytely-polvo-cereza-caja-c-4-sobres/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 973,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/nulytely.polvo/13/101/9018/126",
+    "https://www.farmatodo.com.mx/nulytely-polvo-cereza-caja-c-4-sobres/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sabor cereza confirmado por el GTIN y el nombre (CZA). Receta asumida por registro SSA IV.",
+    "notas_imagenes": "1 foto de tienda (farmacia en línea), 973 px, frente de la caja sabor cereza.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

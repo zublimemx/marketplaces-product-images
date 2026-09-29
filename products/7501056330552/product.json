@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS REJUVE ARRUG 200 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Rejuveness Antiarrugas Día 200 g",
+  "descripcion": "Descripción:\nPond's Rejuveness es una crema facial antiarrugas de uso diurno, en presentación familiar de 200 g. Está pensada para incluirse en la rutina diaria de cuidado del rostro y se identifica por ser recomendada por la Fundación Mexicana para la Dermatología.\n\nCaracterísticas:\n- Crema antiarrugas para uso de día.\n- Textura de crema para aplicar sobre el rostro y el cuello.\n- Presentación de 200 g, para un uso prolongado.\n\nModo de uso:\nPor la mañana, aplique una capa delgada sobre el rostro limpio y seco, con movimientos suaves y ascendentes, y extienda también al cuello. Repita a diario como parte de su rutina de cuidado de la piel.\n\nPresentación:\nEnvase con 200 g de crema facial.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Rejuveness",
+    "variante": "Antiarrugas de día",
+    "presentacion": "Envase de 200 g",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Crema facial antiarrugas para uso de día; Recomendada por la Fundación Mexicana para la Dermatología; Uso externo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330552_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/78122617",
+      "pagina": "https://www.chedraui.com.mx/crema-facial-ponds-rejuveness-antiarrugas-dia-200g-3065195/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1136,
+      "fecha": "2026-09-29",
+      "lado_util": 1052
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/crema-facial-ponds-rejuveness-antiarrugas-dia-200g-3065195/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Solo se encontró una ficha con texto descriptivo breve (sin ingredientes); la descripción es corta a propósito y no se inventaron datos.",
+    "notas_imagenes": "1 foto de tienda (Chedraui), frente del envase, 1200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

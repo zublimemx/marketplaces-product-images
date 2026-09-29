@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "BUSCAPINA DUO C10 TABS HIOSCINA/PARACET 10MG/500MG SANOFI",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Buscapina Duo Hioscina Paracetamol 10 mg/500 mg 10 Tabletas",
+  "descripcion": "Descripción:\nBuscapina Duo, de Sanofi, es un medicamento de combinación que reúne butilbromuro de hioscina, un antiespasmódico que relaja el músculo liso del aparato digestivo, con paracetamol, un analgésico. Está indicado para el alivio del dolor tipo cólico causado por espasmos estomacales e intestinales. Se administra por vía oral y está dirigido a adultos y niños mayores de 12 años.\n\nBeneficios:\n- Doble acción en una sola tableta: reduce el espasmo y alivia el dolor\n- Alivio del dolor abdominal tipo cólico\n- Práctica presentación de 10 tabletas\n\nComposición:\nCada tableta contiene butilbromuro de hioscina 10 mg y paracetamol 500 mg.\n\nModo de uso:\nVía oral. Tome las tabletas conforme a la dosis indicada en el empaque o por su médico, sin exceder la dosis recomendada.\n\nPresentación:\nCaja con 10 tabletas de 10 mg/500 mg.\n\nAdvertencias:\n- No se recomienda durante el embarazo ni la lactancia\n- No lo use junto con otros medicamentos que contengan paracetamol\n- No lo use si es alérgico a alguno de los componentes de la fórmula\n- Evite automedicarse: si el dolor persiste o empeora, consulte a su médico\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Buscapina",
+    "fabricante": "Sanofi",
+    "linea": "Buscapina Duo",
+    "presentacion": "Caja con 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Butilbromuro de hioscina, paracetamol",
+    "concentracion": "Hioscina 10 mg y paracetamol 500 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antiespasmódico con analgésico"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502321440013_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.alsuper.com/products/508917.png",
+      "pagina": "https://alsuper.com/producto/buscapina-duo-hioscina---paracetamol-10-500mg-508917",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 973,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/buscapina-duo-10-mg-hioscina500-mg-paracetamol-10-tabletas",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/161499-buscapina-duo-10mg500mg-10-tabletas-hioscinaparacetamol-sanofi.html",
+    "https://alsuper.com/producto/buscapina-duo-hioscina---paracetamol-10-500mg-508917"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7502321440013 no apareció en ninguna página; las tiendas publican Buscapina Duo de 10 tabletas con el código 3664798054859 (posible versión de importación o empaque distinto). Identificado por nombre y presentación (10 tabletas, 10 mg/500 mg). Las tiendas discrepan sobre la receta (una la marca con receta y otra como de venta sin receta), por eso 'Revisar'. No se encontró posología ni contraindicaciones detalladas.",
+    "notas_imagenes": "1 foto de frente de la caja de Buscapina Duo 10 tabletas (973 px). Se descartó una foto con un rótulo gráfico añadido por la tienda y de baja resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

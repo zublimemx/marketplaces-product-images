@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "COREGA 70G S SABOR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Corega Ultra Crema Adhesiva Sin Sabor 70 g",
+  "descripcion": "Descripción:\nUltra Corega Sin Sabor es una crema adhesiva para prótesis dentales (dentaduras) que ofrece una fijación fuerte durante todo el día. Su fórmula ultra adhesiva actúa en tres direcciones para mantener la prótesis firme en su lugar hasta por 12 horas, sin agregar sabor.\n\nBeneficios:\n- Fijación fuerte todo el día, hasta por 12 horas\n- Fórmula ultra adhesiva con fijación en 3 direcciones\n- Sin sabor\n- Tubo con 70 g de contenido neto\n\nModo de uso:\nCon la prótesis limpia y seca, aplique la crema en tiras cortas sobre la superficie que queda en contacto con la encía, evitando el exceso. Coloque la prótesis en la boca y presione unos segundos para asentarla.\n\nPresentación:\nTubo con 70 g de crema adhesiva sin sabor.\n\nAdvertencias:\nUso externo en prótesis dentales. Use solo la cantidad necesaria. Si la prótesis no ajusta bien o causa molestias, consulte a su dentista. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Corega",
+    "fabricante": "Haleon",
+    "linea": "Ultra Corega",
+    "variante": "Sin sabor",
+    "presentacion": "Tubo de crema adhesiva",
+    "contenido_neto": 70,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Sin sabor",
+    "otros": "Fijación: hasta 12 horas; Fijación en 3 direcciones; Uso: prótesis dentales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180914",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065064165_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065064165_2.jpg",
+      "pagina": "https://www.fahorro.com/ultra-corega-sin-sabor-crema-adhesiva-para-protesis-dentales-70-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1601
+    },
+    {
+      "archivo": "7501065064165_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065064165_1.jpg",
+      "pagina": "https://www.fahorro.com/ultra-corega-sin-sabor-crema-adhesiva-para-protesis-dentales-70-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1467,
+      "fecha": "2026-09-29",
+      "lado_util": 1359
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ultra-corega-sin-sabor-crema-adhesiva-para-protesis-dentales-70-g.html",
+    "https://farmaciasmedina.com/detalleProducto/Corega-Ultra-Crema-Adhesiva-Para-Protesis-Dentales-Sin-Sabor/7501065064165",
+    "https://www.farmaciasguadalajara.com/corega-ultra-crema-adhesiva-para-protesis-dentales-sin-sabor-70-gr-1269488"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se abrió la página del fabricante; el modo de uso es el habitual de las cremas adhesivas y debe verificarse contra el empaque. Fabricante inferido de la marca (Haleon).",
+    "notas_imagenes": "2 fotos de tienda (tubo y caja de frente, 1728 y 1467 px). Otra foto de 240 px fue rechazada por chica.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

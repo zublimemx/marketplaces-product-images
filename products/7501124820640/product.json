@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "PATANOL OLOPATANOL 0.2% SOL 2.5ML NOVARTIS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Patanol Olopatadina 0.2% Solución Oftálmica 2.5 ml",
+  "descripcion": "Descripción:\nPatanol 0.2% es una solución oftálmica en gotas cuyo principio activo es el clorhidrato de olopatadina al 0.2%, un antialérgico de uso ocular. Se presenta en frasco gotero de 2.5 ml y es de la marca Alcon, de Novartis.\n\nIndicaciones:\nEstá indicado para la prevención de la comezón ocular provocada por la conjuntivitis alérgica y para el tratamiento de los signos y síntomas oculares asociados con padecimientos alérgicos.\n\nModo de uso:\nEs de uso oftálmico exclusivamente. Para la concentración de 0.2%, la información del producto indica aplicar una gota en el ojo afectado una vez al día, según la indicación del médico. Si usa lentes de contacto, espere 10 minutos después de la aplicación para colocarlos.\n\nPresentación:\nCaja con frasco gotero de plástico de 2.5 ml. Vía de administración: oftálmica. Registro sanitario 463M98 SSA IV.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad al principio activo o a alguno de los componentes. Solo para uso tópico en el ojo. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Patanol",
+    "fabricante": "Alcon Laboratorios (Novartis)",
+    "presentacion": "Frasco gotero de 2.5 ml",
+    "contenido_neto": 2.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clorhidrato de olopatadina",
+    "concentracion": "0.2%",
+    "via_administracion": "Oftálmica",
+    "registro_sanitario": "463M98 SSA IV",
+    "otros": "Forma farmacéutica: solución oftálmica; Envase Drop-Tainer; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124820640_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088604058_1_1_1.jpg",
+      "pagina": "https://www.fahorro.com/patanol-0-2-oftalmico-2-5-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1594,
+      "fecha": "2026-09-29",
+      "lado_util": 1476
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/patanol.solucion.oftalmica/4/101/9207/172",
+    "https://www.fahorro.com/patanol-0-2-oftalmico-2-5-ml-gotas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7501124820640 no apareció en las páginas abiertas (la ficha de tienda usa otro código, 7501088604058, para Patanol 0.2%). Concentración y contenido coinciden con el nombre. La dosis de una vez al día puede confirmarse en el prospecto.",
+    "notas_imagenes": "1 foto de tienda (CDN de Farmacias del Ahorro), 1,594 px, caja y frasco de Patanol 0.2% marca Alcon.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

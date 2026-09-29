@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TAZA ENT EVENFLO ANIMAL C/POP11OZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Taza Entrenadora Evenflo Animal con Popote 11 oz",
+  "descripcion": "Descripción:\nTaza entrenadora Evenflo con popote y diseño de animalito en la tapa, de 11 oz (aproximadamente 325 ml). Está pensada para ayudar a los bebés en la transición del biberón al vaso: su popote suave y sus asas ergonómicas facilitan que los pequeños aprendan a beber por sí mismos. Se surte en distintos diseños de animales, como oso o gatito, según disponibilidad.\n\nCaracterísticas:\n- Libre de BPA.\n- Popote de silicón suave, de grado alimenticio.\n- Forma ergonómica con asas para manos pequeñas.\n- Tapa deslizante que ayuda a mantener el popote limpio y a evitar derrames.\n- Material resistente para el uso diario.\n- Capacidad de 11 oz (aprox. 325 ml).\n- Diseños de animales divertidos; el modelo y el color se surten según disponibilidad.\n\nModo de uso:\nLave la taza y el popote con agua tibia y jabón neutro antes del primer uso y después de cada uso. Revise el popote periódicamente y reemplácelo si presenta desgaste. Úsela siempre con la supervisión de un adulto.\n\nPresentación:\nUna pieza. Cada pieza se vende por separado; el diseño y el color pueden variar.",
+  "ficha": {
+    "marca": "Evenflo",
+    "fabricante": "Evenflo",
+    "linea": "Popote Divertido",
+    "variante": "Animal",
+    "presentacion": "Taza entrenadora con popote",
+    "contenido_neto": 11,
+    "unidad_contenido": "oz",
+    "unidades_por_envase": 1,
+    "otros": "Capacidad: 11 oz (aprox. 325 ml); Libre de BPA; Popote de silicón grado alimenticio; Con asas; Tapa deslizante; Diseño y color surtidos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189891",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Vasos, Platos y Cubiertos > Vasos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027554949_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501027554949_2.jpg",
+      "pagina": "https://www.fahorro.com/evenflo-vaso-entrenador-popote-divertido-11-oz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1556,
+      "fecha": "2026-09-29",
+      "lado_util": 1441
+    },
+    {
+      "archivo": "7501027554949_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501027554949_3.jpg",
+      "pagina": "https://www.fahorro.com/evenflo-vaso-entrenador-popote-divertido-11-oz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1549,
+      "fecha": "2026-09-29",
+      "lado_util": 1435
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/evenflo-vaso-entrenador-popote-divertido-11-oz.html",
+    "https://www.walmart.com.mx/ip/vaso-entrenador-evenflo-popote-divertido-11-oz-varios-modelos-1-pieza/00750102755494"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El diseño y color se surten por variedad (oso, gato, tigre, rana); las fotos muestran oso y gato. Edad recomendada no aparece en las fuentes.",
+    "notas_imagenes": "2 foto(s): 7501027554949_2.jpg (de tienda, production-media.fahorro.com, 1600x1600 px); 7501027554949_3.jpg (de tienda, production-media.fahorro.com, 1600x1600 px). Se descartó la foto de collage con texto de disponibilidad; quedan las fotos individuales de oso y gato (el diseño se surte).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

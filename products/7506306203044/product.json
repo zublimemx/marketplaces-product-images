@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE KILO SPY 150 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Kilo en Aerosol 150 ml",
+  "descripcion": "Descripción:\nAxe Kilo es un desodorante en aerosol para hombre con una fragancia fresca y duradera de tipo aromático, con notas de lavanda y sándalo. Su fórmula destruye el mal olor y ofrece protección durante todo el día, y el empaque indica 48 horas de máxima frescura.\n\nBeneficios:\n- Destruye el mal olor y deja una fragancia duradera.\n- Fórmula con 0% sales de aluminio.\n- Fragancia aromática fresca con lavanda y sándalo.\n- Lata de aluminio reciclable.\n\nModo de uso:\nAgite antes de usar. Aplique sobre el cuerpo a no menos de 15 cm de distancia de la piel. Evite el uso íntimo.\n\nPresentación:\nAerosol de 150 ml.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Axe",
+    "variante": "Kilo",
+    "presentacion": "Aerosol de 150 ml",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Aromático fresco: lavanda y sándalo",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Sin sales de aluminio; Protección: 48 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306203044_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7506306203044-1.jpg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/aerosol-desodorante-axe-kilo-150ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1049,
+      "fecha": "2026-09-29",
+      "lado_util": 972
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-kilo-150-ml.html/07506306203044",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-kilo-150-ml.html/07506306203044",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/aerosol-desodorante-axe-kilo-150ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1000 px), lata de 150 ml de frente. La imagen del sitio oficial no pudo descargarse con el script por bloqueo 403.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

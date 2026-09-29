@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "LIPOVITASI C/30 COMPR CARNITINA/METIONINA/TIAMINA 300MG/25MG/25MG TAB ATLANTIS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lipovitasi+ Carnitina Metionina Tiamina 30 Tabletas",
+  "descripcion": "Descripción:\nLipovitasi+ de Atlantis Pharma es un producto en tabletas que combina carnitina, metionina y tiamina (vitamina B1). Está indicado como auxiliar en los signos y síntomas de la fatiga crónica y en la prevención y corrección de la acumulación de grasas en los tejidos del cuerpo. La caja contiene 30 tabletas para administración oral.\n\nComposición:\nCada tableta aporta las siguientes cantidades.\n- Carnitina: 300 mg\n- Metionina: 25 mg\n- Tiamina (vitamina B1): 25 mg\n\nCaracterísticas:\n- Combinación de tres ingredientes activos en una sola tableta.\n- Presentación de 30 tabletas de administración oral.\n- Elaborado por Atlantis Pharma.\n\nModo de uso:\nVía oral. Tome las tabletas conforme a la dosis y la duración que indique su médico o el instructivo del empaque, generalmente después de los alimentos.\n\nPresentación:\nCaja con 30 tabletas de 300 mg/25 mg/25 mg.\n\nAdvertencias:\nNo debe usarse en personas con pancreatitis o con hipersensibilidad a alguno de los componentes de la fórmula. En personas sensibles pueden presentarse náuseas, vómito o erupción cutánea de manera ocasional. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lipovitasi+",
+    "fabricante": "Atlantis Pharma",
+    "linea": "Lipovitasi",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Carnitina, metionina y tiamina",
+    "concentracion": "300 mg / 25 mg / 25 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Caja con 30 tabletas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501471800272_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_5355.jpg",
+      "pagina": "https://www.benavides.com.mx/lipovitasi-or-30-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 860,
+      "fecha": "2026-09-29",
+      "lado_util": 796
+    },
+    {
+      "archivo": "7501471800272_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/23552/3963767/63068ba316d3f-d6adb5d7-fbdb-4a04-940b-b6ec776aabe7-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/15436422/complemento-altantis-pharma-lipovitasi-carnitina-metionina-tiamina-30-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1393,
+      "fecha": "2026-09-29",
+      "lado_util": 1290
+    },
+    {
+      "archivo": "7501471800272_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/23552/3963767/63068ba52d36e-83c00274-95a2-4f01-8e1a-6dfe016e1847-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/15436422/complemento-altantis-pharma-lipovitasi-carnitina-metionina-tiamina-30-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1182,
+      "fecha": "2026-09-29",
+      "lado_util": 1095
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/lipovitasi-or-30-tabletas",
+    "https://www.actuamed.com.mx/marca/33878",
+    "https://www.medicamentosplm.com/Home/productos/lipovitasior.tabletas/16/101/8416/210"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de Benavides y presentación igual a la caja fotografiada (Atlantis, 300/25/25 mg, 30 tabletas). Los datos de contraindicaciones vienen de la ficha PLM de Lipovitasi-OR (otro laboratorio con la misma fórmula). Se clasificó como venta libre según el vademécum de la marca Atlantis; una ficha PLM marca literatura solo para médicos, por lo que conviene revisarlo.",
+    "notas_imagenes": "3 fotos de tienda: Benavides (caja en ángulo, 1000 px) y ClaroShop (caja frontal y en ángulo, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

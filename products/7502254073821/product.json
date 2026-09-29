@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "DESINFEC ANTIB GLESOL FRESH 443ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desinfectante Antibacterial Glesol Fresh 7 en 1 443 ml",
+  "descripcion": "Descripción:\nGlesol Fresh es un desinfectante antibacterial en aerosol 7 en 1 para superficies del hogar y de espacios de trabajo. Su envase señala que elimina el 99.9% de virus y bacterias, además de desinfectar y sanitizar. Se presenta en lata de 443 ml con aroma fresco.\n\nBeneficios:\n- Formato 7 en 1: desinfecta y sanitiza en un solo producto.\n- Elimina el 99.9% de virus y bacterias, según el envase.\n- Aerosol práctico para superficies de alto contacto como manijas, mesas y encimeras.\n- Deja un aroma fresco.\n\nModo de uso:\nRocíe sobre la superficie que desea desinfectar y limpie con un trapo limpio. En áreas muy contaminadas, deje actuar unos minutos antes de limpiar.\n\nPresentación:\nAerosol de 443 ml.\n\nAdvertencias:\nProducto de uso externo en superficies. No se ingiera. Manténgase fuera del alcance de los niños. Consulte las precauciones impresas en el envase.",
+  "ficha": {
+    "marca": "Glesol",
+    "linea": "Glesol Fresh",
+    "variante": "Desinfectante antibacterial 7 en 1",
+    "presentacion": "Aerosol de 443 ml",
+    "contenido_neto": 443,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresh",
+    "otros": "Formato: aerosol; Elimina el 99.9% de virus y bacterias según el envase"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167962",
+      "categoria_ruta": "Hogar, Muebles y Jardín > Cuidado del Hogar y Lavanderia > Productos de Limpieza > Limpiadores Multiusos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502254073821_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7502254073821-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desinfectante-antibacterial-en-aerosol-443-ml",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    },
+    {
+      "archivo": "7502254073821_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.mdsc.com.mx/web/image/product.product/264412/image_1920?unique=2856cbf",
+      "pagina": "https://www.mdsc.com.mx/en/shop/7502254073821-desinfectante-antibacterial-glesol-fresh-443-ml-280640",
+      "ancho_original": 275,
+      "alto_original": 656,
+      "lado_final": 672,
+      "fecha": "2026-09-29",
+      "lado_util": 623
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/35818",
+    "https://www.mdsc.com.mx/en/shop/7502254073821-desinfectante-antibacterial-glesol-fresh-443-ml-280640",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/desinfectante-antibacterial-en-aerosol-443-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró el sitio oficial de la marca ni una ficha con ingredientes o precauciones; el modo de uso proviene de una ficha de tienda y las advertencias son generales. La afirmación del 99.9% se lee en la foto del envase.",
+    "notas_imagenes": "2 fotos de tienda (Del Sol y MDSC): lata de 443 ml de Glesol antibacterial 7 en 1 de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

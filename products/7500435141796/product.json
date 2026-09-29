@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD OLD SPICE MAR PROF SPY150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Old Spice Mar Profundo en Aerosol 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Old Spice con fragancia Mar Profundo, en presentación de 150 ml (96 g). Ofrece protección contra el mal olor con un aroma fresco y vigorizante inspirado en el océano, con notas acuáticas y amaderadas, pensado para el uso diario del hombre.\n\nCaracterísticas:\n- Fragancia Mar Profundo, con notas acuáticas y amaderadas.\n- Protección duradera contra el mal olor.\n- Formato aerosol de 150 ml (96 g), práctico para el uso diario.\n- Para uso en el cuerpo.\n\nModo de uso:\nAgite el envase antes de usarlo y aplíquelo sobre la piel limpia y seca.\n\nPresentación:\nAerosol de 150 ml (96 g).\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos y no lo aplique sobre la piel irritada o lastimada.\n- Contenido a presión: manténgalo alejado del calor, de las flamas y de las chispas; no lo perfore ni lo incinere, aunque esté vacío.\n- No inhale directamente el producto y úselo en áreas ventiladas.\n- Mantenga el envase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Old Spice",
+    "fabricante": "Procter & Gamble México",
+    "linea": "Mar Profundo",
+    "variante": "Aerosol",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Mar Profundo (notas acuáticas y amaderadas)",
+    "genero": "Hombre",
+    "otros": "Peso neto: 96 g; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435141796_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmacorp.com/cdn/shop/files/7500435141796.jpg?v=1717011186",
+      "pagina": "https://farmacorp.com/products/7500435141796",
+      "ancho_original": 590,
+      "alto_original": 590,
+      "lado_final": 592,
+      "fecha": "2026-09-29",
+      "lado_util": 549
+    },
+    {
+      "archivo": "7500435141796_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20240612_1041888.jpg",
+      "pagina": "https://www.benavides.com.mx/old-spice-mar-profundo-desodorante-aerosol-150-ml",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 416
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmacorp.com/products/7500435141796",
+    "https://www.benavides.com.mx/old-spice-mar-profundo-desodorante-aerosol-150-ml",
+    "https://es.openfoodfacts.org/producto/7500435141796/mar-profundo-old-spice"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en una farmacia en línea y en Open Beauty Facts; la ficha de Benavides lo lista como 150 ml (96 g) y laboratorio Procter & Gamble México. No se abrió la página oficial de Old Spice. Los textos de las tiendas mezclan \"desodorante\" y \"antitranspirante\" y mencionan hasta 48 h; se omitió esa afirmación por no estar claro para esta variante.",
+    "notas_imagenes": "2 fotos de tienda del frente del aerosol Mar Profundo (una de farmacia en línea con nombre de archivo por GTIN y otra de cadena de farmacias); resolución original 590 y 520 px, por debajo de 800 px pero sin mejor fuente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

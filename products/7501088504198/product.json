@@ -4,29 +4,61 @@
   "linea": "Farma",
   "nombre_sistema": "VENOFERRUM C1 AMP SACARATO FERRICO 100MG/5ML CHINOIN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Venoferrum Sacarato Férrico 100 mg/5 ml 1 Ampolleta",
+  "descripcion": "Descripción:\nVenoferrum solución es un medicamento inyectable de uso intravenoso a base de sacarato férrico (complejo de sacarato de óxido férrico), distribuido por Chinoin. Cada ampolleta de 5 ml aporta 100 mg de hierro elemental. Es un producto de uso intrahospitalario.\n\nBeneficios:\nIndicado en el tratamiento de la anemia ferropriva severa en las siguientes condiciones:\n- Pacientes sometidos a hemodiálisis.\n- Cuando los preparados de hierro por vía oral son ineficaces, por ejemplo en enfermedad inflamatoria intestinal o problemas de absorción intestinal.\n- Pacientes intolerantes a la ferroterapia oral o que no la cumplen.\n- Hemorragia transvaginal severa.\n- Tratamiento concomitante con eritropoyetina.\n- Cuando existe necesidad clínica de suministrar hierro con rapidez.\n\nFórmula:\nCada ampolleta contiene complejo de sacarato de óxido férrico 2700 mg, equivalente a 100 mg de hierro elemental, en agua inyectable.\n\nModo de uso:\nVía intravenosa. La dosis acumulada se calcula de forma individual según el peso corporal y la hemoglobina del paciente, y debe indicarla el médico. Se debe vigilar al paciente durante al menos 30 minutos después de cada inyección.\n\nPresentación:\nCaja con 1 ampolleta de 5 ml. Cada ampolleta es de un solo uso. Consérvese a no más de 25 °C y con la caja bien cerrada.\n\nAdvertencias:\nSu venta requiere receta médica. Puede causar reacciones alérgicas o anafilactoides; debe haber tratamiento antialérgico y equipo de reanimación disponibles. Está contraindicado en hipersensibilidad a los componentes, anemias no causadas por deficiencia de hierro y sobrecarga de hierro. No se administre si la solución contiene partículas en suspensión o sedimentos. En embarazo y lactancia consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Venoferrum",
+    "fabricante": "Chinoin",
+    "linea": "Venoferrum",
+    "variante": "Solución inyectable intravenosa",
+    "presentacion": "Caja con 1 ampolleta de 5 ml",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Sacarato férrico (hierro elemental)",
+    "concentracion": "100 mg/5 ml",
+    "via_administracion": "Intravenosa",
+    "registro_sanitario": "65668 SSA IV",
+    "otros": "Forma farmacéutica: solución inyectable; Uso intrahospitalario; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088504198_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088504198.jpg",
+      "pagina": "https://www.fahorro.com/venoferrum-100-mg-5-mlsolucion-inyectable-1-ampolleta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1219,
+      "fecha": "2026-09-29",
+      "lado_util": 1129
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/venoferrum/36/101/82806/377",
+    "https://www.yza.mx/venoferrum-solucion-sacarato-ferrico/MXYZ_7501088504198.html",
+    "https://www.fahorro.com/venoferrum-100-mg-5-mlsolucion-inyectable-1-ampolleta.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de la información para prescribir de PLM. Chinoin figura en el empaque y en el nombre del sistema.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja con 1 ampolleta de 5 ml de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

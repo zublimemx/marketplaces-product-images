@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "SH MENNEN LAVAN-EXTRA AVENA 700ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Mennen Lavanda y Avena Hidratación 700 ml",
+  "descripcion": "Descripción:\nShampoo con acondicionador Mennen Lavanda y Extracto de Avena, de la línea Hidratación y Equilibrio, en presentación familiar de 700 ml. Ofrece una limpieza suave y efectiva, ideal para el cuidado diario de toda la familia, con el aroma floral y relajante de la lavanda.\n\nBeneficios:\n- Limpieza suave y efectiva para el uso diario.\n- Suaviza el cabello con hidratación y brillo.\n- Ayuda a proteger el cuero cabelludo.\n- Aroma floral relajante de lavanda.\n- Neutraliza los olores desagradables del cabello.\n- No reseca y facilita un cabello manejable.\n- Presentación familiar de 700 ml.\n\nModo de uso:\nAplique sobre el cabello húmedo, masajee suavemente hasta formar espuma y enjuague con abundante agua. Use la cantidad necesaria según el largo del cabello.\n\nPresentación:\nFrasco con 700 ml de shampoo con acondicionador.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Mennen",
+    "linea": "Hidratación y Equilibrio",
+    "variante": "Lavanda y extracto de avena",
+    "presentacion": "Shampoo con acondicionador",
+    "contenido_neto": 700,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Lavanda",
+    "otros": "Con extracto de avena; Uso familiar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546078618_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dwdbad5b67/images/7509546078618/7509546078618_1.jpg",
+      "pagina": "https://www.dax.com.mx/producto/mennen-shampoo-lavanda-y-avena-700-ml-suave-y-hidratante-7509546078618.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1263,
+      "fecha": "2026-09-29",
+      "lado_util": 1170
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/mennen-shampoo-lavanda-y-avena-700-ml-suave-y-hidratante-7509546078618.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunas tiendas lo clasifican como shampoo infantil; la tienda que lo describe lo presenta para toda la familia. Ingredientes y modo de uso no aparecen en las fuentes.",
+    "notas_imagenes": "1 foto(s): 7509546078618_1.jpg (de tienda, dax.com.mx, 1200x1200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

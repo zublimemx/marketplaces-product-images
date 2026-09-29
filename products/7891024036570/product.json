@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "ENJ BUC COLGATE ORTHOGARD 250ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enjuague Bucal Colgate Orthogard Ortodoncia 250 ml",
+  "descripcion": "Descripción:\nEnjuague bucal Colgate Orthogard de uso diario, formulado para el cuidado ortodóntico. Está pensado para personas que usan brackets o aparatos de ortodoncia, ya que ayuda a proteger contra las caries, la descalcificación y las manchas blancas alrededor de los aparatos. Es un complemento del cepillado y del hilo dental que llega a zonas donde el cepillo no siempre alcanza. Presentación de 250 ml, suficiente para varias semanas de uso diario.\n\nBeneficios:\n- Cuidado ortodóntico de uso diario.\n- Ayuda a prevenir caries, descalcificación y manchas blancas.\n- Alcanza áreas donde el cepillo y el hilo dental no llegan.\n- Fórmula diseñada para pacientes con brackets y aparatos ortodónticos.\n- Complementa la rutina de higiene bucal después del cepillado.\n\nModo de uso:\nDespués de cepillarse los dientes, enjuague la boca con 10 ml durante 1 minuto y deseche el producto sin tragarlo. Use una vez al día. No coma ni beba durante los 30 minutos posteriores al enjuague.\n\nPresentación:\nFrasco con 250 ml de enjuague bucal.\n\nAdvertencias:\nNo ingerir. No apto para menores de 6 años. Mantener fuera del alcance de los niños. Si ocurre una ingestión accidental, busque atención médica.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Orthogard",
+    "variante": "Cuidado ortodóntico",
+    "presentacion": "Enjuague bucal",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Mayores de 6 años",
+    "otros": "Uso diario; Para pacientes con brackets y aparatos de ortodoncia; Dosis de uso: 10 ml durante 1 minuto"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891024036570_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gpsfarma.com/media/catalog/product/7/8/7891024036570_01.jpg",
+      "pagina": "https://gpsfarma.com/enjuague-bucal-colgate-orthogard-250ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://gpsfarma.com/enjuague-bucal-colgate-orthogard-250ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha detallada proviene de una tienda de Argentina que lista el mismo GTIN 7891024036570 (Colgate-Palmolive); el producto es de origen brasileño/argentino, verificar que el empaque en tienda coincida.",
+    "notas_imagenes": "1 foto(s): 7891024036570_1.jpg (de tienda, gpsfarma.com, 1000x1000 px). La foto muestra frasco y caja de Colgate Orthogard 250 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

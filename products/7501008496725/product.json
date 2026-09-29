@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "ASPIRINA EFERV C 60 TAB 36",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aspirina Efervescente 500 mg 60 Tabletas",
+  "descripcion": "Descripción:\nAspirina Efervescente 500 mg de Bayer son tabletas efervescentes con ácido acetilsalicílico, un analgésico y antipirético indicado para el alivio rápido del dolor y la fiebre en adultos. Al disolverse en agua, la tableta forma una solución lista para tomar.\n\nComposición:\nCada tableta efervescente contiene ácido acetilsalicílico 500 mg.\n\nModo de uso:\nVía oral. Disuelva la tableta en un vaso con agua y tome la solución cuando termine la efervescencia. Respete la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 60 tabletas efervescentes de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico al ácido acetilsalicílico, a otros salicilatos o a antiinflamatorios no esteroideos, ni si tiene úlcera gástrica o problemas de coagulación. No lo use durante el embarazo ni la lactancia sin indicación médica. No se administre a niños ni adolescentes con fiebre o infecciones virales sin indicación médica. Si el dolor persiste o la fiebre dura más de 3 días, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer",
+    "variante": "Efervescente",
+    "presentacion": "Caja con 60 tabletas efervescentes",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: tableta efervescente; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455514"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008496725_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501008496725-9241-1.png",
+      "pagina": "https://farmaciasfleming.mx/producto/aspirina-efervescente-500mg-caja-con-60-tabletas/",
+      "ancho_original": 940,
+      "alto_original": 788,
+      "lado_final": 1015,
+      "fecha": "2026-09-29",
+      "lado_util": 423
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasfleming.mx/producto/aspirina-efervescente-500mg-caja-con-60-tabletas/",
+    "https://vidafarmacias.com/mx/analgesicos/15335-aspirina-efervescente-blister-acetilsalicilico-acido.html",
+    "https://www.mercadolibre.com.mx/aspirina-tableta-efervescente-500-mg-60-tabletas/p/MLM39455514"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema termina en '36', que no se pudo interpretar (podría ser un código); las fichas confirman caja con 60 tabletas. Las advertencias son las generales del ácido acetilsalicílico y deben cotejarse con el empaque. El catálogo MLM39455514 sale en resultados con título de 60 tabletas; no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda (caja de frente, 1015 px). La imagen trae el producto pequeño dentro del cuadro; si se consigue una mejor, conviene reemplazarla.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

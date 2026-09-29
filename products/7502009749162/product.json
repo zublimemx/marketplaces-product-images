@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "TRIMEBUTINA SIMETICONA 100MG 37.5MG 20CAPS MAVER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Trimebutina Simeticona 100 mg/37.5 mg 20 Comprimidos Maver",
+  "descripcion": "Descripción:\nComprimidos que combinan trimebutina (100 mg) y simeticona (37.5 mg) en una sola formulación, elaborados por Maver. Se utilizan como apoyo en el alivio de las molestias gastrointestinales: la trimebutina contribuye a regular la función intestinal y la simeticona ayuda a reducir la sensación de distensión abdominal causada por los gases.\n\nComposición:\nCada comprimido contiene trimebutina 100 mg y simeticona 37.5 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 20 comprimidos.\n\nAdvertencias:\nMedicamento de venta con receta médica; no se automedique. No lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Maver",
+    "fabricante": "Maver Laboratorios",
+    "presentacion": "Caja con 20 comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 20,
+    "principio_activo": "Trimebutina, Simeticona",
+    "concentracion": "100 mg/37.5 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "158M2023 SSA IV",
+    "otros": "Forma farmacéutica: comprimido (el sistema lo nombra como cápsulas); Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": "MLM52370614"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009749162_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/trimebutina_2_f2b1f8ac-cfa4-4060-8e1e-1e9dc842801f.jpg?v=1776465708",
+      "pagina": "https://mayoreofarmaceutico.com.mx/productos/7502009749162/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1205,
+      "fecha": "2026-09-29",
+      "lado_util": 1116
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/trimebutina-simeticona-100mg-37-5mg-20-comprimidos-maver",
+    "https://mayoreofarmaceutico.com.mx/productos/7502009749162/",
+    "https://www.mercadolibre.com.mx/trimebutina-simeticona-100mg375mg-con-20-comprimidos-maver/p/MLM52370614"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'CAPS' pero el empaque y las fichas indican comprimidos. El catálogo MLM52370614 sale en los resultados de búsqueda con título idéntico; no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda (frente del empaque, 1205 px). Se borró otra foto por traer el logotipo de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

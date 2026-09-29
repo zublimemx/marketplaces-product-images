@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "DIMEGAN D C10 CAPS 5MG 20MG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dimegan-D Loratadina Fenilefrina 5 mg/20 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nDimegan-D son cápsulas de liberación prolongada que combinan loratadina, un antihistamínico, y fenilefrina, un descongestionante. Son elaboradas por Laboratorios Senosiain y se presentan en una caja con 10 cápsulas para administración oral. Es un medicamento de prescripción.\n\nComposición:\nCada cápsula de liberación prolongada aporta las siguientes cantidades.\n- Loratadina: 5 mg\n- Fenilefrina (clorhidrato): 20 mg\n\nCaracterísticas:\n- Cápsulas de liberación prolongada.\n- Combinación de un antihistamínico y un descongestionante en una sola cápsula.\n- Vía de administración oral.\n- Caja con 10 cápsulas.\n\nModo de uso:\nVía oral. Trague la cápsula completa, sin abrirla ni masticarla, con un poco de agua. La dosis y la duración del tratamiento las determina su médico.\n\nPresentación:\nCaja con 10 cápsulas de liberación prolongada de 5 mg/20 mg.\n\nAdvertencias:\nSu venta requiere receta médica. El uso de este producto debe ser recomendado únicamente por un médico; no se automedique. Consérvese a temperatura ambiente controlada, entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dimegan",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Dimegan-D",
+    "presentacion": "Cápsulas de liberación prolongada",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Loratadina y fenilefrina",
+    "concentracion": "5 mg / 20 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Liberación prolongada; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314703616_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77166690/7501314703616_00.jpg?v=639250356728770000",
+      "pagina": "https://www.chedraui.com.mx/capsulas-dimegan-d-5mg20mg-liberacion-prolongada-caja-con-10-capsulas-3028557/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1190,
+      "fecha": "2026-09-29",
+      "lado_util": 1101
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/capsulas-dimegan-d-5mg20mg-liberacion-prolongada-caja-con-10-capsulas-3028557/p",
+    "https://www.farmalisto.com.mx/alergias/6019-comprar-dimegan-d-5-mg-20-mg-caja-con-10-capsulas-precio-7501314703616-7501314703616.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Chedraui y Farmalisto. No se encontraron indicaciones terapéuticas detalladas en fuentes abiertas, por eso la descripción no las incluye. Chedraui indica venta con receta y el registro es fracción IV; Farmalisto lo marca sin receta, por lo que conviene revisarlo.",
+    "notas_imagenes": "1 foto de tienda (Chedraui) a 1200 px: caja frontal de Dimegan-D 5 mg/20 mg con 10 cápsulas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

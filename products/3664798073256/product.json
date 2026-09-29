@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "HISTIACIL GR3 AMBROXOL 20MG SBR LIMON C18",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Histiacil GR3 Ambroxol 20 mg Sabor Limón 18 Pastillas",
+  "descripcion": "Descripción:\nHistiacil GR3 son pastillas para disolver en la boca con 20 mg de ambroxol, sabor limón, indicadas como auxiliar en el alivio del dolor de la garganta irritada. Se toman disolviéndolas lentamente en la boca, sin masticarlas.\n\nComposición:\nCada pastilla contiene clorhidrato de ambroxol 20 mg.\n\nModo de uso:\nAdultos y adolescentes mayores de 12 años: disuelva lentamente una pastilla en la boca cada 4 horas, sin exceder 6 pastillas al día. No se mastique.\n\nPresentación:\nCaja con 18 pastillas sabor limón. Vía de administración bucal.\n\nAdvertencias:\nNo lo use si es alérgico al ambroxol o a alguno de los componentes de la fórmula. No se recomienda durante el primer trimestre del embarazo ni durante la lactancia. Se han reportado casos raros de reacciones graves en la piel; si aparecen, suspenda su uso y acuda al médico. Las personas con intolerancia hereditaria a la fructosa deben evitar su uso. Consulte a su médico si los síntomas persisten por más de 3 días o si presenta fiebre alta. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histiacil",
+    "fabricante": "Sanofi (Opella)",
+    "linea": "GR3",
+    "variante": "Sabor limón",
+    "presentacion": "Caja con 18 pastillas",
+    "contenido_neto": 18,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 18,
+    "principio_activo": "Ambroxol",
+    "concentracion": "20 mg",
+    "via_administracion": "Bucal",
+    "edad_etapa": "Adultos y adolescentes mayores de 12 años",
+    "sabor_aroma": "Limón",
+    "otros": "Forma farmacéutica: pastilla; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798073256_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3664798073256.jpg",
+      "pagina": "https://www.fahorro.com/histiacil-gr3-20-g-18-tabs-menta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1585,
+      "fecha": "2026-09-29",
+      "lado_util": 1468
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/histiacil-gr3-pastillas/3037/101/81599/121",
+    "https://farmaciasanjorge.com/products/44097",
+    "https://www.fahorro.com/histiacil-gr3-20-g-18-tabs-menta.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema dice 'SBR LIMON'; se interpretó como sabor limón (confirmado por el empaque de la foto). La foto salió de un archivo de tienda nombrado con el GTIN.",
+    "notas_imagenes": "1 foto de tienda (frente del empaque sabor limón, 1585 px). La foto de PLM (400 px) era muy chica.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

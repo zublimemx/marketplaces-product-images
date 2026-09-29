@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "CENTRUM GENDER MAS 50 HOM C60TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Centrum Gender +50 Multivitamínico Hombres 60 Tabletas",
+  "descripcion": "Descripción:\nCentrum Gender +50 Hombres es un suplemento alimenticio multivitamínico y multimineral en tabletas, formulado para complementar las necesidades nutrimentales de los hombres mayores de 50 años. Su fórmula reúne vitaminas y minerales en una sola tableta para acompañar una alimentación variada y equilibrada.\n\nBeneficios:\n- Complementa la ingesta diaria de vitaminas y minerales en hombres mayores de 50 años\n- Contiene ácido fólico, que participa en los tejidos con alto índice de renovación celular\n- Fórmula pensada específicamente para las necesidades del hombre en esta etapa de la vida\n- Práctica presentación de 60 tabletas para varias semanas de uso\n\nModo de uso:\nTome las tabletas conforme a las indicaciones de la etiqueta del empaque, con un vaso de agua y de preferencia con alimentos. Si olvida una toma, continúe con la siguiente sin duplicar la dosis.\n\nPresentación:\nFrasco con 60 tabletas. Marca Centrum, línea Gender +50.\n\nAdvertencias:\n- Este producto es un suplemento alimenticio; no es un medicamento ni sustituye una alimentación variada y equilibrada\n- No exceda la dosis recomendada\n- Si está embarazada o en periodo de lactancia, o si toma algún medicamento o tiene alguna condición médica, consulte a su médico antes de usarlo\n- Manténgase en un lugar fresco y seco, fuera del alcance de los niños",
+  "ficha": {
+    "marca": "Centrum",
+    "fabricante": "Haleon",
+    "linea": "Gender +50",
+    "variante": "Hombres mayores de 50 años",
+    "presentacion": "Frasco con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "edad_etapa": "Adultos mayores de 50 años",
+    "otros": "Formato: multivitamínico y multimineral en tabletas; Ingrediente destacado: ácido fólico; Tipo: suplemento alimenticio"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065003973_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaleal.com.mx/cdn/shop/products/7501065003973.jpg?v=1743748890&width=1946",
+      "pagina": "https://www.fahorro.com/centrum-multivitaminico-gender-50-hombres-60-tabletas.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 956,
+      "fecha": "2026-09-29",
+      "lado_util": 884
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/centrum-gender-hombre50-multivitaminico-60-tabletas/",
+    "https://www.farmaleal.com.mx/products/centrum-gender-50-hombres-tab-60-7501065003973",
+    "https://www.fahorro.com/centrum-multivitaminico-gender-50-hombres-60-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (60 tabletas). Las fichas de tienda no traen la lista de vitaminas y minerales con cantidades ni el modo de uso; el modo de uso y las advertencias son genéricos de suplemento. El fabricante aparece como Haleon o GSK según la tienda (la foto muestra logotipo Pfizer). No se abrió la página oficial.",
+    "notas_imagenes": "1 foto de frente (956 px) del frasco Gender +50 hombres. Se descartó una foto de Farmacias del Ahorro por ser del empaque 'Gender Adulto' con rótulos promocionales.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

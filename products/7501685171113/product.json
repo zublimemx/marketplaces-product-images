@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "SICO U SENSE INV C3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Sico Invisible Ultra Sense 3 Piezas",
+  "descripcion": "Descripción:\nCondones de látex Sico Invisible Ultra Sense, en cartera con 3 piezas. Están hechos de hule látex natural extra delgado, con receptáculo, paredes rectas y lubricante de silicón, para brindar mayor sensación y sentirse más cerca de la pareja. Su diseño anatómico facilita la colocación (easy-on). Cada condón está probado electrónicamente y pasa por pruebas de calidad antes de empacarse.\n\nCaracterísticas:\n- Látex natural extra delgado para mayor sensibilidad.\n- Paredes rectas con receptáculo y diseño anatómico de fácil colocación.\n- Lubricado con silicón.\n- Probado electrónicamente.\n- El uso correcto del condón ayuda a prevenir el embarazo y a reducir el riesgo de contagio de VIH/SIDA y otras infecciones de transmisión sexual.\n\nModo de uso:\nAbra el empaque con cuidado, sin usar uñas ni dientes. Coloque el condón sobre el pene erecto antes de cualquier contacto, dejando espacio en la punta, y desenróllelo hasta la base. Después de usarlo, retírelo con cuidado y deséchelo. Use un condón en cada relación sexual y no lo reutilice.\n\nPresentación:\nCartera con 3 condones.\n\nAdvertencias:\n- Un solo uso.\n- Puede usarse con lubricantes a base de agua o de silicón; no use lubricantes oleosos, vaselina ni cremas, porque pueden dañar el látex.\n- Conserve en un lugar fresco y seco, lejos del calor y de la luz directa.\n- No lo use si el empaque está dañado ni si es alérgico al látex.",
+  "ficha": {
+    "marca": "Sico",
+    "linea": "Invisible",
+    "variante": "Ultra Sense",
+    "presentacion": "Cartera con 3 condones",
+    "contenido_neto": 3,
+    "unidad_contenido": "condones",
+    "unidades_por_envase": 3,
+    "otros": "Material: hule látex natural; Lubricante: silicón; Diseño: paredes rectas con receptáculo, extra delgado; Formato de venta: Cartera con 3 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501685171113_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501685171113_7_2.jpg",
+      "pagina": "https://www.fahorro.com/sico-invisible-ultra-sense-condones-de-hule-latex-natural-cartera-con-3-piezas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sico-invisible-ultra-sense-condones-de-hule-latex-natural-cartera-con-3-piezas.html",
+    "https://boners.com.mx/condones-y-preservativos/sico/7501685171113/11697-sico-invisible-3-piezas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos tiendas en línea (Sico Invisible Ultra Sense, 3 piezas). El nombre del sistema \"SICO U SENSE INV C3\" corresponde a esta presentación. El modo de uso es el general de cualquier condón de látex; consulte el instructivo del empaque. No se abrió una página oficial de la marca.",
+    "notas_imagenes": "1 foto de tienda con el frente del empaque Sico Invisible 3 piezas (1600 px). Se descartó una segunda foto por traer marca de agua de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

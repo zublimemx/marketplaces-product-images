@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "EVOCS III 750MG C 7",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Evocs III Levofloxacino 750 mg 7 Tabletas",
+  "descripcion": "Descripción:\nEvocs III es un antibiótico de la familia de las quinolonas cuyo principio activo es el levofloxacino, en tabletas de 750 mg. Se utiliza para el tratamiento de infecciones bacterianas en distintas localizaciones causadas por microorganismos sensibles, entre ellas infecciones de las vías respiratorias, de las vías urinarias y de la piel y tejidos blandos. Es elaborado por Laboratorios Liomont y su venta requiere receta médica.\n\nComposición:\nCada tableta contiene levofloxacino hemihidratado equivalente a 750 mg de levofloxacino. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico; no suspenda ni modifique el tratamiento por su cuenta.\n\nPresentación:\nCaja con 7 tabletas de 750 mg.\n\nAdvertencias:\n- No lo use si es alérgico al levofloxacino o a otras quinolonas\n- No lo use si ha presentado tendinitis o ruptura de tendón con quinolonas\n- No se use durante el embarazo ni la lactancia\n- No se recomienda en niños ni en adolescentes en etapa de crecimiento\n- Precaución en personas con alteraciones del sistema nervioso central, insuficiencia renal y en adultos mayores\n- Evite la exposición excesiva al sol o a lámparas de rayos UV durante el tratamiento\n- Conservar en lugar fresco y seco, protegido de la luz\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Evocs",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Evocs III",
+    "presentacion": "Caja con 7 tabletas",
+    "contenido_neto": 7,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 7,
+    "principio_activo": "Levofloxacino",
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antibiótico (quinolona); Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299330371_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299330371_3.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1654,
+      "fecha": "2026-09-29",
+      "lado_util": 1532
+    },
+    {
+      "archivo": "7501299330371_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299330371_4.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1662,
+      "fecha": "2026-09-29",
+      "lado_util": 1539
+    },
+    {
+      "archivo": "7501299330371_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299330371_1.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1427,
+      "fecha": "2026-09-29",
+      "lado_util": 1322
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/evocs-iii-750-mg-oral-7-tabletas.html",
+    "https://wecarepharma.mx/en/products/evocs-iii-750mg-con-7-tabletas-levofloxacino",
+    "https://www.farmaciasguadalajara.com/evocs-iii-750mg-7-tabletas-1206036"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501299330371 confirmado (fichas de Farmacias Medina y del Ahorro, imagen nombrada con el GTIN). Antibiótico de venta con receta. Registro sanitario no visto.",
+    "notas_imagenes": "3 fotos de frente y de tres cuartos del empaque, de la ficha de Farmacias del Ahorro (1427 a 1662 px), todas correctas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

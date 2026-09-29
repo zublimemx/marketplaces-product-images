@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "VITACILINA BEBE 50 G OFERTADO 5%",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vitacilina Bebé Pomada Rozaduras de Pañal 50 g",
+  "descripcion": "Descripción:\nVitacilina Bebé es una pomada para el cuidado de la delicada piel del bebé, enriquecida con vitaminas A, D y E, alantoína y aceites humectantes. Su fórmula, de textura suave y fácil aplicación, forma un escudo protector sobre la piel, ayuda a prevenir las rozaduras causadas por el pañal y alivia las irritaciones en la piel. Es hipoalergénica y dermatológica.\n\nBeneficios:\n- Forma una barrera protectora sobre la piel del bebé\n- Ayuda a prevenir y aliviar las rozaduras y la dermatitis del pañal\n- Enriquecida con vitaminas A, D y E\n- Contiene lanolina y aceites humectantes que ayudan a mantener sana la piel\n- Textura suave y de fácil aplicación\n- Hipoalergénica y dermatológica\n\nModo de uso:\nDespués de limpiar y secar bien la piel del bebé, aplique una capa delgada de pomada en la zona afectada o propensa a rozaduras en cada cambio de pañal o las veces que sea necesario.\n\nPresentación:\nTubo con 50 g de pomada. Marca Vitacilina, línea Bebé.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación o si las molestias persisten y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "linea": "Vitacilina Bebé",
+    "variante": "Pomada para rozaduras de pañal",
+    "presentacion": "Tubo con 50 g",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel delicada del bebé",
+    "otros": "Formato: pomada; Ingredientes destacados: vitaminas A, D y E, alantoína, lanolina y aceites humectantes; Hipoalergénica y dermatológica"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM193807",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,65 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "354312225164_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225164_4.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-bebe-cut-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1178,
+      "fecha": "2026-09-29",
+      "lado_util": 1091
+    },
+    {
+      "archivo": "354312225164_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225164_1.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-bebe-cut-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1490,
+      "fecha": "2026-09-29",
+      "lado_util": 1380
+    },
+    {
+      "archivo": "354312225164_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225164_2.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-bebe-cut-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1173,
+      "fecha": "2026-09-29",
+      "lado_util": 1087
+    },
+    {
+      "archivo": "354312225164_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225164.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-bebe-cut-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1487,
+      "fecha": "2026-09-29",
+      "lado_util": 1377
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/vitacilina-bebe-cut-50-g.html",
+    "https://www.sanborns.com.mx/producto/579318/vitacilina-bebe-crema-para-rozaduras-50-gr",
+    "https://farmaciasgi.com.mx/catalogo-de-productos-en-linea/vitacilina-bebe-pom-c-50-gr/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 354312225164 (12 dígitos) confirmado como EAN 0354312225164 en una tienda y en la ficha de Farmacias del Ahorro (50 g). No se vio el fabricante ni el modo de uso en las fichas; el modo de uso y las advertencias son genéricos de pomada para bebé. El nombre del sistema trae 'ofertado 5%', que se ignoró.",
+    "notas_imagenes": "4 fotos de la caja de Vitacilina Bebé 50 g (frente, parte trasera con texto de la fórmula y tres cuartos; 1173 a 1490 px) de la ficha de Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DEO BRUT 150ML SPY CLASSIC",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Brut Classic en Aerosol para Hombre 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Brut Classic para hombre, en presentación de 150 ml. Está diseñado para brindar protección contra el olor y la humedad de las axilas hasta por 24 horas, con una fragancia clásica y masculina. Su rápida absorción da una sensación inmediata de frescura sin dejar manchas en la ropa, por lo que es ideal para el uso diario en la oficina, el gimnasio o cualquier actividad al aire libre.\n\nCaracterísticas:\n- Fragancia Classic, aroma masculino clásico.\n- Protección contra el olor hasta por 24 horas.\n- Rápida absorción y sensación inmediata de frescura.\n- No mancha la ropa.\n- Formato aerosol de 150 ml, práctico para el uso diario.\n\nModo de uso:\nAgite el envase antes de usarlo. Aplíquelo únicamente en las axilas, con el envase a una distancia aproximada de 15 cm (6 pulgadas).\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos y no lo aplique sobre la piel irritada o lastimada.\n- Contenido a presión: manténgalo alejado del calor, de las flamas y de las chispas; no lo perfore ni lo incinere, aunque esté vacío.\n- No inhale directamente el producto y úselo en áreas ventiladas.\n- Mantenga el envase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Brut",
+    "linea": "Classic",
+    "variante": "Aerosol",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Classic",
+    "genero": "Hombre",
+    "otros": "Contenido indicado por las tiendas como 150 ml o 150 g; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502221181337_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw0e57bf91/images/7502221181337/7502221181337_1.jpg",
+      "pagina": "https://www.dax.com.mx/producto/brut-desodorante-spray-classic-150g--12-7502221181337.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1045,
+      "fecha": "2026-09-29",
+      "lado_util": 968
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/brut-desodorante-spray-classic-150g--12-7502221181337.html",
+    "https://farmaciasanjorge.com/products/35245"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la dirección de una tienda mayorista (Brut Classic 150 g, que lo vende en paquete de 12) y en otro distribuidor; hay tiendas que lo listan como 150 ml, 150 g o 208 ml, así que el contenido exacto debe verificarse en el empaque. No se encontró página oficial. Modo de uso y protección de 24 horas tomados de las fichas de tienda.",
+    "notas_imagenes": "1 foto de tienda con el lado frontal del aerosol Brut Classic (1200 px originales); es la foto del artículo individual con el GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "ESKAPAR COMP SUSP 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Eskapar Compuesto Suspensión 120 ml con Vaso Dosificador",
+  "descripcion": "Descripción:\nEskapar Compuesto es una suspensión oral que combina nifuroxazida y metronidazol, elaborada por Armstrong Laboratorios de México. Según la ficha del medicamento se emplea en infecciones gastrointestinales causadas por parásitos, como la amebiasis y la giardiasis. Se presenta en un frasco de 120 ml con vaso dosificador.\n\nComposición:\nNifuroxazida y metronidazol, con concentración indicada en el empaque de 4 g / 5 g en suspensión oral.\n\nCaracterísticas:\n- Suspensión oral lista para tomar.\n- Combina dos principios activos: nifuroxazida y metronidazol.\n- Incluye vaso dosificador para medir cada dosis.\n- Frasco de 120 ml.\n\nModo de uso:\nVía oral. Agite el frasco antes de usarlo y mida la dosis con el vaso dosificador, siguiendo exactamente la dosis y la duración que indique su médico.\n\nPresentación:\nFrasco con 120 ml y vaso dosificador.\n\nAdvertencias:\nMedicamento de prescripción: su venta requiere receta médica. Consérvese a temperatura ambiente controlada, sin exceder los 30 °C. No lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eskapar",
+    "fabricante": "Armstrong Laboratorios de México",
+    "linea": "Compuesto",
+    "presentacion": "Suspensión oral con vaso dosificador",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Nifuroxazida y metronidazol",
+    "concentracion": "4 g / 5 g (según empaque)",
+    "via_administracion": "Oral",
+    "otros": "Incluye vaso dosificador; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
+      "categoria_rx_sugerida": "MLM457835",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089809315_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw788a89f9/images/large/7501089809315_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/eskapar-comp-suspension-vaso-do-120ml/MXYZ_7501089809315.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1297,
+      "fecha": "2026-09-29",
+      "lado_util": 1201
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antidiarreicos-con-receta/3469-comprar-eskapar-compuesto-suspension-frasco-con-120-ml-y-vaso-dosificador-amebiasis-precio-7501089809315.html",
+    "https://www.yza.mx/eskapar-comp-suspension-vaso-do-120ml/MXYZ_7501089809315.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto. La concentración '4 g / 5 g' se leyó del empaque sin la referencia por volumen; no se pudo confirmar en otra fuente si es por 100 ml. Venta con receta (fracción IV).",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1300 px: frasco frontal de Eskapar Compuesto con 120 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

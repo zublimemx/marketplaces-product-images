@@ -50,7 +50,8 @@ def main():
         "",
         f"Fotos guardadas: {nfotos}.",
         "",
-        f"Con {por_sesion} productos por sesión faltan {ses_faltan} sesiones; con las {hechas} ya hechas, el total estimado es de {hechas + ses_faltan} sesiones.",
+        (f"Con {por_sesion} productos por sesión falta 1 sesión" if ses_faltan == 1 else f"Con {por_sesion} productos por sesión faltan {ses_faltan} sesiones")
+        + f"; con las {hechas} ya hechas, el total estimado es de {hechas + ses_faltan} sesiones.",
         "",
         "## Historial",
         "",

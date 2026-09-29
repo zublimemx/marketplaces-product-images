@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "PRIMOTESTON DEPOT 250MG AMP TESTOSTERONA SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Primoteston Depot Testosterona 250 mg/ml 1 Ampolleta",
+  "descripcion": "Descripción:\nPrimoteston Depot, de Bayer, es una solución inyectable de testosterona de acción prolongada (depósito) para administración intramuscular. Cada ampolleta de 1 ml contiene 250 mg de testosterona en forma de enantato de testosterona. Está indicado como terapia de reemplazo de testosterona en hombres con hipogonadismo, es decir, con niveles insuficientes de testosterona, y en otros casos que determine el médico, como el retraso puberal en varones.\n\nFórmula:\nCada ampolleta con 1 ml contiene 250 mg de testosterona (como enantato de testosterona) y excipientes.\n\nModo de uso:\nVía intramuscular. La aplicación debe realizarla personal de salud capacitado; la dosis y la frecuencia de aplicación las determina el médico.\n\nPresentación:\nCaja con 1 ampolleta de 1 ml.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Está contraindicado en cáncer de próstata o de mama en hombres y en caso de hipersensibilidad a alguno de los componentes.\n- Requiere seguimiento médico periódico durante el tratamiento.\n- Consérvelo a no más de 30 °C, en un lugar seco, protegido de la luz y dentro de su empaque.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Primoteston Depot",
+    "fabricante": "Bayer",
+    "linea": "Depot",
+    "presentacion": "Caja con 1 ampolleta de 1 ml",
+    "contenido_neto": 1,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Testosterona (enantato de testosterona)",
+    "concentracion": "250 mg/ml",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "genero": "Hombre",
+    "otros": "Forma farmacéutica: Solución inyectable; Requiere receta médica; Formato de venta: Caja con 1 ampolleta"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501303458503_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501303458503_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/medicamentos/detalle/9868-primoteston-depot-250mg-amp-caj-c1",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 557,
+      "fecha": "2026-09-29",
+      "lado_util": 516
+    },
+    {
+      "archivo": "7501303458503_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501303458503_a263ae91-5e05-46ff-97d4-b4358519c0af.jpg?v=1701389986&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/9152",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasespecializadas.com/medicamentos/detalle/9868-primoteston-depot-250mg-amp-caj-c1",
+    "https://farmaciasanjorge.com/products/9152",
+    "https://wecarepharma.mx/en/products/primoteston-depot-250mg-1ml-con-1-ampulas-testosterona"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (Primoteston Depot 250 mg/1 ml, 1 ampolleta, Bayer). Composición e indicación de fichas de farmacias en línea; no se abrió ficha oficial ni PLM. Se ignoró la fecha de caducidad del nombre del sistema.",
+    "notas_imagenes": "2 fotos de tienda del frente de la caja Primoteston Depot (Bayer), 1000 px originales cada una.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD REXONA CLIN SPORT 3X 96H58G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Rexona Men Clinical Sport Strength 58 g",
+  "descripcion": "Descripción:\nRexona Men Clinical Sport Strength es un antitranspirante en crema para caballero, en formato de barra, de la línea Clinical de Rexona. Está formulado para quienes buscan una protección reforzada contra el sudor y el olor en momentos de mucha actividad, con hasta 96 horas de protección y 3 veces más protección que un antitranspirante común.\n\nCaracterísticas:\n- Fórmula en crema invisible para el cuidado de las axilas\n- Hasta 96 horas de protección contra el sudor y el olor\n- 3 veces más protección que un antitranspirante común\n- Anti-manchas, de secado rápido y textura ligera\n- Contenido neto: 58 g\n\nModo de uso:\nAplique únicamente en las axilas, sobre la piel limpia y seca. No lo use sobre piel muy húmeda, irritada o lastimada.\n\nPresentación:\nBarra de crema antitranspirante de 58 g.\n\nAdvertencias:\nUso externo. Suspenda su uso si aparece irritación, enrojecimiento o molestia. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Clinical",
+    "variante": "Sport Strength",
+    "presentacion": "Barra de crema antitranspirante",
+    "contenido_neto": 58,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "otros": "Protección: hasta 96 horas; Formato: crema invisible en barra; Anti-manchas; Secado rápido; Textura ligera"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "75076856_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75076856_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1263,
+      "fecha": "2026-09-29",
+      "lado_util": 1170
+    },
+    {
+      "archivo": "75076856_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/75076856-1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 949,
+      "fecha": "2026-09-29",
+      "lado_util": 879
+    }
+  ],
+  "url_oficial": "https://www.rexona.com/ar/p/rexona-men-antitranspirante-clinical-sport-strength-48gr.html/00079400300546",
+  "fuentes": [
+    "https://www.rexona.com/ar/p/rexona-men-antitranspirante-clinical-sport-strength-48gr.html/00079400300546",
+    "https://farmaciasanjorge.com/products/41606"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se abrió ninguna ficha mexicana con el GTIN de 8 dígitos; la información viene de la ficha oficial de la misma variante (48 g, Argentina) y de las fotos del empaque, que coinciden con Men Clinical Sport Strength 96 h. El contenido de 58 g viene del nombre del sistema.",
+    "notas_imagenes": "2 fotos de tienda (frente del empaque con barra), 1263 y 949 px; se borró un duplicado. El sitio oficial de México devolvió 403.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ADVIL MAX 400 MG C20 CAPS NOVIEMBRE 26",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Advil Max Ibuprofeno 400 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nAdvil Max son cápsulas con tecnología líquida que contienen 400 mg de ibuprofeno, un antiinflamatorio no esteroideo con efecto analgésico y antipirético. Proporcionan rápida acción y alivio de los dolores moderados a fuertes, con efecto analgésico de hasta 8 horas, y son suaves con el estómago.\n\nBeneficios:\n- Potencia analgésica en una sola cápsula\n- Rápida acción con efecto de hasta 8 horas\n- Alivio de dolor de cabeza, migraña y dolor muscular\n- Alivio del dolor dental y del cólico menstrual\n- Auxiliar en el dolor articular y en el asociado al resfriado común\n- Ayuda a reducir la fiebre\n- Suave con el estómago\n\nComposición:\nCada cápsula contiene ibuprofeno 400 mg. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: tome una cápsula cada 6 a 8 horas, según la severidad de los síntomas, sin exceder 3 cápsulas al día. No lo tome por más de 10 días para aliviar el dolor ni por más de 3 días para reducir la fiebre. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 cápsulas de 400 mg.\n\nAdvertencias:\n- No lo use si es alérgico al ibuprofeno, al ácido acetilsalicílico o a otro antiinflamatorio no esteroideo\n- No lo use si tiene úlcera o sangrado gastrointestinal, ni durante los últimos 3 meses del embarazo\n- Consulte a su médico antes de usarlo si padece asma, enfermedad del corazón, cirrosis hepática, hipertensión o enfermedad del riñón\n- El uso continuo a largo plazo puede aumentar el riesgo de ataque cardiaco o apoplejía\n- Suspenda su uso y consulte a su médico si el dolor empeora, si la fiebre persiste o si aparece una reacción alérgica, sangrado o heces negras\n- No se administre a menores de 12 años\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Advil",
+    "fabricante": "Haleon",
+    "linea": "Advil Max",
+    "presentacion": "Caja con 20 cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "400 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "272M2004 SSA VI",
+    "otros": "Forma farmacéutica: cápsulas con tecnología líquida; Grupo terapéutico: analgésico, antiinflamatorio y antipirético; Venta libre; Efecto de hasta 8 horas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501108767947_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501108767947.jpg",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/78-advil-max-400-mg-con-20-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1354,
+      "fecha": "2026-09-29",
+      "lado_util": 1254
+    },
+    {
+      "archivo": "7501108767947_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501108767947_2.jpg",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/78-advil-max-400-mg-con-20-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1501,
+      "fecha": "2026-09-29",
+      "lado_util": 1390
+    },
+    {
+      "archivo": "7501108767947_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501108767947_1.jpg",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/78-advil-max-400-mg-con-20-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1355,
+      "fecha": "2026-09-29",
+      "lado_util": 1256
+    }
+  ],
+  "url_oficial": "https://www.advil.com.mx/nuestros-productos/advil-capsulas-400-mg/",
+  "fuentes": [
+    "https://www.advil.com.mx/nuestros-productos/advil-capsulas-400-mg/",
+    "https://farmaciagloria.mx/Analgesicos/78-advil-max-400-mg-con-20-capsulas.html",
+    "https://www.vademecum.es/mexico/medicamento/1143629/advil-max-capsulas-400-mg"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501108767947 confirmado en varias tiendas y en imágenes oficiales nombradas con el GTIN (Advil cápsulas 400 mg). La posología y las advertencias se leyeron de la foto trasera del empaque. La caja de la foto indica distribución de Pfizer; la página oficial actual señala a Haleon como titular. El nombre del sistema trae una fecha de caducidad que se ignoró.",
+    "notas_imagenes": "3 fotos de la caja de Advil Max 20 cápsulas (frente, tres cuartos y parte trasera con instrucciones; 1354 a 1501 px), nombradas con el GTIN, tomadas del repositorio de imágenes de Farmacias del Ahorro. Se descartaron 2 gráficos promocionales de la página oficial por no ser fotos del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAZA ENT EVENFLO F-PLA B-SVE 100Z",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Taza Entrenadora Evenflo Fun Play Boquilla Suave 10 oz",
+  "descripcion": "Descripción:\nLa Taza Entrenadora Fun Play con Boquilla Suave de Evenflo tiene capacidad de 10 oz (300 ml) y está pensada para acompañar al bebé en la transición del biberón al vaso entrenador. Su diseño divertido incluye asas para que el bebé la sostenga con sus propias manos y una boquilla suave de silicón grado alimenticio que facilita el paso de la succión al sorbo.\n\nCaracterísticas:\n- Boquilla suave de silicón grado alimenticio.\n- Botella con forma ergonómica que se adapta a las manos pequeñas.\n- Asas resistentes con textura que estimulan los sentidos del bebé y facilitan el agarre.\n- Protector antiderrames que mantiene la higiene de la boquilla cuando no se usa.\n- Componentes intercambiables en distintos colores para crear divertidas combinaciones.\n- Fabricada con materiales seguros.\n- Recomendada a partir de los 9 meses, según el empaque del fabricante.\n\nModo de uso:\nLlene la taza con el líquido, coloque la boquilla y el protector, y entréguela al bebé siempre bajo la supervisión de un adulto.\n\nPresentación:\n1 taza entrenadora de 10 oz (300 ml) con asas. El color se surte según disponibilidad.",
+  "ficha": {
+    "marca": "Evenflo",
+    "fabricante": "Evenflo",
+    "linea": "Fun Play",
+    "variante": "Boquilla suave",
+    "presentacion": "Taza entrenadora con asas",
+    "contenido_neto": 300,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "A partir de 9 meses",
+    "otros": "Capacidad: 10 oz (300 ml); Boquilla: silicón grado alimenticio; Con asas y protector de boquilla; Color surtido según disponibilidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189891",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Vasos, Platos y Cubiertos > Vasos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027565846_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw394eb4a7/images/large/7501027565846_2.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/evenflo-taza-fun-play-bs-10oz/MXYZ_7501027565846.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1425,
+      "fecha": "2026-09-29",
+      "lado_util": 1320
+    },
+    {
+      "archivo": "7501027565846_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb0842f53/images/large/7501027565846_3.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/evenflo-taza-fun-play-bs-10oz/MXYZ_7501027565846.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1620,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/evenflo-taza-fun-play-bs-10oz/MXYZ_7501027565846.html",
+    "https://www.fahorro.com/evenflo-fun-play-taza-entrenadora-10-oz-con-boquilla-suave-para-bebes-desde-6-meses.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos tiendas. La edad recomendada difiere: 9 meses en la infografía del empaque y 6 meses en la ficha de una tienda; se usó la del empaque.",
+    "notas_imagenes": "2 fotos de tienda (yza.mx): taza rosa de frente y ficha informativa del fabricante. Se descartó una foto con leyenda de disponibilidad de colores.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

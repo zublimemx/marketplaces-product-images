@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ESTERICIDE ANTISEP SOL FCO C AT 120 ML SEPTIEMBR 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Estericide Solución Antiséptica Spray 120 ml",
+  "descripcion": "Descripción:\nEstericide es una solución antiséptica tópica de amplio espectro elaborada por Esteripharma, a base de una solución electrolizada de superoxidación con pH neutro y especies activas de cloro y oxígeno al 0.002%. Se presenta en frasco con atomizador (spray) de 120 ml para aplicarla directamente sobre la lesión.\n\nBeneficios:\n- Solución de amplio espectro frente a virus, bacterias y hongos.\n- Indicada en infecciones y lesiones de la piel, agudas o crónicas.\n- Se utiliza en quemaduras de primer, segundo y tercer grado.\n- Coadyuvante en el cuidado del pie diabético.\n- Formulada para no provocar ardor ni irritación al aplicarse.\n- pH neutro y práctico atomizador.\n\nComposición:\nSolución electrolizada de superoxidación con pH neutro, con especies activas de cloro y oxígeno al 0.002%.\n\nModo de uso:\nLimpie la lesión con agua y jabón y séquela. Si es necesario, retire el tejido dañado con gasa estéril. Aplique la solución directamente sobre la lesión tres veces al día y cubra con un apósito si se requiere.\n\nPresentación:\nFrasco con atomizador de 120 ml. Uso tópico.\n\nAdvertencias:\nNo exponga el producto directamente a la luz solar. Consérvese a temperatura ambiente. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Estericide",
+    "fabricante": "Esteripharma",
+    "variante": "Solución antiséptica con atomizador",
+    "presentacion": "Frasco con atomizador (spray)",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Solución electrolizada de superoxidación (especies activas de cloro y oxígeno)",
+    "concentracion": "0.002%",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: solución tópica; pH neutro; Amplio espectro; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +33,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/estericide.solucion.antiseptica.solucion.topica/1365/101/33563/186",
+    "https://www.walmart.com.mx/ip/estericide-solucion-antiseptica-spray-para-lesiones-120-ml-estericide-120-ml/00750635930061"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de PLM lista varias presentaciones sin mencionar el atomizador; la presentación de 120 ml con atomizador se confirmó en tiendas. Se clasificó como venta libre en dermatológicos por no haber categoría específica de antisépticos.",
+    "notas_imagenes": "Sin fotos válidas: la única imagen de 120 ml con el GTIN traía marca de agua de la tienda y se borró; la de PLM mide 400 px y el script la rechaza. Las tiendas grandes no exponen la imagen.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

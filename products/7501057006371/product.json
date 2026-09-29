@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "ANTISEP LIST TOTAL CARE 500ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enjuague Bucal Listerine Cuidado Total 500 ml",
+  "descripcion": "Descripción:\nListerine Cuidado Total es un enjuague bucal antiséptico con flúor, de cuidado avanzado para una boca más protegida. Complementa el cepillado y el uso del hilo dental llegando a zonas de la boca a las que el cepillo no accede, y deja una sensación de frescura duradera. Presentación familiar de 500 ml.\n\nBeneficios:\n- Cuidado avanzado para una boca más protegida.\n- Con flúor para ayudar a proteger contra las caries.\n- Ayuda a combatir los gérmenes que causan el mal aliento y la placa dentobacteriana.\n- Complemento del cepillado y del hilo dental.\n- Sensación de frescura en la boca.\n\nModo de uso:\nDespués del cepillado, enjuague la boca con 20 ml (sin diluir) durante 30 segundos y escúpalo. No lo trague. Use dos veces al día o como lo indique su dentista.\n\nPresentación:\nFrasco con 500 ml de enjuague bucal.\n\nAdvertencias:\nNo ingerir. No lo utilice en niños menores de 6 años sin supervisión de un adulto. Manténgase fuera del alcance de los niños. Suspenda su uso y consulte a su dentista si aparece irritación en la boca. Almacene en un lugar fresco.",
+  "ficha": {
+    "marca": "Listerine",
+    "fabricante": "Kenvue",
+    "linea": "Cuidado Total",
+    "variante": "Cuidado Total",
+    "presentacion": "Enjuague bucal",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Con flúor; Antiséptico bucal; Uso familiar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501057006371_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/planogram__1__1cb0dfe0-4ee2-459f-9bcb-71143815772a.jpg?v=1732561190&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/enjuague-listerine-total-care-500-ml",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 1854,
+      "fecha": "2026-09-29",
+      "lado_util": 1717
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciaherrera.com.mx/products/enjuague-listerine-total-care-500-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes abiertas traen muy poco texto; beneficios y modo de uso (20 ml, 30 segundos) son los habituales de Listerine y de la etiqueta visible, verificar contra el empaque. La marca figura como Kenvue en una tienda.",
+    "notas_imagenes": "1 foto(s): 7501057006371_1.jpg (de tienda, farmaciaherrera.com.mx, 1920x1920 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

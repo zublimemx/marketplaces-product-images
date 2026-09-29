@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "NEXCARE BCO 2 5CM C12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cinta Micropore Nexcare Blanca 2.5 cm 12 Piezas",
+  "descripcion": "Descripción:\nCinta adhesiva microporosa blanca de la marca Nexcare, de 2.5 cm de ancho, en presentación de caja con 12 piezas. La línea Nexcare Micropore es una cinta de papel con respaldo de rayón no tejido, microporosa, hipoalergénica y libre de látex.\n\nCaracterísticas:\n- Permite la respiración de la piel.\n- Adhesivo hipoalergénico, apto para pieles delicadas.\n- Fácil de cortar con la mano y de retirar.\n- Especialmente indicada para personas con piel sensible o frágil y para uso pediátrico.\n\nUsos recomendados:\n- Fijación de apósitos que requieren cambios frecuentes.\n- Fijación de vendajes y catéteres.\n- Señalización de vendajes y catéteres.\n\nPresentación:\nCaja con 12 piezas de 2.5 cm de ancho. El largo de cada pieza no se pudo confirmar.\n\nAdvertencias:\nSuspenda su uso si aparece irritación o enrojecimiento de la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nexcare",
+    "fabricante": "3M",
+    "linea": "Micropore",
+    "variante": "Blanca",
+    "presentacion": "Caja con 12 piezas",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "otros": "Ancho: 2.5 cm; Largo por pieza sin confirmar; Papel con respaldo de rayón no tejido; Hipoalergénica; Libre de látex; Fácil de cortar a mano"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.3m.com.pe/3M/es_PE/p/d/v000504983/",
+    "https://www.fahorro.com/nexcare-cinta-micropore-blanca-2-5-cm-x-5-m.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "El GTIN de 14 dígitos (37501023108857) parece ser un empaque múltiple del artículo 7501023108857, que no apareció en ninguna página. La descripción se basa en la ficha general de Nexcare Micropore; no se confirmó el largo del rollo ni si son 12 rollos. Verificar contra el empaque.",
+    "notas_imagenes": "Sin fotos: no se halló ninguna página con este GTIN ni con la caja de 12; las fotos de Nexcare Micropore encontradas son de rollos individuales de otras medidas y no se usaron.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "COMBIGAN D SOL OFT 5ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Combigan D Brimonidina Timolol 0.2%/0.5% Solución 5 ml",
+  "descripcion": "Descripción:\nCombigan D es una solución oftálmica en gotas de AbbVie (Allergan) que combina tartrato de brimonidina al 0.2% con maleato de timolol al 0.5%. Se presenta en frasco gotero de 5 ml.\n\nIndicaciones:\nEstá indicado para la reducción de la presión intraocular (PIO) en pacientes con glaucoma de ángulo abierto o hipertensión ocular que requieren tratamiento complementario o de reemplazo, debido a un control inadecuado de la presión o a una respuesta insuficiente a los betabloqueadores tópicos.\n\nComposición:\nCada mililitro contiene tartrato de brimonidina 2 mg y maleato de timolol equivalente a 5 mg de timolol base.\n\nModo de uso:\nLa posología habitual es una gota en el ojo afectado cada 12 horas (2 veces al día), según indicación del médico. Es de uso oftálmico exclusivamente.\n\nPresentación:\nCaja con un frasco gotero de 5 ml. Vía de administración: oftálmica.\n\nAdvertencias:\nNo debe usarse en menores de 18 años, en enfermedad reactiva de las vías respiratorias o asma, en insuficiencia cardiaca manifiesta, con tratamiento concomitante con inhibidores de la monoaminooxidasa ni en caso de hipersensibilidad a los componentes. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Combigan D",
+    "fabricante": "AbbVie (Allergan)",
+    "presentacion": "Frasco gotero de 5 ml",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tartrato de brimonidina y maleato de timolol",
+    "concentracion": "0.2% / 0.5%",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: solución oftálmica; Brimonidina 2 mg/ml y timolol 5 mg/ml; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501201400581_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501201400581_1.jpg",
+      "pagina": "https://www.fahorro.com/combigan-d-2-mg-5-mg-gotas-oftalmicas-con-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1364,
+      "fecha": "2026-09-29",
+      "lado_util": 1263
+    },
+    {
+      "archivo": "7501201400581_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501201400581_2.jpg",
+      "pagina": "https://www.fahorro.com/combigan-d-2-mg-5-mg-gotas-oftalmicas-con-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1370,
+      "fecha": "2026-09-29",
+      "lado_util": 1269
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1280587/combigan-d-solucion-oftalmica-2-mg-5-mg-ml",
+    "https://www.farmatodo.com.mx/combigan-d-solucion-oftalmica-02-05-ml-frasco-gotero-c-5-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "2 fotos de tienda (CDN de Farmacias del Ahorro), 1,364 y 1,370 px: caja y frasco de AbbVie.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

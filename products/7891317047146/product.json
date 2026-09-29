@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "MADECASSOL C OVULO 300MG/15MG/6MG C12 EUROFARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Madecassol C Metronidazol 300 mg/15 mg/6 mg 12 Óvulos",
+  "descripcion": "Descripción:\nMadecassol C es un medicamento de uso vaginal en forma de óvulos que combina metronidazol, extracto de centella asiática y nitrofural. Está indicado en infecciones vaginales causadas por microorganismos sensibles al metronidazol y en lesiones de mucosas con procesos inflamatorios, gracias a su acción antibacteriana, antiinflamatoria y cicatrizante, siempre bajo supervisión médica. Presentación de 12 óvulos.\n\nComposición:\nCada óvulo contiene 300 mg de metronidazol, 15 mg de centella asiática y 6 mg de nitrofural.\n\nModo de uso:\nUso exclusivo vaginal. No aplicar en otras áreas del cuerpo. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 12 óvulos vaginales (300 mg/15 mg/6 mg).\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a alguno de los componentes ni con antecedentes de trastornos neurológicos relacionados con el metronidazol. No se recomienda durante el primer trimestre del embarazo. Evite el consumo de alcohol durante el tratamiento. Precaución en enfermedad hepática, neurológica o hematológica. Conservar a temperatura ambiente, protegido de la luz y la humedad. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Madecassol",
+    "fabricante": "Eurofarma",
+    "linea": "C",
+    "presentacion": "Óvulos vaginales",
+    "contenido_neto": 12,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 1,
+    "principio_activo": "Metronidazol, centella asiática y nitrofural",
+    "concentracion": "300 mg/15 mg/6 mg",
+    "via_administracion": "Vaginal",
+    "otros": "Caja con 12 óvulos"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317047146_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317047146_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1327,
+      "fecha": "2026-09-29",
+      "lado_util": 1229
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/madecassol-c-ovulos-300mg-15mg-6mg-con-12-metronidazol-centella-asiatica-nitrofural",
+    "https://prixz.com/c/madecassol-c-300-15-6-mg-con-12-ovulos/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7891317047146 (Eurofarma) no apareció escrito en las páginas abiertas; se identificó por nombre y por la foto de catálogo con empaque Eurofarma. Los datos clínicos vienen de la ficha de la versión Sanofi (mismos 300/15/6 mg, 12 óvulos).",
+    "notas_imagenes": "1 foto(s): 7891317047146_2.jpg (de tienda, production-media.fahorro.com, 1600x1600 px). Se descartó la foto con empaque Sanofi de otro GTIN; queda la del empaque Eurofarma.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

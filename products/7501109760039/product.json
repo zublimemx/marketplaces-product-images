@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PARCHE POROSO ALKOCS MAYO 27 SILICATO DE METILO PIMIENTA CAYENTA PERRIGO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Parche Poroso Perrigo Salicilato de Metilo 12.5 x 18.5 cm",
+  "descripcion": "Descripción:\nEl Parche Poroso de Perrigo es un material de curación de uso tópico, en forma rectangular, con una mezcla de sustancias como salicilato de metilo y pimienta de cayena. Su empaque lo presenta como auxiliar tópico en afecciones leves de las articulaciones y la cadera. Se vende por pieza y su tamaño es de 12.5 cm de ancho por 18.5 cm de largo.\n\nComposición:\nSegún la información de los distribuidores, contiene mentol, incienso fino, pimienta de cayena, salicilato de metilo y goma de mirra.\n\nCaracterísticas:\n- Parche poroso de color rojo.\n- Medidas: 12.5 x 18.5 cm.\n- Uso externo.\n\nPresentación:\nEmpaque con 1 pieza.\n\nAdvertencias:\nSolo para uso externo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Perrigo",
+    "fabricante": "Perrigo",
+    "linea": "Parche Poroso",
+    "variante": "Parche poroso rojo con salicilato de metilo",
+    "presentacion": "Empaque con 1 pieza",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salicilato de metilo, pimienta de cayena, mentol, incienso y goma de mirra",
+    "via_administracion": "Tópica",
+    "otros": "Dimensiones: 12.5 x 18.5 cm; Material de curación"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501109760039_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501109760039_a74d5b0d-fb93-44ca-ba6d-405e74210ca0.jpg?v=1701389019&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/6986",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 709,
+      "fecha": "2026-09-29",
+      "lado_util": 657
+    },
+    {
+      "archivo": "7501109760039_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://family-medic.com.mx/wp-content/uploads/7501109760039.webp",
+      "pagina": "https://family-medic.com.mx/tienda/material-de-curacion/parche-poroso-rectangular-1pza/",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 582,
+      "fecha": "2026-09-29",
+      "lado_util": 539
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmamedical.com.mx/productos/7501109760039/",
+    "https://family-medic.com.mx/tienda/material-de-curacion/parche-poroso-rectangular-1pza/",
+    "https://farmaciasanjorge.com/products/6986"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fichas de tienda casi no dan indicaciones, modo de uso ni advertencias, por lo que la descripción es breve. El nombre del sistema dice 'silicato de metilo', que se corrigió a salicilato de metilo según las fichas. Se ignoró la caducidad (mayo 27).",
+    "notas_imagenes": "2 fotos de tienda (Farmacias San Jorge y Family Medic), empaque del parche Perrigo de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

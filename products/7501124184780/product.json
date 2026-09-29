@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "KI CAB 50MG TEGOPRAZAN 10TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ki-Cab Tegoprazán 50 mg 10 Tabletas",
+  "descripcion": "Descripción:\nKi-Cab es un medicamento cuyo principio activo es tegoprazán, un bloqueador ácido competitivo de potasio que reduce la secreción de ácido gástrico. Está indicado en el tratamiento de la enfermedad por reflujo gastroesofágico erosiva y no erosiva, la úlcera gástrica y, como adyuvante, en la erradicación de Helicobacter pylori, siempre bajo indicación médica. Se presenta en caja con 10 tabletas de 50 mg en blíster.\n\nComposición:\nCada tableta contiene 50 mg de tegoprazán, excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis depende de la enfermedad y la determina el médico; como referencia de la información del medicamento, para reflujo erosivo y no erosivo se emplean 50 mg al día durante 4 semanas, para úlcera gástrica de 50 a 100 mg al día durante 4 a 8 semanas y, en la erradicación de H. pylori, 50 mg dos veces al día durante 7 días dentro de una terapia combinada.\n\nPresentación:\nCaja con blíster de 10 tabletas de 50 mg.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad al tegoprazán ni junto con atazanavir, nelfinavir o rilpivirina. No se recomienda en el embarazo, la lactancia ni en menores de 18 años. Se sugiere vigilar la función hepática; el uso prolongado puede asociarse con disminución de magnesio y con riesgo de osteoporosis. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ki-Cab",
+    "fabricante": "HK inno.N Corporation",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tegoprazán",
+    "concentracion": "50 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "023M2023 SSA",
+    "otros": "Blíster de aluminio; Bloqueador ácido competitivo de potasio; Distribuido en México por Carnot Laboratorios según el empaque"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124184780_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124184780_1.jpg",
+      "pagina": "https://www.fahorro.com/ki-cab-50-mg-10-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1720,
+      "fecha": "2026-09-29",
+      "lado_util": 1592
+    },
+    {
+      "archivo": "7501124184780_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Ki-Cab-50-Mg-10-Tabletas-7501124184780-638575075129985085-1.jpg",
+      "pagina": "https://www.fahorro.com/ki-cab-50-mg-10-tabs.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 670,
+      "fecha": "2026-09-29",
+      "lado_util": 621
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/ki-cab-tabletas/35/101/76942/210",
+    "https://pacientes.sfe.com.mx/eCommerce/item/3944/kicab-50-mg-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El empaque muestra Carnot Laboratorios; la ficha PLM cita a Productos Científicos como distribuidor. Se dejó el fabricante (HK inno.N) y se anotó Carnot en 'otros'.",
+    "notas_imagenes": "2 foto(s): 7501124184780_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px); 7501124184780_2.jpg (de tienda, cdn.gdar.com.mx, 1000x1000 px). Dos fotos casi iguales del empaque frontal (la segunda de menor resolución).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

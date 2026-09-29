@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "BIB DISNEY EVENFLO CUE-A 3EN1",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biberón Evenflo Disney Orejas 3 en 1 Cuello Ancho 9 oz",
+  "descripcion": "Descripción:\nBiberón Evenflo de la línea Disney Baby con tapa de orejas estilo Mickey, modelo 3 en 1, con botella ergonómica de cuello ancho y mamila de grado alimenticio de flujo medio. Tiene capacidad de 9 oz (270 ml) y está pensado para bebés a partir de los 3 meses.\n\nCaracterísticas:\n- 3 en 1: funciona como biberón, con asas desmontables para un mejor agarre y con boquilla suave que lo convierte en vaso entrenador.\n- Botella ergonómica de cuello ancho, fácil de llenar y de limpiar.\n- Mamila de grado alimenticio con diseño para una sujeción natural, que facilita la adaptación del seno materno al biberón.\n- Sistema de válvula anticólicos que regula la presión del aire para mantener un flujo continuo.\n- Libre de BPA.\n- Divertido diseño con personajes Disney en la botella.\n\nPresentación:\n1 pieza de 9 oz (270 ml). Los colores y diseños pueden variar según disponibilidad.",
+  "ficha": {
+    "marca": "Evenflo",
+    "fabricante": "Evenflo",
+    "linea": "Disney Baby",
+    "variante": "Orejas 3 en 1 cuello ancho flujo medio",
+    "presentacion": "1 pieza",
+    "contenido_neto": 270,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "3 meses en adelante",
+    "otros": "Capacidad: 9 oz (270 ml); Cuello ancho; Flujo medio; Libre de BPA; Asas desmontables; Convertible en vaso entrenador; Válvula anticólicos; Colores y diseños sujetos a disponibilidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM5363",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Biberones y Accesorios > Biberones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027515230_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/314765/314765_02.webp",
+      "pagina": "https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 691,
+      "fecha": "2026-09-29",
+      "lado_util": 640
+    },
+    {
+      "archivo": "7501027515230_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/314765/314765_03.webp",
+      "pagina": "https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 733,
+      "fecha": "2026-09-29",
+      "lado_util": 679
+    },
+    {
+      "archivo": "7501027515230_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/314765/314765_04.webp",
+      "pagina": "https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 687,
+      "fecha": "2026-09-29",
+      "lado_util": 637
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/biberon-disney-orejas-3-en-1-cuello-ancho-flujo-medio-9oz--270ml-3274317/p",
+    "https://www.farmatodo.com.mx/evenflo-biberon-disney-cuello-ancho-3-en-1-9-oz-empaque-c-1-pz-v1/p",
+    "https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice CUE-A; las fichas de tienda lo describen como Disney Orejas 3 en 1 cuello ancho de 9 oz. Los colores varían (rojo, rosa).",
+    "notas_imagenes": "3 fotos de tienda (HEB), de 687 a 733 px, frente del biberón en rojo y rosa. Se descartó una lámina con leyenda de venta por pieza.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

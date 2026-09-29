@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "TYLENOL 500MG C10 PARACETAMOL SEPTIEMBRE 28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylenol Paracetamol 500 mg 10 Tabletas",
+  "descripcion": "Descripción:\nTylenol 500 mg es un analgésico y antifebril en tabletas cuyo ingrediente activo es el paracetamol. Según el fabricante, actúa de forma directa a partir de los 30 minutos, elevando la tolerancia general del cuerpo al dolor y bajando la fiebre. Su empaque indica que no irrita el estómago a las dosis recomendadas.\n\nBeneficios:\n- Alivia el dolor de cabeza y los dolores musculares.\n- Ayuda con el dolor en articulaciones y el dolor de muelas.\n- Útil en el dolor premenstrual y menstrual.\n- Reduce la fiebre asociada a infecciones respiratorias.\n\nFórmula:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Adultos y mayores de 12 años: 1 o 2 tabletas cada 4 a 6 horas. No tome más de 8 tabletas en 24 horas ni lo use por más de 5 días sin indicación médica.\n\nPresentación:\nCaja con frasco de 10 tabletas de 500 mg.\n\nAdvertencias:\nNo exceda 4,000 mg de paracetamol al día. No lo combine con otros medicamentos que contengan paracetamol, porque existe riesgo de lesión hepática. Suspenda su uso y busque atención médica si aparecen reacciones cutáneas graves. Consulte a su médico antes de usarlo si toma warfarina o tiene enfermedad hepática. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylenol",
+    "linea": "Tylenol adultos",
+    "presentacion": "Caja con frasco de 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Forma farmacéutica: tableta; Dosis máxima: 8 tabletas en 24 horas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007535432_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/4owIq4DqC4MnZtFUb1o6hv/0f43678446f7a6aec49012b92d7ab17b/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-1-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-10-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    },
+    {
+      "archivo": "7501007535432_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/2hrpKgZmprDNTCwBR6Ld1e/92690706e72e62cac106b7d5882b9837/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-2-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-10-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    },
+    {
+      "archivo": "7501007535432_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/1Fmf18Ld0JvFqGQpgmpfFa/7c08d11d71012aced7fa0af5abf852ca/tylenol-caja-con-frasco-10-tabletas-980-x-980-px-3-es-mx?w=980",
+      "pagina": "https://www.tylenol.com.mx/productos/adultos/tylenol-10-tabletas",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    }
+  ],
+  "url_oficial": "https://www.tylenol.com.mx/productos/adultos/tylenol-10-tabletas",
+  "fuentes": [
+    "https://www.tylenol.com.mx/productos/adultos/tylenol-10-tabletas",
+    "https://www.benavides.com.mx/tylenol-500-mg-paracetamol-10-tabletas",
+    "https://www.yza.mx/tylenol-paracetamol-500mg-10-tabs/MXYZ_7501007535432.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se ignoró la fecha de caducidad del nombre del sistema (septiembre 28).",
+    "notas_imagenes": "3 fotos del sitio oficial de Tylenol México (980 px): caja con frasco de 10 tabletas en tres ángulos.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

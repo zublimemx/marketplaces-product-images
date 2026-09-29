@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "AEROFLUX SOL 120ML C PIPETA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aeroflux Solución Salbutamol Ambroxol 120 ml con Pipeta",
+  "descripcion": "Descripción:\nAeroflux es una solución oral que combina salbutamol y ambroxol, elaborada por Sanfer. Es un medicamento de la línea respiratoria que, según las fichas de farmacia, se utiliza en cuadros con tos, bronquitis, asma y broncoespasmo. Se presenta en una caja con un frasco de 120 ml, vaso dosificador y pipeta dosificadora.\n\nComposición:\nSalbutamol y ambroxol en solución oral. Concentración indicada en las fichas de farmacia: 0.040 g y 0.150 g por cada 100 ml.\n\nCaracterísticas:\n- Solución oral de administración por vía oral.\n- Combina dos principios activos: salbutamol y ambroxol.\n- Incluye vaso dosificador y pipeta dosificadora para medir cada dosis con precisión.\n- Frasco con 120 ml.\n\nModo de uso:\nVía oral. Mida la dosis con el vaso dosificador o con la pipeta, según la cantidad que le indique su médico, y no exceda la dosis ni la duración del tratamiento recomendadas.\n\nPresentación:\nCaja con frasco de 120 ml, vaso dosificador y pipeta dosificadora.\n\nAdvertencias:\nMedicamento de prescripción: su venta requiere receta médica. Consérvese a temperatura ambiente controlada, entre 15 y 30 °C, en un lugar fresco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aeroflux",
+    "fabricante": "Sanfer",
+    "presentacion": "Solución oral con vaso y pipeta dosificadora",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salbutamol y ambroxol",
+    "concentracion": "0.040 g / 0.150 g por 100 ml (según fichas de farmacia)",
+    "via_administracion": "Oral",
+    "otros": "Incluye vaso dosificador y pipeta dosificadora; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
+      "catalogo_id": "MLM35441850"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070618995_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9bc66255/images/large/7501070618995_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/aeroflux-dosificador-solucion-40mg-120ml/MXYZ_7501070618995.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1281,
+      "fecha": "2026-09-29",
+      "lado_util": 1186
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/sistema-respiratorio/2796-aeroflux-solucion-caja-con-frasco-con-120-ml-dosificador-y-pipeta-7501070618995.html",
+    "https://www.yza.mx/aeroflux-dosificador-solucion-40mg-120ml/MXYZ_7501070618995.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto. Los nombres de los principios activos están en la caja (salbutamol / ambroxol); la concentración solo aparece en fichas de farmacia con formatos distintos, por lo que se marcó como tomada de ellas. Venta con receta (registro fracción IV). Catálogo de Mercado Libre tomado de un resultado de búsqueda con la misma presentación.",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1300 px: caja frontal de Aeroflux solución con 120 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

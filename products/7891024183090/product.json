@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "HILO DENT COLGATE TOTAL ENC 2X25M",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hilo Dental Colgate Total Encerado 2 Piezas de 25 m",
+  "descripcion": "Descripción:\nHilo dental encerado Colgate Total, en presentación de 2 piezas de 25 metros cada una. Ayuda a eliminar la placa y los restos de alimentos entre los dientes, donde el cepillo no llega. Su recubrimiento encerado hace que se deslice con facilidad entre los dientes y minimiza que se deshilache o se rompa.\n\nCaracterísticas:\n- Hilo dental encerado que se desliza fácilmente entre los dientes.\n- Ayuda a eliminar la placa y los restos de alimentos.\n- Complementa el cepillado como parte de la rutina diaria de higiene bucal.\n- 2 piezas de 25 m cada una (50 m en total), para un uso prolongado.\n\nModo de uso:\nCorte aproximadamente 45 cm de hilo, enróllelo en los dedos y deslícelo suavemente entre los dientes con movimiento de vaivén, sin lastimar las encías. Use una sección limpia del hilo para cada espacio. Se recomienda usarlo una vez al día, de preferencia antes del cepillado.\n\nPresentación:\n2 piezas de hilo dental encerado de 25 m cada una.\n\nAdvertencias:\n- Si las encías sangran o se irritan de forma continua, suspenda su uso y consulte a su dentista.\n- Mantenga el producto fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Total",
+    "variante": "Encerado",
+    "presentacion": "Paquete con 2 piezas de hilo dental",
+    "contenido_neto": 25,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 2,
+    "otros": "Largo por pieza: 25 m (50 m en total); Tipo: Encerado; Formato de venta: Paquete con 2 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180913",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Hilos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/37785",
+    "https://www.walmart.com.mx/ip/hilo-dental-colgate-total-12-enceredo-para-una-mejor-salud-bucal-2-pzas-x-25-mts/00789102418309"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en una tienda en línea (Hilo Dental Colgate Total Encerado 2 x 25 m); otra cadena lo lista como Colgate Total 12 encerado, 2 piezas x 25 m. No se abrió la página oficial de Colgate (403). Fabricante Colgate-Palmolive por la marca.",
+    "notas_imagenes": "Sin fotos válidas: las únicas fotos accesibles eran el frente de un blíster con texto promocional (gratis 12.5 m, lleve 50 m pague 37.5 m) y su reverso en portugués, que se descartaron; Walmart, Amazon y Chedraui no exponen imágenes sin JavaScript.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

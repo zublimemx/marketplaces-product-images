@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SENSIBIT XP SOL 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sensibit XP Loratadina Ambroxol Solución 120 ml Durazno",
+  "descripcion": "Descripción:\nSensibit XP es una solución oral de Laboratorios Liomont que combina loratadina, un antihistamínico, con ambroxol, un mucolítico y expectorante. Se utiliza para el alivio sintomático de la tos con flemas (tos productiva) asociada a resfriados y a procesos respiratorios de origen alérgico, ayudando a disolver y expulsar las flemas. Viene en sabor durazno con vaso o pipeta dosificadora.\n\nBeneficios:\n- Alivia la tos con flemas\n- Combina acción antialérgica y expectorante en una sola solución\n- Indicado en resfriados, rinitis alérgica, sinusitis, rinofaringitis, faringoamigdalitis y bronquitis\n- Sabor durazno\n- Incluye vaso o pipeta dosificadora\n\nComposición:\nCada 5 ml de solución contienen loratadina 5 mg y clorhidrato de ambroxol 30 mg. Vehículo cbp.\n\nModo de uso:\nVía oral. Según la ficha del medicamento, la dosis se administra cada 12 horas: adultos y niños con peso de 30 kg o más, 5 ml; niños mayores de 6 años, 2.5 ml; niños mayores de 1 año o con peso mayor a 9 kg, 1.25 ml. Utilice el vaso o la pipeta dosificadora y siga siempre la indicación de su médico.\n\nPresentación:\nCaja con frasco de 120 ml de solución oral, con vaso o pipeta dosificadora.\n\nAdvertencias:\n- No lo use si es alérgico a la loratadina, al ambroxol o a otro componente de la fórmula\n- No se recomienda durante el embarazo ni la lactancia\n- Evite el consumo de alcohol durante el tratamiento\n- Conservar a temperatura ambiente, entre 15 y 30 °C\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sensibit",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Sensibit XP",
+    "presentacion": "Caja con frasco de 120 ml con vaso o pipeta dosificadora",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Loratadina, ambroxol",
+    "concentracion": "Loratadina 5 mg y ambroxol 30 mg por cada 5 ml",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Durazno",
+    "registro_sanitario": "266M2004 SSA",
+    "otros": "Forma farmacéutica: solución oral; Grupo terapéutico: antihistamínico y mucolítico; Venta libre (fracción VI)"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299302866_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1474cc13/images/large/7501299302866_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/sensibit-xp-solucion-vaso-pipet-120ml/MXYZ_7501299302866.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1028,
+      "fecha": "2026-09-29",
+      "lado_util": 952
+    },
+    {
+      "archivo": "7501299302866_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6ed42c45/images/large/7501299302866_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/sensibit-xp-solucion-vaso-pipet-120ml/MXYZ_7501299302866.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1044,
+      "fecha": "2026-09-29",
+      "lado_util": 967
+    },
+    {
+      "archivo": "7501299302866_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwee7eb181/images/large/7501299302866_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/sensibit-xp-solucion-vaso-pipet-120ml/MXYZ_7501299302866.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/sensibit-xp-120-ml-solucion-frasco-loratadina-100-mg/",
+    "https://farmaciagloria.mx/Respiratorios/3345-sensibit-xp-solucion-con-120-ml.html",
+    "https://farmalisto.com.mx/gripe-y-tos/5756-sensibit-xp-caja-con-frasco-con-120-ml-sabor-durazno-7501299302866.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas; el empaque de la foto dice 'Caja con frasco con 120 mL' y '5 mg / 30 mg / 5 mL'. Algunas tiendas publican 100 mg/600 mg (total por 100 ml). Las dosis pediátricas provienen de una sola tienda; conviene verificarlas con el instructivo.",
+    "notas_imagenes": "3 fotos del empaque (caja de frente y en tres cuartos, 1028 a 1044 px) de la ficha de Yza; se descartó una copia repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

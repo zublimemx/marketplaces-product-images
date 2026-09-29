@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD LADYSS PRO 5EN1 SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Lady Speed Stick Pro 5 en 1 Aerosol 150 ml",
+  "descripcion": "Descripción:\nLady Speed Stick Pro 5 en 1 es un desodorante antitranspirante en aerosol para mujer, en presentación de 150 ml (91 g). Ofrece cinco beneficios en un solo producto: seca, refresca, suaviza, es invisible y está dermatológicamente probado, con protección de larga duración contra el sudor y el olor.\n\nBeneficios:\n- Antitranspirante y desodorante en aerosol, práctico de aplicar\n- Cinco beneficios: seca, fresca, suave, invisible y dermatológicamente probado\n- Protección de larga duración contra el sudor y el olor de las axilas\n- Formato de 150 ml (91 g)\n\nModo de uso:\nRocíe sobre las axilas limpias y secas, manteniendo el envase a unos 15 cm de distancia.\n\nPresentación:\nAerosol de 150 ml (91 g).\n\nAdvertencias:\nEnvase presurizado e inflamable. Manténgase alejado del fuego y del calor; no perfore ni incinere el envase. Uso externo; evite el contacto con los ojos y no lo aplique sobre piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Lady Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Pro 5",
+    "variante": "Pro 5 en 1",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "otros": "Peso neto: 91 g; Formato: aerosol antitranspirante; 5 beneficios: seca, fresca, suave, invisible, dermatológicamente probado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546063515_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546063515-1.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-lady-speed-stick-pro-5-en-1-91-g-aerosol.html",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 997,
+      "fecha": "2026-09-29",
+      "lado_util": 924
+    },
+    {
+      "archivo": "7509546063515_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546063515-2.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-lady-speed-stick-pro-5-en-1-91-g-aerosol.html",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 956,
+      "fecha": "2026-09-29",
+      "lado_util": 886
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/desodorante-mujer-lady-speed-stick-pro-5-antitrasnpirante-en-aerosol-150-ml/00750954606351",
+    "https://farmacorp.com/products/7509546063515",
+    "https://www.fahorro.com/desodorante-lady-speed-stick-pro-5-en-1-91-g-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fichas discrepan en las horas de protección (48 o 72 h), por eso no se anotó cifra. El sistema dice 'LADYSS'; se interpretó como Lady Speed Stick. El modo de uso es el habitual de los aerosoles.",
+    "notas_imagenes": "2 fotos de tienda (aerosol Pro 5 en 1 de frente, 997 y 956 px). Se borraron 2 fotos de otras versiones del empaque (Pro 5 y 24/7).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

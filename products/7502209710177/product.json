@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "DIASPORAL 300MG SOB C20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Diasporal 300 mg Citrato de Magnesio 20 Sobres",
+  "descripcion": "Descripción:\nDiasporal 300 mg es un suplemento alimenticio en granulado para solución oral que aporta 300 mg de magnesio, en forma de citrato, por sobre, adicionado con extractos de frutos cítricos. Se presenta en una caja con 20 sobres de 5 g cada uno y se elabora en México por Laboratorios Concordia.\n\nComposición:\nCada sobre contiene extracto de frutos cítricos adicionado con 300 mg de magnesio como citrato.\n\nCaracterísticas:\n- Suplemento alimenticio de magnesio.\n- Presentación en sobres individuales de 5 g, fáciles de llevar y de dosificar.\n- Granulado que se disuelve en agua o jugo.\n- Caja con 20 sobres, suficiente para 20 días con la dosis diaria de un sobre.\n\nModo de uso:\nDisuelva el contenido de un sobre en medio vaso de agua o jugo y tómelo una vez al día. La duración del consumo la determina su médico o nutriólogo; la ficha del producto señala un consumo mínimo de 30 días con la presentación de 300 mg.\n\nPresentación:\nCaja con 20 sobres de 5 g cada uno (granulado para solución oral).\n\nAdvertencias:\nNo debe ser consumido por personas con hipersensibilidad al magnesio, insuficiencia renal o hipermagnesemia. En personas sensibles, los suplementos de magnesio pueden tener un efecto laxante. No exceda la porción diaria recomendada. Este producto es un suplemento alimenticio y no es un medicamento. Manténgase fuera del alcance de los niños. Consulte a su médico.",
+  "ficha": {
+    "marca": "Diasporal",
+    "fabricante": "Laboratorios Concordia",
+    "linea": "Diasporal 300",
+    "variante": "Extracto de frutos cítricos con magnesio",
+    "presentacion": "Sobres de granulado para solución oral",
+    "contenido_neto": 20,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 20,
+    "principio_activo": "Magnesio (como citrato)",
+    "concentracion": "300 mg por sobre",
+    "via_administracion": "Oral",
+    "otros": "Peso por sobre: 5 g; Suplemento alimenticio; Dosis: 1 sobre al día"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502209710177_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20230217_1037895.jpg",
+      "pagina": "https://www.benavides.com.mx/diasporal-300-mg-citrato-de-magnesio-20-sobres",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "fecha": "2026-09-29",
+      "lado_util": 804
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/diasporal-300-mg-citrato-de-magnesio-20-sobres",
+    "https://www.medicamentosplm.com/Home/productos/diasporal.granulado/42/101/67455/81"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por el identificador del producto en la ficha de Walmart (00750220971017) y por la caja fotografiada (300 mg, 20 sobres de 5 g). No se incluyó registro sanitario porque las fichas de tienda traen un número que se repite en otros productos.",
+    "notas_imagenes": "1 foto de tienda (Benavides) a 1000 px: caja frontal de Diasporal 300 mg con 20 sobres.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

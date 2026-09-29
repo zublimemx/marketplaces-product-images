@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "ALDACTONE 100MG TAB30 SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aldactone 100 mg Espironolactona 30 Tabletas",
+  "descripcion": "Descripción:\nAldactone 100 es un medicamento de Pfizer cuyo principio activo es la espironolactona en tabletas de 100 mg, un diurético ahorrador de potasio y antagonista de la aldosterona de administración oral.\n\nIndicaciones:\n- Hipertensión arterial esencial.\n- Insuficiencia cardíaca congestiva, incluida la severa (clases III y IV de la NYHA).\n- Hiperaldosteronismo primario y su diagnóstico.\n- Edema y ascitis por cirrosis hepática.\n- Síndrome nefrótico.\n- Hipocalemia inducida por diuréticos.\n- Manejo del hirsutismo.\n\nModo de uso:\nLa dosis la determina el médico según cada caso. Como referencia de la ficha del producto, en hipertensión esencial se emplean de 50 a 100 mg al día, que pueden aumentarse de forma gradual, y en insuficiencia cardíaca severa se inicia con 25 mg diarios.\n\nPresentación:\nCaja con 30 tabletas de 100 mg. Vía de administración: oral. Registro sanitario 87911 SSA IV.\n\nAdvertencias:\nEstá contraindicado en insuficiencia renal aguda, enfermedad de Addison, hipercalemia e hipersensibilidad al producto. Requiere monitoreo periódico de electrolitos séricos, en especial del potasio. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aldactone",
+    "fabricante": "Pfizer",
+    "linea": "Aldactone 100",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Espironolactona",
+    "concentracion": "100 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "87911 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; Diurético antagonista de la aldosterona; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501287621009_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501287621009_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1297,
+      "fecha": "2026-09-29",
+      "lado_util": 1201
+    },
+    {
+      "archivo": "7501287621009_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501287621009_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1347,
+      "fecha": "2026-09-29",
+      "lado_util": 1248
+    },
+    {
+      "archivo": "7501287621009_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501287621009_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1199,
+      "fecha": "2026-09-29",
+      "lado_util": 1111
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/aldactone.100.tabletas/131/101/6188/210",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/5322-aldactone-100-mg-espironolactona-30-tabletas-pfizer-7501287621009.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "3 fotos de tienda (CDN de Farmacias del Ahorro), de 1,199 a 1,347 px, caja de frente y en ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }
