@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "resultado_fotos.schema.json",
+  "title": "Resultado de un lote de fotos (img_XX.json)",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "gtin",
+      "ficha",
+      "fuentes_nuevas",
+      "notas_imagenes"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "gtin": {
+        "type": "string",
+        "pattern": "^[0-9]{6,14}$"
+      },
+      "ficha": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "marca": {
+            "type": "string"
+          },
+          "fabricante": {
+            "type": "string"
+          },
+          "linea": {
+            "type": "string"
+          },
+          "variante": {
+            "type": "string"
+          },
+          "presentacion": {
+            "type": "string"
+          },
+          "contenido_neto": {
+            "type": [
+              "number",
+              "string"
+            ]
+          },
+          "unidad_contenido": {
+            "type": "string"
+          },
+          "unidades_por_envase": {
+            "type": [
+              "number",
+              "string"
+            ]
+          },
+          "principio_activo": {
+            "type": "string"
+          },
+          "concentracion": {
+            "type": "string"
+          },
+          "via_administracion": {
+            "type": "string"
+          },
+          "edad_etapa": {
+            "type": "string"
+          },
+          "talla": {
+            "type": "string"
+          },
+          "sabor_aroma": {
+            "type": "string"
+          },
+          "genero": {
+            "type": "string"
+          },
+          "tipo_piel_cabello": {
+            "type": "string"
+          },
+          "registro_sanitario": {
+            "type": "string"
+          },
+          "otros": {
+            "type": "string"
+          }
+        }
+      },
+      "fuentes_nuevas": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "notas_imagenes": {
+        "type": "string"
+      }
+    }
+  }
+}

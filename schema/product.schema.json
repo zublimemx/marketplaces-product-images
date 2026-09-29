@@ -1,0 +1,262 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "product.schema.json",
+  "title": "Ficha de producto",
+  "type": "object",
+  "required": [
+    "gtin",
+    "sku",
+    "linea",
+    "nombre_sistema",
+    "titulo",
+    "descripcion",
+    "ficha",
+    "receta_mx",
+    "marketplaces",
+    "imagenes",
+    "url_oficial",
+    "fuentes",
+    "investigacion"
+  ],
+  "properties": {
+    "gtin": {
+      "type": "string",
+      "pattern": "^[0-9]{6,14}$"
+    },
+    "sku": {
+      "type": "string",
+      "pattern": "^[0-9]{6,14}$"
+    },
+    "linea": {
+      "enum": [
+        "Farma",
+        "Mark",
+        "Farma + Mark"
+      ]
+    },
+    "nombre_sistema": {
+      "type": "string"
+    },
+    "nombres_sistema_alternos": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "titulo": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "descripcion": {
+      "type": "string"
+    },
+    "ficha": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "marca": {
+          "type": "string"
+        },
+        "fabricante": {
+          "type": "string"
+        },
+        "linea": {
+          "type": "string"
+        },
+        "variante": {
+          "type": "string"
+        },
+        "presentacion": {
+          "type": "string"
+        },
+        "contenido_neto": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "unidad_contenido": {
+          "type": "string"
+        },
+        "unidades_por_envase": {
+          "type": [
+            "number",
+            "string"
+          ]
+        },
+        "principio_activo": {
+          "type": "string"
+        },
+        "concentracion": {
+          "type": "string"
+        },
+        "via_administracion": {
+          "type": "string"
+        },
+        "edad_etapa": {
+          "type": "string"
+        },
+        "talla": {
+          "type": "string"
+        },
+        "sabor_aroma": {
+          "type": "string"
+        },
+        "genero": {
+          "type": "string"
+        },
+        "tipo_piel_cabello": {
+          "type": "string"
+        },
+        "registro_sanitario": {
+          "type": "string"
+        },
+        "otros": {
+          "type": "string"
+        }
+      }
+    },
+    "receta_mx": {
+      "enum": [
+        "Sí",
+        "No",
+        "Revisar",
+        "No aplica",
+        ""
+      ]
+    },
+    "marketplaces": {
+      "type": "object",
+      "required": [
+        "mercadolibre"
+      ],
+      "properties": {
+        "mercadolibre": {
+          "type": "object",
+          "properties": {
+            "categoria_id": {
+              "type": "string",
+              "pattern": "^(MLM[0-9]+)?$"
+            },
+            "categoria_ruta": {
+              "type": "string"
+            },
+            "categoria_rx_sugerida": {
+              "type": "string",
+              "pattern": "^(MLM[0-9]+)?$"
+            },
+            "catalogo_id": {
+              "type": "string"
+            }
+          }
+        },
+        "amazon": {
+          "type": "object"
+        },
+        "shopify": {
+          "type": "object"
+        },
+        "odoo": {
+          "type": "object"
+        }
+      }
+    },
+    "imagenes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "archivo",
+          "origen",
+          "fuente_url"
+        ],
+        "properties": {
+          "archivo": {
+            "type": "string",
+            "pattern": "^[0-9]{6,14}_[0-9]+\\.jpg$"
+          },
+          "origen": {
+            "enum": [
+              "fabricante",
+              "catalogo_ml",
+              "tienda"
+            ]
+          },
+          "fuente_url": {
+            "type": "string"
+          },
+          "pagina": {
+            "type": "string"
+          },
+          "ancho_original": {
+            "type": "integer"
+          },
+          "alto_original": {
+            "type": "integer"
+          },
+          "lado_final": {
+            "type": "integer"
+          },
+          "lado_util": {
+            "type": "integer"
+          },
+          "fecha": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "url_oficial": {
+      "type": "string"
+    },
+    "fuentes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "investigacion": {
+      "type": "object",
+      "required": [
+        "estado"
+      ],
+      "properties": {
+        "estado": {
+          "enum": [
+            "pendiente",
+            "sin_verificar",
+            "verificado"
+          ]
+        },
+        "confianza": {
+          "enum": [
+            "alta",
+            "media",
+            "baja",
+            ""
+          ]
+        },
+        "encontrado_por": {
+          "enum": [
+            "gtin",
+            "nombre",
+            "no_encontrado",
+            ""
+          ]
+        },
+        "notas": {
+          "type": "string"
+        },
+        "notas_imagenes": {
+          "type": "string"
+        },
+        "fecha": {
+          "type": "string"
+        },
+        "sesion": {
+          "type": "integer"
+        }
+      }
+    }
+  }
+}
