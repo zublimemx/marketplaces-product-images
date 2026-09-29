@@ -32,18 +32,56 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943433090_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    },
+    {
+      "archivo": "7501943433090_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1502,
+      "fecha": "2026-09-29",
+      "lado_util": 1391
+    },
+    {
+      "archivo": "7501943433090_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1460,
+      "fecha": "2026-09-29",
+      "lado_util": 1352
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Huggies-Ultraconfort-Panales-Unisex-Etapa-2/7501943433090",
     "https://farmaciacoyoacan.com/products/panal-huggies-ultra-confort-unisex-etapa-2-44-piezas-2",
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_3.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943433090_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado como Huggies Ultra Confort Unisex Etapa 2. Algunas fichas lo publican con 40 piezas y otras con 44; se respetó las 44 del sistema. Características tomadas de la página oficial de Ultra Confort (no diferencia rangos de peso por etapa).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): frente, 3/4 y vertical del empaque nuevo Ultra Confort Etapa 2, 44 pzas. Se descartó el diseño anterior (40 pzas) y una imagen con leyenda promocional."
   }
 }

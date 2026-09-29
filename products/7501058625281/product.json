@@ -32,7 +32,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058625281_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7004931-1200-auto?v=639183660501300000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.farmatodo.com.mx/materna-vitaminas-y-minerales-frasco-c-30-tabletas-v1-1/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 930,
+      "fecha": "2026-09-29",
+      "lado_util": 862
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://prixz.com/c/farmacia/vitaminas-y-minerales-suplementos-alimenticios/nutricion-vitaminas-y-minerales-suplementos-alimenticios/materna-vitaminas-y-minerales-30-tabletas-frasco-acido-folico-1000-mcg/",
@@ -44,6 +56,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación confirmados. Las fuentes consultadas no traen la tabla nutrimental completa ni el modo de uso; la dosis de una tableta al día es la habitual de la marca y debe confirmarse en el empaque. El fabricante aparece como Nestlé (Farmatodo) y como Wyeth (Farmalisto).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmatodo): frasco Materna 30 tabletas de frente, 1000 px."
   }
 }

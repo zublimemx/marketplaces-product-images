@@ -4,10 +4,11 @@
   "linea": "Farma",
   "nombre_sistema": "AMOXICLAV BID 875 125 MG C14 AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Amoxiclav Bid Amoxicilina y Ácido Clavulánico 875/125 mg",
-  "descripcion": "Descripción:\nAmoxiclav BID es un medicamento antibiótico en tabletas que combina amoxicilina (875 mg) con ácido clavulánico (125 mg), en presentación de 14 tabletas. Está indicado para infecciones bacterianas sensibles a esta combinación y se administra dos veces al día (BID) según la indicación del médico.\n\nComposición:\nAmoxicilina 875 mg y ácido clavulánico 125 mg por tableta.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y con la frecuencia indicadas por su médico, preferentemente al inicio de los alimentos, y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 tabletas de 875 mg/125 mg.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. No lo use si es alérgico a las penicilinas o a alguno de los componentes. El uso inadecuado de antibióticos puede favorecer la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Amoxiclav Bid 875 mg/125 mg 14 Tabletas",
+  "descripcion": "Descripción:\nAmoxiclav BID es un antibiótico de amplio espectro que combina amoxicilina trihidratada, una penicilina semisintética, con clavulanato de potasio, un inhibidor de las betalactamasas que permite actuar sobre bacterias resistentes a la amoxicilina sola. Se presenta en caja con 14 tabletas de 875 mg/125 mg y se administra dos veces al día (BID) según la indicación del médico.\n\nBeneficios:\n- Acción bactericida de amplio espectro\n- Indicado en infecciones bacterianas causadas por cepas productoras de betalactamasas, como sinusitis, otitis media aguda, amigdalitis, exacerbaciones de bronquitis crónica, neumonía adquirida en la comunidad, infecciones urinarias y de piel y tejidos blandos\n- Esquema cómodo de dos tomas al día\n\nComposición:\nCada tableta contiene amoxicilina 875 mg (como amoxicilina trihidratada) y ácido clavulánico 125 mg (como clavulanato de potasio).\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico. Complete todo el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 tabletas de 875 mg/125 mg.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. No lo use si es alérgico a las penicilinas o a alguno de los componentes. El uso inadecuado de los antibióticos favorece la resistencia bacteriana. En embarazo y lactancia se debe evaluar el beneficio contra el riesgo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Amoxiclav",
+    "fabricante": "Laboratorios PiSA",
     "variante": "BID",
     "presentacion": "Tabletas",
     "contenido_neto": 14,
@@ -16,8 +17,9 @@
     "principio_activo": "Amoxicilina y ácido clavulánico",
     "concentracion": "875 mg / 125 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos y niños de más de 12 años (40 kg o más)",
+    "registro_sanitario": "525M97 SSA",
+    "otros": "Formato de venta: caja con 14 tabletas; Toma cada 12 horas (BID)"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +33,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125175626_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125175626_3.jpg",
+      "pagina": "https://www.fahorro.com/amoxiclav-bid-875-mg-125-mg-14-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1180,
+      "fecha": "2026-09-29",
+      "lado_util": 1093
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1143733/amoxiclav-bid-tableta-875-mg-125-mg",
+    "https://www.fahorro.com/amoxiclav-bid-875-mg-125-mg-14-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Composición y concentración salen del propio nombre del sistema (875 125 mg); sin fuentes. Se desconoce el fabricante. La descripción es general. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Antibiótico con receta. Registro sanitario tomado de una base de medicamentos de México.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda). Otras fuentes no dieron imágenes válidas.",
     "fecha": "2026-09-29"
   }
 }

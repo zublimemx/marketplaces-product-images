@@ -31,7 +31,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407160_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300407160_1_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 865,
+      "fecha": "2026-09-29",
+      "lado_util": 801
+    },
+    {
+      "archivo": "7501300407160_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300407160_2_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 859,
+      "fecha": "2026-09-29",
+      "lado_util": 795
+    },
+    {
+      "archivo": "7501300407160_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300407160_3_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 855,
+      "fecha": "2026-09-29",
+      "lado_util": 792
+    },
+    {
+      "archivo": "7501300407160_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300407160_4_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 861,
+      "fecha": "2026-09-29",
+      "lado_util": 797
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
@@ -42,6 +87,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación confirmados (ciprofloxacino 500 mg + fenazopiridina 100 mg, 14 tabletas, receta obligatoria según la farmacia). La ficha solo trae composición, fabricante y contenido; indicación y advertencias son generales de la combinación.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7501300407160_1.jpg, 7501300407160_2.jpg, 7501300407160_3.jpg, 7501300407160_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

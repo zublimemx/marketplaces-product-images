@@ -4,20 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL GASAS C10",
   "nombres_sistema_alternos": [],
-  "titulo": "Italdermol Gasas 10 Piezas",
-  "descripcion": "Descripción:\nItaldermol en presentación de gasas, caja con 10 piezas. Consulte en el empaque el tipo de gasa, sus medidas, su composición y las instrucciones de uso.\n\nPresentación:\nCaja con 10 piezas.",
+  "titulo": "Italdermol Gasas Crema Triticum Vulgare 150 mg/g 10 Piezas",
+  "descripcion": "Descripción:\nItaldermol Gasas son gasas impregnadas con una crema a base de extracto acuoso de Triticum vulgare al 15% (150 mg por gramo), presentadas en sobres unidosis. Es un medicamento herbolario de uso tópico que actúa como auxiliar en la regeneración de la piel en todas sus capas, al movilizar las células encargadas de la cicatrización.\n\nIndicaciones:\nSe recomienda como auxiliar después de quemaduras, en úlceras por presión, en úlceras de origen venoso, después de procedimientos de cirugía plástica y estética y en casos de dermatitis.\n\nComposición:\nCada gramo de crema contiene 150 mg de extracto acuoso de Triticum vulgare. Cada gasa contiene 4 g de crema.\n\nModo de uso:\nUso tópico. Abra el sobre unidosis y aplique la gasa sobre la zona a tratar, siguiendo las indicaciones del empaque o de su médico.\n\nPresentación:\nCaja con 10 gasas, cada una con 4 g de crema en sobre unidosis (40 g de crema en total).\n\nAdvertencias:\nEs de uso externo. No lo use si es alérgico a algún componente de la fórmula. Si la lesión no mejora o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Italdermol",
-    "presentacion": "Gasas",
+    "fabricante": "Italmex, S.A.",
+    "linea": "Gasas",
+    "presentacion": "Gasas impregnadas con crema",
     "contenido_neto": 10,
-    "unidad_contenido": "piezas",
-    "unidades_por_envase": 10
+    "unidad_contenido": "gasas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Extracto acuoso de Triticum vulgare",
+    "concentracion": "150 mg/g",
+    "via_administracion": "Tópica",
+    "otros": "Cada gasa contiene 4 g de crema en sobre unidosis; Contenido total de crema: 40 g; Medicamento herbolario"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM191087",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -25,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390911028_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwdf65b254/images/large/7501390911028_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/italdermol-crema-40g-10-gasas/MXYZ_7501390911028.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 825,
+      "fecha": "2026-09-29",
+      "lado_util": 763
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/italdermol-crema-40g-10-gasas/MXYZ_7501390911028.html",
+    "https://farmasmart.com/italdermol-gasas-c10",
+    "https://curitek.com/producto/italdermol-10-gasas-trticum-vulgare-crema/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Producto no identificado. El precio alto para 10 piezas sugiere una gasa medicada o apósito especial, no una gasa simple; si contiene un principio activo, la categoría correcta sería otra (p. ej. Dermatológicos Venta Libre). Requiere búsqueda por GTIN antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso y advertencias redactados de forma general (las fuentes no detallan posología); verificar contra el instructivo.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja con 10 gasas).",
     "fecha": "2026-09-29"
   }
 }

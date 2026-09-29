@@ -4,18 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "FIJ CAPRICE SP GRANADA SPY 316ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Fijador en Spray Caprice Granada 316 ml",
-  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante Granada, en presentación de 316 ml. Se utiliza para mantener el peinado en su lugar y forma parte de la línea de fijadores de la marca. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nCaracterísticas:\n- Formato spray.\n- Variante con aroma a granada.\n- Presentación de 316 ml.\n\nPresentación:\nEnvase en spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "titulo": "Fijador en Spray Caprice Especialidades Granada 316 ml",
+  "descripcion": "Descripción:\nCaprice Especialidades en spray es un fijador profesional para el cabello con fórmula enriquecida con extracto de granada, vitamina E y filtro UV. Renueva y resalta el brillo del cabello, incluido el teñido, mientras define el peinado durante todo el día. La versión Granada se presenta en aerosol de 316 ml.\n\nBeneficios:\n- Máxima fijación para mantener el estilo durante el día.\n- Extracto de granada, vitamina E y filtro UV que ayudan a proteger el cabello de las agresiones diarias.\n- Resalta el brillo del cabello teñido.\n- No deja residuos visibles y se elimina fácilmente con el cepillado.\n- Permite elegir el nivel de fijación según la distancia a la que se aplica.\n\nModo de uso:\nAgite el envase antes de usarlo. Aplique sobre el cabello seco ya peinado; a menor distancia se logra mayor fijación y a mayor distancia una fijación más ligera. Para retirarlo basta con cepillar el cabello.\n\nPresentación:\nAerosol con 316 ml.\n\nAdvertencias:\nProducto inflamable. No se aplique cerca de los ojos ni cerca de una flama o fuente de calor. Evite exponer el envase al sol o a altas temperaturas y no lo perfore. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Caprice",
     "fabricante": "Colgate-Palmolive",
-    "variante": "Spray fijador Granada",
-    "presentacion": "Spray",
+    "linea": "Especialidades",
+    "variante": "Granada con filtro UV y vitamina E",
+    "presentacion": "Aerosol",
     "contenido_neto": 316,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "sabor_aroma": "Granada",
-    "otros": "Formato de venta: Unidad"
+    "tipo_piel_cabello": "Todo tipo de cabello, incluido teñido",
+    "otros": "Con vitamina E y filtro UV; Nivel de fijación ajustable; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546059006_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546059006-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/spray-caprice-color-brillante-316ml",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 757,
+      "fecha": "2026-09-29",
+      "lado_util": 701
+    },
+    {
+      "archivo": "7509546059006_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546059006-2.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/spray-caprice-color-brillante-316ml",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 668,
+      "fecha": "2026-09-29",
+      "lado_util": 619
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.zedelvallarta.com.mx/catalogo/caprice-especialidades-spray-profesional-granada-filtro-uv-316ml/",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/spray-caprice-color-brillante-316ml",
+    "https://www.farmalisto.com.mx/cuidado-del-cabello/8818-palmolive-caprice-especialidades-fijador-profesional-frasco-spray-con-316-ml-peinado-cabello-7509546059006.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El fabricante se dedujo por el prefijo GTIN 7509546 (mismo de otros productos Colgate-Palmolive del catálogo) y no está confirmado. No se descifró la abreviatura SP del nombre ni se conoce el nivel de fijación. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lo titula Color Brillante y otras Granada + Filtro UV; es el mismo GTIN. Beneficios tomados del texto del reverso del envase y de fichas de tienda; las precauciones de aerosol se redactaron de forma general porque el texto del envase no se leyó completo.",
+    "notas_imagenes": "2 fotos (tienda: DelSol): frente y reverso del aerosol. Se descartó una imagen publicitaria.",
     "fecha": "2026-09-29"
   }
 }

@@ -18,7 +18,7 @@
     "concentracion": "100 mg/ml",
     "via_administracion": "Oral",
     "edad_etapa": "0 a 36 meses",
-    "otros": "Incluye gotero; Formato de venta: Unidad"
+    "otros": "Incluye gotero; Dosificación: 1 ml = 20 gotas = 100 mg de paracetamol; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058714312_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501058714312_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 527,
+      "fecha": "2026-09-29",
+      "lado_util": 488
+    },
+    {
+      "archivo": "7501058714312_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501058714312_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 458
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://phemedica.com.mx/product/tempra-solucion-pediatrica-0-36-meses-paracetamol-100-mg-1-ml-fco-30-ml-reckitt-benckiser/",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 30 ml confirmados. El 96 del nombre del sistema es un código. Una farmacia menciona sabor uva, no confirmado en otra fuente, por eso no se incluyó.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501058714312_1.jpg, 7501058714312_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

@@ -30,17 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298217703_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217703_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1244,
+      "fecha": "2026-09-29",
+      "lado_util": 1152
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/osteoporosis/5645-comprar-dexabion-doble-camara-solucion-inyectable-caja-con-3-jeringas-prellenadas-con-3-ml-precio-7501298217703.html",
-    "https://farmaciasmedina.com/detalleProducto/Dexabion-3-Solucion-Jeringa-Prellenada/7501298217703"
+    "https://farmaciasmedina.com/detalleProducto/Dexabion-3-Solucion-Jeringa-Prellenada/7501298217703",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217703_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (caja con 3 jeringas de 3 ml, doble cámara). Fabricante omitido: la ficha consultada da un nombre dudoso. Registro sanitario tomado de una sola ficha; verificar contra el empaque. Clasificado como con receta (contiene dexametasona).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente de Dexabión DC, caja con 3 jeringas prellenadas, empaque nuevo. Se descartaron fotos del diseño anterior (Merck) y una vista distorsionada."
   }
 }

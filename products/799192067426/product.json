@@ -4,16 +4,16 @@
   "linea": "Farma",
   "nombre_sistema": "ACCU-CHEK EQ INSTANT KIT COMPLETO + SOFTCLIX + INSTANT 50 TIRAS REACTIVAS",
   "nombres_sistema_alternos": [],
-  "titulo": "Glucómetro Accu-Chek Instant Kit Softclix 50 Tiras",
-  "descripcion": "Descripción:\nKit Accu-Chek Instant de Roche para el automonitoreo de glucosa en sangre capilar. Según el nombre del producto, reúne el medidor Accu-Chek Instant, el dispositivo de punción Softclix y 50 tiras reactivas Accu-Chek Instant.\n\nCaracterísticas:\n- Medidor de glucosa en sangre Accu-Chek Instant.\n- Dispositivo de punción Softclix.\n- 50 tiras reactivas.\n\nPresentación:\nKit completo con glucómetro, dispositivo de punción y 50 tiras reactivas. Confirme con el empaque las lancetas y demás accesorios incluidos.\n\nAdvertencias:\nLea el instructivo de uso antes de utilizarlo. Los resultados no sustituyen la valoración médica; consulte a su médico para interpretarlos.",
+  "titulo": "Kit Glucómetro Accu-Chek Instant con Softclix 50 Tiras",
+  "descripcion": "Descripción:\nKit de monitoreo de glucosa Accu-Chek Instant de Roche, en formato promo pack. Incluye el medidor de glucosa Accu-Chek Instant, el puncionador Softclix con 25 lancetas y 50 tiras reactivas Accu-Chek Instant, para medir la glucosa en sangre capilar en casa de forma práctica.\n\nCaracterísticas:\n- Resultado en 4 segundos.\n- Requiere una muestra muy pequeña de sangre: 0.6 microlitros (una gota).\n- La tira reactiva tiene un borde amplio que facilita aplicar la gota de sangre.\n- El envase de las tiras cierra herméticamente para conservarlas en buen estado.\n- Pantalla digital con lectura clara del resultado.\n- Compatible con la aplicación mySugr para llevar el registro de las mediciones.\n\nContenido del kit:\n- 1 medidor de glucosa Accu-Chek Instant\n- 1 puncionador Softclix\n- 25 lancetas\n- 50 tiras reactivas Accu-Chek Instant\n\nModo de uso:\nLávese y séquese las manos, inserte una tira reactiva en el medidor, obtenga una gota de sangre con el puncionador y acerque la gota al borde de la tira. El resultado aparece en pantalla en segundos. Siga el instructivo incluido en el empaque.\n\nPresentación:\nKit con medidor, puncionador, 25 lancetas y 50 tiras reactivas.\n\nAdvertencias:\nDispositivo para automonitoreo de glucosa; no sustituye la valoración médica. Consulte a su médico para interpretar los resultados y ajustar su tratamiento. Las lancetas son de un solo uso. Lea las instrucciones del empaque. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Accu-Chek",
     "fabricante": "Roche",
-    "variante": "Instant",
+    "linea": "Instant",
+    "variante": "Promo pack con Softclix y 50 tiras reactivas",
     "presentacion": "Kit",
-    "contenido_neto": 50,
-    "unidad_contenido": "tiras reactivas",
-    "otros": "Incluye: glucómetro Accu-Chek Instant, dispositivo de punción Softclix y 50 tiras reactivas; Formato de venta: Kit"
+    "unidades_por_envase": 1,
+    "otros": "Contenido: medidor Accu-Chek Instant; puncionador Softclix; 25 lancetas; 50 tiras reactivas; Volumen de muestra: 0.6 µl; Tiempo de resultado: 4 segundos; Dispositivo médico para automonitoreo"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +27,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "799192067426_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/7/0799192067426.jpg",
+      "pagina": "https://www.fahorro.com/accu-chek-bundle-instant-glucometro-tiras.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1712,
+      "fecha": "2026-09-29",
+      "lado_util": 1586
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/accu-chek-bundle-instant-glucometro-tiras.html",
+    "https://dvcmedical.mx/producto/promo-pack-1-accu-chek-instant-glucometro-50-tiras-reactivas-puncionador-softclix-25-lancetas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos tomados solo del nombre del sistema. No se confirmó el significado de 'EQ', las lancetas incluidas, las especificaciones del medidor ni el GTIN. Confirmar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 799192067426 aparece en una ficha del mismo promo pack (medidor + Softclix + 25 lancetas + 50 tiras). La compatibilidad con mySugr se leyó en el empaque fotografiado.",
+    "notas_imagenes": "1 foto de frente del empaque del kit (tienda). Se descartaron una imagen con distintivo 'Nuevo' y una del medidor solo.",
     "fecha": "2026-09-29"
   }
 }

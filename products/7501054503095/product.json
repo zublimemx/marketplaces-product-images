@@ -31,7 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054503095_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaenlace.vtexassets.com/arquivos/ids/181118/0000142475--3-.jpg",
+      "pagina": "https://www.farmaciasmedicity.com/nivea-crema-100-ml/p",
+      "ancho_original": 4168,
+      "alto_original": 4168,
+      "lado_final": 1828,
+      "fecha": "2026-09-29",
+      "lado_util": 1693
+    },
+    {
+      "archivo": "7501054503095_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaenlace.vtexassets.com/arquivos/ids/181117/0000142475--2-.jpg",
+      "pagina": "https://www.farmaciasmedicity.com/nivea-crema-100-ml/p",
+      "ancho_original": 4168,
+      "alto_original": 4167,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "https://www.nivea.com.mx/productos/nivea-creme-tarro-vidrio-400-ml-75010545002160060.html",
   "fuentes": [
     "https://www.nivea.com.mx/productos/nivea-creme-tarro-vidrio-400-ml-75010545002160060.html",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "La ficha oficial de NIVEA México consultada es la del tarro de 400 ml (misma línea Creme); la lista de ingredientes se tomó de ahí. El GTIN también aparece en tiendas de Colombia como Nivea Creme 100 ml.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda, Farmacias Medicity, 2000x2000): tarro Nivea Creme 100 ml de frente y con la banda 'Crema humectante multiuso 100 ml'. Se descartó la vista de la base del tarro. La página oficial de Nivea es del tarro de 400 ml, no se usó."
   }
 }

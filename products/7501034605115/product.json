@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501034605115_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Jardianz-25-Mg-30-Tabletas-7501034605115-638866455770426254-1.jpg",
+      "pagina": "https://storeboehringer.com/jardianz/25mg-30-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 600
+    }
+  ],
   "url_oficial": "https://storeboehringer.com/jardianz/25mg-30-tabletas",
   "fuentes": [
     "https://storeboehringer.com/jardianz/25mg-30-tabletas",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Requiere receta médica. La categoría se eligió por grupo ATC (A10, digestivos y metabólicos); no hay una categoría de venta libre específica para antidiabéticos.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (fabricante, tienda oficial Boehringer Ingelheim, 1000x1000, alojada en cdn.gdar.com.mx): caja Jardianz 25 mg 30 tabletas."
   }
 }

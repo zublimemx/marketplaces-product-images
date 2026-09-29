@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298214375_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501298214375_e282e6a3-8e29-4217-86bf-f8b69aaf4279.jpg?v=1726102686",
+      "pagina": "https://farmaciaherrera.com.mx/products/denvar-400-mg-con-6-capsulas",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 458
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.vademecum.es/mexico/medicamento/1139695/denvar-capsula-400-mg",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Antibiótico de venta con receta (en México se surte con receta retenida).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacia Herrera, 500x500): caja Denvar cefixima 400 mg 6 cápsulas. Medina solo tenía 480x480 (rechazada)."
   }
 }

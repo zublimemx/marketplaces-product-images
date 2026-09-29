@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065008459_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501065008459.png",
+      "pagina": "https://grupofarmapronto.com/producto/theraflu-exthe-td-limon-sb-10/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1180,
+      "fecha": "2026-09-29",
+      "lado_util": 1093
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://prixz.com/c/theraflu-td-paracetamol-fenilefrina-650-10-mg-granulado-con-10-sobres-sabor-limon/",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias. Una de las fuentes describe la indicación como alivio de la tos, lo cual no coincide con la composición (paracetamol y fenilefrina); la descripción se redactó como antigripal. Dosis exacta no encontrada en las fuentes, verificar en el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Grupo Farmapronto): caja Theraflu TD limón c/10 sobres, 1200 px."
   }
 }

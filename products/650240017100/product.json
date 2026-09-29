@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "XL3 VR C 24 TABL",
   "nombres_sistema_alternos": [],
-  "titulo": "XL-3 VR 24 Tabletas",
-  "descripcion": "Descripción:\nXL-3 VR en tabletas, presentación con 24 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece hipertensión u otra enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "XL-3 VR Antigripal 375 mg/50 mg/3 mg 24 Tabletas",
+  "descripcion": "Descripción:\nXL-3 VR es un antigripal en tabletas con acción antiviral, antihistamínica, descongestiva, analgésica y antipirética. Es un auxiliar en el alivio de algunas molestias del resfriado común como cuerpo cortado, congestión y escurrimiento nasal, estornudos, dolor de cabeza y de garganta, dolor y fiebre; también se presenta como auxiliar contra la influenza estacional.\n\nComposición:\nCada tableta contiene 375 mg de paracetamol, 50 mg de amantadina y 3 mg de clorfenamina.\n\nModo de uso:\nVía oral. Debe tomarse según las indicaciones de su médico o las del empaque.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nPuede causar somnolencia y elevar la presión arterial. Se recomienda precaución al consumir alcohol durante el tratamiento. Informe a su médico si está embarazada, planea estarlo o está en periodo de lactancia, o si padece enfermedades del corazón, riñón o hígado, asma o diabetes. Consérvese a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "XL-3",
     "variante": "VR",
@@ -13,7 +13,10 @@
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
-    "via_administracion": "Oral"
+    "principio_activo": "Paracetamol, amantadina, clorfenamina",
+    "concentracion": "375 mg/50 mg/3 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antigripal con acción antiviral, antihistamínico, descongestivo, analgésico y antipirético; Formato de venta: Caja con 24 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -27,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240017100_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240017100_001.jpg",
+      "pagina": "https://www.fahorro.com/xl-3-vr-antigripal-24-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1073,
+      "fecha": "2026-09-29",
+      "lado_util": 994
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://club.presalud.com/shop/650240017100-xl-3-vr-375-50-3-mg-24-tabletas-29876",
+    "https://farmaciaspuntomx.com/product/xl-3-vr-3mg-50mg-375mg-24-tabletas/",
+    "https://www.fahorro.com/xl-3-vr-antigripal-24-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. No se sabe qué significa VR (variante exacta de XL-3) ni su composición ni fabricante (probablemente Genomma Lab, sin confirmar). Se asumió antigripal de venta libre por ser la línea XL-3. El GTIN tiene 12 dígitos y no se probó con 0 inicial.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN tiene 12 dígitos y se buscó con 0 inicial; las tiendas lo listan como 650240017100. Fórmula leída de la caja y confirmada en ficha de farmacia. No se encontró el fabricante en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja XL-3 VR con 24 tabletas).",
     "fecha": "2026-09-29"
   }
 }

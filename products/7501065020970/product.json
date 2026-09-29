@@ -17,7 +17,8 @@
     "principio_activo": "Tribenósido y lidocaína",
     "concentracion": "400 mg/40 mg por supositorio",
     "via_administracion": "Rectal",
-    "otros": "Uso: Hemorroides internas"
+    "otros": "Uso: Hemorroides internas",
+    "registro_sanitario": "77464 SSA VI"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,7 +32,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065020970_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__705e09de-643a-432a-b0b1-666a7d2c4209.jpg?v=1748304695&width=2400",
+      "pagina": "https://wecarepharma.mx/products/proctoglyvenol-400mg-con-5-supositorios",
+      "ancho_original": 2400,
+      "alto_original": 2400,
+      "lado_final": 1973,
+      "fecha": "2026-09-29",
+      "lado_util": 1827
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/procto-glyvenol-supositorios/122/101/9407/193",
@@ -43,6 +56,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Las fuentes discrepan sobre la receta: su registro es SSA VI y actuamed lo lista como venta libre (OTC), pero algunos sitios de farmacia lo marcan con receta; conviene confirmarlo. Un sitio menciona 5 mg de lidocaína, pero PLM y el nombre del sistema indican 40 mg. Registro citado como 77464 o 77465 según la fuente, por eso no se incluye. Categoría alterna por ATC: Cardiovasculares Venta Libre (MLM457817).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, WeCare Pharma, 2400 px reducida a 2000): frente de la caja Procto-Glyvenol 5 supositorios. Se borraron 2 imágenes de la misma galería que eran paneles laterales/tapa del arte de la caja, no fotos de frente. Registro sanitario 77464 SSA VI visto en el pie de la ficha de PLM."
   }
 }

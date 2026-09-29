@@ -4,18 +4,19 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE LUMINOUS WHITE22",
   "nombres_sistema_alternos": [],
-  "titulo": "Pasta Dental Colgate Luminous White 22 ml",
-  "descripcion": "Descripción:\nColgate Luminous White es una pasta dental blanqueadora de Colgate-Palmolive, formulada para ayudar a remover las manchas superficiales de los dientes y contribuir a una sonrisa más blanca con el cepillado diario. Se presenta en tubo de 22 ml, práctico para llevar en el bolso, el escritorio o de viaje.\n\nBeneficios:\n- Ayuda a remover manchas superficiales y a mantener los dientes más blancos.\n- Sabor fresco para una sensación de limpieza al cepillarse.\n- Tamaño compacto, ideal para viaje o para probar el producto.\n\nModo de uso:\nColoque una pequeña cantidad de pasta sobre el cepillo y cepille todos los dientes durante al menos dos minutos, al menos dos veces al día, de preferencia después de cada comida. Enjuague la boca con agua al terminar.\n\nPresentación:\nTubo con 22 ml de pasta dental.\n\nAdvertencias:\nNo se degluta. Mantenga fuera del alcance de los niños y supervise el cepillado de los niños pequeños. Si ocurre irritación en la boca, suspenda su uso y consulte a su dentista.",
+  "titulo": "Crema Dental Colgate Luminous White Brilliant 22 ml",
+  "descripcion": "Descripción:\nColgate Luminous White Brilliant es una crema dental anticaries con flúor de sabor Brilliant Mint, formulada para ayudar a eliminar manchas y lograr una sonrisa más blanca. Se presenta en tubo de 22 ml, práctico para llevar en el bolso, la mochila o de viaje.\n\nBeneficios:\n- Crema dental anticaries con flúor para el cuidado diario de los dientes.\n- Ayuda a evitar la formación de manchas amarillas ocasionadas por hábitos como el café, el té o el tabaco.\n- Su etiqueta promete una sonrisa más blanca en 1 semana con el uso regular.\n- Aliento fresco con sabor Brilliant Mint.\n- Tamaño de 22 ml, ideal para viaje.\n\nModo de uso:\nAplique una cantidad de crema dental del tamaño de un chícharo sobre el cepillo y cepille todos los dientes durante al menos dos minutos. Úsela después de cada comida, hasta tres veces al día, o siguiendo la recomendación de su odontólogo. Escupa el exceso y enjuáguese la boca.\n\nPresentación:\nTubo con 22 ml de crema dental. Hecho en México.\n\nAdvertencias:\nPara niños menores de 6 años, use solo una cantidad mínima y supervise el cepillado para evitar que traguen la crema dental. Si se ingiere más de la cantidad usada para cepillarse, busque ayuda médica. Mantenga fuera del alcance de los niños.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
     "linea": "Luminous White",
-    "variante": "Pasta dental blanqueadora",
-    "presentacion": "Pasta dental (crema)",
+    "variante": "Brilliant",
+    "presentacion": "Crema dental",
     "contenido_neto": 22,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Función: Blanqueadora; Formato de venta: Unidad"
+    "sabor_aroma": "Menta (Brilliant Mint)",
+    "otros": "Anticaries con flúor; Industria mexicana; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,29 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546054032_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546054032_1.jpg",
+      "pagina": "https://www.fahorro.com/crema-dental-colgate-luminous-white-22-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-dental-colgate-luminous-white-22-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y la página de Colgate México no se pudo consultar. Identificación por el nombre y conocimiento general (el prefijo 7509546 es de Colgate-Palmolive). El 22 del nombre se interpretó como 22 ml (tubo chico); confirmar contenido, variante exacta (Luminous White Advanced, Brilliant, etc.) y sabor en el empaque. El sabor fresco es una suposición típica de la marca; quitar si no aplica.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda; la caja confirma 22 mL, anticaries con flúor y Brilliant Mint. No se encontró lista de ingredientes verificable, por eso no se incluyó sección de ingredientes. Modo de uso y advertencias son los habituales de una crema dental.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja limpia. Se descartaron una con rótulo agregado ('Blanqueadora 22 ml') y una gráfica promocional.",
     "fecha": "2026-09-29"
   }
 }

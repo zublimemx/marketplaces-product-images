@@ -5,9 +5,10 @@
   "nombre_sistema": "PENTREXYL 500 MG C28 CAPS 30",
   "nombres_sistema_alternos": [],
   "titulo": "Pentrexyl Ampicilina 500 mg 28 Cápsulas",
-  "descripcion": "Descripción:\nPentrexyl 500 mg es un medicamento antibiótico en cápsulas cuyo principio activo es la ampicilina, del grupo de las penicilinas. Se presenta en caja con 28 cápsulas. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\nCada cápsula contiene 500 mg de ampicilina.\n\nPresentación:\nCaja con 28 cápsulas de 500 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a las penicilinas u otros antibióticos betalactámicos. No lo use sin indicación médica ni suspenda el tratamiento antes de lo indicado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nPentrexyl es un antibiótico de Aspen cuyo principio activo es la ampicilina, una penicilina de amplio espectro. Se presenta en cápsulas de 500 mg y se utiliza únicamente bajo prescripción médica para tratar infecciones causadas por bacterias sensibles. Esta presentación contiene 28 cápsulas.\n\nBeneficios:\n- Antibiótico del grupo de las penicilinas de amplio espectro.\n- Se indica en infecciones bacterianas de vías respiratorias, del oído, nariz y garganta, de vías urinarias y gastrointestinales, causadas por microorganismos sensibles.\n- Presentación de 28 cápsulas para esquemas de tratamiento prolongados definidos por el médico.\n\nComposición:\nCada cápsula contiene ampicilina 500 mg.\n\nModo de uso:\nVía oral. La dosis, el intervalo entre tomas y la duración del tratamiento los determina el médico; complete siempre el tratamiento indicado aunque se sienta mejor.\n\nPresentación:\nCaja con 28 cápsulas de 500 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la ampicilina, a las penicilinas o a otros antibióticos betalactámicos. Informe a su médico si tiene enfermedad de los riñones, antecedentes de alergias, o si está embarazada o en periodo de lactancia. El uso inadecuado de antibióticos favorece la resistencia bacteriana; no lo use sin indicación médica. Conservar en lugar fresco y seco, a no más de 25 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Pentrexyl",
+    "fabricante": "Aspen",
     "presentacion": "Cápsulas",
     "contenido_neto": 28,
     "unidad_contenido": "cápsulas",
@@ -15,7 +16,7 @@
     "principio_activo": "Ampicilina",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "otros": "Venta con receta médica; Tipo: Antibiótico"
+    "otros": "Venta con receta médica; Grupo terapéutico: Antibiótico (penicilina); Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502253073501_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502253073501_1.jpg",
+      "pagina": "https://www.fahorro.com/pentrexyl-500-mg-con-28-capsulas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1278,
+      "fecha": "2026-09-29",
+      "lado_util": 1184
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pentrexyl-500-mg-con-28-capsulas.html",
+    "https://wecarepharma.mx/en/products/pentrexyl-500mg-con-28-capsulas-ampicilina",
+    "https://club.presalud.com/shop/medicamentos-2/7502253073501-pentrexyl-500-mg-28-capsulas-33631"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El principio activo (ampicilina) se dedujo de conocimiento previo de la marca; no se confirmó fabricante, GTIN ni el número de cápsulas por caja. El 30 final del nombre se ignoró. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Caja de frente muestra Aspen, Pentrexyl ampicilina cápsula 500 mg, 28 cápsulas. Indicaciones de ficha de farmacia (no se vio el reverso); el nombre del sistema trae un 30 al final que se ignoró.",
+    "notas_imagenes": "1 foto de frente en ángulo (tienda: Farmacias del Ahorro), correcta en marca, concentración y contenido.",
     "fecha": "2026-09-29"
   }
 }

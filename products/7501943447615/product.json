@@ -32,18 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943447615_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw2c9c19f6/images/large/7501943447615_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-extra-jumbo-40-pzas/MXYZ_7501943447615.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 960,
+      "fecha": "2026-09-29",
+      "lado_util": 889
+    },
+    {
+      "archivo": "7501943447615_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwdfc9fff0/images/large/7501943447615_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-extra-jumbo-40-pzas/MXYZ_7501943447615.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
     "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
     "https://club.presalud.com/shop/7501943447615-panal-kleen-bebe-suavelastic-extra-jumbo-etapa-6-40-piezas-25613",
-    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-etapa-6-unisex-40-piezas/p/MLM18976308"
+    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-etapa-6-unisex-40-piezas/p/MLM18976308",
+    "https://www.yza.mx/kleenbebe-suavelastic-max-extra-jumbo-40-pzas/MXYZ_7501943447615.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza. Se descartaron fotos del diseno anterior, una con promocion de la tienda y un grafico."
   }
 }

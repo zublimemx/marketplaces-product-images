@@ -4,15 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "MICROLAX ENEMAS C4 72",
   "nombres_sistema_alternos": [],
-  "titulo": "Microlax Enema Laxante 4 Piezas",
-  "descripcion": "Descripción:\nMicrolax es un microenema de uso rectal de la marca Microlax que se utiliza como laxante para el estreñimiento ocasional. Esta presentación es la caja con 4 enemas. La composición y el volumen de cada pieza deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 4 enemas.\n\nAdvertencias:\n- Solo para uso rectal.\n- Consulte a su médico si el estreñimiento persiste.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Microlax Microenemas Laxante 90 mg/9 mg 4 Piezas de 5 ml",
+  "descripcion": "Descripción:\nMicrolax es un laxante de acción local en microenemas de 5 ml con microaplicador desechable. Su fórmula combina citrato de sodio y laurilsulfoacetato de sodio en suspensión rectal, y se emplea para el alivio del estreñimiento ocasional. Es de uso en adultos y mayores de 12 años.\n\nBeneficios:\n- Efecto local rápido: actúa entre 5 y 20 minutos.\n- Ayuda a suavizar las heces y a estimular el reflejo natural de evacuación.\n- Microaplicador desechable listo para usar.\n- No se ingiere: su vía de administración es rectal.\n\nComposición:\nPor cada ml de suspensión:\n- Citrato de sodio 90 mg\n- Laurilsulfoacetato de sodio 9 mg\n\nModo de uso:\nVía rectal. Adultos y mayores de 12 años: por lo general basta con el contenido de un tubo. Lubrique la cánula con una gota del contenido, introdúzcala en el recto, oprima suavemente hasta vaciar el tubo y manténgalo oprimido al retirarlo. Siga el instructivo incluido.\n\nPresentación:\nCaja con 4 microenemas de 5 ml con microaplicador desechable e instructivo.\n\nAdvertencias:\nNo se ingiera. No se use en menores de 12 años sin indicación médica. Si el estreñimiento persiste, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Microlax",
-    "presentacion": "Enema rectal",
+    "fabricante": "Johnson & Johnson",
+    "presentacion": "Microenemas (suspensión rectal)",
     "contenido_neto": 4,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 4,
-    "via_administracion": "Rectal"
+    "principio_activo": "Citrato de sodio y laurilsulfoacetato de sodio",
+    "concentracion": "90 mg/9 mg por ml",
+    "via_administracion": "Rectal",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Formato de venta: caja con 4 microenemas de 5 ml; Efecto en 5 a 20 minutos"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -26,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007532387_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501007532387.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/microlax-90mg-9mg-c-4-microenemas-5-ml/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1172,
+      "fecha": "2026-09-29",
+      "lado_util": 1084
+    },
+    {
+      "archivo": "7501007532387_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Microlax_1.jpg?v=1685592242",
+      "pagina": "https://sanorim.mx/products/microlax-caja-con-4-enemas-de-5-ml-con-microaplicador-desechable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 456
+    },
+    {
+      "archivo": "7501007532387_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Microlax.jpg?v=1685592242",
+      "pagina": "https://sanorim.mx/products/microlax-caja-con-4-enemas-de-5-ml-con-microaplicador-desechable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 514,
+      "fecha": "2026-09-29",
+      "lado_util": 476
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Trastornos_digestivos/2527-microlax-90mg-9mg-con-4-microenemas-de-5-ml.html",
+    "https://sanorim.mx/products/microlax-caja-con-4-enemas-de-5-ml-con-microaplicador-desechable",
+    "https://grupofarmapronto.com/producto/microlax-90mg-9mg-c-4-microenemas-5-ml/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (microenema laxante). Falta confirmar fabricante, composición y volumen por pieza. El número 72 al final del nombre parece ser existencia, no contenido.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Fabricante según fichas de farmacia (Johnson & Johnson; puede figurar como Kenvue en empaques nuevos).",
+    "notas_imagenes": "3 fotos de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

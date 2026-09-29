@@ -4,39 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "LODESTAR 50MG C 30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Lodestar 50 mg 30 Tabletas",
-  "descripcion": "Descripción:\nLodestar es un medicamento en tabletas de 50 mg de administración oral. Se comercializa en caja con 30 tabletas. No se pudo confirmar su principio activo ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 tabletas de 50 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Lodestar Losartán Potásico 50 mg 30 Tabletas",
+  "descripcion": "Descripción:\nLodestar es un medicamento de Laboratorios Liomont cuyo principio activo es el losartán potásico, un antihipertensivo antagonista del receptor de angiotensina II que bloquea de forma selectiva los receptores AT1 y reduce el efecto elevador de la presión de la angiotensina II. Se utiliza en el tratamiento de la hipertensión arterial, para disminuir el riesgo de ictus en pacientes con hipertrofia ventricular izquierda y en el tratamiento de la nefropatía diabética.\n\nBeneficios:\n- Antihipertensivo de uso oral.\n- Opción útil en pacientes que presentan tos con otros medicamentos para la presión (inhibidores de la ECA).\n- Presentación de 30 tabletas de 50 mg.\n\nComposición:\nCada tableta recubierta contiene losartán potásico 50 mg y excipiente cbp una tableta.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento los determina el médico.\n\nPresentación:\nCaja con 30 tabletas recubiertas de 50 mg.\n\nAdvertencias:\nMedicamento de venta con receta médica. No se administre durante el embarazo. No debe usarse en caso de hipersensibilidad al losartán o a alguno de los componentes. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lodestar",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Lodestar",
     "variante": "50 mg",
-    "presentacion": "Tabletas",
+    "presentacion": "Tabletas recubiertas",
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
+    "principio_activo": "Losartán potásico",
     "concentracion": "50 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 30 tabletas"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299305386_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299305386.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/lodestar-50mg-tab-caj-c-30.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1375
+    },
+    {
+      "archivo": "7501299305386_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501299305386_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/lodestar-50mg-tab-caj-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1032,
+      "fecha": "2026-09-29",
+      "lado_util": 956
+    },
+    {
+      "archivo": "7501299305386_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501299305386_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/lodestar-50mg-tab-caj-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 871,
+      "fecha": "2026-09-29",
+      "lado_util": 807
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Medicamentos_de_patente/2358-losartan-50mg-con-30-tabletas.html",
+    "https://www.farmaciasespecializadas.com/lodestar-50mg-tab-caj-c-30.html",
+    "https://www.farmaleal.com.mx/products/lodestar-50-mg-30-tab-7501299305386"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo, el fabricante ni el grupo terapéutico; la categoría Otros Medicamentos es provisional y debe cambiarse cuando se identifique. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (losartán potásico 50 mg, 30 tabletas). El fabricante Liomont aparece en dos fichas y en el empaque.",
+    "notas_imagenes": "3 fotos de tienda (farmacias en línea) del empaque Lodestar 50 mg, caja con 30 tabletas.",
     "fecha": "2026-09-29"
   }
 }

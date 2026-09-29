@@ -5,7 +5,7 @@
   "nombre_sistema": "DABEX XR 750 MG C 30",
   "nombres_sistema_alternos": [],
   "titulo": "Dabex XR Metformina 750 mg 30 Tabletas Liberación Prolongada",
-  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es la metformina clorhidrato, en tabletas de liberación prolongada de 750 mg. Es un antidiabético oral que se utiliza, bajo indicación médica, como apoyo en el control de la glucosa en personas con diabetes mellitus tipo 2, junto con dieta y actividad física.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 750 mg.\n\nModo de uso:\nVía oral. Las tabletas de liberación prolongada deben tragarse enteras, sin partirlas ni masticarlas, y generalmente se toman con alimentos. La dosis y la frecuencia las determina el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la metformina ni si tiene problemas graves de los riñones o del hígado, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es la metformina (clorhidrato), en tabletas de liberación prolongada de 750 mg. Está indicado para el tratamiento de la diabetes mellitus tipo 2 en pacientes adultos, para mejorar el control de la glucosa cuando la dieta y el ejercicio no son suficientes. Puede utilizarse como tratamiento único o en combinación con otros antidiabéticos orales o con insulina, siempre bajo supervisión médica.\n\nCaracterísticas:\n- Tabletas de liberación prolongada.\n- La metformina disminuye la producción de glucosa en el hígado y aumenta la sensibilidad a la insulina en los tejidos periféricos.\n- Presentación de 30 tabletas de 750 mg.\n\nComposición:\nCada tableta contiene 750 mg de clorhidrato de metformina y excipientes.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico. Las tabletas de liberación prolongada deben tragarse enteras, sin partirlas ni masticarlas.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 750 mg.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad a la metformina, insuficiencia renal grave, insuficiencia hepática, condiciones que puedan causar hipoxia aguda ni antecedentes de acidosis láctica. Se requiere precaución en enfermedad renal o cardiovascular y antes de procedimientos quirúrgicos. No se recomienda durante el embarazo y la lactancia, salvo indicación médica. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dabex",
     "fabricante": "Merck",
@@ -15,11 +15,11 @@
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "principio_activo": "Metformina clorhidrato",
+    "principio_activo": "Metformina (clorhidrato)",
     "concentracion": "750 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: Caja; Forma farmacéutica: Tableta de liberación prolongada"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298213569_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298213569_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dabex-xr-750mg-tab-cja-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 419
+    },
+    {
+      "archivo": "7501298213569_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298213569.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dabex-xr-750mg-tab-cja-c-30.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1400,
+      "fecha": "2026-09-29",
+      "lado_util": 1297
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/dabex-xr-750mg-con-30-tabletas-metformina",
+    "https://www.farmaciasespecializadas.com/dabex-xr-750mg-tab-cja-c-30.html",
+    "https://www.fahorro.com/dabex-xr-750-mg-oral-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Dabex XR = metformina de liberación prolongada de Merck, de conocimiento general). Es la presentación de 30 tabletas; el producto 209 del mismo lote es la de 60 tabletas con otro GTIN. La descripción es general y no se cotejó con la ficha oficial; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tres fichas de farmacia (30 tabletas). La ficha de una farmacia lo marca sin receta, pero otras dos indican que su venta requiere receta; se dejó como con receta.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea), empaque frontal Merck de 30 tabletas 750 mg. Se descartaron 2 fotos con el empaque antiguo Merck Serono.",
     "fecha": "2026-09-29"
   }
 }

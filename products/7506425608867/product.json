@@ -4,16 +4,18 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUGGIES SUPREME 2PACK C/80",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas Huggies Supreme 2 Pack 80 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas Huggies Supreme para bebé, en presentación de 2 paquetes con 80 piezas. La línea Supreme de Huggies está enfocada en ofrecer suavidad superior y cuidado superior para la delicada piel del bebé, según el fabricante.\n\nPresentación:\nPresentación doble de toallitas húmedas, con 80 piezas. Consulte el empaque para confirmar el contenido de cada paquete.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- Mantenga el producto fuera del alcance de los niños. No arroje las toallitas al inodoro.",
+  "titulo": "Toallitas Húmedas Huggies Supreme 2 Paquetes de 80 Piezas",
+  "descripcion": "Descripción:\nLas toallitas húmedas Huggies Supreme Protección Delicada están pensadas para la limpieza diaria de la piel del bebé en cada cambio de pañal. Tienen textura 3D algodonosa hecha con fibras naturales, son una toallita de tamaño más grande y están adicionadas con glicerina y aceite de almendras. Son clínica y dermatológicamente probadas, hipoalergénicas, libres de parabenos y sin alcohol. Se venden en presentación de 2 paquetes con 80 toallitas cada uno, 160 toallitas en total.\n\nCaracterísticas:\n- Suavidad superior con textura 3D algodonosa.\n- Cuidado superior con aceite de almendras.\n- Tecnología superior de limpieza gracias a sus fibras naturales.\n- Toallita más grande.\n- Tapa con sistema Easy Push.\n- Hipoalergénicas, libres de parabenos y sin alcohol.\n- Clínica y dermatológicamente probadas.\n\nComposición:\nToallitas de fibras naturales con glicerina y aceite de almendras. Consulte el listado completo de ingredientes en el empaque.\n\nModo de uso:\nAbra la tapa, tome una toallita y limpie suavemente la piel del bebé en cada cambio de pañal. Cierre bien la tapa después de cada uso para que las toallitas conserven su humedad.\n\nPresentación:\n2 paquetes con 80 toallitas húmedas cada uno (160 toallitas en total).\n\nAdvertencias:\nProducto de un solo uso; no se deseche en el inodoro. Evite el contacto con los ojos. Mantenga los paquetes fuera del alcance de los niños. Si aparece irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
     "linea": "Supreme",
+    "variante": "Protección Delicada",
     "presentacion": "Toallitas húmedas",
-    "contenido_neto": 80,
-    "unidad_contenido": "piezas",
-    "otros": "Formato de venta: Paquete doble (2 pack)"
+    "contenido_neto": 160,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 2,
+    "otros": "Contenido: 2 paquetes con 80 toallitas cada uno; Con aceite de almendras y glicerina; Hipoalergénicas; Libres de parabenos; Sin alcohol; Tapa Easy Push; Formato de venta: Pack de 2 paquetes"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,17 +29,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "https://www.huggies.com.mx/productos/linea-supreme/",
+  "imagenes": [
+    {
+      "archivo": "7506425608867_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425608867-1.jpeg",
+      "pagina": "https://www.fahorro.com/huggies-supreme-toallitas-humedas-2-pack-80-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1329,
+      "fecha": "2026-09-29",
+      "lado_util": 1231
+    },
+    {
+      "archivo": "7506425608867_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425608867-2.jpeg",
+      "pagina": "https://www.fahorro.com/huggies-supreme-toallitas-humedas-2-pack-80-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1321,
+      "fecha": "2026-09-29",
+      "lado_util": 1224
+    },
+    {
+      "archivo": "7506425608867_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425608867-3.jpeg",
+      "pagina": "https://www.fahorro.com/huggies-supreme-toallitas-humedas-2-pack-80-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1323,
+      "fecha": "2026-09-29",
+      "lado_util": 1225
+    }
+  ],
+  "url_oficial": "",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/linea-supreme/",
-    "https://www.huggies.com.mx/productos/huggies-toallitas-humedas/"
+    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-2-pack-80-pz.html",
+    "https://alsuper.com/producto/2pack-toallitas-humedas-446303",
+    "https://www.farmatodo.com.mx/huggies-supreme-toallitas-humedas-2-pack-c-80-piezas-v1/p"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). El nombre del sistema es ambiguo: no se sabe si son 2 paquetes de 80 piezas o 80 piezas en total; el precio de referencia sugiere un solo paquete de 80, verificar antes de publicar. La página oficial confirma la línea Supreme con toallitas pero no detalla ingredientes de esta versión.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda; presentación confirmada por el empaque (2 paquetes con 80 toallitas, 160 en total). La página de la marca no se consultó.",
+    "notas_imagenes": "3 fotos de tienda (renders del paquete): frente y dos vistas en ángulo de la presentación de 2 paquetes con 80 toallitas.",
     "fecha": "2026-09-29"
   }
 }

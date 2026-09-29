@@ -4,23 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "TESALON 100MG C20TABS TESAPERL BENZONATATO GSK",
   "nombres_sistema_alternos": [],
-  "titulo": "Tesalon Perlas Benzonatato 100 mg 20 Perlas",
-  "descripcion": "Descripción:\nTesalon Perlas es un medicamento de GSK cuyo principio activo es el benzonatato, un antitusivo de administración oral. Esta presentación contiene 100 mg de benzonatato por perla y se presenta en caja con 20 perlas. Su uso y su dosis deben ser indicados por un médico o seguir las instrucciones del empaque.\n\nComposición:\nCada perla contiene benzonatato 100 mg.\n\nModo de uso:\nVía oral. Trague las perlas enteras, sin masticarlas ni disolverlas en la boca. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada.\n\nPresentación:\nCaja con 20 perlas de 100 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico al benzonatato o a algún componente de la fórmula. No mastique ni disuelva las perlas en la boca, ya que puede causar adormecimiento de la boca y la garganta. Si la tos persiste por más de una semana o se acompaña de fiebre o dolor de cabeza, suspenda su uso y consulte a su médico. Informe a su médico si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tesalon Adulto Tesaperl Benzonatato 100 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nTesalon Adulto Tesaperl es un antitusivo en cápsulas (perlas) cuyo principio activo es el benzonatato, en concentración de 100 mg por cápsula. Está indicado como auxiliar para el alivio de la tos seca o irritativa por diversas causas, incluida la tos asociada a bronquitis. El benzonatato actúa anestesiando las vías respiratorias y disminuye el reflejo de la tos.\n\nBeneficios:\n- Alivio de la tos seca en tan solo 15 a 20 minutos.\n- Alivio hasta por 8 horas.\n- Presentación con 20 cápsulas.\n\nComposición:\nCada cápsula contiene benzonatato 100 mg.\n\nModo de uso:\nVía oral. Trague las cápsulas enteras, sin masticarlas ni disolverlas. Siga la dosis y la frecuencia indicadas en el empaque o por su médico, y no exceda la cantidad recomendada.\n\nPresentación:\nCaja con 20 cápsulas de 100 mg.\n\nAdvertencias:\nUso en adultos. No mastique ni disuelva las cápsulas en la boca, ya que puede provocar adormecimiento de la boca y la garganta. No lo use si es alérgico al benzonatato o a alguno de los componentes. Si la tos persiste por más de una semana o se acompaña de fiebre, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tesalon",
     "fabricante": "GSK",
-    "linea": "Perlas",
-    "variante": "Perlas 100 mg",
-    "presentacion": "Perlas",
+    "linea": "Adulto",
+    "variante": "Tesaperl 100 mg",
+    "presentacion": "Cápsulas (perlas)",
     "contenido_neto": 20,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 20,
     "principio_activo": "Benzonatato",
     "concentracion": "100 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 20 perlas"
+    "edad_etapa": "Adultos",
+    "otros": "Antitusivo para tos seca; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457814",
@@ -32,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065026439_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0818/0544/3355/products/7501094910570_b3ffa0f1-6d25-446d-88a8-8fceb3c78257.jpg?v=1701388821",
+      "pagina": "https://farmaciasanjorge.com/products/6384",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 940,
+      "fecha": "2026-09-29",
+      "lado_util": 871
+    },
+    {
+      "archivo": "7501065026439_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/tesalon_adulto_tos_seca_100mg_capsulas_20_25197_c5dfc14e-782b-4926-b607-803d3490f3a9.jpg?v=1762281890&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/tesalon-adulto-tos-seca-100mg-capsulas-20",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 781,
+      "fecha": "2026-09-29",
+      "lado_util": 724
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/tesalon-100-mg-c-20-perlas/p",
+    "https://club.presalud.com/shop/7501065026439-tesalon-benzonatato-100-mg-20-perlas-29048",
+    "https://farmaciasanjorge.com/products/6384"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo, concentración, piezas y fabricante salen del nombre del sistema (TESALON, TESAPERL, BENZONATATO, GSK). Se asumió que es la presentación en perlas (cápsulas blandas) aunque el nombre dice TABS. Advertencias redactadas de forma general. Confirmar si requiere receta. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. La marca hoy pertenece a Haleon (antes GSK Consumer); el empaque muestra logo GSK y el sistema dice GSK. Una ficha de tienda lista a Novartis con otro GTIN de la misma presentación. Una farmacia indica venta sin receta.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Tesalon Adulto Tesaperl 100 mg, caja con 20 cápsulas. Se descartaron 2 fotos con franjas gráficas de texto (TESAPERL, TOS SECA, 20 CÁPSULAS).",
     "fecha": "2026-09-29"
   }
 }

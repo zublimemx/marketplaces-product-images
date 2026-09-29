@@ -4,16 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "DIAPRO PRED GEL ADC-10",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Diapro Gel 10 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para adulto de la marca Diapro, con núcleo absorbente con gel, diseñados para el manejo de la incontinencia urinaria. Ayudan a retener la humedad y a mantener la piel más seca. Se presentan en paquete con 10 piezas.\n\nCaracterísticas:\n- Núcleo absorbente con gel que retiene la humedad.\n- Producto desechable de un solo uso.\n- Paquete de 10 piezas, práctico para llevar o para probar el producto.\n\nModo de uso:\nColoque el pañal según las indicaciones del empaque, ajustándolo de forma cómoda al cuerpo sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio, para cuidar la piel.\n\nPresentación:\nPaquete con 10 pañales desechables para adulto.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Si aparece irritación o enrojecimiento en la piel, suspenda su uso y consulte a su médico. Verifique que la talla corresponda al usuario. Mantenga el empaque fuera del alcance de los niños.",
+  "titulo": "Pañales para Adulto Diapro Gel Predoblados Unitalla 10 Pzas",
+  "descripcion": "Descripción:\nDiapro Gel Predoblado es un pañal desechable para adulto de talla única, diseñado para dar protección confiable contra la incontinencia. Su núcleo con gel gelatiniza los líquidos y ayuda a mantener la piel seca. Se vende en paquete con 10 pañales predoblados.\n\nCaracterísticas:\n- Unitalla: un solo tamaño para adultos.\n- Con gel que gelatiniza los líquidos para una mejor absorción.\n- Rombos que distribuyen los líquidos de manera uniforme.\n- Cubierta suave tipo tela y respirable.\n- Con aloe y manzanilla, que ayudan a cuidar la piel.\n- Odorlock, tecnología que ayuda a controlar los olores.\n- Cintas adhesivas para sujetarlo al cuerpo y ajustarlo cómodamente.\n- Formato predoblado, listo para usar.\n\nModo de uso:\nAbra el pañal, colóquelo entre las piernas y ajuste las cintas adhesivas a la cintura hasta lograr un ajuste cómodo y seguro. Cámbielo cuando esté húmedo o sucio para mantener la piel limpia y seca.\n\nPresentación:\nPaquete con 10 pañales desechables predoblados con gel, talla unitalla.\n\nAdvertencias:\nProducto de un solo uso. Deséchelo en la basura, no en el inodoro. Mantenga fuera del alcance de los niños. Si aparece irritación en la piel, suspenda su uso y consulte a su médico.",
   "ficha": {
     "marca": "Diapro",
-    "presentacion": "Pañales desechables para adulto",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Diapro Gel",
+    "variante": "Predoblado",
+    "presentacion": "Pañal desechable predoblado con gel",
     "contenido_neto": 10,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
+    "talla": "Unitalla",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Paquete"
+    "otros": "Con aloe y manzanilla; Odorlock para control de olores; Cubierta tipo tela respirable; Cintas adhesivas; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943474895_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943474895.jpg",
+      "pagina": "https://www.fahorro.com/pa-al-diapro-predoblado-gel-10-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1531,
+      "fecha": "2026-09-29",
+      "lado_util": 1418
+    },
+    {
+      "archivo": "7501943474895_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943474895_2.jpg",
+      "pagina": "https://www.fahorro.com/pa-al-diapro-predoblado-gel-10-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1548,
+      "fecha": "2026-09-29",
+      "lado_util": 1434
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pa-al-diapro-predoblado-gel-10-pz.html",
+    "https://www.klyns.mx/diapro-predoblado-gel-adulto-c-10-pzs/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Producto dudoso: DIAPRO PRED GEL ADC-10 se interpretó como pañal para adulto con gel, 10 piezas (ADC probablemente sea adulto chico o similar, sin confirmar). El prefijo 7501943 es de Kimberly-Clark, pero no se localizó la línea Diapro. Se omitieron talla, fabricante y variante. Revisar antes de publicar; si resulta otro formato (p. ej. pañal para bebé), cambiar categoría a MLM178488.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda; presentación de 10 piezas igual al nombre del sistema. Modo de uso y advertencias son los habituales de un pañal para adulto.",
+    "notas_imagenes": "2 fotos de tienda: frente del paquete y vista en ángulo. Se descartaron una imagen ilustrativa del pañal y una con etiqueta promocional de la tienda.",
     "fecha": "2026-09-29"
   }
 }

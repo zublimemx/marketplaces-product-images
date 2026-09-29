@@ -4,21 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "BIO ELECTRO C 24 CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "Bio Electro 24 Cápsulas",
-  "descripcion": "Descripción:\nBio Electro en presentación de 24 cápsulas, producto de la línea de farmacia. Esta ficha se elaboró a partir del nombre del producto; la composición, la dosis recomendada y las advertencias del fabricante deben consultarse en el empaque original.\n\nPresentación:\nEnvase con 24 cápsulas.\n\nAdvertencias:\nNo exceda la dosis recomendada. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o bajo tratamiento médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Bio Electro Analgésico 250/250/65 mg 24 Tabletas",
+  "descripcion": "Descripción:\nBio Electro es un analgésico de Genomma Lab que combina paracetamol, ácido acetilsalicílico y cafeína en cada tableta. Está indicado para el alivio del dolor de cabeza y de la migraña. Esta presentación contiene 24 tabletas.\n\nBeneficios:\n- Auxiliar en el alivio del dolor de cabeza, incluido el dolor de cabeza tensional y la migraña o jaqueca.\n- Ayuda a aliviar el dolor de cabeza ocasional asociado con desvelo, traumatismos o resfriados.\n- El paracetamol y el ácido acetilsalicílico alivian el dolor y reducen la fiebre; la cafeína refuerza la acción analgésica.\n\nComposición:\nCada tableta contiene paracetamol 250 mg, ácido acetilsalicílico 250 mg y cafeína 65 mg.\n\nModo de uso:\nVía oral. Para el dolor de cabeza en adultos y niños mayores de 14 años, una tableta cada 8 horas. En caso de migraña, 2 tabletas cada 8 horas, sin exceder 6 tabletas al día.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo exceda la dosis indicada ni lo use junto con otros medicamentos que contengan paracetamol, ácido acetilsalicílico u otros analgésicos. No se administre a menores de 14 años. No lo use si es alérgico al ácido acetilsalicílico, al paracetamol o a la cafeína. Puede causar molestias gástricas. Consulte a su médico si el dolor persiste, empeora o si está embarazada o en lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Bio Electro",
-    "presentacion": "Cápsulas",
+    "fabricante": "Genomma Lab",
+    "presentacion": "Tabletas",
     "contenido_neto": 24,
-    "unidad_contenido": "cápsulas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Paracetamol, ácido acetilsalicílico y cafeína",
+    "concentracion": "250 mg/250 mg/65 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 14 años",
+    "otros": "Grupo terapéutico: Analgésico para dolor de cabeza y migraña; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240007651_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/306769-1000-1000/650240007651.jpg?v=639032326773170000",
+      "pagina": "https://www.lagranbodega.com.mx/bio-electro-c-24-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 865,
+      "fecha": "2026-09-29",
+      "lado_util": 801
+    },
+    {
+      "archivo": "650240007651_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/876-large_default/bio-electro-250mg-250mg-60mg-con-24-tabletas.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/bio-electro-c-24-tabletas/p",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 727,
+      "fecha": "2026-09-29",
+      "lado_util": 430
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Analgesicos/508-bio-electro-250mg-250mg-60mg-con-24-tabletas.html",
+    "https://curitek.com/producto/bio-electro-24-tabletas-paracetamol-acido-acetilsalicilico-cafeina/",
+    "https://www.lagranbodega.com.mx/bio-electro-c-24-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se sabe qué contiene Bio Electro ni si es suplemento o medicamento; la categoría Suplementos Alimenticios es una suposición (si es un rehidratante oral, sería MLM431865). GTIN de 12 dígitos (prefijo 650240, igual que Nikzon del mismo lote). Investigar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (ponerle 0 al inicio). El nombre del sistema dice CAPS pero todas las fuentes y la caja indican tabletas. Una tienda escribe 60 mg de cafeína y otras 65 mg; se usó 65 mg. Las advertencias son generales del tipo de producto; no se vio el reverso.",
+    "notas_imagenes": "2 fotos de frente (tienda: La Gran Bodega y Farmacia Gloria): caja roja de 24 tabletas; las dos muestran diseño distinto de empaque.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,19 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "HEMOSIN K 25MG TABS HORMONA",
   "nombres_sistema_alternos": [],
-  "titulo": "Hemosin K 25 mg Tabletas",
-  "descripcion": "Descripción:\nHemosin K es un medicamento en tabletas de 25 mg de administración oral. El nombre del sistema de la farmacia lo clasifica dentro del grupo de las hormonas, pero no se pudo confirmar su principio activo ni su indicación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nTabletas de 25 mg. Consulte en el empaque el número de tabletas por caja.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Hemosin-K Oral Carbazocromo Menadiona 25/5 mg 32 Tabletas",
+  "descripcion": "Descripción:\nHemosin-K oral es un medicamento de Laboratorios Hormona en tabletas que combina carbazocromo (sulfonato sódico) 25 mg y bisulfito sódico de menadiona (vitamina K) 5 mg. Es un hemostático de administración oral; su indicación, dosis y duración las determina el médico.\n\nCaracterísticas:\n- Combina carbazocromo y vitamina K (menadiona) en una sola tableta.\n- Presentación de 32 tabletas para uso oral.\n\nComposición:\nCada tableta contiene sulfonato sódico de carbazocromo 25 mg, bisulfito sódico de menadiona (vitamina K) 5 mg y excipiente.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia indicadas por su médico y no exceda la cantidad recomendada.\n\nPresentación:\nCaja con 32 tabletas de 25 mg/5 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Su uso debe hacerse bajo supervisión médica. Conservar en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Hemosin K",
+    "marca": "Hemosin",
+    "fabricante": "Laboratorios Hormona",
+    "linea": "Hemosin-K",
+    "variante": "Oral 25 mg/5 mg",
     "presentacion": "Tabletas",
-    "concentracion": "25 mg",
-    "via_administracion": "Oral"
+    "contenido_neto": 32,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 32,
+    "principio_activo": "Carbazocromo y bisulfito sódico de menadiona (vitamina K)",
+    "concentracion": "25 mg/5 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -24,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385420238_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385420238.jpg",
+      "pagina": "https://www.fahorro.com/hemosin-k-25mg-oral-32-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1588,
+      "fecha": "2026-09-29",
+      "lado_util": 1471
+    },
+    {
+      "archivo": "7501385420238_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501385420238_1.jpg",
+      "pagina": "https://www.yza.mx/hemosin-k-25mg5mg-32-tabs/MXYZ_7501385420238.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 415
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/hemosin-k-25mg5mg-32-tabs/MXYZ_7501385420238.html",
+    "https://wecarepharma.mx/en/products/hemosin-k-oral-25mg-5mg-con-32-tabletas-carbazocromo-bisulfito-sodico-de-mediadiona",
+    "https://farmaciasdelnino.mx/esp/item/3612/hemosin-k-carbazocromo-bisulfito-sodico-de-menadiona-25mg5mg-32-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo ni el número de tabletas por caja (el nombre no lo trae). El sistema lo marca como HORMONA; si se confirma, cambiar a Hormonales Venta Libre (MLM457813) y ajustar la categoría con receta. Título, descripción y ficha son provisionales. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice HORMONA, que es el laboratorio (Hormona), no un grupo terapéutico. GTIN confirmado en varias fichas (32 tabletas, 25/5 mg). Receta: una farmacia indica venta sin receta y otra indica que requiere receta; queda por revisar.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Hemosin-K oral 25 mg/5 mg, caja con 32 tabletas.",
     "fecha": "2026-09-29"
   }
 }

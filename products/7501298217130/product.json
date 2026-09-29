@@ -5,7 +5,7 @@
   "nombre_sistema": "DABEX XR 1000MG C30",
   "nombres_sistema_alternos": [],
   "titulo": "Dabex XR Metformina 1000 mg 30 Tabletas",
-  "descripcion": "Descripción:\nDabex XR 1000 mg es un medicamento de liberación prolongada cuyo principio activo es el clorhidrato de metformina, un antidiabético oral que se usa en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio, bajo prescripción y supervisión médica. La presentación XR libera el medicamento de forma gradual, por lo que normalmente se toma una vez al día.\n\nComposición:\nCada tableta de liberación prolongada contiene metformina 1000 mg.\n\nModo de uso:\nVía oral. Trague la tableta entera con alimentos, sin partirla, masticarla ni triturarla, en la dosis que indique su médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada.\n\nAdvertencias:\n- No lo use si tiene enfermedad grave de los riñones o del hígado, ni en cetoacidosis diabética.\n- Suspenda su uso y consulte de inmediato a su médico si presenta vómito, dolor abdominal, respiración rápida o cansancio extremo.\n- Informe a su médico antes de estudios con medio de contraste o cirugías, y si consume alcohol con frecuencia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nDabex XR es un antidiabético oral de Merck cuyo principio activo es el clorhidrato de metformina en tabletas de liberación prolongada (XR), con 1000 mg por tableta. Está indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio, en especial en personas con sobrepeso en quienes estas medidas no bastan para controlar la glucosa. También se indica para prevenir la diabetes tipo 2 en pacientes con prediabetes y al menos un factor de riesgo adicional. Puede usarse solo o combinado con otros antidiabéticos orales o con insulina, siempre bajo supervisión médica.\n\nCaracterísticas:\n- Tabletas de liberación prolongada: la metformina se libera de forma gradual, por lo que en general se toma una vez al día según indique su médico.\n- Concentración de 1000 mg por tableta.\n- Presentación en blíster dentro de caja de cartón.\n\nComposición:\nCada tableta de liberación prolongada contiene clorhidrato de metformina 1000 mg. Excipiente c.b.p. 1 tableta.\n\nModo de uso:\nVía oral. Trague la tableta entera, con alimentos, sin partirla, masticarla ni triturarla. La dosis y la frecuencia las determina su médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 1000 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No la use si tiene enfermedad grave de los riñones o del hígado, ni en cetoacidosis diabética.\n- Suspenda su uso y consulte de inmediato a su médico si presenta vómito, dolor abdominal, respiración rápida o cansancio extremo.\n- Informe a su médico antes de estudios con medio de contraste o cirugías, y si consume alcohol con frecuencia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dabex",
     "fabricante": "Merck",
@@ -15,11 +15,11 @@
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "principio_activo": "Metformina",
+    "principio_activo": "Metformina (clorhidrato)",
     "concentracion": "1000 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos (mayores de 18 años)",
+    "otros": "Requiere receta médica; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298217130_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20241114_1026226.jpg",
+      "pagina": "https://www.benavides.com.mx/dabex-xr-1000-mg-metformina-30-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 860,
+      "fecha": "2026-09-29",
+      "lado_util": 797
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/dabex-xr-tabletas-de-liberacion-prolongada/115/101/7103/216",
+    "https://www.benavides.com.mx/dabex-xr-1000-mg-metformina-30-tabletas",
+    "https://curitek.com/producto/dabex-xr-1000-mg-metformina/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (DABEX XR 1000MG C30) y de conocimiento general de la marca (metformina de liberación prolongada; fabricante Merck no verificado). Verificar principio activo y contenido en el empaque o en una fuente. Categoría de venta libre más cercana para antidiabéticos: Digestivos Venta Libre (dominio digestivo y metabólico).",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en una farmacia; presentación de 1000 mg con 30 tabletas coincide. Indicaciones y composición tomadas de la información para prescribir en PLM. Las tiendas la marcan como medicamento con receta; la categoría de venta libre es por instrucción del dueño.",
+    "notas_imagenes": "1 foto de tienda (Farmacias Benavides), frente de la caja. Se descartó una segunda foto de otra tienda por traer marca de agua.",
     "fecha": "2026-09-29"
   }
 }

@@ -33,17 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165011601_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165011601_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165011601_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 589,
+      "fecha": "2026-09-29",
+      "lado_util": 543
+    },
+    {
+      "archivo": "7501165011601_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165011601_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165011601_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 598,
+      "fecha": "2026-09-29",
+      "lado_util": 554
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/antiacidos-y-malestar-estomacal-con-receta/82567-precio-buscapina-compositum-con-hioscina-10-mg-metamizol-sodico-250-mg-36-tabletas-7501165011601.html",
-    "https://farmaciasmedina.com/detalleProducto/Buscapina-Compositum-36-Tabletas-Caja/7501165011601"
+    "https://farmaciasmedina.com/detalleProducto/Buscapina-Compositum-36-Tabletas-Caja/7501165011601",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165011601_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 36 tabletas confirmados. La ficha de la farmacia indica dispensación con fórmula médica simple (fracción IV); se publica en venta libre por instrucción del dueño, pero conviene revisar el riesgo. El 128 del nombre del sistema es un código, no una cantidad.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501165011601_1.jpg, 7501165011601_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

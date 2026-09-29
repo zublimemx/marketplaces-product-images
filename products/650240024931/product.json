@@ -4,21 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "NIKZON C40 TABS MASTIC",
   "nombres_sistema_alternos": [],
-  "titulo": "Nikzon 40 Tabletas Masticables",
-  "descripcion": "Descripción:\nNikzon en presentación de 40 tabletas masticables, producto de la línea de farmacia. Esta ficha se elaboró a partir del nombre del producto; la composición, la dosis recomendada y las advertencias del fabricante deben consultarse en el empaque original.\n\nPresentación:\nEnvase con 40 tabletas masticables.\n\nAdvertencias:\nNo exceda la dosis recomendada. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o bajo tratamiento médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Nikzon Ruscus Aculeatus 40 Tabletas Masticables",
+  "descripcion": "Descripción:\nNikzon es un medicamento de Genomma Lab en tabletas masticables, indicado como auxiliar en el tratamiento de las hemorroides. Combina un extracto de origen natural de Ruscus aculeatus, Lactobacillus sporogenes y vitamina C. Esta presentación contiene 40 tabletas.\n\nBeneficios:\n- Auxiliar en el tratamiento de las hemorroides, con efecto antiinflamatorio venoso que alivia las várices hemorroidales.\n- Se indica también en el tratamiento de la insuficiencia venosa crónica.\n- Favorece el restablecimiento de la flora bacteriana normal.\n- Funciona como antiflatulento.\n- Práctico formato de tabletas masticables.\n\nComposición:\nCada tableta contiene extracto estandarizado de raíz de Ruscus aculeatus 20 mg, Lactobacillus sporogenes 8.3 mg (equivalente a 50 millones de UFC) y ácido ascórbico (vitamina C) 40 mg. Contiene azul No. 1.\n\nModo de uso:\nVía oral. Mastique 2 tabletas antes de cada alimento, acompañadas de abundante agua, sin exceder 6 tabletas al día.\n\nPresentación:\nCaja con 40 tabletas masticables.\n\nAdvertencias:\nNo se administre a menores de 18 años. Contiene azul No. 1, que puede producir reacciones de hipersensibilidad. En casos raros pueden presentarse molestias gástricas leves como diarrea, náusea o vómito. La vitamina C puede influir en la acción de algunos anticoagulantes y aumenta la absorción de hierro. Durante el embarazo y la lactancia úselo solo bajo vigilancia médica. Conservar a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Nikzon",
+    "fabricante": "Genomma Lab Internacional",
     "presentacion": "Tabletas masticables",
     "contenido_neto": 40,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 40,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Extracto de Ruscus aculeatus, Lactobacillus sporogenes y ácido ascórbico",
+    "concentracion": "Ruscus 20 mg; Lactobacillus 8.3 mg; Vitamina C 40 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "021P2003 SSA VI",
+    "otros": "Grupo terapéutico: Antiinflamatorio venoso; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240024931_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20250918_1020692.jpg",
+      "pagina": "https://www.benavides.com.mx/nikzon-40-tabletas-masticables",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 416
+    },
+    {
+      "archivo": "650240024931_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/8219-large_default/nikzon-con-40-tabletas-masticables.webp",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 522,
+      "fecha": "2026-09-29",
+      "lado_util": 483
+    },
+    {
+      "archivo": "650240024931_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/8220-large_default/nikzon-con-40-tabletas-masticables.webp",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 519,
+      "fecha": "2026-09-29",
+      "lado_util": 481
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
+    "https://www.benavides.com.mx/nikzon-40-tabletas-masticables",
+    "https://farmaciasfleming.mx/producto/nikzon-c-40-tab-mast/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se sabe qué contiene Nikzon ni si es suplemento o medicamento; la categoría Suplementos Alimenticios es una suposición. Se interpretó MASTIC como masticables. GTIN de 12 dígitos (prefijo 650240, igual que Bio Electro del mismo lote). Investigar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (ponerle 0 al inicio); coincide con la imagen de una farmacia. Una tienda anuncia Ruscus 2 mg y otra 20 mg; se usó 20 mg (dos fichas). Fórmula de ficha de farmacia; reverso lateral de la caja leído para advertencias.",
+    "notas_imagenes": "3 fotos (tienda: Farmacia Gloria y Benavides): frente, ángulo y costado con advertencias. Se descartó una foto pequeña en fondo blanco.",
     "fecha": "2026-09-29"
   }
 }

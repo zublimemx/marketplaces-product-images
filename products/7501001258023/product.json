@@ -4,18 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL C 100 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Pepto-Bismol Subsalicilato de Bismuto 100 Tabletas",
-  "descripcion": "Descripción:\nPepto-Bismol es un medicamento de Procter & Gamble cuyo principio activo es el subsalicilato de bismuto. Se usa para el alivio sintomático de malestares digestivos ocasionales como indigestión, agruras, náuseas, sensación de pesadez estomacal y diarrea ocasional. Esta presentación es en tabletas masticables, prácticas para llevar consigo.\n\nComposición:\nEl principio activo es el subsalicilato de bismuto; consulte la concentración por tableta en el empaque.\n\nModo de uso:\nVía oral. Mastique o deje disolver la tableta en la boca, en la dosis y con la frecuencia que indique el empaque. No exceda la dosis máxima diaria.\n\nPresentación:\nEnvase con 100 tabletas.\n\nAdvertencias:\n- Contiene un derivado del ácido salicílico: no lo use si es alérgico a la aspirina u otros salicilatos, ni en niños y adolescentes con infecciones virales.\n- Puede oscurecer temporalmente la lengua y las heces; esto es normal y pasajero.\n- Consulte a su médico si tiene úlcera, sangrado gastrointestinal o toma anticoagulantes, o si la diarrea dura más de dos días.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Pepto Bismol Subsalicilato de Bismuto 262 mg 100 Tabletas",
+  "descripcion": "Descripción:\nPepto-Bismol en tabletas masticables es un producto con subsalicilato de bismuto (262 mg por tableta) para aliviar las molestias del estómago. Según la información de la marca, alivia la acidez, la indigestión, la diarrea sin causar estreñimiento, el malestar estomacal y la náusea, y cubre la capa mucosa del estómago.\n\nBeneficios:\n- Alivia la acidez y la indigestión.\n- Alivia la diarrea sin causar estreñimiento.\n- Alivia el malestar estomacal y la náusea.\n- Cubre la capa mucosa del estómago.\n- Tabletas masticables, prácticas para llevar en sobres.\n\nComposición:\nCada tableta masticable contiene subsalicilato de bismuto 262 mg.\n\nModo de uso:\nVía oral. Mastique las tabletas y siga la dosis indicada en el empaque o por su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 100 tabletas masticables (presentación en sobres).\n\nAdvertencias:\n- Contiene subsalicilato de bismuto, derivado del ácido salicílico: no lo use si es alérgico a la aspirina u otros salicilatos.\n- Puede oscurecer temporalmente la lengua y las heces; es un efecto pasajero.\n- Si los síntomas persisten por más de dos días o presenta fiebre, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Pepto-Bismol",
-    "fabricante": "Procter & Gamble",
+    "variante": "Original",
     "presentacion": "Tabletas masticables",
     "contenido_neto": 100,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "tabletas masticables",
     "unidades_por_envase": 100,
     "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "262 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Presentación en sobres dentro de caja; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001258023_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.zedelvallarta.com.mx/wp-content/uploads/2020/07/med-ulc-y-antiaci-pepto-tabletas-100.jpg",
+      "pagina": "https://www.zedelvallarta.com.mx/catalogo/pepto-bismol-tabletas-masticables-100-tabletas/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 519,
+      "fecha": "2026-09-29",
+      "lado_util": 480
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.zedelvallarta.com.mx/catalogo/pepto-bismol-tabletas-masticables-100-tabletas/",
+    "https://world.openfoodfacts.org/product/7501001258023/pepto-bismol",
+    "https://www.amazon.com.mx/Pepto-Bismol-7501001258023-Pepto-Bismol-Tabletas/dp/B074KFNHYQ"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (PEPTO BISMOL C 100 TABS) y conocimiento general de la marca. No se declaró concentración por tableta; confirmar que exista la presentación de 100 tabletas (es poco común) y que sean masticables.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (100 tabletas masticables). No se pudo abrir la página oficial ni ninguna ficha con dosis; las advertencias de salicilato y lengua oscura son las generales del producto y conviene validarlas contra el empaque. El fabricante no se pudo confirmar en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (Distribuidora Zedel): caja exhibidor con sobres, se lee 'subsalicilato de bismuto 262 mg'. Se descartó una foto de Open Food Facts tomada con la mano.",
     "fecha": "2026-09-29"
   }
 }

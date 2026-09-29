@@ -5,9 +5,10 @@
   "nombre_sistema": "HIDRASEC 100MG CAPS9",
   "nombres_sistema_alternos": [],
   "titulo": "Hidrasec Racecadotrilo 100 mg 9 Cápsulas",
-  "descripcion": "Descripción:\nHidrasec es un medicamento cuyo principio activo es el racecadotrilo, en presentación de cápsulas de 100 mg.\n\nComposición:\nRacecadotrilo 100 mg por cápsula. Consulte en el empaque los demás componentes.\n\nPresentación:\nCaja con 9 cápsulas de 100 mg.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece alguna enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nHidrasec es un medicamento antidiarreico de Ferrer con racecadotrilo como principio activo. Cada cápsula contiene 100 mg de racecadotrilo y se presenta en caja con 9 cápsulas. Actúa sobre el intestino reduciendo la secreción excesiva de agua y electrolitos que causa la diarrea, sin frenar el movimiento intestinal.\n\nBeneficios:\n- Antidiarreico de acción intestinal para el tratamiento sintomático de la diarrea aguda.\n- Reduce la pérdida de agua y electrolitos por las evacuaciones.\n- Presentación de 9 cápsulas para un tratamiento corto.\n\nComposición:\n- Racecadotrilo 100 mg por cápsula\n- Excipiente cbp 1 cápsula\n\nModo de uso:\nVía oral. Dosis: la que el médico señale. Mantenga una hidratación adecuada durante la diarrea.\n\nPresentación:\nCaja con 9 cápsulas de 100 mg.\n\nAdvertencias:\nSu venta requiere receta médica según la caja. No se use durante el embarazo o la lactancia. Conservar a no más de 30 °C y la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Hidrasec",
+    "fabricante": "Ferrer",
     "presentacion": "Cápsulas",
     "contenido_neto": 9,
     "unidad_contenido": "cápsulas",
@@ -15,28 +16,58 @@
     "principio_activo": "Racecadotrilo",
     "concentracion": "100 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "594M98 SSA IV",
+    "otros": "Formato de venta: caja con 9 cápsulas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503007704597_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw2fa82080/images/large/7503007704597_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/hidrasec-100mg-9-caps/MXYZ_7503007704597.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 824,
+      "fecha": "2026-09-29",
+      "lado_util": 760
+    },
+    {
+      "archivo": "7503007704597_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704597.jpg",
+      "pagina": "https://www.fahorro.com/hidrasec-100-mg-9-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1318,
+      "fecha": "2026-09-29",
+      "lado_util": 1221
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/hidrasec-100mg-9-caps/MXYZ_7503007704597.html",
+    "https://www.farmaciasespecializadas.com/hidrasec-100-mg-cap-caj-c-9.html",
+    "https://www.farmaciasguadalajara.com/medicina/antidiarreicos/hidrasec-100-mg--9-capsulas.-948969.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Hidrasec = racecadotrilo; 100 mg es presentación para adultos). No se confirmó fabricante ni si en México requiere receta; revisar en PLM. Si requiere receta, la categoría Rx equivalente sería MLM457828.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Una farmacia lo marca 'sin receta' pero la caja fotografiada dice 'Su venta requiere receta médica' (registro 594M98 SSA IV); se dejó 'Sí'.",
+    "notas_imagenes": "2 fotos de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

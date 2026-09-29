@@ -4,22 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "SENOSIAIN AD C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "Senosiain AD 10 Piezas",
-  "descripcion": "Descripción:\nSenosiain AD es un producto de la línea de farmacia de Laboratorios Senosiain, en presentación de 10 piezas. Esta ficha se elaboró únicamente con los datos del nombre del producto; la composición, las indicaciones y la dosis recomendada deben consultarse en el empaque original y en el instructivo que lo acompaña.\n\nPresentación:\nEnvase con 10 piezas.\n\nAdvertencias:\nNo use este producto sin conocer su composición y sus indicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Supositorios Senosiain Adulto Glicerina 2632 mg 10 Piezas",
+  "descripcion": "Descripción:\nLos Supositorios Senosiain Adulto son un evacuante intestinal de acción local a base de glicerol, de uso rectal, que ayuda a aliviar el estreñimiento ocasional. Son elaborados por Laboratorios Senosiain y se presentan en caja con 10 supositorios.\n\nBeneficios:\n- Evacuante intestinal para el alivio del estreñimiento.\n- Acción local por vía rectal.\n- Presentación individual, práctica y fácil de aplicar.\n\nComposición:\nCada supositorio contiene glicerol 2632 mg.\n\nModo de uso:\nVía rectal. Aplique 1 o 2 supositorios al día. Si las molestias persisten, consulte a su médico.\n\nPresentación:\nCaja con 10 supositorios para adulto.\n\nAdvertencias:\nNo lo use en caso de oclusión intestinal, apendicitis aguda ni si es alérgico a algún componente de la fórmula. No se emplee en padecimientos ano-rectales. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Senosiain",
     "fabricante": "Laboratorios Senosiain",
-    "variante": "AD",
+    "linea": "Supositorios",
+    "variante": "Adulto",
+    "presentacion": "Supositorios",
     "contenido_neto": 10,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "supositorios",
     "unidades_por_envase": 10,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Glicerol",
+    "concentracion": "2632 mg",
+    "via_administracion": "Rectal",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "68960 SSA VI",
+    "otros": "Grupo terapéutico: Evacuante intestinal; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704156_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704156_3.jpg",
+      "pagina": "https://www.fahorro.com/senosiain-supositorios-adulto-10-supositorios.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1365,
+      "fecha": "2026-09-29",
+      "lado_util": 1264
+    },
+    {
+      "archivo": "7501314704156_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704156_2.jpg",
+      "pagina": "https://www.fahorro.com/senosiain-supositorios-adulto-10-supositorios.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1119,
+      "fecha": "2026-09-29",
+      "lado_util": 1037
+    },
+    {
+      "archivo": "7501314704156_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704156_1.jpg",
+      "pagina": "https://www.fahorro.com/senosiain-supositorios-adulto-10-supositorios.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1372,
+      "fecha": "2026-09-29",
+      "lado_util": 1271
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/senosiain-supositorios-adulto-10-supositorios.html",
+    "https://farmaciagloria.mx/Trastornos_digestivos/3329-senosiain-adulto-con-10-supositorios.html",
+    "https://curitek.com/producto/senosiain-adulto-10-supositorios/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se identificó qué es Senosiain AD (principio activo, forma farmacéutica ni concentración); por eso va en Otros Medicamentos y con receta por revisar. El fabricante se dedujo del nombre y del prefijo GTIN 7501314. Investigar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice SENOSIAIN AD C 10: corresponde a los supositorios de glicerol para adulto (el borrador no indicaba el producto). Datos del reverso de la caja (registro SSA VI).",
+    "notas_imagenes": "3 fotos (tienda: Farmacias del Ahorro): frente, ángulo y reverso con fórmula y dosis.",
     "fecha": "2026-09-29"
   }
 }

@@ -34,7 +34,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058623195_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623195_a1n1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1920,
+      "fecha": "2026-09-29",
+      "lado_util": 1765
+    },
+    {
+      "archivo": "7501058623195_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623195_a7c1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1857,
+      "fecha": "2026-09-29",
+      "lado_util": 1715
+    },
+    {
+      "archivo": "7501058623195_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623195_a2n1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1885,
+      "fecha": "2026-09-29",
+      "lado_util": 1746
+    }
+  ],
   "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
   "fuentes": [
     "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",

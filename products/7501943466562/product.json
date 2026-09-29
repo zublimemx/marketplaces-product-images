@@ -5,10 +5,11 @@
   "nombre_sistema": "DIAPRO PANTS GDE C/10",
   "nombres_sistema_alternos": [],
   "titulo": "Pañales para Adulto Diapro Pants Grande 10 Piezas",
-  "descripcion": "Descripción:\nPañales tipo pantaloncillo (ropa interior desechable) para adulto de la marca Diapro, talla grande, en presentación de 10 piezas. Están pensados para personas con incontinencia; antes de comprar revise la talla adecuada y consulte en el empaque la tabla de tallas, el contenido y las instrucciones de uso del fabricante.\n\nCaracterísticas:\n- Formato tipo pants, se colocan como ropa interior.\n- Talla grande.\n- Paquete con 10 piezas.\n- Se presenta como producto de uso personal y de un solo uso.\n\nPresentación:\nPaquete con 10 piezas.",
+  "descripcion": "Descripción:\nDiapro Pants son calzones desechables para adulto que se colocan como ropa interior, pensados para dar protección confiable a personas con incontinencia urinaria y mayor libertad de movimiento. Esta presentación es talla Grande y contiene 10 piezas.\n\nCaracterísticas:\n- Gel que gelatiniza los líquidos y ayuda a controlar los malos olores.\n- Textura ultra suave para mayor comodidad sobre la piel.\n- Con aroma a manzanilla.\n- Diseño delgado para mayor discreción bajo la ropa.\n- Doble barrera antiescurrimiento.\n- Talla Grande (38 a 50), para cintura de 97 a 127 cm.\n- Formato pants: se ponen y se quitan como un calzón, sin necesidad de cintas.\n\nModo de uso:\nDesdoble el calzón, colóquelo subiéndolo como ropa interior hasta ajustarlo a la cintura y la cadera. Cámbielo cuando esté saturado o cada vez que sea necesario para mantener la piel limpia y seca.\n\nPresentación:\nPaquete con 10 pants (calzones desechables), talla Grande.\n\nAdvertencias:\nProducto de un solo uso. Después de usarlo, envuélvalo y deséchelo en la basura; no lo tire al inodoro. Cambie con frecuencia para el cuidado de la piel y consulte a su médico si aparece irritación. Manténgalo fuera del alcance de los niños.",
   "ficha": {
     "marca": "Diapro",
     "fabricante": "Kimberly-Clark de México",
+    "linea": "Pants",
     "variante": "Pants",
     "presentacion": "Paquete",
     "contenido_neto": 10,
@@ -17,7 +18,8 @@
     "talla": "Grande",
     "genero": "Unisex",
     "edad_etapa": "Adultos",
-    "otros": "Formato: Pants (ropa interior desechable); Formato de venta: Unidad"
+    "sabor_aroma": "Manzanilla",
+    "otros": "Formato: Pants (ropa interior desechable); Talla 38 a 50; Cintura: 97 a 127 cm; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943466562_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501943466562-162213.png",
+      "pagina": "https://farmaciasfleming.mx/producto/panal-diapro-pants-ad-gde-c-10-pz/",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1027,
+      "fecha": "2026-09-29",
+      "lado_util": 951
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501943466562-diapro-pants-grande-unisex-10-pzas-68956",
+    "https://farmaciasfleming.mx/producto/panal-diapro-pants-ad-gde-c-10-pz/",
+    "https://laboratoriosdemexico.com.mx/panales/1065-panal-pants-diapro-para-adulto-grande.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El fabricante se dedujo por el prefijo GTIN 7501943 (mismo de Huggies y KleenBebé del catálogo) y no está confirmado. No se verificó el rango de cintura de la talla Grande ni si es unisex. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Rasgos del empaque leídos de la foto de frente (10 pants, talla Grande, cintura 97 a 127 cm). Las fotos de otra tienda mostraban un paquete de 12 piezas y se descartaron.",
+    "notas_imagenes": "1 foto de frente (tienda: Farmacias Fleming), paquete de 10 pants Grande. Se descartaron fotos de paquete de 12 piezas, empaque antiguo y otra línea.",
     "fecha": "2026-09-29"
   }
 }

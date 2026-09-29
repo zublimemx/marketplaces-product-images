@@ -4,17 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "ESPAVEN ENZI C 50 GRAG 156",
   "nombres_sistema_alternos": [],
-  "titulo": "Espaven Enzimático 50 Grageas",
-  "descripcion": "Descripción:\nEspaven Enzimático en grageas, presentación de 50 grageas. Es un producto de uso digestivo de la marca Espaven; consulte la fórmula completa, las indicaciones y la dosis en el empaque.\n\nPresentación:\nCaja con 50 grageas.\n\nModo de uso:\nVía oral. Tome las grageas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico. No exceda la dosis recomendada.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Espavén Enzimático Pancreatina Simeticona 50 Tabletas",
+  "descripcion": "Descripción:\nEspavén Enzimático es un medicamento digestivo en tabletas que combina enzimas digestivas (pancreatina y celulasa), bilis de buey y simeticona (dimeticona), con sabor a menta. Se utiliza en la prevención de las agudizaciones del síndrome de colon irritable, en el meteorismo y la flatulencia posteriores a los alimentos, en la insuficiencia pancreática y en la digestión deficiente de grasas.\n\nComposición:\nCada tableta contiene extracto seco de bilis de buey, pancreatina, simeticona (dimeticona) y celulasa (concentración 40/130/25/5 mg según las fuentes consultadas). Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos: 1 a 2 tabletas después de cada alimento, o según lo indique su médico.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula o a las proteínas de origen porcino o bovino. Consulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si sus molestias digestivas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Espaven",
+    "marca": "Espavén",
+    "fabricante": "Valeant (Bausch & Lomb México, S.A. de C.V.)",
     "variante": "Enzimático",
-    "presentacion": "Grageas",
+    "presentacion": "Tabletas",
     "contenido_neto": 50,
-    "unidad_contenido": "grageas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 50,
+    "principio_activo": "Pancreatina, simeticona (dimeticona), extracto seco de bilis de buey, celulasa",
+    "concentracion": "40/130/25/5 mg por tableta (según ficha de farmacia)",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "sabor_aroma": "Menta",
+    "otros": "Formato de venta: Caja con 50 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501122963028_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw053b103f/images/large/7501122963028_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/espaven-enzimatico-50-tabs/MXYZ_7501122963028.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 794,
+      "fecha": "2026-09-29",
+      "lado_util": 736
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/espaven-enzimatico-50-tabs/MXYZ_7501122963028.html",
+    "https://farmasmart.com/espaven-enzim-gra-c50"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, la variante y las 50 grageas (el 156 final se ignoró). Se desconocen fabricante y composición; receta_mx es una suposición. Descripción deliberadamente neutral. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema dice grageas; la caja indica tabletas (una ficha las llama grageas). El orden de las cantidades 40/130/25/5 mg no se pudo asignar con certeza a cada componente, por eso se dejó como concentración conjunta; verificar en el empaque. Advertencias redactadas de forma general.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja con 50 tabletas).",
     "fecha": "2026-09-29"
   }
 }

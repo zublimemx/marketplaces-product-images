@@ -4,16 +4,18 @@
   "linea": "Farma",
   "nombre_sistema": "B-PRACET-KP C30 PREGABALINA KETOPROFENO VIT B1 VIT B12MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "B-Pracet-KP Pregabalina Ketoprofeno Vitaminas B1 B12 30 Pzas",
-  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento que, según el nombre registrado en el sistema, combina pregabalina, ketoprofeno y vitaminas B1 y B12, en presentación de 30 piezas. Consulte en el empaque la composición y concentración exactas, las indicaciones y la dosis.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "B-Pracet-KP Pregabalina Ketoprofeno Vitaminas B1 B12 30 Pzs",
+  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento de la marca Medicam que, según el nombre registrado en el sistema, combina pregabalina, ketoprofeno y las vitaminas B1 (tiamina) y B12 (cianocobalamina), en presentación de 30 piezas. Por sus componentes pertenece a los medicamentos de uso neurológico y analgésico-antiinflamatorio, y su uso debe ser indicado por un médico. Consulte en el empaque la composición y la concentración exactas de cada componente, la forma farmacéutica (tabletas o cápsulas), las indicaciones y la dosis.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\n- La pregabalina normalmente requiere receta médica; verifique la condición de venta en el empaque.\n- No lo use si es alérgico a alguno de sus componentes, a la aspirina o a otros antiinflamatorios.\n- Puede producir somnolencia o mareo: tenga precaución al conducir o manejar maquinaria.\n- No suspenda el tratamiento de forma repentina ni exceda la dosis indicada por su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "B-Pracet-KP",
+    "fabricante": "Medicam",
     "presentacion": "Envase con piezas",
     "contenido_neto": 30,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 30,
     "principio_activo": "Pregabalina, ketoprofeno, vitamina B1 y vitamina B12",
-    "otros": "Formato de venta: Unidad"
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica y concentraciones por confirmar en el empaque; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -34,7 +36,8 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. El GTIN 1306881057065 no parece un código de barras comercial real (probablemente código interno). No se sabe si son tabletas o cápsulas ni las concentraciones. La pregabalina normalmente requiere receta; se publica en venta libre por instrucción del dueño. Requiere reinvestigar.",
+    "notas": "No se encontró ninguna página del producto: la búsqueda solo devolvió patentes y otros productos, y las búsquedas internas en varias farmacias no lo listan. El GTIN 1306881057065 es un código interno (no comercial). Título y ficha salen del nombre del sistema; no se sabe si son tabletas o cápsulas ni las concentraciones. Verificar contra el empaque antes de publicar. Contiene pregabalina (normalmente con receta); va en venta libre por instrucción del dueño.",
+    "notas_imagenes": "Sin fotos: no se encontró ninguna ficha ni imagen de este producto en internet.",
     "fecha": "2026-09-29"
   }
 }

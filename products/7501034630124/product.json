@@ -33,16 +33,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501034630124_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Jardianz-Duo-12.5-Mg850-Mg-60-Tabletas-7501034630124-638866460764522978-1.jpg",
+      "pagina": "https://storeboehringer.com/jardianz",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 600
+    },
+    {
+      "archivo": "7501034630124_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501034630124.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1544,
+      "fecha": "2026-09-29",
+      "lado_util": 1429
+    }
+  ],
   "url_oficial": "https://storeboehringer.com/jardianz",
   "fuentes": [
-    "https://storeboehringer.com/jardianz"
+    "https://storeboehringer.com/jardianz",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501034630124.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). La tienda de Boehringer confirma Jardianz Duo 12.5 mg/850 mg en presentaciones de 30 y 60 tabletas y que exige receta válida, pero no muestra composición ni advertencias: la composición (empagliflozina y metformina) y las advertencias son las de la combinación empagliflozina/metformina, confirmar con el instructivo. Registro sanitario pendiente. Categoría de venta libre por instrucción del dueño; se eligió Digestivos y Metabólicos igual que otros Jardianz del lote 1.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos: caja Jardianz Duo 12.5/850 mg 60 tabletas de la tienda oficial de Boehringer (storeboehringer.com, 1000 px, vista 3/4) y de frente de Farmacias del Ahorro (1600 px)."
   }
 }

@@ -4,17 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "REGENESIS MAX C 30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Regenesis Max 30 Tabletas",
-  "descripcion": "Descripción:\nRegenesis Max en tabletas, presentación con 30 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos o suplementos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Regenesis Max Omega 3 Ácido Fólico 30 Cápsulas",
+  "descripcion": "Descripción:\nRegenesis Max es un suplemento alimenticio a base de omega 3 (DHA y EPA), ácido fólico, vitaminas y minerales, en presentación de 30 cápsulas para tomar una al día. Se recomienda a partir de los 12 años. Es un producto fabricado en España, importado y distribuido en México por Exeltis Pharma México.\n\nComposición:\nAporte por cápsula (porción de 0.867 g) según la etiqueta.\n- Omega 3: DHA 300 mg y EPA 42.85 mg\n- Vitaminas: B1 1.1 mg, B2 1.4 mg, B3 16 mg, B5 6 mg, B6 1.4 mg, B8 0.05 mg, ácido fólico 0.4 mg, B12 0.0025 mg, C 40 mg, D3 0.01 mg y E 12 mg\n- Minerales: manganeso 1 mg, cobre 1 mg, yodo 0.15 mg, selenio 0.055 mg, hierro 14 mg y zinc 10 mg\n\nModo de uso:\nVía oral. Tomar una cápsula al día.\n\nPresentación:\nCaja con 30 cápsulas. Contenido neto de la caja: 26.01 g.\n\nAdvertencias:\nEste producto no es un medicamento. El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa. Contiene derivados de pescado que pueden ocasionar reacciones alérgicas. Contiene lecitina de soya. No exceda la porción diaria recomendada. Los suplementos alimenticios no están pensados como sustituto de una dieta variada, equilibrada y saludable. Consérvese a no más de 25 °C y alejado de la luz. Mantener fuera del alcance de los niños.",
   "ficha": {
     "marca": "Regenesis",
-    "variante": "Max",
-    "presentacion": "Tabletas",
+    "fabricante": "Exeltis Pharma México, S.A. de C.V.",
+    "linea": "Max",
+    "presentacion": "Cápsulas",
     "contenido_neto": 30,
-    "unidad_contenido": "tabletas",
-    "unidades_por_envase": 30
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Omega 3 (DHA y EPA), ácido fólico, vitaminas y minerales",
+    "via_administracion": "Oral",
+    "edad_etapa": "A partir de 12 años",
+    "otros": "Suplemento alimenticio; Porción: 1 cápsula (0.867 g); Contenido neto: 26.01 g; Fabricado en España; Contiene derivados de pescado y lecitina de soya"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM438195",
@@ -26,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7502235760139_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Regenesis-Max-28.164-G-30-Cápsulas-7502235760139-639250757606026468-1.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 805,
+      "fecha": "2026-09-29",
+      "lado_util": 746
+    },
+    {
+      "archivo": "7502235760139_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Regenesis-Max-28.164-G-30-Cápsulas-7502235760139-639250757606651454-2.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 870,
+      "fecha": "2026-09-29",
+      "lado_util": 806
+    },
+    {
+      "archivo": "7502235760139_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Regenesis-Max-28.164-G-30-Cápsulas-7502235760139-639250757607276494-3.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 872,
+      "fecha": "2026-09-29",
+      "lado_util": 808
+    }
+  ],
+  "url_oficial": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",
+  "fuentes": [
+    "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",
+    "https://farmaciagloria.mx/Multivitaminicos/3200-regenesis-max-con-30-capsulas.html",
+    "https://www.yza.mx/regenesis-max-30-caps/MXYZ_7502235760139.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Producto no identificado: se desconoce si es suplemento o medicamento, su composición y su fabricante. La categoría de suplementos es provisional; requiere búsqueda por GTIN antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice TABS pero el producto es en cápsulas (30 cápsulas según fabricante y etiqueta); se publicó como cápsulas. Composición leída de la foto del reverso de la caja (foto del fabricante).",
+    "notas_imagenes": "3 fotos del sitio del fabricante: frente en ángulo, frente plano y reverso con la tabla de composición.",
     "fecha": "2026-09-29"
   }
 }

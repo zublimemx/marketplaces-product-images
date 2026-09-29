@@ -34,18 +34,44 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298217659_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217659_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    },
+    {
+      "archivo": "7501298217659_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217659_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1567,
+      "fecha": "2026-09-29",
+      "lado_util": 1450
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Doble-Camara-Inyeccion-3-Solucion-Jeringa-Prellenada/7501298217659",
     "https://www.vademecum.es/mexico/medicamento/1387779/dolo-neurobion-dc-solucion-inyectable",
-    "https://farmalisto.com.mx/analgesicos/5642-dolo-neurobion-dc-caja-con-3-jeringas-prellenadas-doble-camara-con-3-ml-7501298217659.html"
+    "https://farmalisto.com.mx/analgesicos/5642-dolo-neurobion-dc-caja-con-3-jeringas-prellenadas-doble-camara-con-3-ml-7501298217659.html",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217659_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217659_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Medicamento con receta. En ML hay varios catálogos equivalentes (MLM47560729, MLM40172155, MLM52121009) y no se pudo saber cuál es el principal, por eso catalogo_ml queda vacío. El registro 79717 SSA sale de la ficha de Vademecum para la solución inyectable; confirmar en el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de fahorro.com (tienda). Se descartaron dos fotos con insignia \"3 JERINGAS\"."
   }
 }

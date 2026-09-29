@@ -4,34 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "SPLASH TEARS SOL OFTALMICA",
   "nombres_sistema_alternos": [],
-  "titulo": "Splash Tears Solución Oftálmica",
-  "descripcion": "Descripción:\nSplash Tears es una solución oftálmica (gotas para los ojos). Consulte en el empaque la composición, las indicaciones, el contenido y el modo de aplicación.\n\nPresentación:\nSolución oftálmica en frasco gotero.\n\nAdvertencias:\n- Para uso oftálmico. No toque la punta del gotero con los ojos ni con otras superficies.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Splash Tears Solución Oftálmica Lubricante 15 ml",
+  "descripcion": "Descripción:\nSplash Tears es una lágrima artificial en solución oftálmica de Sophia, con electrolitos, para la sequedad y la comezón en el ojo. Lubrica y protege la superficie del ojo, y se emplea en el tratamiento sintomático de la irritación y la sequedad ocular causadas por una deficiencia en la secreción de lágrimas o por una evaporación excesiva de ellas. También se puede usar como protector frente a una irritación posterior.\n\nBeneficios:\n- Hidrata y lubrica el ojo.\n- Alivia la irritación y la sequedad ocular.\n- Contiene electrolitos, según el empaque.\n- Frasco gotero de 15 ml.\n\nComposición:\nCada ml contiene hipromelosa 2 mg y condroitín sulfato de sodio 1 mg.\n\nModo de uso:\nVía oftálmica. Aplique 1 o 2 gotas en cada ojo, tantas veces como sea necesario.\n\nPresentación:\nCaja con un frasco gotero de 15 ml.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Evite tocar la punta del gotero con el ojo, los dedos o cualquier superficie para no contaminar la solución.\n- Suspenda su uso y consulte a su médico si presenta dolor, cambios en la visión o si la irritación persiste.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Splash Tears",
-    "presentacion": "Solución oftálmica",
+    "fabricante": "Sophia",
+    "presentacion": "Solución oftálmica en frasco gotero",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hipromelosa, condroitín sulfato de sodio",
+    "concentracion": "Hipromelosa 2 mg/ml y condroitín sulfato de sodio 1 mg/ml",
     "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "084M2007 SSA",
+    "otros": "Lágrima artificial con electrolitos; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455403"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085405422_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6e542e49/images/large/736085405422_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/splash-tears-solucion-gotas-15ml/MXYZ_736085405422.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 986,
+      "fecha": "2026-09-29",
+      "lado_util": 910
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1279230/splash-tears-solucion-oftalmica",
+    "https://www.yza.mx/splash-tears-solucion-gotas-15ml/MXYZ_736085405422.html",
+    "https://www.mercadolibre.com.mx/splash-tears-solucion-oftalmica-1-frasco-gotero-15-ml/p/MLM39455403"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Solo se deduce del nombre que es una solución oftálmica. Se desconocen el contenido en ml, el principio activo y el fabricante. El GTIN de 12 dígitos no se probó con un 0 al inicio. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (frasco de 15 ml). El catálogo MLM39455403 salió de la búsqueda y coincide en nombre y contenido; no se pudo abrir la página de Mercado Libre para confirmarlo. Registro sanitario de Vademecum. Se trata de un producto de venta libre.",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA), caja con el frasco al frente. Se descartó una segunda de otra farmacia por tener marca de agua.",
     "fecha": "2026-09-29"
   }
 }

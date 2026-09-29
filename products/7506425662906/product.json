@@ -4,20 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "HUGG ULT CON ET 7 NIÑA C40 5",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Huggies Ultra Confort Niña Etapa 7 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Huggies de la línea Ultra Confort, diseñados para niñas, en Etapa 7 y presentación de 40 piezas. Son pañales para bebé con núcleo absorbente, cintas ajustables y elásticos en la cintura y las piernas que ayudan a mantener el pañal en su lugar.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\nSeleccione la etapa según el peso y la talla de su bebé, que se indican en el empaque. Cambie el pañal con frecuencia para mantener la piel limpia y seca. Mantenga las bolsas de plástico lejos del alcance de los niños.",
+  "titulo": "Pañales Huggies UltraConfort Niña Etapa 7 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies UltraConfort Etapa 7 para niñas están pensados para bebés que ya se mueven mucho y necesitan comodidad para gatear, caminar y explorar. Son ultradelgados y ultraflexibles, con cintas estirables que se ajustan a cada movimiento y absorbencia focalizada al centro. Se venden en paquete con 40 piezas.\n\nCaracterísticas:\n- Etapa 7, ideal para bebés de 16 kg.\n- Ultradelgados y ultraflexibles para dar mayor libertad de movimiento.\n- Cintas estirables que dan un mejor ajuste en cada movimiento.\n- Absorbencia focalizada al centro.\n- Centro texturizado que ayuda a distribuir los líquidos.\n- Cintura elástica y ajuste anatómico.\n- Sistema de absorción que ofrece hasta 12 horas de protección contra derrames y ayuda a mantener la piel seca.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé con las cintas hacia atrás. Lleve la parte delantera entre las piernas, sujete las cintas a los lados y ajuste sin apretar. Cámbielo cuando esté húmedo o sucio, y limpie la piel del bebé en cada cambio.\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 7, para niñas.\n\nAdvertencias:\nProducto de un solo uso. Deséchelo en la basura, no en el inodoro. Mantenga las bolsas de plástico fuera del alcance de los niños para evitar riesgo de asfixia. Si aparece irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
-    "linea": "Ultra Confort",
+    "linea": "UltraConfort",
     "variante": "Niña",
-    "presentacion": "Paquete de pañales desechables",
+    "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 7",
-    "genero": "Niñas",
-    "otros": "Formato de venta: Paquete"
+    "talla": "Etapa 7",
+    "genero": "Niña",
+    "otros": "Peso ideal: 16 kg; Cintas estirables; Absorbencia focalizada al centro; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425662906_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/304230-1000-1000/7506425662906.jpg?v=638882071154830000",
+      "pagina": "https://www.lagranbodega.com.mx/panal-huggies-etapa-7-ultra-confort-nina-40-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/panal-huggies-etapa-7-ultra-confort-nina-40-piezas/p",
+    "https://www.chedraui.com.mx/panal-huggies-ultraconfort-nino-e7-40-piezas-3866435/p",
+    "https://www.amazon.com.mx/Huggies-UltraConfort-Pa%C3%B1al-Desechable-Piezas/dp/B0FC261WKP"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda por GTIN devolvió resultados no relacionados y no se pudo hacer búsqueda por nombre (presupuesto de WebSearch de la sesión agotado). Datos deducidos del nombre del sistema (HUGG ULT CON ET 7 NIÑA C40; el 5 final se tomó como código interno). Verificar que exista Etapa 7 en Ultra Confort Niña de 40 piezas, y el rango de peso.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por la foto de tienda con ese GTIN. El nombre del sistema termina en 'C40 5': se tomó como paquete de 40 piezas (la caja de 5 paquetes, 200 piezas, es otro artículo). Descripción basada en fichas de tienda; la página de la marca no abrió.",
+    "notas_imagenes": "1 foto de tienda: frente del paquete Huggies UltraConfort Etapa 7 Niña, 40 piezas.",
     "fecha": "2026-09-29"
   }
 }

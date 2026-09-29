@@ -4,22 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "CANESTEN V CRA 20 GR 40 AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Canesten V Crema Vaginal Clotrimazol 20 g",
-  "descripcion": "Descripción:\nCanesten V en presentación de crema vaginal, tubo de 20 g. Su principio activo es el clotrimazol, un antimicótico. Consulte en el empaque la concentración, las indicaciones, la dosis y el modo de aplicación.\n\nPresentación:\nCrema vaginal, tubo de 20 g.\n\nAdvertencias:\n- Producto de uso vaginal.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Canesten V Clotrimazol 2% Crema Vaginal 20 g",
+  "descripcion": "Descripción:\nCanesten V crema es un antimicótico de amplio espectro de Bayer, con clotrimazol al 2%, para el tratamiento de infecciones vulvovaginales causadas por hongos y levaduras, en especial Candida albicans. Alivia la comezón, el ardor y la irritación de los genitales externos asociados con la infección vaginal, así como el flujo, la inflamación y el dolor. Se presenta en tubo de 20 g con 3 aplicadores vaginales, para un tratamiento de 3 días.\n\nBeneficios:\n- Tratamiento de 3 días.\n- Eficaz contra infecciones vaginales por hongos.\n- Alivia comezón, ardor, irritación, inflamación y dolor.\n- La crema puede indicarse también en balanitis por Candida.\n- Fácil de usar, con aplicadores incluidos.\n\nComposición:\nCada 100 g contienen clotrimazol 2 g. Excipiente c.b.p. 100 g.\n\nModo de uso:\nUso vaginal. Aplique la crema con el aplicador incluido durante 3 días, según las instrucciones del empaque o de su médico.\n\nPresentación:\nCaja con un tubo de 20 g de crema y 3 aplicadores vaginales.\n\nAdvertencias:\n- No lo use si es alérgica al clotrimazol o a algún componente de la fórmula.\n- Si los síntomas persisten o reaparecen, consulte a su médico.\n- Si está embarazada o en periodo de lactancia, consulte a su médico antes de usarlo.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Canesten",
-    "linea": "V",
-    "presentacion": "Crema vaginal",
+    "fabricante": "Bayer",
+    "linea": "Canesten V",
+    "variante": "Crema 3 días",
+    "presentacion": "Crema vaginal en tubo con 3 aplicadores",
     "contenido_neto": 20,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "principio_activo": "Clotrimazol",
+    "concentracion": "2% (2 g/100 g)",
     "via_administracion": "Vaginal",
-    "edad_etapa": "Adultos",
     "genero": "Mujer",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Incluye 3 aplicadores vaginales; Tratamiento de 3 días; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457818",
@@ -31,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318645080_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4028b9c5/images/large/7501318645080_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/canesten-v-crema-vaginal-20g/MXYZ_7501318645080.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1040,
+      "fecha": "2026-09-29",
+      "lado_util": 961
+    },
+    {
+      "archivo": "7501318645080_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/CanestenV.jpg?v=1749220979",
+      "pagina": "https://sanorim.mx/products/canesten-v-clotrimazol-crema-2-tubo-con-20-g-y-3-aplicadores-vaginales",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1064,
+      "fecha": "2026-09-29",
+      "lado_util": 986
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/canesten-v-crema/22/101/52638/36",
+    "https://sanorim.mx/products/canesten-v-clotrimazol-crema-2-tubo-con-20-g-y-3-aplicadores-vaginales",
+    "https://www.yza.mx/canesten-v-crema-vaginal-20g/MXYZ_7501318645080.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca (Canesten V = clotrimazol vaginal). No se confirmó la concentración ni si incluye aplicadores. Se ignoraron el 40 y la fecha de caducidad del nombre. Alternativa de categoría: Antimicóticos (MLM194690). Requiere verificar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (tubo de 20 g con 3 aplicadores). Composición e indicaciones de la información para prescribir (PLM); el tratamiento de 3 días y los aplicadores, de la caja. El '40' y 'AGOSTO 27' del nombre del sistema se ignoraron. La tienda de Bayer no abrió.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias YZA y Sanorim), frente de la caja con la leyenda de 3 días. Se descartó una tercera por traer un cintillo '20 G Antimicótico vaginal'.",
     "fecha": "2026-09-29"
   }
 }

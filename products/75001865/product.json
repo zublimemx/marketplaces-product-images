@@ -4,20 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "BRILL PALMOL LIQ 115ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Brill Palmol Líquido 115 ml",
-  "descripcion": "Descripción:\nBrill Palmol es un producto de cuidado personal en presentación líquida. Esta presentación es un frasco de 115 ml.\n\nPresentación:\nFrasco con 115 ml de producto líquido.\n\nAdvertencias:\nConsulte el tipo de producto, los ingredientes y el modo de uso en la etiqueta del empaque. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "titulo": "Brillantina Palmolive Líquida con Aceite de Oliva 115 ml",
+  "descripcion": "Descripción:\nLa brillantina líquida Palmolive con aceite de oliva es un fijador para el cabello que deja el pelo con brillo, fácil de peinar y con un acabado atractivo. Se presenta en frasco de 115 ml.\n\nBeneficios:\n- Da brillo al cabello.\n- Facilita el peinado y ayuda a mantener el estilo.\n- Fórmula líquida con aceite de oliva.\n- Frasco grande de 115 ml.\n\nIngredientes:\nAceite mineral, sesquioleato de sorbitán, perfume y aceite de oliva.\n\nModo de uso:\nAplique una pequeña cantidad sobre el cabello seco o ligeramente húmedo, distribúyala con las manos o el peine y peine según el estilo deseado.\n\nPresentación:\nFrasco con 115 ml de brillantina líquida.\n\nAdvertencias:\nSolo para uso externo en el cabello. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Si aparece irritación, suspenda su uso. Manténgase fuera del alcance de los niños.",
   "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Brillantina",
+    "variante": "Con aceite de oliva",
     "presentacion": "Líquido",
     "contenido_neto": 115,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Nombre en el sistema: Brill Palmol Líquido 115 ml"
+    "otros": "Fijador para el cabello; Formato de venta: frasco con 115 ml"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM1267",
-      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Otros",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -25,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75001865_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/75001865-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/brillantina-capilar-palmolive-115ml-75001865",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1936,
+      "fecha": "2026-09-29",
+      "lado_util": 1793
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/brill-palmolive-115-ml-liquido-1.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/brillantina-capilar-palmolive-115ml-75001865"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se pudo identificar el producto (marca, tipo ni uso); el GTIN es un EAN-8 (75001865). La categoría Cuidado del Cabello > Otros es solo un supuesto (podría ser brillantina u otro producto); no se llenó marca. Requiere revisión manual completa.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 75001865 (EAN-8) confirmado en 3 tiendas. Ingredientes de una ficha de tienda. Modo de uso y advertencias son generales de brillantina. El laboratorio Colgate-Palmolive viene de una tienda.",
+    "notas_imagenes": "1 foto de tienda (frasco de 115 ml).",
     "fecha": "2026-09-29"
   }
 }

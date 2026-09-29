@@ -34,7 +34,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503027446279_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasmedina.com/assets/images/articulosNuevoNombre/7503027446279_Gelubrin_Ibuprofeno_600mg.webp",
+      "pagina": "https://farmaciasmedina.com/detalleProducto/Gelubrin-600-Mg-Caps-C-10/7503027446279",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 636,
+      "fecha": "2026-09-29",
+      "lado_util": 589
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/gelubrin-600-capsulas/2776/101/58029/14",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "PLM indica que su venta requiere receta médica (SSA IV). En el sistema aparece como genérico Progela.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Medina, 800x800): frente de la caja Gelubrin 600 ibuprofeno 600 mg, 10 cápsulas."
   }
 }

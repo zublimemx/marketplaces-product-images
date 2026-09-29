@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "008400009418_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/0/008400009418.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1029,
+      "fecha": "2026-09-29",
+      "lado_util": 953
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/ribotripsin-tabletas-con-capa-enterica/88/101/46639/212",
     "https://farmaciasfleming.mx/producto/ribotripsin-18-mg-c-30-tab/",
-    "https://prixz.com/c/ribotripsin-30-tabletas-18mg/"
+    "https://prixz.com/c/ribotripsin-30-tabletas-18mg/",
+    "https://production-media.fahorro.com/media/catalog/product/0/0/008400009418.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El GTIN de 12 dígitos aparece tal cual en Farmacias Fleming. Fuentes contradictorias sobre receta: PLM y Farmalisto la tratan como medicamento con receta, Farmacias Fleming indica que no requiere receta. Si se decide Rx, la categoría equivalente sería MLM457826. Sin página oficial de Grin localizada.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s): 1 de fahorro.com (tienda). Se descarto una foto donde el empaque salia muy pequeno."
   }
 }

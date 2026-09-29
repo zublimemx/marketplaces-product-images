@@ -31,7 +31,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943475014_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501943475014.jpg",
+      "pagina": "https://www.emeritafarmacias.com/producto/diapro-conf-panal-gde-c-manza-c-10/",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 666,
+      "fecha": "2026-09-29",
+      "lado_util": 616
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.emeritafarmacias.com/producto/diapro-conf-panal-gde-c-manza-c-10/",
@@ -43,6 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas como Diapro Confort con manzanilla, talla Grande, 10 piezas. Algunas fichas lo nombran Diapro Básico o Anatómicos con el mismo GTIN; se usó el nombre que coincide con el sistema. No se encontró ficha del fabricante, por lo que no hay más detalles del producto (por ejemplo, tipo de cierre).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Emérita): paquete Diapro Confort Manzanilla Grande c/10, 1000 px."
   }
 }

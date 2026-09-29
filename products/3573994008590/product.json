@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "FABROVEN C 30 CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "Fabroven 30 Cápsulas",
-  "descripcion": "Descripción:\nFabroven es un medicamento en cápsulas de administración oral que se comercializa en caja con 30 cápsulas. No se pudo confirmar su principio activo, su fabricante ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Fabroven 150/150/100 mg Extracto de Ruscus 30 Cápsulas",
+  "descripcion": "Descripción:\nFabroven es un medicamento herbolario en cápsulas de Pierre Fabre que combina extracto seco de Ruscus aculeatus, hesperidina metilchalcona y ácido ascórbico (vitamina C). De acuerdo con su ficha, se indica en el tratamiento de la insuficiencia venosa crónica y de la metrorragia. Se presenta en caja con 30 cápsulas.\n\nBeneficios:\n- Indicado en la insuficiencia venosa crónica: sensación de piernas pesadas, edema periférico, dolor y calambres nocturnos.\n- Fórmula de tres activos en una sola cápsula.\n- Presentación de 30 cápsulas para un tratamiento prolongado.\n\nComposición:\nCada cápsula contiene: extracto seco de rizomas y raíces de Ruscus aculeatus valorado en heterósidos esterólicos 150 mg, hesperidina metilchalcona 150 mg y ácido ascórbico 100 mg. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Siga la dosis y la duración del tratamiento que indique el empaque o su médico.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta alguna reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Fabroven",
+    "fabricante": "Pierre Fabre",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
+    "principio_activo": "Extracto de Ruscus aculeatus; hesperidina metilchalcona; ácido ascórbico",
+    "concentracion": "150 mg / 150 mg / 100 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 30 cápsulas"
+    "otros": "Medicamento herbolario; Formato de venta: caja con 30 cápsulas"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3573994008590_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7013809/3573994008590_01.jpg?v=639183755177930000",
+      "pagina": "https://www.farmatodo.com.mx/fabroven-150-150-100-mg-caja-c-30-capsulas-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 652,
+      "lado_final": 1121,
+      "fecha": "2026-09-29",
+      "lado_util": 1038
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/fabroven-150-150-100-mg-caja-c-30-capsulas-v1/p",
+    "https://tienda.sfe.com.mx/eCommerce/item/3386/fabroven-150-mg150-mg-100-mg-30-c%C3%A1psulas",
+    "https://www.fahorro.com/fabroven-150-mg-150-mg-100-mg-oral-30-caps.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo, el fabricante ni el grupo terapéutico; la categoría Otros Medicamentos es provisional y debe cambiarse cuando se identifique. El GTIN de 13 dígitos con prefijo 357 (Francia) sugiere producto importado. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 3573994008590 confirmado en una tienda (otras listan la versión con GTIN 7501088504808). Una tienda lo marca como venta libre y otra en supervisión médica: verificar receta. Sin sitio oficial de la marca en México.",
+    "notas_imagenes": "1 foto de tienda (frente, con el GTIN exacto).",
     "fecha": "2026-09-29"
   }
 }

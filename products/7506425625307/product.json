@@ -5,18 +5,19 @@
   "nombre_sistema": "HU ALL AROUND UNI E7 C/40",
   "nombres_sistema_alternos": [],
   "titulo": "Pañales Huggies All Around Unisex Etapa 7 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Huggies All Around para bebé, de uso unisex, en Etapa 7. Esta presentación es un paquete con 40 piezas.\n\nCaracterísticas:\n- Marca Huggies, de Kimberly-Clark.\n- Uso unisex, para niña o niño.\n- Etapa 7, pensada para los bebés de mayor peso de la línea.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\nCambie el pañal con frecuencia para mantener la piel limpia y seca. Consulte en el empaque la tabla de pesos recomendados para elegir la etapa correcta. Mantenga las bolsas de plástico fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nLos pañales Huggies All Around son pañales autoajustables diseñados para adaptarse a los movimientos del bebé en cada etapa de su desarrollo. Esta presentación es la etapa 7, unisex, en bolsa con 40 piezas.\n\nCaracterísticas:\n- Tecnología All Around para un ajuste perfecto y libertad de movimiento.\n- Cubierta interna que brinda máxima absorbencia en cada movimiento.\n- Doble barrera de protección y cintura suave de ajuste perfecto.\n- Cinta transparente de aseguramiento trasero.\n- Laterales separables que facilitan el cambio tras las deposiciones.\n- Suaves materiales y probado dermatológicamente (certificación Dermatest).\n- Diseño unisex.\n\nPresentación:\nBolsa con 40 pañales desechables, etapa 7, unisex.\n\nModo de uso:\nElija la etapa según el peso del bebé que indica el empaque. Coloque el pañal, ajústelo con las cintas y verifique que quede cómodo en cintura y piernas. Cámbielo con frecuencia y limpie la piel del bebé en cada cambio.\n\nAdvertencias:\nProducto desechable de un solo uso. Tire el pañal usado en la basura y no lo deseche en el inodoro. Mantenga el empaque y los pañales fuera del alcance de los niños pequeños para evitar riesgo de asfixia.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
     "linea": "All Around",
-    "variante": "Unisex",
-    "presentacion": "Paquete de pañales desechables",
+    "variante": "Etapa 7",
+    "presentacion": "Pañales desechables autoajustables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 7",
-    "genero": "Unisex"
+    "genero": "Unisex",
+    "otros": "Tecnología All Around; dermatológicamente probado (Dermatest); Formato de venta: bolsa con 40 pañales"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425625307_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7506425625307-1.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=105617&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1506,
+      "fecha": "2026-09-29",
+      "lado_util": 1394
+    },
+    {
+      "archivo": "7506425625307_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7506425625307-2.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=105617&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1480,
+      "fecha": "2026-09-29",
+      "lado_util": 1371
+    }
+  ],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-all-around/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-all-around/",
+    "https://www.fahorro.com/pa-al-huggies-all-around-etapa-7-unisex.html",
+    "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=105617&urlRequestType=Base&langId=-5&catalogId=12001"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Se interpretó HU ALL AROUND UNI E7 C/40 como Huggies All Around Unisex Etapa 7 con 40 piezas; no se confirmó la línea All Around, el peso de la etapa ni si es pañal o pants. Verificar contra el empaque.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas. No se encontró el rango de peso de la etapa 7; no se incluyó. Características generales de la línea tomadas del sitio de la marca.",
+    "notas_imagenes": "2 fotos de tienda (empaque vertical y horizontal). Se descartó un infográfico con texto y un duplicado.",
     "fecha": "2026-09-29"
   }
 }

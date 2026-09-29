@@ -31,17 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501287630506_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501287630506_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501287630506_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 686,
+      "fecha": "2026-09-29",
+      "lado_util": 635
+    },
+    {
+      "archivo": "7501287630506_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501287630506_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501287630506_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 692,
+      "fecha": "2026-09-29",
+      "lado_util": 641
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Terramicina-24-Pastilla-Caja/7501287630506",
-    "http://www.digit-eyes.com/upcCode/7501287630506.html?l=es"
+    "http://www.digit-eyes.com/upcCode/7501287630506.html?l=es",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501287630506_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado por títulos de varias farmacias (Terramicina 125 mg, 24 pastillas/trociscos; una la marca como antibiótico con receta). No se pudo leer la ficha completa (WebFetch rechazado con 429), por lo que la descripción es general y no incluye la indicación específica del fabricante. Fabricante Pfizer según el título de una farmacia en línea.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501287630506_1.jpg, 7501287630506_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

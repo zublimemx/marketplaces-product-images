@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943444966_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwdd05adc0/images/large/7501943444966_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-jumbo-40-pzas/MXYZ_7501943444966.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 904
+    },
+    {
+      "archivo": "7501943444966_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw565a62a3/images/large/7501943444966_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-jumbo-40-pzas/MXYZ_7501943444966.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 986,
+      "fecha": "2026-09-29",
+      "lado_util": 913
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
     "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
@@ -44,6 +67,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "La página oficial de KleenBebé se muestra con la misma URL para todas las etapas; los rangos de peso salen de ese sitio.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza (frente horizontal y vertical). Se descartaron fotos del diseno anterior \"Maxi mejorados\" de Farmacias del Ahorro."
   }
 }

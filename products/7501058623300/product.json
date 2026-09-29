@@ -20,7 +20,7 @@
     "edad_etapa": "6 a 12 meses",
     "sabor_aroma": "Sin sabor",
     "genero": "Unisex",
-    "otros": "Etapa: 2; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad"
+    "otros": "Etapa: 2; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad; Nombre en empaque actual: Optimal Pro"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -34,18 +34,56 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058623300_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_1_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1152,
+      "fecha": "2026-09-29",
+      "lado_util": 1067
+    },
+    {
+      "archivo": "7501058623300_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1152,
+      "fecha": "2026-09-29",
+      "lado_util": 1066
+    },
+    {
+      "archivo": "7501058623300_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1152,
+      "fecha": "2026-09-29",
+      "lado_util": 1066
+    }
+  ],
   "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
   "fuentes": [
     "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
     "https://grupofarmapronto.com/producto/nan-2-optipro-800-g-2/",
-    "https://farmaciaherrera.com.mx/products/nan-2-optipro-6-12-m-800-gr"
+    "https://farmaciaherrera.com.mx/products/nan-2-optipro-6-12-m-800-gr",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_1_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501058623300_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Nestlé México ya nombra la línea como Optimal Pro; en Mercado Libre los vendedores usan Optipro. No se encontró catálogo ML exacto para 800 g (solo 400 g y 720 g).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 3 de fahorro.com (tienda). Diseno OPTIMAL PRO (actual de Nestle; el catalogo lo llama Optipro); frente y dos contra-etiquetas. Se descartaron fotos con insignias de edad/gramaje, el diseno anterior Optipro y duplicados."
   }
 }

@@ -31,7 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314702770_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314702770_1_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "pagina": "https://www.farmaciasespecializadas.com/arfla-550-mg-caj-tab-c-15.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 803,
+      "fecha": "2026-09-29",
+      "lado_util": 744
+    },
+    {
+      "archivo": "7501314702770_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/176524-1200-auto?width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/arfla-550-mg-c-15-tabs/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 452
+    },
+    {
+      "archivo": "7501314702770_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/176525-1200-auto?width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/arfla-550-mg-c-15-tabs/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 452
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/arfla-550-mg-caj-tab-c-15.html",
@@ -43,6 +77,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas (rifaximina 550 mg, 15 tabletas). Las fichas leídas no detallan las indicaciones, por eso la descripción es general. La página de Farmalisto de este producto no se pudo leer (límite de solicitudes del proxy).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 fotos (tienda): _1 Farmacias Especializadas frente 3/4, _2 frente plano y _3 reverso (Klyns, 500 px). Caja Arfla 550 mg c/15."
   }
 }

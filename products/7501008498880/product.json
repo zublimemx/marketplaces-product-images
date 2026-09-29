@@ -32,16 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008498880_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0818/0544/3355/files/7501008498880_1.jpg?v=1787153131",
+      "pagina": "https://farmaciasanjorge.com/products/39849",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1090,
+      "fecha": "2026-09-29",
+      "lado_util": 1010
+    },
+    {
+      "archivo": "7501008498880_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/flanax_550_mg_con_30_tabletas_7501008498880_8ef9ff9a-bf09-4274-98c9-314ab82f65e4.jpg?v=1760024643",
+      "pagina": "https://farmaciaherrera.com.mx/products/flanax-550-mg-con-30-tabletas",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 679,
+      "fecha": "2026-09-29",
+      "lado_util": 629
+    }
+  ],
   "url_oficial": "https://www.flanax.com.mx/",
   "fuentes": [
-    "https://www.flanax.com.mx/"
+    "https://www.flanax.com.mx/",
+    "https://farmaciasanjorge.com/products/39849",
+    "https://farmaciaherrera.com.mx/products/flanax-550-mg-con-30-tabletas"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Flanax confirma naproxeno sódico 550 mg y sus usos; las 30 tabletas salen del nombre del sistema. El sitio no aclara si requiere receta (el naproxeno de 550 mg suele venderse con receta); si resulta con receta, usar MLM457826 (Musculoarticulares con Receta). Advertencias basadas en las habituales del naproxeno, confirmar con el instructivo.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos de tienda con 'Caja con 30 tabletas': farmacia San Jorge (1080 px) y farmacia Herrera (1024 px). Sitio del fabricante (flanax.com.mx) dio 403; Farmacias Medina y FESA no tienen este GTIN."
   }
 }

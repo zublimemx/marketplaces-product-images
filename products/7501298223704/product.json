@@ -4,20 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "DOLO NEUROBION TAB C 20",
   "nombres_sistema_alternos": [],
-  "titulo": "Dolo-Neurobión Diclofenaco Vitaminas B1 B6 B12 20 Tabletas",
-  "descripcion": "Descripción:\nDolo-Neurobión, de Merck, es un medicamento en tabletas que combina el antiinflamatorio y analgésico diclofenaco con vitaminas del complejo B: B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina). Se presenta en caja con 20 tabletas para administración por vía oral.\n\nBeneficios:\n- Combina un antiinflamatorio no esteroideo con vitaminas B1, B6 y B12 en una sola tableta.\n- Se utiliza para el alivio del dolor y la inflamación; las indicaciones aprobadas se detallan en el instructivo del empaque.\n- Presentación de 20 tabletas, pensada para tratamientos de varios días.\n\nComposición:\nCada tableta contiene diclofenaco sódico y las vitaminas B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina).\n\nModo de uso:\nVía oral. Tome las tabletas con un vaso de agua, de preferencia con alimentos, y respete la dosis y la duración indicadas por su médico o en el instructivo del empaque. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios no esteroideos, ni si tiene úlcera o sangrado del estómago o del intestino. Puede causar molestias gástricas, náusea, mareo o dolor de cabeza. Evite su uso durante el embarazo y la lactancia, salvo indicación médica. Precaución en personas con enfermedad del corazón, del hígado o del riñón, o con hipertensión. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Dolo-Neurobión Diclofenaco 50 mg Vitaminas B 20 Tabletas",
+  "descripcion": "Descripción:\nDolo-Neurobión es un medicamento en tabletas que combina diclofenaco sódico, un analgésico y antiinflamatorio no esteroideo, con las vitaminas del complejo B: tiamina (B1), piridoxina (B6) y cianocobalamina (B12). Está indicado para el alivio del dolor y la inflamación de músculos, articulaciones y fibras nerviosas del cuerpo. Se presenta en caja con 20 tabletas para administración por vía oral.\n\nBeneficios:\n- Triple acción: analgésica, antiinflamatoria y sobre las fibras nerviosas del cuerpo.\n- Indicado en dolores provocados por golpes, torceduras y caídas, dolor de espalda baja y de cuello, y los causados por contracturas o mala postura.\n- Su combinación con vitaminas del complejo B está pensada para actuar tanto sobre el dolor y la inflamación como sobre las fibras nerviosas.\n\nComposición:\nCada tableta contiene: diclofenaco sódico 50 mg, mononitrato de tiamina (vitamina B1) 50 mg, clorhidrato de piridoxina (vitamina B6) 50 mg, cianocobalamina (vitamina B12) 0.25 mg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tome la tableta con un poco de agua, de preferencia con alimentos. La dosis y la duración del tratamiento son las que indique su médico o el inserto del empaque; no exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios no esteroideos, ni si tiene úlcera o sangrado del estómago o del intestino. Puede causar molestias gástricas, náusea, mareo o dolor de cabeza. No se use durante el embarazo ni la lactancia salvo indicación médica. Precaución en personas con enfermedad del corazón, del hígado o del riñón, o con hipertensión. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dolo-Neurobión",
-    "fabricante": "Merck",
+    "fabricante": "Merck (P&G Health)",
+    "linea": "Neurobión",
     "variante": "Tabletas",
     "presentacion": "Tabletas",
     "contenido_neto": 20,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
-    "principio_activo": "Diclofenaco y vitaminas B1, B6 y B12",
+    "principio_activo": "Diclofenaco sódico, tiamina (B1), piridoxina (B6) y cianocobalamina (B12)",
+    "concentracion": "Diclofenaco 50 mg; tiamina 50 mg; piridoxina 50 mg; cianocobalamina 0.25 mg por tableta",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Uso: dolor e inflamación de músculos, articulaciones y fibras nerviosas; Formato de venta: Caja"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -31,14 +32,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298223704_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwca3b0fe5/images/large/7501298223704_1.jpg",
+      "pagina": "https://www.yza.mx/dolo-neurobion-20-tabs/MXYZ_7501298223704.html",
+      "ancho_original": 1883,
+      "alto_original": 1243,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7501298223704_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298223704.jpg",
+      "pagina": "https://www.fahorro.com/dolo-neurobion-analgesico-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1411,
+      "fecha": "2026-09-29",
+      "lado_util": 1307
+    },
+    {
+      "archivo": "7501298223704_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298223704_1.jpg",
+      "pagina": "https://www.fahorro.com/dolo-neurobion-analgesico-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1443,
+      "fecha": "2026-09-29",
+      "lado_util": 1337
+    },
+    {
+      "archivo": "7501298223704_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298223704_2.jpg",
+      "pagina": "https://www.fahorro.com/dolo-neurobion-analgesico-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1116,
+      "fecha": "2026-09-29",
+      "lado_util": 1034
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/dolo-neurobion-analgesico-20-tabletas.html",
+    "https://www.fahorro.com/dolo-neurobion-analgesico-10-tabletas.html",
+    "https://www.yza.mx/dolo-neurobion-20-tabs/MXYZ_7501298223704.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y la página de Neurobión México no lista Dolo-Neurobión. Identificación por el nombre y conocimiento general. Faltan las concentraciones por tableta (diclofenaco y vitaminas B1, B6, B12) y el registro sanitario: tomarlos del empaque. Falta confirmar si la tableta se vende con receta (el inyectable DC sí); si resulta con receta, usar MLM457826.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. Fórmula tomada de la parte trasera de la caja (foto). No se confirmó si el empaque trae leyenda de venta con receta: revisar la caja.",
+    "notas_imagenes": "4 fotos de tienda: frente de la caja de 20 tabletas, frente Merck, parte trasera con fórmula y vista en ángulo. Se descartaron una con etiqueta '20 tabletas' agregada y una versión en render con blíster.",
     "fecha": "2026-09-29"
   }
 }

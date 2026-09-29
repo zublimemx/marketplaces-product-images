@@ -17,7 +17,8 @@
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 1",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete"
+    "otros": "Formato de venta: Paquete",
+    "talla": "Etapa 1 (3 a 5.5 kg)"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,7 +32,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943416864_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501943416864-1.png",
+      "pagina": "https://grupofarmapronto.com/producto/huggies-supreme-etapa-1-unisex-c-40-panales/",
+      "ancho_original": 1688,
+      "alto_original": 1181,
+      "lado_final": 1823,
+      "fecha": "2026-09-29",
+      "lado_util": 1687
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Huggies_Supreme_Panales_Unisex_Etapa_1/7501943416864",
@@ -42,6 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado como Huggies Supreme Unisex Etapa 1. Las fuentes mezclan 38 y 40 piezas con el mismo GTIN; se usó 40 según el nombre del sistema (C/40) y dos farmacias. No se leyó la ficha con el rango de peso (WebFetch rechazado con 429), por eso no se indica.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s), origen tienda: 1 de grupofarmapronto.com (7501943416864_1.jpg; 1688 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Solo se halló una foto utilizable (farmalisto/Sears/Medina dieron captcha, 403 o <500 px)."
   }
 }

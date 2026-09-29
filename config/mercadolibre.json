@@ -13,16 +13,32 @@
     "umbral_envio_gratis_obligatorio": 299,
     "costo_envio_vendedor_estimado": 0,
     "costos_fijos_clasica": [
-      {"desde": 0, "hasta": 99, "costo_fijo": 25},
-      {"desde": 99, "hasta": 149, "costo_fijo": 30},
-      {"desde": 149, "hasta": 299, "costo_fijo": 37},
-      {"desde": 299, "hasta": null, "costo_fijo": 0}
+      {
+        "desde": 0,
+        "hasta": 99,
+        "costo_fijo": 25
+      },
+      {
+        "desde": 99,
+        "hasta": 149,
+        "costo_fijo": 30
+      },
+      {
+        "desde": 149,
+        "hasta": 299,
+        "costo_fijo": 37
+      },
+      {
+        "desde": 299,
+        "hasta": null,
+        "costo_fijo": 0
+      }
     ],
     "comision_clasica_por_categoria_raiz": {
       "Salud y Equipamiento Médico": 0.14,
       "Belleza y Cuidado Personal": 0.14,
       "Bebés": 0.15,
-      "Alimentos y Bebidas": 0.10
+      "Alimentos y Bebidas": 0.1
     },
     "comision_clasica_otras_categorias": 0.16,
     "fuentes": [
@@ -30,6 +46,26 @@
       "Costos fijos y rango 8%-16%: https://www.upseller.com/es/blog-article-515 (14 ene 2026)",
       "Envío gratis obligatorio desde $299: https://www.upseller.com/es/blog-article-444",
       "Comisión para otras categorías: supuesto conservador (tope del rango de Clásica)"
+    ]
+  },
+  "avance": {
+    "productos_por_sesion": 200,
+    "sesiones_realizadas": 2,
+    "historial": [
+      {
+        "sesion": 1,
+        "fecha": "2026-09-29",
+        "investigados": 425,
+        "verificados": 122,
+        "con_fotos": 0
+      },
+      {
+        "sesion": 2,
+        "fecha": "2026-09-29",
+        "investigados": 199,
+        "verificados": 196,
+        "con_fotos": 315
+      }
     ]
   }
 }

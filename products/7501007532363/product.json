@@ -5,10 +5,9 @@
   "nombre_sistema": "DRAMAMINE 24 TABS 72",
   "nombres_sistema_alternos": [],
   "titulo": "Dramamine Dimenhidrinato 50 mg 24 Tabletas",
-  "descripcion": "Descripción:\nDramamine es un medicamento de uso oral en tabletas cuyo principio activo es el dimenhidrinato, un antihistamínico con acción antiemética. Se utiliza para la prevención y el alivio de las náuseas, el vómito y el mareo asociados al movimiento, como en viajes en auto, barco o avión.\n\nPresentación:\nCaja con 24 tabletas de 50 mg.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia indicadas en el empaque o por su médico. Cuando se use para prevenir el mareo en viaje, se toma antes de iniciar el trayecto.\n\nAdvertencias:\nPuede causar somnolencia; evite conducir o manejar maquinaria después de tomarlo y no lo combine con alcohol ni con otros medicamentos que causen sueño. No lo use si es alérgico al dimenhidrinato. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nDramamine es un medicamento en tabletas cuyo principio activo es el dimenhidrinato, un antihistamínico que actúa sobre el centro del vómito. Se presenta en caja de cartón con 24 tabletas de 50 mg para administración oral y está indicado contra la náusea, el mareo y el vómito.\n\nBeneficios:\n- Previene y trata las náuseas, los vómitos y los mareos asociados a la cinetosis (mareo por movimiento, como en viajes por carretera, mar o aire)\n- También se utiliza para los síntomas de náusea y vómito posoperatorios\n- Acción por antagonismo de los receptores H1 de histamina, lo que reduce la excitabilidad del centro del vómito\n\nComposición:\nCada tableta contiene 50 mg de dimenhidrinato. Contiene excipientes como almidón, celulosa microcristalina y estearato de magnesio, entre otros.\n\nModo de uso:\nVía oral. Tome la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 24 tabletas de 50 mg.\n\nAdvertencias:\nNo lo use si es alérgico al dimenhidrinato o a algún componente de la fórmula, ni si tiene glaucoma de ángulo cerrado, crecimiento de la próstata o si toma inhibidores de la monoaminooxidasa. Puede causar somnolencia; evite el alcohol durante el tratamiento. Úselo con precaución en asma, EPOC y enfermedades del corazón. No se recomienda en niños menores de 2 años sin supervisión médica. Conserve a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dramamine",
-    "variante": "Tabletas 50 mg",
     "presentacion": "Tabletas",
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
@@ -16,7 +15,7 @@
     "principio_activo": "Dimenhidrinato",
     "concentracion": "50 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: caja con 24 tabletas; Conservar a no más de 30 °C"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007532363_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__b9024248-72a0-4219-b1ff-de0c9294f68d_1200x1200.jpg?v=1744671485",
+      "pagina": "https://wecarepharma.mx/en/products/dramamine-50mg-con-24-tabletas-dimenhidrinato",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1242,
+      "fecha": "2026-09-29",
+      "lado_util": 1148
+    },
+    {
+      "archivo": "7501007532363_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd431af31/images/large/7501007532363_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501007532363.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 673,
+      "fecha": "2026-09-29",
+      "lado_util": 624
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/dramamine-50mg-con-24-tabletas-dimenhidrinato",
+    "https://www.yza.mx/x/MXYZ_7501007532363.html",
+    "https://farmaciapvr.com/en/producto/dramamine-50-mg-24-tabs-en/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Dramamine = dimenhidrinato en tabletas); la concentración de 50 mg y el fabricante son de conocimiento general y no se verificaron, y el nombre del sistema solo dice 24 tabletas. Categoría elegida (Digestivos Venta Libre) por su acción antiemética; también podría ir en Sistema Nervioso Venta Libre. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se identificó el laboratorio con certeza. El texto de contraindicaciones viene de una ficha de distribuidor. La categoría se eligió como antiemético; también encajaría en Sistema Nervioso Venta Libre.",
+    "notas_imagenes": "2 fotos de tienda de la caja de 24 tabletas (frente y una más pequeña).",
     "fecha": "2026-09-29"
   }
 }

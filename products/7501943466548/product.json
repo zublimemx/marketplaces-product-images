@@ -4,17 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "DIAPRO PANTS MED C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Diapro Pants Mediano 10 Piezas",
-  "descripcion": "Descripción:\nDiapro Pants es ropa interior desechable absorbente para adultos con incontinencia, en talla Mediano. Esta presentación es un paquete con 10 piezas.\n\nPresentación:\nPaquete con 10 piezas, talla Mediano.\n\nAdvertencias:\nCambie la prenda con frecuencia para mantener la piel limpia y seca. Consulte en el empaque la tabla de medidas de cintura para elegir la talla correcta. Mantenga las bolsas de plástico fuera del alcance de los niños.",
+  "titulo": "Calzones Incontinencia Diapro Pants Mediano 10 Piezas",
+  "descripcion": "Descripción:\nDiapro Pants son calzones desechables para adulto con protección para la incontinencia, tipo ropa interior. Están hechos con aloe vera para cuidar la piel y aroma a manzanilla, con un corte discreto y una textura ultra suave que permite que la piel respire. Esta presentación es talla mediana, unisex, con 10 piezas.\n\nCaracterísticas:\n- Tecnología de máxima absorción que gelatiniza los líquidos y controla los olores.\n- Doble barrera anti-escurrimiento y mayor protección trasera.\n- Con aloe vera para cuidar la piel y aroma a manzanilla.\n- Textura ultra suave que permite que la piel respire.\n- Corte discreto, tipo ropa interior.\n- Talla mediana, ideal para tallas entre 31 y 46.\n\nPresentación:\nBolsa con 10 piezas, talla mediana, unisex.\n\nModo de uso:\nJálelo hacia arriba como una prenda interior hasta que quede ajustado a la cintura y a las piernas. Cámbielo cuando esté lleno o con la frecuencia necesaria para mantener la piel limpia y seca. Después de retirarlo, enróllelo y deséchelo en la basura.\n\nAdvertencias:\nProducto desechable de un solo uso; no lo deseche en el inodoro. Almacénelo en un lugar seco, a temperatura ambiente entre 15 y 30 °C. Si aparece irritación en la piel, suspenda su uso y consulte a su médico.",
   "ficha": {
     "marca": "Diapro",
+    "fabricante": "Kimberly-Clark",
     "linea": "Pants",
-    "presentacion": "Ropa interior desechable",
+    "variante": "Mediano",
+    "presentacion": "Ropa interior desechable para incontinencia",
     "contenido_neto": 10,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
-    "talla": "Mediano",
-    "edad_etapa": "Adultos"
+    "talla": "Mediana",
+    "genero": "Unisex",
+    "otros": "Con aloe vera y aroma a manzanilla; doble barrera anti-escurrimiento; Formato de venta: bolsa con 10 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943466548_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501943466548-162212.png",
+      "pagina": "https://farmaciasfleming.mx/producto/panal-diapro-pants-mediano-c-10/",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 906,
+      "fecha": "2026-09-29",
+      "lado_util": 839
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/ropa-interior-desechables-diapro-mediano-calzones-para-incontinencia-10-piezas-3228678/p",
+    "https://farmaciasmedina.com/detalleProducto/Diapro-Pants-Talla-Mediana-Ropa-Interior-Desechable/7501943466548"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Se interpretó como Diapro Pants (ropa interior para adulto) talla Mediano con 10 piezas; no se confirmó el fabricante ni los detalles de la ficha.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 2 tiendas. Fabricante Kimberly-Clark inferido por el prefijo GTIN y la etiqueta 'Kimclar' de una tienda. La talla en cm de cintura difiere entre fuentes, por eso no se incluyó.",
+    "notas_imagenes": "1 foto de tienda (empaque de 10 piezas). Se descartó una foto con promoción '12 piezas + 2 gratis' que no coincide con la presentación.",
     "fecha": "2026-09-29"
   }
 }

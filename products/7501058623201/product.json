@@ -34,16 +34,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058623201_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77913935/7501058623201_00.jpg?v=639258722205370000",
+      "pagina": "https://www.chedraui.com.mx/formula-crecimiento-nan-3-optimal-pro-de-1-a-2-anos-400g-3453500/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1211,
+      "fecha": "2026-09-29",
+      "lado_util": 1119
+    },
+    {
+      "archivo": "7501058623201_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77913936/7501058623201_06.jpg?v=639258722206930000",
+      "pagina": "https://www.chedraui.com.mx/formula-crecimiento-nan-3-optimal-pro-de-1-a-2-anos-400g-3453500/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1197,
+      "fecha": "2026-09-29",
+      "lado_util": 1109
+    }
+  ],
   "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-3-optimal-pro",
   "fuentes": [
-    "https://www.nestlefamilynes.com.mx/producto/nan-3-optimal-pro"
+    "https://www.nestlefamilynes.com.mx/producto/nan-3-optimal-pro",
+    "https://www.farmatodo.com.mx/nan-formula-infantil-optipro-e3-lata-c-400-gr/p",
+    "https://www.chedraui.com.mx/formula-crecimiento-nan-3-optimal-pro-de-1-a-2-anos-400g-3453500/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se pudo buscar el GTIN en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). La ficha de Nestlé México confirma NAN 3 Optimal Pro para niños de 1 año en adelante y la presentación de 400 g. El GTIN 7501058623201 sigue la secuencia de NAN 1 (...188) y NAN 2 (...195) del lote 1, ya confirmados como latas de 400 g, pero no se verificó por sí mismo. Sabor 'Sin sabor' y formato lata se asumieron por las otras etapas. El 'JULIO 27' del nombre es caducidad y se ignoró. En ML la línea se llama Optipro; Nestlé México ya usa Optimal Pro.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda, Chedraui): lata NAN 3 Optimal Pro 400 g de frente (_4) y en 3/4 (_5), 1200 px. La página oficial de Nestlé solo muestra 320 g y 800 g, y la foto de Open Food Facts es un snapshot con fondo sucio; ambas descartadas. Las fotos de Farmatodo (diseño anterior) también se descartaron para no mezclar diseños."
   }
 }

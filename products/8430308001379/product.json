@@ -32,7 +32,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8430308001379_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/8430308001379.jpg?v=1726102889&width=1500",
+      "pagina": "https://farmaciaherrera.com.mx/products/dimoflax-con-45-caps",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 370
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/dimoflax.capsulas/67/101/62569/14",
@@ -44,6 +56,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Las farmacias listan el laboratorio como Almirall o Grünenthal; PLM indica titular Almirall e importador Grünenthal de México. Requiere receta según PLM (SSA IV).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacia Herrera): caja Dimoflax 0.5/200 mg c/45 cápsulas, 500 px."
   }
 }

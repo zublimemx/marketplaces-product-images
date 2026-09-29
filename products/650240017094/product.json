@@ -31,17 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240017094_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240017094-1.jpeg",
+      "pagina": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240017094-1.jpeg",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1937,
+      "fecha": "2026-09-29",
+      "lado_util": 1794
+    },
+    {
+      "archivo": "650240017094_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/650240017094.jpg",
+      "pagina": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240017094-1.jpeg",
+      "ancho_original": 1587,
+      "alto_original": 1081,
+      "lado_final": 1713,
+      "fecha": "2026-09-29",
+      "lado_util": 1587
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://curitek.com/producto/xl3-xtra-12-capsulas-clorfenamina-fenilefrina-dextrometorfano-paracetamol/",
-    "https://farmaciasmedina.com/detalleProducto/Xl-3-Xtra-Alivia-Sintomas-De-Gripa-Y-Tos/650240017094"
+    "https://farmaciasmedina.com/detalleProducto/Xl-3-Xtra-Alivia-Sintomas-De-Gripa-Y-Tos/650240017094",
+    "https://www.emeritafarmacias.com/wp-content/uploads/650240017094.jpg",
+    "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/650240017094-1.jpeg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (SKU 650240017094, caja con 12 cápsulas). Composición y fabricante tomados de la ficha de curitek.com. La dosis, el registro sanitario y las advertencias no venían en la ficha; las advertencias son generales de los ingredientes: verificar contra el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda): _1 Del Sol (2000 px) y _2 Emérita (1587 px), caja XL-3 Xtra 12 cápsulas de frente. Se descartaron las de Curitek (marca de agua) y Medina (480 px)."
   }
 }

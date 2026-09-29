@@ -19,7 +19,7 @@
     "concentracion": "0.025%",
     "via_administracion": "Oftálmica",
     "registro_sanitario": "304M98 SSA IV",
-    "otros": "Forma farmacéutica: Solución oftálmica; Formato de venta: Frasco gotero de 5 ml"
+    "otros": "Forma farmacéutica: Solución oftálmica; Formato de venta: Frasco gotero de 5 ml; Sin conservadores"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3662042004100_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/3662042004100.jpg",
+      "pagina": "https://www.emeritafarmacias.com/",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 658,
+      "fecha": "2026-09-29",
+      "lado_util": 609
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://prixz.com/c/zaditen-0-025-oftalmico-5-ml-gotas-2/",
     "https://farmaciasmedina.com/detalleProducto/Zaditen-Oftalmica-5-Ml-Solucion-Gotero/3662042004100",
-    "https://farmalisto.com.mx/medicamentos-con-receta-medica/18197-zaditen-ofta-025-5ml-ketotifeno-thea-3662042004100.html"
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/18197-zaditen-ofta-025-5ml-ketotifeno-thea-3662042004100.html",
+    "https://www.emeritafarmacias.com/wp-content/uploads/3662042004100.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado. Una de las fuentes lo lista como fracción IV (con receta); el dueño indicó publicar como venta libre. Registro sanitario tomado de una sola fuente. La página de Farmalisto no pudo leerse (límite de solicitudes); solo se usó el título del resultado de búsqueda.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Emérita): caja Zaditen Ofta 0.025% 5 ml, 1000 px. Medina (480 px) descartada."
   }
 }

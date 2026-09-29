@@ -4,19 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "DESENFRIOL D C30 TABS 162",
   "nombres_sistema_alternos": [],
-  "titulo": "Desenfriol D 30 Tabletas",
-  "descripcion": "Descripción:\nDesenfriol D es un medicamento en tabletas de administración oral que pertenece a la línea de antigripales Desenfriol. Se comercializa en caja con 30 tabletas.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Desenfriol D Antigripal 30 Tabletas",
+  "descripcion": "Descripción:\nDesenfriol D es un antigripal de Bayer en tabletas, con una combinación de clorfenamina, fenilefrina y paracetamol. Está indicado para el alivio de las molestias de la gripe y el resfriado, como dolor de cabeza, fiebre, congestión nasal, cuerpo cortado, estornudos, escurrimiento nasal, ojos llorosos y dolor de garganta.\n\nBeneficios:\n- La clorfenamina es un antihistamínico que ayuda con el estornudo y el escurrimiento nasal.\n- La fenilefrina es un descongestionante que ayuda a aliviar la congestión nasal.\n- El paracetamol alivia el dolor y reduce la fiebre.\n- Caja con 30 tabletas, pensada para varios días de tratamiento.\n\nComposición:\nCada tableta contiene clorfenamina 2 mg, fenilefrina 5 mg y paracetamol 500 mg.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque y no exceda la dosis recomendada.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes, ni en caso de enfermedades cardiovasculares graves, hipertensión no controlada, glaucoma de ángulo cerrado o si toma inhibidores de la monoaminooxidasa. Precaución en enfermedad del hígado o de los riñones, problemas de próstata o retención urinaria. No lo combine con otros productos que contengan paracetamol. Si los síntomas persisten por más de 3 días, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Desenfriol",
+    "fabricante": "Bayer",
+    "linea": "Desenfriol",
     "variante": "D",
     "presentacion": "Tabletas",
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
+    "principio_activo": "Clorfenamina, fenilefrina y paracetamol",
+    "concentracion": "2 mg/5 mg/500 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 30 tabletas"
+    "edad_etapa": "Adultos",
+    "otros": "Antigripal; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194695",
@@ -28,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502276040368_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7502276040368_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/desenfriol-d-2-5-500mg-tab-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 395
+    },
+    {
+      "archivo": "7502276040368_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7502276040368.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/desenfriol-d-2mg-5mg-500mg-con-30-tabletas-clorfenamina-fenilefrina-paracetamol",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 888,
+      "fecha": "2026-09-29",
+      "lado_util": 822
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/desenfriol-d-2mg-5mg-500mg-con-30-tabletas-clorfenamina-fenilefrina-paracetamol",
+    "https://www.klyns.mx/desenfriol-d-2-mg-5-mg-500-mg-30-tabs/p",
+    "https://www.farmaciasespecializadas.com/desenfriol-d-2-5-500mg-tab-30.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200) antes de llegar a este producto. Datos deducidos del nombre del sistema; se omitieron principio activo, concentración y fabricante por no estar verificados. El número 162 al final del nombre se ignoró. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) de la caja de 30 tabletas. Se descartó una tercera con texto Precio Especial.",
     "fecha": "2026-09-29"
   }
 }

@@ -5,7 +5,7 @@
   "nombre_sistema": "MICARDIS DUO 80 5MG C28",
   "nombres_sistema_alternos": [],
   "titulo": "Micardis Duo Telmisartán Amlodipino 80/5 mg 28 Tabletas",
-  "descripcion": "Descripción:\nMicardis Duo es un medicamento de Boehringer Ingelheim que combina telmisartán y amlodipino en una sola tableta, en concentración de 80 mg de telmisartán y 5 mg de amlodipino. Es un antihipertensivo de uso oral que se utiliza, bajo indicación médica, para el control de la presión arterial alta en adultos.\n\nPresentación:\nCaja con 28 tabletas de 80 mg/5 mg.\n\nModo de uso:\nVía oral, una tableta al día o según indique el médico. Puede tomarse con o sin alimentos. La dosis y la duración del tratamiento las determina el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use durante el embarazo, si es alérgico a alguno de sus componentes ni si tiene problemas graves del hígado o de las vías biliares. Puede causar mareo, hinchazón de tobillos o dolor de cabeza. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nMicardis Duo es un medicamento de Boehringer Ingelheim que combina en una sola tableta telmisartán 80 mg y amlodipino (como besilato) 5 mg. Es un antihipertensivo de uso oral indicado para el tratamiento de la hipertensión arterial en adultos, especialmente en pacientes que no logran un control adecuado de la presión con un solo medicamento.\n\nBeneficios:\n- Combina dos mecanismos de acción: el telmisartán es un antagonista de los receptores de angiotensina II y el amlodipino es un bloqueador de los canales de calcio.\n- Dos principios activos en una sola tableta.\n- Puede formar parte de un tratamiento que incluye alimentación saludable y actividad física, según indique el médico.\n\nComposición:\nCada tableta contiene telmisartán 80 mg y besilato de amlodipino equivalente a 5 mg de amlodipino, y excipientes.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja de cartón con 28 tabletas de 80 mg/5 mg.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad a alguno de los componentes, insuficiencia hepática grave, embarazo, lactancia ni estenosis bilateral de las arterias renales. Se requiere precaución en insuficiencia cardiaca, enfermedad hepática y tratamiento con diuréticos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Micardis",
     "fabricante": "Boehringer Ingelheim",
@@ -15,11 +15,12 @@
     "contenido_neto": 28,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 28,
-    "principio_activo": "Telmisartán y amlodipino",
+    "principio_activo": "Telmisartán y amlodipino (besilato)",
     "concentracion": "80 mg/5 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "registro_sanitario": "134M2012 SSA IV",
+    "otros": "Formato de venta: Caja de cartón"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +34,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501037920147_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Micardis-Duo-80-Mg-5-Mg-28-Tabletas-7501037920147-638866453035099586-1.jpg",
+      "pagina": "https://storeboehringer.com/micardis/duo-80mg-5mg-28-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 635,
+      "fecha": "2026-09-29",
+      "lado_util": 588
+    },
+    {
+      "archivo": "7501037920147_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501037920147_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/micardis-duo-80-5mg-tab-caj-c-28.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 557,
+      "fecha": "2026-09-29",
+      "lado_util": 516
+    }
+  ],
+  "url_oficial": "https://storeboehringer.com/micardis/duo-80mg-5mg-28-tabletas",
+  "fuentes": [
+    "https://storeboehringer.com/micardis/duo-80mg-5mg-28-tabletas",
+    "https://wecarepharma.mx/en/products/micardis-duo-80mg-5mg-con-28-tabletas-telmisartan-amlodipino",
+    "https://www.farmaciasespecializadas.com/micardis-duo-80-5mg-tab-caj-c-28.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Micardis Duo = telmisartán + amlodipino de Boehringer Ingelheim, de conocimiento general; el prefijo de GTIN 7501037 lo comparte Combivent Respimat del mismo lote). Concentración 80/5 mg y 28 tabletas salen del nombre del sistema. La descripción y las advertencias son generales y no se cotejaron con la ficha oficial. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y registro sanitario confirmados en la tienda oficial de Boehringer Ingelheim.",
+    "notas_imagenes": "2 fotos: la primera de la tienda oficial del fabricante y la segunda de una farmacia en línea; empaque de 28 tabletas 80/5 mg.",
     "fecha": "2026-09-29"
   }
 }

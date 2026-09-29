@@ -4,15 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR MED C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Absorsec Mediano 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Absorsec en talla Mediano. Esta presentación es un paquete con 40 piezas.\n\nPresentación:\nPaquete con 40 pañales desechables, talla Mediano.\n\nAdvertencias:\nCambie el pañal con frecuencia para mantener la piel limpia y seca. Consulte en el empaque la tabla de pesos recomendados para elegir la talla correcta. Mantenga las bolsas de plástico fuera del alcance de los niños.",
+  "titulo": "Pañales KleenBebé Absorsec Ultra Mediano 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales KleenBebé Absorsec Ultra son pañales desechables para bebé, unisex, en talla mediana. Ofrecen absorción y comodidad para mantener al bebé sequito durante el día y la noche. Se presentan en bolsa con 40 piezas.\n\nCaracterísticas:\n- Núcleo Absorgel para una mejor distribución de los líquidos.\n- Cubiertas respirables.\n- Elástico en la cintura para un ajuste cómodo.\n- Contiene ingredientes naturales como aloe y manzanilla.\n- Talla mediana, diseño unisex.\n\nPresentación:\nBolsa con 40 pañales desechables, talla mediana, unisex.\n\nModo de uso:\nElija la talla según el peso del bebé que indica el empaque. Coloque el pañal, ajústelo con las cintas y verifique que quede cómodo en cintura y piernas. Cámbielo con frecuencia y limpie la piel del bebé en cada cambio.\n\nAdvertencias:\nProducto desechable de un solo uso. Tire el pañal usado en la basura y no lo deseche en el inodoro. Mantenga el empaque y los pañales fuera del alcance de los niños pequeños para evitar riesgo de asfixia.",
   "ficha": {
-    "marca": "Absorsec",
-    "presentacion": "Paquete de pañales desechables",
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Absorsec Ultra",
+    "variante": "Mediano",
+    "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
-    "talla": "Mediano"
+    "talla": "Mediano",
+    "genero": "Unisex",
+    "otros": "Núcleo Absorgel; cubiertas respirables; elástico en cintura; con aloe y manzanilla; Formato de venta: bolsa con 40 pañales"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017372737_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501017372737_2.jpg?width=1000&height=1000",
+      "pagina": "https://www.fahorro.com/pa-al-kleenbebe-absorsec-talla-mediano-unisex-40-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1613,
+      "fecha": "2026-09-29",
+      "lado_util": 1494
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pa-al-kleenbebe-absorsec-talla-mediano-unisex-40-pz.html",
+    "https://www.sanborns.com.mx/producto/413952/panal-kleen-bebe-absorsec-mediano-40pz"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). ABSOR MED C/40 se interpretó como Absorsec talla Mediano con 40 piezas y como pañal de bebé (por precio unitario bajo y por otros productos Absorsec del mismo lote); podría ser pañal de adulto (MLM194512) o de otra marca. Verificar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501017372737 confirmado en 2 tiendas (nombre comercial 'Absorsec Ultra Mediano'). Rango de peso no encontrado. Fabricante Kimberly-Clark inferido por la marca KleenBebé (no aparece textual en las fichas).",
+    "notas_imagenes": "1 foto de tienda (frente de la bolsa); otra fuente no pudo descargarse.",
     "fecha": "2026-09-29"
   }
 }

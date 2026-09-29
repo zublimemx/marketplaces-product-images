@@ -4,19 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "ALIN 8MG C 1 AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "Alin 8 mg Solución Inyectable 1 Ampolleta",
-  "descripcion": "Descripción:\nAlin 8 mg es un medicamento inyectable en ampolleta, de aplicación por personal de salud, que pertenece al grupo de los corticoesteroides de uso sistémico. Se presenta en caja con 1 ampolleta y su uso debe ser indicado por un médico.\n\nModo de uso:\nAplicación inyectable por personal de salud, en la dosis, la vía y la frecuencia que indique el médico. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 1 ampolleta de 8 mg.\n\nAdvertencias:\nEs un medicamento inyectable que requiere receta médica y que debe ser aplicado por personal de salud. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si tiene diabetes, hipertensión, infecciones activas, úlcera gástrica, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Alin Dexametasona 8 mg/2 ml Solución Inyectable 1 Ampolleta",
+  "descripcion": "Descripción:\nAlin es un medicamento inyectable de Laboratorios Chinoin cuyo principio activo es la dexametasona (como fosfato sódico), un corticosteroide con acción antiinflamatoria, inmunosupresora y antialérgica. Esta presentación contiene 8 mg de dexametasona en una ampolleta de 2 ml. Se utiliza en trastornos en los que son deseables los efectos antiinflamatorios e inmunosupresores de los corticosteroides, especialmente para el tratamiento intensivo durante periodos cortos.\n\nCaracterísticas:\n- Uso sistémico en enfermedades endocrinas (algunos casos de insuficiencia adrenal y tiroiditis), reumáticas (artritis reumatoide, gotosa y postraumática, osteoartritis, sinovitis, bursitis, espondilitis anquilosante, lupus sistémico), dermatológicas y alérgicas, entre otras.\n- Puede aplicarse por vía intraarticular o intralesional en padecimientos indicados por el médico.\n\nComposición:\nCada ampolleta contiene fosfato sódico de dexametasona equivalente a 8 mg de fosfato de dexametasona. Vehículo cbp 2 ml.\n\nModo de uso:\nInyectable. La aplicación debe ser realizada por personal de salud; la dosis, la vía y la frecuencia las determina el médico.\n\nPresentación:\nCaja con 1 ampolleta de 2 ml de solución inyectable.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe aplicarse en personas con hipersensibilidad a la dexametasona o a alguno de los componentes. Su uso debe ser indicado y vigilado por un médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Alin",
-    "variante": "8 mg",
+    "fabricante": "Laboratorios Chinoin",
+    "linea": "Alin",
+    "variante": "8 mg/2 ml",
     "presentacion": "Solución inyectable en ampolleta",
-    "contenido_neto": 1,
-    "unidad_contenido": "piezas",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "principio_activo": "Dexametasona",
-    "concentracion": "8 mg",
+    "principio_activo": "Dexametasona (fosfato sódico)",
+    "concentracion": "8 mg/2 ml",
     "via_administracion": "Inyectable",
-    "otros": "Formato de venta: Caja con 1 ampolleta"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "185M84 SSA IV",
+    "otros": "Contenido: 1 ampolleta; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088505003_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088505003.jpg",
+      "pagina": "https://sanorim.mx/products/alin-dexametasona-8-mg-2-ml-caja-con-1-ampolleta-inyectable",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1151,
+      "fecha": "2026-09-29",
+      "lado_util": 1066
+    },
+    {
+      "archivo": "7501088505003_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088505003_1.jpg",
+      "pagina": "https://sanorim.mx/products/alin-dexametasona-8-mg-2-ml-caja-con-1-ampolleta-inyectable",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 546,
+      "fecha": "2026-09-29",
+      "lado_util": 506
+    },
+    {
+      "archivo": "7501088505003_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501088505003_1.jpg",
+      "pagina": "https://sanorim.mx/products/alin-dexametasona-8-mg-2-ml-caja-con-1-ampolleta-inyectable",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 696,
+      "fecha": "2026-09-29",
+      "lado_util": 645
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/alin_solucion/36/101/6212/146",
+    "https://sanorim.mx/products/alin-dexametasona-8-mg-2-ml-caja-con-1-ampolleta-inyectable",
+    "https://farmaciasmedina.com/detalleProducto/Alin-2-Ml-Solucion-Ampolleta/7501088505003"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). El principio activo (dexametasona) se tomó de conocimiento general de la marca Alin y no está confirmado; por eso no aparece en el título ni en la descripción. No se confirmó el volumen de la ampolleta (posiblemente 2 ml) ni el fabricante. Requiere receta; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. Registro sanitario tomado de la ficha de una farmacia.",
+    "notas_imagenes": "3 fotos de tienda (farmacias en línea) del empaque Alin 8 mg/2 ml, caja con 1 ampolleta.",
     "fecha": "2026-09-29"
   }
 }

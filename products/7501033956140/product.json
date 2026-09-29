@@ -4,18 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "GLUCERNA 237ML FRESA C24 MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Glucerna Abbott Sabor Fresa 237 ml",
-  "descripcion": "Descripción:\nGlucerna sabor fresa es un suplemento alimenticio líquido de Abbott Nutrición, en botella de 237 ml, de la línea Glucerna diseñada para personas con diabetes. Consulte en la etiqueta el modo de uso, las porciones recomendadas y la información nutrimental.\n\nCaracterísticas:\n- Sabor fresa\n- Presentación líquida lista para beber\n- Contenido: 237 ml\n\nPresentación:\nBotella de 237 ml.\n\nAdvertencias:\n- Consulte a su médico o nutriólogo antes de usarlo, sobre todo si tiene diabetes u otra condición médica.\n- No es apto para uso parenteral (inyección).\n- Manténgase fuera del alcance de los niños.",
+  "titulo": "Glucerna Abbott Fresa Suplemento Líquido 237 ml",
+  "descripcion": "Descripción:\nGlucerna sabor fresa es una fórmula de alimentación especializada de Abbott, lista para tomar, pensada para apoyar nutricionalmente a personas con diabetes y prediabetes. Según la marca, su nueva fórmula tiene un doble mecanismo de acción: inositol, que ayuda a mejorar la sensibilidad a la insulina, y una combinación de macronutrientes con carbohidratos de digestión lenta. La marca indica que ayuda a estabilizar los niveles de glucosa en 4 semanas cuando se usa como parte de un plan de alimentación y estilo de vida.\n\nBeneficios:\n- Carbohidratos de bajo índice glucémico que se digieren lentamente.\n- Con inositol y cromo, que apoyan el procesamiento de la glucosa.\n- 28 vitaminas y minerales, proteínas, fibra, omega 3 y grasas saludables, según el empaque.\n- Sabor fresa, listo para tomar.\n\nModo de uso:\nViene listo para tomar. Consulte a su médico o nutriólogo para conocer la recomendación de uso adecuada para usted.\n\nPresentación:\nBotella de 237 ml sabor fresa.\n\nAdvertencias:\n- Suplemento alimenticio: no es un medicamento ni sustituye el tratamiento médico.\n- Consulte a su médico o nutriólogo antes de incluirlo en su dieta.\n- Manténgalo fuera del alcance de los niños y consérvelo según las indicaciones del envase.",
   "ficha": {
     "marca": "Glucerna",
     "fabricante": "Abbott",
-    "presentacion": "Líquido en botella",
+    "linea": "Glucerna",
+    "variante": "Fresa",
+    "presentacion": "Suplemento líquido listo para tomar",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "edad_etapa": "Adultos",
     "sabor_aroma": "Fresa",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Fórmula para personas con diabetes; 28 vitaminas y minerales; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033956140_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501033956140_1.png?v=1727296071&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/glucerna-sr-fresa-liq-237-ml",
+      "ancho_original": 247,
+      "alto_original": 600,
+      "lado_final": 646,
+      "fecha": "2026-09-29",
+      "lado_util": 598
+    },
+    {
+      "archivo": "7501033956140_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501033956140_1df1243d-f016-4f87-a340-3a47355dead8.jpg?v=1701391514&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/17901",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 963,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    },
+    {
+      "archivo": "7501033956140_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaFre_1.jpg?v=1685158365",
+      "pagina": "https://sanorim.mx/products/glucerna-sabor-fresa-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 504,
+      "fecha": "2026-09-29",
+      "lado_util": 467
+    }
+  ],
+  "url_oficial": "https://glucerna.com.mx/",
+  "fuentes": [
+    "https://glucerna.com.mx/",
+    "https://curitek.com/producto/glucerna-fresa-237-ml/",
+    "https://farmaciaherrera.com.mx/products/glucerna-sr-fresa-liq-237-ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca. El nombre dice C24 (caja de 24) pero el precio parece de una sola botella; se dejó como unidad de 237 ml, verificar. Se ignoró la fecha de caducidad del nombre. Requiere verificar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en varias farmacias (botella de 237 ml sabor fresa). El sitio oficial de Glucerna México describe la marca y la presentación líquida de 237 ml; no se abrió una página específica de este sabor. Las farmacias lo llaman Glucerna SR. Lote y caducidad del nombre del sistema se ignoraron.",
+    "notas_imagenes": "3 fotos de tienda (Farmacia Herrera, Farmacia San Jorge y Sanorim): botella de Glucerna fresa. La foto del sitio oficial devolvió 404.",
     "fecha": "2026-09-29"
   }
 }

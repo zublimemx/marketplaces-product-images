@@ -5,9 +5,10 @@
   "nombre_sistema": "SIES 200MG CAPS C20 HIDROSMINA",
   "nombres_sistema_alternos": [],
   "titulo": "Sies Hidrosmina 200 mg 20 Cápsulas",
-  "descripcion": "Descripción:\nSies es un medicamento en cápsulas cuyo principio activo es la hidrosmina en concentración de 200 mg, en caja con 20 cápsulas. La hidrosmina pertenece al grupo de los medicamentos vasculoprotectores que se emplean en trastornos de la circulación venosa; la dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nComposición:\nHidrosmina 200 mg por cápsula.\n\nModo de uso:\nVía oral. Tome las cápsulas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico.\n\nPresentación:\nCaja con 20 cápsulas de 200 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la hidrosmina o a algún componente de la fórmula. Si está embarazada o en periodo de lactancia, consulte a su médico antes de usarlo. Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nSies es un medicamento en cápsulas cuyo principio activo es la hidrosmina, un flavonoide que actúa sobre los vasos sanguíneos y linfáticos. Se presenta en caja con 20 cápsulas de 200 mg para administración oral y está indicado para el alivio a corto plazo (de dos a tres meses) de los síntomas relacionados con la insuficiencia venosa.\n\nBeneficios:\n- Indicado para aliviar el edema y los síntomas de la insuficiencia venosa crónica, várices y hemorroides\n- También indicado en fragilidad capilar y en hemorragia subconjuntival o retiniana\n- Reduce la permeabilidad y la fragilidad capilar y favorece el flujo linfático, de acuerdo con la información del fabricante\n\nComposición:\nCada cápsula contiene 200 mg de hidrosmina y excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis inicial y habitual es de 1 cápsula de 200 mg cada ocho horas. En brotes agudos de hemorroides se recomienda, según el fabricante, el doble de la dosis habitual. La duración del tratamiento debe indicarla el médico.\n\nPresentación:\nCaja con 20 cápsulas de 200 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la hidrosmina o a cualquier componente de la fórmula. No existen estudios que comprueben su uso en niños. Entre las reacciones que se han observado están dolor epigástrico, náuseas, mareos, dolor de cabeza, erupción y comezón. Consérvese a temperatura ambiente, a no más de 30 °C y en lugar seco. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sies",
+    "fabricante": "Laboratorios Senosiain",
     "presentacion": "Cápsulas",
     "contenido_neto": 20,
     "unidad_contenido": "cápsulas",
@@ -15,29 +16,45 @@
     "principio_activo": "Hidrosmina",
     "concentracion": "200 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: caja con 20 cápsulas; Conservar a no más de 30 °C; Grupo: vasculoprotector"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314703227_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__a9ffcdb0-319e-4aa9-94a7-b9c3e3d1d9de_1200x1200.jpg?v=1744690335",
+      "pagina": "https://wecarepharma.mx/en/products/sies-200mg-con-20-capsulas-hidrosmina",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1237,
+      "fecha": "2026-09-29",
+      "lado_util": 1146
+    }
+  ],
+  "url_oficial": "https://senosiain.mx/sies/",
+  "fuentes": [
+    "https://senosiain.mx/sies/",
+    "https://www.medicamentosplm.com/Home/productos/sies.capsulas/168/101/9779/14",
+    "https://farmaciasmedina.com/detalleProducto/Sies-20-Capsulas-Caja/7501314703227"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (200 mg, 20 cápsulas, hidrosmina); sin fuentes. Se desconoce el fabricante y la clasificación de venta (receta). Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha del fabricante indica que su venta requiere receta médica.",
+    "notas_imagenes": "1 foto de frente de la caja Sies 200 mg con 20 cápsulas (tienda, WeCare Pharma). Se descartó la foto del sitio del fabricante porque muestra un empaque anterior de otra marca comercial (Olix) distinto al actual.",
     "fecha": "2026-09-29"
   }
 }

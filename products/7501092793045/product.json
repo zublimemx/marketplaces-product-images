@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "RIOPAN GEL C 20 SOB 22",
   "nombres_sistema_alternos": [],
-  "titulo": "Riopan Gel Magaldrato 20 Sobres",
-  "descripcion": "Descripción:\nRiopan Gel es un antiácido en gel de sabor agradable cuyo principio activo es el magaldrato. Se usa para el alivio de la acidez estomacal, la agruras y las molestias de la gastritis o el reflujo ocasionales. Se presenta en sobres de dosis individual, prácticos para llevar y tomar en cualquier lugar.\n\nComposición:\nEl principio activo es el magaldrato; consulte la concentración por sobre en el empaque.\n\nModo de uso:\nVía oral. Tome el contenido del sobre directamente, en la dosis y con la frecuencia que indique el empaque o su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 sobres.\n\nAdvertencias:\n- Consulte a su médico antes de usarlo si tiene enfermedad de los riñones.\n- Puede reducir la absorción de otros medicamentos; tómelo con un intervalo de al menos dos horas respecto a ellos.\n- Si los síntomas persisten por más de dos semanas, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Riopan Gel Magaldrato Dimeticona 10 ml 20 Sobres",
+  "descripcion": "Descripción:\nRiopan Gel es un antiácido y antiflatulento en gel de Takeda, de sabor agradable, cuyos principios activos son magaldrato y dimeticona. Se usa para aliviar síntomas de reflujo y gastritis como acidez, flatulencia, ardor, dolor y agruras. Se presenta en sobres de dosis individual de 10 ml, prácticos para llevar y tomar en cualquier lugar.\n\nBeneficios:\n- Efecto buffer: ajusta el pH gástrico a un rango de 3 a 5 sin provocar rebote ácido.\n- Se adhiere a la mucosa del estómago formando una capa protectora.\n- La dimeticona ayuda a aliviar los gases y la distensión.\n- No contiene azúcar ni sodio, según el empaque.\n\nComposición:\nCada 100 ml contienen magaldrato 8 g y dimeticona 1 g (80 mg y 10 mg por ml). Cada sobre de 10 ml aporta 800 mg de magaldrato y 100 mg de dimeticona.\n\nModo de uso:\nVía oral. Tome el contenido del sobre directamente, en la dosis y con la frecuencia que indique el empaque o su médico.\n\nPresentación:\nCaja con 20 sobres de 10 ml.\n\nAdvertencias:\n- Puede reducir la absorción de otros medicamentos; consulte a su médico si toma otros tratamientos.\n- Consulte a su médico antes de usarlo si tiene enfermedad de los riñones.\n- Si los síntomas persisten, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Riopan",
+    "fabricante": "Takeda",
     "variante": "Gel",
-    "presentacion": "Gel oral en sobres",
+    "presentacion": "Gel oral en sobres de 10 ml",
     "contenido_neto": 20,
     "unidad_contenido": "sobres",
     "unidades_por_envase": 20,
-    "principio_activo": "Magaldrato",
+    "principio_activo": "Magaldrato, dimeticona",
+    "concentracion": "Magaldrato 80 mg/ml y dimeticona 10 mg/ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Contenido por sobre: 10 ml; Sin azúcar; Sin sodio; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501092793045_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/Imagenes_de_planograma__1ef7a4d0-e8e7-474d-a5d8-d25116230446__07501092793045_A1L1.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/riopan-gel-80mg-10mg-1ml-sobres-10ml-con-20-magaldrato-dimeticona",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1935,
+      "fecha": "2026-09-29",
+      "lado_util": 1792
+    },
+    {
+      "archivo": "7501092793045_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501092793045.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/riopan-gel-80mg-10mg-1ml-c-20-sobres-10-ml/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 936,
+      "fecha": "2026-09-29",
+      "lado_util": 867
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/riopan.gel/2415/101/9591/66",
+    "https://wecarepharma.mx/en/products/riopan-gel-80mg-10mg-1ml-sobres-10ml-con-20-magaldrato-dimeticona",
+    "https://www.emeritafarmacias.com/producto/riopan-gel-sob-20-10ml-magaldratodime/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (RIOPAN GEL C 20 SOB) y de conocimiento general de la marca. No se declaró concentración ni fabricante por no estar verificados (Riopan Gel suele ser 800 mg de magaldrato por 10 ml; confirmar). El 22 final del nombre se tomó como código interno.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias; caja con 20 sobres de 10 ml. Composición e indicaciones de la información para prescribir (PLM). La dosis exacta no aparece en las fuentes consultadas, por eso se remite al empaque.",
+    "notas_imagenes": "2 fotos de tienda (WeCare Pharma y Grupo Farmapronto), frente de la caja de 20 sobres. Se descartó una foto pequeña con sobres sueltos.",
     "fecha": "2026-09-29"
   }
 }

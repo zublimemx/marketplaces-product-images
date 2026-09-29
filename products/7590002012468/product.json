@@ -34,7 +34,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7590002012468_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7590002012468_1.jpg",
+      "pagina": "https://www.fahorro.com/vick-vaporub-unguento-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1032,
+      "fecha": "2026-09-29",
+      "lado_util": 955
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.klyns.mx/vick-vaporub-ung-50-grs/p",
@@ -46,6 +58,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Modo de uso y precauciones tomados de la monografía PLM (Ecuador) por no encontrar el instructivo mexicano completo en línea; conviene cotejarlos con el empaque. El GTIN tiene prefijo 759 pero corresponde al VapoRub 50 g vendido en México. No se localizó página oficial de Vicks en MX.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s): 1 de fahorro.com (tienda). Se descartaron dos fotos de estilo de vida y un render con vapor."
   }
 }

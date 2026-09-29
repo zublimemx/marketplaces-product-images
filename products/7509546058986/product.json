@@ -4,17 +4,19 @@
   "linea": "Mark",
   "nombre_sistema": "FIJ CAPRICE NAT KIW-LAV SPY 316ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Fijador para Cabello Caprice Natural Kiwi-Lavanda 316 ml",
-  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante Natural con aroma kiwi-lavanda, en presentación de 316 ml. Está pensado para dar fijación y ayudar a mantener el peinado durante el día.\n\nCaracterísticas:\n- Formato spray de fácil aplicación\n- Aroma kiwi-lavanda\n- Envase de 316 ml\n\nModo de uso:\nAgite el envase, sostenga el spray a unos 20 a 30 cm del cabello ya peinado y aplique de manera uniforme. Repita si desea mayor fijación.\n\nPresentación:\nEnvase spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. No lo use sobre la piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "titulo": "Fijador Spray Caprice Naturals Kiwi y Lavanda 316 ml",
+  "descripcion": "Descripción:\nSpray fijador para el cabello Palmolive Caprice Naturals con esencia de kiwi y lavanda, en envase aerosol de 316 ml. Su fórmula brinda hidratación visible al cabello y ayuda a fijar el peinado por más tiempo, con un aroma frutal agradable. Fija el cabello suelto sin dejar sensación pegajosa ni residuos, y se elimina fácilmente con el cepillado. Puede usarse sobre el cabello seco o ligeramente húmedo, y es ideal para toda la familia.\n\nBeneficios:\n- Fijación duradera y flexible que permite un acabado natural\n- Hidratación visible y brillo\n- Aroma a kiwi y lavanda\n- No deja residuos y se retira con el cepillado\n- Control de la fijación según la distancia de aplicación\n\nModo de uso:\nAgite el envase y rocíe de manera uniforme sobre el cabello a la distancia deseada: a 25 cm para fijación extra, a 30 cm para fijación firme, a 35 cm para fijación moderada y a más de 40 cm para fijación ligera. Para definición aplique a 35 cm y acomode el peinado; para movimiento aplique a 40 cm sobre cabello húmedo y peine antes de que se seque; para volumen aplique a 30 cm levantando el cabello desde la raíz hasta la punta.\n\nIngredientes:\nAlcohol, butano, propano, isobutano, copolímero de acrilatos, agua, fragancia (esencia de kiwi y lavanda), aminometil propanol, PEG-12 dimeticona, entre otros.\n\nPresentación:\nEnvase aerosol de 316 ml.\n\nAdvertencias:\nInflamable. No se aplique cerca de los ojos, de flama o sobre piel irritada. No se exponga al calor. No se queme ni se perfore el envase, aun cuando esté vacío. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Caprice",
-    "variante": "Natural",
-    "presentacion": "Spray",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Naturals",
+    "variante": "Kiwi y lavanda",
+    "presentacion": "Aerosol (spray)",
     "contenido_neto": 316,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "sabor_aroma": "Kiwi-Lavanda",
-    "otros": "Tipo: Fijador para el cabello; Formato de venta: Unidad"
+    "sabor_aroma": "Kiwi y lavanda",
+    "otros": "Fijación extra firme; Sin residuos, se elimina con el cepillado; Inflamable"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546058986_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw630477d2/images/large/7509546058986_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/caprice-fijador-kiwi-lavanda-316ml/MXYZ_7509546058986.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1060,
+      "fecha": "2026-09-29",
+      "lado_util": 982
+    },
+    {
+      "archivo": "7509546058986_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd49386ff/images/large/7509546058986_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/caprice-fijador-kiwi-lavanda-316ml/MXYZ_7509546058986.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1041,
+      "fecha": "2026-09-29",
+      "lado_util": 964
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/caprice-fijador-kiwi-lavanda-316ml/MXYZ_7509546058986.html",
+    "https://www.fahorro.com/fijador-caprice-natural-kiwi-lavanda-316-ml-spray.html",
+    "https://wecarepharma.mx/products/fijador-caprice-naturals-kiwi-lavanda-spray-316ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos deducidos del nombre (FIJ = fijador, NAT KIW-LAV = Natural kiwi-lavanda, SPY = spray). Se desconoce el fabricante y el nivel de fijación. Modo de uso y advertencias son generales de fijadores en spray. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso, ingredientes parciales y precauciones leídos de la foto del reverso del envase (la lista de ingredientes está cortada por la curvatura de la lata). Algunas tiendas la describen como fijación extra firme.",
+    "notas_imagenes": "2 fotos de tienda (frente y reverso del envase, 1000x1000).",
     "fecha": "2026-09-29"
   }
 }

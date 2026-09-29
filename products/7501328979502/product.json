@@ -4,19 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "HISTIACIL NF AD JBE 150ML AGOSTO 27 42",
   "nombres_sistema_alternos": [],
-  "titulo": "Histiacil NF Adultos Jarabe 150 ml",
-  "descripcion": "Descripción:\nHistiacil NF es un medicamento en jarabe para adultos, de la línea Histiacil. Esta presentación es un frasco de 150 ml.\n\nPresentación:\nFrasco con 150 ml de jarabe.\n\nAdvertencias:\nConsulte la composición, las indicaciones y la dosis en el empaque. Utilice el dosificador o la medida indicada. Si los síntomas persisten o empeoran, suspenda su uso y consulte al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Histiacil NF Adultos Jarabe para la Tos 150 ml",
+  "descripcion": "Descripción:\nHistiacil NF Adultos es un jarabe antitusivo y mucolítico de la marca Histiacil, con dextrometorfano y ambroxol. Es un auxiliar en el alivio de la tos porque facilita la expulsión de las secreciones de las vías respiratorias, ayudando a descongestionarlas. Tiene sabor caramelo y se presenta en frasco de 150 ml con vaso dosificador.\n\nBeneficios:\n- Reduce la intensidad y la frecuencia de la tos seca y con flemas.\n- Facilita la expulsión de flemas, despejando las vías respiratorias.\n- Ayuda a combatir la tos nocturna para un mejor descanso.\n- Alivio desde el primer día.\n\nFórmula:\nCada 100 ml contienen bromhidrato de dextrometorfano 225 mg y clorhidrato de ambroxol 225 mg. Vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. Adultos y adolescentes mayores de 12 años: 10 ml con el vasito dosificador cada 6 horas. Para uso sin prescripción, la duración máxima del tratamiento es de 5 días; bajo supervisión médica, no debe continuarse por más de 2 o 3 semanas.\n\nPresentación:\nFrasco con 150 ml de jarabe y vaso dosificador.\n\nAdvertencias:\nNo se use durante el embarazo o la lactancia ni en menores de 12 años. No lo utilice en personas alérgicas al dextrometorfano o a los componentes de la fórmula, con asma, úlcera gástrica, insuficiencia respiratoria, enfermedad pulmonar obstructiva crónica, neumonía o depresión respiratoria, ni en tratamiento con tranquilizantes o antidepresivos. Si toma otro medicamento consulte a su médico; presenta interacciones con antidepresivos, antiarrítmicos, antipsicóticos, terbinafina, metadona, cinacalcet y secretolíticos. No tome bebidas alcohólicas durante el tratamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Histiacil",
-    "variante": "NF Adultos",
+    "fabricante": "Sanofi",
+    "linea": "Histiacil NF",
+    "variante": "Adultos",
     "presentacion": "Jarabe",
     "contenido_neto": 150,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Dextrometorfano (bromhidrato); ambroxol (clorhidrato)",
+    "concentracion": "225 mg / 225 mg por cada 100 ml",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "sabor_aroma": "Caramelo",
+    "registro_sanitario": "297M2015 SSA VI",
+    "otros": "Incluye vaso dosificador; Formato de venta: frasco con 150 ml"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457814",
@@ -28,14 +35,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501328979502_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501328979502_1_3.jpg?width=1000&height=1000",
+      "pagina": "https://www.fahorro.com/histiacil-nf-jarabe-tos-adulto-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1578,
+      "fecha": "2026-09-29",
+      "lado_util": 1462
+    }
+  ],
+  "url_oficial": "https://www.histiacil.com.mx/productos/histiacil-nf-adultos",
+  "fuentes": [
+    "https://www.histiacil.com.mx/productos/histiacil-nf-adultos",
+    "https://www.fahorro.com/histiacil-nf-jarabe-tos-adulto-150-ml.html",
+    "https://www.yza.mx/histiacil-nf-jarabe-adulto-150ml/MXYZ_7501328979502.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la fórmula, las indicaciones ni el fabricante; la categoría Respiratorios Venta Libre es tentativa. Descripción mínima.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas; fórmula, dosis y advertencias tomadas del sitio oficial. El nombre del sistema incluye 'AGOSTO 27 42' (caducidad y código, ignorado).",
+    "notas_imagenes": "1 foto de tienda (frente con banda informativa 'Jarabe para tos adulto / 150 mL'). No se encontró foto limpia en el sitio oficial.",
     "fecha": "2026-09-29"
   }
 }

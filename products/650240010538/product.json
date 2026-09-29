@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "NEXT C 10 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Next C Tabletas Caja con 10 Piezas",
-  "descripcion": "Descripción:\nNext C es un producto de la línea Next en presentación de tabletas, en caja con 10 piezas. Consulte en el empaque su fórmula, indicaciones y dosis recomendada.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Next Tabs Antigripal 10 Tabletas",
+  "descripcion": "Descripción:\nNext Tabs es un antigripal en tabletas, auxiliar para el alivio de los síntomas del resfriado común. Combina cafeína, clorfenamina, fenilefrina y paracetamol, con acción analgésica, antipirética y antihistamínica. Se presenta en caja con 10 tabletas.\n\nBeneficios:\n- Auxiliar para aliviar el escurrimiento y la congestión nasal.\n- Ayuda con el cuerpo cortado, el dolor de cabeza y el dolor de garganta.\n- Alivia la fiebre, la nariz tapada, los estornudos y los ojos llorosos.\n- Presentación práctica de 10 tabletas.\n\nComposición:\nCafeína, clorfenamina, fenilefrina y paracetamol. Consulte la cantidad de cada componente en el empaque.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, sin exceder la dosis máxima diaria.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nContiene paracetamol: no lo use junto con otros productos que lo contengan. No lo utilice si es alérgico a alguno de los componentes de la fórmula. En caso de embarazo, lactancia o si toma otros medicamentos, consulte a su médico antes de usarlo. Si los síntomas persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Next",
-    "variante": "Next C",
+    "linea": "Next Tabs",
+    "variante": "Gripa",
     "presentacion": "Tabletas",
     "contenido_neto": 10,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 10,
-    "via_administracion": "Oral"
+    "principio_activo": "Cafeína; clorfenamina; fenilefrina; paracetamol",
+    "via_administracion": "Oral",
+    "otros": "Antigripal para el resfriado común; Formato de venta: caja con 10 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194695",
@@ -27,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240010538_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240010538_1_1.jpg?width=1000&height=1000",
+      "pagina": "https://www.fahorro.com/next-antigripal-10-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1387,
+      "fecha": "2026-09-29",
+      "lado_util": 1285
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.zedelvallarta.com.mx/catalogo/next-tabletas-c-10/",
+    "https://curitek.com/producto/next-tabs-antigripal-10-tabletas/",
+    "https://www.fahorro.com/next-antigripal-10-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea: se agotó el límite de búsquedas web de la sesión (200/200). Solo se dedujo del nombre. No se confirmó la fórmula (podría ser antigripal o vitamina C); la categoría Antigripales es tentativa y la descripción es mínima. Repetir con búsqueda por GTIN.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 650240010538 (EAN 0650240010538) confirmado en 3 tiendas. No se encontró la cantidad en mg de cada activo ni el fabricante; no se inventaron.",
+    "notas_imagenes": "1 foto de tienda; el empaque muestra una etiqueta promocional de termómetro incluido.",
     "fecha": "2026-09-29"
   }
 }

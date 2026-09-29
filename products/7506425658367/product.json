@@ -5,7 +5,7 @@
   "nombre_sistema": "HUGG SUPR UNISEX ET6 + TAS HUM SUPR C80 C/5",
   "nombres_sistema_alternos": [],
   "titulo": "Pañales Huggies Supreme Unisex Etapa 6 + Toallitas Húmedas",
-  "descripcion": "Descripción:\nPaquete de pañales desechables Huggies Supreme Unisex Etapa 6 que se vende junto con toallitas húmedas Huggies Supreme. Huggies Supreme es la línea de pañales de la marca pensada para el cuidado diario del bebé, y las toallitas complementan la limpieza en cada cambio.\n\nCaracterísticas:\n- Pañales desechables Huggies Supreme, versión unisex\n- Etapa 6\n- Incluye toallitas húmedas Huggies Supreme\n\nModo de uso:\nElija la etapa según el peso del bebé indicado en el empaque. Ajuste el pañal a la cintura y a las piernas con las cintas adhesivas y cámbielo con frecuencia. Para las toallitas, limpie la zona con una toallita y deséchela en la basura; no las tire al inodoro.\n\nAdvertencias:\nProductos desechables de un solo uso. No tire los pañales ni las toallitas al inodoro. No deje al bebé sin supervisión durante el cambio. Suspenda el uso de las toallitas si aparece irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nPaquete combinado de pañales desechables Huggies Supreme Unisex Etapa 6 con toallitas húmedas Huggies Supreme. Los pañales Supreme están diseñados para dar protección y comodidad a bebés grandes y activos, con una tecnología de absorción avanzada que ayuda a mantener la piel seca por más tiempo y una cubierta ultrasuave para el cuidado de la piel delicada del bebé.\n\nCaracterísticas:\n- Pañales desechables Huggies Supreme, versión unisex, Etapa 6\n- Absorción avanzada para mantener la piel seca\n- Cubierta ultrasuave\n- Incluye toallitas húmedas Huggies Supreme con apertura fácil y aceite de almendras, que ayuda a mantener la piel del bebé humectada\n\nModo de uso:\nElija la etapa según el peso del bebé indicado en el empaque. Ajuste el pañal a la cintura y a las piernas con las cintas adhesivas y cámbielo con frecuencia. Para limpiar, use una toallita en la zona del pañal y deséchela en la basura.\n\nPresentación:\nPaquete combinado de pañales Etapa 6 unisex y toallitas húmedas Supreme. El nombre del sistema indica toallitas de 80 piezas; confirme la cantidad de pañales y de paquetes en el empaque.\n\nAdvertencias:\nProductos desechables de un solo uso. No tire los pañales ni las toallitas al inodoro. No deje al bebé sin supervisión durante el cambio. Suspenda el uso de las toallitas si aparece irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
@@ -13,7 +13,7 @@
     "variante": "Con toallitas húmedas Supreme",
     "genero": "Unisex",
     "edad_etapa": "Etapa 6",
-    "otros": "Incluye: Toallitas húmedas de 80 piezas (por confirmar); Formato de venta: Paquete combinado"
+    "otros": "Incluye toallitas húmedas Supreme (80 piezas por paquete según el nombre del sistema, por confirmar); Formato de venta: paquete combinado"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,12 +29,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/panal-huggies-etapa-6-supreme-unisex-36-piezas/p",
+    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-2-pack-80-pz.html"
+  ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Del nombre se dedujo pañal Huggies Supreme Unisex Etapa 6 más toallitas Supreme C80; no se pudo interpretar el C/5 final (¿5 paquetes de toallitas? ¿5 pañales?), por eso no se indica el número de pañales ni de paquetes. El fabricante Kimberly-Clark es conocimiento general de la marca. Confirmar contenido real del paquete antes de publicar.",
+    "notas": "No se halló ninguna ficha con este GTIN (ni en tiendas ni en bases de códigos). La descripción sale de fichas del pañal Supreme Etapa 6 y de las toallitas Supreme por separado. No se conoce la cantidad de pañales del paquete; el nombre del sistema dice C80 C/5 sin aclarar. Revisar el empaque físico.",
+    "notas_imagenes": "Sin fotos. No apareció una imagen de este paquete combinado y las fotos del pañal Etapa 6 o de las toallitas por separado no coinciden con la presentación.",
     "fecha": "2026-09-29"
   }
 }

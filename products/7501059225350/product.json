@@ -30,7 +30,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501059225350_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/card_image/360-desktop.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nido-kinder-1",
+      "ancho_original": 954,
+      "alto_original": 708,
+      "lado_final": 568,
+      "fecha": "2026-09-29",
+      "lado_util": 526
+    }
+  ],
   "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nido-kinder-1",
   "fuentes": [
     "https://www.nestlefamilynes.com.mx/producto/nido-kinder-1",
@@ -42,6 +54,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El GTIN corresponde a la versión regular (no deslactosada) de 800 g. La ficha de Nestlé indica consumo de 1 a 2 años y probiótico L. rhamnosus, mientras que las tiendas dicen 1 a 3 años y L. reuteri; la descripción evita fijar la cepa y la edad se dejó como a partir de 1 año. La categoría MLM189058 se tomó de la regla del dueño para leches infantiles.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (fabricante, Nestlé FamilyNes, 954x708 con relleno blanco a 954x954): lata Nido Kinder 1+. Farmalisto bloqueado (202/captcha), Farmacias del Ahorro 403."
   }
 }

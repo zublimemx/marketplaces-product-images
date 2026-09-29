@@ -32,16 +32,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943434622_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd86108f5/images/large/7501943434622_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-chico-40-pzas/MXYZ_7501943434622.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 925,
+      "fecha": "2026-09-29",
+      "lado_util": 857
+    },
+    {
+      "archivo": "7501943434622_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe6062160/images/large/7501943434622_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-chico-40-pzas/MXYZ_7501943434622.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
-    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn"
+    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+    "https://www.yza.mx/kleenbebe-suavelastic-max-chico-40-pzas/MXYZ_7501943434622.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE = KleenBebé Suavelastic; el prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos tomados de la página oficial; las 40 piezas salen del nombre del sistema y no se confirmaron en una fuente.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza. Se descartaron fotos de disenos anteriores."
   }
 }

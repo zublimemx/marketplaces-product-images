@@ -30,7 +30,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546061665_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546061665-1.jpg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-gel-xtreme-intense-85gr",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1045,
+      "fecha": "2026-09-29",
+      "lado_util": 968
+    }
+  ],
   "url_oficial": "https://speedstick.com/es-mx/products/speed-stick-xtreme-intense-gel",
   "fuentes": [
     "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-gel-xtreme-intense-85gr",
@@ -42,6 +54,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Las páginas de las tiendas traen poco detalle; la descripción se basó en el título de la publicación de Amazon México y en la página general de la marca. Fragancia no confirmada.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Del Sol): desodorante Speed Stick Xtreme Intense gel 85 g de frente, 1200 px. La página del fabricante no devolvió imágenes."
   }
 }

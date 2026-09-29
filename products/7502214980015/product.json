@@ -31,7 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214980015_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://tienda.prudence.com.mx/cdn/shop/files/TIENDA_ONLINE_PRU-CLASICO-C3_1500x1500px1_FRENTE.png?v=1751146221",
+      "pagina": "https://tienda.prudence.com.mx/products/clasico-3",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1401,
+      "fecha": "2026-09-29",
+      "lado_util": 1298
+    },
+    {
+      "archivo": "7502214980015_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://tienda.prudence.com.mx/cdn/shop/files/TIENDA_ONLINE_PRU-CLASICO-C3_1500x1500px2_VUELTA.png",
+      "pagina": "https://tienda.prudence.com.mx/products/clasico-3",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1419,
+      "fecha": "2026-09-29",
+      "lado_util": 1314
+    }
+  ],
   "url_oficial": "https://tienda.prudence.com.mx/products/clasico-3",
   "fuentes": [
     "https://tienda.prudence.com.mx/products/clasico-3",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El nombre del sistema incluye un número (526) que se ignoró por ser código interno. El aroma a vainilla viene de la ficha de una cadena de farmacias; la página de Prudence destaca que no huele a látex.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (fabricante, tienda oficial Prudence, 1500x1500): caja Prudence Clásico 3 piezas de frente y en ángulo."
   }
 }

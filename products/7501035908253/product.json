@@ -4,20 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "AC MENNEN 200 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Aceite para Bebé Mennen Baby Magic 200 ml",
-  "descripcion": "Descripción:\nAceite para bebé Mennen Baby Magic en presentación de 200 ml. Es un producto de la marca Mennen, de la línea de cuidado del bebé de Colgate-Palmolive, pensado para el aseo y el cuidado de la piel del bebé. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nPresentación:\nFrasco de 200 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si observa irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "titulo": "Aceite para Bebé Mennen Baby Magic Hipoalergénico 200 ml",
+  "descripcion": "Descripción:\nEl Aceite para Bebés Mennen Baby Magic es un aceite de suave fórmula hipoalergénica creado especialmente para cuidar, limpiar y humectar la piel delicada del bebé. Su textura ligera se extiende con facilidad y lo hace ideal para dar masajes después del baño. La etiqueta lo presenta como recomendado por la Sociedad Mexicana de Pediatría, A.C. Se presenta en frasco de 200 ml.\n\nBeneficios:\n- Cuida, limpia y humecta la piel del bebé.\n- Fórmula suave e hipoalergénica.\n- Ideal para dar un relajante masaje al bebé.\n- Frasco práctico de 200 ml con tapa de rosca.\n\nIngredientes:\nMineral Oil, Parfum.\n\nModo de uso:\nAplique la cantidad necesaria para dejar una ligera capa sobre todo el cuerpo del bebé después del baño y dé un suave masaje.\n\nPresentación:\nFrasco con 200 ml.\n\nAdvertencias:\nManténgase fuera del alcance de los niños. No aplicar sobre piel irritada o lastimada. Suspenda su uso si se presenta irritación, enrojecimiento o alguna molestia. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua.",
   "ficha": {
     "marca": "Mennen",
     "fabricante": "Colgate-Palmolive",
     "linea": "Baby Magic",
-    "variante": "Aceite para bebé",
+    "variante": "Aceite para bebé hipoalergénico",
     "presentacion": "Frasco",
     "contenido_neto": 200,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
     "genero": "Unisex",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Hipoalergénico; Ingredientes: Mineral Oil, Parfum; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908253_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501035908253-01.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/aceite-menen-para-bebe-baby-magic-200-ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1186,
+      "fecha": "2026-09-29",
+      "lado_util": 1099
+    },
+    {
+      "archivo": "7501035908253_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501035908253-02.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/aceite-menen-para-bebe-baby-magic-200-ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1190,
+      "fecha": "2026-09-29",
+      "lado_util": 1102
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/aceite-menen-para-bebe-baby-magic-200-ml",
+    "https://www.fahorro.com/mennen-aceite-hipoalergenico-200-ml.html",
+    "https://farmalisto.com.mx/bebes/1678-comprar-baby-magic-mennen-aceite-para-bebes-frasco-con-200-ml-cuidados-bebe-precio-7501035908253.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Se interpretó AC como aceite y la marca como Mennen Baby Magic (Colgate-Palmolive), sin confirmarlo; podría ser otro producto Mennen (p. ej. acondicionador). Los tres tamaños (50, 100 y 200 ml) tienen GTIN consecutivos. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Uso, precauciones e ingredientes tomados de la etiqueta publicada en la ficha de una tienda. Fabricante Colgate-Palmolive según la marca (no aparece en las fichas abiertas).",
+    "notas_imagenes": "2 fotos (tienda: DelSol): frente del frasco y reverso con código de barras. Se descartaron una foto de la tienda con banner promocional, una foto pequeña de fondo gris y el arte plano de la etiqueta.",
     "fecha": "2026-09-29"
   }
 }

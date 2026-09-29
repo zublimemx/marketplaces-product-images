@@ -31,7 +31,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501328980119_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501328980119_1_2.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "pagina": "https://www.farmaciasespecializadas.com/enterogermina-20-amp-c-5-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 871,
+      "fecha": "2026-09-29",
+      "lado_util": 807
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.klyns.mx/enterogermina-c-20-amps/p",
@@ -43,6 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas (Sanofi, 20 ampolletas de 5 ml). El 36 al final del nombre del sistema se ignoró. Las indicaciones y la duración de 10 días salen de la ficha de una farmacia; la forma de dilución y las advertencias son generales y conviene confirmarlas con el empaque. La equivalencia 2 x 10^9 UFC es la habitual del producto, no viene de la ficha leída.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Especializadas): caja Enterogermina 2 billones c/20 ampolletas de frente, 1000 px. Se descartó una imagen de solo logotipo."
   }
 }

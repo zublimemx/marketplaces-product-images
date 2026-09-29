@@ -33,7 +33,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408556_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300408556_1_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dorixina-relax-125-5mg-com-caj-c-20.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 865,
+      "fecha": "2026-09-29",
+      "lado_util": 801
+    },
+    {
+      "archivo": "7501300408556_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300408556_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dorixina-relax-125-5mg-com-caj-c-20.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 861,
+      "fecha": "2026-09-29",
+      "lado_util": 798
+    },
+    {
+      "archivo": "7501300408556_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300408556_3.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dorixina-relax-125-5mg-com-caj-c-20.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 799
+    },
+    {
+      "archivo": "7501300408556_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300408556_4_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/dorixina-relax-125-5mg-com-caj-c-20.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/analgesicos/5925-dorixina-relax-125-5mg-caja-con-20-comprimidos-7501300408556.html",
@@ -44,6 +89,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación confirmados (125/5 mg, 20 comprimidos). La ficha de Farmalisto escribe la concentración como 12.5/5, pero el nombre comercial y otras farmacias indican 125 mg/5 mg; se usó 125/5. Requiere receta según esa ficha. Registro sanitario tomado de esa misma página.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7501300408556_1.jpg, 7501300408556_2.jpg, 7501300408556_3.jpg, 7501300408556_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

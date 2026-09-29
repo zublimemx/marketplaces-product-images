@@ -33,7 +33,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318612655_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501318612655.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/aspirina-protec-100-mg-c-28-tabletas-2/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "fecha": "2026-09-29",
+      "lado_util": 1082
+    },
+    {
+      "archivo": "7501318612655_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318612655_2.jpg",
+      "pagina": "https://www.fahorro.com/aspirina-protect-100-mg-con-28-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1617,
+      "fecha": "2026-09-29",
+      "lado_util": 1498
+    },
+    {
+      "archivo": "7501318612655_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318612655_3.jpg",
+      "pagina": "https://www.fahorro.com/aspirina-protect-100-mg-con-28-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1612,
+      "fecha": "2026-09-29",
+      "lado_util": 1493
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/aspirina_protect_tabletas/22/101/6401/210",
@@ -45,6 +79,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Corregido: PLM México indica que su venta requiere receta médica (Actuamed también la clasifica como con receta). Categoría venta libre asignada por instrucción del dueño; la equivalente con receta es MLM457825. Bayer México no tiene página pública del producto localizada.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 1 de grupofarmapronto.com (tienda), 2 de fahorro.com (tienda). Se descarto una foto con insignias \"28 Tabletas/100 mg\" y un duplicado."
   }
 }

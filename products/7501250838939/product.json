@@ -4,15 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "VASCULFLOW 250/225/25MG C30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Vasculflow 250 mg/225 mg/25 mg 30 Tabletas",
-  "descripcion": "Descripción:\nVasculflow en presentación de caja con 30 tabletas, con una concentración de 250/225/25 mg. Producto de la línea de farmacia; consulte en el empaque la composición, las indicaciones y la dosis.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Vasculflow Dobesilato Diosmina Hesperidina 30 Tabletas",
+  "descripcion": "Descripción:\nVasculflow es un medicamento de Teva en tabletas que combina dobesilato de calcio (250 mg), diosmina (225 mg) y hesperidina (25 mg). Se presenta para el manejo de trastornos venosos y linfáticos, en particular la insuficiencia venosa crónica con síntomas como pesadez, dolor y edema en las piernas, y también en casos de hemorroides. Su uso debe ser indicado y supervisado por un médico.\n\nCaracterísticas:\n- Tres principios activos: dobesilato de calcio, diosmina e hesperidina.\n- La diosmina se presenta como fracción flavonoica purificada micronizada.\n- Presentación de 30 tabletas.\n\nComposición:\nCada tableta contiene dobesilato de calcio monohidratado 250 mg, fracción flavonoica purificada micronizada equivalente a 225 mg de diosmina y hesperidina 25 mg.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y durante el tiempo que le indique su médico.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Consulte a su médico si está embarazada o en periodo de lactancia.\n- Informe a su médico si tiene trastornos de la coagulación o si toma otros medicamentos.\n- Si los síntomas persisten o empeoran, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Vasculflow",
+    "fabricante": "Teva",
     "presentacion": "Tabletas",
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "concentracion": "250/225/25 mg",
+    "principio_activo": "Dobesilato de calcio, diosmina, hesperidina",
+    "concentracion": "250 mg / 225 mg / 25 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
     "otros": "Formato de venta: Unidad"
   },
   "receta_mx": "Revisar",
@@ -27,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501250838939_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw135d56b4/images/large/7501250838939_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/vasculflow-250mg225mg25mg-30-tabs/MXYZ_7501250838939.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 870,
+      "fecha": "2026-09-29",
+      "lado_util": 806
+    },
+    {
+      "archivo": "7501250838939_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__02fd7d65-3eb6-4a94-9733-c1a4a61bdb4a.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/vasculflow-250mg-225mg-25mg-con-30-tabletas-bobesilato-de-calcio-diosmina-hesperidina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/vasculflow-250mg225mg25mg-30-tabs/MXYZ_7501250838939.html",
+    "https://wecarepharma.mx/en/products/vasculflow-250mg-225mg-25mg-con-30-tabletas-bobesilato-de-calcio-diosmina-hesperidina",
+    "https://curitek.com/producto/vasculflow-250-mg-225-mg-25-mg-30-tabletas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. La categoría Cardiovasculares es una suposición por el nombre (Vascul...); se desconocen los principios activos de la combinación 250/225/25 mg. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (250/225/25 mg, 30 tabletas). La composición sale de la ficha de YZA; las indicaciones, de una ficha de farmacia (no se abrió la del fabricante). La condición de venta no quedó clara (una farmacia pide receta): revisar.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias YZA y WeCare Pharma), frente de la caja. Se descartó una foto de Curitek por traer marca de agua.",
     "fecha": "2026-09-29"
   }
 }

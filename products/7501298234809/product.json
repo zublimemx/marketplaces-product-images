@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "EUTIROX 25MCG T50 AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Eutirox Levotiroxina 25 mcg 50 Tabletas",
-  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Esta presentación contiene 50 tabletas de 25 mcg, la concentración más baja de la línea, que permite ajustes graduales de dosis bajo supervisión médica.\n\nBeneficios:\n- Repone la hormona tiroidea cuando la glándula tiroides no produce la cantidad necesaria (hipotiroidismo).\n- Puede indicarse en otras alteraciones de la tiroides, según determine su médico.\n\nComposición:\nCada tableta contiene levotiroxina sódica 25 mcg.\n\nModo de uso:\nPor vía oral, en una sola toma al día, en ayunas y de preferencia media hora antes del desayuno, con un poco de agua. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 50 tabletas de 25 mcg.\n\nAdvertencias:\nNo suspenda ni modifique la dosis sin indicación médica. Informe a su médico si tiene problemas del corazón, está embarazada o en lactancia, o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Eutirox Levotiroxina Sódica 25 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética equivalente a la tiroxina que produce de forma natural la glándula tiroides. Esta presentación contiene 50 tabletas de 25 mcg, la concentración más baja de la línea Eutirox, pensada para iniciar el tratamiento y ajustar la dosis de manera gradual bajo supervisión médica.\n\nBeneficios:\n- Terapia de reemplazo hormonal en el hipotiroidismo, congénito o adquirido, ya sea primario, secundario o terciario.\n- Se emplea en el tratamiento y la prevención de ciertos tipos de bocio y como auxiliar en el manejo del cáncer de tiroides bien diferenciado, cuando el médico lo indique.\n- Ayuda a restablecer los niveles normales de hormonas tiroideas, indispensables para el metabolismo del organismo.\n\nComposición:\nCada tableta contiene levotiroxina sódica 25 mcg.\n\nModo de uso:\nVía oral, en una sola toma al día, en ayunas y de preferencia media hora antes del desayuno, con un poco de agua. La dosis y la duración del tratamiento las determina el médico; no suspenda ni modifique la dosis sin indicación médica.\n\nPresentación:\nCaja con 50 tabletas de 25 mcg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la levotiroxina o a algún componente de la fórmula, ni en caso de infarto agudo de miocardio, tirotoxicosis no tratada o insuficiencia suprarrenal no tratada. Informe a su médico si padece enfermedades del corazón o diabetes, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Eutirox",
     "fabricante": "Merck",
@@ -16,7 +16,8 @@
     "principio_activo": "Levotiroxina sódica",
     "concentracion": "25 mcg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "otros": "Venta con receta médica; Grupo terapéutico: Hormona tiroidea; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298234809_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298234809_1.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-25-mcg-oral-50-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1132,
+      "fecha": "2026-09-29",
+      "lado_util": 1044
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Medicamentos_de_patente/1521-eutirox-25-mcg-con-50-tabletas.html",
+    "https://www.fahorro.com/eutirox-25-mcg-oral-50-tabletas.html",
+    "https://curitek.com/producto/eutirox-25-mcg-50-tabs/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Eutirox 25 mcg; no verificados contra el GTIN ni la ficha oficial. Medicamento con receta; según el dueño se publica como venta libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas de farmacia (SKU y nombre de imagen). Indicaciones tomadas de ficha de farmacia; la etiqueta solo se vio por el frente.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias del Ahorro), correcta en concentración y contenido.",
     "fecha": "2026-09-29"
   }
 }

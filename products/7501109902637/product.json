@@ -35,7 +35,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501109902637_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmalisto.com.mx/96076-large_default/motrin-pediatrico-40-mg-1-ml-caja-con-frasco-con-15-ml-sabor-fresa-frambuesa.jpg",
+      "pagina": "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3764-motrin-pediatrico-40-mg-1-ml-caja-con-frasco-con-15-ml-sabor-fresa-frambuesa-7501109902637.html",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 759,
+      "fecha": "2026-09-29",
+      "lado_util": 703
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3764-motrin-pediatrico-40-mg-1-ml-caja-con-frasco-con-15-ml-sabor-fresa-frambuesa-7501109902637.html",
@@ -46,6 +58,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (frasco de 15 ml, sabor fresa-frambuesa; la página de farmalisto lo marca como de libre venta). El registro sanitario viene de esa página, cuya vigencia mostrada vencía en 2021: verificar el vigente. La edad de 6 a 24 meses sale del título de otra ficha (curitek) y no se leyó en el empaque. El fabricante puede figurar hoy como Kenvue en lugar de Janssen.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmalisto): caja Motrin Pediátrico gotas 15 ml de frente, 1300 px. Se descartó una vista lateral con código de barras."
   }
 }

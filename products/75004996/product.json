@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "ESPAVEN PED GTS 138",
   "nombres_sistema_alternos": [],
-  "titulo": "Espaven Pediátrico Gotas Orales",
-  "descripcion": "Descripción:\nEspaven Pediátrico en gotas es un medicamento de la marca Espaven, de administración oral, pensado para uso en niños y presentado en frasco con gotero. La información del contenido y de la composición debe confirmarse con el empaque antes de publicar.\n\nPresentación:\nFrasco con gotas orales pediátricas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Espaven Pediátrico Dimeticona Gotas 100 mg/ml 30 ml",
+  "descripcion": "Descripción:\nEspaven Pediátrico es un medicamento antiflatulento en suspensión oral en gotas, con dimeticona como principio activo, pensado para lactantes y niños. Se presenta en frasco con gotero de 30 ml, lo que permite dosificar por número de gotas según la edad. Su acción es local en el tubo digestivo: ayuda a que las burbujas de gas se junten y se eliminen con mayor facilidad.\n\nBeneficios:\n- Antiflatulento indicado en la prevención y el tratamiento de la dispepsia transitoria del lactante ocasionada por aerofagia.\n- Útil en flatulencias, meteorismo y distensión abdominal infantil.\n- Presentación en gotas para dosificar de acuerdo con la edad.\n- Medicamento de venta sin receta.\n\nComposición:\n- Dimeticona 100 mg por ml de suspensión\n- Excipiente cbp 1 ml\n\nModo de uso:\nVía oral. La dosis pediátrica depende de la severidad de los síntomas:\n- Menores de 2 años: de 5 a 6 gotas, de 4 a 8 veces al día, antes de cada toma de leche o biberón, sin pasar de 10 dosis al día.\n- Niños de 2 a 12 años: de 10 a 15 gotas antes de cada alimento y al acostarse, sin exceder de 5 dosis al día.\n\nPresentación:\nFrasco gotero con 30 ml de suspensión oral en gotas.\n\nAdvertencias:\nSi los síntomas persisten o empeoran, suspenda su uso y acuda con su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Espaven",
+    "fabricante": "Bausch & Lomb México",
     "linea": "Pediátrico",
-    "presentacion": "Gotas orales",
+    "presentacion": "Suspensión oral en gotas",
+    "contenido_neto": 30,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dimeticona",
+    "concentracion": "100 mg/ml",
     "via_administracion": "Oral",
-    "edad_etapa": "Pediátrico"
+    "edad_etapa": "Lactantes y niños",
+    "otros": "Formato: frasco con gotero; Condición de venta: sin receta"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -25,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75004996_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75004996_1.jpg",
+      "pagina": "https://www.fahorro.com/espaven-pediatrico-100-mg-gotas-30-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1707,
+      "fecha": "2026-09-29",
+      "lado_util": 1580
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/espaven-suspension-pediatrica-30ml/MXYZ_75004996.html",
+    "https://www.fahorro.com/espaven-pediatrico-100-mg-gotas-30-ml.html",
+    "https://farmaciasmedina.com/detalleProducto/Espaven-Pediatrica/75004996"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El GTIN es un EAN-8 (75004996). Por conocimiento general Espaven Pediátrico sería un antiflatulento a base de simeticona (por eso la categoría de digestivos), pero no se confirmó principio activo, concentración, volumen (probablemente 30 ml) ni fabricante. Los números al final del nombre del sistema parecen existencias, no contenido. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tres tiendas (30 ml). La concentración de 100 mg por ml se deduce de la ficha (100 mg gotas) y de la dosificación por gotas; fabricante según una ficha de farmacia (la caja fotografiada dice Valeant; revisar). Una tienda lista indicaciones de otro Espaven (enzimático) que no se usaron.",
+    "notas_imagenes": "1 foto de frente (tienda, imagen distribuida con el empaque anterior Valeant). No se encontraron más vistas.",
     "fecha": "2026-09-29"
   }
 }

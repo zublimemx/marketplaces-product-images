@@ -34,7 +34,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008495339_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501008495339.png",
+      "pagina": "https://grupofarmapronto.com/producto/tabcin-500mg-c-60-tabletas-efervescentes/",
+      "ancho_original": 779,
+      "alto_original": 665,
+      "lado_final": 676,
+      "fecha": "2026-09-29",
+      "lado_util": 624
+    }
+  ],
   "url_oficial": "https://www.tabcin.com.mx/medicamentos-para-el-resfriado/tabcin-500",
   "fuentes": [
     "https://www.tabcin.com.mx/medicamentos-para-el-resfriado/tabcin-500",
@@ -46,6 +58,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Los números finales del nombre del sistema (60 36) se interpretaron como 60 tabletas y un código interno. Un sitio de farmacia lo etiqueta como receta (fracción IV), pero otras fuentes lo marcan como venta libre (OTC); se tomó como venta libre. El sabor no se especifica en las fuentes.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmapronto, PNG original 779x665 con relleno blanco a 779x779): caja Tabcin 500 con 60 tabletas. La página oficial tabcin.com.mx dio 403."
   }
 }

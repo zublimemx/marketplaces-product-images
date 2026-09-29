@@ -5,11 +5,10 @@
   "nombre_sistema": "EUTIROX 75 C 50 TABS",
   "nombres_sistema_alternos": [],
   "titulo": "Eutirox Levotiroxina Sódica 75 mcg 50 Tabletas",
-  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética, en tabletas de 75 mcg. Se utiliza, bajo indicación médica, en el tratamiento de alteraciones de la glándula tiroides como el hipotiroidismo.\n\nPresentación:\nCaja con 50 tabletas de 75 mcg.\n\nModo de uso:\nVía oral. Generalmente se toma en una sola toma al día, en ayunas y con un poco de agua, o como indique el médico. La dosis la determina el médico y no debe modificarse sin su indicación.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la levotiroxina o a algún componente de la fórmula. Informe a su médico si tiene problemas del corazón, está embarazada o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nEutirox, de Merck, es un medicamento en tabletas cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Se presenta en caja con 50 tabletas de 75 mcg para administración oral y se utiliza como tratamiento de sustitución cuando la glándula tiroides no produce suficiente hormona.\n\nBeneficios:\n- Indicado en el tratamiento del hipotiroidismo\n- Se utiliza también en el bocio, solo o combinado con otros medicamentos, y en la prevención del bocio posoperatorio\n- Puede emplearse como tratamiento complementario en ciertos tipos de cáncer de tiroides\n- Ayuda a regular el metabolismo y el crecimiento\n\nComposición:\nCada tableta contiene 75 mcg de levotiroxina sódica. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis se ajusta de forma individual y debe ser indicada por el médico, con seguimiento periódico de los niveles hormonales.\n\nPresentación:\nCaja con 50 tabletas de 75 mcg.\n\nAdvertencias:\nNo lo use si es alérgico a la levotiroxina o a algún excipiente, ni en hipertiroidismo no tratado o insuficiencia suprarrenal no controlada. Úselo con precaución en enfermedades del corazón, hipertensión, diabetes o problemas de coagulación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Eutirox",
     "fabricante": "Merck",
-    "variante": "75 mcg",
     "presentacion": "Tabletas",
     "contenido_neto": 50,
     "unidad_contenido": "tabletas",
@@ -17,8 +16,7 @@
     "principio_activo": "Levotiroxina sódica",
     "concentracion": "75 mcg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: caja con 50 tabletas"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -32,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298234700_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe528dbbd/images/large/7501298234700_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501298234700.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 860,
+      "fecha": "2026-09-29",
+      "lado_util": 797
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/eutirox-75mcg-con-50-tabletas-levotiroxina-sodica",
+    "https://www.chedraui.com.mx/tabletas-eutirox-75mcg-caja-con-50-tabletas-3029731/p",
+    "https://www.benavides.com.mx/eutirox-75-mcg-levotiroxina-sodica-50-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Eutirox = levotiroxina sódica de Merck, de conocimiento general; el prefijo de GTIN 7501298 lo comparten productos Merck del sistema). La unidad de 75 se interpretó como mcg (así se manejan sus dosis) y no se cotejó con el empaque. Descripción general no cotejada con la ficha oficial; verificar antes de publicar. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las indicaciones y precauciones salen de una ficha de distribuidor, no del prospecto oficial. La condición de receta se asume por ser levotiroxina.",
+    "notas_imagenes": "1 foto de frente de la caja de 50 tabletas de 75 mcg (tienda).",
     "fecha": "2026-09-29"
   }
 }

@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "INHIBITRON TWIT 20 1100MG CAPS 30N",
   "nombres_sistema_alternos": [],
-  "titulo": "Inhibitron Twist Omeprazol 20 mg Bicarbonato 30 Cápsulas",
-  "descripcion": "Descripción:\nInhibitron Twist es un medicamento en cápsulas que combina omeprazol de 20 mg con bicarbonato de sodio de 1,100 mg, en presentación de 30 cápsulas. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\n- Omeprazol 20 mg\n- Bicarbonato de sodio 1,100 mg\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nContiene sodio; consulte a su médico si sigue una dieta baja en sodio o tiene algún padecimiento del corazón o de los riñones. No lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Inhibitron Twit Omeprazol Bicarbonato 20 mg/1100 mg 30 Cáps",
+  "descripcion": "Descripción:\nInhibitron Twit es un medicamento de Laboratorios Liomont que combina omeprazol y bicarbonato de sodio en una misma cápsula. El omeprazol reduce la producción de ácido en el estómago y el bicarbonato de sodio lo neutraliza. Esta presentación contiene 30 cápsulas.\n\nBeneficios:\n- Indicado para la acidez estomacal, las agruras y la sensación de vacío provocadas por la producción excesiva de ácido.\n- Se indica también en molestias asociadas con gastritis y reflujo.\n- Una sola cápsula al día.\n\nComposición:\nCada cápsula contiene omeprazol 20 mg y bicarbonato de sodio 1100 mg.\n\nModo de uso:\nVía oral. Tome una cápsula una vez al día, una hora antes de ingerir el primer alimento del día. Si las molestias persisten por más de 14 días, consulte a su médico.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. No se administre a menores de 18 años. No lo tome si es alérgico a alguno de los componentes, con atazanavir, con claritromicina en caso de insuficiencia hepática, ni si tiene alteraciones del calcio. Consulte a su médico si toma anticoagulantes, ketoconazol, itraconazol, digoxina, tacrolimus, furazolidona, diazepam o fenitoína. Puede causar dolor de cabeza, diarrea, estreñimiento, dolor abdominal, náusea, vómito o flatulencia. Conservar a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Inhibitron",
-    "linea": "Twist",
-    "variante": "Twist 20 mg/1,100 mg",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Twit",
+    "variante": "20 mg/1100 mg",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
     "principio_activo": "Omeprazol y bicarbonato de sodio",
-    "concentracion": "20 mg/1,100 mg",
+    "concentracion": "20 mg/1100 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "144M2015 SSA VI",
+    "otros": "Grupo terapéutico: Antiácido e inhibidor de bomba de protones; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
@@ -31,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299305751_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw219d3add/images/large/7501299305751_1.jpg",
+      "pagina": "https://www.yza.mx/inhibitron-twit-20mg1100mg-30-caps/MXYZ_7501299305751.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1043,
+      "fecha": "2026-09-29",
+      "lado_util": 966
+    },
+    {
+      "archivo": "7501299305751_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw475e0b1c/images/large/7501299305751_2.jpg",
+      "pagina": "https://www.yza.mx/inhibitron-twit-20mg1100mg-30-caps/MXYZ_7501299305751.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1032,
+      "fecha": "2026-09-29",
+      "lado_util": 955
+    },
+    {
+      "archivo": "7501299305751_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw77a918ef/images/large/7501299305751_4.jpg",
+      "pagina": "https://www.yza.mx/inhibitron-twit-20mg1100mg-30-caps/MXYZ_7501299305751.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1031,
+      "fecha": "2026-09-29",
+      "lado_util": 955
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/inhibitron-twit-20mg1100mg-30-caps/MXYZ_7501299305751.html",
+    "https://www.fahorro.com/inhibitron-twit-20-mg-oral-30-caps.html",
+    "https://wecarepharma.mx/en/products/inhibitron-twit-20mg-1100mg-con-30-capsulas-omeprazol-bicarbonato-de-sodio"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). La composición (omeprazol 20 mg + bicarbonato de sodio 1,100 mg) se dedujo de la abreviatura TWIT 20 1100MG y de conocimiento previo; no se confirmó. Si resulta con receta, usar MLM457828 (Digestivos con Receta). Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre correcto es Inhibitron Twit (el borrador decía Twist). Datos del reverso de la caja: registro SSA VI (venta libre), por eso receta No.",
+    "notas_imagenes": "3 fotos (tienda: Farmacias YZA): frente, frente en ángulo y reverso con indicaciones. Se descartó una repetida.",
     "fecha": "2026-09-29"
   }
 }

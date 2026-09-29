@@ -5,10 +5,12 @@
   "nombre_sistema": "BACTRIM SUSP 200 40MG 100ML AGOSTO 27 70",
   "nombres_sistema_alternos": [],
   "titulo": "Bactrim Suspensión Sulfametoxazol Trimetoprima 100 ml",
-  "descripcion": "Descripción:\nBactrim Suspensión es un antibiótico de uso oral que combina sulfametoxazol y trimetoprima en una concentración de 200 mg y 40 mg, respectivamente, por cada 5 ml de suspensión. Se presenta en frasco de 100 ml y su indicación y dosis las determina el médico según el tipo de infección y el peso o la edad del paciente.\n\nPresentación:\nFrasco con 100 ml de suspensión oral.\n\nModo de uso:\nVía oral. Agite bien el frasco antes de cada toma y use el dosificador del empaque. Complete el tratamiento indicado por el médico aunque los síntomas mejoren.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No se automedique: el uso incorrecto de los antibióticos favorece la resistencia bacteriana. No lo use si es alérgico a las sulfonamidas o a la trimetoprima. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nBactrim Suspensión es un antibiótico de uso oral que combina sulfametoxazol y trimetoprima. Cada 5 ml de suspensión contienen 200 mg de sulfametoxazol y 40 mg de trimetoprima. Se utiliza bajo indicación médica en infecciones bacterianas causadas por microorganismos sensibles, entre ellas infecciones de las vías urinarias, infecciones respiratorias, otitis media y algunas infecciones gastrointestinales.\n\nBeneficios:\n- La combinación de sulfametoxazol y trimetoprima actúa de forma sinérgica: inhibe en dos pasos la síntesis de ácido fólico de las bacterias.\n- Presentación en suspensión con medida dosificadora, adecuada para dosificar según la edad o el peso del paciente.\n\nComposición:\nCada 5 ml de suspensión contienen sulfametoxazol 200 mg y trimetoprima 40 mg. Contiene excipientes como sorbitol y glicerina, con sabor a fresa.\n\nModo de uso:\nVía oral. Agite bien el frasco antes de usar y utilice la medida dosificadora. La dosis, la frecuencia y la duración del tratamiento las determina el médico según la infección y el peso o la edad del paciente; complete el tratamiento indicado.\n\nPresentación:\nCaja con frasco de 100 ml de suspensión oral y medida dosificadora.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No debe usarse en caso de hipersensibilidad a las sulfonamidas o a alguno de los componentes, ni en insuficiencia renal grave. No se recomienda durante el embarazo, sobre todo en el primer trimestre, ni durante la lactancia, salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Bactrim",
-    "variante": "Suspensión 200/40 mg por 5 ml",
+    "fabricante": "Weser Pharma",
+    "linea": "Bactrim",
+    "variante": "Suspensión 200 mg/40 mg por 5 ml",
     "presentacion": "Suspensión oral",
     "contenido_neto": 100,
     "unidad_contenido": "ml",
@@ -16,7 +18,8 @@
     "principio_activo": "Sulfametoxazol y trimetoprima",
     "concentracion": "200 mg/40 mg por 5 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Niños y adultos",
+    "otros": "Incluye medida dosificadora; Sabor a fresa; Formato de venta: Caja con frasco"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300450227_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300450227_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/bactrim-200-40mg-5ml-sus-100-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 570,
+      "fecha": "2026-09-29",
+      "lado_util": 526
+    },
+    {
+      "archivo": "7501300450227_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501300450227.png?v=1744663354",
+      "pagina": "https://www.farmaciasespecializadas.com/bactrim-200-40mg-5ml-sus-100-ml.html",
+      "ancho_original": 1079,
+      "alto_original": 1406,
+      "lado_final": 1387,
+      "fecha": "2026-09-29",
+      "lado_util": 1287
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/bactrim-suspension-200mg-40mg-5ml-100ml-sulfametoxazol-trimetoprima",
+    "https://www.farmaciasespecializadas.com/bactrim-200-40mg-5ml-sus-100-ml.html",
+    "https://www.klyns.mx/bactrim-susp-200-40-mg-c-100-ml/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Bactrim = sulfametoxazol/trimetoprima; la suspensión de 200/40 mg por 5 ml y 100 ml es la presentación habitual, de conocimiento general). El fabricante no se confirmó (el prefijo 7501300 lo comparten productos de Siegfried Rhein en el sistema). 'AGOSTO 27' y '70' del nombre se ignoraron como caducidad y código. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tres farmacias. Una farmacia lista al laboratorio Roche y el empaque muestra Weser Pharma; se usó Weser Pharma.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) de la caja de 100 ml. Se descartó una tercera con marca de agua de la tienda.",
     "fecha": "2026-09-29"
   }
 }

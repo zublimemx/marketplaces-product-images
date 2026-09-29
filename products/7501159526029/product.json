@@ -15,7 +15,9 @@
     "principio_activo": "Guayacol",
     "concentracion": "100 mg/ml",
     "via_administracion": "Inyectable",
-    "otros": "Volumen por ampolleta: 1 ml; Formato de venta: Unidad"
+    "otros": "Volumen por ampolleta: 1 ml; Formato de venta: Unidad; Hecho en México por Sanofi Aventis de México para Dinafarma; distribuido por Laboratorios Sanfer",
+    "fabricante": "Laboratorios Sanfer",
+    "registro_sanitario": "419M2001 SSA IV"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -29,17 +31,55 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501159526029_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1545,
+      "fecha": "2026-09-29",
+      "lado_util": 1431
+    },
+    {
+      "archivo": "7501159526029_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1081,
+      "fecha": "2026-09-29",
+      "lado_util": 1001
+    },
+    {
+      "archivo": "7501159526029_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1283,
+      "fecha": "2026-09-29",
+      "lado_util": 1188
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasanisidro.mx/producto/eucaliptine-1ml-amp-c-10/",
-    "https://mexipharmacy.mx/esp/item/549/71/eucaliptine-guayacol-100mg-1ml-10-amps"
+    "https://mexipharmacy.mx/esp/item/549/71/eucaliptine-guayacol-100mg-1ml-10-amps",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501159526029_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (10 ampolletas de 1 ml, guayacol 100 mg). Las fichas consultadas no detallan indicaciones, fabricante ni vía exacta, por eso la descripción es breve; la categoría Respiratorios se infiere de la marca y del guayacol, verificar. Receta por revisar (inyectable).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): frente, 3/4 y contracara (Reg. No. 419M2001 SSA IV; hecho por Sanofi Aventis para Dinafarma, distribuido por Laboratorios Sanfer) de Eucaliptine 10 ampolletas de 1 ml."
   }
 }

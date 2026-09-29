@@ -4,17 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "TIAMINAL TRIV B12 C 30 CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "Tiaminal Triv B12 30 Cápsulas",
-  "descripcion": "Descripción:\nTiaminal Triv B12 es un producto en cápsulas de administración oral que aporta vitaminas del complejo B, incluida la vitamina B12, como lo indica su nombre. Se presenta en caja con 30 cápsulas.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las cantidades por cápsula, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. No exceda la dosis recomendada. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos o suplementos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tiaminal B12 Trivalente A.P. 30 Cápsulas",
+  "descripcion": "Descripción:\nTiaminal B12 Trivalente A.P. es un complejo B de Laboratorios Silanes en cápsulas, con vitaminas B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina). Está indicado en la prevención y el tratamiento de las deficiencias de las vitaminas contenidas en su fórmula, y en situaciones en que aumentan los requerimientos de estas vitaminas, como diabetes, alcoholismo o actividad física intensa.\n\nBeneficios:\n- Las vitaminas del complejo B participan en el crecimiento y la replicación celular, y en el metabolismo de los lípidos.\n- Contribuyen a la formación de ADN y a la maduración normal de los eritrocitos.\n- Son necesarias para la síntesis de mielina y para mantener la integridad del tejido neuronal.\n- Sin gluten ni azúcar añadida.\n\nComposición:\nCada cápsula contiene cianocobalamina (vitamina B12) 250 µg, piridoxina (vitamina B6) 50 mg y tiamina (vitamina B1) 100 mg.\n\nModo de uso:\nVía oral. Una cápsula al día o según lo indique su médico. No exceda la dosis indicada.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tiaminal",
-    "variante": "Triv B12",
+    "fabricante": "Laboratorios Silanes",
+    "linea": "B12",
+    "variante": "Trivalente A.P.",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
+    "principio_activo": "Cianocobalamina (B12), piridoxina (B6) y tiamina (B1)",
+    "concentracion": "250 µg/50 mg/100 mg",
     "via_administracion": "Oral",
-    "otros": "Tipo de suplemento: Vitaminas del complejo B; Formato de venta: Caja con 30 cápsulas"
+    "edad_etapa": "Adultos",
+    "otros": "Sin gluten; Sin azúcar añadida; Formato de venta: Caja"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501101627224_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501101627224_8ebd8d48-947c-4966-88c9-12bedf9effe0.jpg?v=1701388955&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/6851",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 752,
+      "fecha": "2026-09-29",
+      "lado_util": 697
+    },
+    {
+      "archivo": "7501101627224_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501101627224.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/6851",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1291,
+      "fecha": "2026-09-29",
+      "lado_util": 1193
+    },
+    {
+      "archivo": "7501101627224_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501101627224_1.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/6851",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 456
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Tiaminal%C2%AE-Trivalente-Complejo-Nervioso-Bienestar/dp/B07M8P1DYW",
+    "https://farmaciasmedina.com/detalleProducto/Tiaminal-B12-Trivalente-Ap-30-Capsulas-Caja/7501101627224",
+    "https://farmaciasanjorge.com/products/6851"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmaron las vitaminas exactas, sus cantidades ni el fabricante; se omitieron. Se asumió venta libre por ser vitaminas del complejo B; si está registrado como medicamento, publicar en la subcategoría de venta libre que corresponda. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. Se clasificó como vitaminas y suplementos (MLM438195); algunas farmacias lo listan como medicamento.",
+    "notas_imagenes": "3 fotos de tienda (farmacias en línea) del empaque Tiaminal B12 Trivalente A.P., caja con 30 cápsulas (250 µg/50 mg/100 mg).",
     "fecha": "2026-09-29"
   }
 }

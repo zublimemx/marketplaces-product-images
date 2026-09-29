@@ -16,7 +16,9 @@
     "concentracion": "4000 UI",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad; Envase: frasco"
+    "otros": "Formato de venta: Unidad; Envase: frasco; Tipo: Suplemento alimenticio",
+    "fabricante": "Medix",
+    "variante": "Tabletas dispersables"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -30,17 +32,66 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501293201936_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/179242/7501293201936.png?v=638671392072700000",
+      "pagina": "https://www.klyns.mx/histofil-4000-ui-fco-c-60-tabs/p",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 710,
+      "fecha": "2026-09-29",
+      "lado_util": 658
+    },
+    {
+      "archivo": "7501293201936_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/179243/7501293201936_2.png?v=638671392190630000",
+      "pagina": "https://www.klyns.mx/histofil-4000-ui-fco-c-60-tabs/p",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 707,
+      "fecha": "2026-09-29",
+      "lado_util": 655
+    },
+    {
+      "archivo": "7501293201936_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/179244/7501293201936_3.png?v=638671392320300000",
+      "pagina": "https://www.klyns.mx/histofil-4000-ui-fco-c-60-tabs/p",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 707,
+      "fecha": "2026-09-29",
+      "lado_util": 655
+    },
+    {
+      "archivo": "7501293201936_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77910953/7501293201936_00.jpg?v=639258703006470000",
+      "pagina": "https://www.chedraui.com.mx/tabletas-dispersables-histofil-4000-ui-frasco-con-60-unidades-3443760/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 933,
+      "fecha": "2026-09-29",
+      "lado_util": 862
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://prixz.com/c/histofil-4000-ui-oral-60-tabletas/",
-    "https://farmaciasmedina.com/detalleProducto/Histofil-Oral-60-Tableta-Frasco/7501293201936"
+    "https://farmaciasmedina.com/detalleProducto/Histofil-Oral-60-Tableta-Frasco/7501293201936",
+    "https://www.klyns.mx/histofil-4000-ui-fco-c-60-tabs/p",
+    "https://www.chedraui.com.mx/tabletas-dispersables-histofil-4000-ui-frasco-con-60-unidades-3443760/p",
+    "https://www.farmatodo.com.mx/histofil-4000-ui-caja-c-60-tabletas-dispersables/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (Histofil 4000 UI, frasco con 60 tabletas). La ficha de farmalisto no se pudo leer (límite de tasa), así que fabricante y registro sanitario quedan sin dato. Se publica en Suplementos Alimenticios por instrucción del dueño, aunque figura como medicamento. Marcado 'Revisar' en receta porque no se verificó su condición de venta. La edad 'Adultos' se dedujo, no se leyó en la ficha.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 fotos (tienda): _1 frente, _2 y _3 laterales (Klyns, 700 px), _4 Chedraui 1200 px. Caja Histofil 4000 UI frasco c/60. Medina (480 px) y Prixz (bloqueado) descartados."
   }
 }

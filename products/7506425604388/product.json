@@ -32,16 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425604388_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604388_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1520,
+      "fecha": "2026-09-29",
+      "lado_util": 1408
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604388_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF = Huggies UltraConfort) y por el GTIN hermano 7506425604364 (Niño Etapa 6), confirmado en el lote 1. La página oficial no lista pesos; el de más de 13.5 kg viene del lote 1 (Amazon y tiendas). Las 40 piezas salen del nombre del sistema.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 6, 40 pzas. Existen fotos del diseño anterior (rosa) que se descartaron para no mezclar empaques. huggies.com.mx dio 403; farmaciasmedina solo tiene 480 px."
   }
 }

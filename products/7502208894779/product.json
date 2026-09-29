@@ -32,18 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502208894779_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/171701/7501537102180.jpg",
+      "pagina": "https://www.klyns.mx/tribedoce-c-30-tabs-bruluart/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 383
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/tribedoce-tabletas/73/101/10184/210",
     "https://www.actuamed.com.mx/marca/30628",
-    "https://prixz.com/c/tribedoce-complejo-b-con-30-tabletas/"
+    "https://prixz.com/c/tribedoce-complejo-b-con-30-tabletas/",
+    "https://www.klyns.mx/tribedoce-c-30-tabs-bruluart/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "PLM indica que su venta requiere receta médica y actuamed lo marca RX (su registro es SSA VI). Se usó la categoría de suplementos por ser combinación de vitaminas (regla del dueño); si se trata como medicamento la alternativa es Sistema Nervioso Venta Libre (MLM457812).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 500x500): caja Tribedoce 100/5/50 30 tabletas Bruluart. El archivo de Klyns se llama 7501537102180 (otro EAN del mismo producto); la búsqueda por EAN 7502208894779 devolvió esta ficha. Actuamed (231x231) demasiado pequeña."
   }
 }

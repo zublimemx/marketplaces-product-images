@@ -4,17 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "ENSURE 237ML CHTE",
   "nombres_sistema_alternos": [],
-  "titulo": "Ensure Abbott Chocolate Suplemento Líquido 237 ml",
-  "descripcion": "Descripción:\nEnsure de Abbott es un suplemento alimenticio líquido listo para beber, sabor chocolate, en presentación individual de 237 ml.\n\nPresentación:\nEnvase individual con 237 ml, sabor chocolate.\n\nAdvertencias:\nConsulte la información nutrimental, los ingredientes y las advertencias del empaque. Si tiene una condición médica o sigue una dieta especial, consulte a su médico o nutriólogo antes de consumirlo.",
+  "titulo": "Ensure Chocolate Suplemento Alimenticio Líquido 237 ml",
+  "descripcion": "Descripción:\nEnsure sabor chocolate de Abbott es una fórmula de alimentación especializada, lista para tomar, para adultos con requerimientos especiales de nutrición por condiciones o deficiencias que afectan su estado nutricional. Se presenta en botella de 237 ml.\n\nBeneficios:\n- Combinación de macronutrientes y micronutrientes, con 28 vitaminas y minerales.\n- Ayuda a cubrir requerimientos especiales de alimentación en adultos con malnutrición o pérdida de peso.\n- Aporta nutrición completa y balanceada para apoyar la alimentación diaria.\n- Sabor chocolate, listo para beber.\n\nModo de uso:\nProducto listo para tomar; no requiere preparación. Consulte a su médico o nutriólogo para la recomendación de uso.\n\nPresentación:\nBotella con 237 ml, sabor chocolate.\n\nAdvertencias:\nSuplemento alimenticio; no es un medicamento. No sustituye una dieta variada ni el tratamiento indicado por su médico. Se recomienda su consumo bajo supervisión de un profesional de la salud. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ensure",
     "fabricante": "Abbott",
+    "variante": "Chocolate",
     "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "sabor_aroma": "Chocolate",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Formato: botella; Uso: alimentación especializada para adultos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033954061_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/EnsureChocolate_1.jpg?v=1688349537",
+      "pagina": "https://sanorim.mx/products/ensure-liquido-suplemento-alimenticio-sabor-chocolate-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 569,
+      "fecha": "2026-09-29",
+      "lado_util": 527
+    },
+    {
+      "archivo": "7501033954061_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/EnsureChocolate.jpg?v=1688349537",
+      "pagina": "https://sanorim.mx/products/ensure-liquido-suplemento-alimenticio-sabor-chocolate-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 567,
+      "fecha": "2026-09-29",
+      "lado_util": 525
+    }
+  ],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+  "fuentes": [
+    "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+    "https://sanorim.mx/products/ensure-liquido-suplemento-alimenticio-sabor-chocolate-237-ml",
+    "https://farmalisto.com.mx/ensure/1556-comprar-ensure-suplemento-alimenticio-liquido-237-ml-sabor-chocolate-suplemento-alimenticio-precio-7501033954061.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por el nombre (Ensure 237 ml chocolate, Abbott); falta confirmar la variante exacta (Original, Plus, Advance) y el envase (botella o lata).",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Descripción basada en la página oficial de Abbott; no se anotó lista de ingredientes por no aparecer completa.",
+    "notas_imagenes": "2 fotos de frente de la botella (tienda). El sitio del fabricante solo muestra imágenes de marca.",
     "fecha": "2026-09-29"
   }
 }

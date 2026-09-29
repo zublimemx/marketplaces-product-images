@@ -4,21 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO R 1LT C12 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "Alcohol Dibar 1 l Caja con 12 Piezas",
-  "descripcion": "Descripción:\nAlcohol de la marca Dibar en presentación de 1 litro, caja con 12 piezas. Consulte en la etiqueta el tipo de alcohol, su graduación y las indicaciones de uso.\n\nPresentación:\nCaja con 12 envases de 1 litro.\n\nAdvertencias:\nProducto inflamable, manténgase alejado del fuego y de fuentes de calor. Para uso externo, no ingerir. Evite el contacto con los ojos. No se deje al alcance de los niños.",
+  "titulo": "Alcohol Etílico Dibar 96° G.L. 1 l Caja con 12 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico Dibar de 96° G.L. (graduación Gay-Lussac), sin desnaturalizar, en botella de plástico translúcida de 1 litro con tapa roja. Esta publicación corresponde a la caja con 12 piezas. Es un producto de alta concentración cuya etiqueta lo identifica como sustancia tóxica y de uso exclusivamente industrial; de acuerdo con la información del distribuidor se emplea en procesos industriales, químicos y de laboratorio que requieren alcohol etílico puro.\n\nCaracterísticas:\n- Alcohol etílico de 96° G.L. sin desnaturalizar\n- Botella de 1 litro con tapa roja\n- Etiqueta en español con leyendas de seguridad y pictogramas de signo de exclamación y flama\n- Marca Dibar, comercializado por Grupo Díaz B Luna, S.A. de C.V.\n- Prohibida su venta a granel y a menores de edad\n\nPresentación:\nCaja con 12 botellas de 1 litro (12 litros en total).\n\nAdvertencias:\n- Sustancia tóxica. Exclusivamente para uso industrial.\n- No ingerir.\n- Inflamable: manténgase alejado del fuego, de flamas y de fuentes de calor.\n- Evite el contacto con los ojos y no deje el envase destapado.\n- Prohibida su venta a menores de edad.\n- No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dibar",
-    "presentacion": "Líquido",
+    "fabricante": "Grupo Díaz B Luna, S.A. de C.V. (comercializa)",
+    "variante": "Alcohol etílico 96° G.L. sin desnaturalizar",
+    "presentacion": "Líquido en botella",
     "contenido_neto": 1,
     "unidad_contenido": "l",
     "unidades_por_envase": 12,
-    "otros": "Formato de venta: Caja con 12 piezas; Piezas por caja: 12"
+    "principio_activo": "Alcohol etílico",
+    "concentracion": "96° G.L.",
+    "otros": "Formato de venta: Caja con 12 piezas; Uso: exclusivamente industrial; Tapa roja; Prohibida su venta a granel"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM458019",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcoholes Líquidos",
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +30,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900257_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://supplynow.mx/cdn/shop/files/AE1_grande.png?v=1765376471",
+      "pagina": "https://supplynow.mx/products/dibar-alcohol-etilico-sin-desnaturalizar-96-g-l-1l-dibar",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 597,
+      "fecha": "2026-09-29",
+      "lado_util": 553
+    },
+    {
+      "archivo": "7501868900257_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://supplynow.mx/cdn/shop/files/AE1-1_grande.png?v=1765376567",
+      "pagina": "https://supplynow.mx/products/dibar-alcohol-etilico-sin-desnaturalizar-96-g-l-1l-dibar",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 605,
+      "fecha": "2026-09-29",
+      "lado_util": 561
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmacia24siete.com/pedir/categoria/material-de-curacion/CABZWRbTLHaNCTBBW/p/5csQJxnKAmpNWvSXX/alcohol-etilico-96-botella-con-1-l-7501868900257",
+    "https://supplynow.mx/products/dibar-alcohol-etilico-sin-desnaturalizar-96-g-l-1l-dibar"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. El nombre (ALCO R 1LT C12 PZAS DIBAR) sugiere alcohol Dibar de 1 l en caja de 12; no se confirmó el tipo (etílico, desnaturalizado, rectificado) ni la graduación. Como alternativa la categoría MLM191698 (Alcohol Etílico) si resulta ser etílico. Decidir si se publica por caja o por pieza.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN aparece en una farmacia como Alcohol Etílico 96° botella de 1 L (pieza individual); el nombre del sistema indica caja con 12 piezas y se respetó. El precio del sistema no cuadra ni con 1 ni con 12 botellas: confirmar si se vende por caja o por pieza y ajustar unidades_por_envase. La etiqueta indica uso exclusivamente industrial (revisar restricciones del marketplace para alcohol 96°).",
+    "notas_imagenes": "2 fotos de tienda (frente y reverso de la botella Dibar alcohol etílico 96° G.L. de 1 l); no hay foto de la caja de 12.",
     "fecha": "2026-09-29"
   }
 }

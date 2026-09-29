@@ -4,19 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "AS COR SOL 24ML",
   "nombres_sistema_alternos": [],
-  "titulo": "As Cor Solución 24 ml",
-  "descripcion": "Descripción:\nAs Cor en solución, presentación de 24 ml. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nEnvase con 24 ml de solución.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "A.S. Cor Norfenefrina 1 g/100 ml Solución Gotas 24 ml",
+  "descripcion": "Descripción:\nA.S. Cor, de Sanfer, es una solución oral en gotas cuyo principio activo es el clorhidrato de norfenefrina, un fármaco simpaticomimético que eleva la presión arterial. Está indicado en cuadros de hipotensión, siempre según la indicación de su médico. Se presenta en frasco con gotero de 24 ml.\n\nCaracterísticas:\n- Solución oral en gotas de fácil dosificación.\n- Cada 100 ml contienen 1 g de clorhidrato de norfenefrina.\n- Frasco con gotero de 24 ml.\n\nComposición:\nCada 100 ml contienen:\n- Clorhidrato de norfenefrina 1 g\n- Vehículo cbp 100 ml\n\nModo de uso:\nVía oral. Use la dosis y el número de gotas que le indique su médico.\n\nPresentación:\nFrasco con gotero con 24 ml de solución oral.\n\nAdvertencias:\nNo exceda la dosis indicada. Las personas con hipertensión u otros padecimientos cardiovasculares deben consultar a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "As Cor",
-    "presentacion": "Solución",
+    "marca": "A.S. Cor",
+    "fabricante": "Sanfer",
+    "presentacion": "Solución oral en gotas",
     "contenido_neto": 24,
-    "unidad_contenido": "ml"
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Norfenefrina",
+    "concentracion": "1 g/100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato: frasco con gotero; Indicación: hipotensión"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -24,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070635596_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501070635596.2-163012-1.png",
+      "pagina": "https://farmaciasfleming.mx/producto/a-s-cor-solucion-gotas-24-mililitros/",
+      "ancho_original": 940,
+      "alto_original": 788,
+      "lado_final": 506,
+      "fecha": "2026-09-29",
+      "lado_util": 469
+    },
+    {
+      "archivo": "7501070635596_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070635596.jpg",
+      "pagina": "https://www.fahorro.com/as-cor-24-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1560,
+      "fecha": "2026-09-29",
+      "lado_util": 1445
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/as-cor-solucion-oral-frasco-gotero-c-24-ml/p",
+    "https://farmaciasfleming.mx/producto/a-s-cor-solucion-gotas-24-mililitros/",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/2378-as-cor-solucion-frasco-gotero-con-24-ml-7501070635596.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Producto no identificado con certeza (podría escribirse Ascor); no se conoce principio activo, fabricante ni uso, por eso la categoría es Otros Medicamentos. Requiere búsqueda por GTIN antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Receta: una tienda lo lista como de receta y otras como sin receta; queda en 'Revisar'. Las fichas dan poca información clínica; la indicación (hipotensión) viene de una ficha de farmacia.",
+    "notas_imagenes": "2 fotos del frasco (tienda).",
     "fecha": "2026-09-29"
   }
 }

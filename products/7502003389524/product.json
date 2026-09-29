@@ -5,17 +5,21 @@
   "nombre_sistema": "GESTAGENO 200MG C15 CAPS AGOSTO 27",
   "nombres_sistema_alternos": [],
   "titulo": "Gestágeno Progesterona 200 mg 15 Cápsulas",
-  "descripcion": "Descripción:\nGestágeno es un medicamento en cápsulas de 200 mg cuyo principio activo es la progesterona, hormona del grupo de los progestágenos. Se presenta en caja con 15 cápsulas. Su uso debe ser indicado y supervisado por un médico, quien determina la dosis, la vía de administración y la duración del tratamiento.\n\nComposición:\nCada cápsula contiene 200 mg de progesterona.\n\nPresentación:\nCaja con 15 cápsulas de 200 mg.\n\nAdvertencias:\nEs un medicamento hormonal que normalmente se vende con receta médica. No lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nGestágeno es un medicamento de Exeltis cuyo principio activo es la progesterona, la hormona natural que regula el ciclo menstrual y participa en el mantenimiento del embarazo. Se presenta en cápsulas de 200 mg que pueden administrarse por vía oral o vaginal, según lo indique el médico.\n\nBeneficios:\n- Repone la progesterona en trastornos relacionados con su deficiencia, como amenorrea secundaria e irregularidades menstruales.\n- Se utiliza como parte de la terapia hormonal de la menopausia, asociada a estrógenos, cuando el médico lo determina.\n- Se emplea en esquemas de apoyo hormonal en tratamientos de reproducción asistida, bajo prescripción.\n- Doble vía de administración, oral o vaginal, para adaptarse a cada esquema de tratamiento.\n\nComposición:\nCada cápsula contiene progesterona 200 mg. Este medicamento contiene aceite de cacahuate.\n\nModo de uso:\nVía oral o vaginal. La dosis, la vía y la duración las determina el médico; siga con exactitud la indicación recibida.\n\nPresentación:\nCaja con 15 cápsulas de 200 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Este medicamento es de empleo delicado. Contiene aceite de cacahuate: no lo use si es alérgica al cacahuate o a la soya. No lo use en caso de sangrado vaginal sin diagnosticar, cáncer de mama conocido o sospechado, o antecedentes de trombosis. Informe a su médico si tiene hipertensión, diabetes o enfermedad del hígado. Conservar a no más de 30 °C y mantener la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Gestágeno",
+    "fabricante": "Exeltis",
     "presentacion": "Cápsulas",
     "contenido_neto": 15,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 15,
     "principio_activo": "Progesterona",
     "concentracion": "200 mg",
+    "via_administracion": "Oral o vaginal",
     "genero": "Mujer",
-    "otros": "Venta con receta médica; Tipo: Hormona (progestágeno)"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "186M2016 SSA IV",
+    "otros": "Venta con receta médica; Contiene aceite de cacahuate; Grupo terapéutico: Hormona (progestágeno); Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7502003389524_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Gestageno-200-Mg-15-Cápsulas-7502003389524-639245786948098231-1.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1777",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 738,
+      "fecha": "2026-09-29",
+      "lado_util": 684
+    },
+    {
+      "archivo": "7502003389524_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Gestageno-200-Mg-15-Cápsulas-7502003389524-639245786948723330-2.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1777",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 800,
+      "fecha": "2026-09-29",
+      "lado_util": 741
+    },
+    {
+      "archivo": "7502003389524_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Gestageno-200-Mg-15-Cápsulas-7502003389524-639245786949347661-3.jpg",
+      "pagina": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1777",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 801,
+      "fecha": "2026-09-29",
+      "lado_util": 742
+    }
+  ],
+  "url_oficial": "https://tiendaexeltis.mx/Home/DetalleProducto?idProducto=1777&item=gestageno-200-mg-15-capsulas&clicked=1",
+  "fuentes": [
+    "https://tiendaexeltis.mx/Home/DetalleProducto?idProducto=1777&item=gestageno-200-mg-15-capsulas&clicked=1",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/7232-gestageno-200-mg-caja-con-15-capsulas-progesterona-elea-7502003389524.html",
+    "https://wecarepharma.mx/en/products/gestageno-200mg-con-15-capsulas-progesterona"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El principio activo (progesterona 200 mg) se dedujo del nombre y de conocimiento previo de la marca; no se confirmó GTIN, fabricante, vía de administración ni registro sanitario. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, vías, aviso de cacahuate y registro tomados del reverso de la caja del fabricante (importa y distribuye Exeltis Pharma México, hecho en España). Una farmacia lista otro registro y a Elea como laboratorio, probablemente dato anterior. Indicaciones de ficha de farmacia.",
+    "notas_imagenes": "3 fotos del fabricante (tienda oficial Exeltis): frente en ángulo, frente y reverso.",
     "fecha": "2026-09-29"
   }
 }

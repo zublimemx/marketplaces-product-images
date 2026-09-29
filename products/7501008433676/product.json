@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "CAFIASPIRINA 40TAB JULIO 27 OFERTADO 120",
   "nombres_sistema_alternos": [],
-  "titulo": "Cafiaspirina Bayer 40 Tabletas",
-  "descripcion": "Descripción:\nCafiaspirina, de Bayer, es un analgésico de venta libre en tabletas que combina ácido acetilsalicílico y cafeína.\n\nComposición:\nÁcido acetilsalicílico y cafeína. Consulte en el empaque las cantidades por tableta y los demás componentes.\n\nPresentación:\nCaja con 40 tabletas.\n\nAdvertencias:\nNo debe administrarse a niños ni adolescentes con fiebre o infecciones virales sin indicación médica. Consulte a su médico antes de usarlo si es alérgico a la aspirina, si toma anticoagulantes, si tiene úlcera o problemas de sangrado, o si está embarazada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Cafiaspirina 500 mg/30 mg 40 Tabletas",
+  "descripcion": "Descripción:\nCafiaspirina es un analgésico en tabletas que combina ácido acetilsalicílico con cafeína; la cafeína potencia el efecto analgésico del ácido acetilsalicílico. Está indicada para el alivio de dolores severos de cabeza y de muelas, y de otros dolores de cuerpo, como los musculares relacionados con el estrés y la tensión en cuello, espalda y hombros.\n\nBeneficios:\n- Efecto analgésico: ayuda a aliviar dolores de cabeza, de oídos, de muelas y algunos dolores musculares\n- Efecto antiinflamatorio: ayuda a disminuir la inflamación muscular\n- Efecto antipirético: ayuda a disminuir la fiebre de manera gradual\n- Presentación de 40 tabletas\n\nComposición:\nCada tableta contiene 500 mg de ácido acetilsalicílico y 30 mg de cafeína.\n\nModo de uso:\nVía oral. Uso en adultos y mayores de 12 años. Tome la dosis indicada en el empaque o la que su médico señale y no exceda la dosis recomendada.\n\nPresentación:\nCaja con 40 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico al ácido acetilsalicílico, a otros salicilatos o a algún componente de la fórmula, ni si tiene úlcera péptica activa o hemorragias gastrointestinales. Consulte a su médico antes de usarlo si tiene asma, enfermedad del hígado o del riñón, si toma anticoagulantes o si está embarazada o en periodo de lactancia. Evite el alcohol y otros medicamentos que contengan ácido acetilsalicílico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Cafiaspirina",
     "fabricante": "Bayer",
@@ -13,9 +13,11 @@
     "contenido_neto": 40,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 40,
-    "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "principio_activo": "Ácido acetilsalicílico, cafeína",
+    "concentracion": "500 mg/30 mg por tableta",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Formato de venta: Caja con 40 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008433676_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__3f4728ac-329d-4b1a-ae68-9998a653cacf.jpg?v=1744665930",
+      "pagina": "https://wecarepharma.mx/products/cafiaspirina-500mg-30mg-con-40-tabletas-acido-acetilsalicilico-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501008433676_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__2__e2d1daff-54e5-4729-a219-6909c7d3b113.jpg?v=1744665932",
+      "pagina": "https://wecarepharma.mx/products/cafiaspirina-500mg-30mg-con-40-tabletas-acido-acetilsalicilico-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cafiaspirina-analgesico-40-tabletas.html",
+    "https://wecarepharma.mx/products/cafiaspirina-500mg-30mg-con-40-tabletas-acido-acetilsalicilico-cafeina",
+    "https://grupofarmapronto.com/producto/cafiaspirina-c-40-tabletas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Cafiaspirina, Bayer). No se confirmó que la caja de 40 tabletas sea presentación de exhibidor (p. ej. 20 sobres de 2 tabletas). Concentración probable 500 mg de ácido acetilsalicílico y 40 mg de cafeína, pendiente de verificar; por eso no se incluyó en la ficha.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Concentración 500 mg/30 mg confirmada en la caja. Contraindicaciones tomadas de ficha de farmacia; verificar contra el instructivo de la caja.",
+    "notas_imagenes": "2 fotos de tienda (frente plano y frente en ángulo de la caja con 40 tabletas); se descartó una imagen con banner promocional y vistas laterales.",
     "fecha": "2026-09-29"
   }
 }

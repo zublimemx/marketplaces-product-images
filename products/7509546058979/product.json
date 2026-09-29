@@ -4,18 +4,18 @@
   "linea": "Mark",
   "nombre_sistema": "FIJ CAPRICE NAT ALGA SPY 316ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Fijador Caprice Natural Alga Spray 316 ml",
-  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, línea Natural, con extracto de alga, en presentación de 316 ml. Consulte el empaque para conocer sus ingredientes, el nivel de fijación y el modo de uso.\n\nPresentación:\nEnvase con spray de 316 ml.\n\nModo de uso:\nAplique sobre el cabello seco manteniendo el envase a una distancia prudente, según las instrucciones de la etiqueta.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Manténgase fuera del alcance de los niños. Lea las indicaciones de la etiqueta del empaque.",
+  "titulo": "Fijador Caprice Naturals Extracto de Algas Spray 316 ml",
+  "descripcion": "Descripción:\nCaprice Naturals con extracto de algas es un spray fijador para el cabello en aerosol de 316 ml. Está diseñado para proteger el cabello de la humedad y controlar el frizz, y le da brillo natural y suavidad, facilitando el peinado sin dejar residuos visibles.\n\nCaracterísticas:\n- Spray fijador de la línea Caprice Naturals\n- Con extracto de algas\n- Protege el cabello contra la humedad y ayuda a controlar el frizz\n- Aporta brillo natural, suavidad y aroma\n- Fórmula ligera que crea una capa protectora que se elimina fácilmente con el cepillado\n- Ideal para el uso diario\n\nModo de uso:\nCon el cabello peinado, aplique el spray sobre él y estilice. Para retirarlo, basta con cepillar el cabello.\n\nPresentación:\nFrasco aerosol de 316 ml.\n\nAdvertencias:\nUso externo exclusivo para el cabello. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. Envase a presión: no lo perfore, no lo arroje al fuego ni lo use cerca de flamas o superficies calientes. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Caprice",
     "fabricante": "Colgate-Palmolive",
-    "linea": "Natural",
-    "variante": "Alga",
-    "presentacion": "Spray",
+    "linea": "Naturals",
+    "variante": "Extracto de algas",
+    "presentacion": "Spray aerosol",
     "contenido_neto": 316,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Ingrediente destacado: Alga; Tipo de producto: Fijador en spray; Formato de venta: Unidad"
+    "otros": "Tipo de producto: spray fijador; Resistente a la humedad; Formato de venta: unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +29,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546058979_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546058979-1.jpg",
+      "pagina": "https://www.delsol.com.mx/spray-caprice-algas-316ml",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1677,
+      "fecha": "2026-09-29",
+      "lado_util": 1553
+    },
+    {
+      "archivo": "7509546058979_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546058979-2.jpg",
+      "pagina": "https://www.delsol.com.mx/spray-caprice-algas-316ml",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 668,
+      "fecha": "2026-09-29",
+      "lado_util": 619
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/caprice-naturals-spray-aerosol-extracto-de-algas-316ml-7509546058979.html",
+    "https://www.delsol.com.mx/spray-caprice-algas-316ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (FIJ = fijador, NAT = línea Natural, ALGA, SPY = spray, 316 ml). El fabricante Colgate-Palmolive se infirió porque el prefijo del GTIN (7509546) lo comparten los productos Colgate del sistema; no se verificó. No se confirmó si el ingrediente es alga o extracto de alga, ni si es aerosol o atomizador. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El fabricante se dedujo del logotipo Palmolive del empaque. El modo de uso es general.",
+    "notas_imagenes": "2 fotos de tienda: frente y reverso del envase. Se borró una tercera imagen publicitaria con texto promocional.",
     "fecha": "2026-09-29"
   }
 }

@@ -30,7 +30,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7896009490651_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/COREGA-ULTRA-CRA-40G-ULTRA-CRA-GLAXOSMITHKLINE-CONSUMER.-Disponible-en-Farmasmart.-Compra-en-linea-7896009490651.webp",
+      "pagina": "https://farmasmart.com/corega-ultra-cra-40g",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 533,
+      "fecha": "2026-09-29",
+      "lado_util": 494
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmasmart.com/corega-ultra-cra-40g",
@@ -42,6 +54,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en fichas mexicanas (crema sin sabor, tubo de 40 g). El GTIN también aparece en fichas de Brasil y Argentina. Las fichas leídas no traen modo de uso ni advertencias; esas secciones son generales de adhesivos para prótesis y conviene compararlas con el empaque. No existe una categoría específica de adhesivos para prótesis en el CSV; se usó Cuidado Bucal > Otros.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmasmart): tubo y caja Corega Ultra sin sabor 40 g, 700 px."
   }
 }

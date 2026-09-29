@@ -32,18 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425645749_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb4a0a8c6/images/large/7506425645749_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-xxjumbo-40-pzas/MXYZ_7506425645749.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 959,
+      "fecha": "2026-09-29",
+      "lado_util": 888
+    },
+    {
+      "archivo": "7506425645749_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw399b17df/images/large/7506425645749_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-xxjumbo-40-pzas/MXYZ_7506425645749.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1006,
+      "fecha": "2026-09-29",
+      "lado_util": 931
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
     "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
     "https://farmaciasmedina.com/detalleProducto/Kleen-Bebe-Suavelastic-Panales-Unisex-Etapa-7-Extra-Extra-Jumbo/7506425645749",
-    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-etapa-7-unisex-40-piezas/p/MLM23011505"
+    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-etapa-7-unisex-40-piezas/p/MLM23011505",
+    "https://www.yza.mx/kleenbebe-suavelastic-max-xxjumbo-40-pzas/MXYZ_7506425645749.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Una tienda lista este GTIN con 38 piezas; se respetó el 40 del nombre del sistema y del catálogo ML. Se abrevió 'XXJumbo' en el título por el límite de 60 caracteres.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza. Se descartaron fotos del diseno anterior y una con promocion de la tienda."
   }
 }

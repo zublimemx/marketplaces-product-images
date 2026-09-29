@@ -17,7 +17,7 @@
     "concentracion": "500 mg / 25 mg / 5 mg / 4 mg por tableta",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Uso: fiebre, dolor y malestar general asociados a gripe y resfriado; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,17 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125116810_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 379
+    },
+    {
+      "archivo": "7501125116810_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 391
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://wecarepharma.mx/en/products/agrifen-500mg-25mg-5mg-4mg-con-10-tabletas-paracetamol-cafeina-fenilefrina",
-    "https://farmaciasmedina.com/detalleProducto/Agrifen/7501125116810"
+    "https://farmaciasmedina.com/detalleProducto/Agrifen/7501125116810",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (Agrifen 500/25/5/4 mg, 10 tabletas, Pisa). La ficha en línea lista paracetamol, cafeína y fenilefrina y cortó el cuarto componente de 4 mg; se asumió clorfenamina por conocimiento del producto, verificar en el empaque. El precio del sistema (16.11) es muy bajo para una caja de 10, posiblemente es venta por blíster o pieza; revisar la presentación real.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501125116810_1.jpg, 7501125116810_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

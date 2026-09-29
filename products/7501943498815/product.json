@@ -32,16 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943498815_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943498815.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1621,
+      "fecha": "2026-09-29",
+      "lado_util": 1500
+    },
+    {
+      "archivo": "7501943498815_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943498815_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1145,
+      "fecha": "2026-09-29",
+      "lado_util": 1061
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
-    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn"
+    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943498815.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943498815_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE R-N E1 = Suavelastic Recién Nacido Etapa 1; prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos de la página oficial; las 40 piezas salen del nombre del sistema. El título no lleva 'Etapa 1' por el límite de 60 caracteres.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro): frente 1600 px y vertical 1200 px del empaque KleenBebé Suavelastic Recién Nacido 1RN 40 pañales. Se descartaron 2 infografías (óxido de zinc, guía de etapas)."
   }
 }

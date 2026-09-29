@@ -4,41 +4,78 @@
   "linea": "Farma",
   "nombre_sistema": "DEMUS 100000 UI C/2 TAB COLECALCIFEROL ASOFARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "Demus Colecalciferol 100,000 UI 2 Tabletas",
-  "descripcion": "Descripción:\nDemus es un producto de Asofarma que contiene colecalciferol (vitamina D3) en concentración de 100,000 UI, presentado en caja con 2 tabletas. Por su alta concentración, la dosis y la frecuencia de administración deben ser definidas por el médico.\n\nComposición:\nColecalciferol (vitamina D3) 100,000 UI por tableta.\n\nModo de uso:\nVía oral. Tome las tabletas únicamente en la dosis y con el intervalo que indique su médico.\n\nPresentación:\nCaja con 2 tabletas de 100,000 UI.\n\nAdvertencias:\nNo exceda la dosis indicada: el exceso de vitamina D puede provocar niveles elevados de calcio en la sangre. Consulte a su médico si tiene problemas de los riñones o si toma suplementos de calcio u otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Demus Colecalciferol 100000 UI 2 Cápsulas",
+  "descripcion": "Descripción:\nDemus es un medicamento cuyo principio activo es el colecalciferol (vitamina D3) en dosis de 100,000 UI por cápsula, en presentación de 2 cápsulas. Está indicado para la prevención y el tratamiento de la deficiencia de vitamina D en adultos y niños, especialmente cuando la exposición al sol es limitada o hay mayor necesidad de vitamina D. La vitamina D interviene en el manejo del calcio y del fósforo en el organismo.\n\nComposición:\nCada cápsula contiene 100,000 UI de colecalciferol (vitamina D3).\n\nModo de uso:\nVía oral. La dosis y la frecuencia son las que el médico señale, con base en los niveles de vitamina D del paciente.\n\nPresentación:\nCaja con 2 cápsulas de 100,000 UI.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico al colecalciferol o a algún componente de la fórmula, ni si tiene hipercalcemia o hipervitaminosis D. Consulte a su médico antes de usarlo si padece enfermedad del riñón o sarcoidosis, o si toma diuréticos tiazídicos; puede requerirse vigilar el calcio en sangre. No exceda la dosis indicada. Consérvese a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Demus",
     "fabricante": "Asofarma",
-    "presentacion": "Tabletas",
+    "presentacion": "Cápsulas",
     "contenido_neto": 2,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "cápsulas",
     "unidades_por_envase": 2,
     "principio_activo": "Colecalciferol (vitamina D3)",
-    "concentracion": "100,000 UI",
+    "concentracion": "100,000 UI por cápsula",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: Caja con 2 cápsulas; Venta con receta médica"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM455483",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7730979098007_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__091d7b50-c57c-4bc2-a585-e3c51cd88a4f.jpg?v=1744713899",
+      "pagina": "https://wecarepharma.mx/en/products/demus-colecalciferol-capsulas-100000ui-con-2",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7730979098007_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__1__345db730-cf15-4272-80f0-73b8e929a2c1.jpg?v=1744713900",
+      "pagina": "https://wecarepharma.mx/en/products/demus-colecalciferol-capsulas-100000ui-con-2",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7730979098007_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__4__396e9c46-b040-4af3-937e-c62be7938602.jpg?v=1744713904",
+      "pagina": "https://wecarepharma.mx/en/products/demus-colecalciferol-capsulas-100000ui-con-2",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/demus-2-capsulas/",
+    "https://wecarepharma.mx/en/products/demus-colecalciferol-capsulas-100000ui-con-2"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (100000 UI, 2 tabletas, colecalciferol, Asofarma); el GTIN 773 sugiere origen Uruguay. Se desconoce si es tableta masticable o simple. Por la dosis alta podría requerir receta: revisar. Categoría de vitaminas por regla, aunque se comercializa como medicamento.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema dice TAB pero el producto es en cápsulas (así aparece en la caja y en las fichas). Categoría OTC MLM438195 por la regla de vitaminas; al requerir receta, la categoría Rx genérica es MLM455483 (no hay una de vitaminas con receta). Indicaciones y advertencias tomadas de fichas de farmacia.",
+    "notas_imagenes": "3 fotos de tienda (frente plano y dos en ángulo de la caja con 2 cápsulas); se descartaron una foto pequeña, un duplicado y una vista lateral.",
     "fecha": "2026-09-29"
   }
 }

@@ -31,7 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058367129_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77971994/7501058367129_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/condones-de-latex-sico-safety-3-condones-3143927/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1220,
+      "fecha": "2026-09-29",
+      "lado_util": 1129
+    },
+    {
+      "archivo": "7501058367129_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77971996/7501058367129_01.jpg",
+      "pagina": "https://www.chedraui.com.mx/condones-de-latex-sico-safety-3-condones-3143927/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1191,
+      "fecha": "2026-09-29",
+      "lado_util": 1102
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://sanorim.mx/products/sico-safety-caja-con-3-preservativos-masculinos",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Una tienda lo titula Sico Safety Feel; el nombre del sistema dice Sico Negro Safety. Las fuentes no indican el ancho, por eso no se incluye. Registro tomado de la ficha de una farmacia.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda, Chedraui, 1200x1200): caja Sico Safety 3 piezas de frente y en versión más pequeña con sobre. Se borró la tercera (gráfico de sellos de marca, no es el empaque)."
   }
 }

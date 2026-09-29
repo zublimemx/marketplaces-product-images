@@ -5,9 +5,11 @@
   "nombre_sistema": "TEMPRA 500MG C10 TABS",
   "nombres_sistema_alternos": [],
   "titulo": "Tempra Paracetamol 500 mg 10 Tabletas",
-  "descripcion": "Descripción:\nTempra 500 mg es un medicamento en tabletas cuyo principio activo es el paracetamol, un analgésico y antipirético de uso oral. Se presenta en caja con 10 tabletas de 500 mg y se utiliza para aliviar el dolor y bajar la fiebre, de acuerdo con las indicaciones de su empaque.\n\nComposición:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Siga la dosis y el intervalo entre tomas que indica el empaque o su médico, y no exceda la cantidad máxima diaria recomendada.\n\nPresentación:\nCaja con 10 tabletas de 500 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico al paracetamol o a algún componente de la fórmula. No use al mismo tiempo otros productos que contengan paracetamol. No consuma bebidas alcohólicas durante el tratamiento. Un exceso de paracetamol puede dañar el hígado; en caso de sobredosis acuda de inmediato a un servicio médico. Si el dolor persiste más de cinco días o la fiebre más de tres, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nTempra 500 mg es un medicamento de venta libre en tabletas que contiene paracetamol, un analgésico y antipirético de uso oral para adultos y adolescentes. Es un auxiliar para el alivio del dolor de leve a moderado y ayuda a reducir la fiebre. Se presenta en caja con 10 tabletas de 500 mg.\n\nBeneficios:\n- Auxiliar para el alivio de dolores leves a moderados: de cabeza, dentición, muscular, cólico menstrual, osteoartritis y de articulaciones (traumatismos, bursitis, esguinces).\n- Alivia las molestias asociadas al resfriado común.\n- Ayuda a reducir la fiebre.\n- Presentación práctica de 10 tabletas.\n\nComposición:\nCada tableta contiene paracetamol 500 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos y pacientes mayores de 16 años: 1 o 2 tabletas cada 4 a 6 horas, sin exceder 8 tabletas en 24 horas. Pacientes de 12 a 15 años: 1 tableta cada 4 a 6 horas, sin exceder 4 tabletas en 24 horas. Si las molestias persisten, consulte a su médico.\n\nPresentación:\nCaja con 10 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a los componentes de la fórmula ni si tiene insuficiencia o daño en el hígado. Consulte a su médico si padece insuficiencia renal, deficiencia de glucosa 6-fosfato deshidrogenasa, alcoholismo crónico o consumo excesivo de alcohol, anorexia, bulimia, desnutrición o deshidratación. No tome otros medicamentos que contengan paracetamol. En caso de embarazo o lactancia, consulte a su médico. Puede causar dolor de estómago o diarrea; si aparecen reacciones en la piel como enrojecimiento o urticaria, suspenda su uso y busque ayuda médica de inmediato. Consérvese a no más de 30 °C y protéjase de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tempra",
+    "fabricante": "Reckitt",
+    "linea": "Tempra Adultos",
     "variante": "500 mg",
     "presentacion": "Tabletas",
     "contenido_neto": 10,
@@ -16,7 +18,9 @@
     "principio_activo": "Paracetamol",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 10 tabletas"
+    "edad_etapa": "Adultos y adolescentes desde 12 años",
+    "registro_sanitario": "90865 SSA VI",
+    "otros": "Venta libre; Formato de venta: caja con 10 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095452116_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://eu-images.contentstack.com/v3/assets/blt0ed015f9da377bfd/blt850a74aba90859f8/6a3c204e4acf576fa82f6ec8/TEMPRA-500MG-10T_A.png",
+      "pagina": "https://www.tempra.com.mx/adultos/productos/tempra-500-mg/",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7501095452116_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.tempra.com.mx/static/f61b08c2ea80c0cc241d146dfefce260/490fc/TEMPRA-500MG-10T_B.png",
+      "pagina": "https://www.tempra.com.mx/adultos/productos/tempra-500-mg/",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7501095452116_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.tempra.com.mx/static/4b24eb6e885b85a628e42962ab6727d0/490fc/TEMPRA-500MG-10T_I.png",
+      "pagina": "https://www.tempra.com.mx/adultos/productos/tempra-500-mg/",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
+  "url_oficial": "https://www.tempra.com.mx/adultos/productos/tempra-500-mg/",
+  "fuentes": [
+    "https://www.tempra.com.mx/adultos/productos/tempra-500-mg/",
+    "https://www.fahorro.com/tempra-500-mg-adultos-paracetamol-caja-10-tabletas.html",
+    "https://sanorim.mx/products/tempra-500-mg-caja-con-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (paracetamol) de conocimiento general de la marca Tempra; concentración y piezas salen del nombre. No se confirmó el fabricante ni las indicaciones exactas del empaque. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda; composición, indicaciones y dosis tomadas del sitio oficial de la marca.",
+    "notas_imagenes": "3 fotos del sitio oficial de la marca (frente, contraportada y ángulo).",
     "fecha": "2026-09-29"
   }
 }

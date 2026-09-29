@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "300090275051_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7002354/300090275051_01.jpg?v=639183634719230000",
+      "pagina": "https://www.farmatodo.com.mx/depo-provera-suspension-inyectable-150-mg-caja-c-1-jeringa-prellenada-c-1-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 973,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/anticonceptivos/3996-depo-provera-150-mg-caja-con-1-jeringa-prellenada-con-1-ml-300090275051.html",
     "https://farmaciasmedina.com/detalleProducto/Depo-provera-Inyeccion-1-Ml-Suspension-Jeringa-Prellenada/300090275051",
-    "https://curitek.com/producto/depo-provera-medroxiprogesterona/"
+    "https://curitek.com/producto/depo-provera-medroxiprogesterona/",
+    "https://www.farmatodo.com.mx/depo-provera-suspension-inyectable-150-mg-caja-c-1-jeringa-prellenada-c-1-ml/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas (Pfizer). El sistema dice frasco ámpula, pero las fichas con este GTIN lo describen como jeringa prellenada de 1 ml; el título no menciona el envase. Una tienda lo lista como vía subcutánea y con otro fabricante; se usó vía intramuscular (indicación habitual del Depo-Provera 150 mg/ml). El registro sanitario viene de una sola tienda: verificar en el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmatodo): caja Depo-Provera 150 mg/ml de frente, 1000 px. Se descartaron la de Curitek (marca de agua) y la de Klyns (leyenda de tienda)."
   }
 }

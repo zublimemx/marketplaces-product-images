@@ -4,22 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "DABEX XR 750MG T60 JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Dabex XR Metformina 750 mg 60 Tabletas Liberación Prolongada",
-  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es la metformina clorhidrato, en tabletas de liberación prolongada de 750 mg. Es un antidiabético oral que se utiliza, bajo indicación médica, como apoyo en el control de la glucosa en personas con diabetes mellitus tipo 2, junto con dieta y actividad física.\n\nPresentación:\nCaja con 60 tabletas de liberación prolongada de 750 mg.\n\nModo de uso:\nVía oral. Las tabletas de liberación prolongada deben tragarse enteras, sin partirlas ni masticarlas, y generalmente se toman con alimentos. La dosis y la frecuencia las determina el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la metformina ni si tiene problemas graves de los riñones o del hígado, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Dabex XR Metformina 750 mg 60 Tabletas",
+  "descripcion": "Descripción:\nDabex XR es un antidiabético oral de Merck cuyo principio activo es el clorhidrato de metformina en tabletas de liberación prolongada de 750 mg. La liberación prolongada hace que la metformina se absorba de forma más gradual que en la tableta de liberación inmediata. Se presenta en caja con 60 tabletas.\n\nBeneficios:\n- Indicado en el tratamiento de la diabetes mellitus tipo 2, en particular en pacientes con sobrepeso cuyo control con dieta y ejercicio no es suficiente\n- En adultos puede utilizarse como monoterapia o combinado con otros antidiabéticos orales o con insulina\n- Indicado también en la prevención de la diabetes tipo 2 en pacientes con prediabetes y al menos un factor de riesgo adicional, cuando los cambios en el estilo de vida no bastan\n- Tableta de liberación prolongada\n\nComposición:\nCada tableta de liberación prolongada contiene 750 mg de clorhidrato de metformina y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y el momento de la toma deben ser indicados por el médico. Trague la tableta entera, sin partirla ni masticarla.\n\nPresentación:\nCaja con 60 tabletas de liberación prolongada de 750 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la metformina o a algún componente de la fórmula. El tratamiento de la diabetes requiere seguimiento médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dabex",
     "fabricante": "Merck",
     "linea": "XR",
-    "variante": "Liberación prolongada 750 mg",
     "presentacion": "Tabletas de liberación prolongada",
     "contenido_neto": 60,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 60,
-    "principio_activo": "Metformina clorhidrato",
+    "principio_activo": "Clorhidrato de metformina",
     "concentracion": "750 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: caja con 60 tabletas"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +32,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298214207_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwdf1993c9/images/large/7501298214207_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501298214207.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    },
+    {
+      "archivo": "7501298214207_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298214207.jpg",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501298214207.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1393,
+      "fecha": "2026-09-29",
+      "lado_util": 1290
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/dabex-xr-tabletas-de-liberacion-prolongada/115/101/7103/216",
+    "https://www.fahorro.com/dabex-xr-750-mg-oral-60-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Dabex XR = metformina de liberación prolongada de Merck, de conocimiento general; el prefijo de GTIN 7501298 es compartido con Neurobion y otros productos Merck del sistema). La descripción es general y no se cotejó con la ficha oficial; verificar contenido y advertencias en el empaque. La cifra de 60 tabletas sale del 'T60' del nombre del sistema. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia en línea lo marca sin receta, pero los antidiabéticos orales normalmente se venden con receta en México; confirmar. La instrucción de tragar la tableta entera es general de las tabletas de liberación prolongada.",
+    "notas_imagenes": "2 fotos de tienda de la caja de 60 tabletas de 750 mg (frente y en ángulo).",
     "fecha": "2026-09-29"
   }
 }

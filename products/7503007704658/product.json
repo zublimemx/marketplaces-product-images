@@ -34,18 +34,56 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503007704658_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1571,
+      "fecha": "2026-09-29",
+      "lado_util": 1455
+    },
+    {
+      "archivo": "7503007704658_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1452,
+      "fecha": "2026-09-29",
+      "lado_util": 1345
+    },
+    {
+      "archivo": "7503007704658_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1529,
+      "fecha": "2026-09-29",
+      "lado_util": 1416
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/nucleo-cmp-forte-capsulas/1018/101/9017/14",
     "https://farmaciasmedina.com/detalleProducto/Nucleo-Cmp-Forte-30-Capsulas-Caja/7503007704658",
-    "https://farmalisto.com.mx/sistema-nervioso-central/8251-comprar-nucleo-cmp-forte-5mg3mg-caja-con-30-capsulas-neuropatias-precio-7503007704658.html"
+    "https://farmalisto.com.mx/sistema-nervioso-central/8251-comprar-nucleo-cmp-forte-5mg3mg-caja-con-30-capsulas-neuropatias-precio-7503007704658.html",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704658_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Medicamento con receta (PLM: su venta requiere receta médica). Sin página oficial en MX localizada; el fabricante es Ferrer Internacional (España), distribuido por Ferrer Therapeutics en México.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 3 de fahorro.com (tienda). Frente, angulo y contra-etiqueta."
   }
 }

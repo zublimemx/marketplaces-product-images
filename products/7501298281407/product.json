@@ -4,15 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "SEDALMERCK EXHIBIDOR CON 200",
   "nombres_sistema_alternos": [],
-  "titulo": "Sedalmerck Exhibidor Con 200 Piezas",
-  "descripcion": "Descripción:\nSedalmerck es un medicamento de la marca Merck, presentado aquí en caja exhibidor con 200 piezas. La composición, las indicaciones, el modo de uso y el tipo de pieza (tabletas o sobres) deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja exhibidor con 200 piezas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sedalmerck Paracetamol/Cafeína/Fenilefrina 200 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck es un analgésico en tabletas de Merck que combina paracetamol, cafeína y clorhidrato de fenilefrina. Se utiliza como auxiliar en el tratamiento sintomático de algunas molestias del resfriado común o la gripe, como dolor, fiebre y congestión nasal. Esta presentación es un exhibidor con 200 tabletas.\n\nBeneficios:\n- El paracetamol ayuda a aliviar el dolor y a reducir la fiebre.\n- La cafeína complementa la acción analgésica.\n- La fenilefrina ayuda a disminuir la congestión nasal.\n\nComposición:\nCada tableta contiene:\n- Paracetamol 500 mg\n- Cafeína 50 mg\n- Clorhidrato de fenilefrina 5 mg\n- Excipiente cbp 1 tableta\n\nModo de uso:\nVía oral. Tome la dosis indicada en el instructivo del empaque o por su médico.\n\nPresentación:\nExhibidor con 200 tabletas.\n\nAdvertencias:\nNo exceda la dosis recomendada ni use otros productos que contengan paracetamol al mismo tiempo. Si los síntomas persisten por más de tres días, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sedalmerck",
     "fabricante": "Merck",
+    "presentacion": "Tabletas",
+    "contenido_neto": 200,
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 200,
-    "otros": "Formato de venta: Caja exhibidor con 200 piezas"
+    "principio_activo": "Paracetamol, cafeína y fenilefrina",
+    "concentracion": "500 mg/50 mg/5 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: exhibidor con 200 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194673",
@@ -24,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298281407_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://dueromayoreo.mayoreoenlinea.mx/cdn/shop/files/2819_1_dis.jpg",
+      "pagina": "https://dueromayoreo.mayoreoenlinea.mx/products/medicamento-sedalmerck-200-tabletas",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1006,
+      "fecha": "2026-09-29",
+      "lado_util": 932
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sedalmerck-20-tabletas.html",
+    "https://dueromayoreo.mayoreoenlinea.mx/products/medicamento-sedalmerck-200-tabletas",
+    "https://www.farmalisto.com.mx/analgesicos-antiinflamatorios/82633-comprar-sedalmerck-200-tabletas-precio.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Se asume analgésico por el nombre y fabricante Merck por el nombre y el prefijo del GTIN (igual que Eutirox), pero no se confirmó la composición ni qué contiene el exhibidor (posibles sobres de dosis única). Confirmar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501298281407 corresponde al exhibidor con 200 tabletas (varias tiendas mayoristas). La fórmula y las indicaciones se tomaron de la presentación de 20 tabletas de la misma marca (GTIN distinto). Conviene validar la dosis en el empaque.",
+    "notas_imagenes": "1 foto del exhibidor de 200 tabletas (tienda mayorista).",
     "fecha": "2026-09-29"
   }
 }

@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "VITERNUM JBE 140 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Viternum Jarabe 140 ml",
-  "descripcion": "Descripción:\nViternum en presentación de jarabe, frasco de 140 ml. Consulte en el empaque la composición, las indicaciones y el modo de uso.\n\nPresentación:\nFrasco con 140 ml de jarabe.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Viternum Dihexazina Jarabe 60 mg/100 ml 140 ml",
+  "descripcion": "Descripción:\nViternum es un jarabe con dihexazina (dihexazin) que se presenta como estimulante del apetito. Las fichas de farmacia lo indican como auxiliar en el tratamiento de la anorexia, los estados de desnutrición, el adelgazamiento y la convalecencia, y mencionan que favorece el crecimiento y el aumento de peso en niños.\n\nCaracterísticas:\n- Jarabe de sabor agradable con dihexazina, de administración oral.\n- Se presenta como polvo en frasco ámpula y frasco con diluyente para preparar la mezcla, con vaso dosificador incluido.\n- Presentación de 140 ml.\n\nComposición:\nHecha la mezcla, cada 100 ml contienen dihexazina 60 mg. Excipiente c.b.p. 100 ml.\n\nModo de uso:\nVía oral. Prepare el jarabe mezclando el polvo con el diluyente, según las instrucciones del empaque, y mida la dosis con el vaso dosificador. La dosis y la duración las determina su médico.\n\nPresentación:\nCaja con frasco ámpula con polvo, frasco con diluyente y vaso dosificador, para 140 ml de jarabe.\n\nAdvertencias:\n- No lo use si es alérgico a la dihexazina o a algún componente de la fórmula.\n- Consulte a su médico antes de usarlo en niños, en el embarazo o durante la lactancia.\n- Si el apetito o el peso no mejoran, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Viternum",
-    "presentacion": "Jarabe",
+    "fabricante": "Ipal",
+    "presentacion": "Jarabe (polvo con diluyente y vaso dosificador)",
     "contenido_neto": 140,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Dihexazina",
+    "concentracion": "60 mg/100 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Estimulante del apetito; Incluye vaso dosificador; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314706228_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__5cba6a93-a558-45b5-909a-4d3a7a2f0db7.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/viternum-jarabe-60mg-100ml-140ml-dihexazin",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501314706228_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaspuntomx.com/wp-content/uploads/2023/04/Viternum-Jbe-140-Ml.png",
+      "pagina": "https://farmaciaspuntomx.com/product/viternum-jarabe-140ml/",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 783,
+      "fecha": "2026-09-29",
+      "lado_util": 725
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/viternum-jarabe-140ml/MXYZ_7501314706228.html",
+    "https://farmaciaspuntomx.com/product/viternum-jarabe-140ml/",
+    "https://wecarepharma.mx/en/products/viternum-jarabe-60mg-100ml-140ml-dihexazin"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema (jarabe de 140 ml). Se desconoce la composición; la categoría de suplementos es una suposición por el nombre y podría ser un medicamento. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (jarabe de 140 ml, dihexazina 60 mg/100 ml). Las indicaciones (estimulante del apetito) vienen de dos farmacias; una ficha de otra tienda lo describe como antihistamínico y se ignoró por contradecir a las demás. El laboratorio: la caja muestra Ipal y YZA lista Senosiain; se usó Ipal. Farmacias lo listan como venta sin receta. La dosis no aparece en las fuentes.",
+    "notas_imagenes": "2 fotos de tienda (WeCare Pharma y Farmacias PuntoMX), caja de frente y en ángulo con la etiqueta legible.",
     "fecha": "2026-09-29"
   }
 }

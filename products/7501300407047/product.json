@@ -4,22 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "FEBRAX C15 TABS 275 300MG 252",
   "nombres_sistema_alternos": [],
-  "titulo": "Febrax 300 mg 15 Tabletas",
-  "descripcion": "Descripción:\nFebrax en presentación de caja con 15 tabletas, con 300 mg según la información del producto. Medicamento de administración oral. Consulte el empaque para conocer su composición, indicaciones, dosis y advertencias.\n\nPresentación:\nCaja con 15 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Febrax Naproxeno 275 mg Paracetamol 300 mg 15 Tabletas",
+  "descripcion": "Descripción:\nFebrax, de Siegfried Rhein, es un medicamento en tabletas que combina naproxeno sódico (275 mg), un antiinflamatorio no esteroideo, con paracetamol (300 mg), un analgésico y antipirético. Está indicado como auxiliar en el alivio del dolor y de la fiebre, como el dolor de cabeza, los dolores musculares, el dolor de espalda, el dolor de muelas, las molestias del periodo menstrual y el malestar del resfriado común. Se presenta en caja con 15 tabletas para administración por vía oral.\n\nBeneficios:\n- Doble acción: el naproxeno sódico actúa sobre el dolor y la inflamación, y el paracetamol sobre el dolor y la fiebre.\n- Auxiliar en dolor de cabeza, dolores musculares, inflamación, dolor de espalda y dolor de muelas.\n- Auxiliar en el malestar por resfriado común y en las molestias del periodo menstrual.\n\nComposición:\nCada tableta contiene: naproxeno sódico 275 mg y paracetamol 300 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con agua, de preferencia con alimentos para reducir las molestias gástricas. La dosis y la duración del tratamiento son las que indique su médico o el instructivo del empaque; no exceda la dosis recomendada ni lo combine con otros medicamentos que contengan paracetamol o antiinflamatorios.\n\nPresentación:\nCaja con 15 tabletas de 275 mg/300 mg.\n\nAdvertencias:\nNo lo use si es alérgico al naproxeno, al paracetamol, a la aspirina o a otros antiinflamatorios no esteroideos, ni si tiene úlcera o sangrado del estómago o del intestino. Puede causar molestias gástricas, mareo o somnolencia. Precaución en personas con enfermedad del hígado, del riñón o del corazón, o con hipertensión; evite el consumo de alcohol durante el tratamiento. No se use durante el embarazo ni la lactancia salvo indicación médica. Consérvese a no más de 30 °C y bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Febrax",
+    "fabricante": "Siegfried Rhein",
     "presentacion": "Tabletas",
     "contenido_neto": 15,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 15,
-    "concentracion": "300 mg",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Naproxeno sódico y paracetamol",
+    "concentracion": "Naproxeno sódico 275 mg; paracetamol 300 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "178M2014 SSA V",
+    "otros": "Analgésico, antipirético y antiinflamatorio; Conservación: no más de 30 °C; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407047_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407047_2.jpg",
+      "pagina": "https://www.fahorro.com/febrax-275-300-mg-oral-15-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1388,
+      "fecha": "2026-09-29",
+      "lado_util": 1286
+    },
+    {
+      "archivo": "7501300407047_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407047.jpg",
+      "pagina": "https://www.fahorro.com/febrax-275-300-mg-oral-15-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1396,
+      "fecha": "2026-09-29",
+      "lado_util": 1293
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/febrax-275-300-mg-oral-15-tabletas.html",
+    "https://sanorim.mx/products/febrax-naproxeno-275-mg-paracetamol-300-mg-caja-con-15-tabletas",
+    "https://farmaenvios.com/p/febrax-275300-mg-15-tabletas-7501300407047"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). No se identificó el principio activo; el nombre del sistema trae los números 275 y 300 mg y no se sabe si describen dos componentes (por ejemplo una combinación) o si 275 es un código interno. La categoría Otros Medicamentos es provisional.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda y en la URL de otra tienda. Concentración (275 mg/300 mg), fabricante y registro (178M2014 SSA V, fracción V: venta en farmacia sin receta) leídos en la foto de la caja; el borrador solo decía 300 mg. Dosis exacta no confirmada: se remite al instructivo.",
+    "notas_imagenes": "2 fotos de tienda del frente de la caja de 15 tabletas: una en ángulo con los datos del fabricante y una de frente.",
     "fecha": "2026-09-29"
   }
 }

@@ -5,17 +5,18 @@
   "nombre_sistema": "CLEARBLUE PLUS PBA EMBARAZO C1",
   "nombres_sistema_alternos": [],
   "titulo": "Prueba de Embarazo Clearblue Plus 1 Prueba",
-  "descripcion": "Descripción:\nClearblue Plus es una prueba de embarazo de uso en casa que detecta en la orina la hormona hCG, que se produce durante el embarazo. Se presenta en empaque individual con una prueba.\n\nModo de uso:\nLa prueba se realiza con una muestra de orina. Siga paso a paso las instrucciones del instructivo incluido en el empaque y lea el resultado en el tiempo que ahí se indica.\n\nPresentación:\nEmpaque con 1 prueba de embarazo.\n\nAdvertencias:\nProducto de uso diagnóstico in vitro, para uso externo. No lo reutilice. No lo utilice después de la fecha de caducidad del empaque. Conserve la prueba en su envoltura hasta el momento de usarla. Ante cualquier duda sobre el resultado, consulte a su médico para confirmarlo. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nClearblue Plus es una prueba de embarazo de uso en casa, en formato de varilla, que detecta en la orina la hormona hCG, presente durante el embarazo. El resultado se lee en una ventana con el símbolo + (embarazada) o - (no embarazada). Ofrece una precisión superior al 99 % a partir del día en que se espera el inicio del período.\n\nCaracterísticas:\n- Prueba individual, fácil de usar en casa.\n- Punta absorbente que cambia de color al recibir la orina.\n- Ventana de control que confirma que la prueba funcionó correctamente.\n\nModo de uso:\n- Si realiza la prueba a partir del día estimado de inicio del período, puede usar orina de cualquier hora del día; si la hace antes, use la primera orina de la mañana.\n- Retire la varilla del envoltorio de aluminio y quite la tapa azul.\n- Mantenga la punta absorbente hacia abajo en el flujo de orina, o en una muestra recogida en un recipiente limpio y seco, durante 5 segundos.\n- Mantenga la punta hacia abajo o coloque la varilla en posición horizontal y espere 3 minutos.\n- Lea el resultado en la ventana. Debe aparecer una línea azul en la ventana de control; si no aparece en 10 minutos, la prueba no funcionó correctamente.\n- Es indiferente que una de las líneas del símbolo + sea más clara o más oscura que la otra.\n\nPresentación:\nEmpaque con 1 prueba de embarazo.\n\nAdvertencias:\nUso externo, exclusivo para diagnóstico in vitro; no la ingiera. Use la prueba de inmediato después de sacarla del envoltorio y siga el instructivo incluido en el empaque. Ante cualquier duda sobre el resultado, consulte a su médico. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Clearblue",
     "fabricante": "SPD Swiss Precision Diagnostics",
     "linea": "Plus",
-    "presentacion": "Prueba de embarazo",
+    "variante": "Prueba de embarazo",
+    "presentacion": "Varilla de prueba",
     "contenido_neto": 1,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "pruebas",
     "unidades_por_envase": 1,
     "genero": "Mujer",
-    "otros": "Tipo de prueba: Embarazo; Uso: En casa; Formato de venta: Unidad"
+    "otros": "Tipo de resultado: símbolo + o -; Tiempo de espera: 3 minutos; Detecta hCG en orina; Formato de venta: Pieza"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506339397802_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506339397802.jpg",
+      "pagina": "https://www.yza.mx/clearblue-plus-1-pza/MXYZ_7506339397802.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1308,
+      "fecha": "2026-09-29",
+      "lado_util": 1212
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/clearblue-plus-1-pza/MXYZ_7506339397802.html",
+    "https://curitek.com/producto/clear-blue-plus-prueba-de-embarazo/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Descripción general basada en el nombre y en conocimiento general de las pruebas de embarazo; no se confirmó si es la versión de lectura analógica o digital, el tiempo de lectura ni la sensibilidad. Fabricante (SPD) tomado de conocimiento general. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. El sitio de Clearblue bloqueó el acceso; el fabricante SPD es de conocimiento general de la marca. Otra ficha de tienda menciona 1 minuto para el resultado (otra versión); se usó el instructivo con 3 minutos.",
+    "notas_imagenes": "1 foto de tienda (farmacia en línea) del empaque Clearblue Plus 1 prueba. Se descartó una imagen de Imagen no disponible.",
     "fecha": "2026-09-29"
   }
 }

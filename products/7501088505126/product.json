@@ -4,36 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "NEURALIN C 1 AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "Neuralin Inyectable 1 Ampolleta",
-  "descripcion": "Descripción:\nNeuralin es un medicamento en presentación de una ampolleta para uso inyectable, que se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones, vía de administración y dosis.\n\nPresentación:\nCaja con 1 ampolleta.\n\nModo de uso:\nLa aplicación debe ser realizada por personal de salud y la dosis la determina el médico.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Neuralin Solución Inyectable Complejo B 2 Ampolletas",
+  "descripcion": "Descripción:\nNeuralin solución inyectable, de Laboratorios Chinoin, combina en una misma caja dos ampolletas: la No. 1, con las vitaminas neurotropas B1, B6 y B12 y lidocaína, y la No. 2, con dexametasona. Se aplica por vía intramuscular profunda y está indicada en cuadros de neuritis y neuralgias en los que la inflamación debe reducirse con rapidez.\n\nBeneficios:\n- En neurología: neuritis, neuralgias, polineuritis, neuralgia intercostal, ciática, paresia facial, radiculoneuritis, síndrome cervical, hernia de disco intervertebral, mialgias, lumbalgias, tendinitis y síndrome escapulohumeral\n- En traumatología y ortopedia: tratamiento inicial intenso de neuritis aguda y de reumatismo articular y extraarticular, y traumatismo pre y posoperatorio\n- Las vitaminas B1, B6 y B12 actúan sobre las células del sistema nervioso y tienen actividad antinociceptiva\n\nComposición:\n- Ampolleta No. 1 (2 ml): clorhidrato de tiamina (vitamina B1) 200 mg, clorhidrato de piridoxina (vitamina B6) 100 mg, acetato de hidroxocobalamina (vitamina B12) equivalente a 5 mg de hidroxocobalamina y clorhidrato de lidocaína 30 mg\n- Ampolleta No. 2 (1 ml): fosfato sódico de dexametasona equivalente a 4 mg de fosfato de dexametasona\n\nModo de uso:\nVía intramuscular profunda. La dosis es la que el médico señale.\n\nPresentación:\nCaja con una ampolleta No. 1 de 2 ml y una ampolleta No. 2 de 1 ml.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Contiene un corticoide (dexametasona) y un anestésico local (lidocaína); su uso debe ser indicado y supervisado por un médico. Ábrase la caja por las líneas punteadas y lea la información adicional para el paciente impresa en la cara interna. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Neuralin",
-    "presentacion": "Ampolleta inyectable",
-    "contenido_neto": 1,
+    "fabricante": "Productos Farmacéuticos Chinoin",
+    "presentacion": "Solución inyectable (2 ampolletas)",
+    "contenido_neto": 2,
     "unidad_contenido": "ampolletas",
-    "unidades_por_envase": 1,
-    "otros": "Formato de venta: Caja"
+    "unidades_por_envase": 2,
+    "principio_activo": "Tiamina, piridoxina, hidroxocobalamina, lidocaína y dexametasona",
+    "concentracion": "Ampolleta 1: B1 200 mg, B6 100 mg, B12 5 mg, lidocaína 30 mg; Ampolleta 2: dexametasona 4 mg",
+    "via_administracion": "Intramuscular profunda",
+    "otros": "Ampolleta No. 1 de 2 ml y ampolleta No. 2 de 1 ml; Formato de venta: caja con 2 ampolletas"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40292559"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088505126_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4f25129c/images/large/7501088505126_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501088505126.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 986
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/neuralin.solucion.inyectable/36/101/8887/162",
+    "https://www.yza.mx/x/MXYZ_7501088505126.html",
+    "https://farmaciasmedina.com/detalleProducto/Neuralin-Inyeccion-1-Solucion-Ampolleta/7501088505126"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (Neuralin, 1 ampolleta); se asumió uso inyectable por ser ampolleta y no decir 'oral'. No se conoce el principio activo ni el fabricante (el mismo prefijo de GTIN, 7501088, incluye Antifludes, Alin y Koptin en el sistema); existe también Neuralin Relief en tabletas. Categoría y receta provisionales. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 1 ampolleta, pero la caja trae una ampolleta No. 1 y una No. 2 (dos ampolletas). El catálogo MLM40292559 apareció en resultados y corresponde a esta presentación, aunque no se abrió. Por contener dexametasona inyectable probablemente requiere receta; una farmacia la lista sin receta, por eso queda en Revisar.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda) donde se lee la fórmula completa.",
     "fecha": "2026-09-29"
   }
 }

@@ -32,16 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425600007_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425600007_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1512,
+      "fecha": "2026-09-29",
+      "lado_util": 1400
+    },
+    {
+      "archivo": "7506425600007_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425600007_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1469,
+      "fecha": "2026-09-29",
+      "lado_util": 1361
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425600007_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425600007_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Este GTIN (7506425600007) no sigue la serie 750642560434x de los otros UltraConfort del lote, así que la línea (UltraConfort vs. otra de Huggies) y las 44 piezas quedan por confirmar en el empaque. HU CONF UNI RN/E1 se interpretó como Huggies UltraConfort Unisex Recién Nacido Etapa 1. La página oficial lista la etapa RN/1 pero no pesos ni piezas.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): frente y 3/4 del empaque nuevo Ultra Confort Recién Nacido RN-1 44 pzas. Se descartó el diseño anterior (40 pzas)."
   }
 }

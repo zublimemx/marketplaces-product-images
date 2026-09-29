@@ -4,24 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PEDIASURE 237ML CHOCOLATE MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "PediaSure Sabor Chocolate 237 ml",
-  "descripcion": "Descripción:\nPediaSure es un complemento alimenticio líquido de Abbott, listo para beber, diseñado para niños. Esta presentación es una botella de 237 ml con sabor chocolate.\n\nBeneficios:\n- Contiene proteínas, vitaminas y minerales como complemento de la alimentación de los niños.\n- Formato individual, listo para tomar, sin preparación.\n- Sabor chocolate.\n\nModo de uso:\nAgite antes de abrir. Puede servirse frío. Consuma según la recomendación de su pediatra o nutriólogo. Una vez abierto, manténgalo en refrigeración y consúmalo en el plazo indicado en el empaque.\n\nPresentación:\nBotella individual de 237 ml, sabor chocolate.\n\nAdvertencias:\nEs un complemento alimenticio y no sustituye una alimentación variada y equilibrada. No es apto para personas con galactosemia ni con alergia a la proteína de la leche. No se administre por vía parenteral. Consulte a su pediatra ante cualquier duda.",
+  "titulo": "PediaSure Fórmula Especializada Chocolate 237 ml",
+  "descripcion": "Descripción:\nPediaSure es una fórmula de alimentación especializada para niños de 1 a 10 años con deficiencias que impactan su crecimiento. Contiene los cinco grupos de nutrientes esenciales (vitaminas, minerales, proteínas, grasas saludables y carbohidratos) para apoyar las necesidades nutricionales de los niños. Esta presentación es una botella de 237 ml lista para beber, con sabor a chocolate.\n\nBeneficios:\n- Ya viene lista para beber en la medida exacta.\n- Apoya el crecimiento y desarrollo infantil.\n- Contiene vitamina K2 y arginina, que apoyan el crecimiento, además de calcio y vitamina D para el crecimiento sano de los huesos.\n- Contiene nutrientes que ayudan a fortalecer las defensas.\n- Puede usarse como apoyo nutricional durante y entre comidas, como parte de una dieta correcta y equilibrada.\n\nComposición:\nMezcla de proteínas: concentrado de proteína de leche, proteína de suero y proteína aislada de soya, que aporta los aminoácidos esenciales recomendados para niños de 1 a 10 años. Consulte la lista completa de ingredientes y la tabla nutrimental en la etiqueta.\n\nModo de uso:\nProducto listo para beber. Úselo como apoyo nutricional durante o entre comidas, según lo indique el empaque o su médico, y siga las instrucciones de conservación de la etiqueta.\n\nPresentación:\nBotella de 237 ml, sabor chocolate.\n\nAdvertencias:\nConsulte a su médico acerca de las necesidades de alimentación específicas de su hijo. Contiene proteína de leche y de soya; no lo consuma si existe alergia a alguno de sus componentes. Manténgase fuera del alcance de los niños pequeños sin supervisión de un adulto.",
   "ficha": {
     "marca": "PediaSure",
     "fabricante": "Abbott",
+    "variante": "Chocolate",
     "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "edad_etapa": "Niños",
+    "edad_etapa": "1 a 10 años",
     "sabor_aroma": "Chocolate",
-    "genero": "Niños"
+    "otros": "Fórmula de alimentación especializada; Formato de venta: botella de 237 ml"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -29,14 +30,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033956317_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.contigo.abbott/content/dam/an/contigo/global/images/brands/mexico/pediasure-liquido-chocolate-237-ml-mx.png",
+      "pagina": "https://www.contigo.abbott/es-mx/marca/pediasure/pediasure",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 907,
+      "fecha": "2026-09-29",
+      "lado_util": 840
+    },
+    {
+      "archivo": "7501033956317_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033956317_11.jpg?width=1000&height=1000",
+      "pagina": "https://www.fahorro.com/pediasure-plus-suplemento-alimenticio-sabor-chocolate-237-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1541,
+      "fecha": "2026-09-29",
+      "lado_util": 1427
+    }
+  ],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/pediasure/pediasure",
+  "fuentes": [
+    "https://www.contigo.abbott/es-mx/marca/pediasure/pediasure",
+    "https://www.fahorro.com/pediasure-plus-suplemento-alimenticio-sabor-chocolate-237-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Identificación por nombre y conocimiento general de la marca; no se verificó el rango de edad exacto ni el envase (botella o tetra pak) en la ficha oficial. Se usó MLM438195 igual que Ensure en otros lotes.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas. Datos generales de PediaSure tomados del sitio oficial (página de marca, no específica de la botella de 237 ml). El nombre del sistema incluye 'MAYO 27' (caducidad, ignorado).",
+    "notas_imagenes": "2 fotos: 1 del sitio oficial de Abbott y 1 de tienda (diseño de envase vigente). Se descartó una foto de tienda con diseño anterior.",
     "fecha": "2026-09-29"
   }
 }

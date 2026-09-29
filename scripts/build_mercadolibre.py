@@ -53,6 +53,8 @@ FICHA_COLS = [
     ("otros", "Otros atributos"),
 ]
 N_IMG = 6
+IMG0 = get_column_letter(16 + 18)
+IMG1 = get_column_letter(16 + 18 + N_IMG - 1)
 ESTADOS = {"verificado": "Verificado", "sin_verificar": "Sin verificar", "pendiente": "Pendiente de investigar"}
 
 
@@ -100,6 +102,7 @@ def build(precios_csv, salida):
     par = wb.create_sheet("Parámetros")
     rev = wb.create_sheet("Revisión")
     cats = wb.create_sheet("Categorías usadas")
+    ava = wb.create_sheet("Avance", 0)
 
     # ---------------- Parámetros ----------------
     P = cfg["precios"]
@@ -206,7 +209,8 @@ def build(precios_csv, salida):
     rev_hdr = ["SKU", "Título", "Estado de investigación", "Confianza", "Encontrado por",
                "Receta en México según principio activo", "Categoría con receta sugerida (ID)",
                "Categoría con receta sugerida (ruta)", "Notas de investigación", "Nota de cruce de datos",
-               "Existencia en catálogo", "Página oficial", "Fuentes"]
+               "Existencia en catálogo", "Página oficial", "Fuentes", "Fotos", "Origen de fotos",
+               "Fotos con producto menor a 500 px", "Notas de fotos"]
     for j, h in enumerate(rev_hdr, start=1):
         rev.cell(row=1, column=j, value=h)
     style_header(rev, 1, len(rev_hdr))
@@ -278,12 +282,16 @@ def build(precios_csv, salida):
 
         # Revisión
         rx = ml.get("categoria_rx_sugerida", "")
+        all_imgs = p.get("imagenes", [])
+        origenes = ", ".join(sorted({im["origen"] for im in all_imgs}))
+        bajas = sum(1 for im in all_imgs if im.get("lado_util", 9999) < 500)
         rvals = [g, f"='Layout Mercado Libre'!C{i}", estado, inv.get("confianza", ""), inv.get("encontrado_por", ""),
                  p.get("receta_mx", ""), rx, cat_paths.get(rx, "") if rx else "", inv.get("notas", ""),
                  r.get("nota_cruce", ""), int(float(r["stock"])), p.get("url_oficial", ""),
-                 " | ".join(p.get("fuentes", []))]
+                 " | ".join(p.get("fuentes", [])), f"=COUNTA('Layout Mercado Libre'!{IMG0}{i}:{IMG1}{i})",
+                 origenes, bajas, inv.get("notas_imagenes", "")]
         for j, v in enumerate(rvals, start=1):
-            c = rev.cell(row=i, column=j, value=(v if v != "" else None))
+            c = rev.cell(row=i, column=j, value=(v if v != "" or j == 16 else None))
             c.font = BASE_FONT
         rev.cell(row=i, column=1).number_format = "@"
         rev.cell(row=i, column=2).font = LINK_FONT
@@ -316,6 +324,52 @@ def build(precios_csv, salida):
     cats.column_dimensions["D"].width = 14
     cats.freeze_panes = "A2"
 
+    # ---------------- Avance ----------------
+    ava["A1"] = "Avance de fichas y fotos para Mercado Libre"
+    ava["A1"].font = TITLE_FONT
+    ava["A2"] = "Completo = ficha verificada en internet y al menos una foto. Texto azul: dato de entrada."
+    ava["A2"].font = BASE_FONT
+    rng_e = f"Revisión!$C$2:$C${last}"
+    rng_f = f"Revisión!$N$2:$N${last}"
+    items = [
+        (4, "Productos a publicar", f"=COUNTA(Revisión!$A$2:$A${last})", None),
+        (5, "Con ficha verificada", f"=COUNTIF({rng_e},\"Verificado\")", None),
+        (6, "Con al menos una foto", f"=COUNTIF({rng_f},\">0\")", None),
+        (7, "Completos (ficha verificada y fotos)", f"=COUNTIFS({rng_e},\"Verificado\",{rng_f},\">0\")", None),
+        (8, "Verificados sin fotos", "=B5-B7", None),
+        (9, "Sin verificar (datos deducidos del nombre)", f"=COUNTIF({rng_e},\"Sin verificar\")", None),
+        (10, "Pendientes de investigar", f"=COUNTIF({rng_e},\"Pendiente de investigar\")", None),
+        (11, "Por investigar (sin verificar + pendientes)", "=B9+B10", None),
+        (12, "Avance (completos / total)", "=IF(B4=0,0,B7/B4)", PCT),
+        (14, "Productos por sesión", cfg.get("avance", {}).get("productos_por_sesion", 200), "input"),
+        (15, "Sesiones realizadas", cfg.get("avance", {}).get("sesiones_realizadas", 0), "input"),
+        (16, "Sesiones que faltan", "=ROUNDUP(B11/B14,0)", None),
+        (17, "Total de sesiones estimadas", "=B15+B16", None),
+    ]
+    for r, label, val, kind in items:
+        ava.cell(row=r, column=1, value=label).font = BASE_FONT
+        c = ava.cell(row=r, column=2, value=val)
+        c.font = INPUT_FONT if kind == "input" else BASE_FONT
+        if kind == PCT:
+            c.number_format = PCT
+    ava["C14"] = "Límite de búsquedas web por sesión: 200 (1 búsqueda por producto)"
+    ava["C14"].font = BASE_FONT
+    hist = cfg.get("avance", {}).get("historial", [])
+    if hist:
+        ava["A19"] = "Historial de sesiones"
+        ava["A19"].font = Font(name=FONT, bold=True, size=10)
+        for j, h in enumerate(["Sesión", "Fecha", "Productos investigados", "Fichas verificadas", "Productos con fotos nuevas"], start=1):
+            ava.cell(row=20, column=j, value=h)
+        style_header(ava, 20, 5)
+        for k, h in enumerate(hist, start=21):
+            for j, key in enumerate(["sesion", "fecha", "investigados", "verificados", "con_fotos"], start=1):
+                ava.cell(row=k, column=j, value=h.get(key)).font = INPUT_FONT
+    ava.column_dimensions["A"].width = 46
+    ava.column_dimensions["B"].width = 14
+    ava.column_dimensions["C"].width = 22
+    ava.column_dimensions["D"].width = 20
+    ava.column_dimensions["E"].width = 26
+
     # ---------------- Formato general ----------------
     widths_lay = {"A": 16, "B": 16, "C": 58, "D": 12, "E": 60, "F": 12, "G": 10, "H": 10, "I": 12, "J": 60,
                   "K": 16, "L": 22, "M": 12, "N": 14, "O": 16}
@@ -339,10 +393,10 @@ def build(precios_csv, salida):
     pre.auto_filter.ref = f"A1:S{last}"
     pre.row_dimensions[1].height = 42
 
-    for j, w in enumerate([16, 50, 20, 11, 14, 16, 16, 60, 70, 50, 12, 40, 80], start=1):
+    for j, w in enumerate([16, 50, 20, 11, 14, 16, 16, 60, 70, 50, 12, 40, 80, 8, 18, 14, 60], start=1):
         rev.column_dimensions[get_column_letter(j)].width = w
     rev.freeze_panes = "C2"
-    rev.auto_filter.ref = f"A1:M{last}"
+    rev.auto_filter.ref = f"A1:Q{last}"
     rev.row_dimensions[1].height = 30
 
     dv = DataValidation(type="decimal", operator="greaterThanOrEqual", formula1="0", allow_blank=True)

@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943444942_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwef827907/images/large/7501943444942_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-grande-44-pza/MXYZ_7501943444942.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 920,
+      "fecha": "2026-09-29",
+      "lado_util": 852
+    },
+    {
+      "archivo": "7501943444942_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwaa696aff/images/large/7501943444942_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-suavelastic-max-grande-44-pza/MXYZ_7501943444942.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 992,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
     "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
@@ -44,6 +67,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El GTIN 7501943444942 se confirma con 44 piezas en una farmacia en línea, en Chedraui y en el catálogo ML (coincide con el C/44 del sistema); algunas tiendas lo listan con 40 piezas, probablemente por un empaque anterior.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza. Se descartaron fotos de disenos anteriores."
   }
 }

@@ -4,14 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "SCARPETT AMP BETAMETAZONA MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "Scarpett Betametasona Solución Inyectable Ampolleta",
-  "descripcion": "Descripción:\nScarpett es un medicamento inyectable en ampolleta cuyo principio activo es la betametasona, un corticosteroide de uso médico. Se aplica por personal de salud y su dosis y duración las determina el médico. Consulte el empaque para conocer la concentración, el contenido y las indicaciones.\n\nPresentación:\nAmpolleta de solución inyectable de betametasona.\n\nModo de uso:\nLa aplicación debe ser realizada por personal de salud, por la vía y en la dosis que indique el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la betametasona o a otros corticosteroides, ni si tiene una infección activa no controlada, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Scarpett Betametasona Lidocaína Inyectable 2 Ampolletas",
+  "descripcion": "Descripción:\nScarpett es un medicamento inyectable de Especialidades Medicam que combina betametasona, un corticosteroide, y lidocaína, un anestésico local. Se presenta en una caja con dos ampolletas, la ampolleta A y la ampolleta B, de 1 ml cada una. Está indicado para su aplicación en afecciones alérgicas, dermatológicas, reumáticas y otras afecciones que responden a los corticosteroides sistémicos, y su uso corresponde a personal de salud.\n\nCaracterísticas:\n- Combinación de betametasona y lidocaína en presentación inyectable.\n- Caja con 1 ampolleta A y 1 ampolleta B, de 1 ml cada una.\n\nModo de uso:\nInyectable. La aplicación debe ser realizada por personal de salud; la dosis, la vía y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 1 ampolleta A de 1 ml y 1 ampolleta B de 1 ml.\n\nAdvertencias:\nMedicamento de venta con receta médica. Lea las indicaciones y contraindicaciones antes de su aplicación. No debe aplicarse en personas con hipersensibilidad a alguno de sus componentes. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Scarpett",
-    "presentacion": "Solución inyectable en ampolleta",
-    "principio_activo": "Betametasona",
+    "fabricante": "Especialidades Medicam",
+    "linea": "Scarpett",
+    "variante": "Betametasona / Lidocaína",
+    "presentacion": "Suspensión inyectable en ampolletas",
+    "contenido_neto": 2,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 2,
+    "principio_activo": "Betametasona y lidocaína",
+    "concentracion": "1 ml por ampolleta (A y B)",
     "via_administracion": "Inyectable",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Contenido: 1 ampolleta A de 1 ml y 1 ampolleta B de 1 ml; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -25,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "1306881054170_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/betametasona_lidocaina_scarpett_generico_iny_1x1_ml_1306881054170_90625cda-6ba0-4f08-9562-29b33b0db601.jpg?v=1762281884&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/betametasona-lidocaina-scarpett-generico-iny-1x1-ml",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 740,
+      "fecha": "2026-09-29",
+      "lado_util": 686
+    },
+    {
+      "archivo": "1306881054170_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://fmederyfarma.com/wp-content/uploads/2023/11/SCARPETT.png",
+      "pagina": "https://farmaciaherrera.com.mx/products/betametasona-lidocaina-scarpett-generico-iny-1x1-ml",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 416
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.rappi.com.mx/p/scarpett-solucion-inyectable-1170203",
+    "https://farmaciaherrera.com.mx/products/betametasona-lidocaina-scarpett-generico-iny-1x1-ml",
+    "https://fmederyfarma.com/producto/scarpett/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (ampolleta de betametasona; 'BETAMETAZONA' se escribió como betametasona). No se sabe si 'Scarpett' es la marca o un nombre interno, ni qué significa 'MEDICAM' (podría ser el laboratorio, p. ej. Medicamenta); tampoco la concentración, el contenido ni la vía exacta (IM/IA). El GTIN 1306881054170 tiene un prefijo atípico y parece un código interno; no se pudo buscar en línea. Categorías provisionales. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias, y el empaque en foto muestra Betametasona-Lidocaína, 1 ampolleta A y 1 ampolleta B de 1 ml. El nombre del sistema solo menciona betametasona. No se confirmó la concentración exacta de cada ampolleta; una ficha de terceros sugiere 7 mg/ml y 30 mg/ml, sin confirmar. El GTIN empieza con 1, por lo que parece un código interno del laboratorio.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Scarpett con leyenda de ampolletas A y B.",
     "fecha": "2026-09-29"
   }
 }

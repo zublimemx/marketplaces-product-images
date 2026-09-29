@@ -17,7 +17,8 @@
     "unidades_por_envase": 36,
     "edad_etapa": "Etapa 3",
     "genero": "Unisex",
-    "otros": "Tipo de pañal: Desechable; Formato de venta: Unidad"
+    "otros": "Tipo de pañal: Desechable; Formato de venta: Unidad",
+    "talla": "Etapa 3 (7 a 10 kg)"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,18 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943441729_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501943441729-1.png",
+      "pagina": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501943441729-1.png",
+      "ancho_original": 2119,
+      "alto_original": 1181,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Huggies-Supreme-Panales-Unisex-Etapa-3/7501943441729",
     "https://www.emeritafarmacias.com/producto/huggies-panal-supreme-nino-e-3-c36/",
-    "https://www.sears.com.mx/producto/811792/huggies-supreme-nino-e3-1-paquete-36-panales"
+    "https://www.sears.com.mx/producto/811792/huggies-supreme-nino-e3-1-paquete-36-panales",
+    "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501943441729-1.png"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (36 piezas, Etapa 3). Algunas fichas lo titulan Niño y otras Unisex; se respetó Unisex del nombre del sistema. Las fuentes no traen ficha técnica detallada, por eso la descripción es general.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s), origen tienda: 1 de grupofarmapronto.com (7501943441729_1.jpg; 2000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Solo se halló una foto utilizable (farmalisto/Sears/Medina dieron captcha, 403 o <500 px)."
   }
 }

@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL 118ML ORIG",
   "nombres_sistema_alternos": [],
-  "titulo": "Pepto Bismol Suspensión Original 118 ml",
-  "descripcion": "Descripción:\nPepto Bismol Original es una suspensión oral de la marca Pepto-Bismol a base de subsalicilato de bismuto, en presentación de 118 ml.\n\nComposición:\nSubsalicilato de bismuto como principio activo. Consulte en el empaque la concentración y los demás componentes.\n\nModo de uso:\nAgite bien antes de usar y administre por vía oral siguiendo la dosis indicada en el empaque.\n\nPresentación:\nFrasco con 118 ml de suspensión oral.\n\nAdvertencias:\nContiene un derivado del ácido salicílico; consulte a su médico antes de usarlo si es alérgico a la aspirina o si toma otros medicamentos con salicilatos o anticoagulantes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Pepto-Bismol Original Suspensión Oral 118 ml",
+  "descripcion": "Descripción:\nPepto-Bismol Original es una suspensión oral a base de subsalicilato de bismuto que cubre, protege y alivia las molestias digestivas más comunes. Controla la diarrea en menos de 24 horas y alivia la acidez, la indigestión, el malestar estomacal y la náusea. Se presenta en frasco de 118 ml.\n\nBeneficios:\n- Cubre, protege y alivia: acidez, indigestión, malestar estomacal, náusea y diarrea.\n- Control de la diarrea en menos de 24 horas, según la información de la ficha.\n- Adyuvante en la terapia combinada para el tratamiento de la enfermedad ulcerosa péptica causada por Helicobacter pylori.\n\nComposición:\n- Subsalicilato de bismuto\n- Vehículo cbp\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 1 dosis (30 ml o 2 cucharadas) cada hora, sin exceder 8 dosis al día. Tome hasta que la diarrea desaparezca, pero no por más de 2 días.\n\nPresentación:\nFrasco con 118 ml de suspensión oral.\n\nAdvertencias:\nNo debe usarse para tratar el vómito ni en niños o adolescentes que padezcan o se recuperen de varicela o gripe, por el riesgo de síndrome de Reye. No se administre a niños menores de 12 años. Puede oscurecer temporalmente la lengua y las heces. Si la diarrea dura más de 2 días, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Pepto-Bismol",
     "fabricante": "Procter & Gamble",
@@ -15,7 +15,10 @@
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Subsalicilato de bismuto",
-    "via_administracion": "Oral"
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "sabor_aroma": "Original",
+    "otros": "Formato: frasco; Condición de venta: sin receta"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "020800753067_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciapvr.com/wp-content/uploads/2020/01/antiacidos-pepto-bismol-original-118ml.jpg",
+      "pagina": "https://farmaciapvr.com/en/producto/pepto-bismol-118ml-2/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 522,
+      "fecha": "2026-09-29",
+      "lado_util": 484
+    },
+    {
+      "archivo": "020800753067_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/2/020800753067_1.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1368,
+      "fecha": "2026-09-29",
+      "lado_util": 1267
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Trastornos_digestivos/2927-pepto-bismol-original-suspension-con-118-ml.html",
+    "https://farmaciapvr.com/en/producto/pepto-bismol-118ml-2/",
+    "https://farmaspanama.com/medicamentos-y-suplementos/665-pepto-bismol-original-suspension-118ml-20800753067.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por el nombre y conocimiento general de la marca. El GTIN es un UPC de 12 dígitos (no se probó con 0 inicial). Falta confirmar concentración (subsalicilato de bismuto por 15 ml), fabricante y registro sanitario.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN (UPC 20800753067) solo se confirmó en un listado de Panamá; la ficha de uso viene de un listado mexicano del mismo producto de 118 ml. No se anotó la concentración por no verse legible en la etiqueta.",
+    "notas_imagenes": "2 fotos de frente del frasco (tienda). Se descartó una con marca de agua de tienda.",
     "fecha": "2026-09-29"
   }
 }

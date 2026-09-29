@@ -4,24 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "AJOLOTIUS JBE MIEL 250ML VDE 40",
   "nombres_sistema_alternos": [],
-  "titulo": "Ajolotius Jarabe Miel 250 ml",
-  "descripcion": "Descripción:\nAjolotius es un jarabe con miel de administración oral que se presenta en frasco de 250 ml. No se pudo confirmar su fabricante, su composición completa ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nFrasco con 250 ml de jarabe con miel.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. No se recomienda en menores de un año por contener miel. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ajolotius Jarabe Original con Miel Ajolomiel 250 ml",
+  "descripcion": "Descripción:\nAjolotius Jarabe Original con Miel (Ajolomiel) es un jarabe de miel de abeja pura elaborado con una selección de extractos de la herbolaria mexicana, como bugambilia, eucalipto, menta, gordolobo, palo mulato, tejocote y cuatecomate, adicionado con vitaminas A y C. Es un suplemento alimenticio de la línea Original, una fórmula tradicional pensada para las molestias comunes del resfriado y las vías respiratorias.\n\nBeneficios:\n- Fórmula herbal con miel de abeja y extractos de menta, eucalipto, tejocote y bugambilia.\n- Adicionado con vitaminas A y C.\n- Sabor herbal y agradable para toda la familia.\n- Frasco de 250 ml con 25 porciones de 10 ml.\n\nComposición:\nInformación por porción de 10 ml: 40.45 kcal, carbohidratos 9.8 g, proteínas 0.051 g, grasas 0.116 g, sodio 5.41 mg; miel de abeja 0.335 g; extractos de menta, eucalipto, tejocote y bugambilia 0.34 g de cada uno; vitamina C (ácido ascórbico) 0.004 g y vitamina A (retinol) 0.3 mg.\n\nModo de uso:\n- Adultos: una cucharada sopera (10 ml) tres veces al día.\n- Niños a partir de 3 años: una cucharadita cafetera (5 ml) tres veces al día.\n\nPresentación:\nFrasco con 250 ml de jarabe (25 porciones de 10 ml).\n\nAdvertencias:\nProducto no recomendado para niños menores de 3 años. Este producto no es un medicamento. El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Ajolotius",
-    "variante": "Miel",
+    "fabricante": "Ajolotius",
+    "linea": "Original",
+    "variante": "Jarabe con miel (Ajolomiel)",
     "presentacion": "Jarabe",
     "contenido_neto": 250,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Miel de abeja, extractos herbales y vitaminas A y C",
     "via_administracion": "Oral",
-    "sabor_aroma": "Miel",
-    "otros": "Formato de venta: Frasco de 250 ml"
+    "edad_etapa": "Niños desde 3 años y adultos",
+    "sabor_aroma": "Herbal con miel",
+    "otros": "Suplemento alimenticio; 25 porciones de 10 ml; No es un medicamento; Formato de venta: Frasco"
   },
-  "receta_mx": "No",
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457814",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -29,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7500462746605_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://ajolotius.com/wp-content/uploads/2026/08/cara-1-jajolomiel.png",
+      "pagina": "https://ajolotius.com/producto/jarabe-con-miel/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1205,
+      "fecha": "2026-09-29",
+      "lado_util": 1116
+    },
+    {
+      "archivo": "7500462746605_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://ajolotius.com/wp-content/uploads/2026/08/cara-2-jajolomiel.png",
+      "pagina": "https://ajolotius.com/producto/jarabe-con-miel/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1204,
+      "fecha": "2026-09-29",
+      "lado_util": 1115
+    },
+    {
+      "archivo": "7500462746605_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://ajolotius.com/wp-content/uploads/2026/08/cara-3-ajolomiel.png",
+      "pagina": "https://ajolotius.com/producto/jarabe-con-miel/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1205,
+      "fecha": "2026-09-29",
+      "lado_util": 1116
+    }
+  ],
+  "url_oficial": "https://ajolotius.com/producto/jarabe-con-miel/",
+  "fuentes": [
+    "https://ajolotius.com/producto/jarabe-con-miel/",
+    "https://www.klyns.mx/ajolotius-jarabe-con-miel-250-ml/p",
+    "https://www.farmaciasespecializadas.com/ajolotius-con-miel-original-jbe-bot-c-250ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó qué es Ajolotius (se asumió jarabe para la tos o garganta con miel por el nombre y el precio bajo), ni su fabricante o composición; la categoría Respiratorios Venta Libre es provisional. VDE 40 al final del nombre se ignoró. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ficha oficial del fabricante consultada. La etiqueta indica que no es un medicamento; por eso se clasificó como suplemento.",
+    "notas_imagenes": "3 fotos oficiales del sitio del fabricante (frente, reverso con modo de empleo y reverso con información nutrimental) del frasco de 250 ml.",
     "fecha": "2026-09-29"
   }
 }

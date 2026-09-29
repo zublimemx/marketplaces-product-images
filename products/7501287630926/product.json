@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "TERRAMICINA CAP C16 AGOSTO 27 112",
   "nombres_sistema_alternos": [],
-  "titulo": "Terramicina Oxitetraciclina 16 Cápsulas",
-  "descripcion": "Descripción:\nTerramicina, de Pfizer, es un antibiótico de amplio espectro del grupo de las tetraciclinas cuyo principio activo es la oxitetraciclina. Se presenta en cápsulas para administración por vía oral, en caja con 16 cápsulas.\n\nBeneficios:\n- Antibiótico de la familia de las tetraciclinas, activo contra diversas bacterias.\n- Se emplea en infecciones causadas por microorganismos sensibles, siempre bajo indicación médica.\n- Presentación en cápsulas de fácil administración.\n\nComposición:\nCada cápsula contiene oxitetraciclina.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento deben ser indicadas por el médico; complete el tratamiento aunque los síntomas mejoren. Trague las cápsulas con un vaso de agua y evite tomarlas junto con leche, lácteos, antiácidos o suplementos de hierro o calcio, ya que pueden disminuir su absorción.\n\nPresentación:\nCaja con 16 cápsulas.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a las tetraciclinas. No se administre durante el embarazo ni la lactancia ni a niños menores de 8 años, porque las tetraciclinas pueden manchar los dientes en desarrollo. Puede causar molestias gastrointestinales y aumentar la sensibilidad de la piel al sol. Precaución en insuficiencia del hígado o del riñón. El uso de antibióticos sin indicación médica favorece la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Terramicina Oxitetraciclina 500 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nTerramicina, de Pfizer, es un antibiótico de amplio espectro del grupo de las tetraciclinas cuyo principio activo es la oxitetraciclina. Cada cápsula contiene 500 mg y se administra por vía oral. La presentación es una caja con 16 cápsulas.\n\nBeneficios:\n- Antibiótico indicado en infecciones causadas por microorganismos sensibles, siempre con indicación médica.\n- Su ficha para el médico incluye infecciones por rickettsias (como la fiebre manchada de las Montañas Rocallosas y el tifo), infecciones respiratorias por Mycoplasma pneumoniae, tracoma, cólera, brucelosis, así como infecciones respiratorias, urinarias y de piel y tejidos blandos por bacterias sensibles.\n- En tratamientos prolongados se emplea también en acné vulgar y rosácea, bajo supervisión médica.\n\nComposición:\nCada cápsula contiene clorhidrato de oxitetraciclina equivalente a 500 mg de oxitetraciclina y excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento las determina el médico; complete el tratamiento aunque los síntomas mejoren. Trague las cápsulas con un vaso de agua y evite tomarlas junto con leche, lácteos, antiácidos o suplementos de hierro o calcio, porque pueden disminuir su absorción.\n\nPresentación:\nCaja con 16 cápsulas.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a las tetraciclinas. Las tetraciclinas pueden manchar los dientes en desarrollo, por lo que no se recomiendan durante el embarazo, la lactancia ni en niños menores de 8 años salvo indicación médica. Puede causar molestias gastrointestinales y aumentar la sensibilidad de la piel al sol. Precaución en insuficiencia del hígado o del riñón. El uso de antibióticos sin indicación médica favorece la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Terramicina",
     "fabricante": "Pfizer",
+    "variante": "500 mg",
     "presentacion": "Cápsulas",
     "contenido_neto": 16,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 16,
     "principio_activo": "Oxitetraciclina",
+    "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "otros": "Grupo: Tetraciclinas; Venta con receta médica; Formato de venta: Caja"
+    "otros": "Grupo: tetraciclinas; Venta con receta médica; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501287630926_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/Imagenes_de_planograma__067891d9-ecf4-45c1-807a-94eb10d2ea75__07501287630926.1.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/terramicina-500mg-con-16-capsulas-oxitetraciclina",
+      "ancho_original": 550,
+      "alto_original": 550,
+      "lado_final": 537,
+      "fecha": "2026-09-29",
+      "lado_util": 498
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/terramicina.capsulas/131/101/10065/14",
+    "https://club.presalud.com/shop/medicamentos-2/7501287630926-terramicina-500-mg-16-capsulas-33529",
+    "https://wecarepharma.mx/en/products/terramicina-500mg-con-16-capsulas-oxitetraciclina"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre y conocimiento general (Terramicina = oxitetraciclina, Pfizer). Falta la concentración por cápsula (probablemente 250 mg, por confirmar en el empaque) y el registro sanitario; por eso el título no lleva mg. Antibiótico: requiere receta en México.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de tienda. La caja (foto) confirma 500 mg y 16 cápsulas. Antibiótico: requiere receta en México.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja (Pfizer, 500 mg, 16 cápsulas). No se encontraron más fotos limpias.",
     "fecha": "2026-09-29"
   }
 }

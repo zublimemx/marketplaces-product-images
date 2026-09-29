@@ -17,7 +17,9 @@
     "via_administracion": "Vaginal",
     "edad_etapa": "Adultos",
     "genero": "Mujer",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: Unidad",
+    "fabricante": "Sanfer",
+    "concentracion": "Acetónido de fluocinolona 0.50 mg / metronidazol 500 mg / nistatina 100,000 UI por óvulo"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,7 +33,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008493007_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008493007_1_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vagitrol-v-ovu-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "fecha": "2026-09-29",
+      "lado_util": 804
+    },
+    {
+      "archivo": "7501008493007_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008493007_2_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vagitrol-v-ovu-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 867,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    },
+    {
+      "archivo": "7501008493007_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008493007_3_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vagitrol-v-ovu-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    },
+    {
+      "archivo": "7501008493007_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008493007_4_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vagitrol-v-ovu-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 866,
+      "fecha": "2026-09-29",
+      "lado_util": 802
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/vagitrol-v-ovu-caj-c-10.html",
@@ -42,6 +89,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 10 óvulos confirmados. Las fuentes no traen concentraciones por óvulo ni registro sanitario, por eso no se incluyeron. El fabricante aparece como Sanfer en una farmacia y Bayer en otra; no se incluyó. Es un medicamento con receta (contiene antimicrobiano); se publica en venta libre por instrucción del dueño.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7501008493007_1.jpg, 7501008493007_2.jpg, 7501008493007_3.jpg, 7501008493007_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

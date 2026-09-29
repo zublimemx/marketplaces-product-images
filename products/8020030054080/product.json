@@ -5,7 +5,7 @@
   "nombre_sistema": "FLONORM TAB 550MG C14",
   "nombres_sistema_alternos": [],
   "titulo": "Flonorm Rifaximina 550 mg 14 Tabletas",
-  "descripcion": "Descripción:\nFlonorm es un medicamento antibiótico en tabletas de 550 mg cuyo principio activo es la rifaximina. Se presenta en caja con 14 tabletas y es de la marca de Alfasigma. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\nCada tableta contiene 550 mg de rifaximina.\n\nPresentación:\nCaja con 14 tabletas de 550 mg.\n\nAdvertencias:\nSu venta normalmente requiere receta médica. No lo use sin indicación médica ni suspenda el tratamiento por su cuenta. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nFlonorm es un medicamento de Alfasigma cuyo principio activo es la rifaximina, un antibiótico de acción principalmente intestinal. Esta presentación contiene 14 tabletas de 550 mg y se utiliza únicamente bajo prescripción médica, con la dosis y la duración que determine el especialista.\n\nBeneficios:\n- Antibiótico de acción local en el tubo digestivo, indicado en infecciones gastrointestinales causadas por bacterias sensibles, como la diarrea del viajero.\n- Se emplea en el manejo del sobrecrecimiento bacteriano del intestino delgado, según criterio médico.\n- Se utiliza en la reducción de la producción de amoniaco en pacientes con encefalopatía hepática, bajo supervisión médica.\n\nComposición:\nCada tableta contiene rifaximina 550 mg.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento los determina el médico; complete el esquema indicado aunque las molestias disminuyan.\n\nPresentación:\nCaja con 14 tabletas de 550 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la rifaximina, a otros antibióticos de la misma familia o a algún componente de la fórmula, ni en caso de obstrucción intestinal. Consulte al médico si presenta diarrea con sangre o fiebre, o si las molestias no mejoran. Informe si tiene enfermedad del hígado o de los riñones, si está embarazada o en lactancia, o si toma otros medicamentos. Conservar en lugar fresco y seco, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Flonorm",
     "fabricante": "Alfasigma",
@@ -16,8 +16,8 @@
     "principio_activo": "Rifaximina",
     "concentracion": "550 mg",
     "via_administracion": "Oral",
-    "genero": "Unisex",
-    "otros": "Venta con receta médica; Tipo: Antibiótico"
+    "edad_etapa": "Adultos",
+    "otros": "Venta con receta médica; Grupo terapéutico: Antibiótico intestinal; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8020030054080_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/0/8020030054080_1.jpg",
+      "pagina": "https://www.farmaleal.com.mx/products/flonorm-550-mg-14-tab-8020030054080",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1452,
+      "fecha": "2026-09-29",
+      "lado_util": 1342
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/flonorm-550mg-con-14-tabletas-rifaximina",
+    "https://www.farmaleal.com.mx/products/flonorm-550-mg-14-tab-8020030054080",
+    "https://curitek.com/producto/flonorm-rifaximina/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Principio activo (rifaximina) y fabricante (Alfasigma; el prefijo GTIN 8020030 coincide con otro producto Alfasigma del catálogo) deducidos de conocimiento previo, sin confirmar en fuente. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en URL de ficha de farmacia; caja de frente muestra Rifaximina 550 mg, 14 tabletas, Alfasigma. Indicaciones de ficha de farmacia (no se vio el reverso).",
+    "notas_imagenes": "1 foto de frente (tienda: imagen de Farmacias del Ahorro), correcta en concentración y contenido; el campo de página quedó con la ficha de Farma Leal.",
     "fecha": "2026-09-29"
   }
 }

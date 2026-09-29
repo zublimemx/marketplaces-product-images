@@ -4,15 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "TRIXONA I M 1GR CEFTRIAXONA BRULAGSA",
   "nombres_sistema_alternos": [],
-  "titulo": "Trixona Ceftriaxona 1 g Solución Inyectable",
-  "descripcion": "Descripción:\nTrixona es una solución inyectable de ceftriaxona de 1 g para administración por vía intramuscular, del laboratorio Brulagsa. La ceftriaxona es un antibiótico de la familia de las cefalosporinas.\n\nComposición:\nCeftriaxona 1 g por envase. Consulte en el empaque los demás componentes y el diluyente incluido.\n\nModo de uso:\nAplicación intramuscular por personal de salud, con la dosis y duración que indique el médico.\n\nPresentación:\nEnvase con solución inyectable de 1 g para uso intramuscular.\n\nAdvertencias:\nSu venta requiere receta médica y su aplicación debe realizarla personal de salud. No debe usarse en caso de alergia a cefalosporinas o penicilinas sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Trixona I.M. Ceftriaxona 1 g Solución Inyectable",
+  "descripcion": "Descripción:\nTrixona I.M. es un antibiótico cefalosporínico cuyo principio activo es la ceftriaxona, en presentación de 1 g para aplicación intramuscular. Se utiliza en el tratamiento de infecciones bacterianas causadas por microorganismos sensibles a la ceftriaxona. Es un medicamento de prescripción que debe ser indicado y aplicado bajo supervisión médica. Es fabricado por Laboratorios Bruluagsa.\n\nComposición:\nCada frasco ámpula contiene ceftriaxona en dosis de 1 g. La caja incluye una ampolleta con 3.5 ml de diluyente para preparar la solución inyectable; consulte en el empaque la composición completa del diluyente.\n\nModo de uso:\nVía intramuscular. La dosis y la duración del tratamiento son las que el médico señale. Prepare la solución únicamente con el diluyente incluido.\n\nPresentación:\nCaja con un frasco ámpula con polvo y una ampolleta con diluyente de 3.5 ml.\n\nAdvertencias:\nSu venta requiere receta médica vigente. Antibiótico: el uso incorrecto puede causar resistencia bacteriana. Informe a su médico si es alérgico a las penicilinas, a las cefalosporinas o a algún otro medicamento, y si está embarazada o en periodo de lactancia. No se automedique. Consérvese a no más de 30 °C y bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Trixona",
-    "fabricante": "Brulagsa",
-    "presentacion": "Solución inyectable",
+    "fabricante": "Laboratorios Bruluagsa",
+    "linea": "I.M.",
+    "presentacion": "Solución inyectable (polvo con diluyente)",
+    "contenido_neto": 1,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
     "principio_activo": "Ceftriaxona",
     "concentracion": "1 g",
-    "via_administracion": "Intramuscular"
+    "via_administracion": "Intramuscular",
+    "otros": "Caja con frasco ámpula con polvo y ampolleta con diluyente de 3.5 ml; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -26,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502208891228_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Triaxona_1.jpg?v=1684422501",
+      "pagina": "https://sanorim.mx/products/trixona-i-m-ceftriaxona-1-g-solucion-inyectable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 555,
+      "fecha": "2026-09-29",
+      "lado_util": 514
+    },
+    {
+      "archivo": "7502208891228_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Triaxona.jpg?v=1684422501",
+      "pagina": "https://sanorim.mx/products/trixona-i-m-ceftriaxona-1-g-solucion-inyectable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 508,
+      "fecha": "2026-09-29",
+      "lado_util": 471
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/trixona-i-m-ceftriaxona-1-g-solucion-inyectable",
+    "https://curitek.com/producto/trixona-i-m-1-g-ceftriaxona/",
+    "https://www.fpsf.mx/products/ceftriaxona-1-g-trixona-solucion-inyectable-i-m"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados literalmente del nombre (I M = intramuscular, 1 g, ceftriaxona, Brulagsa). Los antibióticos requieren receta en México; se sugiere la categoría Rx aunque el dueño pidió publicar como venta libre. Falta confirmar si incluye diluyente y el número de piezas.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema escribe BRULAGSA; el empaque y las fuentes dicen Bruluagsa. No se encontró la composición del diluyente ni el registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda (frente de la caja en ángulo y de frente, 600x600).",
     "fecha": "2026-09-29"
   }
 }

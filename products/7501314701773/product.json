@@ -4,20 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "FOSFOCIL GU 3G C1 SOBRE",
   "nombres_sistema_alternos": [],
-  "titulo": "Fosfocil GU Fosfomicina 3 g 1 Sobre",
-  "descripcion": "Descripción:\nFosfocil GU es un antibiótico en sobre de dosis única cuyo principio activo es la fosfomicina (3 g). La sigla GU hace referencia a su uso en infecciones del aparato genitourinario, en particular de las vías urinarias, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada sobre contiene fosfomicina 3 g.\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre en agua, según las instrucciones del empaque o de su médico, y tómelo de inmediato.\n\nPresentación:\nCaja con 1 sobre.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin prescripción médica.\n- No lo use si es alérgico a la fosfomicina.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si tiene problemas de los riñones.\n- Si los síntomas no mejoran en unos días, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Fosfocil GU Fosfomicina Granulado 3 g 1 Sobre",
+  "descripcion": "Descripción:\nFosfocil GU es un antibiótico de Senosiain en granulado para solución oral, para adultos, cuyo principio activo es la fosfomicina en dosis de 3 g por sobre. Está indicado en el tratamiento de infecciones de las vías urinarias bajas sensibles a la fosfomicina, como cistitis aguda y recurrente, síndrome uretrovesical, bacteriuria asintomática del embarazo, infecciones urinarias posoperatorias y uretritis, así como en la profilaxis antes de maniobras diagnósticas transuretrales.\n\nCaracterísticas:\n- Antibiótico bactericida que actúa inhibiendo la síntesis de la pared de la bacteria.\n- Presentación de dosis única en un solo sobre de 3 g.\n- Para uso en adultos.\n\nComposición:\nCada sobre contiene fosfomicina 3 g (como trometamol).\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre en agua y tómelo según la indicación de su médico; en infecciones urinarias no complicadas se emplea por lo general una sola dosis de 3 g.\n\nPresentación:\nCaja con 1 sobre de granulado de 3 g.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a la fosfomicina o a algún componente de la fórmula, ni si tiene insuficiencia renal grave.\n- Consulte a su médico si está embarazada o en periodo de lactancia.\n- No se automedique.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Fosfocil",
-    "variante": "GU",
-    "presentacion": "Sobre",
+    "fabricante": "Senosiain",
+    "linea": "GU",
+    "variante": "Adulto",
+    "presentacion": "Granulado para solución oral en sobre",
     "contenido_neto": 1,
-    "unidad_contenido": "sobres",
+    "unidad_contenido": "sobre",
     "unidades_por_envase": 1,
-    "principio_activo": "Fosfomicina",
+    "principio_activo": "Fosfomicina (como trometamol)",
     "concentracion": "3 g",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "216M2001 SSA",
+    "otros": "Requiere receta médica; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +34,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701773_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__81aac07b-48dc-447d-aa76-e8e6565078fe.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/fosfocil-gu-sobre-granulado-3g-fosfomicina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    },
+    {
+      "archivo": "7501314701773_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501314701773.jpg",
+      "pagina": "https://www.emeritafarmacias.com/producto/fosfocil-g-u-sob-gdo-3g-ad/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1142740/fosfocil-gu-granulado-3-g",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/9483-fosfocil-gu-para-adulto-granulado-de-3-g-con-1-sobre.html",
+    "https://farmaciasmedina.com/detalleProducto/Fosfocil-G.u.-Granulado-Adulto-1-Granulado-Sobre/7501314701773"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (FOSFOCIL GU 3G C1 SOBRE). El GTIN sigue la misma secuencia y prefijo que Fosfocil IM (...711) y Fosfocil 500 mg (...766), ambos confirmados, lo que apoya que sea la misma marca. No se declaró la sal de la fosfomicina (probablemente trometamol) ni el fabricante.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (adulto, 1 sobre de 3 g). Registro sanitario tomado de Vademecum. La sal (trometamol) viene de una ficha de farmacia; la caja solo dice fosfomicina. Requiere receta con retención según farmacia.",
+    "notas_imagenes": "2 fotos de tienda (WeCare Pharma y Emerita Farmacias), frente de la caja. Se rechazó una foto de Farmacias Medina por ser menor a 500 px.",
     "fecha": "2026-09-29"
   }
 }

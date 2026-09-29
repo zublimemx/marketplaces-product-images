@@ -4,18 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "SINUBERASE COLITIS 4BILL 5ML AMP C20",
   "nombres_sistema_alternos": [],
-  "titulo": "Sinuberase Colitis 4 Billones 20 Ampolletas de 5 ml",
-  "descripcion": "Descripción:\nSinuberase Colitis es un producto de la línea Sinuberase, en ampolletas de 5 ml con un contenido de 4 billones por dosis, según la presentación. Se ofrece en caja con 20 ampolletas.\n\nPresentación:\nCaja con 20 ampolletas de 5 ml.\n\nAdvertencias:\nConsulte la composición, las indicaciones y el modo de uso en el empaque. Conservar de acuerdo con las instrucciones del fabricante. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sinuberase Colitis Probiótico 4 Billones 20 Ampolletas",
+  "descripcion": "Descripción:\nSinuberase Colitis es una suspensión de probióticos con esporas de Bacillus clausii, de administración oral, para niños y adultos. Ofrece un alivio prolongado de las molestias de la colitis y ayuda a restaurar y proteger la flora intestinal. Se presenta en caja con 20 ampolletas de 5 ml.\n\nBeneficios:\n- Alivia molestias de la colitis como dolor e inflamación abdominal, gases y estreñimiento.\n- Restaura, protege y fortalece la flora intestinal alterada por mala alimentación, trastornos en la dieta, diarrea, infecciones intestinales, intoxicaciones y uso de antibióticos.\n- Estimula el correcto funcionamiento del sistema inmune.\n- Una ampolleta al día, fácil de incluir en la rutina diaria.\n\nComposición:\nCada ampolleta de 5 ml contiene esporas de Bacillus clausii 4 billones de UFC. Vehículo cbp 5 ml.\n\nModo de uso:\nVía oral. Se recomienda una ampolleta al día, o la dosis que indique el empaque o su médico.\n\nPresentación:\nCaja con 20 ampolletas de 5 ml (4 billones de UFC por ampolleta).\n\nAdvertencias:\nNo lo utilice si es alérgico a algún componente de la fórmula. Si los síntomas persisten, hay fiebre o sangre en las evacuaciones, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sinuberase",
-    "variante": "Colitis",
-    "presentacion": "Ampolletas",
-    "contenido_neto": 5,
-    "unidad_contenido": "ml",
+    "fabricante": "Sanofi",
+    "linea": "Colitis",
+    "variante": "4 billones de UFC",
+    "presentacion": "Suspensión oral en ampolletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "ampolletas de 5 ml",
     "unidades_por_envase": 20,
-    "concentracion": "4 billones"
+    "principio_activo": "Esporas de Bacillus clausii",
+    "concentracion": "4 billones de UFC por ampolleta de 5 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños y adultos",
+    "otros": "Probiótico; Formato de venta: caja con 20 ampolletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
@@ -27,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798025705_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7005371/3664798025705_01.jpg?v=639183665308770000",
+      "pagina": "https://www.farmatodo.com.mx/sinuberase-colitis-suspension-caja-c-20-ampolletas-de-5-ml-c-u-v1/p",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1860,
+      "fecha": "2026-09-29",
+      "lado_util": 1723
+    },
+    {
+      "archivo": "3664798025705_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3664798025705_1_3.jpg?width=1000&height=1000",
+      "pagina": "https://www.farmatodo.com.mx/sinuberase-colitis-suspension-caja-c-20-ampolletas-de-5-ml-c-u-v1/p",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1558,
+      "fecha": "2026-09-29",
+      "lado_util": 1443
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sinuberase-probioticos-colitis-20-ampolletas.html",
+    "https://www.farmatodo.com.mx/sinuberase-colitis-suspension-caja-c-20-ampolletas-de-5-ml-c-u-v1/p",
+    "https://curitek.com/producto/sinuberase-colitis-20-ampolletas-probioticos/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó qué contiene (probablemente un probiótico, dato no verificado), la vía ni el fabricante; la categoría Digestivos Venta Libre es tentativa (podría ser Suplementos, MLM438195). Descripción mínima.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 4 tiendas.",
+    "notas_imagenes": "2 fotos de tienda (frente y ángulo del empaque).",
     "fecha": "2026-09-29"
   }
 }

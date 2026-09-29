@@ -4,16 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "VANTAL BUCOF SOL C360ML 62",
   "nombres_sistema_alternos": [],
-  "titulo": "Vantal Bucofaríngeo Solución 360 ml",
-  "descripcion": "Descripción:\nVantal Bucofaríngeo es un medicamento en solución de uso bucofaríngeo, es decir, para la boca y la garganta. Esta presentación es un frasco de 360 ml.\n\nPresentación:\nFrasco con 360 ml de solución.\n\nAdvertencias:\nProducto de uso tópico en boca y garganta. No lo degluta salvo indicación del empaque. Consulte la composición, las indicaciones y el modo de uso en el empaque. Si los síntomas persisten, suspenda su uso y consulte al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Vantal Bucofaríngeo Bencidamina Solución 360 ml",
+  "descripcion": "Descripción:\nVantal Bucofaríngeo es una solución con acción antiinflamatoria, analgésica, antiséptica y anestésica, indicada para aliviar las molestias de la boca y la faringe. Su principio activo es la bencidamina y se presenta en frasco de 360 ml.\n\nBeneficios:\n- Odontología: queilitis, estomatitis, gingivitis, parodontitis, pericoronitis, mucositis e inflamación de la mucosa bucal posterior a cirugía dental, prótesis dentales, ortodoncia y exodoncia.\n- Otorrinolaringología: faringitis, amigdalitis, laringitis, epiglotitis, glositis, abscesos, leucoplaquia e infecciones que cursen con inflamación bucal como candidiasis.\n- Alivio sintomático del dolor y la inflamación en afecciones de la faringe.\n\nComposición:\nCada 100 ml contienen bencidamina (clorhidrato) 0.15 g. Vehículo cbp 100 ml.\n\nModo de uso:\nUso bucofaríngeo. Utilice la solución en la cantidad y con la frecuencia que indique el empaque o su médico. No la degluta. Si olvida una aplicación, hágala tan pronto lo recuerde.\n\nPresentación:\nFrasco con 360 ml de solución bucal.\n\nAdvertencias:\nNo lo utilice si es alérgico a la bencidamina o a algún componente de la fórmula. No consuma bebidas alcohólicas durante el tratamiento. No se recomienda en el embarazo y la lactancia sin supervisión médica. En caso de sobredosis o ingestión accidental, acuda de inmediato a un servicio médico. Si los síntomas persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Vantal",
-    "variante": "Bucofaríngeo",
-    "presentacion": "Solución",
+    "fabricante": "Grossman",
+    "linea": "Bucofaríngeo",
+    "presentacion": "Solución bucal",
     "contenido_neto": 360,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "via_administracion": "Bucofaríngea"
+    "principio_activo": "Bencidamina (clorhidrato)",
+    "concentracion": "0.15 g / 100 ml",
+    "via_administracion": "Bucofaríngea",
+    "registro_sanitario": "140M88 SSA VI",
+    "otros": "Formato de venta: frasco con 360 ml"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -27,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123018031_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123018031_1_1.jpg?width=1000&height=1000",
+      "pagina": "https://www.fahorro.com/vantal-bucofaringeo-solucion-oral-360-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1299,
+      "fecha": "2026-09-29",
+      "lado_util": 1203
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/vantal-bucofaringeo-solucion-oral-360-ml.html",
+    "https://www.farmalisto.com.mx/enjuagues-bucales/4245-vantal-bucofaringeo-solucion-frasco-con-360-ml-7501123018031.html",
+    "https://prixz.com/c/vantal-enjuague-bucal-360-ml-solucion-frasco/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). BUCOF se interpretó como bucofaríngeo. No se confirmó el principio activo (posiblemente bencidamina, no verificado), la concentración ni el fabricante (el prefijo del GTIN coincide con Grossman, no confirmado). Categoría tentativa.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tienda. Las tiendas difieren en si requiere receta (dos dicen venta libre, una dice con receta): verificar. Fabricante Grossman según el logo del empaque. Concentración 0.15 g/100 ml de una ficha de tienda. Las instrucciones de uso exactas no se encontraron; se remite al empaque.",
+    "notas_imagenes": "1 foto de tienda (frente del frasco).",
     "fecha": "2026-09-29"
   }
 }

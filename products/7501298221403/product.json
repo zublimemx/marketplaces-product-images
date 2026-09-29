@@ -15,7 +15,8 @@
     "unidades_por_envase": 30,
     "principio_activo": "Diclofenaco / Tiamina (B1) / Piridoxina (B6) / Cianocobalamina (B12)",
     "via_administracion": "Oral",
-    "otros": "Forma farmacéutica: Tabletas; Formato de venta: Unidad"
+    "otros": "Forma farmacéutica: Tabletas; Formato de venta: Unidad",
+    "fabricante": "Procter & Gamble"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -29,18 +30,33 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298221403_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298221403_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1376
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Forte-30-Tableta-Caja/7501298221403",
     "https://www.upcitemdb.com/upc/7501298221403",
-    "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Forte-D-Inyecci%C3%B3n-3-Ml-Soluci%C3%B3n-Jeringa-Prellenada/7501298217635"
+    "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Forte-D-Inyecci%C3%B3n-3-Ml-Soluci%C3%B3n-Jeringa-Prellenada/7501298217635",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501298221403_1.jpg",
+    "https://www.dolo-neurobion.com.mx/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (caja con 30 tabletas; el sistema dice grageas pero las fichas lo publican como tabletas). No se obtuvieron las concentraciones por componente ni el fabricante (conflicto Merck/Procter & Gamble). Receta por revisar: contiene diclofenaco.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente de Dolo-Neurobión Forte 30 tabletas con distintivo '30 tabletas'. Se descartó una imagen del sitio oficial que mostraba otros productos Dolo-Neurobión."
   }
 }

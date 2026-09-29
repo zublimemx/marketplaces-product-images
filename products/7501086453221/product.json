@@ -31,7 +31,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086453221_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501086453221-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/enjuague-oral-b-gingivitis-350-ml",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1941,
+      "fecha": "2026-09-29",
+      "lado_util": 1798
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasanisidro.mx/producto/cuidado-personal/higiene-bucal/oral-b-enj-bucal-gingivitis-350ml/",
@@ -42,6 +54,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (Oral-B Gingivitis, menta fresca, 350 ml). No se pudo leer la ficha completa (WebFetch rechazado por límite de tasa), por eso la descripción no incluye ingredientes activos ni el modo de uso exacto del fabricante: agregar desde el empaque o el sitio de Oral-B.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Del Sol): frasco Oral-B Gingivitis 350 ml de frente, 2000 px."
   }
 }

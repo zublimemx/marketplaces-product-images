@@ -4,20 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "HU SUP UNISEX RN C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Huggies Supreme Unisex Recién Nacido 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Huggies Supreme unisex para bebés recién nacidos, en paquete con 40 piezas.\n\nCaracterísticas:\n- Marca: Huggies, línea Supreme.\n- Etapa: Recién Nacido.\n- Género: Unisex, para niña o niño.\n- Contenido: 40 pañales desechables.\n\nPresentación:\nPaquete con 40 pañales. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.",
+  "titulo": "Pañales Huggies Supreme Unisex Etapa Recién Nacido 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Supreme unisex etapa Recién Nacido (RN), paquete con 40 piezas, para bebés de hasta 3.5 kg. Son pañales clínica y dermatológicamente probados, hechos con materiales suaves para cuidar la piel delicada del recién nacido; la línea Supreme cuenta con certificación Dermatest de cinco estrellas. La etapa RN es la primera talla de la línea, que continúa con las etapas 1 a 6 según el peso del bebé.\n\nCaracterísticas:\n- Cubierta interna inteligente con absorción focalizada\n- Colchones 3D Derma Protect al frente que absorben rápidamente\n- Malla suave en la parte posterior que atrapa el material semilíquido\n- Suavidad y cuidado superior para mantener la piel fresca y protegida\n- Diseño unisex, apto para niño o niña\n\nPresentación:\nPaquete con 40 pañales etapa Recién Nacido (RN), peso recomendado del bebé de hasta 3.5 kg.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
     "linea": "Supreme",
-    "presentacion": "Paquete",
+    "variante": "Unisex",
+    "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
-    "edad_etapa": "Recién nacido",
-    "talla": "Recién Nacido",
+    "edad_etapa": "Recién nacido (etapa RN)",
+    "talla": "Recién Nacido (RN)",
     "genero": "Unisex",
-    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+    "otros": "Peso recomendado: hasta 3.5 kg; Clínica y dermatológicamente probado; Certificación Dermatest cinco estrellas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943416178_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw02f18309/images/large/7501943416178_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/huggies-supreme-recien-nacido-p-40-pzas/MXYZ_7501943416178.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 867,
+      "fecha": "2026-09-29",
+      "lado_util": 803
+    }
+  ],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-supreme/",
+    "https://www.chedraui.com.mx/panal-para-bebe-huggies-supreme-unisex-etapa-recien-nacido-con-40-piezas-3426070/p",
+    "https://www.yza.mx/huggies-supreme-recien-nacido-p-40-pzas/MXYZ_7501943416178.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Nombre decodificado (HU SUP UNISEX RN C/40 = Huggies Supreme Unisex Recién Nacido, 40 pañales), muy probable pero sin confirmar por GTIN. Falta el rango de peso y el catálogo de Mercado Libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunas tiendas listan este mismo GTIN como paquete de 38 piezas (presentación anterior); se respetó las 40 piezas del sistema.",
+    "notas_imagenes": "1 foto de tienda (frente del paquete etapa RN con 40 piezas); se descartaron 3 imágenes con textos de características.",
     "fecha": "2026-09-29"
   }
 }

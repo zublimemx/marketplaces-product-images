@@ -17,7 +17,7 @@
     "edad_etapa": "Adultos",
     "sabor_aroma": "Fresa",
     "registro_sanitario": "004F2020 SSA",
-    "otros": "Libre de gluten: Sí; Formato de venta: Unidad"
+    "otros": "Libre de gluten: Sí; Libre de lactosa: Sí; Proteína: 9 g; Prebióticos: 3 g; 28 vitaminas y minerales; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,17 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033954078_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501033954078.jpg",
+      "pagina": "https://www.emeritafarmacias.com/wp-content/uploads/7501033954078.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 846,
+      "fecha": "2026-09-29",
+      "lado_util": 783
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/suplementos-alimenticios/1557-comprar-ensure-liquido-frasco-con-237-ml-sabor-fresa-precio-7501033954078.html",
-    "https://farmaciasmedina.com/detalleProducto/Ensure-Alimentacion-Especializada-Liquida-Para-Cualquier-Momento-Del-Dia,-Fresa/7501033954078"
+    "https://farmaciasmedina.com/detalleProducto/Ensure-Alimentacion-Especializada-Liquida-Para-Cualquier-Momento-Del-Dia,-Fresa/7501033954078",
+    "https://www.emeritafarmacias.com/wp-content/uploads/7501033954078.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 237 ml sabor fresa confirmados. Las fuentes no traen tabla nutrimental ni ingredientes, por eso no se incluyó la sección de ingredientes; conviene agregarla desde la etiqueta. Se ignoró la caducidad del nombre del sistema.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s), origen tienda: 1 de emeritafarmacias.com (7501033954078_1.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Solo se halló una foto utilizable (farmalisto/Sears/Medina dieron captcha, 403 o <500 px)."
   }
 }

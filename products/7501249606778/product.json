@@ -4,20 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "POSTDAY 1 CPR",
   "nombres_sistema_alternos": [],
-  "titulo": "Postday Levonorgestrel 1.5 mg 1 Tableta",
-  "descripcion": "Descripción:\nPostday es una pastilla anticonceptiva de emergencia de una sola toma cuyo principio activo es levonorgestrel 1.5 mg. Está indicada para la anticoncepción postcoital, es decir, después de una relación sexual sin protección o cuando el método anticonceptivo falló.\n\nBeneficios:\n- Dosis única de 1.5 mg de levonorgestrel en una sola tableta.\n- Se toma por vía oral, sin necesidad de preparación.\n- Presentación individual que facilita tenerla a la mano en caso de necesitarla.\n\nComposición:\nCada tableta contiene levonorgestrel 1.5 mg.\n\nModo de uso:\nTome la tableta lo antes posible después de la relación sexual sin protección; su eficacia es mayor mientras más pronto se tome, y se recomienda hacerlo dentro de las primeras 72 horas. Si presenta vómito poco después de tomarla, consulte a su médico sobre la necesidad de tomar otra tableta.\n\nPresentación:\nCaja con 1 tableta.\n\nAdvertencias:\nNo es un método anticonceptivo de uso regular, no protege contra infecciones de transmisión sexual y no interrumpe un embarazo ya existente; no debe usarse si hay embarazo. No lo use si es alérgica al levonorgestrel. Puede causar sangrado irregular, cambios en la fecha de la menstruación, náusea, dolor de cabeza, mareo, cansancio o dolor en las mamas. Su eficacia puede disminuir con algunos anticonvulsivos, rifampicina y la hierba de San Juan. Consulte a su médico si está en lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Postday Levonorgestrel 1.5 mg 1 Comprimido",
+  "descripcion": "Descripción:\nPostday es un anticonceptivo de emergencia en comprimido de dosis única que contiene 1.5 mg de levonorgestrel. Está indicado para prevenir un embarazo no deseado después de una relación sexual sin protección o cuando falla el método anticonceptivo utilizado. Se presenta en caja con 1 comprimido para administración por vía oral.\n\nBeneficios:\n- Su principio activo, el levonorgestrel, actúa principalmente inhibiendo o retrasando la ovulación.\n- Dosis única: un solo comprimido de 1.5 mg.\n- Es más efectivo cuanto antes se toma después de la relación sexual, de preferencia dentro de las primeras 72 horas, aunque puede utilizarse hasta 120 horas (5 días) después; su eficacia disminuye con el paso del tiempo.\n\nComposición:\nCada comprimido contiene 1.5 mg de levonorgestrel y excipientes.\n\nModo de uso:\nVía oral. Tome 1 comprimido en una sola dosis, lo antes posible después de la relación sexual sin protección. No debe usarse como método anticonceptivo regular y no protege contra infecciones de transmisión sexual.\n\nPresentación:\nCaja con 1 comprimido de 1.5 mg.\n\nAdvertencias:\nNo lo use si es alérgica al levonorgestrel o a alguno de los componentes, si está embarazada o sospecha estarlo, ni si presenta hemorragia vaginal de origen desconocido. Consulte a un médico si la menstruación no se presenta dentro de las tres semanas posteriores a la toma. Precaución en mujeres con antecedentes de trombosis, hipertensión, diabetes o enfermedades del hígado. No se recomienda en menores de 16 años sin asesoría médica. Conserve a temperatura ambiente, entre 15 y 30 °C, protegido de la luz y la humedad. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Postday",
-    "variante": "Pastilla anticonceptiva de emergencia 1.5 mg",
-    "presentacion": "Tableta",
+    "fabricante": "IFA Celtics",
+    "presentacion": "Comprimido",
     "contenido_neto": 1,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimido",
     "unidades_por_envase": 1,
     "principio_activo": "Levonorgestrel",
     "concentracion": "1.5 mg",
     "via_administracion": "Oral",
     "genero": "Mujer",
-    "otros": "Uso: Anticoncepción de emergencia; Formato de venta: Unidad"
+    "otros": "Anticonceptivo de emergencia de dosis única; Formato de venta: Caja"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501249606778_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__cecc648e-b51e-44c3-bcb9-d60fa01e1cde.jpg?crop=center&height=2000&v=1744687380&width=2000",
+      "pagina": "https://wecarepharma.mx/en/products/postday-1-5mg-con-1-comprimidos-levonorgestrel",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1929,
+      "fecha": "2026-09-29",
+      "lado_util": 1787
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/postday-1-5mg-con-1-comprimidos-levonorgestrel",
+    "https://bellefarma.com/products/postday-levonorgestrel-1-5-mg-tableta"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre y conocimiento general (Postday = levonorgestrel 1.5 mg, 1 tableta). Fabricante y registro sanitario pendientes. La PAE de levonorgestrel se vende sin receta en México (mismo criterio que el levonorgestrel Prudence del lote 30); ML podría restringir esta categoría, conviene verificarlo antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Producto identificado por GTIN (imagen de tienda con ese GTIN coincide con la caja rosa Postday 1.5 mg, 1 comprimido, IFA Celtics). Anticonceptivo de emergencia de venta libre en México; ML puede restringir esta categoría, confirmar políticas antes de publicar.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja (Postday levonorgestrel, caja con 1 comprimido, 1.5 mg). Se descartó una foto de otra presentación (caja azul, otro empaque).",
     "fecha": "2026-09-29"
   }
 }

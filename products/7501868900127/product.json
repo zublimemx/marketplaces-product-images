@@ -4,13 +4,16 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GASA 10 ATA 10",
   "nombres_sistema_alternos": [],
-  "titulo": "Gasa Dibar Atado con 10 Piezas",
-  "descripcion": "Descripción:\nGasa de la marca Dibar, material de curación presentado en atado de 10 piezas. Consulte las medidas y demás características en el empaque del producto.\n\nPresentación:\nAtado con 10 piezas.",
+  "titulo": "Gasa Simple Estéril Dibar 10 x 10 cm Caja con 10 Piezas",
+  "descripcion": "Descripción:\nGasa simple estéril Dibar, material de curación de tejido de algodón, en piezas de 10 x 10 cm dobladas (25 x 40 cm extendidas). Viene esterilizada con óxido de etileno y empacada en sobre, en caja con 10 piezas. Sirve para limpiar, cubrir y proteger heridas y para curaciones en general.\n\nCaracterísticas:\n- Esterilizada con óxido de etileno.\n- Desechable, atóxica y libre de pirógenos.\n- Tejido de algodón, absorbente y suave.\n- Tamaño 10 x 10 cm doblada; 25 x 40 cm extendida.\n- Piezas en sobre grande, listas para usar.\n\nModo de uso:\nAbra el sobre sin tocar la gasa con las manos sucias, retire la pieza y colóquela sobre la zona por limpiar o cubrir. Use una pieza nueva en cada curación.\n\nPresentación:\nCaja con 10 piezas de gasa simple estéril de 10 x 10 cm.\n\nAdvertencias:\nProducto estéril de un solo uso. No lo use si el sobre está abierto o dañado. No se reesterilice. Para uso externo. Mantener fuera del alcance de los niños.",
   "ficha": {
     "marca": "Dibar",
-    "presentacion": "Atado",
+    "presentacion": "Caja con 10 piezas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
-    "otros": "Formato de venta: Atado"
+    "variante": "Gasa simple estéril",
+    "otros": "Medidas: 10 x 10 cm doblada, 25 x 40 cm extendida; Esterilizada con óxido de etileno; Desechable, atóxica y libre de pirógenos; Formato de venta: caja con 10 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,14 +27,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900127_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/64272/image_1024?unique=3f0f217",
+      "pagina": "https://farmasuper.com.mx/en/shop/7501868900127-gasa-dibar-10x10-caja-10-pza-64272",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 272
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501868900127-gasa-dibar-10x10-caja-10-pza-64272",
+    "https://curitek.com/producto/dibar-gasa-simple-10x10-10pz/",
+    "https://omegamedicamx.com/producto/gasa-esteril-dibar-10x10-caja-con-10-y-100-pzas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. El nombre del sistema (GASA 10 ATA 10) es ambiguo: no se sabe si el primer 10 es medida (p. ej. 10 x 10 cm) o si el segundo 10 es el número de piezas por atado; se asumió atado de 10 piezas. Confirmar medida, tipo (simple, estéril) y contenido.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en una ficha de 'Gasa Dibar 10x10 caja 10 pza'. Datos de medidas y esterilización leídos en la caja fotografiada. El nombre del sistema ('ATA 10') se interpretó como la caja de 10 piezas.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda). Se descartó una con marca de agua de otra tienda.",
     "fecha": "2026-09-29"
   }
 }

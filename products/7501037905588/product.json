@@ -4,21 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "COMBIVENT RESPIMAT 1 68 8 77 MG",
   "nombres_sistema_alternos": [],
-  "titulo": "Combivent Respimat Ipratropio Salbutamol 1 Cartucho",
-  "descripcion": "Descripción:\nCombivent Respimat es un medicamento de Boehringer Ingelheim en solución para inhalación que combina bromuro de ipratropio y salbutamol (como sulfato). Se administra con el inhalador Respimat, que genera una nube fina de solución, y es un broncodilatador que se utiliza, bajo indicación médica, en enfermedades respiratorias obstructivas como la enfermedad pulmonar obstructiva crónica (EPOC).\n\nPresentación:\nEnvase con 1 cartucho de solución para inhalación para uso con el inhalador Respimat. La composición por cartucho indicada en el sistema es de 1.68 mg y 8.77 mg de los principios activos.\n\nModo de uso:\nVía inhalada. Siga las instrucciones del instructivo para preparar el inhalador antes del primer uso y respete la dosis indicada por su médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. Puede causar temblor, palpitaciones o boca seca. Informe a su médico si tiene glaucoma, problemas del corazón, de la tiroides o si está embarazada. Evite el contacto de la solución con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Combivent Respimat Ipratropio y Salbutamol 120 Dosis",
+  "descripcion": "Descripción:\nCombivent Respimat, de Boehringer Ingelheim, es una solución para inhalación que combina un anticolinérgico (bromuro de ipratropio) y un agonista beta-2 (salbutamol) en un cartucho para el inhalador Respimat. Cada cartucho rinde 120 dosis y está indicado para el tratamiento del broncoespasmo reversible en enfermedades obstructivas de las vías aéreas cuando el paciente necesita más de un broncodilatador.\n\nBeneficios:\n- Dos broncodilatadores con mecanismos de acción complementarios en un solo dispositivo\n- Inhalador Respimat de uso inhalatorio con cartucho reemplazable\n- Cartucho con 120 dosis\n\nComposición:\nCada ml de solución contiene bromuro de ipratropio monohidratado equivalente a 1.68 mg de bromuro de ipratropio y sulfato de salbutamol equivalente a 8.77 mg de salbutamol. Cada dosis (un disparo) contiene 20 mcg de bromuro de ipratropio y 100 mcg de salbutamol.\n\nModo de uso:\nVía inhalatoria. La dosis y la frecuencia deben ser indicadas por el médico. Prepare y use el dispositivo Respimat conforme a las instrucciones del prospecto.\n\nPresentación:\nCaja con 1 cartucho de solución para 120 dosis y dispositivo dosificador Respimat.\n\nAdvertencias:\nNo lo use si es alérgico al ipratropio, al salbutamol o a algún componente de la fórmula. No exceda la dosis indicada y consulte a su médico si los síntomas empeoran o si necesita usarlo con más frecuencia. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Combivent",
     "fabricante": "Boehringer Ingelheim",
     "linea": "Respimat",
-    "presentacion": "Solución para inhalación en cartucho",
-    "contenido_neto": 1,
-    "unidad_contenido": "cartuchos",
+    "presentacion": "Solución para inhalación en cartucho con dispositivo",
+    "contenido_neto": 120,
+    "unidad_contenido": "dosis",
     "unidades_por_envase": 1,
     "principio_activo": "Bromuro de ipratropio y sulfato de salbutamol",
-    "concentracion": "1.68 mg / 8.77 mg por cartucho",
-    "via_administracion": "Inhalada",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "concentracion": "1.68 mg / 8.77 mg por ml (20 mcg / 100 mcg por dosis)",
+    "via_administracion": "Inhalatoria",
+    "otros": "Incluye dispositivo dosificador Respimat; Formato de venta: caja con 1 cartucho"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -32,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501037905588_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Combivent-Respimat-120-Dosis-7501037905588-638866457559643923-1.jpg",
+      "pagina": "https://storeboehringer.com/Inicio/Producto/4382",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 650,
+      "fecha": "2026-09-29",
+      "lado_util": 602
+    },
+    {
+      "archivo": "7501037905588_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Combivent-Respimat-120-Dosis-7501037905588-638866457560268992-2.jpg",
+      "pagina": "https://storeboehringer.com/Inicio/Producto/4382",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 657,
+      "fecha": "2026-09-29",
+      "lado_util": 609
+    },
+    {
+      "archivo": "7501037905588_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw03371988/images/large/7501037905588_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501037905588.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 613,
+      "fecha": "2026-09-29",
+      "lado_util": 565
+    }
+  ],
+  "url_oficial": "https://storeboehringer.com/Inicio/Producto/4382",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/combivent.respimat.solucion.para.inhalacion/28/101/36786/181",
+    "https://storeboehringer.com/Inicio/Producto/4382",
+    "https://www.yza.mx/x/MXYZ_7501037905588.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Combivent Respimat = ipratropio + salbutamol de Boehringer Ingelheim, de conocimiento general; el prefijo 7501037 lo comparte Micardis Duo del mismo lote). Las cifras 1.68 mg y 8.77 mg vienen del nombre del sistema ('1 68 8 77 MG') y se asignaron en ese orden a ipratropio y salbutamol sin confirmarlo; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El contenido del cartucho aparece como 4 ml en una fuente y 4.5 ml en otras; se omitió. Los pasos de preparación del dispositivo no vienen en las fuentes y se remiten al prospecto. La tienda de Boehringer se tomó como página del fabricante.",
+    "notas_imagenes": "3 fotos: caja con dispositivo y dispositivo solo (tienda Boehringer Ingelheim) y frente de la caja (otra tienda).",
     "fecha": "2026-09-29"
   }
 }

@@ -5,21 +5,24 @@
   "nombre_sistema": "MAGNESIA COYOACAN 7GR C 3 CUBOS",
   "nombres_sistema_alternos": [],
   "titulo": "Magnesia Coyoacán Carbonato de Magnesio 7 g 3 Cubos",
-  "descripcion": "Descripción:\nMagnesia Coyoacán en presentación de 3 cubos de 7 g cada uno. Es un producto de la línea de farmacia que se comercializa en cubos de magnesia; consulte en el empaque la composición, las indicaciones y la forma de uso.\n\nPresentación:\nEmpaque con 3 cubos de 7 g cada uno.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nMagnesia Coyoacán es carbonato de magnesio puro en cubos de 7 g, de Coyoacán Química. Se comercializa como suplemento alimenticio y las tiendas lo presentan como auxiliar en el alivio del malestar estomacal. Esta presentación trae 3 cubos individuales de 7 g, envueltos por pieza.\n\nCaracterísticas:\n- Carbonato de magnesio puro.\n- Suplemento alimenticio, no es un medicamento.\n- Cubos de 7 g envueltos de forma individual.\n- Presentación con 3 cubos.\n\nModo de uso:\nSiga las indicaciones de consumo que aparecen en el empaque. Si tiene dudas sobre la cantidad o la frecuencia, consulte a su médico o nutriólogo.\n\nPresentación:\nPaquete con 3 cubos de 7 g cada uno.\n\nAdvertencias:\n- Consulte a su médico antes de consumirlo si tiene enfermedad de los riñones, está embarazada o en periodo de lactancia.\n- Si el malestar estomacal persiste, consulte a su médico.\n- Manténgalo fuera del alcance de los niños.",
   "ficha": {
-    "marca": "Coyoacán",
-    "presentacion": "Cubos",
-    "contenido_neto": 7,
+    "marca": "Magnesia Coyoacán",
+    "fabricante": "Coyoacán Química",
+    "variante": "Carbonato de magnesio puro",
+    "presentacion": "Cubos envueltos individualmente",
+    "contenido_neto": 21,
     "unidad_contenido": "g",
     "unidades_por_envase": 3,
     "principio_activo": "Carbonato de magnesio",
-    "otros": "Contenido: 3 cubos de 7 g; Formato de venta: Unidad"
+    "via_administracion": "Oral",
+    "otros": "Peso por cubo: 7 g; Suplemento alimenticio; Formato de venta: Paquete"
   },
-  "receta_mx": "No",
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457821",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -29,12 +32,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasguadalajara.com/medicina/antiacidos-y-antigastricos/magnesia-coyoacan-7-gr--3-pzas.-939188.html",
+    "https://www.klyns.mx/carbonato-de-magnesia-7-gr-coyoacan/p",
+    "https://superfarmaciauniversal.com/products/magnesio-coyoacan"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se confirmó el producto: la búsqueda por GTIN solo devolvió un listado dudoso de carbonato de magnesio de 7 g (3 piezas), y ya no fue posible buscar por nombre porque se agotó el límite de WebSearch de la sesión. El principio activo (carbonato de magnesio) y la categoría se infieren del nombre; verificar contra el empaque.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre: una farmacia lista 'Magnesia Coyoacán 7 gr, 3 pzas.'. El GTIN 7501417007666 no apareció en ninguna página; las páginas de otras tiendas traen otros GTIN (7501417010253 para el cubo individual y 7501417005044 para un paquete con obsequio). El empaque se declara suplemento alimenticio, por eso va en Suplementos Alimenticios aunque una farmacia lo clasifica como antiácido. Las advertencias son generales, no del empaque.",
+    "notas_imagenes": "Sin fotos: las únicas imágenes halladas son del cubo individual con otro GTIN y traen un cintillo promocional de '30% gratis' sobre el envoltorio. No se guardó ninguna.",
     "fecha": "2026-09-29"
   }
 }

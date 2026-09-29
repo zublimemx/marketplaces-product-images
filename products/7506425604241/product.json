@@ -32,16 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425604241_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604241_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604241_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre: la abreviatura HU CONF coincide con la del GTIN 7501943433090, confirmado como Huggies Ultra Confort. Las características son las de la línea en la página oficial; contenido de 40 piezas y talla Mediano no verificados contra una ficha del producto.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 3 niño, 40 pzas. Se descartó el diseño anterior."
   }
 }

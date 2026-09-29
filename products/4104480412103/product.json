@@ -4,18 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PANOTOS JBE 100 ML 40",
   "nombres_sistema_alternos": [],
-  "titulo": "Panotos Jarabe 100 ml",
-  "descripcion": "Descripción:\nPanotos es un medicamento en jarabe, presentado en frasco de 100 ml, que se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones, dosis y modo de uso.\n\nPresentación:\nFrasco con 100 ml de jarabe.\n\nModo de uso:\nVía oral. Siga la dosis indicada en el empaque o por su médico; use el dosificador que venga en el empaque, si lo incluye.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Panoto-S Jarabe Hedera Helix 0.7 g/100 ml 100 ml",
+  "descripcion": "Descripción:\nPanoto-S es un medicamento herbolario en jarabe de Siegfried Rhein cuyo componente activo es el extracto seco de hoja de hiedra (Hedera helix). Está indicado como auxiliar en procesos agudos y crónicos de enfermedades inflamatorias de las vías respiratorias superiores acompañadas de tos y aumento en la producción de moco.\n\nBeneficios:\n- Ayuda a aliviar la tos y facilita la expulsión de las secreciones bronquiales.\n- Fórmula con extracto de Hedera helix, de origen herbolario.\n- Incluye vaso dosificador graduado para medir la dosis con precisión.\n\nComposición:\nCada 100 ml de jarabe contienen 0.7 g de extracto seco de hoja de Hedera helix. Vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. Dosis por toma, tres veces al día:\n- Niños de 2 a 6 años: 2.5 ml.\n- Niños de 6 a 12 años: 5 ml.\n- Adultos y niños mayores de 12 años: 7.5 ml.\nUtilice el vaso dosificador incluido en el empaque.\n\nPresentación:\nCaja con un frasco de 100 ml de jarabe con vaso graduado.\n\nAdvertencias:\nNo se administre durante el embarazo ni la lactancia. No lo use si es alérgico a alguno de los componentes de la fórmula. Si la tos persiste, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Panotos",
+    "marca": "Panoto-S",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Panoto-S",
+    "variante": "Jarabe Hedera helix",
     "presentacion": "Jarabe",
     "contenido_neto": 100,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Extracto seco de Hedera helix",
+    "concentracion": "0.7 g/100 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Niños desde 2 años y adultos",
+    "otros": "Medicamento herbolario; Incluye vaso dosificador; Formato de venta: Caja con frasco"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457814",
@@ -27,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4104480412103_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw13995d62/images/large/4104480412103_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/panoto-s-.7g100ml/MXYZ_4104480412103.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 915,
+      "fecha": "2026-09-29",
+      "lado_util": 846
+    },
+    {
+      "archivo": "4104480412103_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5bf71c38/images/large/4104480412103_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/panoto-s-.7g100ml/MXYZ_4104480412103.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 932,
+      "fecha": "2026-09-29",
+      "lado_util": 862
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/panoto-s-.7g100ml/MXYZ_4104480412103.html",
+    "https://wecarepharma.mx/en/products/panoto-s-jarabe-0-7g-100ml-hedera-helix",
+    "https://farmaciagloria.mx/Respiratorios/2796-panoto-s-jarabe-con-100-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (Panotos, jarabe, 100 ml). No se conoce el principio activo, el fabricante ni la edad de uso (el nombre sugiere un producto para la tos, por eso la categoría Respiratorios Venta Libre, que es provisional). El GTIN empieza con 410 (prefijo alemán), lo que puede indicar un producto de importación o un código atípico; el '40' final del nombre del sistema se ignoró. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice Panotos; el producto es Panoto-S (Hedera helix). Una ficha de tienda lo describe erróneamente con ambroxol; se ignoró. Venta sin receta según dos farmacias.",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea): frente y costado con fórmula e indicaciones. Se descartó una foto casi idéntica a la primera.",
     "fecha": "2026-09-29"
   }
 }

@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499702_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501008499702-1-scaled.jpg",
+      "pagina": "https://www.emeritafarmacias.com/producto/TABCIN-NOCHE-325MG10MG-C-12-CAP-NV/",
+      "ancho_original": 2560,
+      "alto_original": 2560,
+      "lado_final": 1813,
+      "fecha": "2026-09-29",
+      "lado_util": 1679
+    },
+    {
+      "archivo": "7501008499702_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/178304-1200-auto?width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/tabcin-noche-325-mg-10-mg-12-capsulas/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 794,
+      "fecha": "2026-09-29",
+      "lado_util": 736
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.klyns.mx/tabcin-noche-325-mg-10-mg-12-capsulas/p",
@@ -44,6 +67,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado como Tabcin Noche caja con 12 cápsulas (Bayer). El nombre del sistema dice PODS, pero ninguna ficha con este GTIN usa ese término; se omitió del título. Las dosis difieren entre fuentes (325 mg / 10 mg en dos farmacias; 500 mg / 15 mg / 10 mg en otra); se usaron las de las dos farmacias. La fórmula incluye otros componentes (una ficha sugiere 6.25 mg y 5 mg): confirmar en el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda): _1 Emérita, caja Tabcin Noche 12 cápsulas de frente (2000 px), _2 Klyns, reverso de la caja. Se descartaron las de WeCare Pharma (banner de tienda y creativos publicitarios)."
   }
 }

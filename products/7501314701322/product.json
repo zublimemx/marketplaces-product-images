@@ -5,16 +5,19 @@
   "nombre_sistema": "BIOMICS 400MG CAPS C 6 CEFIXIMA",
   "nombres_sistema_alternos": [],
   "titulo": "Biomics Cefixima 400 mg 6 Cápsulas",
-  "descripcion": "Descripción:\nBiomics es un medicamento cuyo principio activo es la cefixima, un antibiótico de la familia de las cefalosporinas, en cápsulas de 400 mg.\n\nComposición:\nCefixima 400 mg por cápsula. Consulte en el empaque los demás componentes.\n\nModo de uso:\nAdministre por vía oral con la dosis y duración que indique el médico.\n\nPresentación:\nCaja con 6 cápsulas de 400 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No debe usarse en caso de alergia a cefalosporinas o penicilinas sin indicación médica. Complete el tratamiento indicado por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nBiomics es un antibiótico cuyo principio activo es la cefixima, una cefalosporina de tercera generación de amplio espectro y resistente a las betalactamasas. Está indicado en infecciones donde se requiere este tipo de antibiótico, como sinusitis, otitis media, faringitis y amigdalitis, bronquitis aguda y agudizaciones de la bronquitis crónica, neumonía, infecciones de vías urinarias no complicadas, gonorrea no complicada, infecciones gastrointestinales como salmonelosis, shigelosis y fiebre tifoidea, y otras infecciones causadas por gérmenes sensibles.\n\nComposición:\nCada cápsula contiene cefixima trihidrato equivalente a 400 mg de cefixima. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que el médico señale. Léase el instructivo impreso.\n\nPresentación:\nCaja con 6 cápsulas de 400 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No se use en el embarazo o la lactancia. Este producto es una cefalosporina: la administración de penicilina o cefalosporina puede desencadenar reacciones alérgicas como urticaria, prurito, asma, inflamación de labios, párpados o articulaciones, fiebre o choque anafiláctico, en personas con o sin antecedentes de uso. Antibiótico: el uso incorrecto de este producto puede causar resistencia bacteriana. Consérvese a no más de 25 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Biomics",
+    "fabricante": "Laboratorios Senosiain, S.A. de C.V. (Altia)",
     "presentacion": "Cápsulas",
     "contenido_neto": 6,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 6,
     "principio_activo": "Cefixima",
     "concentracion": "400 mg",
-    "via_administracion": "Oral"
+    "via_administracion": "Oral",
+    "registro_sanitario": "073M2011 SSA IV",
+    "otros": "Antibiótico cefalosporínico; Formato de venta: Caja con 6 cápsulas; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -28,14 +31,63 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701322_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__a1018eac-8821-47a2-a1a2-b7a2629015cd.jpg?v=1744665063",
+      "pagina": "https://wecarepharma.mx/en/products/biomics-400mg-con-6-capsulas-cefixima",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1946,
+      "fecha": "2026-09-29",
+      "lado_util": 1802
+    },
+    {
+      "archivo": "7501314701322_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__1__89de245b-0af3-4dfb-b44c-c2a16c32be6e.jpg?v=1744665064",
+      "pagina": "https://wecarepharma.mx/en/products/biomics-400mg-con-6-capsulas-cefixima",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1950,
+      "fecha": "2026-09-29",
+      "lado_util": 1805
+    },
+    {
+      "archivo": "7501314701322_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__4__bedc42fe-50ac-415f-ad2b-e9ce6e3f3d53.jpg?v=1744665066",
+      "pagina": "https://wecarepharma.mx/en/products/biomics-400mg-con-6-capsulas-cefixima",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1963,
+      "fecha": "2026-09-29",
+      "lado_util": 1817
+    },
+    {
+      "archivo": "7501314701322_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__7__9068b577-cc32-4225-a756-255daa61e5c2.jpg?v=1744665069",
+      "pagina": "https://wecarepharma.mx/en/products/biomics-400mg-con-6-capsulas-cefixima",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1964,
+      "fecha": "2026-09-29",
+      "lado_util": 1818
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/biomics-400-mg-oral-con-6-capsulas.html",
+    "https://wecarepharma.mx/en/products/biomics-400mg-con-6-capsulas-cefixima"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados literalmente del nombre (cefixima 400 mg, 6 cápsulas). Falta confirmar fabricante. Los antibióticos requieren receta en México; se sugiere la categoría Rx aunque el dueño pidió publicar como venta libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, registro y advertencias leídas de la foto del reverso de la caja.",
+    "notas_imagenes": "4 fotos de tienda: frente plano, dos en ángulo y reverso con la fórmula; se descartaron una vista lateral en blanco y una foto pequeña.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,39 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "PRANOSINE JBE 250MG 60ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Pranosine Inosina Pranobex 250 mg Jarabe 60 ml",
-  "descripcion": "Descripción:\nPranosine es un medicamento en jarabe cuyo principio activo es la inosina pranobex, con concentración de 250 mg. Se presenta en frasco de 60 ml. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento; consulte en el empaque las indicaciones y la dosificación.\n\nComposición:\nInosina pranobex 250 mg (concentración indicada en el empaque).\n\nPresentación:\nFrasco con 60 ml de jarabe.\n\nAdvertencias:\nNo lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Pranosine Metisoprinol 250 mg/5 ml Jarabe 60 ml",
+  "descripcion": "Descripción:\nPranosine es un jarabe de Laboratorios Sanfer cuyo principio activo es el metisoprinol (inosina pranobex), un medicamento con acción antiviral e inmunomoduladora que se utiliza únicamente bajo prescripción médica. Esta presentación contiene 60 ml de jarabe, con vaso dosificador incluido en la caja.\n\nBeneficios:\n- Medicamento de prescripción con acción antiviral e inmunomoduladora.\n- Presentación en jarabe, fácil de dosificar con el vaso incluido.\n- La indicación, la dosis y la duración del tratamiento las determina el médico.\n\nComposición:\nCada 5 ml equivalen a 250 mg de metisoprinol. Contiene 65 por ciento de azúcar y 2 por ciento de alcohol.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale; utilice el vaso dosificador incluido.\n\nPresentación:\nCaja con frasco de 60 ml de jarabe y vaso dosificador.\n\nAdvertencias:\nSu venta requiere receta médica. El uso de este medicamento eleva la concentración de ácido úrico en la sangre. No se administre durante el embarazo ni la lactancia. Contiene azúcar y alcohol: consulte a su médico si es diabético. Conservar a temperatura ambiente, a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Pranosine",
+    "fabricante": "Laboratorios Sanfer",
     "presentacion": "Jarabe",
     "contenido_neto": 60,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "principio_activo": "Inosina pranobex",
-    "concentracion": "250 mg",
+    "principio_activo": "Metisoprinol (inosina pranobex)",
+    "concentracion": "250 mg/5 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "80844 SSA IV",
+    "otros": "Venta con receta médica; Incluye vaso dosificador; Contiene azúcar y alcohol; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457815",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070615048_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/PRANOSINE-250MG-JBE-60ML-JBE-LABORATORIOS-SANFER-S-A-DE-C.-Disponible-en-Farmasmart.-Compra-en-linea-7501070615048.webp",
+      "pagina": "https://farmasmart.com/pranosine-250mg-jbe-60ml",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 568,
+      "fecha": "2026-09-29",
+      "lado_util": 526
+    },
+    {
+      "archivo": "7501070615048_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501070615048_a9abfac7-c437-4302-b8ce-e8c52ea85097.jpg?v=1701388321&width=1800",
+      "pagina": "https://farmasmart.com/pranosine-250mg-jbe-60ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1044,
+      "fecha": "2026-09-29",
+      "lado_util": 967
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://club.presalud.com/shop/7501070615048-pranosine-250-mg-jarabe-60-ml-27661",
+    "https://www.klyns.mx/pranosine-jbe-60-ml/p",
+    "https://www.farmalisto.com.mx/antiviral/2769-pranosine-jarabe-250-mg-5-ml-caja-con-frasco-con-60-ml-7501070615048.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El principio activo (inosina pranobex) se dedujo de conocimiento previo de la marca; no se confirmó ni el fabricante ni si los 250 mg son por dosis o por 5 ml. Si requiere receta, usar MLM457833 (Inmunomoduladores con Receta). Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos del panel lateral de la caja (metisoprinol, 65% azúcar, 2% alcohol, receta) y registro de una tienda. Una tienda lo describe por error como antihistamínico con clorfenamina. No se encontró la indicación oficial detallada, por eso la descripción es general.",
+    "notas_imagenes": "2 fotos de frente (tienda: FarmaSmart y Farmacias San Jorge). Se descartaron el panel lateral y una foto con etiquetas gráficas.",
     "fecha": "2026-09-29"
   }
 }

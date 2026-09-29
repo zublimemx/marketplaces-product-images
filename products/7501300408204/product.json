@@ -4,22 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PLIDAN COMPUESTO C20 TAB 432",
   "nombres_sistema_alternos": [],
-  "titulo": "Plidan Compuesto 20 Tabletas",
-  "descripcion": "Descripción:\nPlidan Compuesto es un medicamento en tabletas de la línea Plidan. Esta presentación es una caja con 20 tabletas.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nConsulte la composición, las indicaciones, la dosis y las contraindicaciones en el empaque. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Plidán Compuesto Pargeverina 10 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nPlidán Compuesto es un antiespasmódico y analgésico en comprimidos que combina pargeverina y clonixinato de lisina. De acuerdo con su ficha, está indicado en dismenorrea, colitis aguda, cólicos y gastritis funcionales. Se presenta en caja con 20 comprimidos de 10 mg/125 mg de Siegfried Rhein.\n\nBeneficios:\n- Espasmos dolorosos y cólicos hepáticos, disquinesias faringoesofágicas, disfagias, gastritis funcionales, espasmos pilóricos y duodenitis.\n- Colecistopatías, colecistitis, espasmos del esfínter de Oddi y disquinesias biliares.\n- Colopatías, principalmente colitis aguda, colitis espasmódica, sigmoiditis, síndrome de constipación por hipermiotonía colónica, cólicos nefríticos y ureterales.\n- Espasmos ureterales y vesicales, cistitis.\n- En ginecología: tensión premenstrual, espasmo funcional de las trompas y anexitis dolorosa.\n\nComposición:\nCada comprimido contiene pargeverina (clorhidrato) 10 mg y clonixinato de lisina 125 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique el empaque o su médico.\n\nPresentación:\nCaja con 20 comprimidos de 10 mg/125 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico a la pargeverina, al clonixinato de lisina, a otros antiinflamatorios o a algún componente de la fórmula. Informe a su médico si padece úlcera gástrica, enfermedades del riñón o del hígado, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Plidan",
-    "variante": "Compuesto",
-    "presentacion": "Tabletas",
+    "marca": "Plidán",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Compuesto",
+    "presentacion": "Comprimidos",
     "contenido_neto": 20,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 20,
-    "via_administracion": "Oral"
+    "principio_activo": "Pargeverina; clonixinato de lisina",
+    "concentracion": "10 mg / 125 mg",
+    "via_administracion": "Oral",
+    "otros": "Antiespasmódico y analgésico; Formato de venta: caja con 20 comprimidos"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408204_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.fpsf.mx/cdn/shop/products/plidan-compuesto-1_1024x1024.jpg?v=1586029626",
+      "pagina": "https://www.fpsf.mx/products/plidan-compuesto-20-comprimidos",
+      "ancho_original": 1024,
+      "alto_original": 683,
+      "lado_final": 1105,
+      "fecha": "2026-09-29",
+      "lado_util": 1024
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Plidan-Compuesto-20-Comprimidos-Caja/7501300408204",
+    "https://www.fpsf.mx/products/plidan-compuesto-20-comprimidos",
+    "https://www.fahorro.com/plidan-compuesto-10-mg-125-mg-oral-20-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se pudo determinar la fórmula, el grupo terapéutico ni el fabricante; por eso se usó Otros Medicamentos. Descripción mínima. Repetir con búsqueda por GTIN.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 3 tiendas. Composición (pargeverina/clonixinato de lisina 10/125 mg) según fichas de tienda. Requisito de receta no claro (una tienda lo marca sin receta, otra lo ubica en supervisión médica): verificar. Posología no encontrada. El nombre del sistema incluye '432' (código, ignorado).",
+    "notas_imagenes": "1 foto de tienda (frente del empaque).",
     "fecha": "2026-09-29"
   }
 }

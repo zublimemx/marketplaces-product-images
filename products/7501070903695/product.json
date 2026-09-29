@@ -4,38 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "LIBERTRIM SII 200 75 C 24 COMP",
   "nombres_sistema_alternos": [],
-  "titulo": "Libertrim SII 200/75 24 Comprimidos",
-  "descripcion": "Descripción:\nLibertrim SII 200/75 es un medicamento de la marca Libertrim, presentado en caja con 24 comprimidos. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 24 comprimidos.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Libertrim SII Trimebutina/Simeticona 200/75 mg 24 Comp",
+  "descripcion": "Descripción:\nLibertrim SII es un medicamento del laboratorio Carnot que combina trimebutina, un regulador de la motilidad intestinal, con simeticona, un antiflatulento. Se presenta en comprimidos con 200 mg de trimebutina y 75 mg de simeticona, en caja con 24 comprimidos.\n\nBeneficios:\nEstá indicado en el tratamiento de:\n- Síndrome del intestino irritable.\n- Colitis agudas y crónicas.\n- Colopatías funcionales y duodenitis.\nLa trimebutina ayuda a normalizar el movimiento del intestino y la simeticona reduce los gases y la distensión abdominal.\n\nComposición:\n- Trimebutina 200 mg\n- Simeticona 75 mg\n- Excipiente cbp 1 comprimido\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica su médico.\n\nPresentación:\nCaja con 24 comprimidos.\n\nAdvertencias:\nSu venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Libertrim",
-    "variante": "SII 200/75",
+    "fabricante": "Carnot Laboratorios",
+    "linea": "SII",
     "presentacion": "Comprimidos",
     "contenido_neto": 24,
     "unidad_contenido": "comprimidos",
     "unidades_por_envase": 24,
+    "principio_activo": "Trimebutina y simeticona",
+    "concentracion": "200 mg/75 mg",
     "via_administracion": "Oral",
-    "otros": "Dosis según nombre del sistema: 200 / 75 (unidades por confirmar)"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: caja con 24 comprimidos"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903695_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/l/i/libertrim-sii-200-75-mg-oral-24-cpr-3695_1.jpg",
+      "pagina": "https://www.fahorro.com/libertrim-sii-200-mg-75-mg-24-comprimidos.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1140,
+      "fecha": "2026-09-29",
+      "lado_util": 1056
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/libertrim-sii-200-mg-75-mg-24-comprimidos.html",
+    "https://curitek.com/producto/libertrim-sii-trimebutina-simeticona/",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/2845-libertrim-sii-200mg75mg-trimebutina-simeticona-24-comprimidos-carnot-7501070903695.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). La marca Libertrim corresponde por conocimiento general a trimebutina (digestivo, de ahí la categoría), y 'SII' podría referirse a síndrome de intestino irritable, pero no se confirmó ni el segundo componente ni las dosis (200/75). Confirmar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Receta: dos tiendas lo marcan como de receta y una no lo indica; se dejó 'Sí' por prudencia (revisar).",
+    "notas_imagenes": "1 foto de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

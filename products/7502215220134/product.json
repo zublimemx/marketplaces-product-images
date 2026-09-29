@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "BIOCORD SUSP INGER C 5 AMP 168",
   "nombres_sistema_alternos": [],
-  "titulo": "Biocord Suspensión Ingerible 5 Ampolletas",
-  "descripcion": "Descripción:\nBiocord es un producto en suspensión ingerible, presentado en ampolletas, en caja con 5 ampolletas. Se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nCaja con 5 ampolletas de suspensión ingerible.\n\nModo de uso:\nVía oral. Agite antes de usar y siga la dosis indicada en el empaque o por su médico.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Biocord Lisados Bacterianos Suspensión 5 Ampolletas 3 ml",
+  "descripcion": "Descripción:\nBiocord es una suspensión ingerible de lisados bacterianos de administración oral, presentada en caja con 5 ampolletas de 3 ml. Los lisados bacterianos se emplean como inmunoestimulantes, por lo que su indicación y su dosis deben ser establecidas siempre por el médico.\n\nBeneficios:\n- Estimula el sistema inmunológico para reconocer y combatir microorganismos\n- Se utiliza en el contexto de infecciones respiratorias recurrentes, bajo supervisión médica\n- Ampolletas listas para tomar\n\nComposición:\nCada ampolleta de 3 ml contiene lisados bacterianos de Staphylococcus aureus, Staphylococcus saprophyticus, Streptococcus pyogenes, Streptococcus pneumoniae, Klebsiella pneumoniae, Moraxella catarrhalis, Pseudomonas aeruginosa, Haemophilus influenzae y Escherichia coli, con 20,000,000 UFC de cada uno. Vehículo cbp 3 ml.\n\nModo de uso:\nVía oral. Tome el contenido de la ampolleta en la dosis y durante el tiempo que indique su médico.\n\nPresentación:\nCaja con 5 ampolletas de 3 ml de suspensión ingerible.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. No se automedique; su uso debe ser supervisado por un profesional de la salud. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Biocord",
-    "presentacion": "Ampolletas de suspensión ingerible",
+    "fabricante": "Reuffer",
+    "presentacion": "Suspensión ingerible en ampolletas",
     "contenido_neto": 5,
     "unidad_contenido": "ampolletas",
     "unidades_por_envase": 5,
+    "principio_activo": "Lisados bacterianos",
+    "concentracion": "20,000,000 UFC de cada bacteria por ampolleta",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "otros": "Contenido por ampolleta: 3 ml; Formato de venta: caja con 5 ampolletas"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457815",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502215220134_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/lisados_bacterianos_biocord_suspension_3_ml_con_5_ampulas_7502215220134_ab8a155b-54cc-41e7-95a8-bda72222adac.jpg?v=1764885071&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/lisados-bacterianos-biocord-suspension-3-ml-con-5-ampulas",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 745,
+      "fecha": "2026-09-29",
+      "lado_util": 690
+    },
+    {
+      "archivo": "7502215220134_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/68787/image_1024?unique=b189d99",
+      "pagina": "https://farmasuper.com.mx/shop/7502215220134-lisados-bacterianos-suspension-ingerible-3-ml-5-amp-biocord-68787",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 228
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Multivitaminicos/509-biocord-suspension-oral-con-5-ampolletas-de-3-ml.html",
+    "https://kalicomercializadora.com.mx/producto/biocord",
+    "https://farmasuper.com.mx/shop/7502215220134-lisados-bacterianos-suspension-ingerible-3-ml-5-amp-biocord-68787"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (Biocord, suspensión ingerible, 5 ampolletas). No se conoce la composición ni el uso ni el fabricante. Categoría y receta provisionales. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La fórmula se leyó en una foto de la caja. El laboratorio (Reuffer) viene de un distribuidor. No se encontró la condición de venta; queda en Revisar.",
+    "notas_imagenes": "2 fotos de tienda de la caja de frente y en ángulo. Se borraron dos con marca de agua de la tienda.",
     "fecha": "2026-09-29"
   }
 }

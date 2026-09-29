@@ -33,7 +33,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318673205_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501318673205_1_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 870,
+      "fecha": "2026-09-29",
+      "lado_util": 806
+    },
+    {
+      "archivo": "7501318673205_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501318673205_2_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 869,
+      "fecha": "2026-09-29",
+      "lado_util": 803
+    },
+    {
+      "archivo": "7501318673205_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501318673205_3_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 865,
+      "fecha": "2026-09-29",
+      "lado_util": 801
+    },
+    {
+      "archivo": "7501318673205_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501318673205_4_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 872,
+      "fecha": "2026-09-29",
+      "lado_util": 808
+    }
+  ],
   "url_oficial": "http://tienda.bayer.com/Home/DetalleDeProducto/3501?item=aspirina-protect-100-mg-84-tabletas-&clicked=1",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
@@ -45,6 +90,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias y en la tienda de Bayer (100 mg, 84 tabletas). La página de Bayer redirigía en bucle al abrirla con WebFetch, así que la descripción se redactó con datos generales del ácido acetilsalicílico 100 mg con cubierta entérica; verificar indicación exacta con el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7501318673205_1.jpg, 7501318673205_2.jpg, 7501318673205_3.jpg, 7501318673205_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

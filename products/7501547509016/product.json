@@ -4,16 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "INDARZONA CAP C 30 180 INDOMETA DEXAMETA STREGER",
   "nombres_sistema_alternos": [],
-  "titulo": "Indarzona Indometacina Dexametasona 30 Cápsulas",
-  "descripcion": "Descripción:\nIndarzona es un medicamento en cápsulas de Streger que combina indometacina, un antiinflamatorio no esteroideo, con dexametasona, un corticosteroide. Se presenta en caja con 30 cápsulas para administración oral. Consulte el empaque para conocer las dosis de cada componente y las indicaciones.\n\nPresentación:\nCaja con 30 cápsulas.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la indometacina, a la aspirina, a otros antiinflamatorios o a los corticosteroides, ni si tiene úlcera gástrica, salvo indicación de su médico. Tómelo con alimentos para reducir las molestias de estómago. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Indarzona Indometacina Dexametasona 25/0.5 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nIndarzona es un medicamento en cápsulas del laboratorio Streger que combina indometacina, un antiinflamatorio no esteroideo, con dexametasona, un corticosteroide. Está indicado como auxiliar en el tratamiento de procesos inflamatorios y se administra por vía oral bajo indicación médica.\n\nCaracterísticas:\n- Combina un antiinflamatorio no esteroideo y un corticosteroide en una sola cápsula.\n- Presentación de 30 cápsulas.\n\nComposición:\nCada cápsula contiene indometacina 25 mg, dexametasona 0.5 mg y excipiente.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; no exceda la cantidad indicada.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad a alguno de los componentes ni a otros antiinflamatorios no esteroideos. Por contener un corticosteroide, el tratamiento debe ser indicado y vigilado por un médico; no se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Indarzona",
     "fabricante": "Streger",
+    "linea": "Indarzona",
+    "variante": "25 mg/0.5 mg",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
     "principio_activo": "Indometacina y dexametasona",
+    "concentracion": "25 mg/0.5 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
     "otros": "Formato de venta: Caja"
@@ -30,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501547509016_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://bspharma.net/wp-content/uploads/2024/09/idarzona.jpg",
+      "pagina": "https://bspharma.net/es_mx/producto/indarzona-25-0-5-mg-c-30-capsulas-streger/",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 777,
+      "fecha": "2026-09-29",
+      "lado_util": 720
+    },
+    {
+      "archivo": "7501547509016_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501547509016.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1618,
+      "fecha": "2026-09-29",
+      "lado_util": 1499
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://buscamed.com/buscar/L0hUTDN-indarzona-25mg-05mg-30-capsulas-1-caja",
+    "https://bspharma.net/es_mx/producto/indarzona-25-0-5-mg-c-30-capsulas-streger/",
+    "https://curitek.com/producto/indarzona-indometacina-dexametasona/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Los datos salen del nombre del sistema (Indarzona, caja con 30 cápsulas, indometacina, dexametasona, Streger). No se conocen las dosis de cada componente ni el registro sanitario; el '180' del nombre del sistema se ignoró como código. Se marcó receta 'Sí' por llevar corticosteroide, pero confirmar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. Algunas tiendas la nombran como tabletas; el empaque dice cápsulas. Una ficha indica que requiere receta.",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea) del empaque Indarzona caja con 30 cápsulas. Se descartó una imagen de Imagen no disponible.",
     "fecha": "2026-09-29"
   }
 }

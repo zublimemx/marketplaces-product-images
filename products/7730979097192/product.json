@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7730979097192_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979097192_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/asoflon-duo-0-5-0-4-mg-cap-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 542,
+      "fecha": "2026-09-29",
+      "lado_util": 500
+    },
+    {
+      "archivo": "7730979097192_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979097192_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/asoflon-duo-0-5-0-4-mg-cap-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 550,
+      "fecha": "2026-09-29",
+      "lado_util": 509
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/medicamentos-con-receta-medica/35730-asoflon-duo-050-mg040-mg-30-capsulas-dutasteridatamsulosina-asofarma-7730979097192.html",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias mexicanas (dutasterida 0.5 mg + tamsulosina 0.4 mg, 30 cápsulas; Farmalisto lo lista dentro de medicamentos con receta). Indicación y advertencias redactadas con información general de la combinación; no se leyó la ficha completa.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7730979097192_1.jpg, 7730979097192_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

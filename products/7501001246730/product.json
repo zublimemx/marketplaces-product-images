@@ -4,16 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "VAPORUB EXH C 12 LATAS",
   "nombres_sistema_alternos": [],
-  "titulo": "Vick Vaporub Ungüento Tópico Exhibidor 12 Latas",
-  "descripcion": "Descripción:\nVick VapoRub es un ungüento de uso tópico de Procter & Gamble, conocido por su aroma mentolado, que contiene entre sus componentes alcanfor, mentol y aceite de eucalipto. Esta presentación es un exhibidor con 12 latas, pensada para quien necesita varias piezas del producto.\n\nModo de uso:\nUso externo. Aplique una cantidad pequeña sobre la zona indicada en el empaque, en la dosis y con la frecuencia que ahí se señalan. Lávese las manos después de aplicarlo. Verifique en el empaque las indicaciones de uso específicas del producto.\n\nPresentación:\nExhibidor con 12 latas de ungüento.\n\nAdvertencias:\nSolo para uso externo. No lo ingiera. No lo aplique en heridas, en piel irritada ni cerca de los ojos o las mucosas. No lo caliente ni lo use en bebidas o vaporizadores a menos que el empaque lo indique. No lo utilice en niños pequeños sin indicación médica. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Vick VapoRub Ungüento 12 g Exhibidor 12 Latas",
+  "descripcion": "Descripción:\nVick VapoRub es un ungüento de uso tópico con alcanfor, mentol y aceite de eucalipto, conocido por su aroma mentolado, que ayuda a calmar algunos síntomas del resfriado. Esta presentación es un dispensador (exhibidor) con 12 latas de 12 g cada una, pensada para quien necesita varias piezas del producto o para surtir un punto de venta.\n\nBeneficios:\n- Fórmula con alcanfor, mentol y aceite de eucalipto.\n- Ayuda a calmar algunos síntomas del resfriado.\n- Formato de lata de 12 g, práctico para llevar.\n- Dispensador con 12 piezas.\n\nComposición:\nCada gramo de ungüento contiene alcanfor 52.6 mg, mentol 28.2 mg y aceite de eucalipto 13.3 mg.\n\nModo de uso:\nUso externo. Aplique una cantidad pequeña sobre la zona indicada en el empaque, con la dosis y la frecuencia que ahí se señalan. Lávese las manos después de aplicarlo.\n\nPresentación:\nDispensador con 12 latas de ungüento de 12 g cada una.\n\nAdvertencias:\nSolo para uso externo; no lo ingiera. Evite el contacto con los ojos, las mucosas y las heridas. No lo use en niños menores de 2 años sin indicación de un médico. No lo caliente ni lo aplique cerca de una flama. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Vick",
     "fabricante": "Procter & Gamble",
     "linea": "VapoRub",
-    "presentacion": "Ungüento tópico en lata",
+    "variante": "Exhibidor 12 latas de 12 g",
+    "presentacion": "Ungüento en lata",
+    "contenido_neto": 144,
+    "unidad_contenido": "g",
     "unidades_por_envase": 12,
+    "principio_activo": "Alcanfor, mentol y aceite de eucalipto",
+    "concentracion": "52.6 mg/28.2 mg/13.3 mg por g",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Exhibidor con 12 latas"
+    "edad_etapa": "Adultos y niños mayores de 2 años",
+    "otros": "Contenido: 12 latas de 12 g cada una; Formato de venta: Dispensador (exhibidor)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -27,14 +33,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001246730_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501001246730_1.jpg",
+      "pagina": "https://www.yza.mx/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/unguento-vick-vaporub-caja-con-12-latas-de-12g-3040377/p",
+    "https://farmasuper.com.mx/en/shop/7501001246730-vick-vaporub-latita-exhibidor-12-pza-65767"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se conoce el contenido de cada lata (el nombre no lo indica); no se incluyó contenido neto. Fabricante P&G inferido por el prefijo del GTIN (7501001, igual que Vick 44). Componentes y advertencias redactados de forma general. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos farmacias (dispensador con 12 latas de 12 g). Composición tomada del empaque en foto. El sitio del fabricante no se consultó. El nombre del fabricante (Procter & Gamble) es de conocimiento general de la marca. Venta con múltiples piezas: el tamaño del contenido neto total es 144 g.",
+    "notas_imagenes": "1 foto de tienda (farmacia en línea) del dispensador Vick VapoRub 12 latas de 12 g.",
     "fecha": "2026-09-29"
   }
 }

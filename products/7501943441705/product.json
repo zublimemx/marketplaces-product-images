@@ -32,16 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943441705_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943441705_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1292,
+      "fecha": "2026-09-29",
+      "lado_util": 1196
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/linea-supreme/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/linea-supreme/"
+    "https://www.huggies.com.mx/productos/linea-supreme/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943441705_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre y por la línea Supreme de la página oficial (pañales de RN a Etapa 7); la descripción es breve porque el sitio oficial no detalla características. El C/6 del nombre no se pudo interpretar; el precio sugiere un paquete de 38 piezas.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): 3/4 del empaque Huggies Supreme Etapa 2 unisex con 38 pañales (diseño rojo Pure & Natural). Se descartó el empaque beige nuevo porque trae 40 pzas; las demás fotos eran infografías."
   }
 }

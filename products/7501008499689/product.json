@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "TABCIN ACTIVE PODS ALIV GRIPE Y TOS TAB 12 SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Tabcin Active Pods Gripe Y Tos 12 Tabletas",
-  "descripcion": "Descripción:\nTabcin Active Pods es un medicamento de Bayer en tabletas para aliviar los síntomas de la gripe y la tos, en presentación de 12 tabletas. La composición, la dosis y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 12 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tabcin Active Pods Alivio de Gripe y Tos 12 Cápsulas",
+  "descripcion": "Descripción:\nTabcin Active de Bayer es un antigripal en cápsulas blandas (pods) que ayuda a aliviar en conjunto las molestias de la gripe y la tos. Combina paracetamol, fenilefrina, dextrometorfano y clorfenamina en una sola cápsula. Se presenta en caja con 12 cápsulas.\n\nBeneficios:\nAyuda en el alivio de:\n- Congestión nasal y secreción nasal.\n- Tos.\n- Dolor de cabeza y fiebre.\n- Cuerpo cortado.\n\nComposición:\nCada cápsula contiene:\n- Paracetamol 250 mg\n- Clorhidrato de fenilefrina 5 mg\n- Bromhidrato de dextrometorfano 10 mg\n- Maleato de clorfenamina 2 mg\n- Excipiente cbp 1 cápsula\n\nModo de uso:\nVía oral. Tome la dosis indicada en el instructivo del empaque o por su médico.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\nPuede causar somnolencia. No maneje ni opere maquinaria si se siente somnoliento. No lo use junto con otros productos que contengan paracetamol. Si los síntomas persisten por más de tres días, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tabcin",
     "fabricante": "Bayer",
-    "variante": "Active Pods",
-    "presentacion": "Tabletas",
+    "linea": "Active Pods",
+    "presentacion": "Cápsulas blandas",
     "contenido_neto": 12,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "cápsulas",
     "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, fenilefrina, dextrometorfano y clorfenamina",
+    "concentracion": "250 mg/5 mg/10 mg/2 mg",
     "via_administracion": "Oral",
-    "otros": "Indicación: gripe y tos; Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: caja con 12 cápsulas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499689_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.cadistribucion.mx/web/image/product.product/23328/image_1920?unique=3f61369",
+      "pagina": "https://www.cadistribucion.mx/shop/7501008499689-tabcin-active-capsulas-c-12-28915",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 541,
+      "fecha": "2026-09-29",
+      "lado_util": 501
+    },
+    {
+      "archivo": "7501008499689_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008499689.jpg",
+      "pagina": "https://www.fahorro.com/tabcin-active.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1517,
+      "fecha": "2026-09-29",
+      "lado_util": 1405
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/tabcin-pods-active-caja-c-c-12-capsulas/p",
+    "https://mayoreofarmaceutico.com.mx/productos/7501008499689/",
+    "https://farmaciaherrera.com.mx/products/tabcin-active-con-12-capsulas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre; fabricante Bayer por conocimiento de la marca y el prefijo del GTIN (7501008, igual que Cafiaspirina y Bepanthen). No se confirmó la composición ni el significado de 'Pods'. 'SEPTIEMBRE 27' es caducidad y se ignoró.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Composición tomada de una sola ficha de tienda (paracetamol 250 mg); otra tienda anuncia 325 mg, conviene validar contra el empaque.",
+    "notas_imagenes": "2 fotos de frente del empaque (tienda). Se descartaron 2 fotos con logotipo de una tienda mayorista.",
     "fecha": "2026-09-29"
   }
 }

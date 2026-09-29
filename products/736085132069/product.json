@@ -17,7 +17,7 @@
     "principio_activo": "Nafazolina",
     "concentracion": "1 mg/ml",
     "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Unidad; Forma farmacéutica: Solución oftálmica"
+    "otros": "Uso: alivio de hiperemia (ojo rojo), ardor y sensación de cuerpo extraño por irritación ocular leve; Formato de venta: Unidad; Forma farmacéutica: Solución oftálmica"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,17 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085132069_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/736085132069.jpg",
+      "pagina": "https://www.emeritafarmacias.com/wp-content/uploads/736085132069.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 962,
+      "fecha": "2026-09-29",
+      "lado_util": 891
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmasmart.com/nazil-ofteno-gotas-15-ml",
-    "https://farmaciasmedina.com/detalleProducto/Nazil-Ofteno/736085132069"
+    "https://farmaciasmedina.com/detalleProducto/Nazil-Ofteno/736085132069",
+    "https://www.emeritafarmacias.com/wp-content/uploads/736085132069.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (frasco de 15 ml). Fabricante, principio activo y contenido tomados de la ficha de farmasmart.com; la concentración se interpreta como 1 mg/ml (la ficha la muestra como '1 mg' para el frasco). Las indicaciones, el modo de uso y las advertencias se redactaron con información general de la nafazolina oftálmica porque la ficha consultada no las traía: verificar contra el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s), origen tienda: 1 de emeritafarmacias.com (736085132069_1.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Solo se halló una foto utilizable (farmalisto/Sears/Medina dieron captcha, 403 o <500 px)."
   }
 }

@@ -4,22 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SINUBERASE AMP C 10 ORAL 64",
   "nombres_sistema_alternos": [],
-  "titulo": "Sinuberase Solución Oral 10 Ampolletas",
-  "descripcion": "Descripción:\nSinuberase es un producto de administración oral que se presenta en ampolletas, en caja con 10 ampolletas. Se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nCaja con 10 ampolletas de solución oral.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sinuberase Bacillus clausii Suspensión 10 Ampolletas",
+  "descripcion": "Descripción:\nSinuberase es una suspensión oral de esporas de Bacillus clausii, un probiótico de Sanofi que ayuda a restaurar el equilibrio de la flora intestinal cuando se altera por diarrea, infecciones intestinales, intoxicaciones, trastornos de la dieta, quimioterapia o uso de antibióticos. Se presenta en caja con 10 ampolletas de 5 ml, listas para beber.\n\nBeneficios:\n- Restaura el equilibrio de la flora intestinal alterada\n- Auxiliar en el tratamiento de alteraciones digestivas como diarrea y gases causadas por un desequilibrio de la flora intestinal\n- Contribuye a la absorción adecuada de nutrientes\n- Estimula las defensas naturales del organismo frente a microbios dañinos\n- Para niños y adultos\n\nComposición:\nCada ampolleta de 5 ml contiene esporas de Bacillus clausii, 2 billones de UFC según la etiqueta del empaque, en suspensión.\n\nModo de uso:\nVía oral. Se recomienda tomar 1 ampolleta cada 8 horas o según lo indique su médico.\n\nPresentación:\nCaja con 10 ampolletas de 5 ml.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si la diarrea persiste o hay fiebre o sangre en las evacuaciones, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sinuberase",
-    "presentacion": "Ampolletas de solución oral",
+    "fabricante": "Sanofi-Aventis de México",
+    "presentacion": "Suspensión oral en ampolletas",
     "contenido_neto": 10,
     "unidad_contenido": "ampolletas",
     "unidades_por_envase": 10,
+    "principio_activo": "Esporas de Bacillus clausii",
+    "concentracion": "2 billones de UFC por ampolleta",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "edad_etapa": "Niños y adultos",
+    "otros": "Contenido por ampolleta: 5 ml; Formato de venta: caja con 10 ampolletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501159580182_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb8c92e4a/images/large/7501159580182_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/sinuberase-10-ampolletas-/MXYZ_7501159580182.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 829,
+      "fecha": "2026-09-29",
+      "lado_util": 768
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sinuberase-probioticos-suspension-10-ampolletas.html",
+    "https://www.yza.mx/sinuberase-10-ampolletas-/MXYZ_7501159580182.html",
+    "https://grupofarmapronto.com/producto/sinuberase-oral-amp-10x5ml/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (ampolletas orales, caja con 10). No se conoce con certeza la composición ni el grupo terapéutico (el nombre sugiere uso relacionado con vías respiratorias o senos paranasales; también existe la presentación Sinuberase de 48 comprimidos en el mismo sistema). Categoría provisional. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes se contradicen en la cantidad de UFC (1 o 2 billones); se usó la que se lee en la caja (2 billones).",
+    "notas_imagenes": "1 foto de frente de la caja (tienda). Se borró una segunda por tener texto promocional.",
     "fecha": "2026-09-29"
   }
 }

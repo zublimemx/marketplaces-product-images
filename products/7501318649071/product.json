@@ -32,18 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318649071_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/175422/7501318649071.jpg",
+      "pagina": "https://www.klyns.mx/baycuten-crema-30-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 967,
+      "fecha": "2026-09-29",
+      "lado_util": 896
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/baycuten.crema/22/101/6521/36",
     "https://farmaciasmedina.com/detalleProducto/Baycuten-30-G-Crema-Tubo/7501318649071",
-    "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/10437-comprar-baycuten-crema-caja-con-tubo-con-30-g-antimicotico-precio-7501318649071.html"
+    "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/10437-comprar-baycuten-crema-caja-con-tubo-con-30-g-antimicotico-precio-7501318649071.html",
+    "https://www.klyns.mx/baycuten-crema-30-gr/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Requiere receta médica (contiene corticoide). Alternativa de categoría venta libre: Antimicóticos (MLM194690).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 1000x1000): caja Baycuten crema 30 g. Medina solo tenía 480x480 (rechazada), PLM 400x400, Farmalisto bloqueado por captcha."
   }
 }

@@ -35,17 +35,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058714305_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/1/1/11946_bb8qmwuxs2s6mvuv.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/tempra-inf-fresa-3-2-g-100-ml-jbe-c-120-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 937,
+      "fecha": "2026-09-29",
+      "lado_util": 867
+    },
+    {
+      "archivo": "7501058714305_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501058714305.jpg",
+      "pagina": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501058714305.jpg",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 1036,
+      "fecha": "2026-09-29",
+      "lado_util": 966
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3624-comprar-tempra-infantil-32-g100-ml-caja-con-frasco-con-120-ml-precio-7501058714305.html",
-    "https://www.farmaciasespecializadas.com/tempra-inf-fresa-3-2-g-100-ml-jbe-c-120-ml.html"
+    "https://www.farmaciasespecializadas.com/tempra-inf-fresa-3-2-g-100-ml-jbe-c-120-ml.html",
+    "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501058714305.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado: jarabe infantil sabor fresa de 120 ml. El 100ML del nombre del sistema corresponde a la concentración (3.2 g/100 ml), no al contenido; el frasco es de 120 ml.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 1 de farmaciasespecializadas.com (7501058714305_1.jpg; 1000 px); 1 de grupofarmapronto.com (7501058714305_2.jpg; 960 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

@@ -4,20 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "ELEVIT PRE NAT COMP C 30 JUNIO 27 120",
   "nombres_sistema_alternos": [],
-  "titulo": "Elevit Pronatal Multivitamínico 30 Tabletas",
-  "descripcion": "Descripción:\nElevit Pronatal es un suplemento multivitamínico y multimineral de Bayer, de su línea prenatal, en presentación de 30 tabletas. Contiene vitaminas y minerales, entre ellos ácido fólico y hierro. Consulte en el empaque la composición completa, la dosis diaria recomendada y las advertencias del fabricante.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo exceda la dosis diaria recomendada. No sustituye una dieta equilibrada. Consulte a su médico antes de consumirlo, sobre todo si está embarazada, en periodo de lactancia o bajo tratamiento médico. Manténgase fuera del alcance de los niños.",
+  "titulo": "Elevit Pronatal Multivitamínico 30 Comprimidos",
+  "descripcion": "Descripción:\nElevit es un complemento multivitamínico y multimineral de Bayer diseñado para cubrir las necesidades nutricionales de la mujer antes, durante y después del embarazo. Su fórmula incluye vitaminas y minerales, entre ellos ácido fólico y hierro, y su empaque lo presenta como apoyo al sano desarrollo de los órganos del bebé. Esta presentación contiene 30 comprimidos.\n\nBeneficios:\n- Para mujeres que planean un embarazo, que están embarazadas o en periodo de lactancia.\n- Aporta vitaminas y minerales, incluidos ácido fólico y hierro.\n- Ayuda al sano desarrollo de los órganos del bebé y a reducir el riesgo de enfermedades en la etapa adulta, según el empaque.\n- Se presenta en comprimidos, con 30 dosis por caja.\n\nComposición:\nMultivitamínico y multimineral en comprimidos. Contiene hierro, ácido fólico y lactosa. Consulte el empaque para conocer la fórmula completa.\n\nModo de uso:\nVía oral. Tome un comprimido al día o la dosis que indique su médico. En caso de vómitos durante el embarazo, se recomienda tomar el comprimido a medio día. Si es una mujer con sensibilidad especial y se siente hiperestimulada, no lo tome por la noche.\n\nPresentación:\nCaja con 30 comprimidos.\n\nAdvertencias:\nNo se recomienda su uso pediátrico. Es bien tolerado; en casos poco frecuentes puede causar estreñimiento, diarrea, náusea, vómito, dolor de cabeza, mareo, insomnio o nerviosismo. Puede observarse una ligera coloración amarilla en la orina y, por el hierro, una coloración oscura en las heces. No lo tome durante un tratamiento con tetraciclinas, fluoroquinolonas, levotiroxina o diuréticos tiazídicos, a menos que pasen dos horas entre ambos. Contiene lactosa. Conservar a no más de 25 °C, protegido de la luz y con la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Elevit",
     "fabricante": "Bayer",
     "linea": "Pronatal",
     "variante": "Multivitamínico y multimineral",
-    "presentacion": "Tabletas",
+    "presentacion": "Comprimidos",
     "contenido_neto": 30,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 30,
+    "principio_activo": "Vitaminas, minerales, ácido fólico y hierro",
+    "via_administracion": "Oral",
     "genero": "Mujer",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "428M97 SSA VI",
+    "otros": "Uso: antes, durante y después del embarazo; Contiene lactosa; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008497623_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008497623_3.jpg",
+      "pagina": "https://tienda.bayer.com/nutricion/262-elevit-30-cmp-7501008497623.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1616,
+      "fecha": "2026-09-29",
+      "lado_util": 1497
+    },
+    {
+      "archivo": "7501008497623_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008497623_2.jpg",
+      "pagina": "https://tienda.bayer.com/nutricion/262-elevit-30-cmp-7501008497623.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1259,
+      "fecha": "2026-09-29",
+      "lado_util": 1166
+    },
+    {
+      "archivo": "7501008497623_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008497623_1.jpg",
+      "pagina": "https://tienda.bayer.com/nutricion/262-elevit-30-cmp-7501008497623.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1252,
+      "fecha": "2026-09-29",
+      "lado_util": 1160
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/elevit-multivitaminico-para-antes-durante-y-despues-del-embaraz/",
+    "https://wecarepharma.mx/en/products/elevit-con-30-comprimidos-multivitaminico",
+    "https://tienda.bayer.com/nutricion/262-elevit-30-cmp-7501008497623.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Producto identificado por nombre y conocimiento previo de la marca (Bayer, prefijo GTIN 7501008); no se confirmó la presentación de 30 tabletas ni la fórmula exacta, por eso la descripción no lista cantidades. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró la lista completa de vitaminas y minerales con cantidades para México, por eso la composición es general. Precauciones e interacciones del reverso de la caja. La dosis de un comprimido al día es la habitual; confirmar en el empaque.",
+    "notas_imagenes": "3 fotos (tienda: Farmacias del Ahorro; el enlace de página quedó en la tienda de Bayer): frente, ángulo y reverso de la caja de 30 comprimidos.",
     "fecha": "2026-09-29"
   }
 }

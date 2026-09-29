@@ -4,17 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "NEUROBION C30 TABS VIT B1-B6-B12",
   "nombres_sistema_alternos": [],
-  "titulo": "Neurobión Vitaminas B1 B6 B12 30 Tabletas",
-  "descripcion": "Descripción:\nNeurobión es un producto a base de vitaminas del complejo B: B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina), vitaminas que participan en el funcionamiento del sistema nervioso. Se presenta en caja con 30 tabletas.\n\nComposición:\n- Vitamina B1 (tiamina)\n- Vitamina B6 (piridoxina)\n- Vitamina B12 (cianocobalamina)\nConsulte el empaque para conocer la cantidad de cada vitamina.\n\nModo de uso:\nVía oral. Siga la dosis que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- No exceda la dosis recomendada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Neurobión Vitaminas B1 B6 B12 30 Tabletas Recubiertas",
+  "descripcion": "Descripción:\nNeurobión es un complejo de vitaminas neurotropas del grupo B que combina tiamina (B1), piridoxina (B6) y cianocobalamina (B12) en tabletas recubiertas de administración oral. Favorece las funciones y el mantenimiento del sistema nervioso. Está indicado para el tratamiento de las neuritis y neuralgias (neuropatías) y para la prevención y el tratamiento de las deficiencias de las vitaminas B1, B6 y/o B12, incluidas las inducidas por diabetes mellitus o por consumo prolongado de alcohol. Esta presentación contiene 30 tabletas.\n\nBeneficios:\n- Reúne tres vitaminas del complejo B que participan en el funcionamiento de los nervios.\n- Actúa en los procesos de regeneración de la fibra nerviosa.\n- Promueve el metabolismo de las proteínas y las grasas, y es fundamental para la transformación de azúcares.\n- Favorece el aprovechamiento y la absorción de varios nutrientes.\n- Indicado en neuralgia del trigémino e intercostal, isquialgia, síndrome lumbar y cervical, síndrome del hombro doloroso, neuritis radicular por enfermedades degenerativas de la columna vertebral y paresia facial.\n\nComposición:\nCada tableta contiene: mononitrato de tiamina (vitamina B1) 100 mg; clorhidrato de piridoxina (vitamina B6) 5 mg; cianocobalamina (vitamina B12) 50 mcg; excipiente cbp una tableta. Contiene lactosa.\n\nModo de uso:\nVía oral. Una tableta con cada alimento, 3 veces al día, o como indique su médico.\n\nPresentación:\nCaja con 30 tabletas recubiertas.\n\nAdvertencias:\nNo lo use si es hipersensible a alguno de los componentes de la fórmula ni si padece policitemia vera o enfermedad de Leber. En caso de embarazo o lactancia, consulte a su médico. La administración de dosis grandes de piridoxina se ha relacionado con síndromes neuropáticos que revierten al suspender el tratamiento. Contiene lactosa: precaución en personas intolerantes. No se use en niños menores de 12 años. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Neurobión",
-    "presentacion": "Tabletas",
+    "fabricante": "Merck (P&G Health)",
+    "presentacion": "Tabletas recubiertas",
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "principio_activo": "Tiamina (B1) / Piridoxina (B6) / Cianocobalamina (B12)",
+    "principio_activo": "Tiamina (B1), piridoxina (B6) y cianocobalamina (B12)",
+    "concentracion": "Tiamina 100 mg; piridoxina 5 mg; cianocobalamina 50 mcg por tableta",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "0132M79 SSA",
+    "otros": "Vitaminas del complejo B; Contiene lactosa; No usar en menores de 12 años; Formato de venta: Caja"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298221397_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298221397.jpg",
+      "pagina": "https://www.fahorro.com/neurobion-oral-30-tabletas-vitaminas-del-complejo-b.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "7501298221397_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298221397_1.jpg",
+      "pagina": "https://www.fahorro.com/neurobion-oral-30-tabletas-vitaminas-del-complejo-b.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1302,
+      "fecha": "2026-09-29",
+      "lado_util": 1206
+    },
+    {
+      "archivo": "7501298221397_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298221397_2.jpg",
+      "pagina": "https://www.fahorro.com/neurobion-oral-30-tabletas-vitaminas-del-complejo-b.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1249,
+      "fecha": "2026-09-29",
+      "lado_util": 1157
+    }
+  ],
+  "url_oficial": "https://www.neurobion.com/es-mx/productos-neurobion",
+  "fuentes": [
+    "https://www.neurobion.com/es-mx/productos-neurobion",
+    "https://www.fahorro.com/neurobion-oral-30-tabletas-vitaminas-del-complejo-b.html",
+    "https://www.yza.mx/neurobion-30-tabs/MXYZ_7501298221397.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). Las vitaminas B1, B6 y B12 vienen en el nombre del sistema; faltan concentraciones, fabricante y registro sanitario.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda y en la URL de otra tienda. Fórmula, indicaciones, dosis y advertencias leídas en la parte trasera de la caja (foto) y en la página del fabricante. Se usó la categoría de vitaminas por la regla del proyecto, aunque el producto tiene registro sanitario e indicación terapéutica (neuritis y neuralgias).",
+    "notas_imagenes": "3 fotos de tienda: frente, parte trasera con fórmula e indicaciones y vista en ángulo de la caja de 30 tabletas. Se descartaron 3 fotos con material promocional. El empaque del fabricante medía menos de 500 px y no se guardó.",
     "fecha": "2026-09-29"
   }
 }

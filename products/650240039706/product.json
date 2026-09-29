@@ -34,18 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240039706_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/650240039706.jpg",
+      "pagina": "https://www.emeritafarmacias.com/",
+      "ancho_original": 1181,
+      "alto_original": 1160,
+      "lado_final": 1257,
+      "fecha": "2026-09-29",
+      "lado_util": 1163
+    }
+  ],
   "url_oficial": "https://medicasp1.com/",
   "fuentes": [
     "https://www.benavides.com.mx/medicasp-shampoo-auxiliar-en-la-eliminacion-de-la-caspa-130-ml",
     "https://www.medicamentosplm.com/Home/productos/medicasp.shampoo.shampoo/63/101/46574/143",
-    "https://medicasp1.com/"
+    "https://medicasp1.com/",
+    "https://www.emeritafarmacias.com/wp-content/uploads/650240039706.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El GTIN corresponde al Duopack (2 frascos de 130 ml). Los datos de ingrediente y modo de uso vienen de la ficha del frasco individual de 130 ml. Se clasificó como medicamento de venta libre por el ketoconazol; como alternativa podría ir en Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores (MLM430117).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Emérita): duopack Medicasp shampoo 2 x 130 ml, 1181 px. Ojo: el empaque trae impreso 'Ahorra pack ¡Precio especial!'. Se descartó una foto de la caja individual (presentación distinta, 520 px)."
   }
 }

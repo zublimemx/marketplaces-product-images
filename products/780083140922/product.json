@@ -4,40 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "AMPIGRIN ADULT AMP C 3 AMP COLLINS 40",
   "nombres_sistema_alternos": [],
-  "titulo": "Ampigrin Adulto Solución Inyectable 3 Ampolletas",
-  "descripcion": "Descripción:\nAmpigrin Adulto en presentación inyectable, caja con 3 ampolletas, de laboratorios Collins. Consulte en el empaque la composición, la concentración, las indicaciones y la dosis.\n\nPresentación:\nCaja con 3 ampolletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ampigrin Adulto Ampicilina 500 mg 3 Frascos Ámpula",
+  "descripcion": "Descripción:\nAmpigrin Adulto es una solución inyectable de Collins que combina el antibiótico ampicilina con metamizol, guaifenesina, clorfenamina y lidocaína. Se indica como tratamiento inicial coadyuvante para lograr una pronta mejoría clínica en pacientes con infecciones de las vías respiratorias altas causadas por bacterias sensibles a la ampicilina, que cursan con síntomas como malestar general, dolor, fiebre, congestión nasal y estornudos.\n\nComposición:\nCada frasco ámpula contiene ampicilina sódica estéril equivalente a 500 mg de ampicilina. Cada ampolleta de 3 ml de diluyente contiene metamizol sódico 500 mg, guaifenesina 100 mg, clorfenamina 4 mg y clorhidrato de lidocaína 30 mg, vehículo c.b.p. 3 ml.\n\nModo de uso:\nUso inyectable. Debe prepararse y aplicarse por personal de salud, en la dosis y durante el tiempo que indique su médico. No suspenda el tratamiento antes de lo indicado.\n\nPresentación:\nCaja con 3 frascos ámpula con polvo y 3 ampolletas de diluyente de 3 ml. Según el empaque, incluye jeringas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a las penicilinas, al metamizol o a algún otro componente de la fórmula.\n- Suspenda su uso y consulte a su médico si presenta ronchas, dificultad para respirar o hinchazón de cara o labios.\n- No se automedique.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ampigrin",
     "fabricante": "Collins",
     "variante": "Adulto",
-    "presentacion": "Ampolletas inyectables",
+    "presentacion": "Polvo para solución inyectable con ampolleta de diluyente",
     "contenido_neto": 3,
-    "unidad_contenido": "ampolletas",
+    "unidad_contenido": "frascos ámpula",
     "unidades_por_envase": 3,
+    "principio_activo": "Ampicilina, metamizol, guaifenesina, clorfenamina, lidocaína",
+    "concentracion": "Ampicilina 500 mg; metamizol 500 mg, guaifenesina 100 mg, clorfenamina 4 mg y lidocaína 30 mg por ampolleta de 3 ml",
     "via_administracion": "Inyectable",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Requiere receta médica; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "780083140922_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://distribuidorasanantonio.com/wp-content/uploads/2023/08/AMPIGRIN.webp",
+      "pagina": "https://distribuidorasanantonio.com/producto/ampigrin/",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 403
+    },
+    {
+      "archivo": "780083140922_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/05/imgi_31_ampigrin-adulto-sol-iny-collins.png",
+      "pagina": "https://phemedica.com.mx/product/ampigrin-adulto-ampicilinametamizolguaifenesinalidocainaclorfenamina-sol-iny-c-3-fco-amp-500-mg-y-3-jeringas-collins/",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 517,
+      "fecha": "2026-09-29",
+      "lado_util": 479
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/ampigrin.solucion.inyectable/138/101/46670/162",
+    "https://phemedica.com.mx/product/ampigrin-adulto-ampicilinametamizolguaifenesinalidocainaclorfenamina-sol-iny-c-3-fco-amp-500-mg-y-3-jeringas-collins/",
+    "https://distribuidorasanantonio.com/producto/ampigrin/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. La categoría Antiinfecciosos es una suposición (el nombre sugiere una ampicilina inyectable); no se confirmó el principio activo. Si resulta ser un antibiótico requiere receta (Rx sugerida MLM457827). El GTIN de 12 dígitos no se probó con un 0 al inicio. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (se buscó con 0 al inicio) aparece como SKU en distribuidores; presentación adulto 500 mg con 3 frascos ámpula coincide. Composición e indicación de la información para prescribir (PLM). El nombre del sistema dice ampolletas; el producto es polvo en frasco ámpula con ampolleta de diluyente. Antibiótico con receta; va en venta libre por instrucción del dueño.",
+    "notas_imagenes": "2 fotos de tienda (Distribuidora San Antonio y Phemedica), caja de frente. Se descartó una tercera por traer marca de agua.",
     "fecha": "2026-09-29"
   }
 }

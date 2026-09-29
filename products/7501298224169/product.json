@@ -32,7 +32,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298224169_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298224169_1_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "pagina": "https://www.farmaciasespecializadas.com/gavindo-n-300-100-0-200-mg-caj-cap-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "fecha": "2026-09-29",
+      "lado_util": 804
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://curitek.com/producto/gavindo-n-gabapentina-tiamina-cianocobalamina/",
@@ -44,6 +56,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado. Las fuentes consultadas no traen las indicaciones aprobadas ni la posología; la descripción se limita a composición y advertencias generales. Requiere receta en México; el dueño indicó publicar como venta libre. Revisar el fabricante (una fuente dice Merck y otra P&G).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Especializadas): caja Gavindo N c/30 cápsulas, 1000 px."
   }
 }

@@ -4,21 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "NESAJAR C16 CAPS PINAVERIO DIMETICONA GELPHARMA 130",
   "nombres_sistema_alternos": [],
-  "titulo": "Nesajar Pinaverio y Dimeticona 16 Cápsulas",
-  "descripcion": "Descripción:\nNesajar es un medicamento en cápsulas de Gelpharma que combina bromuro de pinaverio y dimeticona, en presentación de 16 cápsulas. Es un producto de uso digestivo; consulte en el empaque la concentración de cada componente, las indicaciones y la dosis.\n\nComposición:\nBromuro de pinaverio y dimeticona por cápsula. Consulte la concentración de cada componente en el empaque.\n\nModo de uso:\nVía oral. Tome las cápsulas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico.\n\nPresentación:\nCaja con 16 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Consulte a su médico antes de usarlo si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Nesajar Pinaverio Dimeticona 100 mg/300 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nNesajar es un medicamento antiespasmódico que combina bromuro de pinaverio (100 mg) y dimeticona (300 mg) en cápsulas blandas de administración oral. Está diseñado para aliviar trastornos digestivos frecuentes como la colitis y el síndrome de intestino irritable. Se presenta en caja con 16 cápsulas.\n\nBeneficios:\n- Alivia los síntomas de colitis\n- Ayuda con el dolor abdominal y los cólicos\n- Acción antiespasmódica\n- Regula el tránsito intestinal y ayuda a reducir la inflamación\n- Cápsula blanda, de absorción rápida\n\nComposición:\nCada cápsula contiene bromuro de pinaverio 100 mg y dimeticona 300 mg.\n\nModo de uso:\nVía oral. Tome las cápsulas enteras, con un poco de agua, en la dosis y con la frecuencia que indique su médico o el empaque.\n\nPresentación:\nCaja con 16 cápsulas blandas de 100 mg/300 mg.\n\nAdvertencias:\nNo lo use si es alérgico al pinaverio, a la dimeticona o a algún componente de la fórmula. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. En embarazo o lactancia, consulte a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Nesajar",
-    "fabricante": "Gelpharma",
-    "presentacion": "Cápsulas",
+    "fabricante": "Gel Pharma",
+    "presentacion": "Cápsulas blandas",
     "contenido_neto": 16,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 16,
     "principio_activo": "Bromuro de pinaverio y dimeticona",
+    "concentracion": "100 mg / 300 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Antiespasmódico; Formato de venta: caja con 16 cápsulas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
@@ -30,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502227426449_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502227426449_3.jpg",
+      "pagina": "https://www.fahorro.com/nesajar-pinaverio-dimeticona-16-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1395,
+      "fecha": "2026-09-29",
+      "lado_util": 1292
+    },
+    {
+      "archivo": "7502227426449_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc64a360b/images/large/7502227426449_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.fahorro.com/nesajar-pinaverio-dimeticona-16-capsulas.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 771,
+      "fecha": "2026-09-29",
+      "lado_util": 713
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nesajar-pinaverio-dimeticona-16-capsulas.html",
+    "https://www.yza.mx/nesajar-pinaverio-dimeticona-16-capsulas/MXYZ_7502227426449.html",
+    "https://grupofarmapronto.com/producto/pinaverio-dimeticona-100-300-mg-c-16-capsulas-nesajar/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (C16 cápsulas, pinaverio y dimeticona, Gelpharma; el 130 final se ignoró); sin fuentes. No se conocen las concentraciones. Se desconoce la clasificación de venta. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las advertencias de alergia y de embarazo son generales; no se encontró el prospecto completo.",
+    "notas_imagenes": "2 fotos de tienda de la caja de frente (la segunda con otro tono de fondo).",
     "fecha": "2026-09-29"
   }
 }

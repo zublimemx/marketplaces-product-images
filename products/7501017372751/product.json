@@ -4,16 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR GDE C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Desechables Absor Grande 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables de la marca Absor, talla Grande, en paquete con 40 piezas. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.\n\nCaracterísticas:\n- Marca: Absor.\n- Talla: Grande.\n- Contenido: 40 pañales desechables.\n\nPresentación:\nPaquete con 40 pañales.",
+  "titulo": "Pañales Kleenbebé Absorsec Etapa 4 Grande 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Kleenbebé Absorsec unisex, talla Grande (etapa 4), paquete con 40 piezas. Están pensados para mantener al bebé seco por más tiempo, con un sistema de absorción que resiste múltiples descargas y ayuda a evitar escurrimientos. El empaque los presenta con la leyenda mucho más sequecito. Kleenbebé es una marca de Kimberly-Clark y Absorsec es su línea enfocada en la absorción para el uso diario.\n\nCaracterísticas:\n- Sistema Blockgel de absorción extendida\n- Tecnología antibolas que ayuda a prevenir la deformación del pañal\n- Barreras que ayudan a evitar escurrimientos\n- Resiste múltiples descargas\n- Diseño unisex para niño o niña\n- Etapa 4, talla Grande (G)\n\nModo de uso:\nColoque el pañal abierto debajo del bebé, lleve la parte delantera hacia el frente y ajuste las cintas adhesivas de manera cómoda, sin apretar. Cambie el pañal cuando esté húmedo o sucio, deseche los residuos sólidos en el inodoro y tire el pañal en el bote de basura.\n\nPresentación:\nPaquete con 40 pañales desechables unisex, etapa 4 talla Grande.\n\nAdvertencias:\nMantenga los empaques de plástico lejos del alcance de los niños. No arroje el pañal al inodoro.",
   "ficha": {
-    "marca": "Absor",
-    "presentacion": "Paquete",
+    "marca": "Kleenbebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Absorsec",
+    "variante": "Grande",
+    "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
-    "talla": "Grande",
-    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+    "edad_etapa": "Etapa 4",
+    "talla": "Grande (G)",
+    "genero": "Unisex",
+    "otros": "Tecnología Blockgel; Tecnología antibolas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +32,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017372751_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwa180d680/images/large/7501017372751_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/absorsec-grande-40-panales/MXYZ_7501017372751.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "fecha": "2026-09-29",
+      "lado_util": 899
+    },
+    {
+      "archivo": "7501017372751_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7045b777/images/large/7501017372751_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/absorsec-grande-40-panales/MXYZ_7501017372751.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 905
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/absorsec-grande-40-panales/MXYZ_7501017372751.html",
+    "https://superfenix.mx/producto/panales-desechables-absorsec-grande-40-pzs/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Se usó el nombre literal del sistema (ABSOR GDE C/40); la marca podría ser Absorsec u otra y GDE se interpretó como Grande. Se asumió pañal de bebé (línea Mark, precio por pieza bajo); no se descarta que sea otro producto absorbente. Falta confirmar marca completa, fabricante y talla/etapa.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunas tiendas la llaman Ultra Grande. No se encontró el rango de peso en las fuentes, por eso no se incluyó. Modo de uso y advertencias son generales para pañales.",
+    "notas_imagenes": "2 fotos de tienda (paquete de frente horizontal y vertical); se descartó una imagen lateral del empaque.",
     "fecha": "2026-09-29"
   }
 }

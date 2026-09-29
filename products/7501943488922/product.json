@@ -4,14 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR EX JUMC/40",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Desechables para Bebé Extra Jumbo 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para bebé en presentación de 40 piezas, formato jumbo. Verifique en el empaque la marca, la etapa o talla y el rango de peso recomendado para elegir la opción adecuada para su bebé.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la talla adecuada.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "titulo": "Pañales KleenBebé Absorsec Etapa 6 Extra Jumbo 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales desechables KleenBebé Absorsec Etapa 6, talla Extra Jumbo (XJ), son unisex y están pensados para bebés en etapa de crecimiento que necesitan absorción y comodidad durante el día y la noche. Cuentan con núcleo absorbente con sistema BlockGel, que ayuda a retener los líquidos para mantener la piel del bebé seca. Se venden en bolsa con 40 piezas.\n\nCaracterísticas:\n- Etapa 6, talla Extra Jumbo (XJ), unisex.\n- Núcleo absorbente con sistema BlockGel para una mejor absorción.\n- Cubierta respirable y elástico en la cintura para un ajuste cómodo.\n- Presentación de 40 pañales por bolsa.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé con las cintas hacia atrás. Lleve la parte delantera entre las piernas, sujete las cintas a los lados y ajuste sin apretar. Cámbielo cuando esté húmedo o sucio y limpie la piel del bebé en cada cambio.\n\nPresentación:\nBolsa con 40 pañales desechables, Etapa 6, talla Extra Jumbo, unisex.\n\nAdvertencias:\nProducto de un solo uso. Deséchelo en la basura, no en el inodoro. Mantenga las bolsas de plástico fuera del alcance de los niños para evitar riesgo de asfixia. Si aparece irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Absorsec",
+    "variante": "Etapa 6 Extra Jumbo",
     "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
-    "otros": "Tipo de pañal: Desechable"
+    "edad_etapa": "Etapa 6",
+    "talla": "Extra Jumbo (XJ)",
+    "genero": "Unisex",
+    "otros": "Núcleo absorbente con sistema BlockGel; Formato de venta: Bolsa"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943488922_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/305485-1000-1000/7501943488922.jpg?v=638961473886630000",
+      "pagina": "https://www.lagranbodega.com.mx/kleenbebe-absorsec-extra-jumbo-40-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 992,
+      "fecha": "2026-09-29",
+      "lado_util": 919
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/absorsec-extra-jumbo-c-40/p",
+    "https://superfenix.mx/producto/panales-desechables-absorsec-extra-jumbo-40-pzs/",
+    "https://www.lagranbodega.com.mx/kleenbebe-absorsec-extra-jumbo-40-piezas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). Producto no identificado: ABSOR EX JUM podría ser un pañal de bebé de marca económica (el prefijo del GTIN es de Kimberly-Clark y el precio es de pañal de bebé, no de adulto), pero la marca y la talla no se confirmaron, por eso el título es genérico. Hay que buscar por GTIN antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por la foto de tienda que lleva ese GTIN y por URLs de tienda con ese código. El nombre del sistema ('ABSOR EX JUM C/40') se interpretó como Absorsec Extra Jumbo, 40 piezas; el borrador decía solo 'Extra Jumbo'. No se confirmó el rango de peso de la etapa 6, por eso no aparece. La página de la marca no se consultó.",
+    "notas_imagenes": "1 foto de tienda (frente de la bolsa KleenBebé Absorsec Etapa 6 XJ, 40 pañales, 1000 px).",
     "fecha": "2026-09-29"
   }
 }

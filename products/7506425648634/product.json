@@ -4,18 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "SUAVE R-N E1 C/20",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Suave Recién Nacido Etapa 1 20 Piezas",
-  "descripcion": "Descripción:\nPañales desechables de la marca Suave para bebé recién nacido, en Etapa 1 y presentación de 20 piezas. Son pañales de uso diario con núcleo absorbente y cintas ajustables para mantener el pañal en su lugar.\n\nPresentación:\nPaquete con 20 pañales desechables.\n\nAdvertencias:\nSeleccione la etapa según el peso y la talla de su bebé, que se indican en el empaque. Cambie el pañal con frecuencia para mantener la piel limpia y seca. Mantenga las bolsas de plástico lejos del alcance de los niños.",
+  "titulo": "Pañales KleenBebé Suavelastic Recién Nacido Etapa 1 20 Pzas",
+  "descripcion": "Descripción:\nPañales desechables KleenBebé Suavelastic para recién nacido, Etapa 1, en paquete con 20 piezas. Son de la línea Suavelastic de Kimberly-Clark, pensada para mantener al bebé seco y cómodo desde los primeros días, con un ajuste flexible que permite libertad de movimiento.\n\nCaracterísticas:\n- Maxi sequedad: con Blockgel 4D para absorber y ayudar a mantener la piel seca.\n- Maxi cuidado: mayor suavidad, con fórmula Vitta E Plus.\n- Maxi ajuste: cintas estirables para un ajuste cómodo a la cintura.\n- Etapa Recién Nacido (1 RN), uso unisex.\n- Empaque con 20 pañales.\n\nModo de uso:\nColoque el pañal por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca. Después de usarlo, enróllelo, ciérrelo con las cintas y deséchelo en la basura.\n\nPresentación:\nPaquete con 20 pañales desechables, Etapa 1 Recién Nacido.\n\nAdvertencias:\n- No arroje el pañal al inodoro.\n- Mantenga los pañales y su empaque fuera del alcance de los niños.\n- No deje al bebé sin supervisión durante el cambio.\n- Consulte en el empaque el rango de peso recomendado para esta etapa.",
   "ficha": {
-    "marca": "Suave",
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Suavelastic",
     "variante": "Recién nacido",
     "presentacion": "Paquete de pañales desechables",
     "contenido_neto": 20,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 20,
-    "edad_etapa": "Etapa 1 (recién nacido)",
+    "edad_etapa": "Recién nacido (Etapa 1)",
+    "talla": "Etapa 1 RN",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete"
+    "otros": "Tipo de pañal: Desechable; Tecnología: Blockgel 4D, cintas estirables; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425648634_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/7506425648634.jpg?v=1727379593&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/40223",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1193,
+      "fecha": "2026-09-29",
+      "lado_util": 1105
+    },
+    {
+      "archivo": "7506425648634_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/307072-1000-1000/7506425648634.jpg?v=639060141664030000",
+      "pagina": "https://www.lagranbodega.com.mx/pa%C3%B1al-kleenbebe-suavelastic-recien-nacido-etapa-1-con-20-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 853,
+      "fecha": "2026-09-29",
+      "lado_util": 790
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/40223",
+    "https://www.lagranbodega.com.mx/pa%C3%B1al-kleenbebe-suavelastic-recien-nacido-etapa-1-con-20-piezas/p",
+    "https://superfenix.mx/producto/panales-kleenbebe-suavelastic-recien-nacido-20-piezas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (SUAVE R-N E1 C/20; R-N interpretado como recién nacido). El GTIN comparte prefijo con Huggies (7506425), probablemente Kimberly-Clark, pero no se verificó. Confirmar marca, línea y género.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'SUAVE R-N E1 C/20' es KleenBebé Suavelastic Recién Nacido Etapa 1 con 20 piezas; el GTIN aparece como SKU en una farmacia. El rango de peso no es consistente entre fuentes, por eso se remite al empaque. Los atributos (Blockgel 4D, Vitta E Plus, cintas estirables) se leyeron en la foto del empaque. Corrige el borrador anterior, que estaba como 'Suave'.",
+    "notas_imagenes": "2 fotos de tienda (Farmacia San Jorge y La Gran Bodega): dos versiones del diseño del empaque, ambas con 20 pañales RN etapa 1.",
     "fecha": "2026-09-29"
   }
 }

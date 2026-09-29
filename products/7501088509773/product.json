@@ -30,17 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088509773_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088509773_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088509773_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 549,
+      "fecha": "2026-09-29",
+      "lado_util": 509
+    },
+    {
+      "archivo": "7501088509773_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088509773_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088509773_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 560,
+      "fecha": "2026-09-29",
+      "lado_util": 519
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Antiflu-des/7501088509773",
-    "https://farmaciasanisidro.mx/producto/medicamento-iva-0/antifludes-cap-c-24/"
+    "https://farmaciasanisidro.mx/producto/medicamento-iva-0/antifludes-cap-c-24/",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501088509773_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias mexicanas (24 cápsulas, 50/3/300 mg). La ficha de la farmacia solo trae composición e indicación; modo de uso y advertencias son generales, sin dosis específica.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501088509773_1.jpg, 7501088509773_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

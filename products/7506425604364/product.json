@@ -32,18 +32,44 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425604364_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604364_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1520,
+      "fecha": "2026-09-29",
+      "lado_util": 1408
+    },
+    {
+      "archivo": "7506425604364_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw3f70f06b/images/large/7506425604364_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/huggies-ultraconfort-nino-etapa-6-40-pzas/MXYZ_7506425604364.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1018,
+      "fecha": "2026-09-29",
+      "lado_util": 943
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
     "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
     "https://www.klyns.mx/huggies-u-conf-et-6-nino-c-40/p",
-    "https://www.mercadolibre.com.mx/huggies-ultraconfort-panal-desechable-etapa-6-nino-40pzs-genero-hombre-talla-grande-g/p/MLM17379861"
+    "https://www.mercadolibre.com.mx/huggies-ultraconfort-panal-desechable-etapa-6-nino-40pzs-genero-hombre-talla-grande-g/p/MLM17379861",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604364_2.jpg",
+    "https://www.yza.mx/huggies-ultraconfort-nino-etapa-6-40-pzas/MXYZ_7506425604364.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El peso (más de 13.5 kg) sale de Amazon y tiendas; la página oficial de UltraConfort no lista pesos.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 1 de fahorro.com (tienda), 1 de yza.mx (tienda). Diseno actual Ultra Confort; se descartaron fotos del diseno anterior."
   }
 }

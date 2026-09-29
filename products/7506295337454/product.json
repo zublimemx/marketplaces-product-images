@@ -15,7 +15,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 1,
     "genero": "Mujer",
-    "otros": "Tipo de prueba: Embarazo; Formato de venta: Unidad"
+    "otros": "Tipo de prueba: Embarazo; Precisión en la detección del embarazo: superior al 99%; Indica las semanas desde la concepción; Formato de venta: Unidad",
+    "fabricante": "Procter & Gamble",
+    "edad_etapa": "Adultos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,17 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506295337454_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7506295337454_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7506295337454_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 628,
+      "fecha": "2026-09-29",
+      "lado_util": 581
+    },
+    {
+      "archivo": "7506295337454_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7506295337454_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7506295337454_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 663,
+      "fecha": "2026-09-29",
+      "lado_util": 614
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/pruebas-de-embarazo/8661-comprar-prueba-de-embarazo-digital-con-indicador-de-concepcion-clearblue-caja-con-1-pieza-precio-7506295337454.html",
-    "https://farmaciasfleming.mx/producto/prueba-de-embarazo-clearblue-digital/"
+    "https://farmaciasfleming.mx/producto/prueba-de-embarazo-clearblue-digital/",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7506295337454_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias: Clearblue Digital con indicador de concepción, 1 pieza. No se pudo leer la ficha completa (WebFetch rechazado por límite de solicitudes), por eso el modo de uso es general; verificar los pasos con el instructivo del empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7506295337454_1.jpg, 7506295337454_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

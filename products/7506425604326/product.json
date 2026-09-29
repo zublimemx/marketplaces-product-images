@@ -32,16 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425604326_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604326_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    },
+    {
+      "archivo": "7506425604326_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0929/7294/1602/files/7506425604326_7804b8b8-a613-435d-a57f-6b69c42d4911.jpg?v=1752093450",
+      "pagina": "https://farmaciapopularenlinea.com/products/panal-hugg-ult-conf-nino-e5-c40-n",
+      "ancho_original": 842,
+      "alto_original": 842,
+      "lado_final": 768,
+      "fecha": "2026-09-29",
+      "lado_util": 712
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604326_2.jpg",
+    "https://farmaciapopularenlinea.com/products/panal-hugg-ult-conf-nino-e5-c40-n"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF NINO E5 = Huggies UltraConfort Niño Etapa 5) y por GTIN hermano 7506425604364 confirmado en el lote 1. La página oficial no lista rangos de peso, por eso no se incluyen. Las 40 piezas salen del nombre del sistema.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos de tienda: Farmacias del Ahorro 1600 px (frente) y farmaciapopularenlinea.com 842 px (vertical), ambas empaque nuevo 'Nueva Ultra cobertura' Etapa 5 niño, 40 pzas. Se descartó el diseño anterior."
   }
 }

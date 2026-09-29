@@ -10,6 +10,10 @@ products/<GTIN>/images/          Fotos del producto: <GTIN>_1.jpg, <GTIN>_2.jpg,
 config/mercadolibre.json         Valores fijos de publicación y reglas de precio de Mercado Libre
 reference/mercadolibre/          Árbol de categorías hoja publicables de Mercado Libre México
 scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Libre
+scripts/imagenes.py              Descarga, valida (mínimo 500 px), recorta y guarda fotos; las registra en product.json
+scripts/pagina_imagenes.py       Lista las fotos de producto que aparecen en una página web
+scripts/progreso.py              Calcula el avance y escribe PROGRESO.md
+PROGRESO.md                      Avance de fichas y fotos por sesión
 schema/product.md                Descripción de cada campo de product.json
 ```
 

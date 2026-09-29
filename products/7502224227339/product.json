@@ -4,23 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "LOXCELL 400 300MG TAB1 N",
   "nombres_sistema_alternos": [],
-  "titulo": "Loxcell 400 300 mg 1 Tableta",
-  "descripcion": "Descripción:\nLoxcell 400 es un producto de la línea de farmacia que se comercializa en presentación de 300 mg, con una sola tableta por envase. Esta ficha se elaboró con los datos del nombre del producto; la composición completa, las indicaciones y la dosis recomendada deben consultarse en el empaque original y en el instructivo que lo acompaña.\n\nPresentación:\nEnvase con 1 tableta de 300 mg.\n\nAdvertencias:\nNo use este producto sin conocer su composición y sus indicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Loxcell NF Albendazol Quinfamida 400/300 mg 1 Tableta",
+  "descripcion": "Descripción:\nLoxcell NF es un antiparasitario y antiamibiano intestinal que combina albendazol y quinfamida en una sola tableta de dosis única. Está formulado para adultos y actúa contra parásitos intestinales causados tanto por protozoarios como por helmintos, con un tratamiento de una sola tableta.\n\nBeneficios:\n- Indicado para el tratamiento de amibiasis intestinal, giardiasis y helmintiasis.\n- Actúa contra parásitos como áscaris, amiba, tenia (solitaria), oxiuro y giardia.\n- Esquema de una sola tableta en una sola toma.\n\nComposición:\nCada tableta contiene albendazol 400 mg y quinfamida 300 mg.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 16 años: una tableta en una sola dosis. En ocasiones algunos parásitos son muy resistentes, por lo que, si el médico así lo considera, la misma dosis puede repetirse 3 días o más después del primer tratamiento. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 1 tableta (dosis única).\n\nAdvertencias:\nNo se use en el embarazo ni durante la lactancia, y se debe evitar el embarazo durante el tratamiento. No se administre a menores de 16 años. No lo use si es alérgico a alguno de los componentes, si tiene amibiasis extraintestinal o disentería amebiana severa, ni si está en otro tratamiento contra parásitos. Puede causar dolor de cabeza, dolor abdominal, náuseas transitorias y vértigo. Conservar a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Loxcell",
-    "variante": "400",
+    "linea": "NF",
+    "variante": "Adultos",
     "presentacion": "Tabletas",
     "contenido_neto": 1,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 1,
-    "concentracion": "300 mg",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Albendazol y quinfamida",
+    "concentracion": "400 mg/300 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 16 años",
+    "registro_sanitario": "188M2013 SSA VI",
+    "otros": "Dosis única; Grupo terapéutico: Antiparasitario y antiamibiano intestinal; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -28,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502224227339_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/302276/302276_01.webp",
+      "pagina": "https://www.heb.com.mx/sanfer-loxcell-400-300-mg-tabletas-1-pz-273792/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 618,
+      "fecha": "2026-09-29",
+      "lado_util": 573
+    },
+    {
+      "archivo": "7502224227339_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/302276/302276_02.webp",
+      "pagina": "https://www.heb.com.mx/sanfer-loxcell-400-300-mg-tabletas-1-pz-273792/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 617,
+      "fecha": "2026-09-29",
+      "lado_util": 572
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/sanfer-loxcell-400-300-mg-tabletas-1-pz-273792/p",
+    "https://farmaciasanjorge.com/products/16794",
+    "https://curitek.com/producto/loxcell-nf-albendazol-quifamida/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se identificó el principio activo ni el grupo terapéutico, por eso va en Otros Medicamentos y con receta por revisar. No está claro qué significan 400 y 300 mg (pueden ser dos concentraciones o parte del nombre); el número final N del nombre se ignoró. Investigar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de fórmula, dosis y contraindicaciones tomados del reverso de la caja (registro SSA VI, venta libre). El fabricante aparece distinto según la tienda (Sanfer, Cellpharma, Dinafarma), por eso no se incluye.",
+    "notas_imagenes": "2 fotos (tienda: HEB): frente y reverso del empaque; se descartó una tercera por ser repetida.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,17 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "LACTULAX JBE 125 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Lactulax Lactulosa Jarabe 125 ml",
-  "descripcion": "Descripción:\nLactulax en jarabe, presentación de 125 ml. Por su nombre corresponde a un producto a base de lactulosa, de uso digestivo. Consulte en el empaque la concentración, las indicaciones y la dosis.\n\nComposición:\nLactulosa. Consulte la concentración en el empaque.\n\nModo de uso:\nVía oral. Administre la dosis indicada en el empaque o por su médico, con un dosificador adecuado. No exceda la dosis recomendada ni lo use por tiempo prolongado sin indicación médica.\n\nPresentación:\nFrasco con 125 ml de jarabe.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Lactulax Lactulosa Jarabe 10 g/15 ml 125 ml",
+  "descripcion": "Descripción:\nLactulax es un jarabe de lactulosa de Laboratorios Senosiain, de administración oral, que se presenta en frasco de 125 ml con vaso dosificador. La lactulosa es un laxante osmótico: aumenta el contenido de agua en el intestino y facilita la evacuación.\n\nBeneficios:\n- Indicado en el tratamiento del estreñimiento ocasional y crónico\n- Con indicación médica también se utiliza en la encefalopatía hepática, ya que ayuda a reducir la absorción de amonio en el intestino\n- Presentación en jarabe con vaso dosificador para medir cada toma\n\nComposición:\nCada 15 ml de jarabe contienen 10 g de lactulosa. Excipientes: agua purificada, ácido cítrico, aroma y edulcorante.\n\nModo de uso:\nVía oral. Mida la dosis con el vaso dosificador; la cantidad y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nFrasco con 125 ml de jarabe y vaso dosificador.\n\nAdvertencias:\nNo lo use si es alérgico a la lactulosa o a algún componente de la fórmula, ni en caso de obstrucción intestinal, galactosemia o perforación intestinal. Úselo con precaución si tiene diabetes o insuficiencia renal, y consulte a su médico si el tratamiento se prolonga. Conserve en un lugar fresco y seco, a no más de 25 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lactulax",
+    "fabricante": "Laboratorios Senosiain",
     "presentacion": "Jarabe",
     "contenido_neto": 125,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Lactulosa",
+    "concentracion": "10 g / 15 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Incluye vaso dosificador; Conservar a no más de 25 °C; Formato de venta: unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704958_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704958.jpg",
+      "pagina": "https://www.fahorro.com/lactulax-10-g-15-ml-jarabe-125-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1404,
+      "fecha": "2026-09-29",
+      "lado_util": 1300
+    }
+  ],
+  "url_oficial": "https://senosiain.mx/lactulax/",
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/lactulax-jarabe-10g-15ml-125ml-lactulosa",
+    "https://www.fahorro.com/lactulax-10-g-15-ml-jarabe-125-ml.html",
+    "https://senosiain.mx/lactulax/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El principio activo lactulosa se dedujo del nombre de la marca por conocimiento general y no está confirmado. Se desconocen fabricante y concentración; receta_mx es una suposición. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página del fabricante se usó solo para la imagen; el texto sale de fichas de tiendas.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda). La imagen del sitio del fabricante era demasiado pequeña.",
     "fecha": "2026-09-29"
   }
 }

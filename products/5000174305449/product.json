@@ -4,17 +4,18 @@
   "linea": "Farma",
   "nombre_sistema": "FIXODENT ORG 40ML ADH DENT",
   "nombres_sistema_alternos": [],
-  "titulo": "Fixodent Original Crema Adhesiva para Dentadura 40 g",
-  "descripcion": "Descripción:\nFixodent Original es una crema adhesiva para dentaduras postizas que ayuda a fijar la prótesis a la encía y a mantenerla firme en su lugar mientras habla y come. Se presenta en tubo de 40 g.\n\nBeneficios:\n- Crema adhesiva que ayuda a fijar la dentadura postiza y a darle mayor estabilidad.\n- Ayuda a que la persona se sienta más segura al hablar, sonreír y masticar.\n- Tubo con boquilla que permite una aplicación controlada.\n\nModo de uso:\n- Limpie y seque bien la dentadura antes de aplicar el producto.\n- Aplique unas pocas tiras delgadas o puntos de crema sobre la superficie que toca la encía; no use cantidad excesiva.\n- Coloque la dentadura en la boca y presione firmemente durante unos segundos.\n- Al terminar el día, retire la dentadura y límpiela con cuidado, eliminando los restos de crema.\n\nPresentación:\nTubo con 40 g de crema adhesiva.\n\nAdvertencias:\nSi la dentadura no ajusta bien, o si aparece irritación, dolor o llagas en las encías, suspenda su uso y consulte a su dentista. No aplique en exceso. Este producto no sustituye la revisión periódica con el dentista. Mantenga fuera del alcance de los niños.",
+  "titulo": "Fixodent Original Crema Adhesiva para Dentadura 40 ml",
+  "descripcion": "Descripción:\nFixodent Original es una crema adhesiva para dentaduras postizas que ayuda a mantener la prótesis firme en su lugar. Está pensada para quienes desean comer, beber, reír y hablar con confianza durante el día. Se presenta en tubo de 40 ml (47 g).\n\nBeneficios:\n- Fijación fuerte, justa y duradera para todo el día.\n- Ayuda a que la dentadura tenga mayor estabilidad al masticar y al hablar.\n- Tubo con boquilla para una aplicación controlada.\n\nIngredientes:\nCopolímero PVM/MA de calcio y zinc y goma celulosa, con excipientes.\n\nModo de uso:\n- Limpie y seque bien la dentadura antes de aplicar el producto.\n- Aplique unas tiras delgadas o puntos de crema sobre la superficie que toca la encía; no use cantidad excesiva.\n- Coloque la dentadura en la boca y presione firmemente durante unos segundos.\n- Al terminar el día, retire la dentadura y límpiela con cuidado, eliminando los restos de crema.\n\nPresentación:\nTubo con 40 ml (47 g) de crema adhesiva.\n\nAdvertencias:\nSi la dentadura no ajusta bien, o si aparece irritación, dolor o llagas en las encías, suspenda su uso y consulte a su dentista. No aplique en exceso. Este producto no sustituye la revisión periódica con el dentista. Mantenga fuera del alcance de los niños.",
   "ficha": {
     "marca": "Fixodent",
     "fabricante": "Procter & Gamble",
+    "linea": "Fixodent",
     "variante": "Original",
     "presentacion": "Crema adhesiva",
     "contenido_neto": 40,
-    "unidad_contenido": "g",
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Uso: Adhesivo para dentadura postiza; Formato de venta: Unidad"
+    "otros": "Peso neto: 47 g; Uso: adhesivo para dentadura postiza; Ingredientes principales: copolímero PVM/MA de calcio y zinc, goma celulosa; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +29,29 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5000174305449_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/5/0/5000174305449_1_1.jpg",
+      "pagina": "https://www.fahorro.com/fixodent-original-pasta-adhesiva-para-dentaduras-40-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1588,
+      "fecha": "2026-09-29",
+      "lado_util": 1470
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/fixodent-original-pasta-adhesiva-para-dentaduras-40-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y los sitios de la marca no se pudieron consultar. Identificación por el nombre y conocimiento general. El sistema dice 40 ML, pero Fixodent Original se vende en gramos; se puso 40 g (confirmar en el empaque). El GTIN 5000174305449 tiene prefijo europeo (posible producto importado). Modo de uso y advertencias son los habituales de un adhesivo dental. No hay categoría específica de adhesivos para dentadura; se usó Cuidado Bucal > Otros.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de tienda. La caja indica contenido neto 47 g (40 ml). Modo de uso y advertencias son los habituales de un adhesivo dental. No hay categoría específica de adhesivos para dentadura; se usó Cuidado Bucal > Otros.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja (Cont. neto 47 g / 40 ml). No hubo más fotos disponibles.",
     "fecha": "2026-09-29"
   }
 }

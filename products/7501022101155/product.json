@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "REUMOPHAN C20 TABS GRISI",
   "nombres_sistema_alternos": [],
-  "titulo": "Reumophan Grisi 20 Tabletas",
-  "descripcion": "Descripción:\nReumophan, de Grisi, en tabletas, presentación con 20 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece alguna enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Reumophan Clorzoxazona/Ketoprofeno 250/50 mg 20 Tabletas",
+  "descripcion": "Descripción:\nReumophan es un medicamento en tabletas que combina clorzoxazona, un relajante muscular, con ketoprofeno, un antiinflamatorio no esteroideo con acción analgésica. Su empaque lo presenta como una fórmula de triple acción: analgésico, antiinflamatorio y relajante muscular, para dolores reumáticos, de espalda, torceduras y dolores musculares.\n\nIndicaciones:\nSe utiliza como auxiliar en el tratamiento de artritis reumatoide, osteoartritis, polineuropatía, neuralgia, radiculopatía, neuritis, síndromes vertebrales dolorosos, lumbalgia, lumbociática, neuritis ciática, artralgias y espasmos musculares.\n\nComposición:\nCada tableta contiene 250 mg de clorzoxazona y 50 mg de ketoprofeno.\n\nModo de uso:\nVía oral. Dosis habitual: una tableta cada 6 a 12 horas, según la severidad del caso y la indicación de su médico.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a los componentes de la fórmula ni si padece rinitis, urticaria o asma provocadas por antiinflamatorios. No se recomienda su uso durante el embarazo y la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Reumophan",
-    "fabricante": "Grisi",
+    "fabricante": "Grisi Hnos., S.A. de C.V.",
     "presentacion": "Tabletas",
     "contenido_neto": 20,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
-    "via_administracion": "Oral"
+    "principio_activo": "Clorzoxazona, ketoprofeno",
+    "concentracion": "250 mg/50 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Fórmula triple acción: analgésico, antiinflamatorio y relajante muscular; Formato de venta: Caja con 20 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457822",
@@ -27,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022101155_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__d52b4481-4dba-4c9e-9b84-227e8610e29e.jpg?v=1744688887",
+      "pagina": "https://wecarepharma.mx/en/products/reumophan-250mg-50mg-con-20-tabletas-clorzoxazona-ketoprofeno",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7501022101155_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__1__45ae4062-b938-473b-ba87-40fd8ad579b7.jpg?v=1744688889",
+      "pagina": "https://wecarepharma.mx/en/products/reumophan-250mg-50mg-con-20-tabletas-clorzoxazona-ketoprofeno",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    },
+    {
+      "archivo": "7501022101155_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__4__cae305dc-909d-41e9-84e5-7af151fb8dfa.jpg?v=1744688891",
+      "pagina": "https://wecarepharma.mx/en/products/reumophan-250mg-50mg-con-20-tabletas-clorzoxazona-ketoprofeno",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
+  "url_oficial": "https://www.reumophan.com/",
+  "fuentes": [
+    "https://farmaciagloria.mx/Analgesicos/3235-reumophan-con-20-tabletas.html",
+    "https://farmalisto.com.mx/grisi/1454-comprar-reumophan-250-mg-50-mg-caja-con-20-tabletas-precio-7501022101155-grisi.html",
+    "https://www.reumophan.com/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Marca y presentación tomadas del nombre; no se confirmó la composición (principios activos) ni si requiere receta. Categoría Musculoarticulares por el tipo de producto conocido; podría cambiar a Analgésicos según la fórmula. Revisar en PLM.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Concentración 250 mg/50 mg tomada de la caja; una farmacia la lista como 125/25 mg y otra como 300 mg, se descartó. Se clasificó sin receta (fracción VI según farmacia); un listado indica receta, revisar.",
+    "notas_imagenes": "3 fotos de tienda (frente plano y dos en ángulo de la caja con 20 tabletas); se descartaron 2 vistas laterales y una foto de frente más pequeña.",
     "fecha": "2026-09-29"
   }
 }

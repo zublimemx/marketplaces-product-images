@@ -4,19 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "LOMOTIL 2 MG C 8 TABS 72",
   "nombres_sistema_alternos": [],
-  "titulo": "Lomotil 2 mg 8 Tabletas",
-  "descripcion": "Descripción:\nLomotil es un medicamento de uso oral en tabletas de 2 mg, del grupo de los antidiarreicos. Esta presentación es una caja con 8 tabletas.\n\nPresentación:\nCaja con 8 tabletas de 2 mg.\n\nAdvertencias:\nConsulte la fórmula completa, las indicaciones y la dosis en el empaque. Si la diarrea persiste, se acompaña de fiebre o sangre en las evacuaciones, suspenda su uso y acuda al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Lomotil Loperamida 2 mg 8 Tabletas",
+  "descripcion": "Descripción:\nLomotil es un medicamento de venta libre en tabletas con clorhidrato de loperamida, un antidiarreico de uso oral. Es un auxiliar eficaz para el tratamiento de la diarrea, incluida la diarrea del viajero, con alivio desde los primeros síntomas. Se presenta en caja con 8 tabletas de 2 mg.\n\nBeneficios:\n- Controla la diarrea con alivio rápido desde la primera toma.\n- Auxiliar en la diarrea del viajero.\n- Presentación práctica de 8 tabletas para llevar a cualquier lugar.\n\nComposición:\nCada tableta contiene clorhidrato de loperamida 2 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos: 2 tabletas al inicio; si persiste la diarrea, 1 tableta después de cada evacuación, sin exceder 4 tabletas al día y por no más de 1 día. Mayores de 12 años: 1 tableta al inicio; si persiste la diarrea, 1 tableta después de cada evacuación, sin exceder 4 tabletas al día y por no más de 1 día. Suspenda el tratamiento en cuanto se detenga la diarrea. Tome abundante líquido, de preferencia suero oral o agua, para prevenir la deshidratación.\n\nPresentación:\nCaja con 8 tabletas de 2 mg.\n\nAdvertencias:\nNo se use si existe alergia o erupción en la piel por loperamida, fiebre mayor de 38 °C, sangre o moco en las evacuaciones, enfermedad del hígado, inmunodepresión o dolor abdominal intenso. No se recomienda en personas de edad avanzada ni con enfermedades hepáticas. No se administre a menores de 12 años. No se use en el embarazo y la lactancia. No ingiera bebidas alcohólicas durante el tratamiento. Si la diarrea persiste por más de 1 día, consulte a su médico. Consérvese a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lomotil",
+    "fabricante": "Kenvue México",
     "presentacion": "Tabletas",
     "contenido_neto": 8,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 8,
+    "principio_activo": "Loperamida (clorhidrato)",
     "concentracion": "2 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Venta libre; Formato de venta: caja con 8 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
@@ -28,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501057002663_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://dev.farmaciajana.com/wp-content/uploads/7501057002663.jpg",
+      "pagina": "https://dev.farmaciajana.com/producto/lomotil-2-mg-caja-8-tabletas/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 560,
+      "fecha": "2026-09-29",
+      "lado_util": 516
+    }
+  ],
+  "url_oficial": "https://www.lomotil.com.mx/lomotil-caja-8-tabletas",
+  "fuentes": [
+    "https://www.lomotil.com.mx/lomotil-caja-8-tabletas",
+    "https://dev.farmaciajana.com/producto/lomotil-2-mg-caja-8-tabletas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó el principio activo (podría ser loperamida o difenoxilato, y de ello depende si requiere receta) ni el fabricante; por eso se omitieron. El grupo antidiarreico se dedujo de la marca. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tienda. El sitio oficial (Kenvue México) indica loperamida 2 mg y venta libre; una tienda listaba difenoxilato/atropina por error, se descartó.",
+    "notas_imagenes": "1 foto de tienda (frente). Las imágenes del sitio oficial eran gráficos con texto promocional y se descartaron; la foto de empaque oficial medía menos de 500 px.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,21 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "ESTERICIDE SOL 60ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Estericide Solución 60 ml",
-  "descripcion": "Descripción:\nEstericide es una solución presentada en frasco de 60 ml, que se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nFrasco con 60 ml de solución.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Estericide Solución Antiséptica Spray 60 ml",
+  "descripcion": "Descripción:\nEstericide es una solución antiséptica en spray de Esteripharma México, elaborada a base de solución electrolizada de superoxidación con pH neutro y especies activas de cloro y oxígeno. Se presenta en frasco atomizador de 60 ml, listo para aplicar directamente sobre la piel lesionada.\n\nBeneficios:\n- Coadyuvante en la prevención y el tratamiento de infecciones en heridas agudas y crónicas\n- Indicado en quemaduras de segundo y tercer grado, úlceras y abscesos en la piel, pie diabético y dermatosis infecciosas\n- Útil en el aseo preoperatorio, transoperatorio y postoperatorio en infecciones de tejidos blandos\n- Formato spray fácil de aplicar\n\nComposición:\nSolución electrolizada de superoxidación con pH neutro, con especies activas de cloro y oxígeno.\n\nModo de uso:\nUso tópico. Lave la lesión con agua y jabón, séquela y, si es necesario, realice el desbridamiento con gasa estéril. Aplique Estericide directamente sobre la lesión de 2 a 3 veces al día, según el tipo de lesión y por el tiempo que indique su médico. Si necesita cubrir la lesión, humedezca una gasa estéril con la solución, colóquela sobre la herida y vende.\n\nPresentación:\nFrasco spray con 60 ml de solución.\n\nAdvertencias:\nSolo para uso externo. Protéjase de la luz solar. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Estericide",
-    "presentacion": "Solución",
+    "fabricante": "Esteripharma México",
+    "presentacion": "Solución en spray",
     "contenido_neto": 60,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Solución electrolizada de superoxidación",
+    "via_administracion": "Tópica",
+    "otros": "Antiséptico; Proteger de la luz solar; Formato de venta: unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503008821101_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwdd52d281/images/large/7503008821101_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/estericide-antiseptico-spray-60ml/MXYZ_7503008821101.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 770,
+      "fecha": "2026-09-29",
+      "lado_util": 711
+    },
+    {
+      "archivo": "7503008821101_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__5edbf58c-a15b-4fe1-a87f-3914e170f27e_1200x1200.jpg?v=1744704776",
+      "pagina": "https://wecarepharma.mx/collections/vendors/products/estericide-solucion-antiseptica-spray-60ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1238,
+      "fecha": "2026-09-29",
+      "lado_util": 1147
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/estericide-antiseptico-spray-60ml/MXYZ_7503008821101.html",
+    "https://farmasmart.com/estericide-solucion-antiseptica-na-botella-con-60ml-lab-esteripharma",
+    "https://wecarepharma.mx/collections/vendors/products/estericide-solucion-antiseptica-spray-60ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (marca, solución, 60 ml). No se conoce con certeza la composición ni el uso (probablemente un antiséptico o desinfectante tópico); la categoría es provisional y la descripción es deliberadamente neutral. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lista la solución como 0.002 pero no se pudo confirmar a qué unidad se refiere; se omitió.",
+    "notas_imagenes": "2 fotos de tienda del frasco spray de 60 ml.",
     "fecha": "2026-09-29"
   }
 }

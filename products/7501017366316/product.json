@@ -4,17 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "SUAVE JUM E5 C/14",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Desechables Suave Jumbo Etapa 5 14 Piezas",
-  "descripcion": "Descripción:\nPañales desechables de la marca Suave, talla Jumbo, Etapa 5, en paquete con 14 piezas. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.\n\nCaracterísticas:\n- Marca: Suave.\n- Talla: Jumbo.\n- Etapa: 5.\n- Contenido: 14 pañales desechables.\n\nPresentación:\nPaquete con 14 pañales.",
+  "titulo": "Pañales Kleenbebé Suavelastic Jumbo Etapa 5 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Kleenbebé Suavelastic unisex, talla Jumbo (etapa 5), paquete con 14 piezas. Están diseñados para bebés en etapa de mayor movimiento, con un ajuste elástico que se adapta al cuerpo del bebé y una absorción confiable para mantener la piel seca.\n\nCaracterísticas:\n- Cintas elásticas que se adaptan al cuerpo y permiten al bebé moverse, gatear o caminar con libertad\n- Núcleo de máxima absorción que retiene los líquidos rápidamente\n- Barreras antiescurrimientos reforzadas para ayudar a evitar fugas\n- Cubierta enriquecida con aloe vera, manzanilla y vitamina E para cuidar la piel del bebé\n- Material suave, tipo tela, respirable\n- Diseño unisex\n\nModo de uso:\nColoque el pañal abierto debajo del bebé, lleve la parte delantera hacia el frente y ajuste las cintas elásticas de manera cómoda, sin apretar. Cambie el pañal cuando esté húmedo o sucio, deseche los residuos sólidos en el inodoro y tire el pañal en el bote de basura.\n\nPresentación:\nPaquete con 14 pañales desechables unisex, etapa 5 talla Jumbo (J).\n\nAdvertencias:\nMantenga los empaques de plástico lejos del alcance de los niños. No arroje el pañal al inodoro.",
   "ficha": {
-    "marca": "Suave",
-    "presentacion": "Paquete",
+    "marca": "Kleenbebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Suavelastic",
+    "variante": "Jumbo",
+    "presentacion": "Pañales desechables",
     "contenido_neto": 14,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 14,
     "edad_etapa": "Etapa 5",
-    "talla": "Jumbo",
-    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+    "talla": "Jumbo (J)",
+    "genero": "Unisex",
+    "otros": "Cintas elásticas; Cubierta con aloe vera, manzanilla y vitamina E"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,20 +26,36 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19805005"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017366316_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/11668-large_default/panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.jpg",
+      "pagina": "https://farmaciagloria.mx/Panales_y_toallitas_humedas/11527-panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 727,
+      "fecha": "2026-09-29",
+      "lado_util": 451
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Panales_y_toallitas_humedas/11527-panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.html",
+    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-jumbo-14-piezas-etapa-5-genero-sin-genero-talla-jumbo-j/p/MLM19805005"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Se usó el nombre del sistema (SUAVE JUM E5 C/14): JUM se interpretó como Jumbo y E5 como Etapa 5 (por analogía con las instrucciones). La marca podría ser más larga (p. ej. Suavelastic u otra); confirmar marca completa, fabricante y línea. El GTIN comparte prefijo con el producto 169.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Catálogo ML MLM19805005 tomado del resultado de búsqueda (coincide en marca, línea, talla J, etapa 5 y 14 piezas); no se pudo abrir la ficha. Una farmacia indica peso sugerido de 11 a 14.5 kg, no verificado, por eso no se incluyó.",
+    "notas_imagenes": "1 foto de tienda (paquete de frente, 674x674); no se pudo abrir la ficha de catálogo de Mercado Libre para tomar fotos.",
     "fecha": "2026-09-29"
   }
 }

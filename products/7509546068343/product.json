@@ -4,17 +4,19 @@
   "linea": "Mark",
   "nombre_sistema": "FIJ CAPRICE BIOTINA SPY 316 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Fijador en Spray Caprice Biotina 316 ml",
-  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante Biotina, en presentación de 316 ml. Se utiliza para mantener el peinado en su lugar y forma parte de la línea de fijadores de la marca. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nCaracterísticas:\n- Formato spray.\n- Variante con biotina.\n- Presentación de 316 ml.\n\nPresentación:\nEnvase en spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "titulo": "Fijador en Spray Caprice Especialidades Biotina 316 ml",
+  "descripcion": "Descripción:\nCaprice Especialidades Fuerza y Crecimiento con Biotina es un fijador en spray de fijación profesional para el cabello. Su fórmula con biotina e ingredientes naturales ayuda a fortalecer el cabello, dejándolo con brillo y protegido de las agresiones diarias, mientras mantiene el peinado durante todo el día. Se presenta en aerosol de 316 ml.\n\nBeneficios:\n- Máxima fijación para conservar el estilo durante el día.\n- Fórmula con biotina e ingredientes naturales que ayuda a fortalecer el cabello.\n- Deja el cabello con brillo.\n- Ayuda a proteger el cabello de las agresiones diarias.\n- No deja residuos y se elimina fácilmente con el cepillado.\n\nModo de uso:\nAgite el envase antes de usarlo. Rocíe sobre el cabello seco ya peinado, a una distancia moderada de la cabeza, hasta lograr la fijación deseada. Para retirarlo, cepille el cabello.\n\nPresentación:\nAerosol con 316 ml.\n\nAdvertencias:\nProducto inflamable. No se aplique cerca de los ojos ni cerca de una flama o fuente de calor. Evite exponer el envase al sol o a altas temperaturas y no lo perfore. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Caprice",
     "fabricante": "Colgate-Palmolive",
-    "variante": "Spray fijador Biotina",
-    "presentacion": "Spray",
+    "linea": "Especialidades",
+    "variante": "Fuerza y Crecimiento con Biotina",
+    "presentacion": "Aerosol",
     "contenido_neto": 316,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad"
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Con biotina; Fijación profesional; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546068343_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546068343-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/caprice-spray-biotina-316ml",
+      "ancho_original": 2362,
+      "alto_original": 2362,
+      "lado_final": 1942,
+      "fecha": "2026-09-29",
+      "lado_util": 1799
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.zedelvallarta.com.mx/catalogo/caprice-especialidades-spray-profesional-fuerza-crecimiento-biotina-316ml/",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/caprice-spray-biotina-316ml",
+    "https://www.walmart.com/ip/Caprice-7509546068343-316-ml-Hair-Spray-Biotina/390435496"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El fabricante se dedujo por el prefijo GTIN 7509546 (mismo de otros productos Colgate-Palmolive del catálogo) y no está confirmado. Se desconoce el nivel de fijación y qué otros ingredientes lleva la variante Biotina. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Beneficios de fichas de tienda; el modo de uso y las precauciones de aerosol son generales (no se leyó el reverso de este envase).",
+    "notas_imagenes": "1 foto de frente (tienda: DelSol), lata Caprice Fuerza y Crecimiento biotina.",
     "fecha": "2026-09-29"
   }
 }

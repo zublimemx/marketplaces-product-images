@@ -31,7 +31,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033962530_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/178091/7501033962530.jpg",
+      "pagina": "https://www.klyns.mx/ensure-advance-active-cafe-237-ml/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1190,
+      "fecha": "2026-09-29",
+      "lado_util": 1102
+    }
+  ],
   "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
   "fuentes": [
     "https://www.contigo.abbott/es-do/marca/ensure/advance",
@@ -43,6 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Se interpretó como una pieza de 237 ml; el número 16 del nombre del sistema se ignoró (probable código o caducidad), aunque también podría indicar un paquete de 16, pero el precio corresponde a una sola pieza. Las fuentes discrepan en gramos de proteína por porción (9 g y 13 g), por eso no se citan. HMB, 28 vitaminas y minerales y sabor café vienen de Abbott y de tiendas.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 1200x1200): botella Ensure Advance sabor café 237 ml. Las páginas de Abbott Contigo solo tienen imágenes genéricas de marca."
   }
 }

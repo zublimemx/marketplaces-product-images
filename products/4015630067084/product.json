@@ -31,16 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4015630067084_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.accu-chek.com.mx/sites/g/files/iut326/f/media_root/product_media_files/product_images/accu-chek_instant_tiras_reactivas_reg_sanitario.png",
+      "pagina": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
+      "ancho_original": 356,
+      "alto_original": 505,
+      "lado_final": 545,
+      "fecha": "2026-09-29",
+      "lado_util": 454
+    },
+    {
+      "archivo": "4015630067084_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0748/7052/2148/files/Tiras.jpg?v=1778685824",
+      "pagina": "https://sanorim.mx/products/accu-chek-instant-tiras-reactivas-caja-con-50-unidades",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 912,
+      "fecha": "2026-09-29",
+      "lado_util": 845
+    }
+  ],
   "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
   "fuentes": [
-    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant"
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
+    "https://sanorim.mx/products/accu-chek-instant-tiras-reactivas-caja-con-50-unidades"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Instant (presentaciones de 25 y 50 tiras). El registro 2120R2017 SSA aparece en esa página; confirmar en el empaque. Es un insumo de diagnóstico, no un medicamento; se usó Medidores de Glucosa igual que en el lote 1.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos: caja Accu-Chek Instant 50 tiras del fabricante (accu-chek.com.mx, 505 px, con leyenda 'Reg. No. 2120R2017 SSA') y foto de tienda 1200 px (sanorim.mx) con empaque en español/portugués."
   }
 }

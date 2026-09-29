@@ -16,7 +16,8 @@
     "principio_activo": "Bacillus clausii",
     "concentracion": "4 billones de UFC/5 ml",
     "via_administracion": "Oral",
-    "otros": "Volumen por ampolleta: 5 ml; Formato de venta: Unidad"
+    "otros": "Volumen por ampolleta: 5 ml; Dosis: 1 ampolleta al día; Formato de venta: Unidad",
+    "edad_etapa": "Niños y adultos"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,7 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165010826_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165010826_1_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/enterogermina-4-billones-ufc-amp-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 527,
+      "fecha": "2026-09-29",
+      "lado_util": 487
+    },
+    {
+      "archivo": "7501165010826_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501165010826_4_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/enterogermina-4-billones-ufc-amp-caj-c-10.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 529,
+      "fecha": "2026-09-29",
+      "lado_util": 490
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Enterogermina-Suspension-5ml/7501165010826",
@@ -41,6 +65,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (4 billones UFC, 10 ampolletas de 5 ml). No se pudo leer la ficha de Farmalisto (WebFetch rechazado con 429); indicaciones y advertencias son generales del producto, verificar con el empaque. Clasificación sin receta según conocimiento general, no se vio en fuente.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501165010826_1.jpg, 7501165010826_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

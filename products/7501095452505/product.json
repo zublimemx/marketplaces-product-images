@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "TEMPRA FTE C 24 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Tempra Forte Paracetamol 24 Tabletas",
-  "descripcion": "Descripción:\nTempra Forte es un medicamento de venta libre cuyo principio activo es el paracetamol, en presentación de tabletas.\n\nComposición:\nParacetamol. Consulte en el empaque la cantidad por tableta y los demás componentes.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo exceda la dosis indicada. Consulte a su médico antes de usarlo si padece enfermedad del hígado o si consume alcohol de forma habitual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tempra Forte Paracetamol 650 mg 24 Tabletas",
+  "descripcion": "Descripción:\nTempra Forte es un analgésico con paracetamol de 650 mg en tabletas, para adultos y mayores de 12 años. Se utiliza como auxiliar contra el dolor de cabeza, muscular, dental, menstrual y articular, entre otros dolores. Su empaque destaca que actúa contra el dolor hasta por 8 horas y que no irrita el estómago.\n\nComposición:\nCada tableta contiene 650 mg de paracetamol.\n\nModo de uso:\nVía oral. Adultos y mayores de 12 años: tomar de 1 a 2 tabletas cada 8 horas, sin exceder 6 tabletas al día y por un máximo de 5 días. Si las molestias persisten, consulte a su médico.\n\nPresentación:\nCaja con 24 tabletas en envase burbuja (blíster).\n\nAdvertencias:\nNo se use por más de cinco días: el paracetamol usado por periodos prolongados puede ocasionar daño hepático. No exceda la dosis recomendada ni lo combine con otros productos que contengan paracetamol. Evite las bebidas alcohólicas mientras lo toma. No lo use si es alérgico al paracetamol o a algún componente de la fórmula. Consulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece enfermedad del hígado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tempra",
     "variante": "Forte",
-    "presentacion": "Tabletas",
+    "presentacion": "Tabletas en blíster",
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
     "principio_activo": "Paracetamol",
+    "concentracion": "650 mg por tableta",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Formato de venta: Caja con 24 tabletas en envase burbuja; Efecto de hasta 8 horas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095452505_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095452505_4.jpg",
+      "pagina": "https://www.fahorro.com/tempra-forte-adultos-paracetamol-650-mg-caja-24-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1040,
+      "fecha": "2026-09-29",
+      "lado_util": 962
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fpsf.mx/products/analgesico-tempra-forte-650mg-24-tabletas",
+    "https://curitek.com/producto/tempra-forte-paracetamol/",
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3630-comprar-tempra-forte-650-mg-caja-con-24-tabletas-precio-7501095452505.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Tempra Forte, 24 tabletas); falta confirmar concentración (probablemente 650 mg), fabricante y si es la presentación para adultos.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Dosis tomada de ficha de farmacia; contraindicaciones redactadas de forma general para paracetamol. No se confirmó el fabricante (las fuentes discrepan).",
+    "notas_imagenes": "1 foto de tienda (frente de la caja con 24 tabletas).",
     "fecha": "2026-09-29"
   }
 }

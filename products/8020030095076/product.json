@@ -4,17 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "ESOXX-ONE 10ML STICK C20",
   "nombres_sistema_alternos": [],
-  "titulo": "Esoxx One Sticks 10 ml 20 Piezas",
-  "descripcion": "Descripción:\nEsoxx One en presentación de 20 sticks monodosis de 10 ml, de administración oral, de la línea Esoxx One. Es un producto de uso digestivo; consulte en el empaque su composición, indicaciones y modo de empleo.\n\nPresentación:\nCaja con 20 sticks de 10 ml cada uno.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia indicadas en el empaque o por su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Esoxx-One Barrera Bioadhesiva 20 Sticks de 10 ml",
+  "descripcion": "Descripción:\nEsoxx-One es un dispositivo médico de Alfasigma en forma de barrera bioadhesiva gastroesofágica, presentado en sticks monodosis de 10 ml para administración oral. Está pensado para proteger y tratar la mucosa del esófago y del estómago en personas con síntomas relacionados con el reflujo gastroesofágico.\n\nBeneficios:\n- Su fórmula bioadhesiva forma una capa protectora que recubre la mucosa esofágica\n- Ayuda a aliviar síntomas como la pirosis (acidez) y la regurgitación\n- Útil en esofagitis por reflujo y como protección adicional de la mucosa durante tratamientos que puedan irritarla\n- Formato de sticks unidosis, prácticos para llevar y usar en cualquier momento\n\nComposición:\nFormulación bioadhesiva a base de hialuronato de sodio y sulfato de condroitina, entre otros componentes. Consulte la composición completa en el empaque.\n\nModo de uso:\nVía oral. Use el contenido de un stick en la dosis y con la frecuencia que indique el empaque o su médico.\n\nPresentación:\nCaja de cartón con 20 sticks unidosis de 10 ml cada uno (stick pack laminado).\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Esoxx",
-    "linea": "Esoxx One",
-    "presentacion": "Sticks monodosis",
+    "fabricante": "Alfasigma",
+    "linea": "Esoxx-One",
+    "presentacion": "Sticks monodosis (stick pack)",
     "contenido_neto": 20,
     "unidad_contenido": "sticks",
     "unidades_por_envase": 20,
+    "principio_activo": "Hialuronato de sodio y sulfato de condroitina (barrera bioadhesiva)",
     "via_administracion": "Oral",
-    "otros": "Contenido por stick: 10 ml; Formato de venta: Unidad"
+    "otros": "Contenido por stick: 10 ml; Dispositivo médico; Formato de venta: caja con 20 sticks"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8020030095076_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__396850b6-8aa9-4e81-9228-6f4a1be04431_1200x1200.jpg?v=1744673011",
+      "pagina": "https://wecarepharma.mx/en/products/esoxx-one-stick-10ml-con-20-barrera-bioadhesiva-gastro-esofagica",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1246,
+      "fecha": "2026-09-29",
+      "lado_util": 1154
+    },
+    {
+      "archivo": "8020030095076_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__b86abe58-893a-414a-8ec8-c00ea8ea5b41.jpg?crop=center&height=2400&v=1744673013&width=2400",
+      "pagina": "https://wecarepharma.mx/en/products/esoxx-one-stick-10ml-con-20-barrera-bioadhesiva-gastro-esofagica",
+      "ancho_original": 2400,
+      "alto_original": 2400,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/esoxx-one-stick-10ml-con-20-barrera-bioadhesiva-gastro-esofagica",
+    "https://grupofarmapronto.com/producto/esoxx-one-bar-gastro-10-ml-c-20-sticks/",
+    "https://www.farmamedical.com.mx/productos/8020030095076/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, los 20 sticks y los 10 ml. El GTIN 802 indica origen italiano. Es probable que sea un dispositivo médico y no un medicamento (por eso receta_mx = No aplica), pero no está confirmado. Se omitieron fabricante y composición. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Es un dispositivo médico, no un medicamento. La composición (hialuronato y condroitina) se tomó de la clasificación de un distribuidor; confirmar en el empaque.",
+    "notas_imagenes": "2 fotos de tienda (WeCare Pharma): frente de la caja y caja en ángulo. La foto de otra tienda se rechazó por baja resolución. El sitio del fabricante no se consultó.",
     "fecha": "2026-09-29"
   }
 }

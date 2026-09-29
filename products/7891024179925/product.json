@@ -4,18 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "ENJ BUC COLG PERGAR S/AL C/250",
   "nombres_sistema_alternos": [],
-  "titulo": "Enjuague Bucal Colgate Periogard Sin Alcohol 250 ml",
-  "descripcion": "Descripción:\nEnjuague bucal Colgate Periogard sin alcohol, en presentación de 250 ml. Es un producto de Colgate-Palmolive para la higiene bucal. Consulte en el empaque la fórmula completa, el modo de uso, la frecuencia recomendada y las advertencias del fabricante.\n\nCaracterísticas:\n- Fórmula sin alcohol.\n- Presentación de 250 ml.\n\nPresentación:\nFrasco de 250 ml.\n\nAdvertencias:\nUso bucal, no lo ingiera. Manténgase fuera del alcance de los niños. Si tiene alguna condición bucal o médica, consulte a su dentista o a su médico antes de usarlo.",
+  "titulo": "Enjuague Bucal Colgate PerioGard Sin Alcohol 250 ml",
+  "descripcion": "Descripción:\nColgate PerioGard es un enjuague bucal con gluconato de clorhexidina al 0.12%, en solución sin alcohol, recomendado por dentistas para el cuidado de las encías. Su fórmula ayuda a eliminar los gérmenes que causan gingivitis, placa bacteriana y mal aliento, y al no contener alcohol puede usarse sin la sensación de ardor en la boca. Se presenta en frasco de 250 ml.\n\nBeneficios:\n- Ayuda a eliminar los gérmenes que causan gingivitis, placa bacteriana y mal aliento.\n- Favorece unas encías saludables.\n- Fórmula sin alcohol, para evitar el ardor.\n- Recomendado por dentistas.\n\nComposición:\nSolución bucal con gluconato de clorhexidina al 0.12%, sin alcohol.\n\nModo de uso:\nUtilice el producto bajo orientación de su odontólogo. Se usa después del cepillado dental, enjuagando la boca con la cantidad indicada y sin tragar el líquido.\n\nPresentación:\nFrasco con 250 ml de solución bucal.\n\nAdvertencias:\nUtilice el producto bajo orientación de su odontólogo. Solo para uso bucal: no lo ingiera. Manténgase fuera del alcance de los niños. Complemente su higiene bucal con cepillado e hilo dental.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
-    "linea": "Periogard",
+    "linea": "PerioGard",
     "variante": "Sin alcohol",
     "presentacion": "Frasco",
     "contenido_neto": 250,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Sin alcohol: Sí; Formato de venta: Unidad"
+    "principio_activo": "Gluconato de clorhexidina",
+    "concentracion": "0.12 %",
+    "via_administracion": "Bucal",
+    "otros": "Sin alcohol: Sí; Uso bajo orientación del odontólogo; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891024179925_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891024179925_1.jpg",
+      "pagina": "https://www.fahorro.com/enjuague-bucal-colgate-periogard-sin-alcohol-250-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1570,
+      "fecha": "2026-09-29",
+      "lado_util": 1454
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/enjuague-bucal-colgate-periogard-sin-alcohol-250-ml.html",
+    "https://farmaciasmedina.com/detalleProducto/Colgate-Enjuague-Bucal-Periogard-Para-Gingivitis-Y-Encias-Saludables/7891024179925",
+    "https://farmacorp.com/products/7891024179925"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Se interpretó PERGAR como Periogard y S/AL como sin alcohol. El GTIN empieza con 789 (prefijo de Brasil), por lo que podría ser una presentación de importación. No se confirmó el principio activo, por eso no se menciona en la descripción. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Claims tomados del frente del empaque (clorhexidina 0.12%, sin alcohol, 250 mL). El modo de uso exacto (cantidad y tiempo de enjuague) no se vio en el empaque, por eso se remite al odontólogo.",
+    "notas_imagenes": "1 foto de frente (tienda: Farmacias del Ahorro), clara y sin promocionales.",
     "fecha": "2026-09-29"
   }
 }

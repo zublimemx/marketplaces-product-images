@@ -4,18 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "GLUCERNA 237ML VAINILLA MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Glucerna Suplemento Alimenticio Vainilla 237 ml",
-  "descripcion": "Descripción:\nGlucerna es un suplemento alimenticio líquido de Abbott, sabor vainilla, pensado para personas con diabetes como parte de su alimentación. Se presenta listo para beber en presentación individual de 237 ml.\n\nCaracterísticas:\n- Suplemento alimenticio líquido.\n- Sabor vainilla.\n- Presentación individual de 237 ml.\n\nPresentación:\nUna pieza de 237 ml, lista para beber.\n\nAdvertencias:\n- No es un alimento de uso exclusivo; se recomienda consultar a su médico o nutriólogo sobre su consumo dentro de su plan de alimentación.",
+  "titulo": "Glucerna Vainilla Suplemento Alimenticio Líquido 237 ml",
+  "descripcion": "Descripción:\nGlucerna sabor vainilla de Abbott es una fórmula de alimentación especializada, lista para tomar, diseñada para apoyar nutricionalmente a personas con diabetes y prediabetes. Se presenta en botella de 237 ml.\n\nBeneficios:\n- Fórmula con carbohidratos de bajo índice glucémico, que se digieren lentamente y ayudan a evitar picos de glucosa.\n- Contiene nutrientes específicos, como cromo, que apoyan el procesamiento de la glucosa.\n- Ayuda a estabilizar los niveles de glucosa en 4 semanas, según la información del fabricante.\n- Sabor vainilla, listo para beber.\n\nModo de uso:\nProducto listo para tomar; no requiere preparación. Consulte a su médico o nutriólogo para la recomendación de uso.\n\nPresentación:\nBotella con 237 ml, sabor vainilla.\n\nAdvertencias:\nSuplemento alimenticio; no es un medicamento. No sustituye el tratamiento médico ni la dieta indicada por su especialista. Se recomienda el consumo bajo supervisión de un profesional de la salud. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Glucerna",
     "fabricante": "Abbott",
-    "presentacion": "Bebida líquida",
+    "variante": "Vainilla",
+    "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "edad_etapa": "Adultos",
     "sabor_aroma": "Vainilla",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Formato: botella; Uso: alimentación especializada para personas con diabetes"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033956126_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaV_1.jpg?v=1685158516",
+      "pagina": "https://sanorim.mx/products/glucerna-sabor-vainilla-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 534,
+      "fecha": "2026-09-29",
+      "lado_util": 495
+    },
+    {
+      "archivo": "7501033956126_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaV.jpg?v=1685158516",
+      "pagina": "https://sanorim.mx/products/glucerna-sabor-vainilla-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 456
+    },
+    {
+      "archivo": "7501033956126_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501033956126_6845fe4d-7937-4541-8889-e76bd9442a05.jpg?v=1701391547&width=1000",
+      "pagina": "https://farmaciasanjorge.com/products/18023",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/glucerna/glucerna",
+  "fuentes": [
+    "https://www.contigo.abbott/es-mx/marca/glucerna/glucerna",
+    "https://sanorim.mx/products/glucerna-sabor-vainilla-237-ml",
+    "https://www.farmalisto.com.mx/suplementos-alimenticios/1574-comprar-glucerna-alimento-especializado-sabor-a-vainilla-frasco-con-237-ml-diabetes-precio-7501033956126.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (Abbott). No se confirmó el tipo de envase (lata o botella), la fórmula, el aporte nutrimental ni el GTIN. 'MAYO 27' es caducidad y se ignoró.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados en tiendas. Descripción basada en la página oficial de Abbott; no se anotó lista de ingredientes por no aparecer completa.",
+    "notas_imagenes": "3 fotos de frente de la botella (tienda). El sitio del fabricante solo muestra imágenes de marca.",
     "fecha": "2026-09-29"
   }
 }

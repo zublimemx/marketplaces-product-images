@@ -5,10 +5,11 @@
   "nombre_sistema": "XIGDUO XR 5 1000MG TAB C28",
   "nombres_sistema_alternos": [],
   "titulo": "Xigduo XR Dapagliflozina/Metformina 5/1000 mg 28 Tabletas",
-  "descripcion": "Descripción:\nXigduo XR es un medicamento de AstraZeneca en tabletas de liberación prolongada que combina dapagliflozina y metformina. Se emplea junto con dieta y ejercicio en adultos con diabetes mellitus tipo 2. Esta presentación contiene 5 mg de dapagliflozina y 1000 mg de metformina por tableta, en caja con 28 tabletas.\n\nComposición:\n- Dapagliflozina 5 mg\n- Metformina de liberación prolongada 1000 mg\n\nModo de uso:\nVía oral. Siga la dosis que le indique su médico. Las tabletas de liberación prolongada se tragan enteras, sin partir ni masticar.\n\nPresentación:\nCaja con 28 tabletas de liberación prolongada.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nXigduo XR es un antidiabético oral de AstraZeneca que combina dapagliflozina y metformina en una tableta de liberación prolongada. Se utiliza en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para mejorar el control de la glucosa en sangre. Esta presentación contiene 5 mg de dapagliflozina y 1000 mg de metformina por tableta, en caja con 28 tabletas.\n\nCaracterísticas:\n- La dapagliflozina es un inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2): favorece que el riñón elimine el exceso de glucosa por la orina.\n- La metformina, del grupo de las biguanidas, disminuye la producción de glucosa en el hígado y mejora la sensibilidad a la insulina.\n- Formulación de liberación prolongada de la metformina.\n\nComposición:\n- Dapagliflozina 5 mg\n- Clorhidrato de metformina de liberación prolongada 1000 mg\n- Excipiente cbp 1 tableta\n\nModo de uso:\nVía oral. La dosis y el horario los determina su médico. Las tabletas de liberación prolongada deben tragarse enteras, sin partir, triturar ni masticar.\n\nPresentación:\nCaja con 28 tabletas de liberación prolongada.\n\nAdvertencias:\nSu venta requiere receta médica. No modifique la dosis ni suspenda el tratamiento sin indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Xigduo XR",
     "fabricante": "AstraZeneca",
+    "linea": "XR",
     "presentacion": "Tabletas de liberación prolongada",
     "contenido_neto": 28,
     "unidad_contenido": "tabletas",
@@ -16,7 +17,9 @@
     "principio_activo": "Dapagliflozina y metformina",
     "concentracion": "5 mg/1000 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "085M2015 SSA IV",
+    "otros": "Formato de venta: caja con 28 tabletas; Requiere receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501098610032_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://d1ecevz6mn0ikr.cloudfront.net/FE_7501098610032_515_1000.webp",
+      "pagina": "https://farmaenvios.com/p/xigduo-xr-51000-mg-28-tabletas-7501098610032",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 817,
+      "fecha": "2026-09-29",
+      "lado_util": 757
+    },
+    {
+      "archivo": "7501098610032_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciashdezsante.com/cdn/shop/files/7501098610032.png?v=1763578583",
+      "pagina": "https://farmaciashdezsante.com/products/xigduo-xr-dapaglifozina-metformina-5-mg-1000-mg-caj-28-tab",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 272
+    },
+    {
+      "archivo": "7501098610032_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501098610032.jpg",
+      "pagina": "https://www.fahorro.com/xigduo-xr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1492,
+      "fecha": "2026-09-29",
+      "lado_util": 1382
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciashdezsante.com/products/xigduo-xr-dapaglifozina-metformina-5-mg-1000-mg-caj-28-tab",
+    "https://www.klyns.mx/xigduo-xr-5-mg-1000-mg-c-28-tabs/p",
+    "https://farmaenvios.com/p/xigduo-xr-51000-mg-28-tabletas-7501098610032"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos deducidos del nombre y del conocimiento general de la marca (dapagliflozina 5 mg + metformina XR 1000 mg, AstraZeneca). Medicamento de prescripción. Confirmar GTIN, registro sanitario y contenido antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados en tiendas; la tienda de AstraZeneca no abrió (error de certificado). Registro sanitario tomado de una ficha de farmacia.",
+    "notas_imagenes": "3 fotos de frente del empaque (tienda). Se descartó una foto con marca de agua de otra tienda.",
     "fecha": "2026-09-29"
   }
 }

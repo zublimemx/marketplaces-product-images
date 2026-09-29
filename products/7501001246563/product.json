@@ -16,7 +16,8 @@
     "unidades_por_envase": 40,
     "principio_activo": "Alcanfor, mentol y aceite de eucalipto",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Caja exhibidor con 40 latas"
+    "otros": "Formato de venta: Caja exhibidor con 40 latas",
+    "concentracion": "Alcanfor 5.3 g; mentol 2.8 g; aceite de eucalipto 1.3 g (por cada 100 g de ungüento)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,16 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001246563_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7006182/7501001246563_01.jpg?v=639183673579000000",
+      "pagina": "https://www.farmatodo.com.mx/vick-vaporub-unguento-caja-c-40-latas-de-12-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 962,
+      "fecha": "2026-09-29",
+      "lado_util": 891
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
-    "https://prixz.com/c/vick-vaporub-40-latas-de-12g/"
+    "https://prixz.com/c/vick-vaporub-40-latas-de-12g/",
+    "https://www.farmatodo.com.mx/vick-vaporub-unguento-caja-c-40-latas-de-12-gr/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda por GTIN devolvió publicaciones de Vick VapoRub 12 g x 40 latas, pero los fragmentos no muestran el código, así que la coincidencia se toma por nombre y presentación (exhibidor con 40 latas de 12 g). La ficha de farmalisto dio 404 y no se pudo leer. Composición, modo de uso y advertencias son los habituales de la marca, sin porcentajes: verificar contra el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmatodo): caja exhibidor Vick VapoRub c/40 latas de 12 g, de frente, fondo blanco."
   }
 }

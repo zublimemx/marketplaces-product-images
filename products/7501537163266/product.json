@@ -4,20 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "TRIBEDOCE COMP C3 AMP COMPLEJO B DICLOFENACO BRULUART",
   "nombres_sistema_alternos": [],
-  "titulo": "Tribedoce Compuesto Diclofenaco Complejo B 3 Ampolletas",
-  "descripcion": "Descripción:\nTribedoce Compuesto, de Laboratorios Bruluart, es una solución inyectable en ampolletas que combina diclofenaco, un antiinflamatorio, con vitaminas del complejo B. Se presenta en caja con 3 ampolletas para aplicación por personal de salud. Consulte el empaque para conocer la composición exacta, las indicaciones y la dosis.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable.\n\nModo de uso:\nLa aplicación debe ser realizada por personal de salud, por la vía y en la dosis que indique el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios, ni si tiene úlcera gástrica, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tribedoce Compuesto Diclofenaco Complejo B 3 Dosis",
+  "descripcion": "Descripción:\nTribedoce Compuesto, de Laboratorios Bruluart, es una solución inyectable que combina diclofenaco, un antiinflamatorio no esteroideo, con las vitaminas del complejo B (B1, B6 y B12). Se presenta en una caja con 3 dosis, cada una con una ampolleta de vitaminas y una ampolleta de diclofenaco, y con jeringas desechables. Es un analgésico, antineurítico y antiinflamatorio indicado en lumbalgias, cervicalgias, braquialgias, radiculitis y neuropatías periféricas, así como en neuralgias, síndrome del conducto del carpo, fibromialgia y espondilitis.\n\nComposición:\nCada dosis incluye:\n- Ampolleta No. 1 (1 ml): tiamina (vitamina B1) 100 mg, piridoxina (vitamina B6) 100 mg y cianocobalamina (vitamina B12) 5 mg.\n- Ampolleta No. 2 (2 ml): diclofenaco 75 mg.\n\nModo de uso:\nInyectable. La aplicación debe ser realizada por personal de salud; la dosis, la vía y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 3 ampolletas No. 1 de 1 ml y 3 ampolletas No. 2 de 2 ml, con 3 jeringas desechables con agujas estériles.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe aplicarse en personas con hipersensibilidad al diclofenaco, a otros antiinflamatorios no esteroideos o a alguno de los componentes. El tratamiento debe ser indicado y vigilado por un médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tribedoce",
     "fabricante": "Bruluart",
-    "variante": "Compuesto",
+    "linea": "Compuesto",
+    "variante": "Diclofenaco y complejo B",
     "presentacion": "Solución inyectable en ampolletas",
     "contenido_neto": 3,
-    "unidad_contenido": "ampolletas",
+    "unidad_contenido": "dosis",
     "unidades_por_envase": 3,
-    "principio_activo": "Diclofenaco y vitaminas del complejo B",
+    "principio_activo": "Diclofenaco, tiamina, piridoxina y cianocobalamina",
+    "concentracion": "Por dosis: tiamina 100 mg, piridoxina 100 mg, cianocobalamina 5 mg y diclofenaco 75 mg",
     "via_administracion": "Inyectable",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Contenido: 3 ampolletas No. 1 de 1 ml y 3 ampolletas No. 2 de 2 ml con 3 jeringas; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501537163266_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501537163266.jpg?v=1726159203&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/complejo-b-diclofenaco-tribedoce-comp-solucion-inyectable-con-3-ampulas-rojo",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 407
+    },
+    {
+      "archivo": "7501537163266_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501537163266_1.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/complejo-b-diclofenaco-tribedoce-comp-solucion-inyectable-con-3-ampulas-rojo",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 544,
+      "fecha": "2026-09-29",
+      "lado_util": 504
+    },
+    {
+      "archivo": "7501537163266_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501537163266.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/complejo-b-diclofenaco-tribedoce-comp-solucion-inyectable-con-3-ampulas-rojo",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1582,
+      "fecha": "2026-09-29",
+      "lado_util": 1465
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://phemedica.com.mx/product/tribedoce-compuesto-complejo-b-diclofenaco-100-100-5-75-mg-3-ml-sol-iny-c-3-dosis-y-3-jeringas-bruluart/",
+    "https://www.klyns.mx/tribedoce-compuesto-c-3-jeringas-bruluar/p",
+    "https://grupofarmapronto.com/producto/complejo-b-diclofenaco-100-100-5-75-mg-c-3-amp-tribedoce-comp/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Los datos salen del nombre del sistema (Tribedoce Comp, caja con 3 ampolletas, complejo B, diclofenaco, laboratorio Bruluart). No se conocen las dosis de cada componente, la vía exacta (IM) ni el registro sanitario. Se eligió la misma categoría y criterio de receta que Dolo-Neurobión DC en el lote 1 (diclofenaco + vitaminas B inyectable). Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. El sistema dice C3 AMP; en realidad son 3 dosis (6 ampolletas) con 3 jeringas. Se lista como 3 dosis.",
+    "notas_imagenes": "3 fotos de tienda (farmacias en línea) de la caja Tribedoce Compuesto.",
     "fecha": "2026-09-29"
   }
 }

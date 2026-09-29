@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501583300325_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/180694/7501583300325.png",
+      "pagina": "https://www.klyns.mx/utrogestan-200-mg-c-14-perlas/p",
+      "ancho_original": 1920,
+      "alto_original": 1280,
+      "lado_final": 977,
+      "fecha": "2026-09-29",
+      "lado_util": 905
+    }
+  ],
   "url_oficial": "https://www.besins-healthcare.com.mx/products/utrogestan-prometrium-progestan",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/utrogestan.capsulas/2848/101/64486/14",
     "https://www.besins-healthcare.com.mx/products/utrogestan-prometrium-progestan",
-    "https://farmalisto.com.mx/endocrinologia/6836-comprar-utrogestan-200-mg-perlas-14-precio-7501583300325.html"
+    "https://farmalisto.com.mx/endocrinologia/6836-comprar-utrogestan-200-mg-perlas-14-precio-7501583300325.html",
+    "https://www.klyns.mx/utrogestan-200-mg-c-14-perlas/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Requiere receta médica. Por grupo ATC (G03) también podría ir en Uroginecológicos Venta Libre (MLM457818) / con Receta (MLM457832). La URL de Besins es la página general de la línea de progesterona; no se abrió su contenido.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 1920x1280 con relleno blanco a 1920x1920): caja Utrogestan 200 mg 14 cápsulas. La imagen de Besins oficial era de 452x202 (rechazada)."
   }
 }

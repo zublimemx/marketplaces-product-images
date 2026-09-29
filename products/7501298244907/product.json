@@ -5,19 +5,21 @@
   "nombre_sistema": "GLUCOVANCE 500MG 5MG C 60 TABS",
   "nombres_sistema_alternos": [],
   "titulo": "Glucovance Metformina Glibenclamida 500/5 mg 60 Tabletas",
-  "descripcion": "Descripción:\nGlucovance es un medicamento en tabletas de Merck que combina dos antidiabéticos orales, metformina (500 mg) y glibenclamida (5 mg). Su uso corresponde al manejo de la diabetes mellitus tipo 2 bajo supervisión médica. Se presenta en caja con 60 tabletas.\n\nComposición:\nCada tableta contiene:\n- Metformina (clorhidrato) 500 mg\n- Glibenclamida 5 mg\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y las instrucciones del empaque.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nEs un medicamento que requiere receta médica. No lo utilice si es alérgico a la metformina, a la glibenclamida o a algún componente de la fórmula. Puede causar hipoglucemia; conozca sus síntomas y consulte a su médico ante cualquier duda. Informe a su médico si tiene enfermedad del riñón o del hígado, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nGlucovance es un medicamento de Merck en tabletas que combina dos antidiabéticos orales, la metformina (clorhidrato) y la glibenclamida micronizada. Está indicado para el tratamiento de la diabetes mellitus tipo 2 en adultos: como tratamiento inicial en pacientes obesos cuya glucosa no se controla con dieta y ejercicio, como terapia de segunda línea cuando la dieta y el ejercicio, o un solo medicamento (sulfonilurea o metformina), no logran el control adecuado, o en sustitución de un tratamiento previo con la combinación de ambos.\n\nCaracterísticas:\n- La metformina reduce la producción de glucosa en el hígado y mejora la sensibilidad a la insulina.\n- La glibenclamida estimula la liberación de insulina por el páncreas.\n- Dos principios activos con mecanismos complementarios en una sola tableta.\n\nComposición:\nCada tableta contiene clorhidrato de metformina 500 mg y glibenclamida micronizada 5 mg.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento los determina el médico.\n\nPresentación:\nCaja con 60 tabletas de 500 mg/5 mg, en envase de burbuja.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad a alguno de sus componentes o a las sulfonilureas, enfermedad renal o hepática grave, insuficiencia cardiaca inestable, cetoacidosis diabética ni deshidratación grave. Se requiere precaución con el consumo de alcohol y con otros medicamentos que puedan causar hipoglucemia; se recomienda monitorear la glucosa y la función renal. Conservar a no más de 25 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Glucovance",
     "fabricante": "Merck",
-    "variante": "Tabletas 500 mg/5 mg",
+    "linea": "Glucovance",
+    "variante": "500 mg/5 mg",
     "presentacion": "Tabletas",
     "contenido_neto": 60,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 60,
-    "principio_activo": "Metformina y glibenclamida",
-    "concentracion": "500 mg/5 mg por tableta",
+    "principio_activo": "Metformina (clorhidrato) y glibenclamida",
+    "concentracion": "500 mg/5 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 60 tabletas"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja con envase de burbuja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298244907_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298244907.jpg",
+      "pagina": "https://www.yza.mx/glucovance-500mg5mg-60-tabs/MXYZ_7501298244907.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1426,
+      "fecha": "2026-09-29",
+      "lado_util": 1321
+    },
+    {
+      "archivo": "7501298244907_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298244907_1.jpg",
+      "pagina": "https://www.yza.mx/glucovance-500mg5mg-60-tabs/MXYZ_7501298244907.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 454
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/glucovance_tabletas/115/101/7943/210",
+    "https://wecarepharma.mx/en/products/glucovance-500mg-5mg-con-60-tabletas-metformina-glibenclamida",
+    "https://www.yza.mx/glucovance-500mg5mg-60-tabs/MXYZ_7501298244907.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principios activos y concentración salen del nombre (500 mg/5 mg); fabricante Merck inferido por el prefijo del GTIN (7501298, igual que Gavindo N y Concor) y por conocimiento general. Requiere receta; el dueño indicó publicar como venta libre. Categoría de antidiabéticos elegida como digestivos/metabólicos por el dominio de catálogo. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (60 tabletas, 500/5 mg). Indicaciones tomadas de la ficha de PLM.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Glucovance 500 mg/5 mg, caja con 60 tabletas.",
     "fecha": "2026-09-29"
   }
 }

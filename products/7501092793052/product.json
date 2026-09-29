@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "RIOPAN GEL C 10 SOB 36",
   "nombres_sistema_alternos": [],
-  "titulo": "Riopan Gel Magaldrato 10 Sobres",
-  "descripcion": "Descripción:\nRiopan Gel en presentación de caja con 10 sobres. Su principio activo es el magaldrato, un antiácido. Consulte en el empaque la concentración, las indicaciones, la dosis y el modo de uso.\n\nPresentación:\nCaja con 10 sobres de gel oral.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Riopan Gel Magaldrato Dimeticona 10 ml 10 Sobres",
+  "descripcion": "Descripción:\nRiopan Gel es un antiácido y antiflatulento en gel de Takeda, de sabor agradable, cuyos principios activos son magaldrato y dimeticona. Se usa para aliviar síntomas de reflujo y gastritis como acidez, flatulencia, ardor, dolor y agruras. Esta presentación trae 10 sobres de dosis individual de 10 ml, prácticos para llevar y tomar en cualquier lugar.\n\nBeneficios:\n- Efecto buffer: ajusta el pH gástrico a un rango de 3 a 5 sin provocar rebote ácido.\n- Se adhiere a la mucosa del estómago formando una capa protectora.\n- La dimeticona ayuda a aliviar los gases y la distensión.\n- Sabor agradable.\n\nComposición:\nCada 100 ml contienen magaldrato 8 g y dimeticona 1 g (80 mg y 10 mg por ml). Cada sobre de 10 ml aporta 800 mg de magaldrato y 100 mg de dimeticona.\n\nModo de uso:\nVía oral. Tome el contenido del sobre directamente, en la dosis y con la frecuencia que indique el empaque o su médico.\n\nPresentación:\nCaja con 10 sobres de 10 ml.\n\nAdvertencias:\n- Puede reducir la absorción de otros medicamentos; consulte a su médico si toma otros tratamientos.\n- Consulte a su médico antes de usarlo si tiene enfermedad de los riñones.\n- Si los síntomas persisten, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Riopan",
+    "fabricante": "Takeda",
     "variante": "Gel",
-    "presentacion": "Gel oral en sobres",
+    "presentacion": "Gel oral en sobres de 10 ml",
     "contenido_neto": 10,
     "unidad_contenido": "sobres",
     "unidades_por_envase": 10,
-    "principio_activo": "Magaldrato",
+    "principio_activo": "Magaldrato, dimeticona",
+    "concentracion": "Magaldrato 80 mg/ml y dimeticona 10 mg/ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Contenido por sobre: 10 ml; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501092793052_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7dd08450/images/large/7501092793052_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/riopan-gel-10-sbs/MXYZ_7501092793052.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 766,
+      "fecha": "2026-09-29",
+      "lado_util": 710
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/riopan.gel/2415/101/9591/66",
+    "https://www.yza.mx/riopan-gel-10-sbs/MXYZ_7501092793052.html",
+    "https://www.emeritafarmacias.com/producto/riopan-gel-sob-10-10ml-magaldratodime/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca (Riopan Gel = magaldrato). No se incluyó la concentración por sobre ni el fabricante. El 36 del nombre es un código. Requiere verificar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias; caja con 10 sobres de 10 ml (la caja lo dice). Misma fórmula que la caja de 20 sobres. Composición e indicaciones de la información para prescribir (PLM).",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA): frente de la caja con 10 sobres de 10 ml. Otras dos fotos de tiendas se rechazaron por ser menores a 500 px.",
     "fecha": "2026-09-29"
   }
 }

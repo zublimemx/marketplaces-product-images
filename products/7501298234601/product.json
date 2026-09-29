@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "EUTIROX 100 MG C 50 TABS 90",
   "nombres_sistema_alternos": [],
-  "titulo": "Eutirox Levotiroxina 100 mcg 50 Tabletas",
-  "descripcion": "Descripción:\nEutirox es un medicamento de Merck en tabletas cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Se utiliza como tratamiento de reemplazo hormonal cuando la glándula tiroides no produce suficiente hormona, por indicación y bajo seguimiento médico. Esta presentación es de 100 mcg por tableta, en caja con 50 tabletas.\n\nComposición:\n- Levotiroxina sódica 100 mcg por tableta.\n\nModo de uso:\nVía oral. La dosis la determina y ajusta su médico según sus estudios de laboratorio; no la modifique por su cuenta. Siga las indicaciones del instructivo del empaque.\n\nPresentación:\nCaja con 50 tabletas de 100 mcg.\n\nAdvertencias:\n- No suspenda ni cambie la dosis sin indicación médica.\n- Informe a su médico sobre cualquier otro medicamento o suplemento que utilice.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Eutirox Levotiroxina Sódica 100 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck a base de levotiroxina sódica, hormona tiroidea sintética. Esta presentación contiene 100 mcg por tableta, en caja con 50 tabletas. Está indicado para personas con hipotiroidismo primario (de la tiroides), secundario (hipofisario) o terciario (hipotalámico), y en hipotiroidismo subclínico, bajo vigilancia médica.\n\nBeneficios:\n- Repone la hormona tiroidea que el organismo no produce en cantidad suficiente.\n- Su gama de concentraciones permite ajustar la dosis de forma individual.\n- Presentación con 50 tabletas para tratamientos prolongados.\n\nComposición:\n- Levotiroxina sódica 100 mcg por tableta\n- Excipiente cbp 1 tableta\n\nModo de uso:\nVía oral. Dosis: la que el médico señale. Es un medicamento de empleo delicado: no modifique la dosis ni suspenda el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. Medicamento de empleo delicado. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Eutirox",
     "fabricante": "Merck",
@@ -16,7 +16,9 @@
     "principio_activo": "Levotiroxina sódica",
     "concentracion": "100 mcg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "297M89 SSA IV",
+    "otros": "Formato de venta: caja con 50 tabletas; El nombre del sistema dice 100 mg, es 100 mcg"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +32,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298234601_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298234601.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-100-mcg-50-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1553,
+      "fecha": "2026-09-29",
+      "lado_util": 1438
+    },
+    {
+      "archivo": "7501298234601_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298234601_1.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-100-mcg-50-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1560,
+      "fecha": "2026-09-29",
+      "lado_util": 1446
+    },
+    {
+      "archivo": "7501298234601_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298234601_2.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-100-mcg-50-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1448,
+      "fecha": "2026-09-29",
+      "lado_util": 1341
+    },
+    {
+      "archivo": "7501298234601_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298234601_3.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-100-mcg-50-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1398,
+      "fecha": "2026-09-29",
+      "lado_util": 1295
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/eutirox-100-mcg-levotiroxina-sodica-50-tabletas",
+    "https://www.farmaciasespecializadas.com/eutirox-100mcg-tab-caj-c-50.html",
+    "https://grupofarmapronto.com/producto/eutirox-100mcg-c-50-tabletas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El nombre del sistema dice '100 MG', pero la presentación de Eutirox 100 es de 100 microgramos (mcg); se usó mcg. Datos por conocimiento general de la marca (levotiroxina, Merck). El número 90 al final del nombre parece ser existencia. Confirmar GTIN, contenido y registro sanitario antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice '100 MG' pero es 100 mcg (confirmado en la caja). El registro sanitario y la leyenda de receta se leyeron en la caja fotografiada.",
+    "notas_imagenes": "4 fotos del empaque (tienda): frente, parte posterior con la fórmula y dos ángulos.",
     "fecha": "2026-09-29"
   }
 }

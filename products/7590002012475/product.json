@@ -16,7 +16,8 @@
     "unidades_por_envase": 1,
     "principio_activo": "Alcanfor, mentol, aceite de eucalipto",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad; Envase: Tarro"
+    "otros": "Formato de venta: Unidad; Envase: Tarro",
+    "sabor_aroma": "Mentol y eucalipto"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,17 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7590002012475_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7590002012475_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vick-vaporub-ung-bot-c-100gr.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 515,
+      "fecha": "2026-09-29",
+      "lado_util": 477
+    },
+    {
+      "archivo": "7590002012475_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7590002012475.jpg",
+      "pagina": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7590002012475.jpg",
+      "ancho_original": 1247,
+      "alto_original": 1575,
+      "lado_final": 1298,
+      "fecha": "2026-09-29",
+      "lado_util": 1202
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.sanborns.com.mx/producto/19399/vick-vaporub-unguento-100-g",
-    "https://www.farmaciasespecializadas.com/vick-vaporub-ung-bot-c-100gr.html"
+    "https://www.farmaciasespecializadas.com/vick-vaporub-ung-bot-c-100gr.html",
+    "https://grupofarmapronto.com/wp-content/uploads/2022/11/7590002012475.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (Vick VapoRub ungüento 100 g); el prefijo 759 corresponde a Venezuela pero cadenas mexicanas lo listan con ese mismo código. La ficha de la tienda solo confirma ingredientes activos, uso y contenido; modo de uso y advertencias son las generales de la marca, verificar con el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 1 de farmaciasespecializadas.com (7590002012475_1.jpg; 1000 px); 1 de grupofarmapronto.com (7590002012475_2.jpg; 1575 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

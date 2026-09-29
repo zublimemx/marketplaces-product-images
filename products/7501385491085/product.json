@@ -32,18 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385491085_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501385491085.jpg",
+      "pagina": "https://www.emeritafarmacias.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1396,
+      "fecha": "2026-09-29",
+      "lado_util": 1293
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/analgesicos/6455-danzen-10-mg-caja-con-20-tabletas-7501385491085.html",
     "https://farmaciasmedina.com/detalleProducto/Danzen-20-Tableta-Caja/7501385491085",
-    "https://curitek.com/producto/danzen-serratiopeptidasa/"
+    "https://curitek.com/producto/danzen-serratiopeptidasa/",
+    "https://www.emeritafarmacias.com/wp-content/uploads/7501385491085.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas (10 mg, 20 tabletas; algunas lo listan como grageas). Una tienda lo clasifica como medicamento con receta y su URL lo pone en analgésicos; por eso receta_mx queda en Revisar. El registro sanitario viene de una sola tienda: verificar en el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Emérita): caja Danzen 10 mg c/20 de frente, 1600 px. Se descartó la de Farmalisto (etiqueta verde de tienda)."
   }
 }

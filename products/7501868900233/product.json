@@ -29,7 +29,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900233_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/10823/image_1024?unique=35012c2",
+      "pagina": "https://farmasuper.com.mx/en_US/shop/product/7501868900233-alcohol-etilico-96o-gl-sin-desnaturalizar-rojo-500-ml-dibar-10823?category=56",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 430
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmasuper.com.mx/en_US/shop/product/7501868900233-alcohol-etilico-96o-gl-sin-desnaturalizar-rojo-500-ml-dibar-10823?category=56"
@@ -39,6 +51,7 @@
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN corresponde al frasco individual de Alcohol Etílico 96° GL sin desnaturalizar de 500 ml, Dibar. La caja con 24 piezas se infiere del nombre del sistema (C24 PZAS) y del precio; confirmar el contenido de la caja. Ficha del fabricante no encontrada; advertencias redactadas de forma general para alcohol etílico.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmasuper): botella Alcohol Dibar 96° 500 ml (unidad, no la caja de 24), 500 px."
   }
 }

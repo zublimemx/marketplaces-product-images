@@ -4,16 +4,18 @@
   "linea": "Mark",
   "nombre_sistema": "FIJ CAPRICE SP ACT CERA SPY 316ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Fijador para Cabello Caprice con Cera Spray 316 ml",
-  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante con cera, en presentación de 316 ml. Está pensado para dar fijación y ayudar a mantener el peinado durante el día.\n\nCaracterísticas:\n- Formato spray de fácil aplicación\n- Fórmula con cera\n- Envase de 316 ml\n\nModo de uso:\nAgite el envase, sostenga el spray a unos 20 a 30 cm del cabello ya peinado y aplique de manera uniforme. Repita si desea mayor fijación.\n\nPresentación:\nEnvase spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. No lo use sobre la piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "titulo": "Fijador Caprice Especialidades Acti-Ceramidas 316 ml",
+  "descripcion": "Descripción:\nCaprice Especialidades Fuerza Acti-Ceramidas es un spray fijador para el cabello en presentación de 316 ml. Su fórmula especializada da al cabello un toque de firmeza y naturalidad, ayuda a controlar el frizz y mantiene cada mechón en su lugar para que el peinado dure más tiempo.\n\nCaracterísticas:\n- Spray fijador de la línea Especialidades Fuerza\n- Con Acti-Ceramidas para dar fuerza y firmeza al cabello\n- Ayuda a eliminar el frizz al secarse y aporta brillo\n- Aplicación en spray, práctica para el uso diario\n\nModo de uso:\nAcomode el cabello como de costumbre y aplique una ligera capa de producto sobre él, peine o estilice y deje secar. Verá que al secarse el frizz desaparece y cada mechón queda en su lugar.\n\nPresentación:\nFrasco aerosol de 316 ml.\n\nAdvertencias:\nUso externo exclusivo para el cabello. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. No lo use cerca de fuego o de superficies calientes y no lo perfore ni lo arroje al fuego, porque es un envase a presión. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Caprice",
-    "variante": "Con cera",
-    "presentacion": "Spray",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Especialidades Fuerza",
+    "variante": "Acti-Ceramidas",
+    "presentacion": "Spray aerosol",
     "contenido_neto": 316,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Tipo: Fijador para el cabello; Formato de venta: Unidad"
+    "otros": "Tipo de producto: spray fijador; Formato de venta: unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546058955_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546058955-1.jpg",
+      "pagina": "https://www.delsol.com.mx/spray-caprice-acticeramidas-316ml",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1474,
+      "fecha": "2026-09-29",
+      "lado_util": 1365
+    },
+    {
+      "archivo": "7509546058955_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546058955-2.jpg",
+      "pagina": "https://www.delsol.com.mx/spray-caprice-acticeramidas-316ml",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 777,
+      "fecha": "2026-09-29",
+      "lado_util": 720
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/spray-caprice-acticeramidas-316ml",
+    "https://www.fahorro.com/fijador-caprice-esp-acti-ceramidas-316-ml-spray.html",
+    "https://www.farmalisto.com.mx/fijador-para-cabello/12580-comprar-spray-fijador-caprice-con-acti-ceramidas-frasco-con-316-g-precio-7509546058955.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos deducidos del nombre (FIJ = fijador, CERA, SPY = spray, 316 ml). No se descifró SP ACT (posible nombre de la variante); revisarlo en el empaque. Se desconoce el fabricante. Modo de uso y advertencias son generales de fijadores en spray.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La abreviatura ACT CERA del sistema corresponde a Acti-Ceramidas, no a cera; el borrador decía con cera. El fabricante se dedujo del logotipo Palmolive del empaque.",
+    "notas_imagenes": "2 fotos de tienda: frente y reverso del envase. Se borró una tercera imagen por ser publicitaria con texto promocional.",
     "fecha": "2026-09-29"
   }
 }

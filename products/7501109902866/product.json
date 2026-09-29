@@ -22,7 +22,7 @@
     "sabor_aroma": "Frutas",
     "genero": "Niños",
     "registro_sanitario": "630M98 SSA VI",
-    "otros": "Formato de venta: Caja con frasco"
+    "otros": "Formato de venta: Caja con frasco; Sin alcohol: Sí; Incluye vaso dosificador y pipeta dosificadora: Sí"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -36,18 +36,67 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501109902866_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1616,
+      "fecha": "2026-09-29",
+      "lado_util": 1497
+    },
+    {
+      "archivo": "7501109902866_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1330,
+      "fecha": "2026-09-29",
+      "lado_util": 1232
+    },
+    {
+      "archivo": "7501109902866_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1231,
+      "fecha": "2026-09-29",
+      "lado_util": 1140
+    },
+    {
+      "archivo": "7501109902866_4.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/txsayi32vr8v/dXQEeOCZDmHFHyXqPseK3/7680a35d4b6e98864ec8a0d42c7b18df/packshot-motrin_infantil-980x980-v2-es-mx",
+      "pagina": "https://www.motrin.com.mx/productos/motrin-infantil",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1010,
+      "fecha": "2026-09-29",
+      "lado_util": 935
+    }
+  ],
   "url_oficial": "https://www.motrin.com.mx/productos/motrin-infantil",
   "fuentes": [
     "https://www.motrin.com.mx/productos/motrin-infantil",
     "https://www.vademecum.es/mexico/medicamento/1139286/motrin-suspension-infantil",
-    "https://www.mercadolibre.com.mx/motrin-suspension-infantil-1-frasco-120-ml/p/MLM39455417"
+    "https://www.mercadolibre.com.mx/motrin-suspension-infantil-1-frasco-120-ml/p/MLM39455417",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501109902866_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El GTIN corresponde al frasco de 120 ml (2 g/100 ml); el 'FEBRERO 28 30' del nombre es caducidad/lote y se ignoró. Una tienda lista el sabor como fresa-frambuesa y otra como frutas; se usó 'frutas' (sitio oficial: sabor frutas). La marca hoy puede figurar bajo Kenvue; el registro sanitario corresponde a Janssen-Cilag de México.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s): 3 de fahorro.com (tienda), 1 de motrin.com.mx (fabricante). Se descarto una foto con insignia \"Analgesico 120 ml\"."
   }
 }

@@ -4,37 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "SOPHIPREN OFT GTS 5ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Sophipren Gotas Oftálmicas 5 ml",
-  "descripcion": "Descripción:\nSophipren es un medicamento oftálmico en gotas, de uso exclusivo en los ojos, que se presenta en frasco gotero con 5 ml. Su uso debe ser indicado por un médico.\n\nModo de uso:\nUso oftálmico. Aplique las gotas en el ojo afectado en la dosis y con la frecuencia que indique su médico o el empaque. Evite tocar la punta del gotero con los ojos o con los dedos y cierre bien el frasco después de cada aplicación. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nFrasco gotero con 5 ml.\n\nAdvertencias:\nSolo para uso oftálmico. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Si presenta ardor, dolor, cambios en la visión o cualquier reacción adversa, suspenda su uso y consulte a su médico. Informe a su médico si usa otros medicamentos oftálmicos, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sophipren Ofteno Prednisolona 10 mg/ml Gotas Oftálmicas 5 ml",
+  "descripcion": "Descripción:\nSophipren Ofteno es una suspensión oftálmica de Laboratorios Sophia con acetato de prednisolona al 1 % (10 mg por ml), un corticosteroide de uso oftálmico. Está indicado en las condiciones inflamatorias y alérgicas del ojo sensibles a los esteroides: traumatismos oculares, inflamación crónica del ojo, posoperatorio de cirugías oculares (catarata, estrabismo, glaucoma, córnea, conjuntiva y retina), inflamaciones de origen alérgico y diferentes cuadros de uveítis como iritis, iridociclitis, ciclitis, coroiditis y coriorretinitis.\n\nCaracterísticas:\n- Concentración de 1 %, con acción antiinflamatoria alta.\n- Buena penetración ocular.\n- Frasco gotero de 5 ml.\n\nComposición:\nCada ml contiene acetato de prednisolona 10 mg. Vehículo cbp 1 ml.\n\nModo de uso:\nUso oftálmico exclusivo. Aplique las gotas en el ojo afectado en la dosis y con la frecuencia que indique su médico. Evite tocar la punta del gotero con los ojos o con los dedos y cierre bien el frasco después de cada aplicación.\n\nPresentación:\nCaja con frasco gotero con 5 ml de suspensión oftálmica.\n\nAdvertencias:\nMedicamento de venta con receta médica. Solo para uso en los ojos; no lo ingiera ni lo inyecte. Su uso, sobre todo si es prolongado, debe ser indicado y vigilado por un médico. No lo use si es alérgico a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sophipren",
-    "presentacion": "Gotas oftálmicas",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Ofteno",
+    "variante": "Prednisolona 1 %",
+    "presentacion": "Suspensión oftálmica (gotas)",
     "contenido_neto": 5,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Acetato de prednisolona",
+    "concentracion": "10 mg/ml (1 %)",
     "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Frasco gotero de 5 ml"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja con frasco gotero"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085400489_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085400489.jpg",
+      "pagina": "https://www.fahorro.com/sophipren-oftalmico-5-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1342,
+      "fecha": "2026-09-29",
+      "lado_util": 1242
+    },
+    {
+      "archivo": "736085400489_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__71a0ea64-e067-4ca5-b4ef-40e00e2822c3.jpg?v=1744690879",
+      "pagina": "https://wecarepharma.mx/en/products/sophipren-oft-gotas-10mg-ml-5ml-prednisolona",
+      "ancho_original": 955,
+      "alto_original": 955,
+      "lado_final": 997,
+      "fecha": "2026-09-29",
+      "lado_util": 924
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/sophipren.ofteno.suspension/174/101/58582/194",
+    "https://www.fahorro.com/sophipren-oftalmico-5-ml-gotas.html",
+    "https://www.chedraui.com.mx/solucion-oftalmica-sophipren-10mgml-frasco-gotero-con-5ml-3039073/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó el principio activo (posiblemente un corticoide oftálmico de Laboratorios Sophia, dato sin verificar) ni la concentración; por eso se omitieron. Si se confirma que es un corticoide, requiere receta y la categoría rx sería MLM457829. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN de 12 dígitos se buscó con 0 inicial; el SKU 736085400489 se confirmó en la ficha de una farmacia. Composición e indicaciones tomadas de PLM.",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea) del empaque Sophipren Ofteno, prednisolona 10 mg/ml, frasco gotero 5 ml.",
     "fecha": "2026-09-29"
   }
 }

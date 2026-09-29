@@ -4,39 +4,93 @@
   "linea": "Farma",
   "nombre_sistema": "HUMYLUB PF OFTENO 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Humylub PF Ofteno Solución Oftálmica 10 ml",
-  "descripcion": "Descripción:\nHumylub PF Ofteno es una solución oftálmica de Laboratorios Sophia, de la línea Ofteno, en frasco de 10 ml. Por el nombre, la sigla PF indica una presentación sin conservadores. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Humylub PF Ofteno Condroitina/Hialuronato 10 ml",
+  "descripcion": "Descripción:\nHumylub PF Ofteno, de Laboratorios Sophia, es una solución oftálmica lubricante libre de conservadores. Combina sulfato sódico de condroitina y hialuronato de sodio para humectar la superficie del ojo y restablecer la calidad de la película lagrimal. Se presenta en frasco gotero de 10 ml.\n\nBeneficios:\nIndicada para el alivio temporal de:\n- Ardor, sensación de cuerpo extraño y resequedad ocular por queratoconjuntivitis seca, blefaroconjuntivitis, blefaritis y queratitis por exposición.\n- Irritaciones oculares leves por rayos solares, polvo, aire, aguas cloradas, agentes químicos débiles y exposición a luz intensa.\n- Coadyuvante de otros tratamientos tópicos oculares, al prolongar el tiempo de contacto de los fármacos aplicados.\n- Fórmula libre de conservadores (PF).\n\nComposición:\nCada ml contiene:\n- Sulfato sódico de condroitina 1.8 mg\n- Hialuronato de sodio 1.0 mg\n- Vehículo cbp 1.0 ml\n\nModo de uso:\nVía oftálmica. No ingerible. Dosis: la que el médico señale. Léase el instructivo anexo. Una vez abierto el envase, el producto se conserva 28 días.\n\nPresentación:\nFrasco gotero con 10 ml de solución oftálmica estéril.\n\nAdvertencias:\nSu venta requiere receta médica. No se use durante el embarazo y la lactancia. Conservar el frasco bien cerrado a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Humylub",
     "fabricante": "Laboratorios Sophia",
-    "linea": "Ofteno",
-    "variante": "PF",
-    "presentacion": "Solución oftálmica",
+    "linea": "Ofteno PF",
+    "presentacion": "Solución oftálmica estéril",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "via_administracion": "Oftálmica"
+    "principio_activo": "Sulfato sódico de condroitina e hialuronato de sodio",
+    "concentracion": "1.8 mg/1 mg por ml",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "150M2007 SSA IV",
+    "otros": "Libre de conservadores; Vigencia una vez abierto: 28 días; Formato: frasco gotero"
   },
-  "receta_mx": "No",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085410808_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085410808.jpg",
+      "pagina": "https://www.fahorro.com/humylub-pf-ofteno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1400,
+      "fecha": "2026-09-29",
+      "lado_util": 1297
+    },
+    {
+      "archivo": "736085410808_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085410808_1.jpg",
+      "pagina": "https://www.fahorro.com/humylub-pf-ofteno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1450,
+      "fecha": "2026-09-29",
+      "lado_util": 1343
+    },
+    {
+      "archivo": "736085410808_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085410808_2.jpg",
+      "pagina": "https://www.fahorro.com/humylub-pf-ofteno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1393,
+      "fecha": "2026-09-29",
+      "lado_util": 1290
+    },
+    {
+      "archivo": "736085410808_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085410808_3.jpg",
+      "pagina": "https://www.fahorro.com/humylub-pf-ofteno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1553,
+      "fecha": "2026-09-29",
+      "lado_util": 1438
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Medicamentos_de_patente/1951-humylub-pf-18mg-1mg-ml-con-10-ml-solucion-oftalmica.html",
+    "https://www.farmaciasguadalajara.com/visual/oftalmologia/humylub-ofteno-pf-1.8mg-1mg-ml-solucion-gotas--10-ml.-1277383.html",
+    "https://prixz.com/c/humylub-pf-ofteno-1-8mg-frasco-gotero-con-10ml-2/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El fabricante Laboratorios Sophia se deduce del prefijo del GTIN (736085, el mismo de Nazil Ofteno, confirmado) y de la línea Ofteno. Se cree que es un lubricante ocular sin conservadores, pero no se confirmó el principio activo ni la concentración. Confirmar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 736085410808 no apareció escrito en las fichas; se identificó por nombre y presentación (1.8 mg/1 mg/ml, 10 ml). La caja fotografiada dice que su venta requiere receta médica (una farmacia la marca sin receta); se dejó 'Sí'.",
+    "notas_imagenes": "4 fotos del empaque (tienda): frente, parte posterior con la fórmula y dos ángulos. Se descartaron fotos con marca de agua de tiendas.",
     "fecha": "2026-09-29"
   }
 }

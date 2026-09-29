@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "FITOESTIMULINA CRA C 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "Fitoestimulina Crema 30 g",
-  "descripcion": "Descripción:\nFitoestimulina es una crema de uso tópico que se presenta en tubo con 30 g. No se pudo confirmar su fabricante, su composición ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nUso tópico. Aplique sobre la zona de piel limpia y seca, en la cantidad y con la frecuencia que indique el empaque o su médico. Lávese las manos antes y después de la aplicación. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nSolo para uso externo. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Evite el contacto con los ojos. Si presenta irritación o la molestia persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Fitoestimulina Crema Tópica 30 g",
+  "descripcion": "Descripción:\nFitoestimulina es una crema de uso tópico elaborada con extracto acuoso de Triticum vulgare (trigo) que favorece los procesos de cicatrización y reepitelización. Se presenta en tubo con 30 g de crema.\n\nBeneficios:\n- Estimula la formación, maduración y migración de fibroblastos.\n- Favorece la síntesis de tejido de granulación necesario para la reparación de los tejidos.\n- Promueve una correcta reepitelización.\n- Según la ficha de farmacia, está indicada en afecciones cervicovaginales que requieren activar la cicatrización, como distrofias cervicovaginales posmenopáusicas, ectropión y cervicitis erosiva, cervicovaginitis aguda y crónica, y lesiones cervicales poscauterización o consecutivas a cirugía y radioterapia.\n\nComposición:\nExtracto acuoso de Triticum vulgare y fenoxietanol, en base de crema.\n\nModo de uso:\nUso tópico. Aplique en la zona a tratar, en la cantidad y con la frecuencia que indique el empaque o su médico. Lávese las manos antes y después de la aplicación.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nNo aplicar sobre heridas infectadas sin supervisión médica. Evite el contacto con los ojos. Si presenta reacción alérgica, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Fitoestimulina",
+    "fabricante": "Grossman",
     "presentacion": "Crema",
     "contenido_neto": 30,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
+    "principio_activo": "Extracto acuoso de Triticum vulgare; fenoxietanol",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Tubo de 30 g"
+    "otros": "Formato de venta: tubo con 30 g"
   },
-  "receta_mx": "No",
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457819",
@@ -27,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123011704_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw24e62750/images/large/7501123011704_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/fitoestimulina-crema-30g/MXYZ_7501123011704.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 811,
+      "fecha": "2026-09-29",
+      "lado_util": 751
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Fitoestimulina-30-G-Crema-Tubo/7501123011704",
+    "https://www.klyns.mx/fitoestimulina-crema-topica-30-grs/p",
+    "https://www.yza.mx/fitoestimulina-crema-30g/MXYZ_7501123011704.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó el fabricante, la composición ni si es crema dermatológica o de otro uso (por ejemplo ginecológico); la categoría Dermatológicos Venta Libre es provisional. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 3 tiendas. Las fichas difieren en la indicación (heridas/cicatrización vs. afecciones cervicovaginales); una tienda la marca como Rx, otras no: verificar si requiere receta. Fabricante Grossman según el empaque.",
+    "notas_imagenes": "1 foto de tienda (frente del empaque, tubo con caja); la otra imagen encontrada era menor de 500 px.",
     "fecha": "2026-09-29"
   }
 }

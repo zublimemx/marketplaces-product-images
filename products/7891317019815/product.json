@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "VENALOT DEPOT 180 30MG CJA C30 TABL EUROFARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "Venalot Depot 180 mg/30 mg 30 Tabletas",
-  "descripcion": "Descripción:\nVenalot Depot es un medicamento de Eurofarma en tabletas, en presentación de 180 mg y 30 mg por tableta y caja con 30 piezas. Pertenece al grupo de los medicamentos de uso vascular, empleados para molestias de la circulación venosa de las piernas. Consulte la indicación específica y la dosis en el empaque o con su médico.\n\nComposición:\nEl nombre del producto indica 180 mg y 30 mg por tableta; consulte los principios activos y sus concentraciones en el empaque.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Venalot Depot Troxerutina Cumarina 180 mg/30 mg 30 Tabletas",
+  "descripcion": "Descripción:\nVenalot Depot es un medicamento de Eurofarma en tabletas que combina troxerutina (180 mg) y cumarina (30 mg) en cada tableta. Las fichas de farmacia lo indican para trastornos venosos como la insuficiencia venosa crónica, con síntomas como pesadez, dolor e hinchazón en las piernas, y también en casos de hemorroides. Su uso debe ser supervisado por un profesional de la salud.\n\nCaracterísticas:\n- Combinación de dos principios activos: troxerutina y cumarina.\n- Concentración de 180 mg / 30 mg por tableta.\n- Presentación de 30 tabletas para tratamiento continuado.\n\nComposición:\nCada tableta contiene troxerutina 180 mg y cumarina 30 mg, además de excipientes.\n\nModo de uso:\nVía oral. Tome las tabletas con un poco de agua, en la dosis y durante el tiempo que le indique su médico o el empaque.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Consulte a su médico si está embarazada o en periodo de lactancia.\n- Si los síntomas persisten o empeoran, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Venalot",
     "fabricante": "Eurofarma",
@@ -14,8 +14,10 @@
     "contenido_neto": 30,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "via_administracion": "Oral",
+    "principio_activo": "Troxerutina, cumarina",
     "concentracion": "180 mg / 30 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
     "otros": "Formato de venta: Unidad"
   },
   "receta_mx": "Revisar",
@@ -30,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317019815_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__2e0612b0-e13d-43c1-8584-dbd15416cdf8.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/venalot-depot-180mg-30mg-con-30-tabletas-troxerutina-cumarina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7891317019815_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__7ae6788f-a433-47c6-9932-f3847ef2a762.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/venalot-depot-180mg-30mg-con-30-tabletas-troxerutina-cumarina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/venalot-depot-180mg-30mg-con-30-tabletas-troxerutina-cumarina",
+    "https://curitek.com/producto/venalot-depot-troxerutina-cumarina/",
+    "https://farmaciaherrera.com.mx/products/venalot-depot-180-30-mg-con-30-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. El GTIN tiene prefijo de Brasil (789), consistente con Eurofarma. No se confirmaron los principios activos (probablemente troxerutina y cumarina) ni la indicación, por eso la ficha no los declara. Confirmar si requiere receta en México.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias; 180 mg/30 mg con 30 tabletas coincide. No se encontró ficha oficial del fabricante; las indicaciones vienen de fichas de farmacia. Una farmacia dice que requiere receta y otra no lo indica: revisar.",
+    "notas_imagenes": "2 fotos de tienda (WeCare Pharma): frente de la caja y vista en ángulo. Se descartó una foto pequeña y desenfocada de otra farmacia.",
     "fecha": "2026-09-29"
   }
 }

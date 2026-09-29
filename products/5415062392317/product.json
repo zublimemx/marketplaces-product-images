@@ -4,37 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "TERRAMICINA UNGUENTO 10 G",
   "nombres_sistema_alternos": [],
-  "titulo": "Terramicina Ungüento 10 g",
-  "descripcion": "Descripción:\nTerramicina en presentación de ungüento, tubo de 10 g. Consulte en el empaque la composición, las indicaciones y el modo de aplicación.\n\nPresentación:\nUngüento, tubo de 10 g.\n\nAdvertencias:\n- Producto de uso externo.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Terramicina Ungüento Oftálmico Oxitetraciclina 10 g",
+  "descripcion": "Descripción:\nTerramicina es un ungüento oftálmico de Pfizer que combina dos antibióticos: oxitetraciclina y polimixina B. Está indicado en el tratamiento de infecciones oculares superficiales que afectan la conjuntiva y la córnea, causadas por microorganismos sensibles, como la conjuntivitis bacteriana y la blefaritis.\n\nCaracterísticas:\n- Combina oxitetraciclina, que frena el crecimiento bacteriano al interferir con la síntesis de proteínas, y polimixina B, que altera la membrana de las bacterias gramnegativas.\n- Ungüento de aplicación oftálmica.\n- Tubo de 10 g.\n\nComposición:\nCada gramo contiene oxitetraciclina 0.005 g y polimixina B 10,000 unidades. Excipientes: lanolina, parafina líquida y parafina sólida.\n\nModo de uso:\nVía oftálmica. Aplique la cantidad que le indique su médico en el saco conjuntival del ojo afectado, sin tocar la punta del tubo con el ojo ni con los dedos. Lávese las manos antes y después de aplicarlo.\n\nPresentación:\nCaja con 1 tubo de ungüento de 10 g.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a la oxitetraciclina, a la polimixina B o a algún componente de la fórmula.\n- No lo use en infecciones virales o por hongos del ojo.\n- Evite usar lentes de contacto durante el tratamiento y suspenda su uso si presenta irritación o enrojecimiento.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Terramicina",
-    "presentacion": "Ungüento",
+    "fabricante": "Pfizer",
+    "variante": "Oftálmico",
+    "presentacion": "Ungüento oftálmico en tubo",
     "contenido_neto": 10,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Oxitetraciclina, polimixina B",
+    "concentracion": "Oxitetraciclina 0.005 g/g y polimixina B 10,000 U/g",
+    "via_administracion": "Oftálmica",
+    "otros": "Excipientes: lanolina, parafina líquida y parafina sólida; Requiere receta médica; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457819",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5415062392317_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20230217_486345.jpg",
+      "pagina": "https://www.benavides.com.mx/terramicina-0005-g-oxitetraciclina10000-u-polimixina-b-unguento-10-g",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 859,
+      "fecha": "2026-09-29",
+      "lado_util": 796
+    },
+    {
+      "archivo": "5415062392317_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/5/4/5415062392317_1_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/terramicina-pda-bot-c-10gr-oft.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 866,
+      "fecha": "2026-09-29",
+      "lado_util": 802
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/terramicina-oft-ung-0-005g-10000-unid-10g-oxitetraciclina-polimixina",
+    "https://www.benavides.com.mx/terramicina-0005-g-oxitetraciclina10000-u-polimixina-b-unguento-10-g",
+    "https://www.farmaciasespecializadas.com/terramicina-pda-bot-c-10gr-oft.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. No se confirmó si es ungüento dérmico u oftálmico ni su composición (la marca Terramicina se asocia a la oxitetraciclina, un antibiótico), por eso receta_mx es Revisar y la categoría dermatológica es una suposición. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN (código europeo 5415...) confirmado como SKU en una farmacia y en la foto de otra; tubo de 10 g de ungüento oftálmico. Composición y excipientes de una ficha de farmacia; indicación de Benavides. Es antibiótico con receta; va en Para Ojos y Oídos Venta Libre por instrucción del dueño. Las instrucciones de aplicación son generales.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias Benavides y Farmacias Especializadas), caja de frente. Se descartó una tercera con un diseño antiguo del empaque y baja resolución.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,20 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "VARTALON COMP C30 SOBRES LIMON 1500 1200MG",
   "nombres_sistema_alternos": [],
-  "titulo": "Vartalon Comp 1500 mg/1200 mg 30 Sobres Sabor Limón",
-  "descripcion": "Descripción:\nVartalon Comp es un producto en sobres sabor limón, presentado en caja con 30 sobres, con una composición de 1500 mg y 1200 mg por sobre. Se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer sus componentes, indicaciones y modo de uso.\n\nPresentación:\nCaja con 30 sobres sabor limón.\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre según las instrucciones del empaque o las que indique su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Vartalon Compositum Glucosamina Condroitina 30 Sobres Limón",
+  "descripcion": "Descripción:\nVartalon Compositum es un medicamento de Asofarma de México en polvo, en sobres monodosis con sabor limón, que combina sulfato de glucosamina y sulfato sódico de condroitina. Está indicado como auxiliar en el tratamiento de enfermedades osteoarticulares, previniendo su evolución y protegiendo el cartílago articular.\n\nBeneficios:\n- Actúa en la formación y protección del cartílago, el tejido sinovial y los huesos.\n- Su efecto inicia entre las 8 y las 12 semanas de tratamiento.\n- Sobres monodosis fáciles de preparar, con sabor limón.\n\nComposición:\nCada sobre contiene sulfato de glucosamina policristalina equivalente a 1,500 mg de sulfato de glucosamina y sulfato sódico de condroitina 1,200 mg.\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre según las instrucciones del empaque o las indicaciones de su médico.\n\nPresentación:\nCaja con 30 sobres de polvo sabor limón.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Consulte a su médico si tiene alguna enfermedad crónica, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Vartalon",
-    "variante": "Comp",
-    "presentacion": "Sobres",
+    "fabricante": "Asofarma de México",
+    "linea": "Compositum",
+    "variante": "Sabor limón 1500 mg/1200 mg",
+    "presentacion": "Polvo en sobres",
     "contenido_neto": 30,
     "unidad_contenido": "sobres",
     "unidades_por_envase": 30,
+    "principio_activo": "Sulfato de glucosamina y sulfato sódico de condroitina",
+    "concentracion": "1500 mg/1200 mg por sobre",
     "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
     "sabor_aroma": "Limón",
     "otros": "Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457822",
@@ -29,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720590_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501871720590_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/vartalon-compositum-sob-caj-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 447
+    },
+    {
+      "archivo": "7501871720590_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501871720590.jpg",
+      "pagina": "https://www.fahorro.com/vartalon-compositum-1.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1202,
+      "fecha": "2026-09-29",
+      "lado_util": 1113
+    },
+    {
+      "archivo": "7501871720590_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/7501871720590.webp",
+      "pagina": "https://farmasmart.com/vartalon-comp-1-5g-sob-c30",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 501,
+      "fecha": "2026-09-29",
+      "lado_util": 464
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/vartalon-compo-15001200-mg-polvo-x-30-sob-limon/MXYZ_7501871720590.html",
+    "https://farmasmart.com/vartalon-comp-1-5g-sob-c30",
+    "https://www.farmaciasespecializadas.com/vartalon-compositum-sob-caj-c-30.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Los datos salen del nombre del sistema (Vartalon Comp, caja con 30 sobres, sabor limón, 1500 y 1200 mg). Por las dosis parece una combinación de glucosamina 1500 mg y condroitina 1200 mg (uso articular), pero no se confirmó, por eso no se puso el principio activo ni indicaciones. Tampoco se sabe si es medicamento o suplemento alimenticio: si es suplemento, la categoría correcta sería MLM438195 (Suplementos Alimenticios) en lugar de Musculoarticulares Venta Libre. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. Una farmacia indica venta sin receta.",
+    "notas_imagenes": "3 fotos de tienda (farmacias en línea): caja Vartalon Compositum de 30 sobres.",
     "fecha": "2026-09-29"
   }
 }

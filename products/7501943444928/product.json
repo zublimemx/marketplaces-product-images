@@ -32,16 +32,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943444928_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1643,
+      "fecha": "2026-09-29",
+      "lado_util": 1522
+    },
+    {
+      "archivo": "7501943444928_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1635,
+      "fecha": "2026-09-29",
+      "lado_util": 1514
+    },
+    {
+      "archivo": "7501943444928_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1644,
+      "fecha": "2026-09-29",
+      "lado_util": 1523
+    }
+  ],
   "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
   "fuentes": [
-    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn"
+    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943444928_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE MED E3 = Suavelastic Etapa 3 Mediano; prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos de la página oficial; las 44 piezas salen del nombre del sistema.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, production-media.fahorro.com, 1600 px): frente, 3/4 y vertical con mamá; empaque rojo 'Maxi mejorados' 3M 44 pañales. Se descartó la foto del empaque azul antiguo de 40 pzas. Página del fabricante (kleenbebe.com) dio 403."
   }
 }

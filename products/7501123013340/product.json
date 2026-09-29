@@ -32,18 +32,56 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123013340_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1360,
+      "fecha": "2026-09-29",
+      "lado_util": 1260
+    },
+    {
+      "archivo": "7501123013340_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1373,
+      "fecha": "2026-09-29",
+      "lado_util": 1272
+    },
+    {
+      "archivo": "7501123013340_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1182,
+      "fecha": "2026-09-29",
+      "lado_util": 1095
+    }
+  ],
   "url_oficial": "https://www.bedoyecta.com.mx/productos/bedoyecta-caps/",
   "fuentes": [
     "https://www.bedoyecta.com.mx/productos/bedoyecta-caps/",
     "https://www.actuamed.com.mx/amp/otc/bedoy-31914.htm",
-    "https://farmaciasmedina.com/detalleProducto/Bedoyecta-Oral/7501123013340"
+    "https://farmaciasmedina.com/detalleProducto/Bedoyecta-Oral/7501123013340",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501123013340_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "No se encontraron cantidades por cápsula en una fuente confiable, por eso no se incluyen. Se clasificó como suplemento (multivitamínico de libre venta, Actuamed lo marca OTC). No confundir con Bedoyecta Tri inyectable (ítem 1), que es otro producto.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 3 de fahorro.com (tienda). Frente, contra-etiqueta y angulo del empaque; se descarto otra version de empaque. El sitio oficial solo tenia graficos promocionales."
   }
 }

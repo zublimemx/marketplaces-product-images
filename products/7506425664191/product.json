@@ -32,18 +32,56 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425664191_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1588,
+      "fecha": "2026-09-29",
+      "lado_util": 1471
+    },
+    {
+      "archivo": "7506425664191_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1588,
+      "fecha": "2026-09-29",
+      "lado_util": 1471
+    },
+    {
+      "archivo": "7506425664191_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1584,
+      "fecha": "2026-09-29",
+      "lado_util": 1467
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
     "https://www.soriana.com/panales-huggies-supreme-etapa7-36pza/11929344.html",
     "https://www.amazon.com.mx/Huggies-Supreme-adelante-clinica-dermatologicamente/dp/B0GP27PS94",
-    "https://www.huggies.com.mx/productos/huggies-supreme/"
+    "https://www.huggies.com.mx/productos/huggies-supreme/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191_2.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425664191_3.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN no aparece en ningún buscador; se identificó por nombre como Huggies Supreme Etapa 7 con 36 piezas (existe en Soriana y Amazon). El 'C5' del nombre no se pudo interpretar (posible caja o lote). El rango de peso (más de 16 kg) viene de Amazon; la página oficial solo lista hasta Etapa 6. Verificar el código de barras contra el empaque.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 3 de fahorro.com (tienda). Frente, vertical y lateral; se descarto un duplicado de baja resolucion de Benavides."
   }
 }

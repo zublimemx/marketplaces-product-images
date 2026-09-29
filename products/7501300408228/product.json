@@ -4,19 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "FURACIN POM 85GR AGOSTO 27 100",
   "nombres_sistema_alternos": [],
-  "titulo": "Furacin Pomada Nitrofurazona 85 g",
-  "descripcion": "Descripción:\nFuracin es una pomada de uso tópico cuyo principio activo es la nitrofurazona, un antimicrobiano local. Se presenta en envase de 85 g y se aplica sobre la piel. Consulte la etiqueta del empaque para conocer sus indicaciones, la concentración y el modo de uso.\n\nPresentación:\nPomada de 85 g.\n\nModo de uso:\nUso externo. Aplique sobre la zona a tratar de la forma que indique el empaque o su médico.\n\nAdvertencias:\nSolo para uso externo. No la use si es alérgico a la nitrofurazona o a cualquier componente de la fórmula. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Furacin Pomada Nitrofural 0.2% 85 g",
+  "descripcion": "Descripción:\nFuracin es una pomada de uso tópico cuyo principio activo es el nitrofural (nitrofurazona), un antibacteriano eficaz contra diversas bacterias grampositivas y gramnegativas. Se presenta en tubo de 85 g. En el empaque se destaca que no causa ardor y que es un bactericida para todo el proceso de curación de quemaduras, heridas y raspones.\n\nBeneficios:\n- Antibacteriano de aplicación local para el manejo de heridas infectadas, quemaduras, úlceras y lesiones de la piel\n- Útil para prevenir infecciones en procedimientos quirúrgicos\n- No causa ardor al aplicarse, según el empaque\n\nComposición:\nCada 100 g de pomada contienen 0.2 g de nitrofural. Excipiente cbp 100 g.\n\nModo de uso:\nVía tópica. Limpie la zona afectada y aplique una capa de pomada directamente sobre la lesión o sobre una gasa, según la indicación de su médico. Cubra con un apósito limpio si es necesario.\n\nPresentación:\nTubo con 85 g de pomada.\n\nAdvertencias:\nUso externo. No lo use si es alérgico al nitrofural o a algún componente de la fórmula. Evite el contacto con los ojos y las mucosas. Si aparece irritación o una reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Furacin",
     "presentacion": "Pomada",
     "contenido_neto": 85,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "principio_activo": "Nitrofurazona",
+    "principio_activo": "Nitrofural (nitrofurazona)",
+    "concentracion": "0.2 %",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: tubo de 85 g"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457819",
@@ -28,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408228_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw05e1787e/images/large/7501300408228_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/furacin-pomada-85g/MXYZ_7501300408228.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 941,
+      "fecha": "2026-09-29",
+      "lado_util": 868
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/furacin-pomada-85g-nitrofural",
+    "https://www.yza.mx/furacin-pomada-85g/MXYZ_7501300408228.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Furacin = nitrofurazona en pomada, de conocimiento general). No se confirmó la concentración (normalmente 0.2 %), el fabricante ni si su venta requiere receta; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se identificó el fabricante en las fuentes. La concentración (0.2 g por 100 g) viene de una ficha de distribuidor. El modo de aplicación es general.",
+    "notas_imagenes": "1 foto de frente de la caja del tubo de 85 g (tienda).",
     "fecha": "2026-09-29"
   }
 }

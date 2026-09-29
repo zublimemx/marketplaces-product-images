@@ -30,17 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300450210_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0929/7294/1602/files/7501300450210.jpg?v=1761686470",
+      "pagina": "https://farmaciapopularenlinea.com/products/bactrim-f-800-160-mg-tab-16",
+      "ancho_original": 1944,
+      "alto_original": 1944,
+      "lado_final": 1895,
+      "fecha": "2026-09-29",
+      "lado_util": 1755
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Bactrim-F-15-Tabletas-Caja/7501300450210",
-    "https://farmalisto.com.mx/inicio/160716-bactrim-f-800-160-mg-15-tabletas-rx2-7501300450210.html"
+    "https://farmalisto.com.mx/inicio/160716-bactrim-f-800-160-mg-15-tabletas-rx2-7501300450210.html",
+    "https://farmaciapopularenlinea.com/products/bactrim-f-800-160-mg-tab-16"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (caja con 15 tabletas, 800/160 mg). No se pudo abrir la ficha detallada (WebFetch rechazado con 429), por lo que la descripción se redactó con datos generales del principio activo; fabricante no confirmado y omitido.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (farmaciapopularenlinea.com, 1944 px): caja Bactrim F 800/160 mg 'Caja con 15 tabletas' (diseño Weser Pharma). Se descartó una foto que decía 'Caja con 14 tabletas' y otra del diseño Roche de menor resolución."
   }
 }

@@ -4,24 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "AVAPENA 25MG C 20 GRAG 160",
   "nombres_sistema_alternos": [],
-  "titulo": "Avapena 25 mg 20 Grageas",
-  "descripcion": "Descripción:\nAvapena es un medicamento en grageas de 25 mg de administración oral. Se comercializa en caja con 20 grageas. No se pudo confirmar su principio activo ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 20 grageas de 25 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Avapena Cloropiramina 25 mg 20 Tabletas",
+  "descripcion": "Descripción:\nAvapena es un antihistamínico de Sandoz cuyo principio activo es el clorhidrato de cloropiramina, en presentación de 25 mg. Está indicado en reacciones alérgicas como conjuntivitis alérgica, rinitis alérgica y urticaria.\n\nBeneficios:\n- Reduce el edema de la piel y la comezón.\n- Ayuda con el estornudo, el escurrimiento nasal y la congestión.\n- Alivia el ojo rojo y el lagrimeo asociados a la alergia.\n\nComposición:\nCada tableta (gragea) contiene clorhidrato de cloropiramina 25 mg y excipiente cbp una tableta.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada.\n\nPresentación:\nCaja con 20 tabletas de 25 mg (algunas tiendas las nombran como grageas).\n\nAdvertencias:\nPuede producir somnolencia; evite conducir o manejar maquinaria durante el tratamiento y no lo combine con alcohol. No lo use si es alérgico a alguno de los componentes. Consulte a su médico si está embarazada o en periodo de lactancia, o si tiene glaucoma o problemas de próstata. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Avapena",
+    "fabricante": "Sandoz",
+    "linea": "Avapena",
     "variante": "25 mg",
-    "presentacion": "Grageas",
+    "presentacion": "Tabletas",
     "contenido_neto": 20,
-    "unidad_contenido": "grageas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
+    "principio_activo": "Cloropiramina (clorhidrato)",
     "concentracion": "25 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 20 grageas"
+    "edad_etapa": "Adultos",
+    "otros": "Antihistamínico; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM194698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antihistamínicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -29,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502216930414_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7502216930414_1.jpg",
+      "pagina": "https://www.yza.mx/avapena-25mg-20-gra/MXYZ_7502216930414.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 844,
+      "fecha": "2026-09-29",
+      "lado_util": 784
+    },
+    {
+      "archivo": "7502216930414_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7502216930414_1.jpg",
+      "pagina": "https://www.yza.mx/avapena-25mg-20-gra/MXYZ_7502216930414.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 500
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/avapena-25mg-20-gra/MXYZ_7502216930414.html",
+    "https://farmasmart.com/avapena-25mg-tab-c20",
+    "https://farmaciaherrera.com.mx/products/avapena-25-mg-con-20-grageas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo, el fabricante ni el grupo terapéutico; la categoría Otros Medicamentos es provisional y debe cambiarse cuando se identifique. El número 160 al final del nombre se ignoró. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. El sistema dice GRAG y algunas tiendas dicen grageas; el empaque dice tabletas. Una farmacia indica venta sin receta.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Avapena 25 mg, caja con 20 tabletas.",
     "fecha": "2026-09-29"
   }
 }

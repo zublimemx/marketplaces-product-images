@@ -17,7 +17,7 @@
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 3",
     "talla": "Mediano",
-    "genero": "Niños",
+    "genero": "Niñas",
     "otros": "Tipo de pañal: Desechable; Certificación: Dermatest"
   },
   "receta_mx": "No aplica",
@@ -32,16 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425604265_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604265_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    },
+    {
+      "archivo": "7506425604265_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0929/7294/1602/files/7506425604265_d6a1c92b-5563-4ec7-90dd-8eb1524d0522.jpg?v=1752093452",
+      "pagina": "https://farmaciapopularenlinea.com/products/panal-hugg-ult-conf-nina-e3-c40",
+      "ancho_original": 842,
+      "alto_original": 842,
+      "lado_final": 753,
+      "fecha": "2026-09-29",
+      "lado_util": 698
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7506425604265_2.jpg",
+    "https://farmaciapopularenlinea.com/products/panal-hugg-ult-conf-nina-e3-c40"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre: la abreviatura HU CONF coincide con la del GTIN 7501943433090, confirmado como Huggies Ultra Confort. Las características son las de la línea en la página oficial; contenido de 40 piezas y talla Mediano no verificados contra una ficha del producto.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos de tienda: Farmacias del Ahorro 1600 px (frente) y farmaciapopularenlinea.com 842 px (vertical), empaque nuevo 'Nueva Ultra cobertura' Etapa 3 niña, 40 pzas. Se descartó el diseño anterior."
   }
 }

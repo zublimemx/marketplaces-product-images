@@ -4,12 +4,13 @@
   "linea": "Farma",
   "nombre_sistema": "THEALOZ DUO 10ML TREALOSA 3 HIALURONATO 0 15 AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Thealoz Duo Gotas Oftálmicas Trehalosa Hialuronato 10 ml",
-  "descripcion": "Descripción:\nThealoz Duo, de Laboratoires Théa, es una solución oftálmica lubricante que combina trehalosa al 3 % e hialuronato de sodio al 0.15 %. Está pensada para el cuidado de los ojos secos o con sensación de incomodidad por resequedad. Se presenta en frasco de 10 ml.\n\nBeneficios:\n- La trehalosa ayuda a proteger las células de la superficie ocular frente a la desecación.\n- El hialuronato de sodio aporta lubricación e hidratación a la superficie del ojo.\n- Fórmula sin conservadores, en frasco multidosis de 10 ml.\n\nComposición:\n- Trehalosa 3 %\n- Hialuronato de sodio 0.15 %\n\nModo de uso:\nVía oftálmica. Aplique una gota en cada ojo las veces que sea necesario o según la indicación de su especialista. Evite tocar la punta del frasco con los dedos, con el ojo o con cualquier superficie, y cierre el frasco después de cada uso. Si usa lentes de contacto, consulte a su oftalmólogo antes de aplicarlo.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el envase está dañado o abierto antes de su primer uso. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Thealoz Duo Trehalosa 3% Hialuronato 0.15% Gotas 10 ml",
+  "descripcion": "Descripción:\nThealoz Duo, de Laboratorios Théa, es una solución oftálmica estéril, sin conservadores, que combina trehalosa al 3% e hialuronato de sodio al 0.15%. Funciona como lágrima artificial para proteger, hidratar y lubricar la superficie del ojo, y puede usarse con lentes de contacto. Se presenta en frasco de 10 ml.\n\nBeneficios:\n- Indicado en caso de molestia, escozor o irritación del ojo causados por factores externos como viento, humo, contaminación, polvo, sol o frío, calefacción, aire acondicionado, viajes en avión o trabajo prolongado frente a una computadora.\n- La trehalosa aporta protección e hidratación; el hialuronato de sodio ayuda a retener agua y a lubricar la superficie corneal.\n- Fórmula sin conservadores, con envase multidosis ABAK que filtra el producto al dispensar cada gota.\n- Se puede usar con lentes de contacto puestas.\n\nComposición:\nCada 100 ml contiene trehalosa 3 g e hialuronato de sodio 0.15 g. Excipientes: cloruro de sodio, trometamol, ácido clorhídrico y agua para inyectables.\n\nModo de uso:\nVía oftálmica. Lávese las manos antes de usarlo y evite que la punta del envase toque el ojo o los párpados. Tire suavemente del párpado inferior hacia abajo, mire hacia arriba e instile 1 gota en cada ojo, de 4 a 6 veces al día o según indicación de su médico. Cierre el envase después de cada uso. Si usa otro producto para los ojos, deje pasar al menos 10 minutos entre uno y otro.\n\nPresentación:\nFrasco multidosis de 10 ml.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. No permita que la punta del envase toque el ojo. No inyectar ni ingerir. No lo use si el anillo de seguridad está dañado. Respete el tiempo máximo de uso después de abierto indicado en el empaque y conserve a menos de 25 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Thealoz",
-    "fabricante": "Laboratoires Théa",
-    "variante": "Duo",
+    "fabricante": "Théa",
+    "linea": "Thealoz Duo",
+    "variante": "Trehalosa 3% e hialuronato 0.15%",
     "presentacion": "Solución oftálmica (gotas)",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
@@ -17,7 +18,7 @@
     "principio_activo": "Trehalosa e hialuronato de sodio",
     "concentracion": "Trehalosa 3 %; hialuronato de sodio 0.15 %",
     "via_administracion": "Oftálmica",
-    "otros": "Sin conservadores: Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+    "otros": "Sin conservadores; Envase multidosis ABAK; Compatible con lentes de contacto; Formato de venta: Caja"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3662042003059_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__e3335406-c8d2-4bad-8349-ae56a3c69183.jpg?crop=center&height=2000&v=1744692544&width=2000",
+      "pagina": "https://wecarepharma.mx/en/products/thealoz-duo-gotas-10ml-trehalosa-hialuronato-de-sodio",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.ecofarmacias.cl/producto/thealoz-duo-hialuronato-de-sodio-3-solucion-oftalmica-10-ml/",
+    "https://curitek.com/producto/thealoz-duo-hialuronato-de-sodio-trehalosa/",
+    "https://ocufarma.mx/producto/thealoz-duo/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre del sistema (trehalosa 3 % e hialuronato 0.15 %, 10 ml) y conocimiento general de la línea Théa. La afirmación de que es sin conservadores viene de conocimiento general, confirmar en el empaque. Puede estar registrado como dispositivo médico y no como medicamento; revisar con la política de ML para oftálmicos. Registro sanitario pendiente.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en fichas de tienda. Composición, indicaciones y posología provienen de la ficha del fabricante reproducida por una tienda de Chile (de 4 a 6 veces al día; hasta 3 meses después de abierto según esa ficha, por eso no se puso plazo en la descripción): confirmar contra el empaque mexicano. Se vende sin receta.",
+    "notas_imagenes": "1 foto de tienda: frente de la caja en español (Thealoz Duo 10 mL, sin conservadores). Se descartaron una caja en inglés con marca de agua de la tienda y otra con marca de agua.",
     "fecha": "2026-09-29"
   }
 }

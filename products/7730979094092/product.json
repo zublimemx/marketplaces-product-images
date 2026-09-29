@@ -33,17 +33,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7730979094092_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 448
+    },
+    {
+      "archivo": "7730979094092_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 799
+    },
+    {
+      "archivo": "7730979094092_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_3.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 866,
+      "fecha": "2026-09-29",
+      "lado_util": 802
+    },
+    {
+      "archivo": "7730979094092_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 455
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/nefrologia-y-urologia/9128-comprar-asoflon-04-mg-caja-con-30-capsulas-Prostata-Precio-7730979094092.html",
-    "https://curitek.com/producto/asoflon-lp-tamsulosina/"
+    "https://curitek.com/producto/asoflon-lp-tamsulosina/",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 30 cápsulas confirmados. La farmacia lo marca como medicamento con receta; se publica en venta libre por instrucción del dueño. El fabricante y el registro sanitario provienen de una sola farmacia en línea.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7730979094092_1.jpg, 7730979094092_2.jpg, 7730979094092_3.jpg, 7730979094092_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

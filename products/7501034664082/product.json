@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "JARDIANZ DUO 12 5 1000MG TAB C60",
   "nombres_sistema_alternos": [],
-  "titulo": "Jardianz Duo 12.5 mg/1000 mg 60 Tabletas",
-  "descripcion": "Descripción:\nJardianz Duo es un medicamento en tabletas de la marca Jardianz, en la presentación de 12.5 mg y 1000 mg, con caja de 60 tabletas. Es un medicamento de prescripción para adultos con diabetes mellitus tipo 2. La composición y el registro sanitario deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Jardianz Duo Empagliflozina/Metformina 12.5/1000 mg 60 Tab",
+  "descripcion": "Descripción:\nJardianz Duo es un antidiabético oral de Boehringer Ingelheim que combina empagliflozina y clorhidrato de metformina en tabletas. Se utiliza como complemento de la dieta y el ejercicio para mejorar el control de la glucosa en adultos con diabetes mellitus tipo 2, y en estos pacientes ayuda también a la prevención de eventos cardiovasculares. Esta presentación contiene 12.5 mg de empagliflozina y 1000 mg de metformina por tableta, en caja con 60 tabletas.\n\nCaracterísticas:\n- La empagliflozina es un inhibidor del cotransportador sodio-glucosa tipo 2 (SGLT2) que favorece la eliminación de glucosa por la orina.\n- La metformina reduce la producción de glucosa en el hígado y mejora la sensibilidad a la insulina.\n- Dos principios activos en una sola tableta, para simplificar el tratamiento.\n\nComposición:\nCada tableta contiene:\n- Empagliflozina 12.5 mg\n- Clorhidrato de metformina 1000 mg\n- Excipiente cbp 1 tableta\n\nModo de uso:\nVía oral. La dosis y el horario los determina su médico. Léase el instructivo anexo. La dosis máxima diaria y los ajustes por función renal deben ser indicados por su médico.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. No modifique la dosis ni suspenda el tratamiento sin indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Jardianz",
-    "variante": "Duo",
+    "marca": "Jardianz Duo",
+    "fabricante": "Boehringer Ingelheim",
     "presentacion": "Tabletas",
     "contenido_neto": 60,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 60,
+    "principio_activo": "Empagliflozina y metformina",
     "concentracion": "12.5 mg/1000 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "432M2015 SSA IV",
+    "otros": "Formato de venta: caja con 60 tabletas; Requiere receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +32,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501034664082_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Jardianz-Duo-12.5-Mg1000-Mg-60-Tabletas-7501034664082-638866460458301251-1.jpg",
+      "pagina": "https://storeboehringer.com/jardianz/duo-12-5mg-1000mg-60-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 600
+    },
+    {
+      "archivo": "7501034664082_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/2/9/29061.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/jardianz-duo-12-5-1000mg-tab-c-60.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 432
+    },
+    {
+      "archivo": "7501034664082_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501034664082.jpg",
+      "pagina": "https://www.fahorro.com/jardianz-duo-12-5-mg-1000-mg-60-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1470,
+      "fecha": "2026-09-29",
+      "lado_util": 1362
+    },
+    {
+      "archivo": "7501034664082_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501034664082_1.jpg",
+      "pagina": "https://www.fahorro.com/jardianz-duo-12-5-mg-1000-mg-60-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1455,
+      "fecha": "2026-09-29",
+      "lado_util": 1348
+    }
+  ],
+  "url_oficial": "https://storeboehringer.com/jardianz/duo-12-5mg-1000mg-60-tabletas",
+  "fuentes": [
+    "https://storeboehringer.com/jardianz/duo-12-5mg-1000mg-60-tabletas",
+    "https://www.actuamed.com.mx/marca/34338",
+    "https://www.farmaciasespecializadas.com/jardianz-duo-12-5-1000mg-tab-c-60.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Por conocimiento general Jardianz Duo sería empagliflozina + metformina (Boehringer Ingelheim) para diabetes tipo 2, pero no se confirmó, por eso no se pusieron el principio activo ni el fabricante. Se interpretó '12 5 1000MG' como 12.5 mg/1000 mg. Medicamento de prescripción. Confirmar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN, registro sanitario y presentación confirmados en la tienda del fabricante.",
+    "notas_imagenes": "4 fotos de frente del empaque: 1 de la tienda del fabricante y 3 de tienda.",
     "fecha": "2026-09-29"
   }
 }

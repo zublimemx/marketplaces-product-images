@@ -4,20 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "AMPLIRON DUO 875 C14 JULIO 27 140",
   "nombres_sistema_alternos": [],
-  "titulo": "Ampliron Duo 875 mg 14 Tabletas",
-  "descripcion": "Descripción:\nAmpliron Duo 875 es un medicamento antibiótico en tabletas, en presentación de 14 tabletas. Por su nombre, corresponde a la combinación de amoxicilina con ácido clavulánico (875 mg/125 mg). Su prescripción, dosis y duración del tratamiento corresponden al médico.\n\nComposición:\nAmoxicilina 875 mg y ácido clavulánico 125 mg por tableta.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y con la frecuencia indicadas por su médico, preferentemente al inicio de los alimentos, y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 tabletas.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. No lo use si es alérgico a las penicilinas o a alguno de los componentes. El uso inadecuado de antibióticos puede favorecer la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ampliron Duo Amoxicilina 875 mg/125 mg 14 Comprimidos",
+  "descripcion": "Descripción:\nAmpliron Duo es un antibiótico en comprimidos que combina amoxicilina con ácido clavulánico. El ácido clavulánico protege a la amoxicilina de las betalactamasas, enzimas que producen algunas bacterias, por lo que amplía su acción frente a gérmenes sensibles. Está indicado en infecciones bacterianas susceptibles, como infecciones de vías respiratorias, de garganta y oído, de piel y tejidos blandos y de vías urinarias, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada comprimido contiene 875 mg de amoxicilina y 125 mg de ácido clavulánico.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que el médico señale; complete el tratamiento indicado aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 comprimidos de 875 mg/125 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la amoxicilina, al ácido clavulánico, a otras penicilinas o antibióticos betalactámicos, ni si ha tenido ictericia o disfunción del hígado relacionada con este medicamento. Consulte a su médico antes de usarlo si padece enfermedad del hígado o del riñón. Puede causar diarrea y reacciones alérgicas. Antibiótico: el uso incorrecto puede causar resistencia bacteriana. Consérvese en un lugar fresco y seco, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ampliron",
-    "variante": "Duo",
-    "presentacion": "Tabletas",
+    "fabricante": "Siegfried Rhein, S.A. de C.V.",
+    "linea": "Duo",
+    "presentacion": "Comprimidos",
     "contenido_neto": 14,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 14,
-    "principio_activo": "Amoxicilina y ácido clavulánico",
-    "concentracion": "875 mg / 125 mg",
+    "principio_activo": "Amoxicilina, ácido clavulánico",
+    "concentracion": "875 mg/125 mg por comprimido",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "057M2007 SSA IV",
+    "otros": "Fabricado en Argentina por Roemmers S.A.I.C.F.; Distribuido en México por Siegfried Rhein; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +32,63 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408136_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__ac2749b7-0dcf-49da-aa6e-894b289b68f3.jpg?v=1744660903",
+      "pagina": "https://wecarepharma.mx/en/products/ampliron-duo-875mg-125mg-con-14-comprimidos-amoxicilina-acido-clavulanico",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501300408136_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__1__0fd10d3f-90be-45d9-8659-e99ff209c0b0.jpg?v=1744660905",
+      "pagina": "https://wecarepharma.mx/en/products/ampliron-duo-875mg-125mg-con-14-comprimidos-amoxicilina-acido-clavulanico",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501300408136_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__4__a07e91dc-51f8-4af9-af5b-fc256aa88dfe.jpg?v=1744660907",
+      "pagina": "https://wecarepharma.mx/en/products/ampliron-duo-875mg-125mg-con-14-comprimidos-amoxicilina-acido-clavulanico",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501300408136_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__3__1acac69a-4137-4d8c-a3cb-e89a1c868250.jpg?v=1744660910",
+      "pagina": "https://wecarepharma.mx/en/products/ampliron-duo-875mg-125mg-con-14-comprimidos-amoxicilina-acido-clavulanico",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/ampliron-duo-875mg125mg-14-comp/MXYZ_7501300408136.html",
+    "https://wecarepharma.mx/en/products/ampliron-duo-875mg-125mg-con-14-comprimidos-amoxicilina-acido-clavulanico"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión antes de llegar a este producto. Datos deducidos del nombre del sistema y de conocimiento general; sin fuentes. La composición amoxicilina/ácido clavulánico 875/125 mg se infirió de Duo 875 y no está confirmada. Falta fabricante. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro y datos del laboratorio leídos del panel lateral de la caja. Una farmacia lo lista como venta sin receta; por ser antibiótico se marca Sí.",
+    "notas_imagenes": "4 fotos de tienda: frente plano, dos en ángulo y panel con registro y código de barras; se descartaron una foto en ángulo pequeña y una vista lateral en blanco.",
     "fecha": "2026-09-29"
   }
 }

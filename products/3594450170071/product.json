@@ -4,21 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "DAFLON 1000 SUSP C30 SOBRES",
   "nombres_sistema_alternos": [],
-  "titulo": "Daflon 1000 mg Suspensión Oral 30 Sobres",
-  "descripcion": "Descripción:\nDaflon 1000 mg en suspensión oral es un medicamento de Servier que contiene una fracción flavonoide purificada y micronizada (diosmina y hesperidina), utilizada como venotónico en problemas de la circulación venosa de las piernas y en molestias hemorroidales. Se presenta en caja con 30 sobres de suspensión oral.\n\nComposición:\n- Fracción flavonoide purificada micronizada (diosmina y hesperidina): 1000 mg por sobre.\n\nModo de uso:\nVía oral. Tome el contenido del sobre en la dosis que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 30 sobres de suspensión oral.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Daflon 1000 Diosmina/Hesperidina 900/100 mg 30 Sobres",
+  "descripcion": "Descripción:\nDaflon 1000 es un medicamento flebotónico y vasoprotector, de Servier distribuido por Sanfer, en suspensión oral. Contiene una fracción flavonoide con diosmina y hesperidina, y cada sobre de 10 ml aporta 900 mg de diosmina y 100 mg de hesperidina. Se utiliza en el tratamiento de la insuficiencia venosa y de las molestias asociadas a las hemorroides.\n\nBeneficios:\n- Ayuda a mejorar el tono de las venas y la circulación de retorno de las piernas.\n- Útil en las molestias de la insuficiencia venosa: sensación de pesadez, dolor y cansancio en las piernas.\n- Apoya el tratamiento de la crisis hemorroidal.\n- Presentación en sobres de suspensión lista para tomar, de una sola toma al día.\n\nComposición:\nCada sobre de 10 ml contiene:\n- Diosmina 900 mg\n- Hesperidina 100 mg\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica su médico. Tome el contenido del sobre directamente o mezclado con un poco de agua, de preferencia con alimentos.\n\nPresentación:\nCaja con 30 sobres de 10 ml de suspensión oral.\n\nAdvertencias:\nSi los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Daflon",
-    "fabricante": "Servier",
+    "fabricante": "Sanfer (Servier)",
+    "linea": "1000",
     "presentacion": "Suspensión oral en sobres",
     "contenido_neto": 30,
     "unidad_contenido": "sobres",
     "unidades_por_envase": 30,
-    "principio_activo": "Fracción flavonoide purificada micronizada (diosmina y hesperidina)",
-    "concentracion": "1000 mg por sobre",
+    "principio_activo": "Diosmina y hesperidina",
+    "concentracion": "900 mg/100 mg por sobre de 10 ml",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: caja con 30 sobres de 10 ml"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457817",
@@ -30,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3594450170071_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594450170071_5.jpg",
+      "pagina": "https://www.fahorro.com/daflon-1000-900-mg-100-mg-suspension-10-ml-con-30-sachets.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1373,
+      "fecha": "2026-09-29",
+      "lado_util": 1272
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/daflon-1000-900-mg-100-mg-suspension-10-ml-con-30-sachets.html",
+    "https://farmalisto.com.mx/presion-arterial/82573-comprar-daflon-1000-suspension-900-100-mg-30-sobres-de-10-ml-precio-3594450170071.html",
+    "https://grupofarmapronto.com/producto/daflon-1000-900-100-mg-c-30-sobres-suspension/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (Servier, fracción flavonoide 1000 mg por sobre). No se confirmó GTIN, registro sanitario ni condición de venta (por eso 'Revisar').",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Las fichas de tienda traen poco texto clínico; las indicaciones son las conocidas de Daflon (insuficiencia venosa y crisis hemorroidal). Se ofrece sin receta en la ficha consultada.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda); una segunda era idéntica y se descartó.",
     "fecha": "2026-09-29"
   }
 }

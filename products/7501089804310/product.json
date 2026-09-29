@@ -4,16 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "RECOVERON N UNG 40GR",
   "nombres_sistema_alternos": [],
-  "titulo": "Recoveron N Ungüento 40 g",
-  "descripcion": "Descripción:\nRecoveron N es un medicamento de uso tópico en presentación de ungüento, con 40 g de producto. Es de uso externo, para aplicarse únicamente sobre la piel.\n\nPresentación:\nUngüento, presentación de 40 g.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos y las mucosas. Consulte la fórmula completa, las indicaciones y el modo de aplicación en el empaque. Suspenda su uso y consulte al médico si aparece irritación o reacción alérgica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Recoverón N Ungüento Acexamato Neomicina 40 g",
+  "descripcion": "Descripción:\nRecoverón-N es un ungüento de uso cutáneo que combina acexamato de sodio y sulfato de neomicina. Se presenta en caja con tubo de 40 g y se utiliza en el cuidado y la cicatrización de la piel lesionada, de acuerdo con las indicaciones de su ficha.\n\nBeneficios:\n- Auxiliar en heridas, quemaduras y procesos de cicatrización.\n- Utilizado en dermatitis, grietas del pezón, escaras infectadas y episiotomías.\n- Presentación en ungüento de fácil aplicación sobre la piel.\n\nComposición:\nAcexamato de sodio 5 g y sulfato de neomicina 0.4 g, en base de ungüento.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona afectada, previamente limpia y seca, con la frecuencia que indique su médico o el empaque. Lávese las manos antes y después de la aplicación.\n\nPresentación:\nCaja con tubo de 40 g de ungüento.\n\nAdvertencias:\nSolo para uso externo. No lo utilice si es alérgico a la neomicina, al acexamato de sodio o a algún componente de la fórmula. Evite el contacto con los ojos. No lo use por periodos prolongados ni en heridas extensas sin indicación médica. Si presenta irritación o la lesión no mejora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Recoveron",
+    "marca": "Recoverón-N",
+    "fabricante": "Armstrong",
     "variante": "N",
     "presentacion": "Ungüento",
     "contenido_neto": 40,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica"
+    "principio_activo": "Acexamato de sodio; sulfato de neomicina",
+    "concentracion": "5 g / 0.4 g",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: caja con tubo de 40 g"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -27,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089804310_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://storage.googleapis.com/rec-productos/7501089804310.jpg",
+      "pagina": "https://www.smrey.com/p/unguento-cutaneo-recoveron-n-40gr-7501089804310",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1055,
+      "fecha": "2026-09-29",
+      "lado_util": 976
+    },
+    {
+      "archivo": "7501089804310_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmalisto.com.mx/95730-large_default/recoveron-n-ungueento-5-g-04-g-caja-con-tubo-con-40-g.jpg",
+      "pagina": "https://www.smrey.com/p/unguento-cutaneo-recoveron-n-40gr-7501089804310",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 1045,
+      "fecha": "2026-09-29",
+      "lado_util": 968
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/3435-recoveron-n-ungueento-5-g-04-g-caja-con-tubo-con-40-g-7501089804310.html",
+    "https://grupofarmapronto.com/producto/recoveron-n-40-g-unguento/",
+    "https://www.smrey.com/p/unguento-cutaneo-recoveron-n-40gr-7501089804310"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la fórmula ni el fabricante; si contiene un antibiótico podría requerir receta. Descripción mínima. Repetir con búsqueda por GTIN.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 3 tiendas. Contiene un antibiótico tópico (neomicina): una tienda lo clasifica como dermatológico con receta y otra como sin receta; verificar. Sin sitio oficial de la marca.",
+    "notas_imagenes": "2 fotos de tienda (frente y ángulo del empaque).",
     "fecha": "2026-09-29"
   }
 }

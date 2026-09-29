@@ -4,15 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "MANZANILLA SOPHIA GOTAS",
   "nombres_sistema_alternos": [],
-  "titulo": "Manzanilla Sophia Gotas Oftálmicas",
-  "descripcion": "Descripción:\nManzanilla Sophia en gotas, producto de la marca Sophia. Se trata de un producto de uso oftálmico a base de manzanilla; consulte en el empaque la composición completa, las indicaciones, el contenido y el modo de empleo.\n\nModo de uso:\nUso oftálmico (gotas en el ojo). Lávese las manos antes de aplicar y evite que la punta del gotero toque el ojo, los párpados o los dedos. Aplique según las indicaciones del empaque y cierre bien el frasco después de cada uso.\n\nPresentación:\nFrasco gotero.\n\nAdvertencias:\nNo lo use si el envase está dañado. Suspenda su uso si presenta dolor, enrojecimiento intenso, cambios en la visión o irritación que empeora, y consulte a su médico. Si usa lentes de contacto, retírelos antes de aplicar. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Manzanilla Sophia Gotas Oftálmicas 15 ml",
+  "descripcion": "Descripción:\nManzanilla Sophia es una solución oftálmica de origen natural a base de manzanilla (Matricaria recutita), purificada y estéril, que se presenta en frasco gotero de 15 ml. Limpia y refresca los ojos y ofrece descanso visual después de un día largo.\n\nBeneficios:\n- Limpia y refresca los ojos\n- Ayuda a remover las partículas que se introducen en los ojos al desmaquillarse\n- Desinflama los párpados de manera natural en casos de desvelo, estrés o molestias de tipo alérgico\n- Puede utilizarse también en compresas para los párpados\n\nComposición:\nSolución de manzanilla (Matricaria recutita). Consulte la fórmula completa en el empaque.\n\nModo de uso:\nVía oftálmica (tópica). Aplique de 2 a 3 gotas en cada ojo, en el saco conjuntival, las veces que sea necesario, pudiendo repetirse cada 4 a 6 horas. También puede humedecer compresas y colocarlas sobre los párpados.\n\nPresentación:\nFrasco gotero con 15 ml.\n\nAdvertencias:\nUso externo oftálmico. En caso de embarazo o lactancia, consulte a su médico. Evite el contacto de la punta del gotero con los ojos o con cualquier superficie para no contaminar la solución. Si presenta irritación, dolor o molestias que persistan, suspenda su uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sophia",
-    "variante": "Manzanilla",
-    "presentacion": "Gotas oftálmicas",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Manzanilla Sophia",
+    "presentacion": "Solución oftálmica (gotero)",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Manzanilla (Matricaria recutita)",
+    "via_administracion": "Oftálmica (tópica)",
+    "otros": "Formato de venta: unidad; Producto de origen natural"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -26,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085278507_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/736085278507_5a8e4061-d709-4908-b2a7-c42a886d7d9f.jpg?v=1701387325&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/1561",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 882,
+      "fecha": "2026-09-29",
+      "lado_util": 817
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Oftalmicos/2433-manzanilla-sophia-gotas-con-15-ml.html",
+    "https://curitek.com/producto/manzanilla-sophia-solucion-oftalmica/",
+    "https://farmaciasanjorge.com/products/1561"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El nombre solo dice Manzanilla Sophia gotas; se asumió uso oftálmico por conocimiento general de la marca, pero debe confirmarse. Se desconocen contenido (ml) y composición, por eso el título no lleva volumen. El GTIN de 12 dígitos no tiene prefijo mexicano (750). Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN es UPC de 12 dígitos (0736085278507). Se omitió la concentración porque las fuentes no coinciden.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda). Se borraron otras dos por llevar marca de agua de la tienda.",
     "fecha": "2026-09-29"
   }
 }

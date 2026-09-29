@@ -4,38 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "CLENDIX 300MG C 16 ABRIL 27 SIEGFRIED 252",
   "nombres_sistema_alternos": [],
-  "titulo": "Clendix 300 mg Siegfried 16 Cápsulas",
-  "descripcion": "Descripción:\nClendix 300 mg es un medicamento del laboratorio Siegfried, presentado en caja con 16 unidades. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 16 cápsulas de 300 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Clendix Clindamicina 300 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nClendix es un antibiótico en cápsulas a base de clindamicina, del laboratorio Siegfried. Cada cápsula contiene clorhidrato de clindamicina equivalente a 300 mg de clindamicina. Se emplea en el tratamiento de infecciones causadas por bacterias sensibles y es una alternativa frecuente en pacientes alérgicos a la penicilina, siempre bajo indicación médica.\n\nBeneficios:\nEstá indicado en el tratamiento de:\n- Infecciones de las vías respiratorias superiores e inferiores.\n- Infecciones de la piel y tejidos blandos.\n- Infecciones de huesos y articulaciones.\n- Infecciones ginecológicas e intraabdominales.\n- Infecciones dentales y odontogénicas.\n\nComposición:\n- Clindamicina (como clorhidrato) 300 mg por cápsula\n- Excipiente cbp 1 cápsula\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina su médico según el tipo y la gravedad de la infección. Complete el tratamiento aunque se sienta mejor.\n\nPresentación:\nCaja con 16 cápsulas de 300 mg.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No se automedique ni comparta este medicamento. Suspenda su uso y consulte a su médico si presenta diarrea intensa o reacciones alérgicas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Clendix",
-    "fabricante": "Siegfried",
+    "fabricante": "Siegfried Rhein",
     "presentacion": "Cápsulas",
     "contenido_neto": 16,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 16,
+    "principio_activo": "Clindamicina",
     "concentracion": "300 mg",
-    "via_administracion": "Oral"
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños (según indicación médica)",
+    "otros": "Formato de venta: caja con 16 cápsulas; Requiere receta médica"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300420916_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300420916_1.jpg",
+      "pagina": "https://www.fahorro.com/clendix-300-mg-16-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1461,
+      "fecha": "2026-09-29",
+      "lado_util": 1353
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/clendix-300-mg-16-caps.html",
+    "https://www.actuamed.com.mx/marca/30324",
+    "https://www.yza.mx/clendix-300-mg---caja-con-16-capsulas-clindamicina/MXYZ_7501300420916.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Por conocimiento general Clendix sería clindamicina 300 mg en cápsulas (antibiótico que en México requiere receta), pero no se confirmó, por eso no se puso el principio activo. Si se confirma, cambiar receta_mx a 'Sí' y categoria_rx_sugerida a MLM457827. Que sean cápsulas también es una deducción.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Antibiótico: en México requiere receta.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

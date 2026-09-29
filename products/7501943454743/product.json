@@ -33,17 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943454743_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501943454743.jpg",
+      "pagina": "https://www.emeritafarmacias.com/wp-content/uploads/7501943454743.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1027,
+      "fecha": "2026-09-29",
+      "lado_util": 949
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/toallitas/13295-comprar-huggies-natural-care-toallitas-humedas-empaque-con-80-toallas-bebe-precio-7501943454743.html",
-    "https://farmaciasmedina.com/detalleProducto/Huggies-Toallitas-H%C3%BAmedas-Cuidado-Hidratante/7501943454743"
+    "https://farmaciasmedina.com/detalleProducto/Huggies-Toallitas-H%C3%BAmedas-Cuidado-Hidratante/7501943454743",
+    "https://www.emeritafarmacias.com/wp-content/uploads/7501943454743.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado con 80 piezas. Una farmacia lo nombra Natural Care sin aroma y otras Cuidado Hidratante; es el mismo GTIN. Las fuentes no traen lista de ingredientes ni modo de uso, por eso esas secciones son generales.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto(s), origen tienda: 1 de emeritafarmacias.com (7501943454743_1.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Solo se halló una foto utilizable (farmalisto/Sears/Medina dieron captcha, 403 o <500 px)."
   }
 }

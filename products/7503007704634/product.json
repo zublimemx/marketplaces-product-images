@@ -4,39 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "SOMAZINA 500 MG C 20 COMPR",
   "nombres_sistema_alternos": [],
-  "titulo": "Somazina 500 mg 20 Comprimidos",
-  "descripcion": "Descripción:\nSomazina 500 mg es un medicamento en comprimidos de administración oral. Se comercializa en caja con 20 comprimidos. No se pudo confirmar su indicación aprobada, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 20 comprimidos de 500 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Somazina Citicolina 500 mg 20 Comprimidos Recubiertos",
+  "descripcion": "Descripción:\nSomazina es un medicamento de Ferrer cuyo principio activo es la citicolina, en comprimidos recubiertos de 500 mg. Se utiliza, bajo indicación médica, en trastornos neurológicos y cognitivos, como secuelas de enfermedad cerebrovascular, traumatismos craneoencefálicos y deterioro cognitivo. La citicolina es un precursor de los fosfolípidos de las membranas de las neuronas.\n\nCaracterísticas:\n- Comprimidos recubiertos de 500 mg de citicolina.\n- Presentación de 20 comprimidos.\n- Clasificación ATC: N06BX06.\n\nComposición:\nCada comprimido recubierto contiene 500 mg de citicolina y excipientes.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 20 comprimidos recubiertos de 500 mg.\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad a la citicolina o a alguno de los componentes. Se recomienda precaución en pacientes con antecedentes de enfermedad cardiovascular, hipertensión, epilepsia o problemas de coagulación, y no se recomienda durante el embarazo y la lactancia salvo indicación médica. Conservar a temperatura ambiente entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Somazina",
+    "fabricante": "Ferrer",
+    "linea": "Somazina",
     "variante": "500 mg",
-    "presentacion": "Comprimidos",
+    "presentacion": "Comprimidos recubiertos",
     "contenido_neto": 20,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 20,
+    "principio_activo": "Citicolina",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 20 comprimidos"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "508M2003 SSA IV",
+    "otros": "Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457812",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503007704634_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7503007704634_1.jpg",
+      "pagina": "https://www.yza.mx/somazina-500mg-20-comp/MXYZ_7503007704634.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 822,
+      "fecha": "2026-09-29",
+      "lado_util": 762
+    },
+    {
+      "archivo": "7503007704634_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7503007704634_1.jpg",
+      "pagina": "https://www.yza.mx/somazina-500mg-20-comp/MXYZ_7503007704634.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 527,
+      "fecha": "2026-09-29",
+      "lado_util": 488
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/5604",
+    "https://farmalisto.com.mx/sistema-nervioso-central/8249-somazina-500-mg-caja-con-20-comprimidos-recubiertos-7503007704634.html",
+    "https://curitek.com/producto/somazina-citicolina/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Se sospecha que Somazina es citicolina (grupo del sistema nervioso), dato de conocimiento general sin confirmar; por eso el principio activo no aparece en título, descripción ni ficha, y la categoría Sistema Nervioso Venta Libre es provisional. Si se confirma citicolina, revisar si requiere receta (categoría rx MLM457836). Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. Registro sanitario tomado de la ficha de un distribuidor. Las indicaciones provienen de fichas de farmacias, no de la etiqueta. Receta: dos fichas la marcan con receta y una sin receta; se dejó como con receta.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Somazina 500 mg, caja con 20 comprimidos.",
     "fecha": "2026-09-29"
   }
 }

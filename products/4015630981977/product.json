@@ -16,7 +16,8 @@
     "unidad_contenido": "tiras",
     "unidades_por_envase": 50,
     "edad_etapa": "Adultos",
-    "otros": "Compatible con: medidor Accu-Chek Performa; Volumen de muestra: 0.6 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Enzimática electroquímica; Formato de venta: Caja"
+    "otros": "Compatible con: medidor Accu-Chek Performa; Volumen de muestra: 0.6 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Enzimática electroquímica; Formato de venta: Caja",
+    "registro_sanitario": "1445R2014 SSA"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,16 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4015630981977_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.accu-chek.com.mx/sites/g/files/iut326/f/media_root/product_media_files/product_images/accu-chek_performa_tiras_reactivas_reg_sanitario_0.png",
+      "pagina": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
+      "ancho_original": 379,
+      "alto_original": 519,
+      "lado_final": 560,
+      "fecha": "2026-09-29",
+      "lado_util": 454
+    },
+    {
+      "archivo": "4015630981977_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0818/0544/3355/products/4015630981977_1c37c98a-9850-4d31-86ce-4520761ede1c.jpg?v=1701391320",
+      "pagina": "https://farmaciasanjorge.com/products/16792",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1074,
+      "fecha": "2026-09-29",
+      "lado_util": 995
+    }
+  ],
   "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
   "fuentes": [
-    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa"
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
+    "https://farmaciasanjorge.com/products/16792"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Performa (presentaciones de 25 y 50 tiras). Es un insumo de diagnóstico, no un medicamento. Sin hoja específica para tiras reactivas en los CSV: se usó Medidores de Glucosa, igual que en el lote 1. Registro sanitario no visible en la página.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos: caja Accu-Chek Performa 50 tiras del fabricante (accu-chek.com.mx, 519 px, con leyenda 'Reg. No. 1445R2014 SSA') y foto de tienda 1000 px (farmaciasanjorge.com)."
   }
 }

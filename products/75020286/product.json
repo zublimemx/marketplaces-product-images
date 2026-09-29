@@ -4,21 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SIMILAXOL C 50 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Similaxol 50 Tabletas",
-  "descripcion": "Descripción:\nSimilaxol en presentación de caja con 50 tabletas. Producto de la línea de farmacia; consulte en el empaque la composición, las indicaciones y la dosis.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Similaxol 78 Fenolftaleína Amarilla 100 mg 50 Tabletas",
+  "descripcion": "Descripción:\nSimilaxol 78 es un medicamento homeopático en tabletas de Similia, con indicación terapéutica de laxante. Ayuda a prevenir o tratar algunos casos de estreñimiento o constipación, es decir, cuando una persona tiene tres o menos evacuaciones en una semana y las heces pueden ser duras y secas, lo que vuelve dolorosa la evacuación. Se presenta en frasco con 50 tabletas.\n\nCaracterísticas:\n- Medicamento homeopático con acción laxante.\n- Cada tableta contiene fenolftaleína amarilla SM 100 mg.\n- Se toma por la noche, al acostarse.\n- Puede usarse en adultos y en niños mayores de 5 años.\n\nComposición:\nCada tableta contiene fenolftaleína amarilla SM 100 mg. Excipiente c.b.p. 1 tableta.\n\nModo de uso:\nVía oral. Adultos: tomar una o dos tabletas por la noche al acostarse. Niños mayores de 5 años: tomar una tableta en igual forma.\n\nPresentación:\nFrasco con 50 tabletas.\n\nAdvertencias:\n- En caso de diarrea o dolor abdominal, consulte a su médico.\n- No lo use en cuadros de dolor abdominal agudo ni con sospecha de apendicitis.\n- No lo use durante el embarazo o la lactancia, ni en menores de 5 años.\n- Si el dolor abdominal o la diarrea persisten, consulte a su médico.\n- Consérvese a temperatura ambiente, a no más de 25 °C, en un lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Similaxol",
-    "presentacion": "Tabletas",
+    "fabricante": "Similia",
+    "linea": "78",
+    "variante": "Homeopático",
+    "presentacion": "Tabletas en frasco",
     "contenido_neto": 50,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 50,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Fenolftaleína amarilla SM",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 5 años",
+    "otros": "Medicamento homeopático; Indicación: laxante; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75020286_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/planogram__1__177d923d-cc30-461d-a8ce-f6862bdeaa6e.jpg?v=1732559675&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/similaxol-con-50-comprimidos-espiga",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 1978,
+      "fecha": "2026-09-29",
+      "lado_util": 1832
+    },
+    {
+      "archivo": "75020286_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://supernaturista.com/cdn/shop/products/20286_c8dbef41-7559-4f7f-8926-4edacd006828.jpg?v=1752513041",
+      "pagina": "https://supernaturista.com/products/similaxol-50-tab-similia",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1937,
+      "fecha": "2026-09-29",
+      "lado_util": 1794
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://jung.com.mx/tienda/tienda-en-linea/suplementos-alimenticios/sistema-digestivo/similaxol-78-similia-50-tabletas-de-100-mg/",
+    "https://nutricosta.mx/producto/similaxol-50-tabletas/",
+    "https://farmaciasmedina.com/detalleProducto/Similaxol_78_Tab_50/75020286"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título, ficha y categoría se deducen solo del nombre del sistema (Similaxol, caja con 50 tabletas). Se desconoce el principio activo, por eso se usó Otros Medicamentos y receta_mx Revisar. El GTIN es un EAN-8. Requiere reinvestigar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN de 8 dígitos aparece como código de producto en varias tiendas (frasco de 50 tabletas). Fórmula y dosis se leyeron en la foto de la etiqueta y coinciden con las fichas. 'SM' es como aparece en la etiqueta junto a la fenolftaleína; no se pudo confirmar su significado. Es un medicamento homeopático de venta libre.",
+    "notas_imagenes": "2 fotos de tienda (Farmacia Herrera y Súper Naturista), frasco con la etiqueta legible. Se descartó una tercera por ser más opaca y pequeña.",
     "fecha": "2026-09-29"
   }
 }

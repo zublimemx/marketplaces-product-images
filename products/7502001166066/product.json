@@ -4,18 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "BARMICIL 40G SONS BETAMETASONA GENTAMICINA CLOTRIMAZOL",
   "nombres_sistema_alternos": [],
-  "titulo": "Barmicil Betametasona Gentamicina Clotrimazol 40 g",
-  "descripcion": "Descripción:\nBarmicil es un medicamento de uso tópico que combina betametasona (corticosteroide), gentamicina (antibiótico) y clotrimazol (antimicótico), en presentación de 40 g. Su uso, dosis y duración deben ser indicados por el médico. Consulte en el empaque las concentraciones y las indicaciones.\n\nComposición:\nBetametasona, gentamicina y clotrimazol. Consulte la concentración de cada componente en el empaque.\n\nModo de uso:\nUso externo. Aplique una capa delgada sobre la zona afectada limpia y seca, en la frecuencia y por el tiempo que indique su médico. No lo use por más tiempo del indicado.\n\nPresentación:\nEnvase con 40 g.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. Solo para uso externo; evite el contacto con los ojos y las mucosas. No lo use si es alérgico a alguno de los componentes. Suspenda su uso y consulte a su médico si aparece irritación o si la lesión no mejora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Barmicil Compuesto Betametasona Clotrimazol Gentamicina 40 g",
+  "descripcion": "Descripción:\nBarmicil Compuesto es una crema de uso tópico de Química Son's que combina un corticoide (betametasona), un antimicótico (clotrimazol) y un antibiótico (gentamicina). Se presenta en tubo de 40 g y se utiliza en afecciones de la piel inflamatorias o con picazón que se acompañan de infección por hongos o por bacterias.\n\nBeneficios:\n- Tres principios activos en una sola crema: antiinflamatorio, antimicótico y antibacteriano\n- Útil en dermatitis y en infecciones de la piel por hongos como la candidiasis, y en infecciones bacterianas superficiales\n- Presentación en tubo de 40 g\n\nComposición:\nCada 100 g de crema contienen betametasona 50 mg (0.05 %), clotrimazol 1 g (1 %) y gentamicina 100 mg (0.1 %). Excipiente cbp.\n\nModo de uso:\nVía tópica. Aplique una capa delgada sobre la zona afectada, previamente limpia y seca, con la frecuencia y durante el tiempo que indique su médico.\n\nPresentación:\nTubo con 40 g de crema.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos y las mucosas. No lo use si es alérgico a alguno de los componentes. No lo use por periodos prolongados ni sobre zonas extensas sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Barmicil",
-    "fabricante": "Sons",
-    "presentacion": "Tópica (crema o ungüento por confirmar)",
+    "fabricante": "Química Son's",
+    "linea": "Compuesto",
+    "presentacion": "Crema",
     "contenido_neto": 40,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "principio_activo": "Betametasona, gentamicina y clotrimazol",
+    "principio_activo": "Betametasona, clotrimazol y gentamicina",
+    "concentracion": "0.05 % / 1 % / 0.1 %",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: tubo de 40 g"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502001166066_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciapvr.com/wp-content/uploads/2021/06/farmacia-pvr-barmicil-40g.jpg",
+      "pagina": "https://farmaciapvr.com/en/producto/barmicil-cream-40g/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 409
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.cadistribucion.mx/shop/7502001166066-barmicil-compuesto-crema-40-g-19176",
+    "https://farmaciapvr.com/en/producto/barmicil-cream-40g/",
+    "https://farmaciasiguales.com/products/gentamicina-clotrimazol-betametasona-10-1-0-0-05g-tubo-con-40gr-cremabarmicil-compuesto"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Principios activos y 40 g salen del nombre del sistema; SONS se tomó como laboratorio sin confirmar. No se sabe si es crema o ungüento (por eso no aparece en el título) ni las concentraciones. receta_mx = Sí por combinar corticosteroide con antibiótico, pendiente de confirmar. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La condición de receta se dedujo de combinar un antibiótico y un corticoide tópicos; no se vio la leyenda del empaque. Las indicaciones salen de etiquetas de tiendas.",
+    "notas_imagenes": "1 foto de la caja en ángulo con el tubo de 40 g (tienda). Otras fuentes traían marca de agua.",
     "fecha": "2026-09-29"
   }
 }

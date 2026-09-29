@@ -4,19 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "HYABAK 0 15 SOL OFT 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Hyabak Solución Oftálmica Hialuronato 0.15% 10 ml",
-  "descripcion": "Descripción:\nHyabak, de Laboratoires Théa, es una solución oftálmica lubricante e hidratante con hialuronato de sodio al 0.15 %, para aliviar la sensación de resequedad e incomodidad en los ojos. Se presenta en frasco multidosis de 10 ml y está formulada sin conservadores.\n\nBeneficios:\n- El hialuronato de sodio ayuda a lubricar e hidratar la superficie del ojo.\n- Fórmula sin conservadores, pensada para uso frecuente.\n- Frasco de 10 ml con sistema de goteo multidosis.\n\nComposición:\nHialuronato de sodio 0.15 % en solución oftálmica estéril.\n\nModo de uso:\nVía oftálmica. Aplique una gota en cada ojo las veces que sea necesario o según la indicación de su especialista. Evite tocar la punta del frasco con los dedos, con el ojo o con cualquier superficie, y cierre el frasco después de cada uso. Si usa lentes de contacto, consulte a su oftalmólogo antes de aplicarlo.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el envase está dañado o abierto antes de su primer uso. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Hyabak Hialuronato de Sodio 0.15% Solución Oftálmica 10 ml",
+  "descripcion": "Descripción:\nHyabak, de Laboratorios Théa, es una solución oftálmica sin conservadores con hialuronato de sodio al 0.15% para la hidratación y lubricación de los ojos y de las lentes de contacto. Se presenta en caja con frasco de 10 ml.\n\nBeneficios:\n- Lubricante y humectante ocular en alteraciones del tejido lagrimal por evaporación excesiva de las lágrimas, conocidas como ojo seco.\n- Ayuda a aliviar la irritación y la sequedad por factores ambientales como polen, polvo, resplandor, contaminación y uso de monitores de computadora.\n- Asegura la protección de la superficie ocular durante los procesos de reparación del epitelio de la córnea.\n- Sin conservadores; puede usarse con lentes de contacto.\n\nComposición:\nCada ml contiene hialuronato de sodio 1.5 mg y vehículo cbp 1 ml.\n\nModo de uso:\nVía oftálmica. Aplique una gota en cada ojo, tantas veces como sea necesario. Para usuarios de lentes de contacto, aplique una gota en cada lente al ponerlo y/o al quitarlo. Evite tocar el ojo o los párpados con la punta del frasco.\n\nPresentación:\nCaja con frasco de 10 ml.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Una vez abierto el frasco, no lo conserve por más de 8 semanas. Consérvese a temperatura no mayor a 25 °C. Si la molestia persiste, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Hyabak",
-    "fabricante": "Laboratoires Théa",
+    "fabricante": "Théa",
     "presentacion": "Solución oftálmica (gotas)",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Hialuronato de sodio",
-    "concentracion": "0.15 %",
+    "concentracion": "0.15 % (1.5 mg/ml)",
     "via_administracion": "Oftálmica",
-    "otros": "Sin conservadores: Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+    "otros": "Sin conservadores; Apto para lentes de contacto; Una vez abierto no conservar más de 8 semanas; Formato de venta: Caja"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3662042003240_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3662042003240_3.jpg",
+      "pagina": "https://www.fahorro.com/hyabak-0-15-oftalmica-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1415,
+      "fecha": "2026-09-29",
+      "lado_util": 1309
+    },
+    {
+      "archivo": "3662042003240_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3662042003240_1.jpg",
+      "pagina": "https://www.fahorro.com/hyabak-0-15-oftalmica-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1426,
+      "fecha": "2026-09-29",
+      "lado_util": 1321
+    },
+    {
+      "archivo": "3662042003240_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3662042003240_2.jpg",
+      "pagina": "https://www.fahorro.com/hyabak-0-15-oftalmica-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1491,
+      "fecha": "2026-09-29",
+      "lado_util": 1381
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/hyabak-0-15-oftalmica-10-ml.html",
+    "https://www.klyns.mx/hyabak-0-15-ofteno-lub-10-ml/p",
+    "https://www.farmaciapal.com/ojo-seco/hyabak-015-acido-hialuronico-10ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre del sistema (Hyabak 0.15 %, 10 ml) y conocimiento general de la línea Théa. La afirmación de que es sin conservadores viene de conocimiento general, confirmar en el empaque. Puede estar registrado como dispositivo médico y no como medicamento; revisar con la política de ML para oftálmicos. Registro sanitario pendiente.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. Fórmula, dosis y plazo de 8 semanas tomados de la parte trasera de la caja mexicana (foto). Sin leyenda de receta en la caja.",
+    "notas_imagenes": "3 fotos de tienda: frente, parte trasera con fórmula y dosis, y vista en ángulo de la caja de 10 ml.",
     "fecha": "2026-09-29"
   }
 }

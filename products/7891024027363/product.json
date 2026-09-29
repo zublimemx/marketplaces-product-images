@@ -5,17 +5,19 @@
   "nombre_sistema": "ENJ BUC PLAX ICE INFINITY 60ML",
   "nombres_sistema_alternos": [],
   "titulo": "Enjuague Bucal Colgate Plax Ice Infinity 60 ml",
-  "descripcion": "Descripción:\nEnjuague bucal de la línea Plax de Colgate, versión Ice Infinity, en presentación de 60 ml. Es un formato práctico para llevar y usar durante el día. Consulte el empaque para conocer sus ingredientes, beneficios y modo de uso.\n\nPresentación:\nFrasco de 60 ml.\n\nModo de uso:\nDespués del cepillado, enjuague la boca con la cantidad indicada en la etiqueta durante el tiempo señalado y escupa. No enjuague con agua después de usarlo.\n\nAdvertencias:\nProducto de uso oral externo: no lo trague. Manténgase fuera del alcance de los niños; en caso de ingestión accidental, busque atención médica. Evite el contacto con los ojos. Lea las indicaciones de la etiqueta del empaque.",
+  "descripcion": "Descripción:\nEnjuague bucal Colgate Plax Ice Infinity en presentación de 60 ml, un formato práctico para llevar contigo y mantener la frescura durante el día. Su fórmula no contiene alcohol, por lo que no produce sensación de ardor, y ofrece una frescura intensa. Sus microcristales ayudan a reforzar la limpieza de la boca.\n\nBeneficios:\n- Sin alcohol: no arde y es más agradable de usar.\n- Ayuda a eliminar los gérmenes que causan el mal aliento; el empaque indica hasta 99 % de gérmenes.\n- Frescura intensa y duradera, con sabor intenso.\n- Ayuda a remover la placa y los residuos, y contribuye al cuidado de las encías.\n- Formato de 60 ml, fácil de guardar en bolsa, mochila o botiquín de viaje.\n\nModo de uso:\nÚselo después del cepillado, dos veces al día o según la recomendación de su odontólogo. Enjuague la boca con la cantidad indicada en la etiqueta durante el tiempo señalado y escupa. No lo degluta.\n\nPresentación:\nFrasco con 60 ml de enjuague bucal.\n\nAdvertencias:\nProducto para higiene bucal; no está destinado a ingerirse. Manténgase fuera del alcance de los niños. Si se ingiere accidentalmente, busque ayuda médica. Consulte el empaque para conocer los ingredientes y las precauciones.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
     "linea": "Plax",
     "variante": "Ice Infinity",
-    "presentacion": "Enjuague bucal",
+    "presentacion": "Frasco",
     "contenido_neto": 60,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad; Tamaño: Viaje"
+    "sabor_aroma": "Intenso",
+    "edad_etapa": "Adultos",
+    "otros": "Sin alcohol; Formato de venta: Pieza"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +31,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7891024027363_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891024027363.jpg",
+      "pagina": "https://www.fahorro.com/enjuage-bucal-plax-ice-infinity-60-ml-bote.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1437,
+      "fecha": "2026-09-29",
+      "lado_util": 1331
+    },
+    {
+      "archivo": "7891024027363_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891024027363_4_1.jpg",
+      "pagina": "https://www.fahorro.com/enjuage-bucal-plax-ice-infinity-60-ml-bote.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1272,
+      "fecha": "2026-09-29",
+      "lado_util": 1178
+    }
+  ],
+  "url_oficial": "https://www.colgate.com/es-co/products/mouthwash/plax-ice-infinity",
+  "fuentes": [
+    "https://www.colgate.com/es-co/products/mouthwash/plax-ice-infinity",
+    "https://www.fahorro.com/enjuage-bucal-plax-ice-infinity-60-ml-bote.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (enjuague bucal Plax Ice Infinity, 60 ml); Plax es marca de Colgate-Palmolive y el prefijo 789102 corresponde a Colgate-Palmolive Brasil, por lo que el producto probablemente es de importación. No se verificó el sabor, si contiene alcohol ni los ingredientes. El modo de uso es genérico de enjuagues bucales. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una farmacia mexicana (60 ml). La ficha del fabricante consultada es la de Colombia; por posibles diferencias de fórmula entre países no se incluyó lista de ingredientes (ver empaque).",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea) del frasco de 60 ml; la segunda muestra el contenido 60 ml y el sello de 99 % en la etiqueta. El sitio del fabricante bloqueó el acceso.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,16 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "SEDALMERCK MAX TAB24 225",
   "nombres_sistema_alternos": [],
-  "titulo": "Sedalmerck Max 24 Tabletas",
-  "descripcion": "Descripción:\nSedalmerck Max en tabletas, presentación con 24 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sedalmerck Max Paracetamol Cafeína 650 mg/65 mg 24 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck Max es un analgésico en tabletas que combina 650 mg de paracetamol con 65 mg de cafeína. La cafeína aporta un mayor efecto analgésico en comparación con un tratamiento sin cafeína. Está indicado para dolores de cabeza y migraña, dolores musculares, articulares, dentales y de espalda.\n\nComposición:\nCada tableta contiene paracetamol al 90% equivalente a 650 mg de paracetamol y 65 mg de cafeína. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: tomar de 1 a 2 tabletas cada 8 horas, sin exceder las 6 tabletas al día. No tomar por más de 5 días.\n\nPresentación:\nCaja con 24 tabletas en blíster.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. No lo use si es alérgico a los componentes de la fórmula ni si tiene alteraciones del hígado. No exceda la dosis recomendada ni lo use por más de cinco días, ya que el paracetamol usado por periodos prolongados puede ocasionar daño hepático. No se use en menores de 12 años. No tome bebidas alcohólicas mientras toma este producto. Si padece diabetes mellitus, hipertensión o enfermedad cardiaca, o si toma anticoagulantes u otros medicamentos, consulte a su médico antes de usarlo. Puede causar insomnio, taquicardia, palpitaciones o nerviosismo. Consérvese la caja bien cerrada y a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sedalmerck",
-    "variante": "Max",
-    "presentacion": "Tabletas",
+    "fabricante": "Merck, S.A. de C.V. (para Procter & Gamble México)",
+    "linea": "Max",
+    "presentacion": "Tabletas en blíster",
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
-    "via_administracion": "Oral"
+    "principio_activo": "Paracetamol, cafeína",
+    "concentracion": "650 mg/65 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Formato de venta: Caja con 24 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -27,14 +32,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298215099_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__390977ca-581b-4367-96a0-efba92e8d1c4.jpg?v=1744689638",
+      "pagina": "https://wecarepharma.mx/en/products/sedalmerck-max-650mg-65mg-con-24-tabletas-paracetamol-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501298215099_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__1__ed38098e-adab-43bc-9162-0254d496b904.jpg?v=1744689642",
+      "pagina": "https://wecarepharma.mx/en/products/sedalmerck-max-650mg-65mg-con-24-tabletas-paracetamol-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501298215099_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/product_image__4__c193d80a-3e70-45c8-8cb1-2debe3a4f3f6.jpg?v=1744689644",
+      "pagina": "https://wecarepharma.mx/en/products/sedalmerck-max-650mg-65mg-con-24-tabletas-paracetamol-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501298215099_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__7__b57289a3-f51a-4d91-9941-aecd24857d31.jpg?v=1744689648",
+      "pagina": "https://wecarepharma.mx/en/products/sedalmerck-max-650mg-65mg-con-24-tabletas-paracetamol-cafeina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/sedalmerck-max-blist-24-tabs/MXYZ_7501298215099.html",
+    "https://www.fahorro.com/sedalmerck-max-24-tabletas.html",
+    "https://wecarepharma.mx/en/products/sedalmerck-max-650mg-65mg-con-24-tabletas-paracetamol-cafeina"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre (Sedalmerck Max, 24 tabletas; el 225 del nombre se ignoró). No se confirmaron principios activos ni fabricante; se asumió analgésico de venta libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Dosis, indicación y advertencias leídas de la foto del reverso de la caja.",
+    "notas_imagenes": "4 fotos de tienda: frente plano, dos en ángulo y reverso con indicaciones y advertencias; se descartaron una foto pequeña y una vista lateral.",
     "fecha": "2026-09-29"
   }
 }

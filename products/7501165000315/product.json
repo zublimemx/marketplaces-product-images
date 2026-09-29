@@ -4,15 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "NEO MELUBRINA JBE 84",
   "nombres_sistema_alternos": [],
-  "titulo": "Neo-Melubrina Jarabe Metamizol Sódico",
-  "descripcion": "Descripción:\nNeo-Melubrina en jarabe, medicamento cuyo principio activo es el metamizol sódico (dipirona), con acción analgésica y antipirética. Consulte en el empaque la concentración exacta, el contenido, las indicaciones y la dosis según la edad y el peso.\n\nComposición:\nMetamizol sódico. Consulte la concentración por dosis en el empaque.\n\nModo de uso:\nVía oral. Administre la dosis indicada en el empaque o por su médico, con un dosificador adecuado. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nFrasco con jarabe.\n\nAdvertencias:\nNo lo use si es alérgico al metamizol, a otras pirazolonas o a algún componente de la fórmula. Suspenda su uso y consulte a su médico si presenta fiebre que no cede, erupciones en la piel, dolor de garganta o cualquier reacción inusual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Neo-Melubrina Infantil Jarabe 250 mg/5 ml 100 ml",
+  "descripcion": "Descripción:\nNeo-Melubrina Infantil es un jarabe cuyo principio activo es el metamizol sódico, un analgésico no narcótico derivado de la pirazolona con efectos analgésicos, antipiréticos y espasmolíticos. Está indicado en el tratamiento del dolor severo y de la fiebre refractaria, y su presentación infantil está pensada para niños de 2 a 12 años. Viene en frasco de 100 ml con sabor frambuesa e incluye pipeta y vaso dosificador.\n\nBeneficios:\n- Ayuda a controlar el dolor intenso y la fiebre que no cede con otros medios\n- Presentación líquida con dosificador para ajustar la dosis según el peso del niño\n- Sabor frambuesa\n\nComposición:\nCada 100 ml de jarabe contienen 5,000 mg de metamizol sódico monohidratado; cada 5 ml equivalen a 250 mg de metamizol sódico. Contiene glucosa (5 ml equivalen a 3.5 g de glucosa). Vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. La dosis habitual en fiebre o dolor moderado es de 10 a 15 mg por kg de peso en cada toma, que puede repetirse cada 6 a 8 horas. En dolores más intensos el médico puede indicar dosis mayores. Use siempre el dosificador incluido y siga la indicación del médico.\n\nPresentación:\nFrasco con 100 ml de jarabe, con pipeta y vaso dosificador.\n\nAdvertencias:\nNo exceda la dosis indicada. Si el dolor o la fiebre persisten, suspenda su uso y consulte a su médico. Contiene glucosa; si tiene diabetes, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Neo-Melubrina",
+    "fabricante": "Sanofi-Aventis de México",
+    "linea": "Infantil",
     "presentacion": "Jarabe",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Metamizol sódico",
+    "concentracion": "250 mg / 5 ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Niños de 2 a 12 años",
+    "sabor_aroma": "Frambuesa",
+    "otros": "Incluye pipeta y vaso dosificador; Formato de venta: unidad"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -26,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165000315_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7fe98542/images/large/7501165000315_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/neo-melubrina-jarabe-infantil-100ml/MXYZ_7501165000315.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 937,
+      "fecha": "2026-09-29",
+      "lado_util": 868
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://medicamentosplm.com/Home/productos/neo.melubrina.jarabe/3037/101/81601/94",
+    "https://www.yza.mx/neo-melubrina-jarabe-infantil-100ml/MXYZ_7501165000315.html",
+    "https://www.farmalisto.com.mx/analgesicos/4878-comprar-neo-melubrina-jarabe-infantil-250-mg5-ml-frasco-con-100-ml-precio-7501165000315.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El principio activo (metamizol) se dedujo de la marca Neo-Melubrina por conocimiento general. El 84 del nombre no se pudo interpretar (puede ser volumen o lote), por eso no hay contenido ni concentración. Se desconoce el fabricante y la clasificación de venta. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia lo marca como venta sin receta; confirmar la condición de venta del metamizol antes de publicar. El número 84 del nombre del sistema parece un código interno.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda).",
     "fecha": "2026-09-29"
   }
 }

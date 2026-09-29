@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088509766_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/8/0/808_jp8pgk6dkfdgcmjj.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
+      "pagina": "https://farmaciasespecializadas.com/antiflu-des-jr-500-20-30mg-ml-sol-c-60ml.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 448
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasespecializadas.com/antiflu-des-jr-500-20-30mg-ml-sol-c-60ml.html",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (fabricante Chinoin). Las tiendas lo llaman jarabe, solución o suspensión. La concentración se interpretó de dos fichas (0.50/0.02/3 g por 60 ml en una; 500/20/30 mg/ml en otra) como 500 mg, 20 mg y 3 g por 100 ml; verificar en el empaque. Una tienda pide receta, pero suele venderse sin ella: revisar la clasificación.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Especializadas): caja y frasco Antiflu-Des Jr 60 ml, 500 px (mínimo aceptado)."
   }
 }

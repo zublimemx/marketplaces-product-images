@@ -4,18 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "ENSURE 237ML VAINILLA MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Ensure Suplemento Alimenticio Vainilla 237 ml",
-  "descripcion": "Descripción:\nEnsure es un suplemento alimenticio líquido de Abbott, sabor vainilla, que se utiliza como complemento de la alimentación. Se presenta listo para beber en presentación individual de 237 ml.\n\nCaracterísticas:\n- Suplemento alimenticio líquido.\n- Sabor vainilla.\n- Presentación individual de 237 ml.\n\nPresentación:\nUna pieza de 237 ml, lista para beber.\n\nAdvertencias:\n- No es un alimento de uso exclusivo; se recomienda consultar a su médico o nutriólogo sobre su consumo dentro de su plan de alimentación.",
+  "titulo": "Ensure Vainilla Suplemento Alimenticio Líquido 237 ml",
+  "descripcion": "Descripción:\nEnsure sabor vainilla de Abbott es una fórmula de alimentación especializada, lista para tomar, para adultos con requerimientos especiales de nutrición por condiciones o deficiencias que afectan su estado nutricional. Se presenta en botella de 237 ml.\n\nBeneficios:\n- Combinación de macronutrientes y micronutrientes, con 28 vitaminas y minerales.\n- Ayuda a cubrir requerimientos especiales de alimentación en adultos con malnutrición o pérdida de peso.\n- Aporta nutrición completa y balanceada para apoyar la alimentación diaria.\n- Sabor vainilla, listo para beber.\n\nModo de uso:\nProducto listo para tomar; no requiere preparación. Consulte a su médico o nutriólogo para la recomendación de uso.\n\nPresentación:\nBotella con 237 ml, sabor vainilla.\n\nAdvertencias:\nSuplemento alimenticio; no es un medicamento. No sustituye una dieta variada ni el tratamiento indicado por su médico. Se recomienda su consumo bajo supervisión de un profesional de la salud. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ensure",
     "fabricante": "Abbott",
-    "presentacion": "Bebida líquida",
+    "variante": "Vainilla",
+    "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "edad_etapa": "Adultos",
     "sabor_aroma": "Vainilla",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Formato: botella; Uso: alimentación especializada para adultos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033954085_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501033954085_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/ensure-bottle-liq-bot-c-237ml-vainilla.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 552,
+      "fecha": "2026-09-29",
+      "lado_util": 512
+    },
+    {
+      "archivo": "7501033954085_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/ENSURE-VAINILLA-1-FRASCO-237-ML-VAINILLA-FRASCO-ABBOTT-LABORATORIES-DE-MEXICO.-Disponible-en-Farmasmart.-Compra-en-linea-7501033954085.webp",
+      "pagina": "https://farmasmart.com/ensure-vainilla-1-frasco-237-ml",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 601,
+      "fecha": "2026-09-29",
+      "lado_util": 557
+    }
+  ],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+  "fuentes": [
+    "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+    "https://www.farmaciasespecializadas.com/ensure-bottle-liq-bot-c-237ml-vainilla.html",
+    "https://farmalisto.com.mx/alimentacion-especializada/1558-comprar-ensure-liquido-botella-con-237-ml-sabor-vainilla-suplemento-alimenticio-precio-7501033954085.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (Abbott). No se confirmó el tipo de envase (lata o botella), la variante (Original u otra), la fórmula ni el GTIN. 'MAYO 27' es caducidad y se ignoró.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Descripción basada en la página oficial de Abbott; no se anotó lista de ingredientes por no aparecer completa.",
+    "notas_imagenes": "2 fotos de frente de la botella (tienda). El sitio del fabricante solo muestra imágenes de marca.",
     "fecha": "2026-09-29"
   }
 }

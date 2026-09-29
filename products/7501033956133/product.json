@@ -4,17 +4,17 @@
   "linea": "Farma",
   "nombre_sistema": "GLUCERNA 237ML CHTE JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Glucerna Abbott Chocolate Suplemento Líquido 237 ml",
-  "descripcion": "Descripción:\nGlucerna de Abbott es un suplemento alimenticio líquido listo para beber, sabor chocolate, en presentación individual de 237 ml. Es una fórmula nutricional pensada para personas con diabetes.\n\nPresentación:\nEnvase individual con 237 ml, sabor chocolate.\n\nAdvertencias:\nConsulte la información nutrimental, los ingredientes y las advertencias del empaque. Si tiene diabetes u otra condición médica, consulte a su médico o nutriólogo antes de consumirlo.",
+  "titulo": "Glucerna Suplemento Alimenticio Sabor Chocolate 237 ml",
+  "descripcion": "Descripción:\nGlucerna sabor chocolate es una bebida nutricional lista para beber en botella de 237 ml, de Abbott. Es un suplemento alimenticio formulado para personas con diabetes, que combina proteínas, grasas, fibra dietética, ácidos grasos omega 3, vitaminas y minerales. Se puede consumir como complemento de la alimentación bajo la orientación de un médico o nutriólogo.\n\nCaracterísticas:\n- Suplemento alimenticio líquido, sabor chocolate\n- Con proteínas, fibra dietética y omega 3\n- Con vitaminas y minerales\n- Botella individual de 237 ml lista para beber\n\nInformación nutrimental:\nAporte aproximado por porción de 237 ml: 218 kcal (915 kJ), 25.2 g de hidratos de carbono, 11 g de proteínas, 8.1 g de lípidos, 0.7 g de grasa saturada, 3.8 g de fibra dietética y 239 mg de sodio. Consulte la tabla nutrimental del empaque para el detalle completo.\n\nModo de uso:\nListo para beber. Consulte a su médico o nutriólogo sobre la cantidad y la frecuencia de consumo adecuadas para usted.\n\nPresentación:\nBotella de 237 ml, sabor chocolate.\n\nAdvertencias:\nEs un suplemento alimenticio: no es un medicamento y no sustituye el tratamiento médico ni una alimentación variada y equilibrada. No lo consuma si es alérgico a alguno de sus ingredientes. Consérvese en un lugar fresco y seco, protegido de la luz directa. Mantener fuera del alcance de los niños.",
   "ficha": {
     "marca": "Glucerna",
     "fabricante": "Abbott",
-    "presentacion": "Líquido listo para beber",
+    "presentacion": "Bebida líquida en botella",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "sabor_aroma": "Chocolate",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Suplemento alimenticio para personas con diabetes; Con fibra dietética y omega 3; Aporte por porción de 237 ml: 218 kcal, 25.2 g de hidratos de carbono, 11 g de proteínas, 8.1 g de lípidos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,14 +28,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033956133_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaCH.jpg?v=1685158040",
+      "pagina": "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 521,
+      "fecha": "2026-09-29",
+      "lado_util": 483
+    },
+    {
+      "archivo": "7501033956133_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaCH_1.jpg?v=1685158040",
+      "pagina": "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 514,
+      "fecha": "2026-09-29",
+      "lado_util": 476
+    },
+    {
+      "archivo": "7501033956133_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0465/6981/6232/files/7501033956133_3.png?v=1727296066",
+      "pagina": "https://farmaciaherrera.com.mx/products/glucerna-sr-liq-237-ml-chocolate",
+      "ancho_original": 376,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 454
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
+    "https://curitek.com/producto/glucerna-chocolate-237-ml/",
+    "https://farmaciaherrera.com.mx/products/glucerna-sr-liq-237-ml-chocolate"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por el nombre (Glucerna 237 ml chocolate, Abbott); falta confirmar variante exacta y tipo de envase. El texto sobre personas con diabetes es la posición conocida de la marca, pero debe cotejarse con la etiqueta antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La tabla nutrimental se leyó de una imagen de una farmacia y podría corresponder a una versión anterior de la fórmula; confirmar con el empaque vigente. No se abrió la página del fabricante.",
+    "notas_imagenes": "3 fotos de tienda: dos de frente de la botella y la tabla nutrimental del reverso (375x500 escalada, calidad media); se descartaron una foto pequeña, un banner con texto y una vista trasera de baja resolución.",
     "fecha": "2026-09-29"
   }
 }

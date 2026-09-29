@@ -4,21 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TREDA C20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Treda 20 Tabletas",
-  "descripcion": "Descripción:\nTreda en presentación de caja con 20 tabletas. Medicamento de administración oral. Consulte el empaque del producto para conocer su composición, indicaciones, dosis y advertencias.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Treda Neomicina Caolín Pectina 20 Tabletas",
+  "descripcion": "Descripción:\nTreda, de Laboratorios Sanfer, es un medicamento antidiarreico en tabletas que combina neomicina, caolín y pectina. Está pensado para eliminar la diarrea infecciosa y no infecciosa. Se presenta en caja con 20 tabletas para administración por vía oral.\n\nBeneficios:\n- Antidiarreico, protector intestinal y astringente.\n- Ayuda a aumentar la consistencia de las heces y a reducir el número de evacuaciones.\n- Contribuye a eliminar toxinas irritantes causantes de la diarrea.\n- Combina un antibiótico local (neomicina) con dos agentes que protegen la mucosa intestinal (caolín y pectina).\n\nComposición:\nCada tableta contiene neomicina 129 mg, caolín 280 mg y pectina 30 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las indicadas por su médico o en el instructivo del empaque. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica. Mantenga una buena hidratación mientras dure la diarrea.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a la neomicina o a otros antibióticos aminoglucósidos. Si la diarrea dura más de dos días, hay fiebre alta, sangre en las heces o signos de deshidratación, suspenda su uso y acuda con su médico. Precaución en personas con enfermedad del riñón. No se use en el embarazo ni la lactancia sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Treda",
+    "fabricante": "Sanfer",
     "presentacion": "Tabletas",
     "contenido_neto": 20,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Neomicina, caolín y pectina",
+    "concentracion": "Neomicina 129 mg; caolín 280 mg; pectina 30 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antidiarreico; Formato de venta: Caja"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -26,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070612368_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070612368_2fte.jpg",
+      "pagina": "https://www.fahorro.com/treda-oral-20-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 909,
+      "fecha": "2026-09-29",
+      "lado_util": 840
+    },
+    {
+      "archivo": "7501070612368_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070612368_1.jpg",
+      "pagina": "https://www.fahorro.com/treda-oral-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1460,
+      "fecha": "2026-09-29",
+      "lado_util": 1350
+    },
+    {
+      "archivo": "7501070612368_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070612368_2.jpg",
+      "pagina": "https://www.fahorro.com/treda-oral-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1054,
+      "fecha": "2026-09-29",
+      "lado_util": 976
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasmart.com/treda-tab-c20",
+    "https://medicinaslibertad.com/shop/7501070612368-treda-tabletas-c-20-19628",
+    "https://farmalisto.com.mx/antidiarreicos/2745-treda-129-mg-280-mg-30-mg-caja-con-20-tabletas-7501070612368.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado: 200 de 200). No se identificó el principio activo ni el laboratorio; la categoría Otros Medicamentos es provisional y hay que reasignarla al confirmar el producto. Datos deducidos solo del nombre del sistema.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda. Una tienda describe Treda como sulfametoxazol/trimetoprima; es un error: la caja y otras tres fuentes indican neomicina 129 mg, caolín 280 mg, pectina 30 mg. Contiene un antibiótico (neomicina) pero algunas tiendas lo venden como libre venta: confirmar leyenda en la caja. Advertencias redactadas de forma prudente a partir de la composición.",
+    "notas_imagenes": "3 fotos de tienda: frente y dos vistas en ángulo de la caja de 20 tabletas (Treda, neomicina, caolín, pectina, Sanfer).",
     "fecha": "2026-09-29"
   }
 }

@@ -4,21 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "CLAMOXIN 12H 875 125MG C10 TBS AMOXI ACLAV MAVER",
   "nombres_sistema_alternos": [],
-  "titulo": "Clamoxin 12h Amoxicilina 875/125 mg 10 Tabletas",
-  "descripcion": "Descripción:\nClamoxin 12 h es un antibiótico en tabletas de Laboratorios Maver que combina amoxicilina (875 mg) con ácido clavulánico (125 mg). La combinación del ácido clavulánico protege a la amoxicilina de algunas enzimas de las bacterias. Se presenta en caja con 10 tabletas y su uso debe ser indicado por un médico.\n\nComposición:\nCada tableta contiene:\n- Amoxicilina 875 mg\n- Ácido clavulánico 125 mg\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nEs un antibiótico que requiere receta médica. No lo utilice si es alérgico a las penicilinas, a otros antibióticos betalactámicos o a algún componente de la fórmula. No lo use por su cuenta ni para infecciones virales como la gripe o el resfriado. Puede causar molestias digestivas como diarrea o náusea. Informe a su médico si tiene enfermedad del hígado o del riñón, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Clamoxin 12h Amoxicilina Clavulanato 875/125 mg 10 Tabletas",
+  "descripcion": "Descripción:\nClamoxin 12 h es un antibiótico de Laboratorios Maver que combina amoxicilina y ácido clavulánico (clavulanato de potasio) en tabletas. El ácido clavulánico protege a la amoxicilina de las enzimas de algunas bacterias, con lo que amplía su acción. Está indicado, bajo prescripción médica, en infecciones causadas por microorganismos sensibles, como infecciones de las vías respiratorias (sinusitis, bronquitis aguda), otitis media, infecciones de las vías urinarias, de la piel y tejidos blandos, y dentales.\n\nCaracterísticas:\n- Esquema de una tableta cada 12 horas, según indique el médico.\n- Combinación útil frente a bacterias productoras de betalactamasas.\n\nComposición:\nCada tableta contiene amoxicilina trihidratada 875 mg, equivalente a amoxicilina, y clavulanato de potasio 125 mg, equivalente a ácido clavulánico; excipiente cbp una tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con frasco con 10 tabletas de 875 mg/125 mg.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No debe usarse en caso de alergia a las penicilinas u otros antibióticos betalactámicos ni a alguno de los componentes. No lo tome sin receta ni lo comparta. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Clamoxin",
     "fabricante": "Laboratorios Maver",
     "linea": "12 h",
-    "variante": "Tabletas 875 mg/125 mg",
+    "variante": "875 mg/125 mg",
     "presentacion": "Tabletas",
     "contenido_neto": 10,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 10,
     "principio_activo": "Amoxicilina y ácido clavulánico",
-    "concentracion": "875 mg/125 mg por tableta",
+    "concentracion": "875 mg/125 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 10 tabletas"
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "128M2003 SSA",
+    "otros": "Formato de venta: Caja con frasco"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -32,14 +34,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009740763_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7502009740763.jpg?v=1726102143&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/amoxicilina-ac-clav-clamoxin-12h-875-125-mg-con-10-tabletas",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 324
+    },
+    {
+      "archivo": "7502009740763_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7502009740763_4d5497fe-d112-42b3-86b0-be378839cf03.jpg?v=1701390756&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/13074",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 654,
+      "fecha": "2026-09-29",
+      "lado_util": 606
+    },
+    {
+      "archivo": "7502009740763_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Clamoxintabletas.jpg",
+      "pagina": "https://sanorim.mx/products/clamoxin-amoxicilina-acido-clavulanico-875-mg-125-mg-frasco-con-10-tabletas",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 574,
+      "fecha": "2026-09-29",
+      "lado_util": 531
+    },
+    {
+      "archivo": "7502009740763_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Clamoxintabletas_1.jpg",
+      "pagina": "https://sanorim.mx/products/clamoxin-amoxicilina-acido-clavulanico-875-mg-125-mg-frasco-con-10-tabletas",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 519,
+      "fecha": "2026-09-29",
+      "lado_util": 481
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/clamoxin-12h-875-125mg-con-10-tabletas-amoxicilina-ac-clavulanico",
+    "https://sufarmed.com/sufarmed/Amoxicilina-Acido-clavulanico/1515-Clamoxin-12-hr-tabs-875-mg-c-10.html",
+    "https://sanorim.mx/products/clamoxin-amoxicilina-acido-clavulanico-875-mg-125-mg-frasco-con-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principios activos, concentración, piezas y laboratorio (Maver) salen del nombre del sistema. Los antibióticos requieren receta en México; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (10 tabletas, 875/125 mg). Registro sanitario tomado de la ficha de un distribuidor.",
+    "notas_imagenes": "4 fotos de tienda (farmacias en línea) de la caja con frasco de Clamoxin 12 h, 10 tabletas.",
     "fecha": "2026-09-29"
   }
 }

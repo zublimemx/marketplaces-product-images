@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070613549_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/169893/7501070613549_9c6ca91f-b9dc-4951-9839-09dd153efc9b.jpg",
+      "pagina": "https://www.klyns.mx/amoxil-250-mg-susp-75-ml-ped/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 521,
+      "fecha": "2026-09-29",
+      "lado_util": 483
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/amoxil.suspension/64/101/6284/194",
     "https://farmaciasmedina.com/detalleProducto/Amoxil-Pediatrica-75-Ml-Suspension-Frasco-Dosificador/7501070613549",
-    "https://www.actuamed.com.mx/marca/31999"
+    "https://www.actuamed.com.mx/marca/31999",
+    "https://www.klyns.mx/amoxil-250-mg-susp-75-ml-ped/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Antibiótico que requiere receta. El nombre del sistema dice 250MG 5M; el GTIN corresponde a la presentación de 75 ml.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 500x500): caja Amoxil suspensión 250 mg/5 mL. Medina solo tenía 480x480 (rechazada)."
   }
 }

@@ -4,38 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "TRIBEDOCE COMP C 30 GRAG BRULUART",
   "nombres_sistema_alternos": [],
-  "titulo": "Tribedoce Compuesto 30 Grageas Brulluart",
-  "descripcion": "Descripción:\nTribedoce Compuesto es un medicamento en grageas del laboratorio Brulluart, que por su nombre corresponde a una combinación de vitaminas del complejo B. Esta presentación contiene 30 grageas.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nConsulte la composición, las indicaciones y la dosis en el empaque. No exceda la dosis recomendada y evite combinarlo con otros suplementos o multivitamínicos sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Tribedoce Compuesto Diclofenaco Complejo B 30 Grageas",
+  "descripcion": "Descripción:\nTribedoce Compuesto es un medicamento de Bruluart en grageas que asocia diclofenaco, un antiinflamatorio y analgésico, con las vitaminas del complejo B (tiamina, piridoxina y cianocobalamina). Se emplea en cuadros de dolor como lumbalgias, braquialgias, radiculitis y neuropatías. Se presenta en caja con 30 grageas. Es un medicamento de venta con receta médica.\n\nBeneficios:\n- Combina un antiinflamatorio con vitaminas B1, B6 y B12 en una sola gragea.\n- Indicado en dolor de espalda baja (lumbalgia), dolor de brazo y cuello (braquialgia) y radiculitis.\n- Uso en neuropatías bajo indicación médica.\n\nComposición:\nCada gragea contiene diclofenaco 50 mg, tiamina (vitamina B1) 50 mg, piridoxina (vitamina B6) 50 mg y cianocobalamina (vitamina B12) 1 mg.\n\nModo de uso:\nVía oral. Trague la gragea completa con un poco de agua. La dosis y la duración del tratamiento deben ser indicadas por su médico.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nSu venta requiere receta médica. No lo utilice si es alérgico al diclofenaco, a otros antiinflamatorios no esteroideos o a algún componente de la fórmula. Informe a su médico si padece úlcera o sangrado gástrico, enfermedad del corazón, del riñón o del hígado, hipertensión, asma, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tribedoce",
-    "fabricante": "Brulluart",
-    "variante": "Compuesto",
+    "fabricante": "Bruluart",
+    "linea": "Compuesto",
     "presentacion": "Grageas",
     "contenido_neto": 30,
     "unidad_contenido": "grageas",
     "unidades_por_envase": 30,
-    "via_administracion": "Oral"
+    "principio_activo": "Diclofenaco; tiamina (B1); piridoxina (B6); cianocobalamina (B12)",
+    "concentracion": "50 mg / 50 mg / 50 mg / 1 mg",
+    "via_administracion": "Oral",
+    "otros": "Complejo B con diclofenaco; Formato de venta: caja con 30 grageas"
   },
-  "receta_mx": "No",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457812",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501537164713_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/171704/7501537164713.jpg?v=637935383878400000",
+      "pagina": "https://www.klyns.mx/tribedoce-comp-c-30-grags-bruluart/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 400
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/tribedoce-compuesto-grageas/",
+    "https://www.klyns.mx/tribedoce-comp-c-30-grags-bruluart/p",
+    "https://bruluart.com/nuestros-productos/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la composición (probable B1, B6 y B12) ni las dosis; se omitió principio activo. Categoría Sistema Nervioso Venta Libre por consistencia con Bedoyecta Tri del lote 1; alternativa MLM438195 (Suplementos Alimenticios).",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 5 fuentes. Bruluart lista Tribedoce Compuesto como complejo B con diclofenaco. Se marcó receta por contener diclofenaco y por clasificarse como Rx en una tienda. Posología no encontrada.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja).",
     "fecha": "2026-09-29"
   }
 }

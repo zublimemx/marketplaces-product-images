@@ -33,18 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3592619321609_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://media-pierre-fabre.wedia-group.com/api/wedia/dam/transform/u5wa3z31qn5sj6m6k9cprudyb6w7gj556bedune/out?t=resize&height=1500",
+      "pagina": "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3592619321609-56354575",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1433,
+      "fecha": "2026-09-29",
+      "lado_util": 1327
+    }
+  ],
   "url_oficial": "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3282776432026-56354575",
   "fuentes": [
     "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3282776432026-56354575",
     "https://www.medicamentosplm.com/home/productos/dexeryl-crema/133/101/36448/36",
-    "https://curitek.com/producto/dexeryl-crema-emoliente/"
+    "https://curitek.com/producto/dexeryl-crema-emoliente/",
+    "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3592619321609-56354575"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "PLM lo registra como medicamento de venta libre; por eso se ubicó en Dermatológicos Venta Libre. Como alternativa cosmética podría ir en Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal (MLM178755). La URL oficial corresponde a la ficha general de Dexeryl México, que incluye la presentación de 500 g.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (fabricante, dexeryl.com página del GTIN exacto, 1500x1500): botella con bomba de 500 g. Se descartaron: 5 banners promocionales en inglés con texto, la foto del tubo de 250 g (presentación equivocada) y la de Curitek (marca de agua). PLM y Medina solo tenían 400x400 / 480x480 o no tenían la ficha."
   }
 }

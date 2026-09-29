@@ -20,7 +20,7 @@
     "edad_etapa": "0 a 6 meses",
     "sabor_aroma": "Sin sabor",
     "genero": "Unisex",
-    "otros": "Etapa: 1; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad"
+    "otros": "Etapa: 1; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad; Nombre en empaque actual: Optimal Pro"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -34,7 +34,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058623188_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623188_a1n1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1892,
+      "fecha": "2026-09-29",
+      "lado_util": 1752
+    },
+    {
+      "archivo": "7501058623188_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623188_a2n1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1882,
+      "fecha": "2026-09-29",
+      "lado_util": 1738
+    },
+    {
+      "archivo": "7501058623188_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.nestlefamilynes.com.mx/sites/default/files/content_image/7501058623188_a7c1.png",
+      "pagina": "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1851,
+      "fecha": "2026-09-29",
+      "lado_util": 1714
+    }
+  ],
   "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
   "fuentes": [
     "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
@@ -46,6 +80,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Algunas tiendas listan también NAN 1 Optipro Confort de 400 g (producto distinto); el GTIN corresponde a NAN 1 Optipro estándar. Nestlé México ya nombra la línea Optimal Pro.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 3 de nestlefamilynes.com.mx (fabricante). Fotos oficiales de Nestle (frente y dos contra-etiquetas, 2000 px). Se descartaron fotos con insignias laterales."
   }
 }

@@ -4,19 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "PANCLASA C/20 CAPS FLOROGLUCINO L TRIMETILFLOROGLUCINOL",
   "nombres_sistema_alternos": [],
-  "titulo": "Panclasa Floroglucinol Trimetilfloroglucinol 20 Cápsulas",
-  "descripcion": "Descripción:\nPanclasa es un medicamento en cápsulas que combina floroglucinol y trimetilfloroglucinol, dos activos con acción antiespasmódica. Se presenta en caja con 20 cápsulas para administración por vía oral.\n\nBeneficios:\n- Combinación de dos antiespasmódicos en una misma cápsula.\n- Se emplea para aliviar espasmos y dolores de tipo cólico; las indicaciones exactas deben consultarse en el instructivo del empaque o con su médico.\n- Presentación de 20 cápsulas para un tratamiento de corta duración.\n\nComposición:\nCada cápsula contiene floroglucinol y trimetilfloroglucinol.\n\nModo de uso:\nVía oral. Trague las cápsulas enteras con un vaso de agua. La dosis y la duración del tratamiento deben ser las que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 20 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Si el dolor persiste, empeora o se acompaña de fiebre, vómito o sangrado, suspenda su uso y consulte a su médico. Consulte al médico antes de usarlo durante el embarazo o la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Panclasa 80 mg/80 mg Antiespasmódico 20 Cápsulas",
+  "descripcion": "Descripción:\nPanclasa es un antiespasmódico a base de floroglucinol y trimetilfloroglucinol, en cápsulas de 80 mg/80 mg. Está indicado para el dolor de estómago, la colitis y los cólicos producidos por diarrea y los cólicos menstruales. Se presenta en caja con 20 cápsulas para administración por vía oral.\n\nBeneficios:\n- Actúa relajando el músculo liso, lo que ayuda a eliminar el espasmo y combatir la inflamación.\n- Según el fabricante, su acción inicia entre 5 y 10 minutos después de tomarlo y el efecto puede mantenerse por varias horas.\n- Indicado para dolor de estómago, colitis y cólicos por diarrea o menstruales.\n\nComposición:\nCada cápsula contiene floroglucinol 80 mg y trimetilfloroglucinol 80 mg.\n\nModo de uso:\nVía oral. Adolescentes y adultos: de 1 a 2 cápsulas cada 8 horas, sin exceder 6 cápsulas al día, o según lo indique su médico. Si las molestias persisten, consulte a su médico.\n\nPresentación:\nCaja con 20 cápsulas.\n\nAdvertencias:\nNo se use en embarazo ni lactancia. No lo use si es alérgico a alguno de los componentes de la fórmula. Ocasionalmente pueden presentarse náuseas o vómito. Consérvese a no más de 30 °C. Si los síntomas persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Panclasa",
+    "fabricante": "Bausch Health (Atlantis)",
     "presentacion": "Cápsulas",
     "contenido_neto": 20,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 20,
     "principio_activo": "Floroglucinol y trimetilfloroglucinol",
+    "concentracion": "80 mg / 80 mg por cápsula",
     "via_administracion": "Oral",
-    "otros": "Grupo: Antiespasmódicos; Formato de venta: Caja"
+    "edad_etapa": "Adolescentes y adultos",
+    "otros": "Antiespasmódico; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
@@ -28,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501471800265_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://panclasa.testingbo.com/assets/static/d6796c62538fe31e0cc41c2c35dabd1b.png",
+      "pagina": "https://panclasa.testingbo.com/",
+      "ancho_original": 727,
+      "alto_original": 475,
+      "lado_final": 777,
+      "fecha": "2026-09-29",
+      "lado_util": 720
+    }
+  ],
+  "url_oficial": "https://panclasa.testingbo.com/",
+  "fuentes": [
+    "https://panclasa.testingbo.com/",
+    "https://www.klyns.mx/panclasa-80-mg-c-20-caps/p",
+    "https://www.actuamed.com.mx/marca/34235"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Los principios activos salen del nombre del sistema; el uso antiespasmódico es el de la combinación floroglucinol y trimetilfloroglucinol, sin confirmar en ficha de Panclasa. Faltan concentraciones, fabricante y registro sanitario. Falta confirmar si requiere receta; si resulta con receta, usar MLM457828 (Digestivos con Receta).",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con la foto de tienda de ese GTIN (caja Panclasa 80/80 mg con 20 cápsulas). Dosis, advertencias y leyenda SSA fracción VI (venta libre) tomadas de la caja. El sitio de marca está en un dominio de pruebas (testingbo.com); una tienda lo clasifica como Rx, pero la caja lo marca como fracción VI.",
+    "notas_imagenes": "1 foto del sitio de la marca: frente de la caja de cápsulas 80 mg/80 mg. Existe una versión de tienda de mayor resolución que no se guardó por no tener página de origen verificada.",
     "fecha": "2026-09-29"
   }
 }

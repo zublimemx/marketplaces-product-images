@@ -17,7 +17,8 @@
     "concentracion": "5 mg/2 mg por ml",
     "via_administracion": "Inyectable (intramuscular, intraarticular, intralesional)",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: Unidad",
+    "fabricante": "Organon"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050610704_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501050610704_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/diprospan-hypak-5-2mg-jgp-1ml-caj-c-1.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 649,
+      "fecha": "2026-09-29",
+      "lado_util": 601
+    },
+    {
+      "archivo": "7501050610704_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501050610704_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/diprospan-hypak-5-2mg-jgp-1ml-caj-c-1.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 658,
+      "fecha": "2026-09-29",
+      "lado_util": 609
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Diprospan-Hypak-Inyeccion-1-Suspension-Jeringa-Prellenada/7501050610704",
@@ -43,6 +67,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (1 jeringa prellenada de 1 ml). La lectura de una de las farmacias devolvió una composición incoherente (clonixinato/hioscina) que se descartó; la composición betametasona 5 mg/2 mg por ml se tomó del listado que indica 5/2 mg y del conocimiento general del producto, y conviene verificarla contra el empaque. Es inyectable con receta; se publica en venta libre por instrucción del dueño. Se omitió el fabricante por falta de fuente confiable.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501050610704_1.jpg, 7501050610704_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Fabricante: FESA lista Organon; Medina lista MSD; el empaque de la foto dice Schering-Plough."
   }
 }

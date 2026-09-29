@@ -5,17 +5,19 @@
   "nombre_sistema": "CIPROFLOX 500MG C12 CAPS",
   "nombres_sistema_alternos": [],
   "titulo": "Ciproflox Ciprofloxacino 500 mg 12 Cápsulas",
-  "descripcion": "Descripción:\nCiproflox 500 mg es un medicamento antibacteriano cuyo principio activo es el ciprofloxacino, un antibiótico de la familia de las quinolonas, en presentación de 12 cápsulas de 500 mg. Su uso debe ser indicado por un médico, quien determinará el tipo de infección a tratar, la dosis y la duración del tratamiento.\n\nComposición:\nCiprofloxacino 500 mg por unidad. Consulte el empaque para conocer los excipientes.\n\nModo de uso:\nVía oral. Tome la dosis y la duración que indique su médico, con un vaso de agua, y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\n- No lo use si es alérgico al ciprofloxacino o a otras quinolonas.\n- Suspenda su uso y consulte a su médico si presenta dolor o inflamación en los tendones, erupciones en la piel u otras reacciones inesperadas.\n- Informe a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nCiproflox, de la línea Altia de Laboratorios Senosiain, es un antibiótico de amplio espectro del grupo de las fluoroquinolonas cuyo principio activo es el ciprofloxacino. Cada cápsula contiene 500 mg y se toma por vía oral. Actúa inhibiendo la ADN girasa bacteriana, por lo que tiene acción bactericida. Solo es útil contra infecciones bacterianas; no actúa contra infecciones virales como el resfriado o la gripe.\n\nBeneficios:\nAntibiótico indicado, siempre con supervisión médica, en infecciones causadas por bacterias sensibles al ciprofloxacino, como:\n- Infecciones de las vías urinarias y genitourinarias (cistitis, pielonefritis).\n- Infecciones respiratorias (bronquitis, neumonía).\n- Infecciones gastrointestinales, como enteritis o diarrea infecciosa.\n- Infecciones de la piel, los tejidos blandos, los huesos y las articulaciones.\n\nComposición:\nCada cápsula contiene: clorhidrato de ciprofloxacino monohidratado equivalente a 500 mg de ciprofloxacino; excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento las determina el médico. Tome las cápsulas con un vaso de agua y complete el tratamiento aunque los síntomas mejoren. Evite tomarlas junto con antiácidos o suplementos de calcio, hierro o zinc, porque pueden disminuir su absorción.\n\nPresentación:\nCaja con 12 cápsulas de 500 mg.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No lo use si es alérgico al ciprofloxacino o a otras quinolonas. No se recomienda durante el embarazo ni la lactancia, ni en niños y adolescentes, salvo indicación médica. Las fluoroquinolonas pueden causar dolor o inflamación en los tendones, mareo y mayor sensibilidad de la piel al sol; suspenda el medicamento y consulte a su médico si presenta dolor en tendones o articulaciones, hormigueo o entumecimiento. El uso de antibióticos sin indicación médica favorece la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ciproflox",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Altia",
     "presentacion": "Cápsulas",
     "contenido_neto": 12,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 12,
     "principio_activo": "Ciprofloxacino",
-    "concentracion": "500 mg",
+    "concentracion": "500 mg por cápsula",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Grupo: antibiótico fluoroquinolona; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701827_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc38cd07e/images/large/7501314701827_1.jpg",
+      "pagina": "https://www.yza.mx/ciproflox-500-mg-12-caps/MXYZ_7501314701827.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 585,
+      "fecha": "2026-09-29",
+      "lado_util": 542
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/ciproflox-500-mg-caja-c-12-capsulas/p",
+    "https://farmasmart.com/a-ciproflox-500mg-cap-c12",
+    "https://www.farmaleal.com.mx/products/ciproflox-500-mg-12-caps-7501314701827"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). El principio activo (ciprofloxacino) se dedujo del nombre; falta confirmar si la forma farmacéutica es cápsula o tableta, el laboratorio y el registro sanitario. Los antibióticos requieren receta en México.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en URLs de tienda y en la foto de tienda que lleva ese GTIN. La composición por cápsula sale de la ficha de una farmacia; las indicaciones, el modo de uso y las advertencias son los generales del ciprofloxacino. Antibiótico: requiere receta en México.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja de 12 cápsulas, 1000 px). Otras fotos de tiendas medían menos de 500 px y no se guardaron.",
     "fecha": "2026-09-29"
   }
 }

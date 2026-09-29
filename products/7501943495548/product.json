@@ -4,17 +4,22 @@
   "linea": "Mark",
   "nombre_sistema": "DIAPRO PRED GEL UNIT C/40B",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Diapro Pred Gel Unitalla 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables absorbentes para adultos de la marca Diapro, línea Pred Gel, en talla única (unitalla). Esta presentación es una bolsa con 40 piezas.\n\nPresentación:\nBolsa con 40 piezas, talla única.\n\nAdvertencias:\nCambie el pañal con frecuencia para mantener la piel limpia y seca. Consulte en el empaque las indicaciones de uso y las medidas recomendadas. Mantenga las bolsas de plástico fuera del alcance de los niños.",
+  "titulo": "Pañales Adulto Diapro Predoblados Gel Unitalla 40 Pzas",
+  "descripcion": "Descripción:\nDiapro Predoblados Gel es un pañal desechable para adulto en talla única, diseñado para dar protección confiable a personas con incontinencia urinaria o que requieren un cuidado especial de la higiene. Su formato predoblado facilita abrirlo y colocarlo, y su núcleo con gel ayuda a retener los líquidos y a mantener la piel más seca. Este paquete contiene 40 pañales.\n\nCaracterísticas:\n- Gel que gelatiniza los líquidos y ayuda a controlar los malos olores.\n- Textura ultra suave para mayor comodidad sobre la piel.\n- Con aroma a manzanilla.\n- Formato predoblado, listo para abrir y colocar.\n- Talla única (unitalla) para cintura de 76 a 110 cm aproximadamente.\n- Marca de Kimberly-Clark de México, con la línea Diapro de productos para incontinencia.\n\nModo de uso:\nAbra el pañal y colóquelo entre las piernas de la persona, ajuste a la cintura y asegure las cintas. Cámbielo cuando esté saturado o cada vez que sea necesario para mantener la piel limpia y seca.\n\nPresentación:\nBolsa con 40 pañales predoblados con gel, unitalla.\n\nAdvertencias:\nProducto de un solo uso. Después de usarlo, envuélvalo y deséchelo en la basura; no lo tire al inodoro. Cambie el pañal con frecuencia para el cuidado de la piel y consulte a su médico si aparece irritación. Manténgalo fuera del alcance de los niños.",
   "ficha": {
     "marca": "Diapro",
-    "linea": "Pred Gel",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Predoblados Gel",
+    "variante": "Predoblado con gel",
     "presentacion": "Bolsa de pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "talla": "Unitalla",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "genero": "Unisex",
+    "sabor_aroma": "Manzanilla",
+    "otros": "Rango de cintura: 76 a 110 cm; Formato: Predoblado; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,20 +27,37 @@
       "categoria_id": "MLM194512",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21644339"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943495548_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciapopularenlinea.com/cdn/shop/files/7501943495548_d74fa231-e293-44f5-9bb2-edd3ac4a95a5.jpg?v=1752337068&width=1920",
+      "pagina": "https://farmaciapopularenlinea.com/products/panal-diapro-pred-gel-unitalla-c-40",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.mercadolibre.com.mx/diapro-gel-panales-predoblado-para-adultos-40-pieza-unitalla/p/MLM21644339",
+    "https://farmaciapopularenlinea.com/products/panal-diapro-pred-gel-unitalla-c-40",
+    "https://equipomedicoguadalajara.com.mx/cuidados-del-paciente/186-panal-adulto-predoblado-unitalla-diapro-c-40pza.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). DIAPRO PRED GEL UNIT C/40B se interpretó como Diapro Pred Gel Unitalla, 40 piezas en bolsa (B); no se confirmó qué significa Pred (posiblemente predoblado), si es pañal o protector, ni el fabricante. Verificar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN en URL e imagen de farmacias; la ficha de catálogo aparece en los resultados de búsqueda pero no se pudo abrir (bloqueada). El rango de cintura viene del título de un listado de tienda en línea.",
+    "notas_imagenes": "1 foto de frente (tienda: Farmacia Popular), muestra 40 piezas unitalla gel. Se descartó una segunda imagen en blanco.",
     "fecha": "2026-09-29"
   }
 }

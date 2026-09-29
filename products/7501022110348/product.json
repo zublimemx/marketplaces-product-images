@@ -5,41 +5,59 @@
   "nombre_sistema": "PIASCLEDINE 300 30 CAP ABRIL 27",
   "nombres_sistema_alternos": [],
   "titulo": "Piasclédine 300 Insaponificables Aguacate Soya 30 Cápsulas",
-  "descripcion": "Descripción:\nPiasclédine 300 es un medicamento en cápsulas de Laboratorios Expanscience cuyo principio activo son los insaponificables de aguacate y de soya. Se presenta en caja con 30 cápsulas. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\nCada cápsula contiene 300 mg de insaponificables de aguacate y soya.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo use sin indicación médica. Consulte a su médico si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nPiasclédine 300 es un medicamento de Laboratorios Expanscience que contiene extracto de insaponificables de aguacate y de soya. Se utiliza como tratamiento sintomático de acción lenta de la osteoartritis, siempre bajo indicación médica. Esta presentación contiene 30 cápsulas.\n\nBeneficios:\n- Auxiliar en el tratamiento sintomático de la osteoartritis, en particular de cadera y rodilla.\n- Ayuda a aliviar las molestias dolorosas y funcionales de las articulaciones afectadas por artrosis.\n- Tratamiento de acción lenta, que se emplea de forma continua según indique el médico.\n\nComposición:\nCada cápsula contiene 300 mg de extracto total de insaponificables de aguacate y soya, correspondientes a 100 mg de insaponificable de aceite de aguacate (Persea gratissima) y 200 mg de insaponificable de aceite de soya (Glycine max).\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a algún componente de la fórmula, incluida la soya. No se emplee durante el embarazo ni la lactancia. No está indicado en personas con síndrome de mala absorción ni en tratamiento con anticoagulantes. No exceda la dosis recomendada. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Piasclédine",
-    "fabricante": "Expanscience",
+    "fabricante": "Laboratorios Expanscience",
+    "linea": "300",
     "variante": "300",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
     "principio_activo": "Insaponificables de aguacate y soya",
-    "concentracion": "300 mg",
+    "concentracion": "100 mg/200 mg (300 mg en total)",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Grupo terapéutico: Osteoartritis; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022110348_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc97ec203/images/large/7501022110348_1.jpg",
+      "pagina": "https://www.yza.mx/piascledine-300-100mg200mg/MXYZ_7501022110348.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 831,
+      "fecha": "2026-09-29",
+      "lado_util": 770
+    }
+  ],
+  "url_oficial": "https://www.expanscience.com/en/products-for-all-ages/rheumatology-osteoarthritis/piascledine-300",
+  "fuentes": [
+    "https://farmaciagloria.mx/Medicamentos_de_patente/2950-piascledine-300-con-30-capsulas.html",
+    "https://www.medicamentosplm.com.pe/home/productos/piascledine.300.capsulas/412/101/26194/14",
+    "https://www.yza.mx/piascledine-300-100mg200mg/MXYZ_7501022110348.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Composición y fabricante (Expanscience) tomados de conocimiento previo de la marca, sin confirmar en fuente ni el GTIN. Si resulta con receta, usar MLM457826 (Musculoarticulares con Receta). Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página oficial es la internacional de Expanscience (mismo producto, cajas de 30, 60 o 90). Receta: una farmacia lo registra en fracción IV (requiere receta) y otra sin receta; se dejó Sí. Distribuye en México Laboratorios Grin según una tienda.",
+    "notas_imagenes": "1 foto de frente (tienda: Farmacias YZA), caja Piascledine 300 con 30 cápsulas.",
     "fecha": "2026-09-29"
   }
 }

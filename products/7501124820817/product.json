@@ -4,20 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "TRAVATAN SOL 0.004% 2.5ML TRAVOPROST NOVARTIS",
   "nombres_sistema_alternos": [],
-  "titulo": "Travatan Travoprost 0.004% Solución Oftálmica 2.5 ml",
-  "descripcion": "Descripción:\nTravatan es una solución oftálmica de travoprost al 0.004% (40 microgramos por ml) en frasco gotero de 2.5 ml. El travoprost es un análogo de prostaglandinas que se utiliza para disminuir la presión intraocular en pacientes con glaucoma de ángulo abierto o hipertensión ocular. Es un medicamento de prescripción médica; su dosis y duración deben ser indicadas por el oftalmólogo.\n\nComposición:\nTravoprost 0.004%.\n\nModo de uso:\nUso oftálmico (gotas en el ojo). Lávese las manos, evite tocar la punta del gotero con el ojo o con los dedos y aplique la dosis que le indique su médico. Si usa otros medicamentos oftálmicos, espere al menos cinco minutos entre cada aplicación. Si usa lentes de contacto, retírelos antes de aplicar y espere 15 minutos para volver a colocarlos.\n\nPresentación:\nFrasco gotero con 2.5 ml de solución oftálmica.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. Puede causar cambios graduales en el color del iris y en la piel o las pestañas alrededor del ojo. Mantenga el frasco bien cerrado. Suspenda su uso y consulte a su médico si presenta enrojecimiento intenso, dolor o alteraciones en la visión. No lo use durante el embarazo salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Travatan Travoprost Solución Oftálmica 0.004% 2.5 ml",
+  "descripcion": "Descripción:\nTravatan es una solución oftálmica en gotas cuyo principio activo es el travoprost al 0.004%, un análogo de prostaglandina. Está indicada para reducir la presión intraocular elevada en pacientes con glaucoma de ángulo abierto o hipertensión ocular, favoreciendo la salida del humor acuoso del ojo. Es un medicamento de prescripción que requiere seguimiento médico y controles periódicos de la presión intraocular.\n\nComposición:\nCada ml de solución contiene travoprost al 0.004%.\n\nModo de uso:\nVía oftálmica. No inyectable. La dosis es la que el médico señale. Si olvida una dosis, aplíquela en cuanto lo recuerde; si ya se acerca la siguiente, omita la dosis olvidada y continúe con su horario habitual. Si usa lentes de contacto, retírelos antes de aplicar las gotas y espere al menos 15 minutos para volver a colocarlos.\n\nPresentación:\nCaja con frasco gotero con 2.5 ml de solución.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico al travoprost o a algún componente de la fórmula. Puede causar cambios en la pigmentación del iris, de las pestañas y de la piel alrededor del ojo. Consulte a su médico antes de usarlo si padece asma u otros problemas respiratorios, inflamación o infección ocular, o si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Travatan",
     "fabricante": "Novartis",
-    "presentacion": "Solución oftálmica",
+    "presentacion": "Solución oftálmica (gotas)",
     "contenido_neto": 2.5,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Travoprost",
     "concentracion": "0.004%",
     "via_administracion": "Oftálmica",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Caja con frasco gotero de 2.5 ml; No inyectable; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124820817_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124820817.jpg",
+      "pagina": "https://www.fahorro.com/travatan-oftalmico-gotas-2-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1389,
+      "fecha": "2026-09-29",
+      "lado_util": 1287
+    },
+    {
+      "archivo": "7501124820817_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/7501124820817_2_2ed34fbe-7e19-4240-9282-1bfb59e150e2.jpg?v=1744693073",
+      "pagina": "https://wecarepharma.mx/en/products/travatan-gotas-0-004-2-5ml-travoprost",
+      "ancho_original": 472,
+      "alto_original": 502,
+      "lado_final": 542,
+      "fecha": "2026-09-29",
+      "lado_util": 462
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prixz.com/c/travatan-travoprost-0-004-solucion-con-2-5-ml/",
+    "https://wecarepharma.mx/en/products/travatan-gotas-0-004-2-5ml-travoprost",
+    "https://www.fahorro.com/travatan-oftalmico-gotas-2-5-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (0.004 %, 2.5 ml, travoprost, Novartis) y conocimiento general de la marca; sin fuentes. Confirmar fabricante actual (Novartis o Alcon) y advertencias con el empaque. Revisar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En la caja aparece Novartis; algunas fichas indican Alcon como laboratorio. Advertencias tomadas de fichas de farmacia; verificar contra el instructivo.",
+    "notas_imagenes": "2 fotos de tienda (frente de la caja y en ángulo, esta última de 502x502).",
     "fecha": "2026-09-29"
   }
 }

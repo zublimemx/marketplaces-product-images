@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214983375_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://tienda.prudence.com.mx/cdn/shop/files/FrentePAE.png?v=1689617163",
+      "pagina": "https://tienda.prudence.com.mx/products/levonogestrel-1-5-mg-pae",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1053,
+      "fecha": "2026-09-29",
+      "lado_util": 974
+    }
+  ],
   "url_oficial": "https://www.prudence.com.mx/metodos-anticonceptivos/pae-pastilla-anticonceptiva-de-emergencia/",
   "fuentes": [
     "https://www.prudence.com.mx/metodos-anticonceptivos/pae-pastilla-anticonceptiva-de-emergencia/",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El nombre del sistema incluye una promoción (compra 5, la sexta gratis); se publicó como 1 tableta. La PAE de levonorgestrel se vende sin receta en México, aunque algún sitio de farmacia la marca con receta. Mercado Libre podría restringir esta categoría de producto; conviene verificarlo antes de publicar.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (fabricante, tienda oficial Prudence, 1080x1080): caja Levonorgestrel 1.5 mg 1 tableta. Se borró la ilustración genérica de la página prudence.com.mx."
   }
 }

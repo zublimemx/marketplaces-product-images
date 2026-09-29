@@ -4,18 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "BEPANTHEN 100GR POM 50",
   "nombres_sistema_alternos": [],
-  "titulo": "Bepanthen Pomada Dexpantenol 100 g",
-  "descripcion": "Descripción:\nBepanthen es una pomada de uso tópico de Bayer cuyo componente activo es el dexpantenol, precursor de la vitamina B5. Se presenta en tubo con 100 g. Es una pomada de uso externo para el cuidado de la piel.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona de piel limpia y seca, las veces que indique el empaque o su médico. Lávese las manos antes y después de la aplicación. Verifique en el empaque las indicaciones específicas del producto.\n\nPresentación:\nTubo con 100 g de pomada.\n\nAdvertencias:\nSolo para uso externo. No lo utilice si es alérgico al dexpantenol o a algún componente de la fórmula. Evite el contacto con los ojos. Si la irritación persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Bepanthen Pomada Dexpantenol 5% Protectora 100 g",
+  "descripcion": "Descripción:\nBepanthen es una pomada protectora de Bayer con dexpantenol al 5 %. Es útil en la prevención y el tratamiento de la piel rozada, irritada, agrietada o con quemaduras leves, y en la prevención y el tratamiento de la dermatitis del pañal. También está indicada en el tratamiento de las fisuras mamarias y del pezón durante la lactancia.\n\nBeneficios:\n- Forma una capa protectora sobre la piel y refuerza su protección natural.\n- Ayuda a humectar y a aliviar las rozaduras.\n- Previene y alivia las rozaduras desde las primeras aplicaciones.\n- Puede usarse durante el embarazo.\n\nComposición:\nCada 100 g de pomada contienen 5.0 g de dexpantenol.\n\nModo de uso:\nUso tópico. Aplique una capa delgada de pomada sobre la piel limpia y seca, una o más veces al día, según se requiera. Para prevenir rozaduras del pañal, aplíquela en cada cambio de pañal. Lávese las manos antes y después de la aplicación.\n\nPresentación:\nCaja con un tubo de 100 g de pomada.\n\nAdvertencias:\nSolo para uso externo. No lo use si es alérgico a alguno de los componentes de la fórmula. Evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Bepanthen",
     "fabricante": "Bayer",
-    "presentacion": "Pomada",
+    "linea": "Pomada protectora",
+    "variante": "Dexpantenol 5%",
+    "presentacion": "Pomada en tubo",
     "contenido_neto": 100,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "principio_activo": "Dexpantenol",
+    "concentracion": "5 %",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Tubo de 100 g"
+    "edad_etapa": "Bebés, niños y adultos",
+    "otros": "Uso: rozaduras y dermatitis del pañal; Formato de venta: Caja con tubo"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008427330_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008427330.jpg",
+      "pagina": "https://www.fahorro.com/bepanthen-pomada-protectora-contra-rozaduras-100-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1616,
+      "fecha": "2026-09-29",
+      "lado_util": 1497
+    },
+    {
+      "archivo": "7501008427330_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008427330_1.jpg",
+      "pagina": "https://www.yza.mx/pomada-bepanthen-5-100-g/MXYZ_7501008427330.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 731,
+      "fecha": "2026-09-29",
+      "lado_util": 676
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/pomada-bepanthen-5-100-g/MXYZ_7501008427330.html",
+    "https://farmaciagloria.mx/Dermatologicos/464-bepanthen-5-pomada-contra-rozaduras-tubo-con-100-g.html",
+    "https://www.fahorro.com/bepanthen-pomada-protectora-contra-rozaduras-100-gr.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (dexpantenol) y fabricante (Bayer) tomados de conocimiento general de la marca; no se confirmó la concentración ni si el tubo de 100 g es la presentación exacta. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. El sitio de Bayer no se pudo abrir. Venta sin receta según dos farmacias.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Bepanthen pomada, caja con tubo de 100 g.",
     "fecha": "2026-09-29"
   }
 }

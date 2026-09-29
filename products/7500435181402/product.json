@@ -4,22 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SEDALMERCK EXH C10 SBRS C4TAB 75",
   "nombres_sistema_alternos": [],
-  "titulo": "Sedalmerck 10 Sobres con 4 Tabletas",
-  "descripcion": "Descripción:\nSedalmerck en presentación de exhibidor con 10 sobres, cada uno con 4 tabletas (40 tabletas en total). Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 10 sobres de 4 tabletas cada uno.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sedalmerck Paracetamol 500 mg 10 Sobres con 4 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck es un medicamento en tabletas que combina paracetamol, cafeína y fenilefrina. Es un analgésico y antipirético útil para el alivio del dolor, la fiebre y las molestias de la gripe y el resfriado común; la fenilefrina ayuda a descongestionar la nariz. Esta presentación es un dispensador con 10 sobres de 4 tabletas cada uno (40 tabletas), en sobres individuales.\n\nComposición:\nCada tableta contiene 500 mg de paracetamol, 50 mg de cafeína y 5 mg de clorhidrato de fenilefrina.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 14 años: tomar 1 tableta cada 8 horas. No se use por más de 5 días.\n\nPresentación:\nCaja con 10 sobres de 4 tabletas cada uno (40 tabletas en total).\n\nAdvertencias:\nNo lo use si es alérgico a los componentes de la fórmula ni junto con inhibidores de la monoaminooxidasa (IMAO) o dentro de los 14 días posteriores a suspenderlos. No se recomienda durante el embarazo y la lactancia. No se use por más de cinco días: el paracetamol usado por periodos prolongados puede ocasionar daño hepático. Evite las bebidas alcohólicas mientras lo toma. Consulte a su médico antes de usarlo si padece asma, enfermedad cardiovascular, diabetes, hipertensión, glaucoma o hipertiroidismo. Consérvese a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sedalmerck",
-    "presentacion": "Sobres con tabletas",
+    "fabricante": "Merck, S.A. de C.V. (para Procter & Gamble México)",
+    "presentacion": "Tabletas en sobres",
     "contenido_neto": 40,
     "unidad_contenido": "tabletas",
-    "unidades_por_envase": 40,
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol, cafeína, fenilefrina",
+    "concentracion": "500 mg/50 mg/5 mg por tableta",
     "via_administracion": "Oral",
-    "otros": "Sobres: 10; Tabletas por sobre: 4"
+    "edad_etapa": "Adultos y niños mayores de 14 años",
+    "otros": "Formato de venta: Dispensador con 10 sobres de 4 tabletas (40 tabletas)"
   },
   "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194673",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435181402_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4942024/64c16f3fe06d6-b246e8c3-4897-41c9-98a6-5a32300f9030-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16985267/tabletas-sedalmerck-10-sobres-con-4-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1383,
+      "fecha": "2026-09-29",
+      "lado_util": 1281
+    },
+    {
+      "archivo": "7500435181402_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4942024/64c16f4c5f220-c7ca70f7-1cd5-45aa-a571-e75160da9cce-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16985267/tabletas-sedalmerck-10-sobres-con-4-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1402,
+      "fecha": "2026-09-29",
+      "lado_util": 1299
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/sedalmerck.tabletas/115/101/9689/210",
+    "https://www.claroshop.com/producto/16985267/tabletas-sedalmerck-10-sobres-con-4-tabletas",
+    "https://www.farmaciasmedina.com/detalleProducto/Sedalmerck_10_Sobres_Con_4_Tabletas/7500435181402"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Nombre decodificado: EXH = exhibidor (supuesto), C10 SBRS C4TAB = 10 sobres de 4 tabletas. No se confirmó variante exacta (Sedalmerck normal, Forte o Extra), principios activos ni fabricante. Se asumió analgésico de venta libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el código de barras de la caja (foto lateral). Fórmula y dosis de PLM y de la comunicación del empaque.",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja con 40 tabletas y panel lateral con código de barras; se descartó una imagen publicitaria con texto.",
     "fecha": "2026-09-29"
   }
 }

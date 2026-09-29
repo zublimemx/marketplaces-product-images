@@ -4,41 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "HIDRASEC 30MG SOB 18",
   "nombres_sistema_alternos": [],
-  "titulo": "Hidrasec Racecadotrilo 30 mg 18 Sobres",
-  "descripcion": "Descripción:\nHidrasec 30 mg es un medicamento en sobres cuyo principio activo es el racecadotrilo. Se presenta en caja con 18 sobres. Su uso debe ser indicado por un médico, quien define la dosis, la edad o el peso adecuados y la duración del tratamiento.\n\nComposición:\nCada sobre contiene 30 mg de racecadotrilo.\n\nPresentación:\nCaja con 18 sobres de 30 mg.\n\nAdvertencias:\nNo lo use sin indicación médica. Durante su uso es importante mantener una buena hidratación, según lo indique su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Hidrasec Racecadotrilo 30 mg Granulado 18 Sobres",
+  "descripcion": "Descripción:\nHidrasec es un medicamento de Ferrer cuyo principio activo es el racecadotrilo, un antidiarreico que actúa reduciendo la secreción excesiva de agua y electrolitos en el intestino sin frenar su movimiento. Esta presentación es en granulado de 30 mg en 18 sobres, pensada para administrarse a niños y lactantes bajo indicación médica.\n\nBeneficios:\n- Antidiarreico indicado como terapia adjunta a la rehidratación oral o parenteral en el tratamiento de la diarrea aguda en niños y lactantes de 3 meses de edad en adelante.\n- Reduce la pérdida de agua y electrolitos que provoca la diarrea.\n- Presentación en sobres individuales de granulado, fáciles de dosificar.\n\nComposición:\nCada sobre contiene racecadotrilo 30 mg.\n\nModo de uso:\nVía oral. El contenido del sobre se mezcla con alimento o líquido según indique el instructivo. La dosis la determina el médico; el tratamiento debe acompañarse de rehidratación oral.\n\nPresentación:\nCaja con 18 sobres de granulado de 30 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No use durante el embarazo ni la lactancia. No lo use si es alérgico al racecadotrilo o a algún componente de la fórmula. Consulte al médico si hay fiebre alta, sangre en las heces o signos de deshidratación. Léase el instructivo anexo. Conservar a no más de 30 °C y mantener la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Hidrasec",
     "fabricante": "Ferrer",
     "variante": "30 mg",
-    "presentacion": "Sobres",
+    "presentacion": "Sobres de granulado",
     "contenido_neto": 18,
     "unidad_contenido": "sobres",
     "unidades_por_envase": 18,
     "principio_activo": "Racecadotrilo",
     "concentracion": "30 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Niños y lactantes desde 3 meses",
+    "otros": "Venta con receta médica; Grupo terapéutico: Antidiarreico; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503007704580_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704580_3.jpg",
+      "pagina": "https://www.benavides.com.mx/hidrasec-30-mg-racecadotrilo-18-sobres",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1353,
+      "fecha": "2026-09-29",
+      "lado_util": 1253
+    },
+    {
+      "archivo": "7503007704580_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704580_2.jpg",
+      "pagina": "https://www.benavides.com.mx/hidrasec-30-mg-racecadotrilo-18-sobres",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1321,
+      "fecha": "2026-09-29",
+      "lado_util": 1224
+    },
+    {
+      "archivo": "7503007704580_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7503007704580_1.jpg",
+      "pagina": "https://www.benavides.com.mx/hidrasec-30-mg-racecadotrilo-18-sobres",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1368,
+      "fecha": "2026-09-29",
+      "lado_util": 1267
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/hidrasec.granulado/1018/101/8019/81",
+    "https://www.benavides.com.mx/hidrasec-30-mg-racecadotrilo-18-sobres",
+    "https://www.yza.mx/hidrasec-30mg-18-sbs/MXYZ_7503007704580.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Principio activo (racecadotrilo) tomado de conocimiento previo de la marca. El fabricante (Ferrer) se dedujo por el prefijo GTIN 7503007, el mismo de Núcleo C.M.P. Forte del lote 1, y no está confirmado. Se desconoce la edad o el peso indicado para la dosis de 30 mg. Si resulta con receta, usar MLM457828. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicación (niños y lactantes desde 3 meses) tomada de PLM; la caja indica que su venta requiere receta y no se use en embarazo o lactancia. El instructivo no se vio, por eso la forma de preparar el sobre es general.",
+    "notas_imagenes": "3 fotos (tienda: Farmacias del Ahorro): frente, ángulo y reverso de la caja Hidrasec 30 mg 18 sobres.",
     "fecha": "2026-09-29"
   }
 }

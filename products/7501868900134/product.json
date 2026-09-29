@@ -4,15 +4,15 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GASA 100",
   "nombres_sistema_alternos": [],
-  "titulo": "Gasa Dibar 100 Piezas",
-  "descripcion": "Descripción:\nGasa de la marca Dibar en presentación de 100 piezas, de uso común en curaciones y en el cuidado de heridas menores. Verifique en el empaque las medidas de la gasa, si es estéril y las instrucciones de uso.\n\nPresentación:\nPaquete con 100 piezas.\n\nAdvertencias:\n- No utilice el producto si el empaque está dañado o abierto.\n- Manténgase fuera del alcance de los niños.\n- Consulte a su médico si la herida presenta enrojecimiento, hinchazón, secreción o dolor que aumenta.",
+  "titulo": "Gasa Simple Estéril Dibar 10 x 10 cm 100 Piezas",
+  "descripcion": "Descripción:\nLa gasa simple Dibar es un material de curación de algodón, esterilizado con óxido de etileno, que sirve para limpiar, proteger y cubrir heridas, absorber fluidos y apoyar procedimientos de curación. Cada caja contiene 100 piezas de 10 x 10 cm (doblada), envueltas en sobres individuales.\n\nCaracterísticas:\n- Esterilizada con óxido de etileno.\n- Cada pieza viene en su propio sobre, lo que ayuda a mantenerla limpia hasta el momento de usarla.\n- Tejido 20 x 12 de 8 capas, con buena capacidad de absorción y suavidad.\n- Medidas: 10 cm x 10 cm doblada y 20 cm x 40 cm extendida.\n- Útil para curaciones, limpieza de heridas, cuidados posteriores a una cirugía y aplicación de medicamentos tópicos.\n\nModo de uso:\nLávese las manos antes de manipular la gasa. Abra el sobre sin tocar la gasa con los dedos, colóquela sobre la zona a limpiar o cubrir y fíjela con cinta si es necesario. Use una gasa nueva en cada curación.\n\nPresentación:\nCaja con 100 piezas de gasa simple estéril, cada una en sobre individual.\n\nAdvertencias:\nProducto de un solo uso. No la use si el sobre está abierto, roto o dañado. No la reutilice ni la vuelva a esterilizar. Manténgala en un lugar limpio y seco, fuera del alcance de los niños. Ante heridas profundas, con signos de infección o que no cicatrizan, consulte a su médico.",
   "ficha": {
     "marca": "Dibar",
-    "presentacion": "Paquete de gasas",
+    "presentacion": "Gasa simple estéril en sobres individuales",
     "contenido_neto": 100,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 100,
-    "otros": "Formato de venta: Unidad"
+    "otros": "Medidas: 10 x 10 cm doblada, 20 x 40 cm extendida; Tejido 20 x 12 de 8 capas; Esterilizada con óxido de etileno; Cada pieza en sobre individual; Formato de venta: Caja"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,14 +26,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900134_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/64274/image_1920?unique=914cca9",
+      "pagina": "https://farmasuper.com.mx/en/shop/7501868900134-gasas-dibar-10x10-exhbidor-c-100-100-pza-64274",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 375
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501868900134-gasas-dibar-10x10-exhbidor-c-100-100-pza-64274",
+    "https://pmhyl.com/Tienda/curacion/426-gasa-esteril-dibar-10-x-10-c100-piezas-pmhyl.html",
+    "https://tienda.biorent.com.mx/productos/gasa-esteril-10x10-dibar-caja-con-100/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). Se asumió que GASA 100 significa 100 piezas (el precio de referencia es coherente con eso); falta confirmar medidas (p. ej. 10 x 10 cm), si es estéril y el tipo de gasa.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la URL de una tienda (gasas Dibar 10x10 exhibidor con 100 piezas). Datos de esterilización y sobres individuales tomados de la caja (foto); medidas y tejido 20 x 12 de 8 capas de fichas de distribuidores. Fabricante no identificado.",
+    "notas_imagenes": "1 foto de tienda (500 px, límite mínimo): caja Dibar 'Gasa simple esterilizada con óxido de etileno, 100 piezas' con un sobre al frente.",
     "fecha": "2026-09-29"
   }
 }

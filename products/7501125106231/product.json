@@ -4,15 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "CEFAXONA IM 1GR 56 PISA ENERO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Cefaxona Ceftriaxona 1 g Solución Inyectable",
-  "descripcion": "Descripción:\nCefaxona es una solución inyectable de ceftriaxona de 1 g para administración por vía intramuscular, del laboratorio PiSA. La ceftriaxona es un antibiótico de la familia de las cefalosporinas.\n\nComposición:\nCeftriaxona 1 g por envase. Consulte en el empaque los demás componentes y el diluyente incluido.\n\nModo de uso:\nAplicación intramuscular por personal de salud, con la dosis y duración que indique el médico.\n\nPresentación:\nCaja con solución inyectable de 1 g para uso intramuscular.\n\nAdvertencias:\nSu venta requiere receta médica y su aplicación debe realizarla personal de salud. No debe usarse en caso de alergia a cefalosporinas o penicilinas sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Cefaxona I.M. Ceftriaxona 1 g Solución Inyectable",
+  "descripcion": "Descripción:\nCefaxona I.M. es un antibiótico cefalosporínico cuyo principio activo es la ceftriaxona, en presentación de 1 g para aplicación intramuscular. Se prescribe para el tratamiento de infecciones causadas por bacterias sensibles a la ceftriaxona. Es un medicamento de prescripción que debe ser indicado y aplicado bajo supervisión médica.\n\nComposición:\nCada frasco ámpula contiene ceftriaxona en dosis de 1 g. La presentación incluye una ampolleta con diluyente para la preparación de la solución inyectable; consulte en el empaque la composición completa del diluyente.\n\nModo de uso:\nVía intramuscular. La dosis y la duración del tratamiento son las que el médico señale. Prepare la solución únicamente con el diluyente incluido.\n\nPresentación:\nCaja con un frasco ámpula con polvo y una ampolleta con diluyente de 3.5 ml.\n\nAdvertencias:\nSu venta requiere receta médica. Antibiótico: el uso incorrecto puede causar resistencia bacteriana. Informe a su médico si es alérgico a las penicilinas, a las cefalosporinas o a algún otro medicamento, y si está embarazada o en periodo de lactancia. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Cefaxona",
-    "fabricante": "PiSA",
-    "presentacion": "Solución inyectable",
+    "fabricante": "Laboratorios PiSA, S.A. de C.V.",
+    "linea": "I.M.",
+    "presentacion": "Solución inyectable (polvo con diluyente)",
+    "contenido_neto": 1,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
     "principio_activo": "Ceftriaxona",
     "concentracion": "1 g",
-    "via_administracion": "Intramuscular"
+    "via_administracion": "Intramuscular",
+    "otros": "Caja con frasco ámpula y ampolleta con diluyente de 3.5 ml; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -26,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125106231_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125106231_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.farmaciasespecializadas.com/medicamentos/detalle/2476-cefaxona-im-1-g-1-fam-c35-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 397
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/medicamentos/detalle/2476-cefaxona-im-1-g-1-fam-c35-ml",
+    "https://grupofarmapronto.com/producto/cefaxona-im-f-a-1gr/",
+    "https://mx.ivademecum.com/medicamento-cefaxona-im-pisa-cod-DA7A50B04485F7ED"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados del nombre (IM 1 g, PiSA). El número 56 del nombre se ignoró (posible lote o código). Los antibióticos requieren receta en México; se sugiere la categoría Rx aunque el dueño pidió publicar como venta libre. Falta confirmar si incluye diluyente y el número de piezas.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró una ficha con la composición del diluyente (posible lidocaína) ni registro sanitario; se dejó genérico. Descripción basada en datos generales de ceftriaxona.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja Cefaxona I.M. 1 g; el empaque ocupa poco espacio del cuadro).",
     "fecha": "2026-09-29"
   }
 }

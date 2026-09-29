@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546029139_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaenlace.vtexassets.com/arquivos/ids/163225/0000106020-1.jpg",
+      "pagina": "https://www.farmaciasmedicity.com/speed-stick-247-deo-gel-c-night-85-g/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1018,
+      "fecha": "2026-09-29",
+      "lado_util": 943
+    },
+    {
+      "archivo": "7509546029139_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaenlace.vtexassets.com/arquivos/ids/163226/0000106020-2.jpg",
+      "pagina": "https://www.farmaciasmedicity.com/speed-stick-247-deo-gel-c-night-85-g/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 977,
+      "fecha": "2026-09-29",
+      "lado_util": 905
+    }
+  ],
   "url_oficial": "https://www.speedstick.com/es-mx/products/speed-stick-xtreme-night-gel",
   "fuentes": [
     "https://www.speedstick.com/es-mx/products/speed-stick-xtreme-night-gel",
@@ -44,6 +67,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "En las tiendas el producto aparece como Xtreme Night, Cool Night o C-Night (mismo GTIN). La ficha oficial de la marca tiene poco detalle publicado; las 48 horas y Xtreme Bloc vienen del título de la publicación de Amazon México.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda, Farmacias Medicity, 1000x1000): frente y reverso del Speed Stick 24/7 Gel Cool Night 85 g. La página oficial speedstick.com dio 403."
   }
 }

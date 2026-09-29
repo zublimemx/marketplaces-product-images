@@ -4,15 +4,17 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM ABSORSEC C/120",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas Absorsec 120 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas Absorsec para la limpieza e higiene diaria. Esta presentación es un paquete con 120 piezas.\n\nPresentación:\nPaquete con 120 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación en la piel. No arroje las toallitas al inodoro. Mantenga el empaque bien cerrado para conservar la humedad. Mantenga fuera del alcance de los niños.",
+  "titulo": "Toallitas Húmedas KleenBebé Absorsec 120 Piezas",
+  "descripcion": "Descripción:\nLas toallitas húmedas KleenBebé Absorsec están pensadas para mantener al bebé limpiecito en cada cambio de pañal. Se presentan en paquete con 120 toallitas húmedas.\n\nCaracterísticas:\n- Toallitas húmedas para la limpieza e higiene del bebé.\n- Hipoalergénicas.\n- Sin parabenos.\n- Sin alcohol.\n- Práctico paquete de 120 piezas.\n\nModo de uso:\nRetire una toallita del paquete y limpie suavemente la piel del bebé en cada cambio de pañal. Después de usarla, deséchela en la basura. Cierre bien el empaque después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 120 toallitas húmedas.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. No deseche las toallitas en el inodoro. Si aparece irritación en la piel del bebé, suspenda su uso y consulte a su médico. Mantenga el empaque fuera del alcance de los niños pequeños sin supervisión de un adulto.",
   "ficha": {
-    "marca": "Absorsec",
-    "presentacion": "Paquete de toallitas húmedas",
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Absorsec",
+    "presentacion": "Toallitas húmedas para bebé",
     "contenido_neto": 120,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 120,
-    "otros": "Formato de venta: Paquete"
+    "otros": "Hipoalergénicas; sin parabenos; sin alcohol; Formato de venta: paquete con 120 toallitas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,14 +28,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943471900_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501943471900-03.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-humedas-kleen-bebe-toallitas-humedas-de-kleenbebe-absorsec-96679-7501943471900p",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1505,
+      "fecha": "2026-09-29",
+      "lado_util": 1394
+    },
+    {
+      "archivo": "7501943471900_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501943471900-01.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-humedas-kleen-bebe-toallitas-humedas-de-kleenbebe-absorsec-96679-7501943471900p",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1504,
+      "fecha": "2026-09-29",
+      "lado_util": 1393
+    },
+    {
+      "archivo": "7501943471900_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501943471900-02.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-humedas-kleen-bebe-toallitas-humedas-de-kleenbebe-absorsec-96679-7501943471900p",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1497,
+      "fecha": "2026-09-29",
+      "lado_util": 1387
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/toallitas-humedas-kleen-bebe-toallitas-humedas-de-kleenbebe-absorsec-96679-7501943471900p",
+    "https://www.fahorro.com/kleenbebe-absorsec-toallas-humedas-120-pz.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). TAS HUM ABSORSEC C/120 se interpretó como toallitas húmedas Absorsec con 120 piezas; se asumió uso en bebé (precio muy bajo), pero podría ser de uso general (MLM191653). No se confirmaron ingredientes ni fragancia.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas. Las fichas de tienda casi no traen descripción; las características (hipoalergénicas, sin parabenos, sin alcohol) se leyeron en el empaque de las fotos. Modo de uso y advertencias son generales de toallitas húmedas. Fabricante Kimberly-Clark inferido por la marca KleenBebé.",
+    "notas_imagenes": "3 fotos de tienda (frente y ángulos del paquete de 120). Se descartó una foto con diseño de empaque distinto.",
     "fecha": "2026-09-29"
   }
 }

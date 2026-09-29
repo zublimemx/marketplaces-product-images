@@ -43,6 +43,7 @@
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN corresponde al rastrillo individual BIC Comfort 3 para piel normal (catálogo de Brasil); las 12 piezas y la versión Advance se infirieron del nombre del sistema y de publicaciones de 12 piezas en México. Se ignoró la leyenda de oferta del nombre.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "Sin fotos. Mercado Libre pide verificación (bloqueado) y Cosmos da 403 de Cloudflare. La única ficha con este EAN que abrió (Farmacias Medicity) es un rastrillo BIC Comfort 3 Normal de 1 pieza ('6 unidades' en el título), no la tira de 12 Advance; la de Farmacias del Ahorro es de 4 piezas y otro GTIN. Se borraron las 2 fotos descargadas por presentación equivocada. No hay página oficial de BIC México accesible (500/redirige a corporativo)."
   }
 }

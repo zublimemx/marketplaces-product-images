@@ -4,20 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "GRANEODIN B FRAMBUESA C 24 PAST",
   "nombres_sistema_alternos": [],
-  "titulo": "Graneodin B Sabor Frambuesa 24 Pastillas",
-  "descripcion": "Descripción:\nGraneodin B es un producto en pastillas para la garganta, en sabor frambuesa, que se comercializa en farmacias de México. Esta presentación incluye 24 pastillas. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nCaja con 24 pastillas sabor frambuesa.\n\nModo de uso:\nVía oral. Deje disolver lentamente en la boca; no las mastique. Siga la dosis indicada en el empaque o por su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Graneodín B Benzocaína 10 mg Sabor Frambuesa 24 Pastillas",
+  "descripcion": "Descripción:\nGraneodín B es una pastilla de benzocaína de 10 mg con sabor frambuesa, de Reckitt, que ofrece un agradable alivio a la garganta desde el primer contacto. La benzocaína es un anestésico local, derivado tipo éster del PABA, que bloquea la iniciación y la conducción de los impulsos nerviosos en la zona donde se aplica. Se presenta en caja con 24 pastillas.\n\nBeneficios:\n- Alivio de las molestias y el dolor de garganta\n- Actúa desde el primer contacto\n- Agradable sabor frambuesa\n- Pastillas prácticas para llevar y usar en cualquier momento\n\nComposición:\nCada pastilla contiene benzocaína 10 mg. Excipiente cbp 1 pastilla.\n\nModo de uso:\nVía oral. Deje que la pastilla se disuelva lentamente en la boca; no la muerda ni la trague entera. Siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 24 pastillas sabor frambuesa.\n\nAdvertencias:\nNo lo use si es alérgico a la benzocaína, a los anestésicos locales derivados del PABA o a algún componente de la fórmula. Si el dolor de garganta persiste o empeora, o se acompaña de fiebre, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Graneodin",
-    "variante": "B",
+    "marca": "Graneodín B",
+    "fabricante": "Reckitt",
     "presentacion": "Pastillas",
     "contenido_neto": 24,
     "unidad_contenido": "pastillas",
     "unidades_por_envase": 24,
+    "principio_activo": "Benzocaína",
+    "concentracion": "10 mg",
     "via_administracion": "Oral",
     "sabor_aroma": "Frambuesa",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: caja con 24 pastillas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194717",
@@ -29,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095409004_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw3bfb54d5/images/large/7501095409004_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7501095409004.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 930,
+      "fecha": "2026-09-29",
+      "lado_util": 862
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/graneodin-b-frambuesa-10-mg-caja-c-24-pastillas/p",
+    "https://www.yza.mx/x/MXYZ_7501095409004.html",
+    "https://club.presalud.com/shop/medicamentos-medicamentos-otc-11/7501095409004-graneodin-b-10-mg-frambuesa-24-pastillas-24946"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (Graneodin B, frambuesa, 24 pastillas). No se verificaron composición, fabricante ni si su venta requiere receta (normalmente se vende sin receta, pero confirmar en el empaque). La categoría Dolor de Garganta es la más probable por el tipo de producto. El modo de uso es genérico de pastillas. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La indicación de dolor de garganta sale del texto del empaque (alivio a la garganta) porque las fichas de tienda eran contradictorias. El modo de uso y las advertencias son generales.",
+    "notas_imagenes": "1 foto de frente de la caja de 24 pastillas sabor frambuesa (tienda).",
     "fecha": "2026-09-29"
   }
 }

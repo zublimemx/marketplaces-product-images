@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "RIOPAN GEL 250 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Riopan Gel Magaldrato Suspensión Oral 250 ml",
-  "descripcion": "Descripción:\nRiopan Gel es un antiácido en suspensión oral cuyo principio activo es el magaldrato (hidróxido de aluminio y magnesio). Se utiliza para el alivio de la acidez y las molestias estomacales ocasionales. Se presenta en frasco de 250 ml.\n\nComposición:\n- Principio activo: magaldrato.\n\nModo de uso:\nVía oral. Agite bien el frasco antes de usar y tome la dosis que indique el instructivo del empaque o su médico.\n\nPresentación:\nFrasco con 250 ml de suspensión oral.\n\nAdvertencias:\n- No exceda la dosis recomendada ni lo use de forma prolongada sin consultar a su médico.\n- Consulte a su médico si los síntomas persisten o empeoran.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Riopan Gel Antiácido Magaldrato/Dimeticona 250 ml",
+  "descripcion": "Descripción:\nRiopan Gel es un antiácido en suspensión oral de Takeda que combina magaldrato y dimeticona. Actúa neutralizando el exceso de ácido del estómago y ayuda a reducir los gases, por lo que se usa en molestias como acidez, agruras y reflujo. Se presenta en frasco de 250 ml, para adultos y niños según indicación.\n\nBeneficios:\n- Antiácido de acción rápida para la acidez estomacal y el reflujo.\n- Contiene dimeticona, que ayuda a disminuir la sensación de gases y distensión.\n- Presentación en gel oral, fácil de dosificar.\n- Medicamento de venta sin receta.\n\nComposición:\nCada 100 ml contienen:\n- Magaldrato 8 g\n- Dimeticona 1 g\n- Vehículo cbp 100 ml\n\nModo de uso:\nVía oral. Agite el frasco antes de usarlo y tome la dosis indicada en el instructivo del empaque o por su médico.\n\nPresentación:\nFrasco con 250 ml de suspensión oral (gel).\n\nAdvertencias:\nSi los síntomas persisten o empeoran, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Riopan",
-    "variante": "Gel",
-    "presentacion": "Suspensión oral",
+    "fabricante": "Takeda",
+    "linea": "Gel",
+    "presentacion": "Suspensión oral (gel)",
     "contenido_neto": 250,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "principio_activo": "Magaldrato",
+    "principio_activo": "Magaldrato y dimeticona",
+    "concentracion": "8 g/1 g por 100 ml",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos y niños",
+    "otros": "Tipo: antiácido; Condición de venta: sin receta"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501092793038_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501092793038_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/riopan-gel-8-1-g-100-ml-1-fra-c-250-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 438
+    },
+    {
+      "archivo": "7501092793038_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/08/7501092793038-0557-1.png",
+      "pagina": "https://farmaciasfleming.mx/producto/riopan-susp-gel-250-ml/",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 604,
+      "fecha": "2026-09-29",
+      "lado_util": 560
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/riopan-gel-8-1-g-100-ml-1-fra-c-250-ml.html",
+    "https://farmaciasfleming.mx/producto/riopan-susp-gel-250-ml/",
+    "https://www.yza.mx/riopan-suspension-250ml/MXYZ_7501092793038.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por conocimiento general de la marca (antiácido a base de magaldrato). Falta confirmar la concentración (habitualmente 800 mg/10 ml), el fabricante y el registro sanitario antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. El texto de uso es general porque las fichas no detallan la dosis.",
+    "notas_imagenes": "2 fotos de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

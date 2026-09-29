@@ -5,39 +5,67 @@
   "nombre_sistema": "SALOFALK 500 MG C 40",
   "nombres_sistema_alternos": [],
   "titulo": "Salofalk Mesalazina 500 mg 40 Tabletas",
-  "descripcion": "Descripción:\nSalofalk es un medicamento cuyo principio activo es la mesalazina (mesalamina), un antiinflamatorio intestinal que actúa localmente en el colon. Esta presentación contiene 40 tabletas de 500 mg.\n\nBeneficios:\n- Se emplea en enfermedades inflamatorias del intestino, como la colitis ulcerosa.\n- Su acción es principalmente local, en la pared intestinal.\n\nComposición:\nCada tableta contiene mesalazina 500 mg.\n\nModo de uso:\nPor vía oral, tragando las tabletas enteras con líquido, sin masticarlas. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 40 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a los salicilatos o a la mesalazina. Informe a su médico si tiene problemas de riñón o de hígado, o si toma otros medicamentos. No suspenda el tratamiento sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nSalofalk es un medicamento en tabletas de liberación retardada cuyo principio activo es la mesalazina, un antiinflamatorio intestinal. De acuerdo con su ficha, se emplea en el tratamiento de la enfermedad inflamatoria intestinal, en los síntomas asociados a la enfermedad diverticular sin complicaciones del colon, y en el tratamiento de los episodios agudos y el mantenimiento de la remisión de la colitis ulcerosa. Se presenta en caja con 40 tabletas de 500 mg.\n\nBeneficios:\n- Tratamiento de episodios agudos de colitis ulcerosa.\n- Mantenimiento de la remisión de la colitis ulcerosa.\n- Indicado en la enfermedad inflamatoria intestinal.\n- Tabletas de liberación retardada.\n\nComposición:\nCada tableta contiene mesalazina 500 mg.\n\nModo de uso:\nVía oral. Trague las tabletas enteras. La dosis y la duración del tratamiento deben ser indicadas por su médico.\n\nPresentación:\nCaja con 40 tabletas de 500 mg, de liberación retardada.\n\nAdvertencias:\nNo lo utilice si es alérgico a la mesalazina, a los salicilatos o a algún componente de la fórmula. Informe a su médico si padece enfermedades del riñón o del hígado, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Salofalk",
-    "fabricante": "Dr. Falk Pharma",
-    "presentacion": "Tabletas",
+    "fabricante": "Schwabe Pharma México",
+    "presentacion": "Tabletas de liberación retardada",
     "contenido_neto": 40,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 40,
-    "principio_activo": "Mesalazina (mesalamina)",
+    "principio_activo": "Mesalazina",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "otros": "Formato de venta: caja con 40 tabletas"
   },
-  "receta_mx": "Sí",
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
-      "categoria_rx_sugerida": "MLM457828",
+      "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501168810713_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwde28302b/images/large/7501168810713_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/salofalk-500mg-40-gra/MXYZ_7501168810713.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    },
+    {
+      "archivo": "7501168810713_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw986825d5/images/large/7501168810713_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/salofalk-500mg-40-gra/MXYZ_7501168810713.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/salofalk-500mg-40-gra/MXYZ_7501168810713.html",
+    "https://www.fahorro.com/salofalk-500-mg-oral-40-tabs.html",
+    "https://curitek.com/producto/salofalk-mesalazina/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de la marca, no verificados contra la ficha ni el GTIN. Confirmar forma farmacéutica (tabletas gastrorresistentes vs. otra), fabricante/distribuidor en México y número de piezas. Medicamento con receta según el catálogo del dueño se publica como venta libre.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 3 tiendas. Las tiendas la marcan sin receta, pero la mesalazina suele venderse bajo indicación médica: verificar. Una ficha mencionaba tabletas de 1 g; se usó la de 500 mg por el GTIN. Posología no encontrada. Fabricante según el logo del empaque.",
+    "notas_imagenes": "2 fotos de tienda (ángulo con banda informativa y frente con logo del distribuidor).",
     "fecha": "2026-09-29"
   }
 }

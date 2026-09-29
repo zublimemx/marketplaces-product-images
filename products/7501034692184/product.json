@@ -34,18 +34,55 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501034692184_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501034692184.jpg?v=1726160426&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/jardianz-dpp-25-5-mg-con-30-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 935,
+      "fecha": "2026-09-29",
+      "lado_util": 866
+    },
+    {
+      "archivo": "7501034692184_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501034692184_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1221,
+      "fecha": "2026-09-29",
+      "lado_util": 1131
+    },
+    {
+      "archivo": "7501034692184_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501034692184_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1032,
+      "fecha": "2026-09-29",
+      "lado_util": 956
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/18976-jardianz-dpp-25-mg5-mg-30-tabletas-empagliflozinalinagliptina-boehringer-7501034692184.html",
     "https://www.vademecum.es/mexico/medicamento/1455824/jardianz-dpp-tableta-25-mg-5-mg",
-    "https://farmaciaherrera.com.mx/products/jardianz-dpp-25-5-mg-con-30-tabletas"
+    "https://farmaciaherrera.com.mx/products/jardianz-dpp-25-5-mg-con-30-tabletas",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501034692184_1.jpg",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501034692184_2.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Medicamento con receta (antidiabético). Categoría venta libre asignada por instrucción del dueño; el antidiabético se ubicó en Digestivos y Metabólicos por ser la subcategoría metabólica disponible. Boehringer no tiene ficha pública en MX localizada.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 foto(s): 1 de farmaciaherrera.com.mx (tienda), 2 de fahorro.com (tienda). Frente (Herrera), contra-etiqueta y vista en angulo (Farmacias del Ahorro)."
   }
 }

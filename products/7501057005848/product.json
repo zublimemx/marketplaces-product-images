@@ -4,17 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "CALADRYL CLEAR LOC 180ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Caladryl Clear Loción 180 ml",
-  "descripcion": "Descripción:\nCaladryl Clear es una loción de uso tópico de la marca Caladryl, en presentación transparente. Esta presentación es un frasco de 180 ml. Es un producto de uso externo para el cuidado de la piel irritada.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nModo de uso:\nAgite antes de usar y aplique sobre la zona afectada de la piel, según las indicaciones del empaque.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos y las mucosas, y no lo aplique sobre heridas abiertas. Consulte la composición y las indicaciones en el empaque. Suspenda su uso y consulte al médico si la irritación aumenta o persiste. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Caladryl Clear Loción Pramoxina Acetato de Zinc 180 ml",
+  "descripcion": "Descripción:\nCaladryl Clear es una loción tópica con pramoxina, un anestésico local, y acetato de zinc, que ayuda a aliviar el dolor y la comezón de la piel irritada. Su acción calmante y refrescante ayuda en picaduras de insectos, quemaduras leves y erupciones de la piel. Se presenta en frasco de 180 ml, ideal para toda la familia.\n\nBeneficios:\n- Anestésico tópico para el alivio del prurito causado por reacciones alérgicas, exantemas virales como varicela y sarampión, picaduras de insectos, prurito senil y dermatitis por sustancias irritantes como detergentes y solventes.\n- Auxiliar en el dolor y la comezón causados por quemaduras de primer y segundo grado y por quemaduras solares.\n- Ayuda a calmar la piel afectada por rozaduras y raspones leves.\n- Sensación de frescura sobre la piel.\n\nComposición:\nPramoxina y acetato de zinc, en base de loción.\n\nModo de uso:\nUso externo únicamente. Niños mayores de 2 años y adultos: para dolor y comezón intensos, aplique cada 2 a 3 horas durante uno o dos días y después cada 4 horas; para dolor y comezón de leves a moderados, aplique cada 3 a 4 horas.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nAdvertencias:\nNo lo utilice si existe hipersensibilidad a los componentes de la fórmula. No se recomienda su uso en el embarazo y la lactancia. Evite el contacto con los ojos y no lo aplique en heridas abiertas. Si la irritación persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Caladryl",
+    "fabricante": "Kenvue",
     "linea": "Clear",
-    "variante": "Clear",
     "presentacion": "Loción",
     "contenido_neto": 180,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica"
+    "principio_activo": "Pramoxina; acetato de zinc",
+    "via_administracion": "Tópica",
+    "edad_etapa": "Niños mayores de 2 años y adultos",
+    "otros": "Venta libre; Formato de venta: frasco con 180 ml"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501057005848_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/175441/7501057005848.jpg?v=638336991019200000",
+      "pagina": "https://www.klyns.mx/caladryl-clear-180-ml/p",
+      "ancho_original": 874,
+      "alto_original": 850,
+      "lado_final": 856,
+      "fecha": "2026-09-29",
+      "lado_util": 793
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Dermatologicos/613-caladryl-clear-locion-con-180-ml.html",
+    "https://www.klyns.mx/caladryl-clear-180-ml/p",
+    "https://wecarepharma.mx/products/caladryl-clear-locion-180ml-pramoxina-acetato-de-zinc"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmaron el principio activo, las indicaciones (probablemente comezón por picaduras o irritaciones) ni el fabricante; por eso la descripción es genérica. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en 3 tiendas; una ficha indica que no requiere receta (fracción VI). Fabricante Kenvue inferido (una tienda lo lista como Johnson & Johnson y otra como Grossman); verificar. Concentraciones no encontradas.",
+    "notas_imagenes": "1 foto de tienda (frente del frasco).",
     "fecha": "2026-09-29"
   }
 }

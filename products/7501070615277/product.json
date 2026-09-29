@@ -4,22 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "DAFLON 500M C 20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Daflon 500 mg 20 Tabletas Diosmina Hesperidina",
-  "descripcion": "Descripción:\nDaflon 500 mg es un medicamento del laboratorio Servier en tabletas, a base de fracción flavonoide purificada micronizada compuesta por diosmina y hesperidina.\n\nComposición:\nFracción flavonoide purificada micronizada 500 mg por tableta (diosmina e hesperidina). Consulte en el empaque los demás componentes.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Daflon 500 mg Diosmina/Hesperidina 20 Tabletas",
+  "descripcion": "Descripción:\nDaflon es un medicamento flebotónico y vasoprotector de Servier, distribuido por Sanfer, en tabletas. Contiene diosmina y hesperidina purificada y micronizada: 450 mg de diosmina y 50 mg de hesperidina por tableta, que suman la fracción flavonoide de 500 mg. Se presenta en caja con 20 tabletas y se utiliza en el tratamiento de la insuficiencia venosa y de las molestias hemorroidales.\n\nBeneficios:\n- Ayuda a mejorar el tono de las venas y la circulación de retorno de las piernas.\n- Útil en las molestias de la insuficiencia venosa: pesadez, dolor y cansancio en las piernas.\n- Apoya el tratamiento de la crisis hemorroidal.\n- Fracción flavonoide micronizada para mejor absorción.\n\nComposición:\nCada tableta contiene:\n- Diosmina 450 mg\n- Hesperidina 50 mg\n- Excipiente cbp 1 tableta\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica su médico. Se recomienda tomar las tabletas con alimentos.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nSi los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Daflon",
-    "fabricante": "Servier",
-    "variante": "500 mg",
+    "fabricante": "Sanfer (Servier)",
+    "linea": "500",
     "presentacion": "Tabletas",
     "contenido_neto": 20,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
-    "principio_activo": "Diosmina e hesperidina (fracción flavonoide purificada micronizada)",
-    "concentracion": "500 mg",
+    "principio_activo": "Diosmina y hesperidina",
+    "concentracion": "450 mg/50 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: caja con 20 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457817",
@@ -31,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070615277_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/DAFLON-500MG-TAB-C20-TAB-C20-LABORATORIOS-SANFER-S-A-DE-C.-Disponible-en-Farmasmart.-Compra-en-linea-7501070615277.webp",
+      "pagina": "https://farmasmart.com/daflon-500mg-tab-c20",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 547,
+      "fecha": "2026-09-29",
+      "lado_util": 507
+    },
+    {
+      "archivo": "7501070615277_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501070615277_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/daflon-500-mg-tab-caj-c-20.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 455
+    },
+    {
+      "archivo": "7501070615277_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070615277.png",
+      "pagina": "https://www.fahorro.com/daflon-450-mg-50-mg-20-tabs.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1027,
+      "fecha": "2026-09-29",
+      "lado_util": 950
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/presion-arterial/2771-daflon-500-mg-caja-con-20-tabletas.html",
+    "https://farmasmart.com/daflon-500mg-tab-c20",
+    "https://www.yza.mx/daflon-500mg-20-tabs/MXYZ_7501070615277.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Daflon 500 mg, Servier, 20 tabletas). Falta confirmar si en México se vende con receta (revisar PLM); si requiere receta, la categoría Rx equivalente sería MLM457830. Composición por conocimiento general (450 mg diosmina + 50 mg hesperidina), sin verificar en fuente.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (450 mg/50 mg, comercializado como 500 mg). Las fichas de tienda traen poco texto clínico; las indicaciones son las conocidas de Daflon.",
+    "notas_imagenes": "3 fotos de frente del empaque (tienda).",
     "fecha": "2026-09-29"
   }
 }

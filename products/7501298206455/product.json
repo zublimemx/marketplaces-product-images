@@ -4,8 +4,8 @@
   "linea": "Farma",
   "nombre_sistema": "DABEX XR 500MG T30",
   "nombres_sistema_alternos": [],
-  "titulo": "Dabex XR Metformina 500 mg 30 Tabletas",
-  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es el clorhidrato de metformina, en tabletas de liberación prolongada de 500 mg. Esta presentación contiene 30 tabletas.\n\nBeneficios:\n- Antidiabético oral, indicado como complemento de la dieta y el ejercicio en personas con diabetes mellitus tipo 2.\n- Su liberación prolongada permite una toma al día.\n\nComposición:\nCada tableta de liberación prolongada contiene clorhidrato de metformina 500 mg.\n\nModo de uso:\nPor vía oral, con los alimentos, de preferencia durante la cena. Trague la tableta entera, sin masticarla ni partirla. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 500 mg.\n\nAdvertencias:\nNo lo use si tiene problemas graves de riñón o de hígado, o si es alérgico a la metformina. Existe riesgo de acidosis láctica. Informe a su médico antes de estudios con medio de contraste y evite el consumo excesivo de alcohol. No suspenda ni modifique el tratamiento sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Dabex XR Metformina 500 mg 30 Tabletas Lib. Prolongada",
+  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es el clorhidrato de metformina en tabletas de liberación prolongada. La metformina es un antidiabético oral que ayuda a controlar el nivel de glucosa en la sangre. Esta presentación contiene 30 tabletas de 500 mg, con liberación gradual del principio activo, y se utiliza siempre bajo indicación y vigilancia médica.\n\nBeneficios:\n- Tratamiento de la diabetes mellitus tipo 2 en adultos, como complemento de la dieta y el ejercicio.\n- Mejora la sensibilidad del organismo a la insulina y reduce la producción de glucosa en el hígado.\n- Puede usarse sola o combinada con otros antidiabéticos orales o con insulina, según decida el médico.\n- La liberación prolongada permite un esquema de toma más sencillo.\n\nComposición:\nCada tableta de liberación prolongada contiene clorhidrato de metformina equivalente a 500 mg de metformina.\n\nModo de uso:\nVía oral, con los alimentos. Trague la tableta entera, sin masticarla ni partirla. La dosis, el horario y la duración del tratamiento los determina el médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 500 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No se recomienda en diabetes tipo 1, insuficiencia renal grave, acidosis metabólica ni en situaciones de deshidratación. Evite el consumo excesivo de alcohol durante el tratamiento por el riesgo de acidosis láctica. Informe a su médico si tiene enfermedad del hígado o de los riñones o si toma otros medicamentos. Conservar entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dabex XR",
     "fabricante": "Merck",
@@ -16,7 +16,8 @@
     "principio_activo": "Clorhidrato de metformina",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "otros": "Venta con receta médica; Grupo terapéutico: Antidiabético; Liberación prolongada; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298206455_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501298206455.png",
+      "pagina": "https://www.farmaciasespecializadas.com/dabex-xr-500mg-tab-caj-c-30.html",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 528,
+      "fecha": "2026-09-29",
+      "lado_util": 489
+    },
+    {
+      "archivo": "7501298206455_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://ik.imagekit.io/buscamed/16782215710159272780.webp",
+      "pagina": "https://buscamed.com/buscar/EgH4vqD-dabex-xr-500mg-30-tabletas-1-caja",
+      "ancho_original": 750,
+      "alto_original": 750,
+      "lado_final": 711,
+      "fecha": "2026-09-29",
+      "lado_util": 659
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/dabex-xr-500mg-tab-caj-c-30.html",
+    "https://wecarepharma.mx/en/products/dabex-xr-500mg-con-30-tabletas-metformina",
+    "https://www.farmaciasguadalajara.com/dabex-xr-500-mg-30-tabletas-956260"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Dabex XR 500 mg; no verificados contra el GTIN ni la ficha oficial. Medicamento con receta; según el dueño se publica como venta libre. Categoría Digestivos Venta Libre elegida por ser la que agrupa los medicamentos metabólicos.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de farmacia; contenido y concentración coinciden con la caja. Indicaciones de ficha de farmacia; el modo de uso es el general de la metformina de liberación prolongada.",
+    "notas_imagenes": "2 fotos de frente (tienda: Farmapronto y BuscaMed); una muestra la marca anterior Merck Serono en la caja, misma presentación.",
     "fecha": "2026-09-29"
   }
 }

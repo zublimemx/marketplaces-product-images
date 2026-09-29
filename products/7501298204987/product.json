@@ -4,20 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "CONCOR 2.5MG GRAG C30",
   "nombres_sistema_alternos": [],
-  "titulo": "Concor Bisoprolol 2.5 mg 30 Grageas",
-  "descripcion": "Descripción:\nConcor es un medicamento en grageas de Merck cuyo principio activo es el bisoprolol, un betabloqueador cardioselectivo. Esta presentación contiene 2.5 mg por gragea y se presenta en caja con 30 grageas. Su uso y su dosis deben ser indicados por un médico.\n\nComposición:\nCada gragea contiene bisoprolol (fumarato) 2.5 mg.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y las instrucciones del empaque. No suspenda el tratamiento de forma repentina sin indicación médica.\n\nPresentación:\nCaja con 30 grageas de 2.5 mg.\n\nAdvertencias:\nEs un medicamento que requiere receta médica. No lo utilice si es alérgico al bisoprolol o a algún componente de la fórmula. Informe a su médico si tiene problemas del corazón, asma o enfermedad pulmonar, diabetes, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Puede causar mareo o cansancio; tenga precaución al conducir. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Concor Bisoprolol 2.5 mg 30 Tabletas",
+  "descripcion": "Descripción:\nConcor es un medicamento de Merck cuyo principio activo es el bisoprolol (hemifumarato), un betabloqueador cardioselectivo que bloquea de forma muy selectiva los receptores beta 1. Está indicado para el tratamiento de la hipertensión arterial, de la enfermedad coronaria (angina de pecho) y de la insuficiencia cardiaca crónica estable.\n\nBeneficios:\n- Reduce la frecuencia cardiaca y el consumo de oxígeno del corazón.\n- Una dosis diaria ofrece un efecto sostenido durante 24 horas.\n- El efecto antihipertensivo máximo se alcanza generalmente después de dos semanas de tratamiento.\n\nComposición:\nCada tableta contiene 2.5 mg de hemifumarato de bisoprolol y excipiente.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento los determina el médico; no suspenda el tratamiento por su cuenta.\n\nPresentación:\nCaja con 30 tabletas de 2.5 mg (presentación que algunas fichas nombran como grageas).\n\nAdvertencias:\nMedicamento de venta con receta médica. No debe usarse en caso de hipersensibilidad al bisoprolol, bradicardia grave, bloqueo auriculoventricular de segundo o tercer grado, choque cardiogénico ni insuficiencia cardiaca descompensada. Se requiere precaución en asma bronquial, enfermedad pulmonar obstructiva crónica, diabetes y antes de una cirugía con anestesia general. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Concor",
     "fabricante": "Merck",
-    "variante": "Grageas 2.5 mg",
-    "presentacion": "Grageas",
+    "linea": "Concor",
+    "variante": "2.5 mg",
+    "presentacion": "Tabletas",
     "contenido_neto": 30,
-    "unidad_contenido": "grageas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "principio_activo": "Bisoprolol",
+    "principio_activo": "Bisoprolol (hemifumarato)",
     "concentracion": "2.5 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja con 30 grageas"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298204987_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298204987.jpg",
+      "pagina": "https://www.yza.mx/concor-2.5mg-30-gra/MXYZ_7501298204987.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1330,
+      "fecha": "2026-09-29",
+      "lado_util": 1232
+    },
+    {
+      "archivo": "7501298204987_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298204987_1.jpg",
+      "pagina": "https://www.yza.mx/concor-2.5mg-30-gra/MXYZ_7501298204987.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 369
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/concor.grageas/115/101/7023/77",
+    "https://www.benavides.com.mx/concor-2-5-mg-c-30-grageas",
+    "https://wecarepharma.mx/products/concor-2-5mg-con-30-tabletas-bisoprolol"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (bisoprolol) y fabricante (Merck) tomados de conocimiento general de la marca y del prefijo del GTIN; concentración y piezas salen del nombre. Requiere receta; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. El sistema dice GRAG; el empaque actual dice tabletas. Se usó tabletas en el título.",
+    "notas_imagenes": "2 fotos de tienda (farmacias en línea) del empaque Concor 2.5 mg, caja con 30 tabletas.",
     "fecha": "2026-09-29"
   }
 }

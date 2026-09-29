@@ -34,18 +34,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8020030091252_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/8020030091252-173436-1.png",
+      "pagina": "https://farmaciasfleming.mx/producto/vessel-due-f-250-lru-c-50-cap/",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 825,
+      "fecha": "2026-09-29",
+      "lado_util": 764
+    },
+    {
+      "archivo": "8020030091252_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/8020030091252-3044-1.png",
+      "pagina": "https://farmaciasfleming.mx/producto/vessel-due-f-250-lru-c-50-cap/",
+      "ancho_original": 940,
+      "alto_original": 788,
+      "lado_final": 657,
+      "fecha": "2026-09-29",
+      "lado_util": 609
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/9344-vessel-due-f-250-lru-caja-con-50-capsulas-sulodexida-laboratorio-alfasigma-rx-8020030091252.html",
     "https://www.vademecum.es/mexico/medicamento/1277977/vessel-due-f-capsulas-25-mg",
-    "https://curitek.com/producto/vessel-due-f-sulodexida/"
+    "https://curitek.com/producto/vessel-due-f-sulodexida/",
+    "https://farmaciasfleming.mx/producto/vessel-due-f-250-lru-c-50-cap/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Medicamento con receta. En algunos catálogos MX aparece como Vessel Due F 25 mg (equivale a 250 LRU); el catálogo ML MLM39474253 se titula así. Se eligió Para la Sangre por ser antitrombótico (B01AB11); Cardiovasculares Venta Libre (MLM457817) sería la alternativa.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 2 de farmaciasfleming.mx (tienda). Curitek tenia marca de agua y Medina era menor a 500 px; las fotos vienen de Farmacias Fleming."
   }
 }

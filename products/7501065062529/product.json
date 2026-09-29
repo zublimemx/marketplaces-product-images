@@ -5,9 +5,10 @@
   "nombre_sistema": "ROBAX GOLD 500 200MG C24 TABS",
   "nombres_sistema_alternos": [],
   "titulo": "Robax Gold Metocarbamol Ibuprofeno 500/200 mg 24 Tabletas",
-  "descripcion": "Descripción:\nRobax Gold es un medicamento en tabletas que combina metocarbamol de 500 mg con ibuprofeno de 200 mg, es decir, un relajante muscular junto con un antiinflamatorio no esteroideo. Se presenta en caja con 24 tabletas. Consulte en el empaque las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\n- Metocarbamol 500 mg\n- Ibuprofeno 200 mg\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nPuede causar somnolencia y molestias gástricas; evite manejar o usar maquinaria si le produce sueño. No lo use si es alérgico al ibuprofeno, a la aspirina o a otros antiinflamatorios. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nRobax Gold es un medicamento de Pfizer que combina metocarbamol, un relajante muscular, con ibuprofeno, un analgésico y antiinflamatorio. Alivia el dolor asociado con espasmos musculares, como el dolor de espalda causado por estrés, malas posturas y actividad física excesiva. Esta presentación contiene 24 tabletas.\n\nBeneficios:\n- Auxiliar en el alivio de los síntomas asociados con dolor de espalda, contracturas musculares y tensión muscular.\n- Alivia el dolor por tensión en los músculos del cuello, distensión muscular y esguinces.\n- Doble acción: relajante muscular y analgésico con acción antiinflamatoria.\n\nComposición:\nCada tableta contiene metocarbamol 500 mg e ibuprofeno 200 mg.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 1 tableta cada 4 o 6 horas, o 2 tabletas cada 8 horas, dependiendo de la intensidad del dolor. No exceder de 6 tabletas en 24 horas. No se administre por más de 5 días.\n\nPresentación:\nCaja con 24 tabletas de 500 mg/200 mg.\n\nAdvertencias:\nNo se use en el último trimestre del embarazo ni durante la lactancia. No se administre a menores de 12 años. No lo use si es alérgico al ibuprofeno, al ácido acetilsalicílico u otros antiinflamatorios, al metocarbamol o a algún componente de la fórmula, ni si tiene úlcera gastrointestinal o antecedente de sangrado. Consulte a su médico si tiene hipertensión, cirrosis, asma o enfermedad renal o cardiaca. Puede causar somnolencia: no maneje ni opere maquinaria pesada durante su uso. No lo tome con alcohol ni con anticoagulantes. Contiene amarillo No. 6. Conservar a no más de 25 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Robax",
+    "fabricante": "Pfizer",
     "linea": "Gold",
     "variante": "Gold 500/200 mg",
     "presentacion": "Tabletas",
@@ -17,10 +18,11 @@
     "principio_activo": "Metocarbamol e ibuprofeno",
     "concentracion": "500 mg/200 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "571M2000 SSA VI",
+    "otros": "Grupo terapéutico: Relajante muscular y analgésico; Contiene amarillo No. 6; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457822",
@@ -32,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065062529_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065062529_2.jpg",
+      "pagina": "https://farmaenvios.com/p/robax-gold-500200-mg-24-tabletas-7501065062529",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1907,
+      "fecha": "2026-09-29",
+      "lado_util": 1766
+    },
+    {
+      "archivo": "7501065062529_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://d1ecevz6mn0ikr.cloudfront.net/FE_7501065062529_515_1000.webp",
+      "pagina": "https://farmaenvios.com/p/robax-gold-500200-mg-24-tabletas-7501065062529",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 875,
+      "fecha": "2026-09-29",
+      "lado_util": 811
+    },
+    {
+      "archivo": "7501065062529_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065062529_3.jpg",
+      "pagina": "https://farmaenvios.com/p/robax-gold-500200-mg-24-tabletas-7501065062529",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1522,
+      "fecha": "2026-09-29",
+      "lado_util": 1410
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaenvios.com/p/robax-gold-500200-mg-24-tabletas-7501065062529",
+    "https://grupofarmapronto.com/producto/robax-gold-500mg-200mg-c-24-tabletas/",
+    "https://wecarepharma.mx/en/products/robax-gold-500-200mg-con-24-tabletas-metocarbamol-ibuprofeno"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). La composición (metocarbamol 500 mg + ibuprofeno 200 mg) se dedujo de la abreviatura GOLD 500 200MG y de conocimiento previo; no se confirmó ni se identificó el fabricante. Si requiere receta, usar MLM457826. Verificar composición antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, dosis, contraindicaciones y precauciones tomadas del reverso de la caja (registro SSA VI, venta libre).",
+    "notas_imagenes": "3 fotos (tienda: Farmacias del Ahorro y Farmaenvios): frente, ángulo y reverso con la información legal.",
     "fecha": "2026-09-29"
   }
 }

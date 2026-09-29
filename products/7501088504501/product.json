@@ -33,18 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088504501_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/180218/7501088504501_1.jpg.jpg",
+      "pagina": "https://www.klyns.mx/meteospasmyl-60-mg-300-mg-c-20-tabs/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 918,
+      "fecha": "2026-09-29",
+      "lado_util": 850
+    },
+    {
+      "archivo": "7501088504501_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/180219/7501088504501_5.jpg.jpg",
+      "pagina": "https://www.klyns.mx/meteospasmyl-60-mg-300-mg-c-20-tabs/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1127,
+      "fecha": "2026-09-29",
+      "lado_util": 1043
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/meteospasmyl.capsulas/92/101/8629/14",
     "https://farmalisto.com.mx/gastroenterologia/3214-meteospasmyl-caja-con-20-capsulas-7501088504501.html",
-    "https://www.actuamed.com.mx/marca/25550"
+    "https://www.actuamed.com.mx/marca/25550",
+    "https://www.klyns.mx/meteospasmyl-60-mg-300-mg-c-20-tabs/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "PLM indica que su venta requiere receta médica (registro SSA IV) y actuamed lo marca RX; una farmacia en línea lo muestra sin receta.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 fotos (tienda, Farmacias Klyns, 1000 y 1200 px): caja Meteospasmyl 20 cápsulas de frente y con blíster. Se borraron 2 imágenes que eran paneles de texto de la caja. Medina (240x300) y actuamed (231x231) demasiado pequeñas."
   }
 }

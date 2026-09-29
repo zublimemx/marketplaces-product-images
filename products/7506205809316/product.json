@@ -6,19 +6,19 @@
   "nombres_sistema_alternos": [
     "ENFAMIL 1 PREMIUM 0 A 6M 800G PVO"
   ],
-  "titulo": "Fórmula Infantil Enfamil 1 Premium Lata 800 g",
-  "descripcion": "Descripción:\nEnfamil 1 Premium es una fórmula infantil en polvo de Mead Johnson para bebés desde el nacimiento, en presentación de lata de 800 g. Está indicada para la alimentación de lactantes cuando la lactancia materna no es posible o se complementa, siempre con la orientación del pediatra. El empaque la señala para bebés de 0 a 12 meses.\n\nPresentación:\nLata de 800 g de fórmula en polvo.\n\nModo de uso:\nPrepare la fórmula exactamente como indica el empaque, con agua previamente hervida y enfriada, usando la medida incluida en la lata. Use biberones y utensilios limpios y esterilizados, y deseche la fórmula que el bebé no consuma.\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé. Consulte a su pediatra antes de usar una fórmula infantil. No se recomienda para bebés con alergia a la proteína de la leche de vaca sin indicación médica. Después de abrir, mantenga la lata bien cerrada, en un lugar fresco y seco, y consúmala en el tiempo indicado en el empaque.",
+  "titulo": "Fórmula Infantil Enfamil Premium Pro Select Etapa 1 800 g",
+  "descripcion": "Descripción:\nEnfamil Premium Pro Select Etapa 1 es una fórmula infantil en polvo para lactantes de 0 a 12 meses, con hierro y una mezcla de prebióticos: galactooligosacáridos (GOS), polidextrosa (PDX) y HMO 2'-FL. Incluye además MFGM, DHA, vitaminas y minerales. Se presenta en lata de 800 g.\n\nCaracterísticas:\n- Triple mezcla prebiótica con HMO 2'-FL, PDX y GOS.\n- Con MFGM y DHA.\n- Con hierro, vitaminas y minerales.\n- Etapa 1, para bebés de 0 a 12 meses.\n- Formato en polvo.\n\nModo de uso:\nPrepare la fórmula siguiendo exactamente las instrucciones y las cantidades indicadas en la lata, con la medida que incluye el envase. Consulte a su pediatra sobre la cantidad adecuada según la edad y el peso del bebé.\n\nPresentación:\nLata con 800 g de polvo.\n\nAdvertencias:\n- La leche materna es el mejor alimento para el bebé y debe ser la opción preferida siempre que sea posible. Este producto no sustituye a la leche materna.\n- Consulte a su pediatra o médico sobre el uso de este producto.\n- Prepare y conserve la fórmula según las indicaciones del envase; deseche lo que el bebé no consuma.",
   "ficha": {
     "marca": "Enfamil",
     "fabricante": "Mead Johnson",
-    "linea": "Premium",
+    "linea": "Premium Pro Select",
     "variante": "Etapa 1",
-    "presentacion": "Lata en polvo",
+    "presentacion": "Fórmula infantil en polvo",
     "contenido_neto": 800,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "edad_etapa": "0 a 12 meses",
-    "otros": "Formato de venta: Unidad; Tipo de leche: Fórmula infantil en polvo"
+    "edad_etapa": "0 a 12 meses (Etapa 1)",
+    "otros": "Con hierro, MFGM y DHA; Mezcla prebiótica: HMO 2'-FL, PDX y GOS; Formato: polvo en lata; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506205809316_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe8c78dce/images/large/7506205809316_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/enfamil-1-de-0-a-12-meses-800-g/MXYZ_7506205809316.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 894,
+      "fecha": "2026-09-29",
+      "lado_util": 828
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/enfamil-premium-etapa-1-formula-infantil-para-lactantes-de-0-a-6-meses-lata-de-800-gr.html",
+    "https://www.heb.com.mx/enfamil-formula-infantil-etapa-1-800-g-143590/p",
+    "https://www.yza.mx/enfamil-1-de-0-a-12-meses-800-g/MXYZ_7506205809316.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (ENFAMIL 1 PREMIUM 800G 0 A 12 MESES) y conocimiento general de la marca. No se incluyó composición ni beneficios específicos por no estar verificados. Confirmar el rango de edad de Etapa 1 (el nombre dice 0 a 12 meses; en otras fuentes suele ser 0 a 6) y la ficha oficial de Mead Johnson. El GTIN tiene prefijo 7506205 (Mead Johnson).",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en dos cadenas (lata de 800 g, etapa 1, 0 a 12 meses). El sitio oficial de Enfamil México no abrió. El fabricante (Mead Johnson) es conocimiento de la marca, no salió de las fuentes. Las instrucciones de preparación no aparecen en las fichas; se remite a la lata.",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA), lata de frente sin textos superpuestos. Se descartaron otras 3 por traer cintillo '800 g / 0 a 12 meses' o ser duplicadas.",
     "fecha": "2026-09-29"
   }
 }

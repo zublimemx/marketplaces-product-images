@@ -4,15 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "CUERPO AMARILLO SOL INY C6 HORMONA",
   "nombres_sistema_alternos": [],
-  "titulo": "Cuerpo Amarillo Solución Inyectable Caja con 6",
-  "descripcion": "Descripción:\nCuerpo Amarillo es un medicamento hormonal de administración inyectable, en solución. Esta presentación es una caja con 6 piezas. Su aplicación debe realizarla personal de salud y bajo indicación médica.\n\nPresentación:\nCaja con 6 piezas de solución inyectable.\n\nAdvertencias:\nConsulte la fórmula completa, las indicaciones y la dosis en el empaque. No utilice este medicamento sin supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Cuerpo Amarillo Fuerte Progesterona 50 mg/2 ml 6 Ampolletas",
+  "descripcion": "Descripción:\nCuerpo Amarillo Fuerte es una solución inyectable con progesterona, una hormona con efecto progestacional, de administración intramuscular. Se presenta en caja con 6 ampolletas de 2 ml con 50 mg de progesterona cada una. Es un medicamento de venta con receta médica.\n\nBeneficios:\n- Indicado en alteraciones del ciclo menstrual, como la amenorrea de origen ovárico.\n- Indicado en la hemorragia uterina disfuncional.\n- Indicado en la amenaza de aborto.\n- Soporte de la fase lútea en reproducción asistida.\n\nComposición:\nCada ampolleta de 2 ml contiene progesterona 50 mg. Vehículo cbp 2 ml.\n\nModo de uso:\nVía intramuscular profunda. La dosis habitual descrita en su ficha es de una a dos ampolletas al día (50 a 100 mg), pero la dosis y la duración del tratamiento deben ser indicadas por el médico según cada caso.\n\nPresentación:\nCaja con 6 ampolletas de 2 ml.\n\nAdvertencias:\nSu venta requiere receta médica. Está contraindicado en aborto incompleto, inevitable, retenido, diferido, séptico, en evolución o completo, y en pacientes con disfunción o enfermedad hepática. Puede modificar algunas pruebas de laboratorio, como las de función tiroidea. Informe a su médico si tiene otras enfermedades o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Cuerpo Amarillo",
+    "marca": "Cuerpo Amarillo Fuerte",
+    "fabricante": "Sanfer",
     "presentacion": "Solución inyectable",
     "contenido_neto": 6,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "ampolletas de 2 ml",
     "unidades_por_envase": 6,
-    "via_administracion": "Inyectable"
+    "principio_activo": "Progesterona",
+    "concentracion": "50 mg / 2 ml",
+    "via_administracion": "Intramuscular",
+    "otros": "Medicamento hormonal; Formato de venta: caja con 6 ampolletas de 2 ml"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -26,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385410000_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20240822_86517.jpg",
+      "pagina": "https://www.benavides.com.mx/cuerpo-amarillo-progesterona-6-ud-ampolletas",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 417
+    },
+    {
+      "archivo": "7501385410000_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385410000_3_1.jpg?width=1000&height=1000",
+      "pagina": "https://www.benavides.com.mx/cuerpo-amarillo-progesterona-6-ud-ampolletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1387,
+      "fecha": "2026-09-29",
+      "lado_util": 1285
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/cuerpo-amarillo-progesterona-6-ud-ampolletas",
+    "https://www.medicamentosplm.com/Home/productos/cuerpo.amarillo.fuerte.solucion.inyectable/160/101/77502/162",
+    "https://www.fahorro.com/cuerpo-amarillo-fuerte-50-mg-solucion-inyectable-2-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Por el nombre parece una hormona del cuerpo lúteo (posiblemente progesterona), pero no se confirmó principio activo, concentración, volumen por ampolleta ni fabricante; se omitieron. Los inyectables hormonales normalmente requieren receta. Verificar antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tienda. El nombre del sistema dice 'Sol'; corresponde a Cuerpo Amarillo Fuerte 50 mg/2 ml de Sanfer. Requiere receta según ficha de farmacia (una tienda marca 'No', se tomó la ficha con leyenda de receta).",
+    "notas_imagenes": "2 fotos de tienda (frente y ángulo del empaque de Sanfer).",
     "fecha": "2026-09-29"
   }
 }

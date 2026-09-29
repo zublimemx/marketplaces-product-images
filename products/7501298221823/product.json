@@ -4,19 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "NEUROBION DC 10G C3 AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "Neurobion DC Solución Inyectable 3 Ampolletas",
-  "descripcion": "Descripción:\nNeurobion DC es un medicamento inyectable de la línea Neurobion, en caja con 3 ampolletas. Es un producto de uso médico que se administra por vía inyectable, por lo que su aplicación debe ser realizada por personal de salud calificado y bajo indicación médica. Consulte la composición, la indicación y la dosis exactas en el empaque.\n\nPresentación:\nCaja con 3 ampolletas inyectables.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Neurobion DC Doble Cámara 10 mg 3 Jeringas Prellenadas",
+  "descripcion": "Descripción:\nNeurobión DC es una solución inyectable de Merck en jeringa prellenada de doble cámara que combina las vitaminas B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina), en concentración de 100 mg / 100 mg / 10 mg. La marca Neurobión presenta sus vitaminas B como auxiliares para el cuidado de los nervios, en cuadros de neuritis y neuropatías, y en la prevención y el tratamiento de deficiencias de vitaminas B1, B6 y B12.\n\nCaracterísticas:\n- Jeringa prellenada de doble cámara: una cámara con solución clara de vitaminas B1 y B6 y otra con solución roja de vitamina B12.\n- Se mezclan al momento de aplicar la dosis.\n- Presentación con 3 jeringas.\n\nComposición:\nCada jeringa prellenada contiene: Cámara I (solución clara): clorhidrato de tiamina (vitamina B1) 100 mg, clorhidrato de piridoxina (vitamina B6) 100 mg, excipiente c.b.p. 1 ml. Cámara II (solución roja): cianocobalamina (vitamina B12) 10 mg, excipiente c.b.p. 1 ml.\n\nModo de uso:\nUso inyectable. Debe aplicarlo personal de salud, en la dosis y con la frecuencia que indique su médico.\n\nPresentación:\nCaja con 3 jeringas prellenadas de doble cámara.\n\nAdvertencias:\n- No lo use si es alérgico a alguna de las vitaminas o a los componentes de la fórmula.\n- Consulte a su médico si está embarazada o en periodo de lactancia.\n- Si los síntomas persisten o empeoran, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Neurobion",
+    "marca": "Neurobión",
+    "fabricante": "Merck",
     "linea": "DC",
-    "presentacion": "Solución inyectable en ampolletas",
+    "variante": "Doble cámara",
+    "presentacion": "Solución inyectable en jeringa prellenada de doble cámara",
     "contenido_neto": 3,
-    "unidad_contenido": "ampolletas",
+    "unidad_contenido": "jeringas",
     "unidades_por_envase": 3,
+    "principio_activo": "Tiamina (B1), piridoxina (B6), cianocobalamina (B12)",
+    "concentracion": "100 mg / 100 mg / 10 mg",
     "via_administracion": "Inyectable",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad; Venta sin receta según farmacias"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457812",
@@ -28,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298221823_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwcd5faace/images/large/7501298221823_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/neurobion-dc-100mg100mg10mg-3-jga/MXYZ_7501298221823.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 838,
+      "fecha": "2026-09-29",
+      "lado_util": 775
+    },
+    {
+      "archivo": "7501298221823_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501298221823_e43bb2f0-523f-4073-aae9-33dfbf2f31f6.jpg?v=1701392592&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/24479",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 991,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/neurobion-dc-100mg100mg10mg-3-jga/MXYZ_7501298221823.html",
+    "https://www.fahorro.com/neurobion-doble-camara-3-jeringas-prellenadas-de-10-mg.html",
+    "https://farmaciasanjorge.com/products/24479"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. No se confirmó la composición de Neurobion DC ni qué significa 10G del nombre del sistema (no se incluyó en el título). Descripción mínima y neutral. Verificar composición, concentración, fabricante actual y si requiere receta antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en farmacias. El nombre del sistema dice ampolletas, pero el producto es jeringa prellenada de doble cámara (3 jeringas). La concentración 100/100/10 mg viene de la caja y de una farmacia; otra ficha tiene un error de captura. El sitio oficial de Neurobión México solo lista las tabletas, así que las indicaciones son las generales de la marca. Las farmacias lo marcan como venta sin receta.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias YZA y Farmacia San Jorge), frente de la caja. Se descartó una tercera por traer un sello de '3 jeringas' superpuesto.",
     "fecha": "2026-09-29"
   }
 }

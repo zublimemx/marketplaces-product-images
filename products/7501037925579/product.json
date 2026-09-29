@@ -32,7 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501037925579_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501037925579_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/trayenta-5mg-tab-caj-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 710,
+      "fecha": "2026-09-29",
+      "lado_util": 658
+    },
+    {
+      "archivo": "7501037925579_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501037925579_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/trayenta-5mg-tab-caj-c-30.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 677,
+      "fecha": "2026-09-29",
+      "lado_util": 627
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/medicamentos-para-diabetes/1738-precio-trayenta-5mg-30-tabletas-linagliptina-7501037925579.html",
@@ -43,6 +66,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación confirmados (linagliptina 5 mg, 30 tabletas, requiere receta). Registro sanitario tomado de una farmacia en línea. La categoría de venta libre más cercana para antidiabéticos es Digestivos Venta Libre (dominio digestivo y metabólico). Indicación, dosis y advertencias redactadas con información general de la ficha de linagliptina; la página de la farmacia no las traía.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501037925579_1.jpg, 7501037925579_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

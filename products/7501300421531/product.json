@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300421531_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501300421531.jpg?v=1744671075",
+      "pagina": "https://wecarepharma.mx/products/dolac-10mg-con-20-capsulas-ketorolaco",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 366
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://wecarepharma.mx/products/dolac-10mg-con-20-capsulas-ketorolaco",
@@ -45,6 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Requiere receta médica. Sin ficha del laboratorio; datos de dosis y registro tomados de una ficha de vademécum. El ketorolaco se ubicó en Musculoarticulares con Receta por su grupo ATC (AINE).",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, WeCare Pharma, 500x500): caja Dolac 10 mg ketorolaco, 20 cápsulas. La foto de Klyns era idéntica y se borró por duplicada."
   }
 }

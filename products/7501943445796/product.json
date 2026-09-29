@@ -32,18 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943445796_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943445796.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1401,
+      "fecha": "2026-09-29",
+      "lado_util": 1298
+    },
+    {
+      "archivo": "7501943445796_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20231109_1025953.jpg",
+      "pagina": "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 409
+    }
+  ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
     "https://www.huggies.com.mx/productos/huggies-supreme/",
     "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
-    "https://www.mercadolibre.com.mx/panales-huggies-supreme-etapa-6-unisex-36-piezas/p/MLM17379842"
+    "https://www.mercadolibre.com.mx/panales-huggies-supreme-etapa-6-unisex-36-piezas/p/MLM17379842",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501943445796.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s): 1 de fahorro.com (tienda), 1 de benavides.com.mx (tienda). Diseno actual Proteccion Delicada. Se descartaron el diseno anterior Pure & Natural y dos graficos promocionales."
   }
 }

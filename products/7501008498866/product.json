@@ -5,7 +5,7 @@
   "nombre_sistema": "FLANAX 550MG C6 TABS 105",
   "nombres_sistema_alternos": [],
   "titulo": "Flanax Naproxeno Sódico 550 mg 6 Tabletas",
-  "descripcion": "Descripción:\nFlanax 550 mg es un medicamento de Bayer en tabletas cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo (AINE). Se presenta en caja con 6 tabletas. Consulte en el empaque las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\nCada tableta contiene 550 mg de naproxeno sódico.\n\nPresentación:\nCaja con 6 tabletas de 550 mg.\n\nAdvertencias:\nLos antiinflamatorios no esteroideos pueden causar molestias gástricas. No lo use si es alérgico al naproxeno, a la aspirina o a otros antiinflamatorios, ni durante el embarazo o la lactancia sin indicación médica. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nFlanax 550 es un medicamento de Bayer cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo con acción analgésica. Cada tableta contiene 550 mg y se indica para aliviar la inflamación y el dolor asociados a torceduras, distensiones, traumatismos menores, dolores dentales y cólicos menstruales. Esta presentación contiene 6 tabletas.\n\nBeneficios:\n- Auxiliar en el tratamiento antiinflamatorio después de torceduras, distensiones y otros traumatismos menores en tejidos blandos.\n- Para padecimientos inflamatorios agudos, cólicos menstruales (dismenorrea primaria y secundaria), dolores dentales y traumatismos.\n- Ayuda a disminuir la inflamación asociada con las infecciones de las vías respiratorias superiores, junto con el antibiótico o antiviral indicado por el médico.\n- Una sola tableta cada 24 horas.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg.\n\nModo de uso:\nVía oral, junto con los alimentos. Una tableta cada 24 horas hasta por 5 días. No se administre por más de 5 días en padecimientos inflamatorios y dolorosos comunes.\n\nPresentación:\nCaja con 6 tabletas de 550 mg.\n\nAdvertencias:\nNo se administre a menores de 12 años. No se use durante el embarazo ni la lactancia. No lo use si es alérgico al naproxeno, al ácido acetilsalicílico u otros antiinflamatorios, si tiene úlcera péptica activa o sangrado gastrointestinal, insuficiencia cardiaca grave, o insuficiencia renal o hepática. Puede causar acidez, náusea, cólico, dolor de cabeza, mareo o hinchazón de pies y manos; si esto ocurre, suspenda el medicamento. Consulte a su médico si toma medicamentos para epilepsia, ácido úrico, presión arterial, ciclosporinas u otros antiinflamatorios. Conservar a no más de 30 °C, con la caja bien cerrada y protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Flanax",
     "fabricante": "Bayer",
@@ -17,10 +17,11 @@
     "principio_activo": "Naproxeno sódico",
     "concentracion": "550 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "006M90 SSA VI",
+    "otros": "Grupo terapéutico: Antiinflamatorio y analgésico; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194673",
@@ -32,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008498866_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008498866_2.jpg",
+      "pagina": "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-6-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 982,
+      "fecha": "2026-09-29",
+      "lado_util": 910
+    },
+    {
+      "archivo": "7501008498866_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008498866_1.jpg",
+      "pagina": "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-6-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1352,
+      "fecha": "2026-09-29",
+      "lado_util": 1252
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-6-tabletas.html",
+    "https://wecarepharma.mx/en/products/flanax-550mg-con-6-tabletas-naproxeno",
+    "https://grupofarmapronto.com/producto/flanax-550-mg-c-6-tabletas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Producto identificado por nombre y conocimiento previo (Flanax, Bayer, prefijo GTIN 7501008); no se confirmó el GTIN ni la presentación de 6 tabletas. No se confirmó si la presentación de 550 mg se vende sin receta en México. Si requiere receta, usar MLM457826 (Musculoarticulares con Receta). El 105 final del nombre se ignoró.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicación, dosis, contraindicaciones e interacciones tomadas del reverso de la caja (registro SSA VI, venta libre). La página del fabricante devolvió acceso denegado.",
+    "notas_imagenes": "2 fotos (tienda: Farmacias del Ahorro): frente y reverso de la caja de 6 tabletas.",
     "fecha": "2026-09-29"
   }
 }

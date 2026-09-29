@@ -28,18 +28,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "041333404486_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.cyberpuerta.mx/img/product/XL/CP-DURACELL-PIDUAKAAAC5-f30620.jpg",
+      "pagina": "https://www.abasteo.mx/Energia/Adaptadores-Cargadores-y-Pilas/Pilas/Duracell-Pila-Alcalina-AAA-5-Piezas-abast.html",
+      "ancho_original": 712,
+      "alto_original": 852,
+      "lado_final": 912,
+      "fecha": "2026-09-29",
+      "lado_util": 845
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://tauber.com.mx/product/pila-alcalina-aaa-duracell-promopack-c-5-pzas-duracell-41333404486",
     "https://diten.mx/Bateria-Alcalina-Duracell-AAA-41333404486-1-5V-Paq-41333404486",
-    "https://www.abasteo.mx/Energia/Adaptadores-Cargadores-y-Pilas/Pilas/Duracell-Pila-Alcalina-AAA-5-Piezas-abast.html"
+    "https://www.abasteo.mx/Energia/Adaptadores-Cargadores-y-Pilas/Pilas/Duracell-Pila-Alcalina-AAA-5-Piezas-abast.html",
+    "https://www.cyberpuerta.mx/img/product/XL/CP-DURACELL-PIDUAKAAAC5-f30620.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado con 12 dígitos (sin cero inicial) como Duracell AAA promopack 4+1 (5 piezas). No se encontró ficha del fabricante; el voltaje y el modelo MN2400 son datos estándar de la pila alcalina AAA Duracell.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Cyberpuerta, vía Abasteo): blíster Duracell AAA 4+1, 852 px."
   }
 }

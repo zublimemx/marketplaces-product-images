@@ -4,18 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR JUM C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales KleenBebé Absorsec Jumbo 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para bebé de la línea Absorsec de KleenBebé, marca de Kimberly-Clark, en talla Jumbo y paquete de 40 piezas. Consulte el empaque para conocer el rango de peso recomendado y las instrucciones de uso.\n\nPresentación:\nPaquete con 40 pañales desechables talla Jumbo.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la talla corresponda al peso de su bebé.",
+  "titulo": "Pañales KleenBebé Absorsec Etapa 5 Jumbo 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales KleenBebé Absorsec Unisex talla Jumbo (Etapa 5) son pañales desechables para bebés de 11 a 14.5 kilogramos. Vienen en paquete de 40 piezas y están pensados para dar protección y comodidad durante todo el día y la noche.\n\nCaracterísticas:\n- Tecnología de máxima absorción\n- Barreras anti-escurrimientos para mayor protección\n- Elásticos ajustables para un mejor ajuste a la cintura y las piernas\n- Cubierta respirable\n- Adicionados con aloe, manzanilla y vitamina E\n- Versión unisex, para niños y niñas\n\nModo de uso:\nElija la etapa según el peso del bebé. Coloque el pañal por debajo del bebé, ajuste las cintas adhesivas a la cintura y acomode las barreras de las piernas. Cámbielo con frecuencia y deséchelo en la basura.\n\nPresentación:\nPaquete con 40 pañales talla Jumbo, Etapa 5.\n\nAdvertencias:\nProducto desechable de un solo uso. No tire el pañal al inodoro. No deje al bebé sin supervisión durante el cambio. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "KleenBebé",
-    "fabricante": "Kimberly-Clark de México",
+    "fabricante": "Kimberly-Clark",
     "linea": "Absorsec",
+    "variante": "Jumbo",
     "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 5",
     "talla": "Jumbo",
-    "otros": "Formato de venta: Paquete"
+    "genero": "Unisex",
+    "otros": "Peso del bebé: de 11 a 14.5 kg; Con aloe, manzanilla y vitamina E; Formato de venta: paquete con 40 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "https://www.kleenbebe.com",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017372775_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd45f2b98/images/large/7501017372775_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/kleenbebe-absorsec-jumbo-40-pzas/MXYZ_7501017372775.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 970,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    },
+    {
+      "archivo": "7501017372775_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/305468-1000-1000/7501017372775.jpg?v=638960665653770000",
+      "pagina": "https://www.lagranbodega.com.mx/kleen-bebe-absorsec-jumbo-40-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 990,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    }
+  ],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.chedraui.com.mx/panales-kleenbebe-absorsec-etapa-5-jumbo-40-panales-3003352/p",
+    "https://www.yza.mx/kleenbebe-absorsec-jumbo-40-pzas/MXYZ_7501017372775.html",
+    "https://www.lagranbodega.com.mx/kleen-bebe-absorsec-jumbo-40-piezas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificación por inferencia: el GTIN comparte prefijo (7501017) con otros productos de Kimberly-Clark del sistema (SUAVE JUM, SUAVE GDE, PLO KLEENEX) y el sitio de KleenBebé menciona una línea Absorsec en su menú; 'ABSOR' se interpretó como Absorsec y 'JUM' como Jumbo. No se confirmó el producto ni el rango de peso ni la etapa (no se puso etapa en el título). La URL oficial es la página general de la marca. Repetir la investigación con búsquedas disponibles.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema abreviaba KleenBebé Absorsec Jumbo. El fabricante Kimberly-Clark se deduce de la marca KleenBebé; no aparece en las fuentes leídas. El modo de colocación es general.",
+    "notas_imagenes": "2 fotos de tienda del paquete de 40 piezas talla Jumbo, de frente.",
     "fecha": "2026-09-29"
   }
 }

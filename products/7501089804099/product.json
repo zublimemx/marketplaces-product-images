@@ -4,17 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "AUTRIN 600 MG C 36 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Autrin 600 mg 36 Tabletas",
-  "descripcion": "Descripción:\nAutrin 600 mg es un producto en tabletas en presentación de caja con 36 piezas. Consulte la composición, la indicación específica y la dosis recomendada en el empaque o con su médico.\n\nPresentación:\nCaja con 36 tabletas de 600 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia, o si toma otros medicamentos.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Autrin 600 Hierro y Vitaminas 36 Tabletas",
+  "descripcion": "Descripción:\nAutrin 600 es un antianémico en tabletas del laboratorio Armstrong que combina hierro (fumarato ferroso), ácido fólico y vitaminas. Está indicado en anemias por deficiencia de hierro (microcítica hipocrómica), anemias del embarazo, anemias nutricionales, megaloblásticas y anemias asociadas con sangrado crónico. Se presenta en frasco con 36 tabletas.\n\nCaracterísticas:\n- Aporta hierro junto con ácido fólico y vitaminas.\n- En anemia por deficiencia de hierro, el tratamiento se continúa hasta que se normalicen las cifras de hemoglobina, aproximadamente tres meses, según indique su médico.\n- Presentación de 36 tabletas.\n\nComposición:\nFumarato ferroso, ácido fólico y vitaminas, en tabletas de la presentación 600. Consulte las cantidades exactas de cada componente en el empaque.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y durante el tiempo que le indique su médico.\n\nPresentación:\nFrasco con 36 tabletas.\n\nAdvertencias:\n- Los productos con hierro pueden oscurecer las heces.\n- La ingestión accidental de productos con hierro es una causa frecuente de intoxicación en niños menores de 6 años; manténgalo fuera de su alcance.\n- No lo use si es alérgico a alguno de sus componentes.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Autrin",
-    "presentacion": "Tabletas",
+    "fabricante": "Armstrong",
+    "linea": "600",
+    "presentacion": "Tabletas en frasco",
     "contenido_neto": 36,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 36,
-    "concentracion": "600 mg",
+    "principio_activo": "Fumarato ferroso, ácido fólico y vitaminas",
+    "concentracion": "600",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "80151 SSA IV",
+    "otros": "Antianémico; Formato de venta: Unidad"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -28,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089804099_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089804099_2.jpg",
+      "pagina": "https://www.fahorro.com/autrin-600-tabletas-frasco-con-36.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "fecha": "2026-09-29",
+      "lado_util": 1082
+    },
+    {
+      "archivo": "7501089804099_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://diverfarma.com.mx/wp-content/uploads/2023/05/Autrin-600.webp",
+      "pagina": "https://diverfarma.com.mx/catalogo/producto/autrin-600/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 720,
+      "fecha": "2026-09-29",
+      "lado_util": 667
+    },
+    {
+      "archivo": "7501089804099_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Autrin.jpg?v=1706631879",
+      "pagina": "https://sanorim.mx/products/autrin-600-frasco-con-36-tabletas",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 879,
+      "fecha": "2026-09-29",
+      "lado_util": 813
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/autrin-600-tabletas-frasco-con-36.html",
+    "https://grupofarmapronto.com/producto/autrin-600mg-c-36-tabletas-2/",
+    "https://sanorim.mx/products/autrin-600-frasco-con-36-tabletas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. No se confirmó qué es Autrin 600 mg (posible hematínico o suplemento de hierro, sin verificar), por lo que no se declaró principio activo ni fabricante. La categoría Para la Sangre Venta Libre es tentativa; si resulta suplemento alimenticio, usar MLM438195. Descripción mínima y neutral.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (frasco con 36 tabletas). No se encontró la fórmula cuantitativa: solo 'fumarato ferroso / ácido fólico / vitaminas' y 'vitaminas, hierro' en el frasco, por eso no se dan miligramos (el '600' es de la marca). Una ficha de otra tienda lo describe como amoxicilina, lo cual es un error y se ignoró. Una farmacia indica sin receta y el registro dice SSA IV: revisar.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, Diverfarma y Sanorim), frasco de frente con 36 tabletas.",
     "fecha": "2026-09-29"
   }
 }

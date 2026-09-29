@@ -31,17 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165005624_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501165005624.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1586,
+      "fecha": "2026-09-29",
+      "lado_util": 1469
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/osteoporosis/4923-neuroflax-20mg4ml-caja-x-3-ampulas-3-ampolletas-con-diluyente-7501165005624.html",
-    "https://farmaciasmedina.com/detalleProducto/Neuroflax-Inyecci%C3%B3n-3-Soluci%C3%B3n-Frasco-%C3%81mpula/7501165005624"
+    "https://farmaciasmedina.com/detalleProducto/Neuroflax-Inyecci%C3%B3n-3-Soluci%C3%B3n-Frasco-%C3%81mpula/7501165005624",
+    "https://production-media.fahorro.com/media/catalog/product/7/5/7501165005624.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (20 mg/4 mg, caja con 3). La ficha de la farmacia trae datos contradictorios (composición equivocada), por eso se usó el nombre comercial de las fichas (cobamamida/tiocolchicósido) y se omitió el registro sanitario. Clasificado como con receta. Falta confirmar si el envase son frascos ámpula con ampolletas de diluyente.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente de Neuroflax 20/4 mg, caja con 3 frascos ámpula y 3 ampolletas con diluyente."
   }
 }

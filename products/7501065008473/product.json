@@ -17,7 +17,10 @@
     "edad_etapa": "Adultos y niños mayores de 12 años",
     "sabor_aroma": "Limón",
     "registro_sanitario": "318M94 SSA VI",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: Caja",
+    "fabricante": "Haleon",
+    "principio_activo": "Paracetamol / Maleato de feniramina / Clorhidrato de fenilefrina",
+    "concentracion": "650 mg / 20 mg / 10 mg"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,16 +34,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065008473_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0722/1500/3361/files/planogram__1__a827d670-5069-41fd-b3d6-be089245c18e.jpg?v=1744692552",
+      "pagina": "https://wecarepharma.mx/products/theraflu-sobres-650mg-20mg-10mg-con-10-limon-paracetamol-feniramina-fenilefrina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 1948,
+      "fecha": "2026-09-29",
+      "lado_util": 1804
+    },
+    {
+      "archivo": "7501065008473_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-theraflu/es_MX/new-images/theraflu_packshot_mx.webp?auto=format",
+      "pagina": "https://www.theraflu.com.mx/productos/noche-multi-sintomas-frio-limon-resfriado-severo.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1892,
+      "fecha": "2026-09-29",
+      "lado_util": 1752
+    },
+    {
+      "archivo": "7501065008473_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0936/0349/6257/files/7501065008473.webp?v=1780187360",
+      "pagina": "https://farmaciashdezsante.com/products/prostigmine-0-5mg-6-amp-copia",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1169,
+      "fecha": "2026-09-29",
+      "lado_util": 1083
+    }
+  ],
   "url_oficial": "https://www.theraflu.com.mx/",
   "fuentes": [
-    "https://www.theraflu.com.mx/"
+    "https://www.theraflu.com.mx/",
+    "https://wecarepharma.mx/products/theraflu-sobres-650mg-20mg-10mg-con-10-limon-paracetamol-feniramina-fenilefrina",
+    "https://www.theraflu.com.mx/productos/noche-multi-sintomas-frio-limon-resfriado-severo.html",
+    "https://farmaciashdezsante.com/products/prostigmine-0-5mg-6-amp-copia"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Theraflu México muestra Theraflu Resfriado Severo sobres verde/limón, pero en caja de 6 sobres; los 10 sobres salen del nombre del sistema. El sitio no lista principios activos ni dosis, por eso no aparecen: agregarlos desde el empaque. El registro 318M94 SSA VI viene del sitio y podría corresponder a la caja de 6.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "3 fotos: frente plano 'Caja con 10 sobres' (wecarepharma.mx, 2000 px), 3/4 del fabricante (theraflu.com.mx, 2000 px, sin leyenda de piezas) y frente con panel lateral 'Caja con 10 sobres' (farmaciashdezsante.com, 1200 px). Se descartaron imágenes publicitarias del sitio y un packshot que decía 'Caja con 6 sobres'."
   }
 }

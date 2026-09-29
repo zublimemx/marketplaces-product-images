@@ -4,20 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "HUGG ULT CON ET 7 NIÑO C40 5",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Huggies Ultra Confort Niño Etapa 7 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Huggies Ultra Confort para niño, Etapa 7, en paquete con 40 piezas. Están pensados para ofrecer comodidad, ajuste y protección al bebé, con un diseño anatómico que brinda mayor cobertura y flexibilidad, según el fabricante.\n\nCaracterísticas:\n- Diseño anatómico con mayor cobertura y flexibilidad, adaptado al cuerpo del bebé.\n- Cintas Confort Flex V-Shape con cuatro puntos de sujeción para un ajuste seguro.\n- Cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado al frente en la versión para niño.\n- Cubierta interna con poros ultra absorbentes e indicador de humedad.\n- Indicador de cambio de etapa.\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 7, versión para niño.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "titulo": "Pañales Huggies UltraConfort Niño Etapa 7 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies UltraConfort Etapa 7 para niños están pensados para bebés que ya se mueven mucho y necesitan comodidad para gatear, caminar y explorar. Son ultradelgados y ultraflexibles, con cintas estirables que se ajustan a cada movimiento y absorbencia focalizada al frente. Se venden en paquete con 40 piezas.\n\nCaracterísticas:\n- Etapa 7, ideal para bebés de 16 kg.\n- Ultradelgados y ultraflexibles para dar mayor libertad de movimiento.\n- Cintas estirables que dan un mejor ajuste en cada movimiento.\n- Absorbencia focalizada al frente.\n- Centro texturizado que ayuda a distribuir los líquidos.\n- Cintura elástica y ajuste anatómico.\n- Sistema de absorción que ofrece hasta 12 horas de protección contra derrames y ayuda a mantener la piel seca.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé con las cintas hacia atrás. Lleve la parte delantera entre las piernas, sujete las cintas a los lados y ajuste sin apretar. Cámbielo cuando esté húmedo o sucio, y limpie la piel del bebé en cada cambio.\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 7, para niños.\n\nAdvertencias:\nProducto de un solo uso. Deséchelo en la basura, no en el inodoro. Mantenga las bolsas de plástico fuera del alcance de los niños para evitar riesgo de asfixia. Si aparece irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
-    "linea": "Ultra Confort",
+    "linea": "UltraConfort",
     "variante": "Niño",
     "presentacion": "Pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 7",
-    "genero": "Niños",
-    "otros": "Tipo de pañal: Desechable"
+    "talla": "Etapa 7",
+    "genero": "Niño",
+    "otros": "Peso ideal: 16 kg; Cintas estirables; Absorbencia focalizada al frente; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,16 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "imagenes": [
+    {
+      "archivo": "7506425662920_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/304227-1000-1000/7506425662920.jpg?v=638882064798300000",
+      "pagina": "https://www.lagranbodega.com.mx/panal-huggies-etapa-7-ultra-confort-nino-40-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 964,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    }
+  ],
+  "url_oficial": "",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+    "https://www.chedraui.com.mx/panal-huggies-ultraconfort-nino-e7-40-piezas-3866435/p",
+    "https://www.lagranbodega.com.mx/panal-huggies-etapa-7-ultra-confort-nino-40-piezas/p",
+    "https://www.amazon.com.mx/Huggies-UltraConfort-Pa%C3%B1al-Desechable-Piezas/dp/B0FC261WKP"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). La página oficial de Ultra Confort lista etapas RN a 6, y solo la línea Supreme llega a Etapa 7; hay que confirmar si es Ultra Confort Etapa 7 o si la etapa del nombre del sistema es otra. El 5 al final del nombre se ignoró. Contenido de 40 piezas no verificado.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por la foto de tienda con ese GTIN. El nombre del sistema termina en 'C40 5': se tomó como paquete de 40 piezas (la caja de 5 paquetes, 200 piezas, es otro artículo). Descripción basada en fichas de tienda; la página de la marca no abrió.",
+    "notas_imagenes": "1 foto de tienda: frente del paquete Huggies UltraConfort Etapa 7 Niño, 40 piezas.",
     "fecha": "2026-09-29"
   }
 }

@@ -33,17 +33,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298214986_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 457
+    },
+    {
+      "archivo": "7501298214986_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_2.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "fecha": "2026-09-29",
+      "lado_util": 803
+    },
+    {
+      "archivo": "7501298214986_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_3.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 900,
+      "fecha": "2026-09-29",
+      "lado_util": 834
+    },
+    {
+      "archivo": "7501298214986_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 421
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmalisto.com.mx/analgesicos/5619-dolo-neurobion-forte-caja-con-10-tabletas-7501298214986.html",
-    "https://grupofarmapronto.com/producto/dolo-neurobion-forte-tabletas-c-10/"
+    "https://grupofarmapronto.com/producto/dolo-neurobion-forte-tabletas-c-10/",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 10 tabletas confirmados. El diclofenaco es un AINE; verificar si se clasifica como venta libre antes de publicar. El fabricante y el registro sanitario provienen de una sola farmacia en línea.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "4 foto(s), origen tienda: 4 de farmaciasespecializadas.com (7501298214986_1.jpg, 7501298214986_2.jpg, 7501298214986_3.jpg, 7501298214986_4.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios. Aviso: grupofarmapronto lista fabricante \"Merck OTC\"; la ficha dice \"Merck Sharp & Dohme de México\" (revisar)."
   }
 }

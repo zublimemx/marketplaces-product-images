@@ -4,11 +4,12 @@
   "linea": "Farma",
   "nombre_sistema": "ASPIRINA 500MG C40 TABS 120",
   "nombres_sistema_alternos": [],
-  "titulo": "Aspirina Bayer 500 mg 40 Tabletas",
-  "descripcion": "Descripción:\nAspirina es un medicamento de Bayer cuyo principio activo es el ácido acetilsalicílico. Esta presentación contiene 40 tabletas de 500 mg, de uso oral.\n\nBeneficios:\n- Analgésico: alivia el dolor de cabeza, el dolor muscular y el dolor dental.\n- Antipirético: ayuda a reducir la fiebre.\n- Antiinflamatorio.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 500 mg.\n\nModo de uso:\nPor vía oral, con un vaso de agua y de preferencia después de los alimentos. La dosis para adultos es de una a dos tabletas cada 4 a 6 horas, según la necesidad. Consulte en el empaque la dosis máxima diaria.\n\nPresentación:\nCaja con 40 tabletas de 500 mg.\n\nAdvertencias:\nPuede causar irritación gástrica. No lo use si es alérgico a los salicilatos ni en caso de úlcera o sangrado gastrointestinal. No se recomienda en menores de edad con infecciones virales por el riesgo de síndrome de Reye. Evite el consumo de alcohol durante su uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Aspirina Ácido Acetilsalicílico 500 mg 40 Tabletas",
+  "descripcion": "Descripción:\nAspirina 500 mg es un medicamento de venta libre de Bayer en tabletas, con ácido acetilsalicílico como principio activo. Se utiliza para aliviar el dolor de leve a moderado, reducir la fiebre y disminuir la inflamación, incluidos los dolores de cabeza, la fiebre asociada al resfriado común y el dolor reumático. Se presenta en caja con 40 tabletas de 500 mg.\n\nBeneficios:\n- Alivia el dolor de cabeza y otros dolores leves a moderados.\n- Ayuda a reducir la fiebre.\n- Ayuda a reducir la inflamación en el cuerpo.\n- Rendidora presentación de 40 tabletas.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 500 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique el empaque o su médico; no exceda la dosis máxima diaria recomendada.\n\nPresentación:\nCaja con 40 tabletas de 500 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico al ácido acetilsalicílico, a otros antiinflamatorios o a algún componente de la fórmula. Informe a su médico si tiene úlcera gástrica, problemas de coagulación, asma, enfermedad renal o hepática, si está embarazada o en periodo de lactancia, o si toma anticoagulantes u otros medicamentos. Consérvese a no más de 30 °C y bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Aspirina",
     "fabricante": "Bayer",
+    "variante": "500 mg",
     "presentacion": "Tabletas",
     "contenido_neto": 40,
     "unidad_contenido": "tabletas",
@@ -16,7 +17,8 @@
     "principio_activo": "Ácido acetilsalicílico",
     "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos"
+    "edad_etapa": "Adultos",
+    "otros": "Venta libre; Formato de venta: caja con 40 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008491966_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/ASPIRINA.jpg?v=1682572121",
+      "pagina": "https://sanorim.mx/products/aspirina-500-mg-caja-con-40-tabletas",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 438
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/aspirina-500-mg-caja-con-40-tabletas",
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/1290-comprar-aspirina-500-mg-caja-con-40-tabletas-precio-7501008491966.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Aspirina 500 mg; no se verificó contra el GTIN. Confirmar la dosis del modo de uso en el empaque antes de publicar.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas. Las fichas no traen dosis ni advertencias detalladas; se redactaron advertencias generales del ácido acetilsalicílico y modo de uso remitiendo al empaque. El sitio oficial de la marca bloqueó el acceso. El nombre del sistema incluye '120' (código interno, ignorado).",
+    "notas_imagenes": "1 foto de tienda (frente del empaque); otra fuente no pudo descargarse.",
     "fecha": "2026-09-29"
   }
 }

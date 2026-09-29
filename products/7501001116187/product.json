@@ -19,7 +19,8 @@
     "via_administracion": "Oral",
     "edad_etapa": "Adultos y niños",
     "sabor_aroma": "Cereza",
-    "otros": "Forma farmacéutica: Jarabe; Formato de venta: Frasco de 120 ml"
+    "otros": "Forma farmacéutica: Jarabe; Formato de venta: Frasco de 120 ml",
+    "concentracion": "Guaifenesina 1.33 g; dextrometorfano 0.133 g (por cada 100 ml)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -33,18 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001116187_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501001116187.jpg",
+      "pagina": "https://grupofarmapronto.com/producto/vick-44-ad-inf-t-t-jbe-120-ml/",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmasmart.com/vick-44-jbe-todo-tipo-tos-120ml",
     "https://grupofarmapronto.com/producto/vick-44-ad-inf-t-t-jbe-120-ml/",
-    "https://farmaciagloria.mx/Respiratorios/4129-vick-44-jarabe-todo-tipo-de-tos-sabor-cereza-con-120-ml.html"
+    "https://farmaciagloria.mx/Respiratorios/4129-vick-44-jarabe-todo-tipo-de-tos-sabor-cereza-con-120-ml.html",
+    "https://www.klyns.mx/vick-44-jbe-ad-inf-120-ml/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (Vick 44 Jarabe Todo Tipo de Tos sabor cereza 120 ml). Las fuentes no dan una concentración por dosis consistente, por eso no se incluyó. Dosis para adultos y niños no encontrada en las fuentes, verificar en el empaque. La página de Farmacia Gloria solo se vio como resultado de búsqueda.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "1 foto (tienda, Grupo Farmapronto): frasco Vick 44 cereza 120 ml de frente, 2000 px."
   }
 }

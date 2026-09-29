@@ -4,22 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "LAGRICEL PF OFT 4MG ML SOL 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Lagricel PF Solución Oftálmica Lubricante 4 mg/ml 10 ml",
-  "descripcion": "Descripción:\nLagricel PF es una solución oftálmica estéril de Laboratorios Sophia, formulada como lubricante ocular para aliviar la resequedad y la incomodidad de los ojos. La sigla PF indica que es una fórmula sin conservadores. Se presenta en frasco de 10 ml con una concentración de 4 mg/ml.\n\nBeneficios:\n- Lubrica la superficie del ojo y ayuda a aliviar la sensación de resequedad, ardor o irritación leve.\n- Fórmula sin conservadores (PF), pensada para uso frecuente.\n- Frasco de 10 ml con gotero para una aplicación sencilla.\n\nModo de uso:\nVía oftálmica. Aplique una gota en el ojo o los ojos afectados las veces que sea necesario, o según lo indique su médico. No toque la punta del gotero con los dedos, con el ojo ni con otra superficie, y cierre bien el frasco después de cada uso. Si utiliza lentes de contacto, consulte a su oftalmólogo antes de aplicar el producto.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el sello del envase está roto o si la solución cambia de color o presenta partículas. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento intenso, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Lagricel PF Hialuronato de Sodio 4 mg/ml Gotas 10 ml",
+  "descripcion": "Descripción:\nLagricel PF, de Laboratorios Sophia, es una solución oftálmica lubricante que contiene hialuronato de sodio a 4 mg/ml. Es un producto libre de conservadores y se presenta en caja con frasco gotero de 10 ml para aplicación en el ojo.\n\nBeneficios:\n- Lubrica y humecta el ojo en alteraciones del tejido lagrimal por evaporación excesiva de las lágrimas, conocidas como ojo seco.\n- Ayuda a aliviar la irritación y la sequedad ocular provocadas por factores ambientales como polen, polvo, resplandor, contaminación y uso de monitores de computadora.\n- Contribuye a proteger la superficie ocular durante los procesos de reparación del epitelio de la córnea.\n- Fórmula sin conservadores.\n\nComposición:\nCada ml contiene hialuronato de sodio 4 mg y vehículo cbp 1 ml.\n\nModo de uso:\nVía oftálmica; no ingerible. La dosis es la que indique su médico; consulte el instructivo anexo. Lávese las manos antes de aplicar, evite tocar el ojo o los párpados con la punta del gotero y cierre bien el frasco después de cada uso.\n\nPresentación:\nCaja con frasco gotero de 10 ml.\n\nAdvertencias:\nUso externo oftálmico. No se use durante el embarazo o la lactancia sin indicación médica. Suspenda su uso y consulte a su médico si presenta hipersensibilidad, enrojecimiento o dolor en el ojo. Conserve el frasco bien cerrado a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lagricel",
     "fabricante": "Laboratorios Sophia",
-    "linea": "PF",
-    "variante": "Solución oftálmica 4 mg/ml",
+    "linea": "Lagricel PF",
+    "variante": "PF (libre de conservadores)",
     "presentacion": "Solución oftálmica (gotas)",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Hialuronato de sodio",
     "concentracion": "4 mg/ml",
     "via_administracion": "Oftálmica",
-    "otros": "Sin conservadores (PF): Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+    "registro_sanitario": "0208C99 SSA",
+    "otros": "Producto libre de conservadores; Frasco gotero; Formato de venta: Caja"
   },
-  "receta_mx": "No",
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457824",
@@ -31,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085413359_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085413359_3.jpg",
+      "pagina": "https://www.fahorro.com/lagricel-pf-lubricante-ocular-4-mg.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1407,
+      "fecha": "2026-09-29",
+      "lado_util": 1303
+    },
+    {
+      "archivo": "736085413359_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085413359_1.jpg",
+      "pagina": "https://www.fahorro.com/lagricel-pf-lubricante-ocular-4-mg.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1391,
+      "fecha": "2026-09-29",
+      "lado_util": 1288
+    },
+    {
+      "archivo": "736085413359_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085413359_2.jpg",
+      "pagina": "https://www.fahorro.com/lagricel-pf-lubricante-ocular-4-mg.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1393,
+      "fecha": "2026-09-29",
+      "lado_util": 1290
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/lagricel-pf-hialuronato-de-sodio/",
+    "https://www.vademecum.es/mexico/medicamento/1279927/lagricel-ofteno-solucion",
+    "https://www.benavides.com.mx/lagricel-ofteno-4-mg-ml-10-ml-gotas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y el sitio de Sophia no se pudo consultar. Identificación por el nombre y conocimiento general (Lagricel = lágrima artificial de Sophia; PF = sin conservadores). No se confirmó el principio activo (4 mg/ml) por lo que no aparece en la ficha; agregarlo desde el empaque. Registro sanitario pendiente. Se eligió Para Ojos y Oídos Venta Libre en lugar de Oftálmicos por tener más publicaciones.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (SKU en ficha de Sophia y de tiendas). La parte trasera de la caja dice 'Su venta requiere receta médica', pero varias farmacias lo listan como receta no obligatoria: confirmar antes de publicar. Indicaciones tomadas de la monografía de Lagricel Ofteno (misma molécula).",
+    "notas_imagenes": "3 fotos de tienda: frente, parte trasera con fórmula y vista en ángulo de la caja de 10 ml.",
     "fecha": "2026-09-29"
   }
 }

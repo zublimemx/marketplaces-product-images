@@ -17,7 +17,8 @@
     "concentracion": "1 g/4 ml",
     "via_administracion": "Intramuscular",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Formato de venta: Unidad",
+    "fabricante": "Senosiain"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,17 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701711_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 660,
+      "fecha": "2026-09-29",
+      "lado_util": 612
+    },
+    {
+      "archivo": "7501314701711_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_4.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 700,
+      "fecha": "2026-09-29",
+      "lado_util": 649
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Fosfocil-Im-Inyeccion-1-Solucion-Ampolleta/7501314701711",
-    "https://farmaciasanisidro.mx/producto/fosfocil-im-amp-1gr/"
+    "https://farmaciasanisidro.mx/producto/fosfocil-im-amp-1gr/",
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado como Fosfocil IM 1 g/4 ml, caja con 1. No se pudo leer la ficha de Farmalisto (WebFetch rechazado con 429), por eso la descripción es general y no trae fabricante ni indicaciones específicas del laboratorio.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501314701711_1.jpg, 7501314701711_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
   }
 }

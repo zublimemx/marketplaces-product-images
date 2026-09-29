@@ -4,18 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "BEPANTHEN 30GR MULTIUSOS 100",
   "nombres_sistema_alternos": [],
-  "titulo": "Bepanthen Bayer Multiusos 30 g",
-  "descripcion": "Descripción:\nBepanthen Multiusos, de Bayer, es un producto de uso tópico que contiene dexpantenol (provitamina B5), en presentación de 30 g.\n\nComposición:\nDexpantenol. Consulte en el empaque la concentración y los demás componentes.\n\nModo de uso:\nDe uso externo. Aplíquese sobre la piel siguiendo las indicaciones del empaque.\n\nPresentación:\nTubo con 30 g.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Bepanthen Pomada Regeneradora Multiusos Dexpantenol 5% 30 g",
+  "descripcion": "Descripción:\nBepanthen Multiusos es una pomada regeneradora de la piel con 5% de dexpantenol, en tubo de 30 g. Es un reconstituyente y regenerador epitelial indicado para la prevención y el tratamiento de la piel rozada, irritada o agrietada y de las quemaduras leves, así como para la dermatitis del pañal en bebés. También ayuda en la cicatrización de fisuras y erosiones de la piel y del pezón.\n\nCaracterísticas:\n- Contiene dexpantenol al 5%\n- Uso multiusos\n- Sin colorantes, perfumes ni conservadores\n- Presentación en tubo de 30 g\n\nComposición:\nCada 100 g de pomada contienen 5 g de dexpantenol.\n\nModo de uso:\nUso tópico. Aplique una capa delgada de pomada, una o más veces al día, sobre la zona afectada previamente limpia. Para el cuidado del pezón en madres lactantes, aplique después de cada toma.\n\nPresentación:\nCaja con tubo de 30 g de pomada.\n\nAdvertencias:\nNo lo use en caso de hipersensibilidad a alguno de los componentes de la fórmula. Evite el contacto con los ojos. Algunos excipientes pueden reducir la eficacia de condones o diafragmas de látex. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Bepanthen",
-    "fabricante": "Bayer",
-    "variante": "Multiusos",
-    "presentacion": "Tubo",
+    "fabricante": "Bayer de México, S.A. de C.V.",
+    "linea": "Multiusos",
+    "presentacion": "Pomada",
     "contenido_neto": 30,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "principio_activo": "Dexpantenol",
-    "via_administracion": "Tópica"
+    "concentracion": "5%",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "589M2003 SSA VI",
+    "otros": "Pomada regeneradora para la piel; Sin colorantes, perfumes ni conservadores; Tubo de 30 g"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008498798_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008498798_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
+      "pagina": "https://www.farmaciasespecializadas.com/bepanthen-multiusos-5-pom-bot-c-30-g.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 600,
+      "fecha": "2026-09-29",
+      "lado_util": 556
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/bepanthen-crema-multiusos-30g-dexpanthenol",
+    "https://www.farmaciasespecializadas.com/bepanthen-multiusos-5-pom-bot-c-30-g.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Bepanthen 30 g, Bayer). Falta confirmar la forma (ungüento o crema), la concentración de dexpantenol (probable 5 %) y si Multiusos es la variante correcta.",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro sanitario y textos tomados de ficha de farmacia; verificar contra el empaque.",
+    "notas_imagenes": "1 foto de tienda (tubo y caja de 30 g, de frente; el producto ocupa poco espacio del cuadro). Se descartó una imagen con banner promocional.",
     "fecha": "2026-09-29"
   }
 }
