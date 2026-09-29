@@ -4,19 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "ENSURE ADV 237ML FRESA 16",
   "nombres_sistema_alternos": [],
-  "titulo": "Ensure Advance Sabor Fresa 237 ml",
-  "descripcion": "Descripción:\nEnsure Advance es un suplemento alimenticio líquido de Abbott, listo para beber, en sabor fresa. Se presenta en envase individual de 237 ml.\n\nCaracterísticas:\n- Marca: Ensure, línea Advance\n- Sabor: fresa\n- Formato listo para beber\n- Contenido: 237 ml\n\nPresentación:\nEnvase individual de 237 ml.\n\nAdvertencias:\nEste producto es un complemento alimenticio y no sustituye una alimentación variada y equilibrada. Consulte a su médico o nutriólogo antes de incluirlo en su dieta, especialmente si tiene alguna condición médica. Consérvese según las instrucciones del empaque.",
+  "titulo": "Ensure Advance con HMB Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance de Abbott es una nutrición líquida lista para tomar, sabor fresa, que apoya la fuerza, la energía y la vitalidad. Es una dieta polimérica con HMB (beta-hidroxi-beta-metilbutirato) pensada para adultos con requerimientos especiales de nutrición, por ejemplo por pérdida natural de masa muscular debida a la edad o por condiciones que requieran recuperarla. Cada botella contiene 237 ml y su empaque señala que está avalado por el Colegio Mexicano de Nutrición Clínica y Terapia Nutricional.\n\nBeneficios:\n- Único con HMB, que apoya el mantenimiento y la recuperación de la masa muscular.\n- 13 g de proteína por botella.\n- 28 vitaminas y minerales.\n- Con omega 3 y 6.\n- 43% menos azúcar, según el empaque.\n- Aporte de 1.0 kcal por ml.\n\nModo de uso:\nProducto listo para tomar. Consulte el empaque para la porción recomendada, la información nutrimental y las instrucciones de conservación. Se recomienda consultar a un médico o nutriólogo antes de su uso.\n\nPresentación:\nBotella con 237 ml, sabor fresa.\n\nAdvertencias:\nConsulte a su médico o nutriólogo antes de usarlo, especialmente si tiene alguna condición de salud o sigue una dieta especial. Producto para adultos. Consérvese en un lugar fresco y seco, y manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Ensure",
     "fabricante": "Abbott",
     "linea": "Advance",
-    "presentacion": "Líquido listo para beber",
+    "variante": "Con HMB",
+    "presentacion": "Botella",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "sabor_aroma": "Fresa",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "sabor_aroma": "Fresa",
+    "otros": "Proteína: 13 g por botella; Aporte: 1.0 kcal/ml; Contiene HMB, 28 vitaminas y minerales, omega 3 y 6; Formato de venta: Botella individual; Líquido listo para tomar"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033960499_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033960499_6.jpg",
+      "pagina": "https://www.fahorro.com/ensure-advance-suplemento-alimenticio-sabor-fresa-237-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/advance",
+  "fuentes": [
+    "https://www.contigo.abbott/es-mx/marca/ensure/advance",
+    "https://www.fahorro.com/ensure-advance-suplemento-alimenticio-sabor-fresa-237-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre; tipo de envase (botella, lata o tetra pak), ingredientes y beneficios oficiales sin verificar. Fabricante Abbott inferido por la marca y el prefijo de GTIN (7501033, igual que el producto 345). Ampliar descripción con la ficha oficial.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 237 ml sabor fresa confirmados en tiendas y en el empaque. La página oficial solo lista el líquido en vainilla, y la tienda muestra otra versión anterior del empaque (Advance-Active); se usó la más reciente. El modo de uso y la conservación no se encontraron en una fuente; el texto los deja al empaque. Confianza media por esa diferencia entre fuentes.",
+    "notas_imagenes": "1 foto de frente de la botella (tienda, 1536 px). Se descartó una foto del empaque anterior (Advance-Active) y una foto de estilo de vida.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

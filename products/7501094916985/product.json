@@ -4,29 +4,83 @@
   "linea": "Farma",
   "nombre_sistema": "GALVUS MET 1000MG 50MG C 30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Galvus Met 50 mg/1000 mg 30 Comprimidos",
+  "descripcion": "Descripción:\nGalvus Met es un medicamento de Novartis que combina vildagliptina y clorhidrato de metformina en un mismo comprimido. Está indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para mejorar el control glucémico. Esta presentación contiene 30 comprimidos de 50 mg/1000 mg.\n\nBeneficios:\n- Dos principios activos antidiabéticos en un solo comprimido.\n- Puede usarse como tratamiento inicial cuando la dieta y el ejercicio no han sido suficientes.\n- Indicado también en pacientes que no logran un control adecuado con metformina o vildagliptina en monoterapia, o que ya toman ambos fármacos por separado.\n- Puede utilizarse en terapia combinada con otros medicamentos para la diabetes, incluida la insulina, según indicación médica.\n\nComposición:\nCada comprimido contiene vildagliptina 50 mg y clorhidrato de metformina 1000 mg. Excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale. Se recomienda administrarlo con alimentos para reducir los efectos gastrointestinales asociados a la metformina.\n\nPresentación:\nCaja con 30 comprimidos.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Contraindicado en pacientes con hipersensibilidad a vildagliptina, metformina o a los excipientes, y en insuficiencia renal con depuración de creatinina menor de 30 ml/min.\n- No se use en el embarazo ni la lactancia. No se administre a menores de 18 años.\n- Consérvese a no más de 30 °C y con la caja bien cerrada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Galvus Met",
+    "fabricante": "Novartis",
+    "linea": "Galvus",
+    "variante": "50 mg/1000 mg",
+    "presentacion": "Caja con comprimidos",
+    "contenido_neto": 30,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 30,
+    "principio_activo": "Vildagliptina, clorhidrato de metformina",
+    "concentracion": "Vildagliptina 50 mg / Metformina 1000 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "180M2008 SSA IV",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501094916985_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501094916985.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1548,
+      "fecha": "2026-09-29",
+      "lado_util": 1434
+    },
+    {
+      "archivo": "7501094916985_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501094916985_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1537,
+      "fecha": "2026-09-29",
+      "lado_util": 1424
+    },
+    {
+      "archivo": "7501094916985_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501094916985_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1319,
+      "fecha": "2026-09-29",
+      "lado_util": 1222
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/galvus-met-comprimidos/122/101/77876/25",
+    "https://www.yza.mx/galvus-met-50mg1000mg-30-tabs/MXYZ_7501094916985.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, registro y leyendas leídos de la trasera del empaque; indicaciones y dosis de PLM.",
+    "notas_imagenes": "3 fotos de tienda (1319 a 1548 px: frente, trasera con fórmula y ángulo).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

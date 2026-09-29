@@ -4,19 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "ENSURE ADV 237ML CHOCOLATE 16",
   "nombres_sistema_alternos": [],
-  "titulo": "Suplemento Ensure Advance Chocolate 237 ml",
-  "descripcion": "Descripción:\nEnsure Advance es un suplemento alimenticio líquido de Abbott, listo para beber, en sabor chocolate. Está formulado como una fuente de nutrición completa y balanceada que aporta proteína, vitaminas y minerales, y puede consumirse como complemento de la alimentación diaria o como parte de una dieta indicada por un profesional de la salud. Esta presentación es de 237 ml.\n\nCaracterísticas:\n- Bebida nutricional lista para tomar, sabor chocolate.\n- Aporta proteínas, vitaminas y minerales para complementar la dieta.\n- Presentación individual de 237 ml.\n\nModo de uso:\nAgite bien antes de abrir. Puede tomarse frío, como colación o como complemento de sus comidas, en la cantidad que le recomiende su médico o nutriólogo. Una vez abierto, consérvelo en refrigeración y consúmalo en el plazo indicado en la etiqueta.\n\nPresentación:\nEnvase individual de 237 ml, sabor chocolate.\n\nAdvertencias:\nNo es apto para personas con galactosemia. Contiene leche. No es adecuado como única fuente de alimento, ni para menores de un año, ni para uso parenteral. Consulte a su médico o nutriólogo antes de consumirlo si tiene una condición médica, como diabetes o enfermedad renal. Almacene el producto en un lugar fresco y seco, alejado de la luz solar.",
+  "titulo": "Suplemento Ensure Advance Active Chocolate 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance Active, de Abbott, es una bebida de nutrición especializada lista para beber, sabor chocolate, formulada con HMB (beta-hidroxi-beta-metilbutirato) para favorecer la recuperación y el mantenimiento de la masa muscular. Complementa la alimentación diaria de adultos, sobre todo a partir de los 40 años, cuando de forma natural se pierde masa muscular.\n\nBeneficios:\n- Con HMB, 13 g de proteína por porción y 1.5 g de HMB.\n- Con prebióticos que estimulan el crecimiento de la flora intestinal benéfica.\n- Con ácidos grasos Omega 3 y 6.\n- Contiene 28 vitaminas y minerales.\n- Libre de lactosa y de gluten.\n- Aporta 252 kcal por porción de 237 ml.\n\nModo de uso:\nListo para beber. Agite bien y sirva frío. Una vez abierto, tape, refrigere y use dentro de las 24 horas siguientes.\n\nPresentación:\nBotella con 237 ml, sabor chocolate.\n\nAdvertencias:\n- Suplemento alimenticio; no es un medicamento.\n- Consulte a su médico o nutriólogo antes de incluirlo en su dieta si tiene alguna condición de salud.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Ensure",
     "fabricante": "Abbott",
-    "linea": "Advance",
+    "linea": "Advance Active",
     "presentacion": "Bebida lista para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "sabor_aroma": "Chocolate",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad; Contiene leche: Sí"
+    "otros": "Con HMB; Proteína: 13 g por porción; Libre de lactosa: Sí; Libre de gluten: Sí; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033960468_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033960468.jpg",
+      "pagina": "https://www.fahorro.com/ensure-advance-suplemento-alimenticio-sabor-chocolate-237-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1447,
+      "fecha": "2026-09-29",
+      "lado_util": 1340
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ensure-advance-suplemento-alimenticio-sabor-chocolate-237-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (ENSURE ADV 237ML CHOCOLATE 16; el 16 parece ser caducidad o lote) y conocimiento general. Fabricante inferido por el prefijo del GTIN 7501033. Se omitieron datos nutrimentales (HMB, gramos de proteína, vitaminas) por no poder confirmarlos con la ficha de Abbott; completar antes de publicar. Confirmar si el envase es botella o lata.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el SKU de una farmacia y en fichas de otras (Ensure Advance chocolate 237 ml). El 16 del nombre del sistema no se pudo interpretar: puede ser caja de 16 piezas o caducidad; se trató como una botella. Otras fichas lo llaman Ensure Advance Active; confirmar el nombre exacto en la botella. Datos nutrimentales tomados de la ficha de tienda; no se consultó el sitio oficial de Abbott.",
+    "notas_imagenes": "1 foto de tienda (botella de frente, 1600 px) del servidor de Farmacias del Ahorro; se descartó una imagen promocional con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

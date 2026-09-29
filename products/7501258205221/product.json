@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "CYRUX 200MG C28 TABS MISOPROSTOL SERRAL 132",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cyrux Misoprostol 200 mcg 28 Tabletas",
+  "descripcion": "Descripción:\nCyrux, de Laboratorios Serral, contiene misoprostol de 200 mcg por tableta. El misoprostol es un análogo sintético de la prostaglandina E1 indicado, según la información de la presentación, para la prevención de úlceras gástricas inducidas por antiinflamatorios, así como para usos en obstetricia (inducción del trabajo de parto a término, interrupción médica del embarazo dentro de las primeras 9 semanas y prevención de hemorragia posparto por atonía uterina), siempre bajo estricta supervisión médica.\n\nCaracterísticas:\n- Tabletas de administración oral.\n- Caja con 28 tabletas.\n- Medicamento de prescripción médica.\n\nComposición:\nCada tableta contiene misoprostol 200 mcg, con excipientes (lactosa, almidón, sílice y estearato de magnesio).\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica exclusivamente el médico.\n\nPresentación:\nCaja con 28 tabletas de 200 mcg.\n\nAdvertencias:\nNo debe utilizarse en mujeres embarazadas que deseen continuar con el embarazo, por su acción abortiva. Contraindicado en personas con hipersensibilidad al misoprostol. Precaución en pacientes con antecedentes de enfermedades gastrointestinales o cardiovasculares. Requiere seguimiento médico durante el tratamiento. Almacenar entre 15 y 30 °C, protegido de la humedad y de la luz, en su envase original. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cyrux",
+    "fabricante": "Laboratorios Serral",
+    "presentacion": "Caja con 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Misoprostol",
+    "concentracion": "200 mcg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501258205221_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.shopify.com/s/files/1/0818/0544/3355/products/7501258205221_f6e257c3-6085-4ac7-94c6-e4e31272010c.jpg?v=1701392499",
+      "pagina": "https://farmaciasanjorge.com/products/24044",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1005,
+      "fecha": "2026-09-29",
+      "lado_util": 931
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/24044",
+    "https://www.farmatodo.com.mx/cyrux-misoprostol-200-mcg-caja-c-28-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 200 mg, pero la dosis correcta es 200 mcg (confirmado en el empaque). Las indicaciones vienen de una ficha de farmacia. El misoprostol es un medicamento de venta restringida: puede ser rechazado o requerir validación en el marketplace.",
+    "notas_imagenes": "1 foto de frente (1005 px) de tienda; se descartó otra con logotipo de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

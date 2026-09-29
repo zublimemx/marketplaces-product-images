@@ -4,13 +4,13 @@
   "linea": "Mark",
   "nombre_sistema": "TENA PANTS MAXI PROTEC GDE 6X13",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Tena Pants Maxi Protec Grande 13 Piezas",
-  "descripcion": "Descripción:\nPañales tipo pantaloncillo (ropa interior desechable) para adulto TENA Pants Maxi Protec, talla grande, en presentación de 13 piezas. Están pensados para personas con incontinencia y ofrecen un nivel de protección alto, según su nombre comercial. Consulte en el empaque la tabla de tallas, el contenido y las instrucciones de uso del fabricante.\n\nCaracterísticas:\n- Formato tipo pants, se colocan como ropa interior.\n- Línea Maxi Protec.\n- Talla grande.\n- Paquete con 13 piezas.\n\nPresentación:\nPaquete con 13 piezas.",
+  "titulo": "Pañales para Adulto Tena Pants Maxi Protect Grande 13 Piezas",
+  "descripcion": "Descripción:\nRopa interior desechable TENA Pants Maxi Protect, talla Grande, tipo calzón, con protección unisex y discreta para la incontinencia urinaria en mujeres y hombres. Está pensada para personas activas con pérdidas de orina moderadas a abundantes y ocupa el nivel 9 de la escala de absorción TENA (absorción abundante).\n\nCaracterísticas:\n- Nivel de absorción 9 en la escala TENA.\n- Tecnología ProSkin: fórmula con vitamina E y aceite de algodón que cuida y protege la piel y ayuda a evitar irritaciones.\n- Absorbe hasta 20% más rápido, según el fabricante.\n- Núcleo con gel que absorbe el líquido y neutraliza olores.\n- Tela ultra suave y transpirable que se ajusta al cuerpo como la ropa interior habitual.\n- Diseño unisex para hombre y mujer.\n\nModo de uso:\nColóquelo como ropa interior común, subiéndolo hasta la cintura y acomodándolo en las piernas. Cámbielo cuando esté saturado.\n\nPresentación:\nPaquete con 13 piezas, talla Grande.\n\nAdvertencias:\n- Deseche el producto usado en la basura; no lo arroje al inodoro.\n- Mantenga las bolsas de plástico fuera del alcance de bebés y niños.",
   "ficha": {
-    "marca": "Tena",
+    "marca": "TENA",
     "fabricante": "Essity",
-    "linea": "Pants Maxi Protec",
-    "variante": "Pants",
+    "linea": "Pants Maxi Protect",
+    "variante": "Ropa interior desechable, absorción abundante nivel 9",
     "presentacion": "Paquete",
     "contenido_neto": 13,
     "unidad_contenido": "piezas",
@@ -18,7 +18,7 @@
     "talla": "Grande",
     "genero": "Unisex",
     "edad_etapa": "Adultos",
-    "otros": "Formato: Pants (ropa interior desechable); Formato de venta: Unidad"
+    "otros": "Formato: Ropa interior desechable tipo pants; Incontinencia: moderada a abundante; Escala de absorción TENA: 9; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064449_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://essitymx.vtexassets.com/arquivos/ids/159609/1_TENA_PANTS_MAXI_RENDER--1-.jpg",
+      "pagina": "https://www.tena.com.mx/tena-pants-maxi-protect-trece-piezas/p",
+      "ancho_original": 5000,
+      "alto_original": 5000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7501019064449_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://essitymx.vtexassets.com/arquivos/ids/159610-1200-1200",
+      "pagina": "https://www.tena.com.mx/tena-pants-maxi-protect-trece-piezas/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "fecha": "2026-09-29",
+      "lado_util": 1082
+    }
+  ],
+  "url_oficial": "https://www.tena.com.mx/tena-pants-maxi-protect-trece-piezas/p",
+  "fuentes": [
+    "https://www.tena.com.mx/tena-pants-maxi-protect-trece-piezas/p",
+    "https://www.klyns.mx/tena-pants-maxi-protect-grande-13-piezas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El 6X13 del nombre puede ser una caja con 6 paquetes de 13 piezas (78 piezas) o un paquete de 13; se asumió un paquete de 13 piezas por el precio de referencia. Fabricante (Essity) tomado de conocimiento previo de la marca. Confirmar contenido, talla y si es unisex antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una farmacia (Tena Pants Maxi Protect Grande 13 piezas). El 6X13 del nombre del sistema parece ser la configuración de caja (6 paquetes de 13); el precio del sistema corresponde a un paquete de 13. Las medidas de cintura de la talla Grande no se confirmaron.",
+    "notas_imagenes": "2 fotos del sitio oficial de TENA México (empaque de frente e infografía de beneficios). Se descartó una tercera imagen con texto promocional y tabla de niveles de absorción.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "MICRODACYN 60 SOL 240ML AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Microdacyn 60 Solución Antiséptica para Heridas 240 ml",
+  "descripcion": "Descripción:\nMicrodacyn 60 solución antiséptica, de Sanfer, en frasco con atomizador de 240 ml. Está indicada como coadyuvante para la limpieza y curación de todo tipo de heridas (superficiales, agudas, crónicas o profundas). Su acción antiséptica actúa rápida y eficazmente sobre las superficies cutáneas y subcutáneas, y es ideal para desinfectar cortaduras, raspones, abrasiones, quemaduras e infecciones leves de la piel.\n\nBeneficios:\n- Antiséptica y germicida de amplio espectro, eficaz contra bacterias gram positivas y gram negativas, virus, hongos y esporas.\n- No arde al aplicar, no es tóxico y no mancha ni daña la piel.\n- Lista para usar, se aplica directamente sin diluir.\n- Biodegradable.\n\nComposición:\nSodio menor a 55 ppm y cloro menor a 80 ppm, con especies como ácido hipocloroso (HClO), hipoclorito (ClO), cloruro (Cl), peróxido de hidrógeno (H2O2), ozono (O3) y oxígeno (O2); la suma de estos iones combinados no pasa de 55 ppm.\n\nModo de uso:\n1. Limpiar: limpie cuidadosamente la herida con agua y jabón y seque, preferentemente con una gasa estéril.\n2. Desinfectar: aplique la solución directamente sobre toda la herida y déjela actuar hasta que seque por completo.\n3. Proteger: si es necesario, coloque una vendita, gasa o compresa estéril. Repita el proceso 3 veces al día o como lo señale el médico.\n\nPresentación:\nFrasco con atomizador de 240 ml.\n\nAdvertencias:\nEn caso de irritación o malestar local, suspenda su uso. No mezcle con productos que contengan amoniaco. No use el producto si el sello de garantía está violado. Conservar en un lugar seco a no más de 30 °C, sin congelar y alejado de la luz solar directa. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Microdacyn",
+    "fabricante": "Sanfer",
+    "linea": "Microdacyn 60",
+    "variante": "Solución antiséptica",
+    "presentacion": "Frasco con atomizador",
+    "contenido_neto": 240,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica (externa)",
+    "registro_sanitario": "1075C2003SSA",
+    "otros": "Fabricado por Aerobal, S.A. de C.V.; Sodio menor a 55 ppm; Cloro menor a 80 ppm; Biodegradable; Formato de venta: pieza"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503006698323_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw15d3a21e/images/large/7503006698323_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/microdacyn-solucion-240ml/MXYZ_7503006698323.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1306,
+      "fecha": "2026-09-29",
+      "lado_util": 1210
+    },
+    {
+      "archivo": "7503006698323_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw63d9f678/images/large/7503006698323_2.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/microdacyn-solucion-240ml/MXYZ_7503006698323.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1306,
+      "fecha": "2026-09-29",
+      "lado_util": 1210
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/antisepticos-y-desinfectantes/8194-comprar-microdacyn-60-frasco-spray-con-240-ml-precio-7503006698323.html?controllerUri=product",
+    "https://www.yza.mx/microdacyn-solucion-240ml/MXYZ_7503006698323.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Descripción, modo de uso y composición leídos de la etiqueta del frasco en las fotos. El registro sanitario viene de una ficha de tienda. Se descartó una foto lateral que mostraba lote y caducidad impresos.",
+    "notas_imagenes": "2 fotos de tienda (1306 px): frente y contraetiqueta con composición y fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,20 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "LINCOCIN 600MG 2ML C 6AMP ADULTO",
   "nombres_sistema_alternos": [],
-  "titulo": "Lincocin Lincomicina 600 mg/2 ml 6 Ampolletas",
-  "descripcion": "Descripción:\nLincocin es un antibiótico de Pfizer cuyo principio activo es la lincomicina, en solución inyectable de 600 mg por 2 ml para adultos. Está indicado en infecciones causadas por bacterias sensibles a la lincomicina, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada ampolleta de 2 ml contiene lincomicina (como clorhidrato) 600 mg.\n\nModo de uso:\nVía intramuscular o intravenosa, administrada por personal de salud. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 6 ampolletas de 2 ml.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. No lo use si es alérgico a la lincomicina o a la clindamicina. Si presenta diarrea intensa, con sangre o persistente, suspenda su uso y consulte a su médico de inmediato. El uso indebido de antibióticos puede generar resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Lincocin Lincomicina 600 mg/2 ml 6 Ampolletas Adultos",
+  "descripcion": "Descripción:\nLincocin de Pfizer es un antibiótico inyectable con lincomicina, en solución de 600 mg por cada 2 ml, para uso en adultos. La lincomicina se utiliza en infecciones causadas por bacterias grampositivas aerobias y por bacterias anaerobias sensibles, siempre bajo indicación y vigilancia del médico.\n\nIndicaciones:\n- Infecciones de las vías respiratorias\n- Infecciones de la piel y de los tejidos blandos\n- Infecciones de huesos y articulaciones\n- Septicemia y endocarditis\n- Disentería bacilar\n\nComposición:\n- Cada ampolleta o jeringa de 2 ml contiene lincomicina 600 mg\n\nModo de uso:\nVía intramuscular o intravenosa según indicación médica. La dosis, la vía y la duración del tratamiento las determina el médico; no se aplique directamente en la vena sin diluir.\n\nPresentación:\n- Caja con 6 piezas de solución inyectable de 600 mg/2 ml\n- Presentación para adultos\n\nAdvertencias:\nNo lo use si es alérgico a la lincomicina o a la clindamicina. El uso de antibióticos de este tipo puede causar colitis pseudomembranosa: si presenta diarrea intensa o persistente durante o después del tratamiento, suspéndalo y consulte de inmediato a su médico. Puede aumentar la sensibilidad de la piel al sol. Su venta requiere receta médica. El uso incorrecto de los antibióticos puede generar resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lincocin",
     "fabricante": "Pfizer",
-    "presentacion": "solución inyectable en ampolletas",
+    "linea": "Lincocin",
+    "presentacion": "Solución inyectable",
     "contenido_neto": 6,
-    "unidad_contenido": "ampolletas",
+    "unidad_contenido": "piezas",
     "unidades_por_envase": 6,
     "principio_activo": "Lincomicina",
     "concentracion": "600 mg/2 ml",
     "via_administracion": "Intramuscular o intravenosa",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "62014 SSA",
+    "otros": "Antibiótico; Requiere receta médica; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "300090556365_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/169483/300090556365.jpg",
+      "pagina": "https://www.klyns.mx/lincocin-600-c-6-amp/p",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 396
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/lincocin-600-c-6-amp/p",
+    "https://www.vademecum.es/mexico/medicamento/1281267/lincocin-solucion-inyectable-600-mg-2-ml",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/2310-lincocin-adulto-jeringa-prellenada-1-pieza.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Antibiótico inyectable: en México requiere receta médica.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (300090556365) identificado por la ficha de una farmacia mexicana y por el nombre de archivo de su foto; la presentación de 6 piezas coincide con el nombre del sistema. Algunas fuentes describen la presentación como jeringa precargada y otras como ampolleta. Registro sanitario tomado de la ficha de referencia (Vademecum). El registro infocode no lista este GTIN. Validar contra el empaque.",
+    "notas_imagenes": "1 foto de tienda de la caja de frente, de baja resolución (500 px originales, 540 px finales); no se encontró una versión de mayor tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

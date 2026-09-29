@@ -4,29 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "AVAPENA 5 AMP 20ML 96",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Avapena Cloropiramina 20 mg/2 ml 5 Ampolletas",
+  "descripcion": "Descripción:\nAvapena es una solución inyectable de Sandoz cuyo principio activo es la cloropiramina, un antihistamínico. Cada ampolleta de 2 mL contiene 20 mg de cloropiramina y se aplica por vía intravenosa o intramuscular. Se emplea en cuadros alérgicos como prurito, rinitis alérgica, fiebre del heno, conjuntivitis alérgica, edema angioneurótico, alergias agudas de la piel, urticaria, eczema agudo y alergias alimentarias, siempre bajo indicación médica. La presentación es una caja con 5 ampolletas de vidrio.\n\nCaracterísticas:\n- Cloropiramina 20 mg en 2 mL por ampolleta.\n- Solución inyectable de aplicación intravenosa o intramuscular.\n- Antihistamínico de uso bajo prescripción médica.\n- Caja con 5 ampolletas de vidrio con 2 mL cada una.\n\nComposición:\nCada ampolleta contiene: clorhidrato de cloropiramina 20 mg, vehículo cbp 2 mL.\n\nModo de uso:\nVía intravenosa o intramuscular. La dosis es la que el médico señale. No se administre si la solución no es transparente o contiene partículas en suspensión; si no se usa todo el producto, deseche el sobrante.\n\nPresentación:\nCaja con 5 ampolletas de vidrio con 2 mL cada una.\n\nAdvertencias:\nVenta con receta médica. No se administre a menores de 5 años. El empleo durante el embarazo queda bajo responsabilidad del médico y no debe darse durante la lactancia. No se administre junto con medicamentos tranquilizantes del sistema nervioso, bebidas alcohólicas ni en personas que manejen vehículos o aparatos de precisión. Consérvese a no más de 30 °C y con la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Avapena",
+    "fabricante": "Sandoz",
+    "presentacion": "Ampolletas inyectables",
+    "contenido_neto": 5,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 5,
+    "principio_activo": "Cloropiramina",
+    "concentracion": "20 mg por ampolleta de 2 mL",
+    "via_administracion": "Intravenosa o intramuscular",
+    "registro_sanitario": "36500 SSA IV",
+    "otros": "Formato de venta: Caja; Volumen: 2 mL por ampolleta; Requiere receta médica; Elaborado por Lek Pharmaceuticals (Eslovenia)"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antihistamínicos",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502216930599_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502216930599.jpg",
+      "pagina": "https://www.fahorro.com/avapena-20-mg-5-x-2-ml-ampolleta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1116,
+      "fecha": "2026-09-29",
+      "lado_util": 1034
+    },
+    {
+      "archivo": "7502216930599_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502216930599_1.jpg",
+      "pagina": "https://www.fahorro.com/avapena-20-mg-5-x-2-ml-ampolleta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1140,
+      "fecha": "2026-09-29",
+      "lado_util": 1056
+    },
+    {
+      "archivo": "7502216930599_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502216930599_2.jpg",
+      "pagina": "https://www.fahorro.com/avapena-20-mg-5-x-2-ml-ampolleta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1144,
+      "fecha": "2026-09-29",
+      "lado_util": 1060
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antihistaminicos-con-receta/7561-avapena-20-mg-caja-con-5-ampolletas-de-2-ml-7502216930599.html",
+    "https://www.fahorro.com/avapena-20-mg-5-x-2-ml-ampolleta.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN visible en el código de barras del empaque. El nombre del sistema dice '20ML' pero la presentación real es 5 ampolletas de 2 mL (20 mg/2 mL).",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro): frente, cara posterior con datos de uso y vista angulada; 1,100 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

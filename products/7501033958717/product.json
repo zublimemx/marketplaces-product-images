@@ -4,20 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "ENSURE ADV 237ML VAINILLA 16",
   "nombres_sistema_alternos": [],
-  "titulo": "Suplemento Alimenticio Ensure Advance Vainilla 237 ml",
-  "descripcion": "Descripción:\nEnsure Advance sabor vainilla es un suplemento alimenticio líquido de Abbott, listo para beber, en presentación individual de 237 ml. Es una fórmula de nutrición completa y balanceada con proteína, vitaminas y minerales, y con HMB (beta-hidroxi-beta-metilbutirato).\n\nModo de uso:\nAgite antes de abrir. Se puede tomar solo o frío, como complemento de la alimentación diaria, siguiendo las indicaciones de la etiqueta o de su médico o nutriólogo.\n\nPresentación:\nEnvase individual de 237 ml, sabor vainilla.\n\nAdvertencias:\nNo es un producto para lactantes. Una vez abierto, consérvelo en refrigeración y consúmalo pronto. Consulte a su médico o nutriólogo si tiene alguna condición de salud. Manténgase fuera del alcance de los niños.",
+  "titulo": "Ensure Advance Sabor Vainilla 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance sabor vainilla de Abbott es una fórmula líquida lista para beber, en botella de 237 ml. Se clasifica como fórmula para alimentación enteral (dieta polimérica con HMB). Está diseñada con una fórmula especializada que combina vitaminas, minerales y proteínas de alta calidad, y contiene HMB, un componente recomendado para la recuperación muscular.\n\nCaracterísticas:\n- Marca Ensure Advance, de Abbott\n- Sabor vainilla\n- Con vitaminas, minerales y proteínas de alta calidad\n- Con HMB\n- Listo para beber\n- Hecho en México\n\nModo de uso:\nVía oral. La dosis de consumo la señala el médico tratante o el nutriólogo.\n\nPresentación:\n- Botella individual de 237 ml\n\nAdvertencias:\nNo se automedique. Consérvese a no más de 30 °C y mantenga el producto bien cerrado. Consulte a su médico o nutriólogo antes de incluirlo en su alimentación, en especial si tiene alguna enfermedad. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ensure",
     "fabricante": "Abbott",
-    "linea": "Advance",
-    "variante": "Vainilla",
-    "presentacion": "bebida líquida",
+    "linea": "Ensure Advance",
+    "variante": "Dieta polimérica con HMB",
+    "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "via_administracion": "Oral",
     "edad_etapa": "Adultos",
     "sabor_aroma": "Vainilla",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Fórmula para alimentación enteral; Con HMB; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033958717_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033958717_1.jpg",
+      "pagina": "https://www.yza.mx/ensure-advance-vainilla-237ml-/MXYZ_7501033958717.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1491,
+      "fecha": "2026-09-29",
+      "lado_util": 1381
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501033958717/details",
+    "https://sanorim.mx/products/ensure-advance-liquido-suplemento-alimenticio-sabor-vailla-237-ml",
+    "https://www.yza.mx/ensure-advance-vainilla-237ml-/MXYZ_7501033958717.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Confirmar tipo de envase (botella o lata), que la fórmula incluya HMB y el número al final del nombre (16), que se tomó como lote o caducidad.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas. Las demás fotos de tienda traían textos promocionales y no se guardaron. No se encontró la tabla nutrimental completa en texto.",
+    "notas_imagenes": "1 foto de frente de la botella (1491 px, tienda). Se descartaron 3 imágenes publicitarias con leyendas de beneficios.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

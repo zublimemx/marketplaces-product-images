@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "ENTRESTO 50MG CPR C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Entresto Sacubitrilo Valsartán 50 mg 30 Comprimidos",
+  "descripcion": "Descripción:\nEntresto es un medicamento cardiovascular de Novartis cuyo principio activo es la combinación sacubitrilo/valsartán (sacubitrilo valsartán sódico hidratado). Esta presentación es la caja con 30 comprimidos de 50 mg para administración por vía oral.\n\nBeneficios:\n- Está indicado para el tratamiento de la insuficiencia cardíaca crónica en adultos con fracción de eyección reducida, con el fin de disminuir el riesgo de hospitalización por insuficiencia cardíaca.\n- Combina dos principios activos, sacubitrilo y valsartán, en un solo comprimido.\n- Debe usarse con seguimiento médico para valorar la respuesta y ajustar el tratamiento.\n\nComposición:\nCada comprimido contiene sacubitrilo valsartán sódico hidratado equivalente a 50 mg de sacubitrilo valsartán, según la concentración que indica el empaque.\n\nModo de uso:\nVía oral. La dosis y su ajuste los determina el médico según la respuesta y la tolerancia; no modifique ni suspenda el tratamiento por su cuenta.\n\nPresentación:\nCaja con 30 comprimidos de 50 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico al sacubitrilo, al valsartán o a algún componente de la fórmula, si ha tenido angioedema con inhibidores de la ECA o tiene antecedentes de angioedema hereditario o idiopático. No se use durante el embarazo ni la lactancia. Su médico deberá vigilar la presión arterial, la función renal y los niveles de potasio durante el tratamiento. Almacenar entre 15 y 30 °C, lejos de la luz directa. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Entresto",
+    "fabricante": "Novartis",
+    "linea": "Entresto",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 30,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 30,
+    "principio_activo": "Sacubitrilo / Valsartán",
+    "concentracion": "50 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: cardiovascular (insuficiencia cardíaca); Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124819200_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb7517955/images/large/7501124819200_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/entresto-50-mg-caja-con-30-comprimidos/MXYZ_7501124819200.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 888,
+      "fecha": "2026-09-29",
+      "lado_util": 822
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/entresto-50-mg-caja-con-30-comprimidos/MXYZ_7501124819200.html",
+    "https://wecarepharma.mx/en/products/entresto-50mg-con-30-comprimidos-sacubitrilo-valsartan"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (URL y código). Una ficha lista 'sin receta' pero otra y la práctica en México indican que requiere receta; se marcó 'Sí'. No se detalla la cantidad por separado de sacubitrilo y valsartán porque una ficha la daba como 50 mg de cada uno y el empaque solo indica 50 mg de la combinación.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias YZA, 1000 px), correcta en concentración y contenido.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

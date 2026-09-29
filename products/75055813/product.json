@@ -4,19 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "LATANOPROST SOL 0.05MG FRC 3ML PHARMACOS EXAKTA",
   "nombres_sistema_alternos": [],
-  "titulo": "Latanoprost Solución Oftálmica 0.05 mg/ml 3 ml Exakta",
-  "descripcion": "Descripción:\nLatanoprost solución oftálmica de Pharmacos Exakta, en frasco de 3 ml con 0.05 mg de latanoprost por ml (50 µg/ml, equivalente a 0.005%). Es un análogo de prostaglandina que reduce la presión intraocular elevada y se indica en glaucoma de ángulo abierto e hipertensión ocular, bajo prescripción y seguimiento del oftalmólogo.\n\nComposición:\nCada ml contiene latanoprost 0.05 mg (50 µg).\n\nModo de uso:\nVía oftálmica. Se aplica habitualmente una gota en el ojo o los ojos afectados una vez al día, de preferencia por la noche, o según lo indique su médico. Si usa lentes de contacto, retírelos antes de aplicar y espere 15 minutos para volver a colocarlos.\n\nPresentación:\nFrasco gotero con 3 ml de solución oftálmica.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. Puede modificar gradualmente el color del iris y de la piel del párpado, y aumentar el crecimiento de las pestañas. Evite tocar la punta del gotero. Si utiliza otros medicamentos oftálmicos, espere al menos 5 minutos entre aplicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Latanoprost Solución Oftálmica 0.05 mg/ml Gotero 3 ml",
+  "descripcion": "Descripción:\nLatanoprost solución oftálmica de la línea Exakta (OPKO) es un medicamento en gotas para los ojos con un análogo de la prostaglandina F2α. Se utiliza para disminuir la presión intraocular elevada en pacientes con glaucoma de ángulo abierto o hipertensión ocular, siempre bajo indicación y vigilancia del oftalmólogo.\n\nComposición:\n- Cada mililitro contiene latanoprost 0.05 mg (0.005 %)\n\nModo de uso:\nVía oftálmica. La dosis es la que el médico señale. Evite tocar la punta del gotero con el ojo o con los dedos y cierre bien el frasco después de cada uso.\n\nPresentación:\n- Frasco gotero con 3 ml de solución oftálmica\n- Conserve el producto según las indicaciones de la etiqueta\n\nAdvertencias:\nNo lo use si es alérgico al latanoprost o al cloruro de benzalconio, ni si tiene uveítis activa o glaucoma inflamatorio o neovascular. Puede causar visión borrosa pasajera: no conduzca ni maneje maquinaria hasta que se normalice. Durante el embarazo y la lactancia úselo solo si su médico lo indica. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Latanoprost",
-    "fabricante": "Pharmacos Exakta",
-    "presentacion": "solución oftálmica",
+    "marca": "Pharmacos Exakta",
+    "fabricante": "OPKO",
+    "linea": "Latanoprost",
+    "presentacion": "Solución oftálmica, frasco gotero",
     "contenido_neto": 3,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Latanoprost",
-    "concentracion": "0.05 mg/ml",
+    "concentracion": "0.05 mg/ml (0.005 %)",
     "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Para glaucoma e hipertensión ocular; Requiere receta médica; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75055813_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://infocode.io/images/products/00000075055813/planogram__1__f1c9b6f4-b273-4eb1-a6ab-2e7cf57b666a.jpg",
+      "pagina": "https://infocode.io/b2b/00000075055813/details",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/00000075055813/details",
+    "https://www.ifarma.com.mx/producto/latanoprost-exakta/",
+    "https://heka.mx/catalogo/medicamentos/grupo-15-oftalmologia/latanoprost-solucion-oftalmica-cada-ml-contiene-latanoprost-50-%C2%B5genvase-con-un-frasco-gotero-con-3-0-ml/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y de la información general del latanoprost. El GTIN de 8 dígitos (75055813) no se buscó y puede estar truncado o ser un código interno. Se supuso que 0.05 mg es por ml (concentración habitual, 0.005%); confirmar en la etiqueta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 8 dígitos (75055813) confirmado en el registro de productos (Latanoprost OPKO, 3 ml, solución oftálmica, hecho en México) y en fichas de tienda de 0.05 mg/ml. Indicaciones y precauciones corresponden al principio activo; validar temperatura de conservación y demás datos contra el empaque.",
+    "notas_imagenes": "1 foto de frente del empaque (2401 px originales, 2000 px finales) del registro de productos infocode, origen tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

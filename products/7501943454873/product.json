@@ -4,18 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUGG HUM LAVANDA C/80",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas Huggies Lavanda 80 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas Huggies con aroma a lavanda para la limpieza de la piel del bebé en cada cambio de pañal, en paquete con 80 piezas.\n\nBeneficios:\n- Limpian de forma práctica durante el cambio de pañal.\n- Aroma a lavanda.\n- Presentación de 80 toallitas.\n\nModo de uso:\nExtraiga una toallita y limpie suavemente la zona; cierre bien el empaque después de cada uso para conservar la humedad.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. No las deseche en el inodoro. Mantenga fuera del alcance de los niños.",
+  "titulo": "Toallitas Huggies Cuidado Humectante Lavanda 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Huggies Cuidado Humectante con aroma a lavanda y vainilla, en paquete de 80 piezas. Están hechas con fibras naturales suaves y una crema enriquecida que ayuda a limpiar con delicadeza la piel del bebé en cada cambio de pañal, cuidando su humectación.\n\nCaracterísticas:\n- Aroma a lavanda y vainilla\n- Con crema enriquecida\n- Fibras naturales suaves\n- 0% alcohol\n- Sin parabenos\n- Hipoalergénicas\n- Dermatológicamente probadas\n\nModo de uso:\nTome una toallita del paquete y limpie suavemente la zona del pañal del bebé. Vuelva a cerrar bien la tapa después de cada uso para conservar la humedad de las toallitas. No las deposite en el inodoro.\n\nPresentación:\n- Paquete con 80 toallitas húmedas desechables\n- Hecho en México\n\nAdvertencias:\nPara evitar el riesgo de asfixia, mantenga las bolsas de plástico fuera del alcance de los bebés y de los niños. Producto de uso externo. Si observa irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
     "marca": "Huggies",
-    "fabricante": "Kimberly-Clark",
-    "presentacion": "toallitas húmedas",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Cuidado Humectante",
+    "variante": "Lavanda y vainilla",
+    "presentacion": "Paquete de toallitas húmedas",
     "contenido_neto": 80,
     "unidad_contenido": "piezas",
-    "unidades_por_envase": 80,
+    "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
-    "sabor_aroma": "Lavanda",
-    "otros": "Formato de venta: Paquete"
+    "sabor_aroma": "Lavanda y vainilla",
+    "otros": "Sin alcohol; Sin parabenos; Hipoalergénicas; Dermatológicamente probadas; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943454873_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943454873_1.jpg?width=1600",
+      "pagina": "https://www.fahorro.com/huggies-toallitas-humedas-cuidado-relajante-80-pz.html",
+      "ancho_original": 4801,
+      "alto_original": 4800,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501943454873_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943454873_2.jpg?width=1600",
+      "pagina": "https://www.fahorro.com/huggies-toallitas-humedas-cuidado-relajante-80-pz.html",
+      "ancho_original": 4800,
+      "alto_original": 4800,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501943454873/details",
+    "https://www.fahorro.com/huggies-toallitas-humedas-cuidado-relajante-80-pz.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema. Confirmar la línea exacta de Huggies (por ejemplo Natural Care) y las características de la fórmula, que no se incluyeron en la descripción.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tienda; algunas tiendas nombran la variante Cuidado Relajante, pero el empaque de las fotos y el sistema indican Cuidado Humectante con lavanda y vainilla, por lo que se respetó el nombre del sistema. El registro infocode lista el GTIN como Huggies hipoalergénicas de 80 piezas hecho en México.",
+    "notas_imagenes": "2 fotos de tienda del paquete de 80 piezas Cuidado Humectante lavanda y vainilla: de frente y en 3D (2000 px finales). Se retiró una foto que traía impresa una promoción de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

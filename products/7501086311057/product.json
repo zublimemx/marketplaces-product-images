@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "FERRICOL 30MG 500MCG TAB 30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ferricol Hierro Aminoquelado Ácido Fólico 30 Tabletas",
+  "descripcion": "Descripción:\nFerricol es un medicamento antianémico de Columbia que combina hierro aminoquelado con ácido fólico en tabletas de 30 mg/0.500 mg. Está indicado para la prevención y el tratamiento de la anemia por deficiencia de hierro y de ácido fólico. Esta presentación es la caja con 30 tabletas para administración oral.\n\nBeneficios:\n- Aporta hierro en forma de quelato de aminoácidos junto con ácido fólico en una sola tableta.\n- Útil en grupos con mayor riesgo de deficiencia, como mujeres embarazadas y en lactancia o personas con una alimentación inadecuada, según valoración médica.\n- Puede ser útil en casos de pérdidas crónicas de sangre o cuando se requiere aumentar la producción de glóbulos rojos.\n\nComposición:\nCada tableta contiene hierro aminoquelado 30 mg y ácido fólico 500 mcg (0.500 mg).\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 30 tabletas de 30 mg/0.500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a algún componente de la fórmula, ni si tiene hemocromatosis, hemosiderosis u otra condición de sobrecarga de hierro. No se recomienda en anemias que no sean por falta de hierro. Precaución en personas con enfermedades gastrointestinales o que toman otros suplementos de hierro. Conservar en lugar fresco y seco, protegido de la luz y la humedad. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ferricol",
+    "fabricante": "Columbia",
+    "linea": "Ferricol",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Hierro aminoquelado / Ácido fólico",
+    "concentracion": "30 mg / 500 mcg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: antianémico; Una ficha de farmacia indica que requiere receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086311057_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086311057.png",
+      "pagina": "https://www.fahorro.com/ferricol-simple-30-mg-500-mcg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1519,
+      "fecha": "2026-09-29",
+      "lado_util": 1405
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/hematologia/3187-ferricol-30-mg-500-mcg-caja-con-30-tabletas-7501086311057.html",
+    "https://wecarepharma.mx/en/products/ferricol-30mg-500mg-con-30-tabletas-hierro-aminoquelado-acido-folico",
+    "https://curitek.com/producto/ferricol-30-mg-500-mcg-30-tabs-hierro-acido-folico/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y SKU). Se clasificó como medicamento antianémico (Para la Sangre Venta Libre) igual que otros productos de hierro; una ficha lo trata como suplemento y otra indica que requiere receta, por eso 'Revisar' (si se decide venderlo como suplemento, usar MLM438195).",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias del Ahorro, 1600 px), correcta en concentración y contenido.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

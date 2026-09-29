@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "REZPLEN 500MG 45MG TAB C10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Rezplen Claritromicina Ambroxol 500 mg/45 mg 10 Tabletas",
+  "descripcion": "Descripción:\nRezplen es un medicamento de Laboratorios Senosiain que combina el antibiótico claritromicina con el mucolítico ambroxol en una sola tableta de 500 mg/45 mg. Está indicado para infecciones de las vías respiratorias causadas por microorganismos sensibles a la claritromicina, en particular cuando se presenta mucosidad espesa. Esta presentación es la caja con 10 tabletas por vía oral.\n\nBeneficios:\n- La claritromicina actúa contra las bacterias sensibles responsables de infecciones respiratorias como bronquitis, sinusitis y neumonía.\n- El ambroxol es un mucolítico que ayuda a facilitar la expulsión de las secreciones en enfermedades respiratorias con mucosidad espesa.\n- Dos principios activos en una sola tableta.\n\nComposición:\nCada tableta contiene claritromicina 500 mg y clorhidrato de ambroxol 45 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Dosis: la que indique el médico. Complete todo el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 10 tabletas de 500 mg/45 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Es un antibiótico: su uso incorrecto puede generar resistencia bacteriana. No lo use si es alérgico a la claritromicina, al ambroxol o a algún componente de la fórmula. No se use durante el embarazo ni la lactancia. Precaución en personas con enfermedades del hígado o de los riñones. Conservar a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Rezplen",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Rezplen",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Claritromicina / Ambroxol",
+    "concentracion": "500 mg / 45 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: antibiótico y mucolítico; Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314702701_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702701_3.jpg",
+      "pagina": "https://www.fahorro.com/rezplen-500-mg-45-mg-oral-10-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1460,
+      "fecha": "2026-09-29",
+      "lado_util": 1352
+    },
+    {
+      "archivo": "7501314702701_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702701_1.jpg",
+      "pagina": "https://www.fahorro.com/rezplen-500-mg-45-mg-oral-10-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1495,
+      "fecha": "2026-09-29",
+      "lado_util": 1384
+    },
+    {
+      "archivo": "7501314702701_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702701_2.jpg",
+      "pagina": "https://www.fahorro.com/rezplen-500-mg-45-mg-oral-10-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1375,
+      "fecha": "2026-09-29",
+      "lado_util": 1274
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/rezplen-500-mg-45-mg-oral-10-tabs.html",
+    "https://www.farmaleal.com.mx/products/rezplen-500-45-mg-10-tab-7501314702701",
+    "https://wecarepharma.mx/en/products/rezplen-500mg-45mg-con-10-tabletas-claritromicina-ambroxol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (SKU en URL de farmacia y código de barras en la foto trasera del empaque); composición confirmada en la etiqueta trasera. Indicaciones de ficha de farmacia.",
+    "notas_imagenes": "3 fotos (tienda: Farmacias del Ahorro, 1600 px): frente, cara trasera con fórmula y vista en ángulo; todas correctas en producto y presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

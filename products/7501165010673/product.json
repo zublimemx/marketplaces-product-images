@@ -4,21 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "HISTIACIL FAM AD FRESA 140ML 42",
   "nombres_sistema_alternos": [],
-  "titulo": "Histiacil Jarabe Familiar Adulto Fresa 140 ml",
-  "descripcion": "Descripción:\nHistiacil en presentación familiar para adulto, jarabe sabor fresa en frasco de 140 ml.\n\nPresentación:\nFrasco con 140 ml de jarabe sabor fresa.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Jarabe Histiacil FAM Adulto Sabor Fresa 140 ml",
+  "descripcion": "Descripción:\nHistiacil FAM Jarabe Adulto es un jarabe para la tos de sabor fresa, formulado con guaifenesina y oxolamina para adultos y mayores de 15 años. Su fórmula de acción 3 en 1 descongestiona las vías respiratorias, facilita la expulsión de las flemas y alivia la tos seca, irritativa y con flemas. Se presenta en frasco de 140 ml con vaso dosificador.\n\nBeneficios:\n- Acción 3 en 1: descongestiona, expulsa las flemas y alivia la tos.\n- Rápido alivio de la tos a partir de 15 minutos.\n- Ayuda a despejar las vías respiratorias y a fluidificar el moco.\n- Sabor fresa e incluye vaso dosificador.\n\nComposición:\nGuaifenesina (2 g) y oxolamina (1 g), en jarabe sabor fresa.\n\nModo de uso:\nVía oral. Para adultos y mayores de 15 años. La dosis recomendada se toma cada 6 horas, medida con el vaso dosificador incluido. Siga las instrucciones del empaque.\n\nPresentación:\nFrasco con 140 ml de jarabe sabor fresa y vaso dosificador.\n\nAdvertencias:\nNo se use en menores de 15 años. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Histiacil",
-    "variante": "Familiar Adulto",
+    "fabricante": "Sanofi",
+    "linea": "Histiacil FAM",
+    "variante": "Adulto",
     "presentacion": "jarabe",
     "contenido_neto": 140,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Guaifenesina, Oxolamina",
+    "concentracion": "Guaifenesina 2 g; Oxolamina 1 g",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
+    "edad_etapa": "Adultos y mayores de 15 años",
     "sabor_aroma": "Fresa",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Incluye vaso dosificador; Acción 3 en 1; Formato de venta: unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457814",
@@ -30,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165010673_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501165010673_1_1_2.jpg",
+      "pagina": "https://www.fahorro.com/histiacil-fam-jarabe-tos-adulto-fresa-140-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1577,
+      "fecha": "2026-09-29",
+      "lado_util": 1461
+    }
+  ],
+  "url_oficial": "https://www.histiacil.com.mx/productos/histiacil-fam-adultos",
+  "fuentes": [
+    "https://www.histiacil.com.mx/productos/histiacil-fam-adultos",
+    "https://www.fahorro.com/histiacil-fam-jarabe-tos-adulto-fresa-140-ml.html",
+    "https://www.farmaciasguadalajara.com/medicina/vias-respiratorias/histiacil-fam-jarabe-adulto-para-la-tos-seca-y-con-flemas-sabor-fresa--140-ml.-1304461.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar principio activo, indicaciones ni fabricante. Se interpretó FAM AD como Familiar Adulto. La categoría respiratoria es una suposición (podría ser Antigripales, MLM194695); el 42 al final se tomó como lote.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. El fabricante Sanofi se dedujo del sitio oficial de la marca (Sanofi Consumer Healthcare). Las fichas dan guaifenesina 2 g y oxolamina 1 g sin indicar la base (probablemente por 100 ml); confirmar contra la etiqueta.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

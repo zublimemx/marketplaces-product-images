@@ -4,17 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "AFRIN ADUL SPRAY 36",
   "nombres_sistema_alternos": [],
-  "titulo": "Afrin Adultos Spray Nasal",
-  "descripcion": "Descripción:\nAfrin Adultos es un descongestionante nasal en spray cuyo principio activo es la oximetazolina. Se presenta en atomizador para aplicación en la nariz y está indicado para uso en adultos.\n\nPresentación:\n- Spray nasal\n- Versión para adultos\n\nAdvertencias:\nDe uso exclusivo por vía nasal. No exceda la dosis ni la duración del tratamiento indicadas en el empaque. No lo utilice en niños. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Afrin Adulto Oximetazolina 0.050% Spray Nasal 20 ml",
+  "descripcion": "Descripción:\nAfrin Adulto es un descongestivo nasal en spray de Bayer cuyo principio activo es el clorhidrato de oximetazolina al 0.050%. Está indicado como auxiliar para el alivio de la congestión nasal causada por el resfriado común y la rinitis alérgica, con un efecto de hasta 12 horas por dosis. Se presenta en frasco con aplicador de 20 ml.\n\nBeneficios:\n- Alivio de la congestión nasal por resfriado común y rinitis alérgica.\n- Efecto de hasta 12 horas.\n- Aplicación nasal en spray, práctica y precisa.\n\nFórmula:\nCada 100 ml contienen clorhidrato de oximetazolina 50.0 mg y vehículo cbp 100.0 ml.\n\nModo de uso:\nVía nasal. Niños mayores de 10 años y adultos: 2 aspersiones en cada fosa nasal cada 12 horas. Niños de 6 a 10 años: 1 aspersión en cada fosa nasal cada 12 horas. No exceda la dosis recomendada ni acorte el intervalo entre administraciones; máximo dos dosis en 24 horas. Con la cabeza en posición vertical y sin inclinarla, coloque el aplicador en la fosa nasal, oprima con firmeza el centro del frasco y suéltelo rápidamente. El frasco tampoco debe inclinarse.\n\nPresentación:\nFrasco con 20 ml de solución en spray.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. No se use si es alérgico a los componentes de la fórmula ni si padece afecciones cardiacas o presión arterial elevada. No prolongue su uso por más tiempo del indicado en el empaque. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Afrin",
-    "variante": "Adultos",
-    "presentacion": "Spray nasal",
+    "fabricante": "Bayer",
+    "linea": "Afrin Original",
+    "variante": "Adulto",
+    "presentacion": "Frasco con spray",
+    "contenido_neto": 20,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "principio_activo": "Oximetazolina",
+    "principio_activo": "Oximetazolina (clorhidrato)",
+    "concentracion": "0.050% (50 mg/100 ml)",
     "via_administracion": "Nasal",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Niños mayores de 10 años y adultos",
+    "otros": "Forma farmacéutica: Solución en spray; Efecto de hasta 12 horas; Venta libre"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050613453_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501050613453.jpg",
+      "pagina": "https://www.fahorro.com/afrin-original-adulto-alivio-de-la-congestion-nasal-causada-por-el-resfriado-comun-y-rinitis-alergica-actua-por-12-horas-20-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1371,
+      "fecha": "2026-09-29",
+      "lado_util": 1270
+    },
+    {
+      "archivo": "7501050613453_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501050613453_1.jpg",
+      "pagina": "https://www.fahorro.com/afrin-original-adulto-alivio-de-la-congestion-nasal-causada-por-el-resfriado-comun-y-rinitis-alergica-actua-por-12-horas-20-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1451,
+      "fecha": "2026-09-29",
+      "lado_util": 1344
+    },
+    {
+      "archivo": "7501050613453_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501050613453_2.jpg",
+      "pagina": "https://www.fahorro.com/afrin-original-adulto-alivio-de-la-congestion-nasal-causada-por-el-resfriado-comun-y-rinitis-alergica-actua-por-12-horas-20-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1479,
+      "fecha": "2026-09-29",
+      "lado_util": 1370
+    }
+  ],
+  "url_oficial": "https://www.afrin.com.mx/sprays-nasales/afrin-original-adulto",
+  "fuentes": [
+    "https://www.afrin.com.mx/sprays-nasales/afrin-original-adulto",
+    "https://www.fahorro.com/afrin-original-adulto-alivio-de-la-congestion-nasal-causada-por-el-resfriado-comun-y-rinitis-alergica-actua-por-12-horas-20-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Contenido (ml) y concentración no confirmados (el 36 del nombre parece lote o caducidad y se ignoró). Fabricante no confirmado (probable Bayer). Falta ficha oficial.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con el código de barras del empaque; fórmula, indicación, dosis y contraindicaciones leídas del reverso y coinciden con la página oficial.",
+    "notas_imagenes": "3 fotos (tienda, ~1400 px): frente, reverso con fórmula y dosis, y vista angular. Se descartaron 3 imágenes promocionales de la misma ficha.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

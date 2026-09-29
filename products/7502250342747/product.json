@@ -4,16 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "VITACILINA EMULSION CORP HIDRAT CLARITE TRIP EFECTO 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Emulsión Corporal Aclaradora Vitacilina Clarite 200 ml",
+  "descripcion": "Descripción:\nVitacilina Clarite es una emulsión corporal hidratante y aclaradora de triple efecto, formulada con ingredientes avanzados para aclarar visiblemente y de inmediato el tono de la piel. Su fórmula, inspirada en rituales asiáticos, ayuda a reducir gradualmente la apariencia de las manchas y a iluminar la piel al instante.\n\nBeneficios:\n- Aclara de forma visible e inmediata el tono de la piel.\n- Ayuda a reducir gradualmente la apariencia de manchas e hiperpigmentación.\n- Ilumina la piel al instante.\n- Hidrata el cuerpo con una textura de emulsión.\n- Resultados visibles en 2 semanas, según la marca.\n\nIngredientes:\nContiene niacinamida al 3%, vitamina C y agua de regaliz como activos principales.\n\nPresentación:\nFrasco con 200 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Suspenda su uso si observa alguna reacción desfavorable. Mantener fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "linea": "Clarite",
+    "variante": "Triple efecto",
+    "presentacion": "Frasco con 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Tipo de producto: emulsión corporal aclaradora hidratante; Activos: niacinamida 3%, vitamina C, agua de regaliz; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM67332968"
     },
     "amazon": {},
     "shopify": {},
@@ -21,12 +31,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/emulsion-aclaradora-clarite-con-triple-efecto-vitacilina-200-ml/00750225034274",
+    "https://www.mercadolibre.com.mx/vitacilina-clarite-triple-efecto-emulsion-aclaradora-200ml-todo-tipo-de-piel-dianoche/p/MLM67332968"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN coincide con el código de una ficha de tienda (Walmart 00750225034274), pero la página oficial de Vitacilina devolvió 404, sin ingredientes completos ni modo de uso. Las advertencias son las generales de un producto cosmético de uso externo. El catálogo ML corresponde por nombre y presentación, sin confirmar el GTIN.",
+    "notas_imagenes": "Sin fotos válidas: la de la tienda era un 'Image Coming Soon', otra era una imagen genérica con logotipo de la tienda; la página oficial y Mercado Libre/Amazon no estuvieron accesibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

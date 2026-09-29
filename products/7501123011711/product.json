@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "FITOESTIMULINA GASAS C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "Fitoestimulinas Gasas 10 Piezas",
-  "descripcion": "Descripción:\nFitoestimulinas Gasas es un producto de uso externo de la marca Fitoestimulinas, presentado en gasas individuales que se aplican directamente sobre la piel en la zona que indique la etiqueta o el médico.\n\nPresentación:\nCaja con 10 gasas.\n\nAdvertencias:\nSolo para uso externo. No aplicar en los ojos ni en mucosas. Suspenda su uso si aparece irritación o si la lesión empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Fitoestimulina Gasas Esterilizadas con Crema 10 Sobres",
+  "descripcion": "Descripción:\nFitoestimulina de Grossman (Bausch + Lomb) en gasas esterilizadas impregnadas con crema. Cada caja contiene 10 sobres y cada sobre trae 1 gasa. La fórmula combina Triticum vulgare y fenoxietanol y es de aplicación tópica. Según la información del medicamento, se usa en el tratamiento tópico de alteraciones de la piel que requieren reactivar la formación de epitelio: quemaduras de cualquier grado y extensión, úlceras de decúbito, varicosas y crónicas, heridas tórpidas, cicatrización retardada de heridas, cirugía plástica y estética, dermatosis, ulceraciones del pezón durante la lactancia y dermatitis del pañal.\n\nComposición:\n- Triticum vulgare\n- Fenoxietanol\n- Gasa esterilizada impregnada con crema\n\nModo de uso:\nVía tópica. Aplique la gasa sobre la zona afectada según la indicación de su médico.\n\nPresentación:\n- Caja con 10 sobres, cada uno con 1 gasa esterilizada con crema\n- Hecho en Italia\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Por vía tópica no existen restricciones de uso durante el embarazo y la lactancia. Uso externo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Fitoestimulinas",
-    "presentacion": "gasas",
+    "marca": "Fitoestimulina",
+    "fabricante": "Grossman (Bausch + Lomb)",
+    "linea": "Fitoestimulina",
+    "presentacion": "Gasas esterilizadas con crema",
     "contenido_neto": 10,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "sobres",
     "unidades_por_envase": 10,
+    "principio_activo": "Triticum vulgare, fenoxietanol",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad; Uso: Externo"
+    "otros": "Cada sobre contiene 1 gasa esterilizada impregnada con crema; Hecho en Italia; Formato de venta: Unidad"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM191087",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123011711_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123011711.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501123011711/details",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/1613-fitoestimulina-gasa-esterilizada-con-crema-10-sobres.html",
+    "https://www.farmaciasespecializadas.com/fitoestimulina-4gr-caj-c-10-gasas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200), no se buscó ni el GTIN ni el nombre; datos deducidos del nombre del sistema y del conocimiento general de la marca. Parece una gasa medicada (posible medicamento): confirmar composición, fabricante y si va mejor en Dermatológicos Venta Libre (MLM457819) que en Gasas.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas. Una tienda indica que se solicitará receta, otra no lo especifica; validar la condición de venta. No se encontró la cantidad de Triticum vulgare por gasa.",
+    "notas_imagenes": "1 foto de frente de la caja (1568 px, tienda, sin marcas de agua).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

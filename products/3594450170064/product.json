@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "ELATEC MPFF 1000MG SOBRES C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Elatec MPFF 1000 mg Diosmina Hesperidina 30 Sobres",
+  "descripcion": "Descripción:\nElatec MPFF 1000 mg es una suspensión oral en sobres de Servier cuyo principio activo es una fracción flavonoide purificada y micronizada (MPFF) que aporta diosmina y hesperidina. Es un medicamento de uso circulatorio y vascular que se emplea bajo prescripción médica. Cada sobre contiene 10 mL de suspensión y la caja incluye 30 sobres.\n\nCaracterísticas:\n- Fracción flavonoide purificada y micronizada: diosmina 900 mg y hesperidina 100 mg por sobre.\n- Suspensión oral lista para tomar, en sobres de 10 mL.\n- Administración por vía oral.\n- Caja con 30 sobres.\n\nComposición:\nCada sobre contiene: fracción flavonoide purificada y micronizada equivalente a diosmina 900 mg y flavonoides expresados en hesperidina 100 mg, excipiente cbp 10 mL.\n\nModo de uso:\nVía oral. Tome el contenido del sobre en la dosis y durante el tiempo que le indique su médico.\n\nPresentación:\nCaja con 30 sobres de 10 mL de suspensión.\n\nAdvertencias:\nVenta con receta médica. No lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Elatec",
+    "fabricante": "Servier",
+    "linea": "MPFF",
+    "presentacion": "Sobres de suspensión oral",
+    "contenido_neto": 30,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 30,
+    "principio_activo": "Diosmina, hesperidina (fracción flavonoide purificada y micronizada)",
+    "concentracion": "1000 mg por sobre de 10 mL (diosmina 900 mg, hesperidina 100 mg)",
+    "via_administracion": "Oral",
+    "registro_sanitario": "485M2016 SSA IV",
+    "otros": "Formato de venta: Caja; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3594450170064_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594450170064_1.jpg",
+      "pagina": "https://www.fahorro.com/elatec-mpff-1000-mg-suspension-30-sobres.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1221,
+      "fecha": "2026-09-29",
+      "lado_util": 1131
+    },
+    {
+      "archivo": "3594450170064_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594450170064_2.jpg",
+      "pagina": "https://www.fahorro.com/elatec-mpff-1000-mg-suspension-30-sobres.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1209,
+      "fecha": "2026-09-29",
+      "lado_util": 1120
+    },
+    {
+      "archivo": "3594450170064_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594450170064_3.jpg",
+      "pagina": "https://www.fahorro.com/elatec-mpff-1000-mg-suspension-30-sobres.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1217,
+      "fecha": "2026-09-29",
+      "lado_util": 1126
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/elatec-mpff-1000-mg/",
+    "https://www.fahorro.com/elatec-mpff-1000-mg-suspension-30-sobres.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN visible en el empaque (3594450170064). Indicaciones y dosis no aparecen en las fichas abiertas; descripción general. Receta inferida por el registro SSA IV y la ficha de una farmacia.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro): vista angulada, frente y costado con fórmula y código de barras; unos 1,200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

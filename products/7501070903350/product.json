@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "LIBERTRIM SDP SUSP PED30 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Libertrim SDP Pediátrico Suspensión 30 ml Trimebutina",
+  "descripcion": "Descripción:\nLibertrim SDP Pediátrico es un medicamento de uso oral en suspensión, elaborado por Laboratorios Carnot, que combina trimebutina y simeticona. Se presenta como un sobre con trimebutina en polvo y un frasco con simeticona y vehículo, que se preparan juntos para obtener 30 ml de suspensión lista para administrarse con el dosificador. Una vez reconstituida, cada 100 ml de suspensión contienen 2.0 g de trimebutina y 2.0 g de simeticona.\n\nBeneficios:\n- Auxiliar en la regulación de la motilidad gastrointestinal.\n- Actúa como normorregulador del tono y la motilidad gastroesofágica e intestinal y como antiflatulento.\n- Indicado en población pediátrica (lactantes, preescolares, escolares y adolescentes) con cólico abdominal recurrente, síndrome dispéptico del lactante, reflujo gastroesofágico, dolor abdominal recurrente de causa funcional, náuseas, vómito, flatulencia y timpanización.\n\nComposición:\n- Trimebutina: 0.60 g por sobre.\n- Simeticona: 0.600 g por frasco.\n- Cada 100 ml de suspensión ya reconstituida: trimebutina 2.0 g y simeticona 2.0 g.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico de acuerdo con la edad y el peso del paciente.\n\nPresentación:\nCaja con sobre y frasco para preparar 30 ml de suspensión pediátrica.\n\nAdvertencias:\n- No usar en caso de oclusión intestinal, apendicitis o hipersensibilidad a los componentes de la fórmula.\n- En raras ocasiones se han reportado dolor de cabeza o reacciones leves en la piel.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Libertrim",
+    "fabricante": "Laboratorios Carnot",
+    "linea": "SDP",
+    "variante": "Pediátrico",
+    "presentacion": "Suspensión oral con sobre y frasco para preparar",
+    "contenido_neto": 30,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Trimebutina, simeticona",
+    "concentracion": "Trimebutina 0.600 g / Simeticona 0.600 g (2 g de cada una por 100 ml de suspensión reconstituida)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Pediátrico (lactantes, preescolares, escolares y adolescentes)",
+    "otros": "Incluye dosificador; Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903350_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw28b7072b/images/large/7501070903350_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/libertrim-sdp-suspension-pedpipet-30ml/MXYZ_7501070903350.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 874,
+      "fecha": "2026-09-29",
+      "lado_util": 810
+    },
+    {
+      "archivo": "7501070903350_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/l/i/libertrim-sdp-susp-ped-oral-30-ml-3350_2.jpg",
+      "pagina": "https://www.fahorro.com/libertrim-sdp-pediatrico-0-600-g-0-600-g-suspension-30-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1146,
+      "fecha": "2026-09-29",
+      "lado_util": 1062
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/libertrim-sdp-pediatrico-0-600-g-0-600-g-suspension-30-ml.html",
+    "https://www.actuamed.com.mx/marca/30408",
+    "https://curitek.com/producto/libertrim-sdp-pediatrico-30-ml/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes difieren en la condición de venta: una farmacia lo marca sin receta y otras (vademécum y farmacia de especialidades) como Rx; se deja en Revisar. La suspensión se prepara con sobre y frasco.",
+    "notas_imagenes": "2 fotos de tienda (empaque de frente y vista en ángulo), 874 y 1146 px. La foto del sobre de Medina se descartó por chica (240x300).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

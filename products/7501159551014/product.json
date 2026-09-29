@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "PULMONAR OM C 10 AMP INGER 126",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pulmonarom Lisados Bacterianos 10 Ampolletas 3 ml",
+  "descripcion": "Descripción:\nPulmonarom es una solución de lisados bacterianos de uso oral, presentada en caja con 10 ampolletas de 3 ml cada una. Los lisados bacterianos funcionan como auxiliares en infecciones de las vías respiratorias, acortando el tiempo de tratamiento en niños y adultos.\n\nBeneficios:\n- Auxiliar en infecciones de las vías respiratorias.\n- Ayuda a acortar el tiempo de tratamiento.\n- Uso en niños y adultos.\n- Ampolletas de 3 ml listas para su administración oral.\n\nComposición:\nLisados bacterianos en solución.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que indique el médico o el instructivo del empaque.\n\nPresentación:\nCaja con 10 ampolletas de 3 ml cada una (30 ml en total).\n\nAdvertencias:\n- Conservar a una temperatura no mayor de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pulmonarom",
+    "fabricante": "Sawaventis Nexo",
+    "linea": "Pulmonarom",
+    "variante": "Solución oral",
+    "presentacion": "Caja con ampolletas bebibles",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 10,
+    "principio_activo": "Lisados bacterianos",
+    "concentracion": "3 ml por ampolleta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños y adultos",
+    "otros": "Formato de venta: Caja con 10 ampolletas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501159551014_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe171ea34/images/large/7501159551014_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/pulmonar-om-10-amp-x-3ml/MXYZ_7501159551014.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 905,
+      "fecha": "2026-09-29",
+      "lado_util": 838
+    },
+    {
+      "archivo": "7501159551014_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159551014_.jpg",
+      "pagina": "https://www.fahorro.com/pulmonarom-10-ampolletas-con-3ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 974,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pulmonarom-10-ampolletas-con-3ml.html",
+    "https://grupofarmapronto.com/producto/pulmonar-om-amp10x3ml/",
+    "https://www.yza.mx/pulmonar-om-10-amp-x-3ml/MXYZ_7501159551014.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de una farmacia dice que requiere receta pero su atributo dice No; se deja Revisar. El fabricante (Sawaventis Nexo) viene de un distribuidor. No se encontró la dosis ni la composición cuantitativa.",
+    "notas_imagenes": "2 fotos de tienda (905 y 974 px, frente de la caja).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

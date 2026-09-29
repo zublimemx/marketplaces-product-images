@@ -4,29 +4,57 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM PALMOL N-BAL BABY0% C/80",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Palmolive Neutro Balance Baby 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Palmolive Neutro Balance Baby 0%, diseñadas para cuidar el balance natural de la piel de tu bebé. Sirven para limpiar tanto la cara como el cuerpo del pequeño.\n\nCaracterísticas:\n- Fórmula 0% alcohol, 0% colorantes y 0% parabenos.\n- Hipoalergénicas, para piel sensible de bebé.\n- Paquete con tapa.\n- Línea Neutro Balance Baby de Palmolive.\n- Aptas para la limpieza facial y corporal del bebé.\n\nModo de uso:\nAbra la tapa, tome una toallita y limpie suavemente la zona deseada. Cierre bien la tapa después de cada uso para conservar la humedad de las toallitas restantes.\n\nPresentación:\nPaquete con tapa que contiene 80 toallitas húmedas.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Las toallitas no deben desecharse en el inodoro. Mantenga el empaque cerrado después de cada uso. Mantener fuera del alcance de los niños sin supervisión de un adulto.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Neutro Balance Baby",
+    "variante": "0%",
+    "presentacion": "Paquete con tapa",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "genero": "Bebé",
+    "otros": "Sin alcohol; Sin colorantes; Sin parabenos; Hipoalergénicas; Empaque con tapa; Formato de venta: paquete"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22031543"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546655062_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7509546655062.png",
+      "pagina": "https://grupofarmapronto.com/producto/palmolive-neutro-balance-baby-0-c-80-toallitas-humedas/",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 902,
+      "fecha": "2026-09-29",
+      "lado_util": 836
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/neutro-balance-baby-toallitas-80-pz-con.html",
+    "https://grupofarmapronto.com/producto/palmolive-neutro-balance-baby-0-c-80-toallitas-humedas/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Los atributos 0% alcohol, colorantes y parabenos e hipoalergénicas salen de los títulos de listados en resultados de búsqueda; las tiendas no traen ingredientes ni modo de uso, por eso las advertencias son las generales de toallitas. Catálogo ML tomado de la URL de resultado (Neutro Balance Baby 0% 80 ud).",
+    "notas_imagenes": "1 foto de frente (960 px) de tienda; se descartó otra foto que traía una franja con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

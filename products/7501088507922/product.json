@@ -4,38 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "KOPTIN 500 MG C 3 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Koptin 500 mg 3 Tabletas",
-  "descripcion": "Descripción:\nKoptin es un medicamento de la marca Koptin en tabletas de 500 mg. Esta presentación es una caja con 3 tabletas para administración oral. El principio activo, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Siga la dosis, la frecuencia y la duración que indique el instructivo o su médico. No suspenda ni modifique el tratamiento sin consultarlo.\n\nPresentación:\nCaja con 3 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Koptin Azitromicina 500 mg 3 Tabletas",
+  "descripcion": "Descripción:\nKoptin es un antibiótico en tabletas de Chinoin cuyo principio activo es la azitromicina, en concentración de 500 mg por tableta. Pertenece al grupo de los macrólidos y se emplea en infecciones causadas por microorganismos sensibles a la azitromicina, siempre bajo prescripción y supervisión médica. Esta presentación contiene 3 tabletas para un tratamiento corto, conforme a la indicación del médico.\n\nBeneficios:\n- Antibiótico con azitromicina 500 mg por tableta.\n- Presentación de 3 tabletas, práctica para esquemas cortos de tratamiento.\n- Vía de administración oral.\n\nComposición:\nCada tableta contiene azitromicina 500 mg y excipiente cbp.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento indicado aunque los síntomas mejoren.\n\nPresentación:\nCaja con 3 tabletas de 500 mg.\n\nAdvertencias:\nAntibiótico: su venta requiere receta médica. El uso incorrecto de los antibióticos puede causar resistencia bacteriana y no sirven contra resfriados ni influenza. No lo use si es alérgico a la azitromicina o a otros macrólidos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Koptin",
-    "concentracion": "500 mg",
-    "presentacion": "Tabletas",
+    "fabricante": "Chinoin",
+    "presentacion": "tabletas",
     "contenido_neto": 3,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 3,
+    "principio_activo": "Azitromicina",
+    "concentracion": "500 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "otros": "Antibiótico macrólido; Forma farmacéutica: tableta; Formato de venta: unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088507922_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088507922_1.jpg",
+      "pagina": "https://www.fahorro.com/koptin-500-mg-oral-3-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1436,
+      "fecha": "2026-09-29",
+      "lado_util": 1330
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/koptin-500-mg-caja-c-3-tabletas/p",
+    "https://www.fahorro.com/koptin-500-mg-oral-3-tabletas.html",
+    "https://www.klyns.mx/koptin-500-mg-c-3-tabs/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo identificar con certeza el principio activo (un esquema de 3 tabletas de 500 mg es típico de antibióticos, pero no confirmado); por eso se usó 'Otros Medicamentos'. Si resulta antibiótico: receta Sí y categoría Rx MLM457827.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y composición (azitromicina 500 mg por tableta) confirmados; el fabricante Chinoin se leyó en la caja. No se abrió una ficha con indicaciones detalladas, por lo que la descripción de uso es general.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda, 1600 px). Se descartó una foto de 500 px de un empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

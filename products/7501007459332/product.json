@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "VICK INHALADOR BLISTER 0 5ML JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vick VapoRub Inhalador Nasal Alcanfor Mentol 0.5 ml",
+  "descripcion": "Descripción:\nVick VapoRub Inhalador, de Procter & Gamble, es un inhalador nasal individual con alcanfor y mentol en solución para inhalación, presentado en blíster con 1 pieza de 0.5 ml. Está indicado como auxiliar en el tratamiento de nariz tapada, catarro y gripe: descongestiona la nariz tapada ocasionada por la gripe y ayuda a respirar libremente.\n\nCaracterísticas:\n- Inhalador individual de tamaño compacto.\n- Se aplica directamente en la nariz, lo que da un efecto más rápido que otras presentaciones.\n- Contiene alcanfor y mentol, principios activos de la línea Vick VapoRub.\n- Blíster con 1 inhalador.\n\nComposición:\nCada inhalador contiene alcanfor 197 mg y mentol 197 mg, en solución para inhalación.\n\nModo de uso:\nUso nasal por inhalación. Siga las instrucciones que vienen en el empaque.\n\nPresentación:\nBlíster con un inhalador de 0.5 ml.\n\nAdvertencias:\nSolo para uso por inhalación nasal. No se use en personas alérgicas al alcanfor o al mentol. Consulte a su médico antes de usarlo durante el embarazo o la lactancia, o si los síntomas persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "VapoRub",
+    "variante": "Inhalador",
+    "presentacion": "Blíster con 1 inhalador",
+    "contenido_neto": 0.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Alcanfor, Mentol",
+    "concentracion": "197 mg / 197 mg",
+    "via_administracion": "Nasal (inhalación)",
+    "registro_sanitario": "27919 SSA",
+    "otros": "Forma farmacéutica: solución para inhalación; Formato de venta: blíster con 1 inhalador"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007459332_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501007459332.jpg",
+      "pagina": "https://www.arteli.com.mx/inhalador-vick-blister-05ml-3132097/p",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1061,
+      "fecha": "2026-09-29",
+      "lado_util": 983
+    },
+    {
+      "archivo": "7501007459332_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501007459332_1.jpg",
+      "pagina": "https://www.arteli.com.mx/inhalador-vick-blister-05ml-3132097/p",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1249,
+      "fecha": "2026-09-29",
+      "lado_util": 1157
+    },
+    {
+      "archivo": "7501007459332_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501007459332_3.jpg",
+      "pagina": "https://www.arteli.com.mx/inhalador-vick-blister-05ml-3132097/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1069,
+      "fecha": "2026-09-29",
+      "lado_util": 990
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.arteli.com.mx/inhalador-vick-blister-05ml-3132097/p",
+    "https://prixz.com/c/vick-vaporub-inhalador-nasal-1-pieza-2/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición e indicación leídas del empaque en las fotos; el registro sanitario proviene de una ficha de farmacia (fracción VI, sin receta). Las advertencias son las generales del producto, sin instructivo completo.",
+    "notas_imagenes": "3 fotos de tienda (1060 a 1250 px): dos de frente del blíster y una del inhalador suelto; se descartó la foto del reverso con letra pequeña.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

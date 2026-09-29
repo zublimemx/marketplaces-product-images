@@ -4,17 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "CALADRYL S LOC 180 ML 28",
   "nombres_sistema_alternos": [],
-  "titulo": "Caladryl S Loción 180 ml",
-  "descripcion": "Descripción:\nCaladryl S es una loción de uso tópico para aplicar sobre la piel, presentada en frasco de 180 ml. Pertenece a la línea Caladryl, de productos para el cuidado de la piel.\n\nModo de uso:\nAplique una capa delgada sobre la zona afectada de la piel limpia y seca, las veces que indique el empaque o su médico. Lávese las manos después de aplicar. Consulte en la etiqueta la frecuencia máxima de uso.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nAdvertencias:\nProducto de uso externo. No se ingiera. Evite el contacto con los ojos, la boca y las mucosas, y no lo aplique sobre heridas profundas ni sobre piel lesionada de forma extensa. Suspenda su uso y consulte a su médico si los síntomas empeoran, persisten o aparece irritación. Revise en el empaque los componentes y las indicaciones antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Caladryl S Loción Calamina 180 ml",
+  "descripcion": "Descripción:\nCaladryl S es una loción tópica de calamina, elaborada por Bausch & Lomb México, que ayuda a aliviar el prurito (comezón) y las molestias leves de la piel. La calamina ha mostrado utilidad antipruriginosa en lesiones inflamatorias subagudas de la piel.\n\nBeneficios:\n- Auxiliar en el tratamiento del prurito causado por piquetes de insectos.\n- Quemaduras solares leves, sarpullido y dermatitis por contacto.\n- Otras irritaciones dérmicas menores.\n\nModo de uso:\nVía tópica. Niños mayores de 2 años y adultos: lave el área afectada con agua y jabón neutro, séquela perfectamente y aplique la loción en la zona afectada cada 6 a 8 horas. En menores de 2 años, el médico debe evaluar los posibles beneficios frente a los riesgos.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nAdvertencias:\n- Uso externo.\n- No lo use si es hipersensible a los componentes de la fórmula ni sobre lesiones de la piel infectadas.\n- Si las molestias empeoran o persisten por más de siete días, o si se presentan recaídas, suspenda su uso y consulte a su médico.\n- En caso de embarazo o lactancia, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Caladryl",
+    "fabricante": "Bausch & Lomb México",
     "variante": "S",
     "presentacion": "Loción",
     "contenido_neto": 180,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "principio_activo": "Calamina",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad; Uso: Externo"
+    "edad_etapa": "Niños mayores de 2 años y adultos",
+    "otros": "Uso: Externo; Venta sin receta; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501057005312_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501057005312_1.jpg",
+      "pagina": "https://production-media.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1307,
+      "fecha": "2026-09-29",
+      "lado_util": 1211
+    },
+    {
+      "archivo": "7501057005312_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw969100db/images/large/7501057005312_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/caladryl-s-locion-180ml/MXYZ_7501057005312.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 787,
+      "fecha": "2026-09-29",
+      "lado_util": 729
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Dermatologicos/614-caladryl-s-locion-180-ml.html",
+    "https://www.yza.mx/caladryl-s-locion-180ml/MXYZ_7501057005312.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema y conocimiento general. No se confirmó qué significa la S de Caladryl S ni la composición exacta (se omiten principio activo e indicaciones); completar con la ficha del fabricante. Se asume venta libre por ser una loción tópica de la marca Caladryl.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos fichas de farmacia (Caladryl S loción 180 ml). Una ficha indica calamina con difenhidramina 1 g/100 ml, mientras que otra y la etiqueta de la foto indican solo calamina; se describió solo calamina. No se confirmó qué significa la S. Verificar la fórmula en el empaque.",
+    "notas_imagenes": "2 fotos de tienda (frasco de frente); la primera del servidor de imágenes de Farmacias del Ahorro sin ficha activa confirmada y la segunda de una farmacia en línea.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

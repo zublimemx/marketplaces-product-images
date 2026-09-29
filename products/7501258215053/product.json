@@ -5,17 +5,18 @@
   "nombre_sistema": "BINOTAL 500MG C30 CAPS AMPICILINA",
   "nombres_sistema_alternos": [],
   "titulo": "Binotal Ampicilina 500 mg 30 Cápsulas",
-  "descripcion": "Descripción:\nBinotal 500 mg es un antibiótico en cápsulas cuyo principio activo es la ampicilina, una penicilina de amplio espectro. Se utiliza bajo indicación médica para el tratamiento de infecciones causadas por bacterias sensibles a la ampicilina. Esta presentación incluye 30 cápsulas de 500 mg para administración oral.\n\nComposición:\nCada cápsula contiene ampicilina 500 mg.\n\nModo de uso:\nVía oral. Tome las cápsulas con un vaso de agua, en la dosis, con el intervalo y durante el tiempo que indique su médico. Complete siempre el tratamiento aunque los síntomas mejoren, para evitar que las bacterias se vuelvan resistentes.\n\nPresentación:\nCaja con 30 cápsulas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la ampicilina, a las penicilinas o a otros antibióticos betalactámicos. Suspenda su uso y acuda al médico si presenta erupción en la piel, dificultad para respirar o diarrea intensa. No se automedique con antibióticos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nBinotal 500 mg es un antibiótico de la familia de las penicilinas de Lakeside cuyo principio activo es la ampicilina, presente como trihidrato. Actúa interfiriendo con la formación de la pared celular de las bacterias y se prescribe en infecciones causadas por bacterias sensibles a la ampicilina, entre ellas infecciones respiratorias, urinarias y gastrointestinales. La presentación es una caja con 30 cápsulas de 500 mg.\n\nCaracterísticas:\n- Antibiótico de amplio espectro del grupo de las penicilinas.\n- Ampicilina 500 mg por cápsula.\n- Administración por vía oral.\n- Caja con 30 cápsulas.\n\nComposición:\nCada cápsula contiene: ampicilina trihidratada equivalente a 500 mg de ampicilina, excipientes necesarios.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por su médico; respete el esquema completo que le indique.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nVenta con receta médica. No lo use si es alérgico a la ampicilina o a otros antibióticos del grupo de las penicilinas. Informe a su médico sobre sus antecedentes, en especial alergias y problemas de riñón o hígado. Si presenta diarrea intensa durante o después del tratamiento, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Binotal",
-    "principio_activo": "Ampicilina",
-    "concentracion": "500 mg",
+    "fabricante": "Lakeside",
     "presentacion": "Cápsulas",
     "contenido_neto": 30,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 30,
+    "principio_activo": "Ampicilina (trihidrato)",
+    "concentracion": "500 mg por cápsula",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: Caja; Antibiótico; Requiere receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501258215053_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6999657/7501258215053_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/binotal-500-mg-caja-c-30-capsulas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/binotal-500mg-con-30-capsulas-ampicilina",
+    "https://www.farmatodo.com.mx/binotal-500-mg-caja-c-30-capsulas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre (Binotal = ampicilina 500 mg, 30 cápsulas); no se verificó fabricante (se omitió) ni la presentación en fuentes. Los antibióticos requieren receta en México.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo y otras farmacias. No se encontró página del fabricante.",
+    "notas_imagenes": "1 foto de tienda (Farmatodo), frente de la caja, 972 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,19 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "THIOCTACID 600MG CPR C30",
   "nombres_sistema_alternos": [],
-  "titulo": "Thioctacid 600 mg Ácido Tióctico 30 Comprimidos",
-  "descripcion": "Descripción:\nThioctacid 600 contiene ácido tióctico (ácido alfa lipoico) 600 mg por comprimido. Es un antioxidante que se utiliza en el manejo de los síntomas de la neuropatía diabética, como hormigueo, ardor o dolor en manos y pies, bajo indicación médica.\n\nComposición:\nCada comprimido contiene ácido tióctico 600 mg.\n\nModo de uso:\nVía oral. La dosis y el horario los indica el médico; los comprimidos se ingieren enteros con un vaso de agua.\n\nPresentación:\nCaja con 30 comprimidos de 600 mg.\n\nAdvertencias:\nEn personas con diabetes puede disminuir el nivel de glucosa en sangre, por lo que se recomienda vigilar la glucemia durante el tratamiento. No lo use en caso de alergia al ácido tióctico o a alguno de los componentes de la fórmula. No se recomienda durante el embarazo ni la lactancia sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Thioctacid 600 HR Ácido Tióctico 600 mg 30 Tabletas",
+  "descripcion": "Descripción:\nThioctacid 600 HR es un medicamento con ácido tióctico (ácido alfa lipoico) de 600 mg, en tabletas de administración oral. Está indicado para el tratamiento etiopatogénico y sintomático de la polineuropatía diabética periférica (sensitivo-motora). El ácido tióctico es una sustancia natural del organismo que participa como coenzima en el metabolismo energético de la mitocondria y se le describe como regulador metabólico y antioxidante.\n\nComposición:\n- Cada tableta contiene ácido tióctico 600 mg\n\nModo de uso:\nVía oral. La posología habitual descrita en la información del producto es una tableta al día, de preferencia en ayunas o 30 minutos antes de la comida principal, tragada entera con agua, sin triturar ni masticar. La dosis y la duración las determina el médico.\n\nPresentación:\n- Caja con frasco con 30 tabletas de 600 mg\n- Elaborado en Alemania\n\nAdvertencias:\nNo lo use si es alérgico al ácido tióctico o a alguno de los componentes de la fórmula. No se cuenta con información clínica para su uso en niños y adolescentes. Se recomienda precaución en personas con hipotiroidismo no tratado y evitar su uso simultáneo con quelantes de metales. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Thioctacid",
-    "linea": "600",
-    "presentacion": "comprimidos",
+    "fabricante": "Meda Pharma (Viatris)",
+    "linea": "Thioctacid 600 HR",
+    "presentacion": "Tabletas en frasco",
     "contenido_neto": 30,
-    "unidad_contenido": "comprimidos",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "principio_activo": "Ácido tióctico (ácido alfa lipoico)",
+    "principio_activo": "Ácido tióctico",
     "concentracion": "600 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Hecho en Alemania; Formato de venta: Unidad"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -30,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318612082_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318612082_1.jpg",
+      "pagina": "https://www.yza.mx/thioctacid-600hr-600mg-30-comp/MXYZ_7501318612082.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1128,
+      "fecha": "2026-09-29",
+      "lado_util": 1045
+    },
+    {
+      "archivo": "7501318612082_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318612082.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1443,
+      "fecha": "2026-09-29",
+      "lado_util": 1337
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/3779-thioctacid-600-mg-con-30-comprimidos.html",
+    "https://www.benavides.com.mx/thioctacid-600-mg-acido-tioctico-30-tabletas",
+    "https://infocode.io/b2b/07501318612082/details"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Confirmar fabricante, la variante exacta (600 HR o 600 T) y si requiere receta (probable Sí); si es Sí, usar MLM457836.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas. La condición de venta es contradictoria entre fuentes (una tienda dice receta no obligatoria, la tienda del laboratorio pide datos del médico); validar. El empaque dice tabletas aunque algunas tiendas dicen comprimidos.",
+    "notas_imagenes": "2 fotos de tienda: caja en 3D con fórmula (1128 px) y caja con el frasco (1443 px). Se descartó una foto de 578 px por baja resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

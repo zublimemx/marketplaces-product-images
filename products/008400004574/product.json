@@ -4,17 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "GRIMAL 2MG SOL 10ML HIALURONATO OXIMETAZOLINA GRIN",
   "nombres_sistema_alternos": [],
-  "titulo": "Grimal Oximetazolina Hialuronato Solución 10 ml",
-  "descripcion": "Descripción:\nGrimal es una solución que combina hialuronato y oximetazolina, presentada en frasco con 10 ml. La concentración indicada en la denominación del producto es de 2 mg. La composición exacta, las indicaciones y el modo de aplicación deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución\n- Contenido: 10 ml\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Grimal Hialuronato Oximetazolina Solución Oftálmica 10 ml",
+  "descripcion": "Descripción:\nGrimal es una solución oftálmica de Laboratorios GRIN que combina hialuronato de sodio y clorhidrato de oximetazolina. Se utiliza para aliviar la irritación y el enrojecimiento ocular causados por polvo, frío, viento, alergias al polen, contaminación y uso de lentes de contacto, y funciona también como lubricante ocular. Se presenta en frasco de 10 ml.\n\nCaracterísticas:\n- Hialuronato de sodio 2 mg/ml y oximetazolina 0.25 mg/ml.\n- Alivia irritación y enrojecimiento ocular.\n- Lubricante ocular.\n- Para adultos y niños mayores de 6 años.\n- Frasco de 10 ml.\n\nFórmula:\nCada ml contiene hialuronato de sodio 2.00 mg, clorhidrato de oximetazolina 0.25 mg y vehículo cbp 1 ml.\n\nModo de uso:\nVía oftálmica, no ingerible. Aplique 1 o 2 gotas en el saco conjuntival del ojo afectado cada 6 a 8 horas.\n\nPresentación:\nCaja con frasco con 10 ml de solución.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a los componentes ni en pacientes con glaucoma, salvo indicación y supervisión médica. Suspenda el tratamiento y consulte a su médico si persiste la irritación, hay dolor, cambios en la visión o empeoramiento después de 72 horas. Consulte a su médico si utiliza antidepresivos tricíclicos o maprotilina. Conservar a no más de 30 °C, con el frasco bien cerrado; no usar después de 15 días de abierto. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Grimal",
-    "presentacion": "Solución",
+    "fabricante": "Laboratorios GRIN",
+    "variante": "Solución oftálmica",
+    "presentacion": "Frasco con gotero",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "principio_activo": "Hialuronato y oximetazolina",
-    "concentracion": "2 mg",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Hialuronato de sodio y oximetazolina",
+    "concentracion": "2 mg/0.25 mg por ml",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos y niños mayores de 6 años",
+    "registro_sanitario": "509M2004 SSA IV",
+    "otros": "Forma farmacéutica: Solución oftálmica; Lubricante ocular"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -28,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "008400004574_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400004574.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1547,
+      "fecha": "2026-09-29",
+      "lado_util": 1433
+    },
+    {
+      "archivo": "008400004574_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400004574_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1547,
+      "fecha": "2026-09-29",
+      "lado_util": 1433
+    },
+    {
+      "archivo": "008400004574_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400004574_3.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1542,
+      "fecha": "2026-09-29",
+      "lado_util": 1428
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/grimal.solucion.oftalmica/88/101/7967/172",
+    "https://www.fahorro.com/grimal-oftalmico-10-ml-solucion.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). GTIN de 12 dígitos (008400004574), no probado con otras variantes. Se asumió uso oftálmico por la combinación hialuronato/oximetazolina, pero no está confirmado; si fuera nasal, la categoría sería Respiratorios Venta Libre (MLM457814). A qué componente corresponde el 2 mg y el fabricante (probable Laboratorios Grin) sin confirmar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 008400004574 (12 dígitos, 8400004574 en tiendas) y presentación confirmados. Composición, dosis y precauciones tomadas de la ficha PLM. No se confirmó si requiere receta.",
+    "notas_imagenes": "3 fotos (tienda, ~1545 px): frente, frente con la fórmula y vista angular de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

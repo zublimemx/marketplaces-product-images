@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "KIT RICITOS DE ORO AVE-VAIN C/4PZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Kit Ricitos de Oro Avena y Vainilla Bebé 4 Piezas",
+  "descripcion": "Descripción:\nKit para bebé Ricitos de Oro, línea Avena y Vainilla, de Grisi. Reúne en una sola caja cuatro productos de higiene y cuidado diario, con fórmulas hipoalergénicas y un delicado aroma a avena y vainilla, ideal para regalar o para tener el cuidado del bebé completo.\n\nBeneficios:\n- Línea pensada para brindar suavidad y humectación a la piel del bebé.\n- Productos hipoalergénicos.\n- Jabón de avena coloidal que ayuda a calmar la sensación de irritación.\n- Caja con espacio para escribir dedicatoria, práctica para obsequio.\n\nContenido del kit:\n- 1 jabón líquido y shampoo Avena y Vainilla de 100 ml.\n- 1 jabón de tocador de avena coloidal de 90 g.\n- 1 agua de colonia Avena y Vainilla de 100 ml.\n- 1 crema corporal Avena y Vainilla de 100 ml.\n\nPresentación:\nCaja con 4 piezas.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si observa alguna reacción desfavorable. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Ricitos de Oro",
+    "fabricante": "Grisi",
+    "linea": "Avena y Vainilla",
+    "variante": "Kit para bebé",
+    "presentacion": "Kit",
+    "unidades_por_envase": 4,
+    "edad_etapa": "Bebés",
+    "sabor_aroma": "Avena y vainilla",
+    "otros": "Contenido: jabón líquido y shampoo 100 ml, jabón de avena coloidal 90 g, agua de colonia 100 ml y crema corporal 100 ml; Hipoalergénico; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189840",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Sets de Cuidado para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022141571_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://costofarma.mx/cdn/shop/files/7501022141571_01.jpg?v=1756265484&width=1920",
+      "pagina": "https://costofarma.mx/products/kitricitosdeoroave-vainc-4pz",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 930,
+      "fecha": "2026-09-29",
+      "lado_util": 861
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://costofarma.mx/products/kitricitosdeoroave-vainc-4pz",
+    "https://farmaciasanjorge.com/products/42504"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Contenido leído de la foto del empaque. La advertencia final es de precaución general para cosméticos infantiles (no se leyó una leyenda en el empaque).",
+    "notas_imagenes": "1 foto de tienda (930 px, caja del kit de frente). Se borró una imagen que era un logotipo de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

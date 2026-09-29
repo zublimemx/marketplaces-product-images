@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ALKA SELTZER EXH C100 GRATIS 1 ALKA DEFENSE 500MG C50 ENERO 28 20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alka-Seltzer Tabletas Efervescentes Caja con 100",
+  "descripcion": "Descripción:\nAlka-Seltzer, de Bayer, en tabletas efervescentes que combinan bicarbonato de sodio, ácido cítrico y ácido acetilsalicílico. Está indicado para el alivio de la acidez, las agruras, la indigestión y el dolor de cabeza asociados al malestar estomacal. Al disolverse en agua, la tableta forma una solución efervescente lista para beber.\n\nCaracterísticas:\n- Tabletas efervescentes, se disuelven en agua antes de tomarse.\n- Alivio de acidez, agruras, indigestión y dolor de cabeza.\n- Presentación en caja con 100 tabletas.\n- Marca Bayer.\n\nComposición:\nBicarbonato de sodio, ácido cítrico y ácido acetilsalicílico.\n\nModo de uso:\nVía oral. Disuelva la tableta en un vaso con agua y tome la solución una vez que termine la efervescencia. Siga las instrucciones del empaque.\n\nPresentación:\nCaja con 100 tabletas efervescentes.\n\nAdvertencias:\nContiene ácido acetilsalicílico: no lo use si es alérgico a la aspirina o a otros antiinflamatorios. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o si toma anticoagulantes. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alka-Seltzer",
+    "fabricante": "Bayer",
+    "variante": "Tabletas efervescentes",
+    "presentacion": "Caja con 100 tabletas",
+    "contenido_neto": 100,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 100,
+    "principio_activo": "Bicarbonato de sodio, Ácido cítrico, Ácido acetilsalicílico",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta efervescente; Formato de venta: caja con 100 tabletas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008443026_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008443026_1.jpg",
+      "pagina": "https://farma-ya.com/farma-ya/product/7501008443026",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 729,
+      "fecha": "2026-09-29",
+      "lado_util": 675
+    },
+    {
+      "archivo": "7501008443026_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008443026_2.jpg",
+      "pagina": "https://farma-ya.com/farma-ya/product/7501008443026",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 996,
+      "fecha": "2026-09-29",
+      "lado_util": 923
+    },
+    {
+      "archivo": "7501008443026_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008443026_3.jpg",
+      "pagina": "https://farma-ya.com/farma-ya/product/7501008443026",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 999,
+      "fecha": "2026-09-29",
+      "lado_util": 925
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farma-ya.com/farma-ya/product/7501008443026",
+    "https://www.sears.com.mx/producto/2521014/alka-seltzer-100-tabletas-efervescentes"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema es un paquete promocional (exhibidor con 100 tabletas más un Alka Defense de regalo); el título y la ficha describen solo el Alka-Seltzer de 100 tabletas. Composición e indicaciones leídas de la caja; no se encontraron cantidades por tableta ni registro sanitario. El modo de uso es el estándar de una tableta efervescente.",
+    "notas_imagenes": "3 fotos de tienda (729 a 999 px): frente y dos ángulos de la caja de 100 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

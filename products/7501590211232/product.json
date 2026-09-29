@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "POSTINOR TAB UNIDOSIS 1 5MG LEVONOGESTREL GEDEON RICHTER 192",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Postinor Unidosis Levonorgestrel 1.5 mg 1 Tableta",
+  "descripcion": "Descripción:\nPostinor Unidosis es un anticonceptivo de emergencia de Gedeon Richter, conocido como pastilla del día siguiente, cuyo principio activo es el levonorgestrel. Cada caja contiene una tableta de 1.5 mg en una sola dosis (unidosis) para administración por vía oral.\n\nBeneficios:\n- Anticonceptivo de emergencia de una sola tableta.\n- Formato unidosis: una tableta de 1.5 mg de levonorgestrel por caja.\n- Se toma por vía oral.\n\nComposición:\nCada tableta contiene levonorgestrel 1.5 mg.\n\nModo de uso:\nVía oral, en una sola toma. Debe tomarse lo antes posible después de una relación sexual sin protección o de una falla del método anticonceptivo. Lea el instructivo anexo para conocer el tiempo límite de uso.\n\nPresentación:\nCaja con 1 tableta unidosis de 1.5 mg.\n\nAdvertencias:\nNo es un método anticonceptivo de uso regular ni sustituye a los métodos anticonceptivos habituales. No protege contra infecciones de transmisión sexual. No lo use si es alérgica al levonorgestrel o a algún componente de la fórmula, ni si está embarazada. Consulte a su médico si tiene dolor abdominal intenso, retraso de la menstruación o dudas sobre su uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Postinor",
+    "fabricante": "Gedeon Richter",
+    "linea": "Postinor Unidosis",
+    "presentacion": "Tableta unidosis",
+    "contenido_neto": 1,
+    "unidad_contenido": "tableta",
+    "unidades_por_envase": 1,
+    "principio_activo": "Levonorgestrel",
+    "concentracion": "1.5 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mujeres adultas",
+    "genero": "Mujer",
+    "otros": "Grupo terapéutico: anticonceptivo de emergencia; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501590211232_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.fpsf.mx/cdn/shop/products/Fsp800Wx800H_5640003_1dkmur4ra_1200x1200.png?v=1610495570",
+      "pagina": "https://www.fpsf.mx/products/postinor-levonorgestrel-1-5-mg-caja-con-1-tabletas-unidosis-gedeon-richter",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 687,
+      "fecha": "2026-09-29",
+      "lado_util": 637
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fpsf.mx/products/postinor-levonorgestrel-1-5-mg-caja-con-1-tabletas-unidosis-gedeon-richter",
+    "https://curitek.com/producto/postinor-1-5-mg-levonogestrel/",
+    "https://www.klyns.mx/postinor-1-5-mg-unidosis-1-tableta/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia; presentación unidosis de 1.5 mg igual al nombre. Las fichas traen poca información (sin indicaciones ni tiempo límite); modo de uso y advertencias son generales del levonorgestrel de emergencia. El levonorgestrel de 1.5 mg se vende sin receta en México (igual que otros productos del lote).",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacia Santa Fe, 800 px), correcta en presentación de 1.5 mg unidosis.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

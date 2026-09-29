@@ -4,15 +4,18 @@
   "linea": "Farma",
   "nombre_sistema": "FIXODENT PLUS",
   "nombres_sistema_alternos": [],
-  "titulo": "Adhesivo para Dentaduras Fixodent Plus",
-  "descripcion": "Descripción:\nFixodent Plus es un adhesivo para dentaduras postizas de la marca Fixodent, de Procter & Gamble. Está pensado para fijar prótesis dentales removibles y ayudar a mantenerlas en su lugar durante el uso diario.\n\nPresentación:\n- Adhesivo para prótesis dental\n- Versión Plus\n\nAdvertencias:\nUse el producto según las instrucciones del empaque. Si presenta irritación o molestias en encías o boca, suspenda su uso y consulte a su dentista. Mantenga fuera del alcance de los niños.",
+  "titulo": "Adhesivo para Dentaduras Fixodent Plus Dual Power 35 ml",
+  "descripcion": "Descripción:\nFixodent Plus es una pasta adhesiva para dentaduras de Procter & Gamble, para prótesis completas y parciales. Su fórmula más avanzada Dual Power ofrece una sujeción más fuerte y de larga duración en comparación con el adhesivo Fixodent de sabor neutro, para comer y conversar con mayor seguridad. Se presenta en tubo de 35 ml.\n\nBeneficios:\n- Pasta adhesiva para prótesis completas y parciales.\n- Fórmula más avanzada Dual Power.\n- Sujeción más fuerte y de larga duración (comparado con el adhesivo Fixodent de sabor neutro).\n- Ayuda a mantener la dentadura firme durante las actividades diarias.\n\nModo de uso:\nLimpie y seque la dentadura antes de colocar el adhesivo. Aplique una pequeña cantidad de pasta sobre la superficie interna de la dentadura, colóquela en la boca y presione firmemente unos segundos. Al terminar el día, retire la dentadura y límpiela junto con las encías. Siga las instrucciones del empaque para obtener los mejores resultados.\n\nPresentación:\nTubo con 35 ml de pasta adhesiva para dentaduras.\n\nAdvertencias:\nProducto de uso externo en la dentadura; no lo ingiera. Suspenda su uso y consulte a su dentista si aparece irritación de las encías o si la dentadura deja de ajustar bien. Acuda a revisiones dentales periódicas. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Fixodent",
     "fabricante": "Procter & Gamble",
-    "variante": "Plus",
-    "presentacion": "Adhesivo para dentaduras",
+    "linea": "Plus Dual Power",
+    "variante": "Pasta adhesiva para dentaduras",
+    "presentacion": "Tubo",
+    "contenido_neto": 35,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad"
+    "otros": "Uso: Para prótesis completas y parciales; Tipo: Pasta adhesiva; Fórmula Dual Power"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,14 +29,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506339394733_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506339394733.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1442,
+      "fecha": "2026-09-29",
+      "lado_util": 1336
+    },
+    {
+      "archivo": "7506339394733_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506339394733_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1361,
+      "fecha": "2026-09-29",
+      "lado_util": 1261
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/fixodent-plus-adhesivo-para-dentaduras-35ml"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Contenido neto (g), forma exacta (crema o polvo) y variante (por ejemplo, Plus Sellado Máximo) sin confirmar. Categoría provisional Cuidado Bucal > Otros; buscar una categoría más específica de adhesivos para dentaduras si existe.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por listados de tiendas y contenido de 35 ml leído del empaque (el nombre del sistema no trae el tamaño). El modo de uso es el procedimiento habitual de adhesivos para dentaduras, porque no se encontró la ficha oficial de la marca; conviene compararlo con la etiqueta.",
+    "notas_imagenes": "2 fotos (tienda, 1442 y 1361 px): frente de la caja y vista angular.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

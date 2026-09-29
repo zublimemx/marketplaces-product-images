@@ -4,14 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "ARNICA MONTANA PAQ C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Árnica Montana Paquete con 10 Piezas",
+  "descripcion": "Descripción:\nProducto a base de Arnica montana en presentación de paquete con 10 piezas. La información disponible sobre este artículo es limitada: consulte la etiqueta del empaque para conocer la forma farmacéutica, la concentración, el modo de uso y las indicaciones que declara el fabricante.\n\nPresentación:\nPaquete con 10 piezas.\n\nAdvertencias:\nConsulte la etiqueta del empaque antes de usar el producto. Si usted está embarazada o en lactancia, o si tiene alguna enfermedad o toma otros medicamentos, consulte a su médico antes de utilizarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Arnica Montana",
+    "principio_activo": "Arnica montana",
+    "presentacion": "Paquete",
+    "unidades_por_envase": 10,
+    "otros": "Formato de venta: Paquete con 10 piezas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -23,10 +29,12 @@
   "url_oficial": "",
   "fuentes": [],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se encontró el GTIN ni una ficha que lo confirme en las páginas revisadas (farmacias, bases de códigos de barras y catálogos VTEX). Se desconoce fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional.",
+    "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

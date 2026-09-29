@@ -5,18 +5,19 @@
   "nombre_sistema": "TAS HUM HUGG CUIDADO PURO C/80",
   "nombres_sistema_alternos": [],
   "titulo": "Toallitas Húmedas Huggies Cuidado Puro 80 Piezas",
-  "descripcion": "Descripción:\nLas toallitas húmedas Huggies Cuidado Puro están pensadas para la limpieza suave de la piel del bebé durante el cambio de pañal y en el aseo diario de manos y cara. Vienen en un paquete práctico con 80 toallitas para tener a la mano en casa, en la pañalera o de viaje.\n\nCaracterísticas:\n- Toallitas húmedas para bebé de la marca Huggies, línea Cuidado Puro.\n- Presentación de 80 toallitas por paquete.\n- Diseñadas para una limpieza delicada de la piel del bebé.\n- Prácticas para el cambio de pañal, el aseo de manos y cara, y limpiezas rápidas fuera de casa.\n\nModo de uso:\nExtraiga una toallita del paquete, limpie suavemente la zona deseada y deséchela en el bote de basura. Cierre bien el paquete después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. No arroje las toallitas al inodoro. Evite el contacto con los ojos. Suspenda su uso si observa irritación en la piel. Mantenga fuera del alcance de los niños y no deje al bebé solo durante el cambio de pañal.",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé Huggies Cuidado Puro, hipoalergénicas y con textura algodonosa que limpia con suavidad la piel del bebé en cada cambio de pañal. Están elaboradas con 99% de agua e ingredientes de origen natural, y son 90% biodegradables.\n\nBeneficios:\n- Fórmula con 99% de agua, vitamina E y aloe para mantener la piel suave e hidratada.\n- Hipoalergénicas y dermatológicamente probadas.\n- Sin alcohol, sin parabenos y sin fragancia.\n- Textura suave tipo algodón.\n- 90% biodegradables.\n- Tapa resellable que conserva la humedad de las toallitas.\n\nModo de uso:\nAbra la tapa, desprenda la etiqueta, saque una toallita y cierre la tapa para conservar la humedad. Úsela para limpiar la piel del bebé en cada cambio de pañal.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\n- Uso externo.\n- Suspenda su uso si aparece irritación o enrojecimiento en la piel.\n- Para evitar el riesgo de asfixia, mantenga las bolsas de plástico fuera del alcance de bebés y niños.\n- No arroje las toallitas al inodoro.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark de México",
     "linea": "Cuidado Puro",
-    "presentacion": "Toallitas húmedas",
+    "variante": "Hipoalergénicas",
+    "presentacion": "Paquete de toallitas húmedas",
     "contenido_neto": 80,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 80,
     "edad_etapa": "Bebés",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete; Uso: Externo"
+    "otros": "Hipoalergénicas: Sí; Libre de alcohol: Sí; Libre de parabenos: Sí; Libre de fragancia: Sí; 99% de agua; Biodegradables: 90%; Formato de venta: Paquete; Uso: Externo"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +31,65 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943454811_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77835064/7501943454811_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-huggies-cuidado-puro-80-toallitas-3078921/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1182,
+      "fecha": "2026-09-29",
+      "lado_util": 1095
+    },
+    {
+      "archivo": "7501943454811_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/301663/301663_04.webp?v=66f868da",
+      "pagina": "https://www.mitienda.mx/huggies-toallitas-humedas-h--cuidado-puro--80-pz-230898/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 693,
+      "fecha": "2026-09-29",
+      "lado_util": 642
+    },
+    {
+      "archivo": "7501943454811_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/301663/301663_02.webp?v=98df62e0",
+      "pagina": "https://www.mitienda.mx/huggies-toallitas-humedas-h--cuidado-puro--80-pz-230898/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 695,
+      "fecha": "2026-09-29",
+      "lado_util": 644
+    },
+    {
+      "archivo": "7501943454811_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/301663/301663_03.webp?v=1eae1bec",
+      "pagina": "https://www.mitienda.mx/huggies-toallitas-humedas-h--cuidado-puro--80-pz-230898/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 691,
+      "fecha": "2026-09-29",
+      "lado_util": 640
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.mitienda.mx/huggies-toallitas-humedas-h--cuidado-puro--80-pz-230898/p",
+    "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-huggies-cuidado-puro-80-toallitas-3078921/p",
+    "https://www.fahorro.com/huggies-toallitas-humedas-cuidado-puro-80-pz.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (TAS HUM HUGG CUIDADO PURO C/80) y conocimiento general. Descripción genérica de toallitas para bebé; no se incluyeron datos de fórmula (porcentaje de agua, ingredientes) por no poder confirmarlos. Fabricante inferido por el prefijo del GTIN 7501943.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de tienda (gtin13 7501943454811) y en otras fichas de farmacia. Fabricante Kimberly-Clark de México por ser la marca Huggies en México. La ficha oficial de Huggies México bloqueó el acceso.",
+    "notas_imagenes": "4 fotos de tienda (frente, vista en ángulo, superior y reverso del paquete) sin logotipos de tienda; la primera es de 1200 px y las demás de 720 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "REDOXON FTE 2 G EFER C 10 AGOSTO 27 200",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Redoxon Forte Vitamina C 2 g 10 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nRedoxon Forte es un suplemento de vitamina C (ácido ascórbico) de Bayer en tabletas efervescentes de 2 g con sabor naranja. Se presenta en tubo con 10 tabletas y está dirigido a adultos y niños mayores de 12 años.\n\nBeneficios:\n- Aporta 2 g de vitamina C por tableta.\n- La vitamina C tiene propiedades antioxidantes y contribuye a fortalecer las defensas del organismo.\n- Puede tomarse como parte de la rutina diaria o cuando aparecen síntomas de resfriado común o gripe.\n- Tabletas efervescentes que se disuelven en agua para tomarse en forma de bebida con sabor naranja.\n\nComposición:\nCada tableta efervescente contiene ácido ascórbico (vitamina C) 2 g.\n\nModo de uso:\nVía oral. Disuelva una tableta en un vaso con agua y tómela una vez disuelta. Siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nTubo con 10 comprimidos efervescentes.\n\nAdvertencias:\n- Indicado para adultos y niños mayores de 12 años.\n- No exceda la dosis recomendada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Redoxon",
+    "fabricante": "Bayer",
+    "linea": "Forte",
+    "variante": "Vitamina C 2 g sabor naranja",
+    "presentacion": "Tubo con tabletas efervescentes",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ácido ascórbico (vitamina C)",
+    "concentracion": "2 g por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "sabor_aroma": "Naranja",
+    "otros": "Formato de venta: Tubo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008409503_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008409503_1_1.jpg",
+      "pagina": "https://www.fahorro.com/redoxon-forte-2-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1317,
+      "fecha": "2026-09-29",
+      "lado_util": 1220
+    },
+    {
+      "archivo": "7501008409503_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008409503_2.jpg",
+      "pagina": "https://www.fahorro.com/redoxon-forte-2-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1537,
+      "fecha": "2026-09-29",
+      "lado_util": 1424
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/redoxon-forte-2-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+    "https://farmaciasfleming.mx/producto/redoxon-forte-2-gr-c-10-comp-eferv/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio de Bayer devolvió 403. No se vio la lista completa de excipientes ni la dosis exacta del empaque.",
+    "notas_imagenes": "2 fotos de tienda (1317 y 1537 px, ángulo y frente). Se descartaron una con recuadro de texto 'Vitamina C 2g 10 tabletas' y un banner publicitario.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

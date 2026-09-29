@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "METAMUCIL SBLE NJA 425 GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Metamucil Fibra Psyllium Sabor Naranja Sin Azúcar 425 g",
+  "descripcion": "Descripción:\nMetamucil Fibra Multibeneficios en polvo, sabor naranja y sin azúcar, elaborado con cáscara de semilla de Plantago psyllium, una fibra de origen 100% natural. Al retener líquidos, la fibra aumenta el volumen y disminuye la consistencia de las heces, y ayuda a regularizar el intestino sin estimulantes químicos.\n\nBeneficios:\n- Ayuda a regularizar el tránsito intestinal sin estimulantes químicos.\n- Fibra de origen 100% natural.\n- Ayuda a reducir el colesterol, acompañado de una dieta adecuada y ejercicio.\n- Sin azúcar, endulzado con aspartame.\n- Bote con 72 dosis.\n\nIngredientes:\nPolvo de cáscara de semilla de Plantago psyllium. Contiene aspartame (fuente de fenilalanina).\n\nModo de uso:\nMezcle una dosis (1 cucharada, 5.8 g) en 240 ml de agua o jugo, revuelva hasta disolver y bébala de inmediato, seguida de un vaso adicional de agua. Adultos y niños mayores de 12 años: hasta 3 veces al día. Niños de 6 a 12 años: media dosis (2.9 g) hasta 3 veces al día. Inicie con una dosis diaria e incremente gradualmente.\n\nPresentación:\nBote con 425 g de polvo, sabor naranja.\n\nAdvertencias:\nNo se administre a menores de 6 años. Contiene fenilalanina: no lo use si tiene fenilcetonuria. Tomarlo sin suficiente agua puede causar asfixia; no lo tome antes de acostarse. Suspenda su uso si presenta dolor en el pecho, vómito o dificultad para respirar. Tome otros medicamentos 2 horas antes o 2 horas después. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Metamucil",
+    "fabricante": "Procter & Gamble",
+    "linea": "Fibra Multibeneficios",
+    "variante": "Sin azúcar",
+    "presentacion": "Bote de polvo",
+    "contenido_neto": 425,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cáscara de semilla de Plantago psyllium",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Naranja",
+    "otros": "Sin azúcar (endulzado con aspartame); 72 dosis por bote; Dosis: 5.8 g; Formato de venta: bote"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001100001_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001100001.jpg",
+      "pagina": "https://www.fahorro.com/metamucil-fibra-en-polvo-sabor-naranja-72-dosis.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1361,
+      "fecha": "2026-09-29",
+      "lado_util": 1261
+    },
+    {
+      "archivo": "7501001100001_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001100001_1.jpg",
+      "pagina": "https://www.fahorro.com/metamucil-fibra-en-polvo-sabor-naranja-72-dosis.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1433,
+      "fecha": "2026-09-29",
+      "lado_util": 1327
+    }
+  ],
+  "url_oficial": "https://www.metamucil.com.mx/es-mx/productos/metamucil-sabor-naranja-en-bote/",
+  "fuentes": [
+    "https://www.metamucil.com.mx/es-mx/productos/metamucil-sabor-naranja-en-bote/",
+    "https://www.farmatodo.com.mx/metamucil-naranja-polvo-bote-c-425-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sitio oficial confirma sabor naranja sin azúcar y presentaciones de 174, 425 y 660 g. Se eligió Suplementos Alimenticios por ser fibra dietética; alternativa: Digestivos Venta Libre si se prefiere tratarlo como medicamento.",
+    "notas_imagenes": "2 fotos de frente (1361 y 1433 px) de tienda; se descartaron 3 imágenes publicitarias con personas y texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

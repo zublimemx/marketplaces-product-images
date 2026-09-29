@@ -4,17 +4,18 @@
   "linea": "Farma",
   "nombre_sistema": "SAL DE UVAS EXHIBIDOR C 50 SOBRES",
   "nombres_sistema_alternos": [],
-  "titulo": "Sal de Uvas Picot Antiácido 50 Sobres",
-  "descripcion": "Descripción:\nSal de Uvas Picot es un antiácido efervescente en polvo que se presenta en sobres individuales. Se disuelve en agua y ayuda a aliviar la acidez estomacal, las agruras y la indigestión ocasional. Esta presentación es un exhibidor con 50 sobres.\n\nModo de uso:\nDisuelva el contenido de un sobre en un vaso con agua y bébalo de inmediato, mientras hace efervescencia, o siga la indicación del empaque.\n\nPresentación:\nExhibidor con 50 sobres.\n\nAdvertencias:\nContiene sodio; si sigue una dieta baja en sodio o tiene hipertensión o problemas renales, consulte a su médico antes de usarlo. No lo use por periodos prolongados. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sal de Uvas Picot Antiácido Efervescente 50 Sobres de 5 g",
+  "descripcion": "Descripción:\nSal de Uvas Picot es un antiácido efervescente que ayuda a aliviar las agruras, la acidez y la indigestión. Su fórmula combina bicarbonato de sodio, ácido tartárico y ácido cítrico, y se presenta en sobres individuales de 5 g. Esta presentación es una caja (exhibidor) con 50 sobres, práctica para tener a la mano y usar en cualquier momento.\n\nBeneficios:\n- Rápido alivio contra agruras, acidez e indigestión.\n- Actúa al instante, según indica el empaque.\n- Sobres individuales de 5 g fáciles de transportar.\n\nComposición:\nBicarbonato de sodio, ácido tartárico y ácido cítrico.\n\nModo de uso:\nVía oral. Disuelva el contenido de un sobre en agua, según las instrucciones del empaque.\n\nPresentación:\nCaja (exhibidor) con 50 sobres de 5 g cada uno.\n\nAdvertencias:\nSi las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Picot",
-    "linea": "Sal de Uvas",
+    "marca": "Sal de Uvas Picot",
+    "linea": "Sal de Uvas Picot",
     "presentacion": "sobres",
-    "contenido_neto": 50,
-    "unidad_contenido": "sobres",
+    "contenido_neto": 5,
+    "unidad_contenido": "g",
     "unidades_por_envase": 50,
+    "principio_activo": "Bicarbonato de sodio, ácido tartárico, ácido cítrico",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Exhibidor con 50 sobres"
+    "otros": "Forma farmacéutica: sal efervescente; Contenido por sobre: 5 g; Sobres por caja: 50; Formato de venta: caja (exhibidor)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -28,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095467264_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/170434/7501095467264.jpg?v=637935378876670000",
+      "pagina": "https://www.klyns.mx/sal-de-uvas-picot-50-sbs/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 920,
+      "fecha": "2026-09-29",
+      "lado_util": 854
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/3631-sal-de-uvas-picot-antiacido-5-g-caja-con-50-sobres-7501095467264.html",
+    "https://www.klyns.mx/sal-de-uvas-picot-50-sbs/p",
+    "https://www.farmaleal.com.mx/products/sal-de-uvas-picot-50-sb-7501095467264"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). La marca Picot se infiere de SAL DE UVAS (el nombre del sistema no la menciona); confirmarla, así como el fabricante, la composición y el peso por sobre.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación (50 sobres de 5 g) confirmados. No se encontró fabricante en las fichas abiertas; no se indicó.",
+    "notas_imagenes": "1 foto de frente de la caja Picot (tienda, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

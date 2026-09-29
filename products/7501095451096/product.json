@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SAL DE UVAS PICOT C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sal de Uvas Picot Antiácido Efervescente 10 Sobres",
+  "descripcion": "Descripción:\nSal de Uvas Picot es un antiácido en polvo efervescente que alivia de manera rápida las agruras, la acidez y la indigestión. Esta presentación es la caja con 10 sobres de polvo efervescente para tomarse por vía oral, disuelto en agua.\n\nBeneficios:\n- Rápido alivio de las agruras, la acidez y la indigestión.\n- Antiácido en polvo efervescente de fácil preparación.\n- Formato práctico en sobres individuales.\n\nComposición:\nCada sobre contiene bicarbonato de sodio 2.485 g, ácido tartárico 0.2165 g y ácido cítrico 1.9485 g.\n\nModo de uso:\nVía oral. Disuelva el contenido de un sobre en agua, según las instrucciones del empaque, y tómelo una vez disuelto. No exceda la dosis indicada.\n\nPresentación:\nCaja con 10 sobres de polvo efervescente.\n\nAdvertencias:\nSi las molestias persisten, consulte a su médico. No lo use por periodos prolongados sin indicación médica. Contiene sodio: quienes sigan una dieta baja en sodio o tengan hipertensión o enfermedad renal deben consultar a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Picot",
+    "fabricante": "RB Health México",
+    "linea": "Sal de Uvas",
+    "presentacion": "Polvo efervescente en sobres",
+    "contenido_neto": 10,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 10,
+    "principio_activo": "Bicarbonato de sodio / Ácido tartárico / Ácido cítrico",
+    "concentracion": "2.485 g / 0.2165 g / 1.9485 g por sobre",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: antiácido; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095451096_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095451096_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1537,
+      "fecha": "2026-09-29",
+      "lado_util": 1424
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.sanborns.com.mx/producto/19485/sal-de-uvas-picot-10-sobres",
+    "https://www.santaclarafarmacias.com/productos/picot-sal-uvas-caja-x-10-sobres-polvo-efervescente-estomago/",
+    "https://farmaciaherrera.com.mx/products/sal-de-uvas-picot-con-10-sobres"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (SKU/código universal); composición confirmada en el empaque y en ficha. No se encontró texto de dosis en las fuentes: el modo de uso es general. La advertencia sobre el sodio es una precaución general.",
+    "notas_imagenes": "1 foto de la caja de 10 sobres (tienda: Farmacias del Ahorro, 1600 px). Se descartaron fotos con texto promocional y la del empaque conmemorativo '90 años'.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

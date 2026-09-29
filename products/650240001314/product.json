@@ -4,20 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "NIKZON C90 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "Nikzon 90 Tabletas",
-  "descripcion": "Descripción:\nNikzon en presentación de 90 tabletas.\n\nPresentación:\nEnvase con 90 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Nikzon Tabletas Masticables 90 Piezas",
+  "descripcion": "Descripción:\nNikzon es un medicamento en tabletas masticables de Genomma Lab, con extracto de Ruscus aculeatus, Lactobacillus sporogenes y vitamina C. Según la etiqueta, está indicado como auxiliar en el tratamiento de las hemorroides: posee un efecto flebo constrictor y antiinflamatorio venoso que alivia las várices hemorroidales. También se indica en el tratamiento de la insuficiencia venosa crónica; favorece el restablecimiento de la flora bacteriana normal, es coadyuvante en la disminución de la motilidad intestinal y funciona como antiflatulento.\n\nComposición:\nCada tableta contiene:\n- Extracto seco estandarizado de raíz de Ruscus aculeatus (rusco) 20.0 mg, equivalente a 2 mg de ruscogenina\n- Lactobacillus sporogenes 8.3 mg, equivalentes a un mínimo de 50 millones de UFC\n- Ácido ascórbico (vitamina C) 40.0 mg\n\nModo de uso:\nVía oral. La dosis recomendada es de 2 tabletas antes de cada alimento, con un máximo de 6 tabletas al día, acompañadas de abundante agua. Las tabletas son masticables: mastique y después degluta.\n\nPresentación:\n- Caja con 90 tabletas masticables\n\nAdvertencias:\nNo se administre a menores de 18 años. No lo use si tiene hipersensibilidad a los componentes de la fórmula, obstrucción intestinal, insuficiencia renal o litiasis renal. En raros casos puede causar molestias gástricas leves como diarrea, náusea, vómito, gastritis o esofagitis. Si padece úlcera gástrica o intestinal, consulte a su médico antes de consumirlo. Si presenta evacuaciones negras y fétidas, acuda de inmediato al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Nikzon",
-    "presentacion": "tabletas",
+    "fabricante": "Genomma Lab",
+    "linea": "Nikzon",
+    "presentacion": "Tabletas masticables",
     "contenido_neto": 90,
     "unidad_contenido": "tabletas",
-    "unidades_por_envase": 90
+    "unidades_por_envase": 90,
+    "principio_activo": "Ruscus aculeatus, Lactobacillus sporogenes y ácido ascórbico",
+    "concentracion": "20 mg / 8.3 mg / 40 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Venta libre; Hecho en México; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -25,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240001314_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240001314_2.jpg",
+      "pagina": "https://www.fahorro.com/nikzon-90-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1329,
+      "fecha": "2026-09-29",
+      "lado_util": 1231
+    },
+    {
+      "archivo": "650240001314_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240001314_1.jpg",
+      "pagina": "https://www.fahorro.com/nikzon-90-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1095,
+      "fecha": "2026-09-29",
+      "lado_util": 1016
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/00650240001314/details",
+    "https://farmaciagloria.mx/Analgesicos/2697-nikzon-con-90-capsulas.html",
+    "https://www.yza.mx/nikzon-90-tabs/MXYZ_650240001314.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); el producto no se pudo identificar (GTIN de 12 dígitos, no se buscó tampoco con 0 al inicio). No se conocen fabricante, composición ni si es suplemento o medicamento; la categoría de suplementos es provisional.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos confirmado en registro de productos (Nikzon 90 tabletas, hemorroides) y en tiendas. Fórmula, indicaciones y dosis tomadas de la contraetiqueta. El fabricante Genomma Lab proviene de un listado de tienda.",
+    "notas_imagenes": "2 fotos de tienda: caja en 3D de frente (1329 px) y contraetiqueta con fórmula y dosis (1095 px). Se descartó una foto lateral.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

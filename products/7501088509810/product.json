@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ANTIFLUDES PED GOTAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Antiflu-Des Pediátrico Solución Gotero 30 ml",
+  "descripcion": "Descripción:\nAntiflu-Des Pediátrico es una solución oral en gotero de Chinoin que combina amantadina, clorfenamina y paracetamol. Es un antigripal con acción antiviral específica contra el virus que causa la enfermedad y, a la vez, alivia los síntomas del resfriado común como fiebre, cuerpo cortado, estornudos y escurrimiento nasal. Se presenta en una caja con frasco gotero de 30 mL.\n\nCaracterísticas:\n- Tres principios activos: amantadina, clorfenamina y paracetamol.\n- Antigripal con acción antiviral específica.\n- Solución oral con gotero para dosificar por peso.\n- Frasco gotero de 30 mL.\n\nModo de uso:\nVía oral. Niños de 2 a 3 años: 2 gotas por kg de peso cada 8 horas desde el inicio de los síntomas. Para otras edades siga la dosificación indicada en el empaque o por su médico.\n\nPresentación:\nCaja con frasco gotero con 30 mL de solución.\n\nAdvertencias:\nNo se use en menores de 2 años. No lo use en personas con antecedentes de enfermedad mental o nerviosa, epilepsia o crisis convulsivas, ni con antecedentes de enfermedades graves del hígado o del riñón. No se use por más de 5 días, ya que el paracetamol puede causar daño en el hígado. Puede causar sueño, náusea, vómito, dolor abdominal, alucinaciones, confusión mental o boca seca. Si está tomando otro medicamento, consulte a su médico antes de usarlo. Contiene alcohol y sacarina sódica. Consérvese bien tapado a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Antiflu-Des",
+    "fabricante": "Chinoin",
+    "linea": "Pediátrico",
+    "presentacion": "Solución oral con gotero",
+    "contenido_neto": 30,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amantadina, clorfenamina, paracetamol",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 años en adelante",
+    "otros": "Formato de venta: Caja con frasco gotero; Antigripal con acción antiviral"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088509810_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501088509810.png",
+      "pagina": "https://grupofarmapronto.com/producto/antiflu-des-pedriatrico-c-30ml-solucion-2/",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 1216,
+      "fecha": "2026-09-29",
+      "lado_util": 1125
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/gripe-y-tos/3289-antiflu-des-pediatrico-caja-con-frasco-gotero-con-30ml-7501088509810.html",
+    "https://curitek.com/producto/antiflu-des-pediatrico-amantadina-clorfenamina-paracetamol/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en farmacias para el frasco de 30 mL. Las cantidades de cada principio activo no se leyeron con claridad, por eso no se anotaron. La ficha de una farmacia indica que no requiere receta (registro SSA V).",
+    "notas_imagenes": "1 foto de tienda (Grupo Farmapronto), caja y frasco de frente, 1,216 px. Se descartaron fotos con marca de agua de otra farmacia.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

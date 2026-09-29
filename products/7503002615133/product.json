@@ -4,29 +4,56 @@
   "linea": "Farma",
   "nombre_sistema": "SOMERAL C100 ALFA CETOANALOGOS DE AMINOACIDOS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Someral Alfa Cetoanálogos de Aminoácidos 100 Tabletas",
+  "descripcion": "Descripción:\nSomeral es un producto en tabletas de Laboratorio Nucitec elaborado a base de alfa cetoanálogos de aminoácidos. Se emplea como suplementación específica de aminoácidos en personas que la requieren, por ejemplo en casos de insuficiencia renal, insuficiencia hepática o desnutrición proteica, siempre bajo indicación médica. Se presenta en una caja con envase de burbuja con 100 tabletas.\n\nCaracterísticas:\n- Alfa cetoanálogos de aminoácidos en tabletas.\n- Suplementación específica de aminoácidos bajo supervisión médica.\n- Administración por vía oral.\n- Caja con 100 tabletas.\n\nModo de uso:\nVía oral. La dosis de consumo debe ser señalada por el médico tratante.\n\nPresentación:\nCaja con envase de burbuja con 100 tabletas.\n\nAdvertencias:\nVenta con receta médica. Consérvese a no más de 30 °C y mantenga el envase bien cerrado. No se automedique y consulte a un profesional de la salud sobre su uso en el embarazo y la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Someral",
+    "fabricante": "Nucitec",
+    "presentacion": "Tabletas",
+    "contenido_neto": 100,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 100,
+    "principio_activo": "Alfa cetoanálogos de aminoácidos",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con envase de burbuja; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503002615133_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmalisto.com.mx/74189-large_default/somertal-alfa-cetoanalogos-de-aminoacidos-100-tabletas-nucitec.jpg",
+      "pagina": "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/12214-somertal-alfa-cetoanalogos-de-aminoacidos-100-tabletas-nucitec-7503002615133.html",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 1047,
+      "fecha": "2026-09-29",
+      "lado_util": 970
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/someral-alfa-cetoanalogos-de-aminoacidos-caja-con-100-tabletas",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/12214-somertal-alfa-cetoanalogos-de-aminoacidos-100-tabletas-nucitec-7503002615133.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado. No se encontró la composición por tableta ni la concentración (las farmacias citan 630 o 640 mg, por eso no se anotó). Categoría elegida por su naturaleza metabólica.",
+    "notas_imagenes": "1 foto de tienda (Farmalisto), frente de la caja, 1,047 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

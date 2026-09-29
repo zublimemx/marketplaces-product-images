@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "CLAMOXIN 12H 875 125MG C14T AMOXICILINA AC CLAV",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Clamoxin 12h Amoxicilina 875/125 mg 14 Tabletas",
+  "descripcion": "Descripción:\nClamoxin 12H es un antibiótico de Laboratorios Maver que combina amoxicilina 875 mg con ácido clavulánico 125 mg en tabletas, para tomarse cada 12 horas según indicación médica. Esta presentación es la caja con un frasco con 14 tabletas para administración por vía oral.\n\nBeneficios:\n- Indicado en infecciones bacterianas causadas por cepas resistentes productoras de betalactamasas.\n- Entre sus usos se incluyen la sinusitis bacteriana aguda, la otitis media aguda, la amigdalitis, la exacerbación aguda de bronquitis crónica, la neumonía adquirida en la comunidad, la cistitis y la pielonefritis.\n- El ácido clavulánico ayuda a que la amoxicilina siga siendo eficaz frente a bacterias productoras de betalactamasas.\n\nComposición:\nCada tableta contiene amoxicilina 875 mg y ácido clavulánico 125 mg.\n\nModo de uso:\nVía oral. La dosis y la duración las indica el médico; se recomienda tomarlo al inicio de las comidas. Complete todo el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con frasco con 14 tabletas de 875 mg/125 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Es un antibiótico: su uso incorrecto puede generar resistencia bacteriana. No lo use si es alérgico a la amoxicilina, al ácido clavulánico o a otros antibióticos betalactámicos (penicilinas, cefalosporinas), ni si tiene mononucleosis infecciosa o insuficiencia hepática grave. Su médico puede ajustar la dosis en caso de insuficiencia renal. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Clamoxin",
+    "fabricante": "Laboratorios Maver",
+    "linea": "Clamoxin 12H",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Amoxicilina / Ácido clavulánico",
+    "concentracion": "875 mg / 125 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Grupo terapéutico: antibiótico; Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009746055_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.fpsf.mx/cdn/shop/products/Clamoxin_akumal_farmacia_800x_b0bd8ec6-cd98-4712-bd6a-ec01290cd9c0_1200x1200.png?v=1631398947",
+      "pagina": "https://www.fpsf.mx/products/amoxicilina-acido-clavulanico-tabletas-clamoxin-12h-875-mg-125-mg-oral-caja-con14-tabletas",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 777,
+      "fecha": "2026-09-29",
+      "lado_util": 720
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1278710/clamoxin-12h-tabletas-875-mg-125-mg",
+    "https://www.fpsf.mx/products/amoxicilina-acido-clavulanico-tabletas-clamoxin-12h-875-mg-125-mg-oral-caja-con14-tabletas",
+    "https://wecarepharma.mx/en/products/clamoxin-12h-875mg-125mg-con-14-tabletas-amoxicilina-ac-clavulanico"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia; presentación de 875/125 mg con 14 tabletas igual al nombre. Indicaciones y contraindicaciones de Vademecum México.",
+    "notas_imagenes": "1 foto (tienda: Farmacia Santa Fe, 800 px) con caja y frasco de Clamoxin 12H 875/125 mg con 14 tabletas, correcta en presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

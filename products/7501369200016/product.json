@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ESTOMAQUIL PVO C 20 SOBRES",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Estomaquil Polvo 20 Sobres de 3 g",
+  "descripcion": "Descripción:\nEstomaquil polvo, de Laboratorios Higia, es el alivio rápido contra la indigestión, agruras, acidez y síntomas de gastritis. Combina subsalicilato de bismuto, hidróxido de magnesio y carbonato de calcio en sobres individuales de polvo, fáciles de llevar y de dosificar.\n\nCaracterísticas:\n- Presentación en polvo, en sobres individuales de 3 g.\n- Caja con 20 sobres.\n- Combinación de bismuto, magnesio y calcio en una sola fórmula.\n\nComposición:\nCada sobre contiene subsalicilato de bismuto 0.300 g, hidróxido de magnesio 1.100 g y carbonato de calcio 1.600 g.\n\nModo de uso:\nVía oral. Siga las instrucciones del empaque o la indicación de su médico.\n\nPresentación:\nCaja con 20 sobres de polvo de 3 g cada uno.\n\nAdvertencias:\nNo se administre a personas con alergia o sensibilidad a alguno de los ingredientes (contiene un salicilato). Evite el consumo de alcohol durante el tratamiento. Durante el embarazo y la lactancia úselo solo con supervisión médica. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Estomaquil",
+    "fabricante": "Laboratorios Higia",
+    "presentacion": "Caja con 20 sobres",
+    "contenido_neto": 20,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 20,
+    "principio_activo": "Subsalicilato de bismuto, Hidróxido de magnesio, Carbonato de calcio",
+    "concentracion": "0.300 g / 1.100 g / 1.600 g por sobre",
+    "via_administracion": "Oral",
+    "registro_sanitario": "14446 SSA VI",
+    "otros": "Forma farmacéutica: polvo; Peso por sobre: 3 g; Formato de venta: caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501369200016_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501369200016_1.jpg",
+      "pagina": "https://www.chedraui.com.mx/polvo-estomaquil-caja-con-20-sobres-de-3g-3029652/p",
+      "ancho_original": 3000,
+      "alto_original": 3000,
+      "lado_final": 1720,
+      "fecha": "2026-09-29",
+      "lado_util": 1593
+    },
+    {
+      "archivo": "7501369200016_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501369200016_2.jpg",
+      "pagina": "https://www.chedraui.com.mx/polvo-estomaquil-caja-con-20-sobres-de-3g-3029652/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 870,
+      "fecha": "2026-09-29",
+      "lado_util": 806
+    },
+    {
+      "archivo": "7501369200016_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501369200016_3.jpg",
+      "pagina": "https://www.chedraui.com.mx/polvo-estomaquil-caja-con-20-sobres-de-3g-3029652/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 871,
+      "fecha": "2026-09-29",
+      "lado_util": 807
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/polvo-estomaquil-caja-con-20-sobres-de-3g-3029652/p",
+    "https://prixz.com/c/estomaquil-caja-con-20-sobres/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, indicación y registro leídos de la caja en las fotos. Las fuentes de tienda traen datos mal capturados (cantidades), por eso se usó el empaque.",
+    "notas_imagenes": "3 fotos de tienda (870 a 1720 px): frente y dos ángulos de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

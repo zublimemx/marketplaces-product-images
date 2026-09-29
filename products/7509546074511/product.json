@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH MENNEN ZERO% SVE 700 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Mennen Zero% Cabello Saludable 700 ml",
+  "descripcion": "Descripción:\nShampoo Mennen Zero% Cabello Saludable, un shampoo suave para cuidado delicado del cabello, pensado para toda la familia. Su fórmula es 0% alcohol, 0% colorantes y 0% siliconas, y está pensado para el lavado del cabello con un cuidado delicado.\n\nBeneficios:\n- Cuidado delicado para el cabello de toda la familia.\n- Fórmula 0% alcohol, 0% colorantes y 0% siliconas.\n- Sin alcohol etílico intencionalmente agregado.\n- Presentación familiar de 700 ml.\n\nIngredientes:\nAqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Benzoate, Citric Acid, Parfum, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Sodium Phosphate.\n\nModo de uso:\nHumedezca el cabello y aplique el producto. Masajee suavemente distribuyendo la espuma hasta las puntas y deje actuar durante unos minutos. Enjuague y repita si es necesario.\n\nPresentación:\nFrasco con 700 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si esto sucede, enjuague con agua. Suspenda su uso si observa alguna reacción desfavorable. Manténgase fuera del alcance de los niños cuando un adulto no supervise su manejo.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Zero%",
+    "variante": "Cabello Saludable, cuidado delicado",
+    "presentacion": "Frasco con 700 ml",
+    "contenido_neto": 700,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Para toda la familia",
+    "otros": "0% alcohol; 0% colorantes; 0% siliconas; Sin alcohol etílico intencionalmente agregado; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546074511_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/313575/313575_01.webp?v=d797dc03",
+      "pagina": "https://www.heb.com.mx/mennen-shampoo-zero-700-ml-642745/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 735,
+      "fecha": "2026-09-29",
+      "lado_util": 681
+    },
+    {
+      "archivo": "7509546074511_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/313575/313575_02.webp?v=8798dfab",
+      "pagina": "https://www.heb.com.mx/mennen-shampoo-zero-700-ml-642745/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 777,
+      "fecha": "2026-09-29",
+      "lado_util": 720
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/shampoo-mennen-zero-cabello-saludable-700-ml/p",
+    "https://www.heb.com.mx/mennen-shampoo-zero-700-ml-642745/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes, modo de uso y precauciones leídos de la imagen informativa de la marca. Algunas tiendas lo clasifican como shampoo de bebé, pero el empaque y la marca lo presentan como shampoo suave para toda la familia.",
+    "notas_imagenes": "2 fotos de tienda (735 y 777 px): frente del frasco e imagen informativa con ingredientes y modo de uso; se descartó una imagen de estilo de vida con texto de mercadotecnia.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

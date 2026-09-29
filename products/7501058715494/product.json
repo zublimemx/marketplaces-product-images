@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "GRANEODIN F 8 75MG MIEL LIM C16 PASTILLAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Graneodin F Flurbiprofeno 8.75 mg Miel Limón 16 Pastillas",
+  "descripcion": "Descripción:\nGraneodin F es una pastilla para chupar de doble acción con flurbiprofeno 8.75 mg, un antiinflamatorio analgésico, de Reckitt. Es auxiliar en el alivio del dolor de garganta y su efecto puede durar hasta 4 horas. Esta presentación es la caja con 16 pastillas de sabor miel limón.\n\nBeneficios:\n- Auxiliar en el alivio del dolor de garganta.\n- Alivia hasta por 4 horas.\n- Doble acción: analgésica y antiinflamatoria localizada en la garganta.\n- Sabor miel limón en formato de pastilla.\n\nComposición:\nCada pastilla contiene flurbiprofeno 8.75 mg.\n\nModo de uso:\nVía oral. Deje que la pastilla se disuelva lentamente en la boca. Use la dosis que señale el empaque o la que le indique su médico; no exceda la dosis máxima diaria.\n\nPresentación:\nCaja con 16 pastillas, sabor miel limón.\n\nAdvertencias:\nNo lo use si es alérgico al flurbiprofeno, a otros antiinflamatorios no esteroideos o a algún componente de la fórmula. Si el dolor de garganta persiste, se acompaña de fiebre o empeora, consulte a su médico. Conservar a no más de 30 °C y mantener bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Graneodin",
+    "fabricante": "Reckitt",
+    "linea": "Graneodin F",
+    "variante": "Miel Limón",
+    "presentacion": "Pastillas",
+    "contenido_neto": 16,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Flurbiprofeno",
+    "concentracion": "8.75 mg",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Miel limón",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: analgésico y antiinflamatorio para dolor de garganta; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058715494_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/GraneodinF.jpg?v=1686286214",
+      "pagina": "https://sanorim.mx/products/graneodin-f-flubiprofeno-8-75-mg-caja-con-16-pastillas-sabor-miel-limon",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 613,
+      "fecha": "2026-09-29",
+      "lado_util": 568
+    },
+    {
+      "archivo": "7501058715494_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/5707-large_default/graneodin-f-875-mg-con-16-pastillas-sabor-miel-limon.webp",
+      "pagina": "https://sanorim.mx/products/graneodin-f-flubiprofeno-8-75-mg-caja-con-16-pastillas-sabor-miel-limon",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 514,
+      "fecha": "2026-09-29",
+      "lado_util": 474
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/161638-graneodin-f-sabor-miel-limon-875-mg-16-pasillas-flurbiprofeno-reckitt-benckiser-7501058715494.html",
+    "https://sanorim.mx/products/graneodin-f-flubiprofeno-8-75-mg-caja-con-16-pastillas-sabor-miel-limon",
+    "https://farmaciagloria.mx/Respiratorios/1867-graneodin-f-875-mg-con-16-pastillas-sabor-miel-limon.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en URL de ficha de farmacia; '75MG' del sistema corresponde a 8.75 mg. Una ficha lo describe como medicamento de venta libre; otra tienda lo clasifica con receta, se tomó venta libre. Indicación centrada en dolor de garganta (frente del empaque); la dosis exacta no se encontró en las fuentes.",
+    "notas_imagenes": "2 fotos de frente al empaque de 16 pastillas miel limón (tienda: Sanorim 600 px y Farmacia Gloria 643x674 px), correctas en producto y presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

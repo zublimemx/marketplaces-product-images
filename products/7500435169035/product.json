@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "MOUSSE HERBAL ESS RIZO 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Mousse Herbal Essences Cabello Rizo 200 g",
+  "descripcion": "Descripción:\nMousse modeladora Herbal Essences para cabello rizo, en presentación de 200 g. Está diseñada para definir y realzar los rizos naturales, controlando el frizz y dejando una textura ligera sin residuos. Proporciona una fijación moderada y duradera, con la fragancia fresca y agradable característica de la marca.\n\nBeneficios:\n- Define y realza los rizos naturales.\n- Ayuda a controlar el frizz.\n- Textura ligera sin residuos.\n- Fijación moderada y duradera.\n- Fragancia fresca y agradable.\n- Adecuada para el uso diario.\n\nModo de uso:\nAplique una porción de mousse sobre el cabello húmedo, distribúyala de las puntas hacia la raíz y peine o moldee los rizos. No requiere enjuague.\n\nPresentación:\nEnvase aerosol con 200 g de espuma modeladora.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos. Envase a presión: manténgase alejado del calor y del fuego, y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Herbal Essences",
+    "linea": "Cabello rizo",
+    "variante": "Espuma modeladora",
+    "presentacion": "Envase aerosol",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello rizado",
+    "otros": "Fijación moderada; Se aplica en cabello húmedo, sin enjuague; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435169035_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435169035_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/herbal-essences-mousse-cabello-rizo-200-g-7500435169035.html",
+    "https://www.yza.mx/herbal-essences-rizos-mousse-200g/MXYZ_7500435169035.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio de la marca no ofreció la ficha exacta. El modo de uso y las advertencias son de sentido común para un aerosol de peinado (no se leyeron en el empaque).",
+    "notas_imagenes": "1 foto de tienda (1728 px, envase de frente).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

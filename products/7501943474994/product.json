@@ -4,21 +4,22 @@
   "linea": "Mark",
   "nombre_sistema": "DIAPRO CONFOR AD MED C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Diapro Confor Mediano 10 Piezas",
-  "descripcion": "Descripción:\nDiapro Confor son pañales desechables para adulto, pensados para la protección en casos de incontinencia, en talla mediana. Cada paquete contiene 10 piezas y están diseñados para ofrecer comodidad y contención de líquidos en el uso diario.\n\nCaracterísticas:\n- Pañal desechable para adulto, talla Mediana.\n- Paquete con 10 piezas.\n- Ajuste con cintas para una colocación cómoda y segura.\n- Pensado para uso de personas adultas con incontinencia urinaria, con movilidad reducida o en reposo prolongado.\n\nModo de uso:\nColoque el pañal entre las piernas, ajuste las cintas de la parte trasera a la delantera hasta lograr un ajuste cómodo y seguro, sin apretar. Cámbielo con la frecuencia necesaria y realice el aseo de la piel en cada cambio. Consulte en el empaque la tabla de tallas para elegir la medida adecuada según la cintura y la cadera.\n\nPresentación:\nPaquete con 10 pañales desechables talla Mediana.\n\nAdvertencias:\nDeseche el pañal usado en la basura y no lo arroje al inodoro. Mantenga la piel limpia y seca para prevenir irritaciones y suspenda el uso si aparece enrojecimiento o molestia. Consulte a su médico si la incontinencia es reciente o persistente.",
+  "titulo": "Pañales para Adulto Diapro Confort Mediano 10 Piezas",
+  "descripcion": "Descripción:\nPañales anatómicos desechables para adulto Diapro, talla Mediano, diseñados para personas con incontinencia avanzada. Su núcleo gelatiniza los líquidos y ayuda a controlar los malos olores, y cuentan con mayor protección trasera y aroma a manzanilla. Cada paquete contiene 10 piezas.\n\nCaracterísticas:\n- Talla Mediano (talla 28 a 40, para cintura de 71 a 102 cm).\n- Nivel de absorción para incontinencia avanzada.\n- Gelatiniza los líquidos y ayuda a controlar los malos olores.\n- Mayor protección trasera.\n- Aroma a manzanilla.\n- Diseño anatómico con cintas de ajuste laterales.\n\nModo de uso:\nColoque el pañal entre las piernas y ajuste las cintas laterales de la parte trasera hacia la delantera hasta lograr un ajuste cómodo y seguro, sin apretar. Cambie el pañal con la frecuencia necesaria y mantenga la piel limpia y seca en cada cambio.\n\nPresentación:\nPaquete con 10 pañales anatómicos para adulto, talla Mediano.\n\nAdvertencias:\nDeseche el pañal usado en la basura; no lo arroje al inodoro. Suspenda su uso si aparece enrojecimiento o molestia en la piel y consulte a su médico. Consulte también a su médico si la incontinencia es reciente o persistente. Mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "Diapro",
     "fabricante": "Kimberly-Clark de México",
-    "linea": "Confor",
-    "variante": "Pañal para adulto",
+    "linea": "Confort",
+    "variante": "Pañal anatómico para adulto, incontinencia avanzada",
     "presentacion": "Paquete",
     "contenido_neto": 10,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
     "edad_etapa": "Adultos",
-    "talla": "Mediana",
+    "talla": "Mediano",
     "genero": "Unisex",
-    "otros": "Tipo: Desechable; Formato de venta: Paquete"
+    "sabor_aroma": "Manzanilla",
+    "otros": "Tipo: Desechable; Talla: 28 a 40; Cintura: 71 a 102 cm; Nivel de absorción: incontinencia avanzada; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943474994_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943474994_7.jpg",
+      "pagina": "https://www.fahorro.com/pa-al-diapro-confort-mediano-10-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1514,
+      "fecha": "2026-09-29",
+      "lado_util": 1402
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/panales-para-adulto/7200-diapro-confort-mediano-talla-31-46-paquete-con-10-panales-incontinencia-7501943474994-diapro.html",
+    "https://www.fahorro.com/pa-al-diapro-confort-mediano-10-pz.html",
+    "https://openfarma.mx/products/panal-diapro-confor-adulto-mediano-con-10"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (DIAPRO CONFOR AD MED C/10, AD = adulto, MED = mediano) y conocimiento general. Fabricante inferido por el prefijo del GTIN 7501943; no se incluyó el rango de cintura de la talla ni el nivel de absorción por no poder confirmarlos.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tienda. El nombre de línea 'Confor/Confort' viene del sistema y de tiendas; el empaque solo dice Diapro. Fabricante según una ficha de tienda (coincide con el prefijo de GTIN de Kimberly-Clark). Datos de talla, absorción y aroma tomados del empaque.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1514 px), con talla, contenido y características legibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

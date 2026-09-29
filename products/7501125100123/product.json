@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "SOL CS 500ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solución CS PiSA Cloruro de Sodio 0.9% 500 ml",
+  "descripcion": "Descripción:\nSolución CS de PiSA es una solución estéril de cloruro de sodio al 0.9% para administración intravenosa, en frasco de 500 ml. Es una solución cristaloide que se usa para reponer líquidos y sodio y para preparar y administrar medicamentos por venoclisis, bajo supervisión médica.\n\nBeneficios:\n- Tratamiento de la depleción del volumen extracelular, la deshidratación y la falta de sodio por diuresis excesiva, gastroenteritis o restricción de sodio.\n- Se emplea en el manejo de la alcalosis hipoclorémica y de la alcalosis metabólica, durante y después de la cirugía.\n- Útil para disolver y aplicar medicamentos por venoclisis.\n- Ayuda a recuperar o mantener el balance hidroelectrolítico.\n\nComposición:\nCloruro de sodio 0.9 g por cada 100 ml de solución (solución al 0.9%).\n\nModo de uso:\nVía intravenosa. La dosis, el volumen y la velocidad de administración los determina el médico según el estado clínico del paciente.\n\nPresentación:\nFrasco con 500 ml de solución inyectable.\n\nAdvertencias:\nMedicamento que se dispensa con fórmula médica y debe administrarse por personal de salud capacitado. Conservar en ambiente controlado entre 15 y 30 °C. No lo use si el envase está dañado o la solución no está transparente. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "PiSA",
+    "fabricante": "PiSA",
+    "linea": "Solución CS",
+    "presentacion": "Solución inyectable en frasco",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cloruro de sodio",
+    "concentracion": "0.9 %",
+    "via_administracion": "Intravenosa",
+    "otros": "Grupo terapéutico: solución fisiológica; Venta con receta médica (fracción IV); Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457891",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Soluciones Fisiológicas",
+      "categoria_rx_sugerida": "MLM455483",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125100123_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501125100123_c099941b-1ec7-46bc-9c4d-fa5a30833ff7.jpg?v=1701389336",
+      "pagina": "https://farmaciasfleming.mx/producto/sol-cs-0-9-500-ml/",
+      "ancho_original": 918,
+      "alto_original": 1000,
+      "lado_final": 956,
+      "fecha": "2026-09-29",
+      "lado_util": 886
+    },
+    {
+      "archivo": "7501125100123_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/04/solucion-cs-500-ml.png",
+      "pagina": "https://farmaciasfleming.mx/producto/sol-cs-0-9-500-ml/",
+      "ancho_original": 768,
+      "alto_original": 768,
+      "lado_final": 610,
+      "fecha": "2026-09-29",
+      "lado_util": 565
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/soluciones-fisiologicas/4427-solucion-cs-pisa-09-botella-con-500ml-7501125100123.html",
+    "https://phemedica.com.mx/product/solucion-cs-cloruro-de-sodio-sol-iny-al-0-9-frasco-500-ml-pisa/",
+    "https://farmaciasfleming.mx/producto/sol-cs-0-9-500-ml/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (Solución CS PiSA 500 ml). Categoría elegida: Soluciones Fisiológicas (MLM457891, de cats_leaf_all) por ser solución intravenosa; no hay categoría de venta libre adecuada. Categoría Rx genérica porque la lista Rx no tiene una específica para soluciones. Una ficha indica fracción IV con fórmula médica.",
+    "notas_imagenes": "2 fotos del frasco Solución CS PiSA 500 ml (tienda: Farmacia San Jorge 918x1000 px y Phemedica 768 px). Se descartó una foto con marca de agua de otra tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

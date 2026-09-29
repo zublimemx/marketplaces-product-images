@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ILIADIN SPY AD 20 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Iliadin Adulto Oximetazolina 0.05% Spray Nasal 20 ml",
+  "descripcion": "Descripción:\nIliadin Adulto es un descongestivo nasal en spray de Merck cuyo principio activo es el clorhidrato de oximetazolina al 0.05%. Ofrece rápido efecto con hasta 12 horas de acción para el alivio temporal de la congestión nasal. Esta presentación es la caja con un frasco de 20 ml de solución en atomizador para vía nasal.\n\nBeneficios:\n- Alivio temporal de la congestión nasal asociada al resfriado común, la fiebre del heno, las reacciones alérgicas, la sinusitis y otras infecciones de las vías respiratorias superiores.\n- Útil en rinitis aguda, vasomotora y alérgica.\n- Rápido efecto y hasta 12 horas de acción.\n- Formato en spray de fácil aplicación.\n\nComposición:\nCada 100 ml de solución contienen clorhidrato de oximetazolina 50 mg, con vehículo cbp 100 ml.\n\nModo de uso:\nVía nasal, en adultos y mayores de 6 años: aplicar 2 a 3 atomizaciones en cada fosa nasal, 2 veces al día. No exceda la dosis indicada ni use el producto por periodos prolongados.\n\nPresentación:\nCaja con frasco de 20 ml.\n\nAdvertencias:\nNo se administre a pacientes con antecedentes de hipersensibilidad a la oximetazolina o a los componentes de la fórmula, ni en quienes tengan rinitis atrófica. No se use en el embarazo ni en la lactancia. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Iliadin",
+    "fabricante": "Merck",
+    "linea": "Iliadin Adulto",
+    "variante": "Adulto",
+    "presentacion": "Solución en spray nasal",
+    "contenido_neto": 20,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Oximetazolina",
+    "concentracion": "0.05 %",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Adultos y mayores de 6 años",
+    "otros": "Grupo terapéutico: descongestivo nasal; Duración: hasta 12 horas; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298223773_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwec29fc0a/images/large/7501298223773_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/iliadin-adulto-spray-solucion-20ml/MXYZ_7501298223773.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 758,
+      "fecha": "2026-09-29",
+      "lado_util": 703
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/iliadin-adulto-spray-solucion-20ml/MXYZ_7501298223773.html",
+    "https://farmaciagloria.mx/Respiratorios/1966-iliadin-005-con-20-ml-adulto-solucion-spray-nasal.html",
+    "https://farmaciasmedina.com/detalleProducto/Iliadin-Adulto/7501298223773"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y código); presentación de 20 ml adulto igual al nombre. Composición e indicaciones de ficha de farmacia; dosis de otra ficha de farmacia.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias YZA, 1000 px), correcta en variante adulto y contenido de 20 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

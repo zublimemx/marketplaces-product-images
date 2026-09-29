@@ -4,38 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "AFUNGIL 150 MG C 1 TAB 1 1",
   "nombres_sistema_alternos": [],
-  "titulo": "Afungil 150 mg 1 Tableta",
-  "descripcion": "Descripción:\nAfungil es un medicamento de la marca del mismo nombre, de la categoría de los antimicóticos, en presentación de tabletas de 150 mg, caja con 1 tableta. La composición exacta y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Tabletas\n- Concentración: 150 mg\n- Caja con 1 tableta\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente según la indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Afungil Fluconazol 150 mg 2 Cápsulas",
+  "descripcion": "Descripción:\nAfungil es un antimicótico cuyo principio activo es fluconazol, en cápsulas de 150 mg de administración oral. Esta presentación incluye 2 cápsulas en total. Según la información del medicamento, se indica en dermatomicosis (tiña de los pies, del cuerpo, de la ingle, versicolor y de las uñas), criptococosis, incluida la meningitis, y candidiasis sistémica, de mucosas y vaginal aguda o recurrente.\n\nComposición:\n- Fluconazol 150 mg por cápsula\n\nModo de uso:\nVía oral. La dosis y el esquema de tratamiento los indica el médico según la infección que se trate.\n\nPresentación:\n- Cápsulas de 150 mg\n- Presentación de 2 cápsulas\n- Fabricado por Laboratorios Senosiain\n\nAdvertencias:\nNo lo use si es alérgico al fluconazol o a otros antimicóticos del grupo de los azoles. No debe tomarse junto con terfenadina ni cisaprida. Evite su uso durante el embarazo, salvo infecciones graves indicadas por el médico, y no se recomienda durante la lactancia. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Afungil",
-    "presentacion": "Tabletas",
-    "contenido_neto": 1,
-    "unidad_contenido": "tabletas",
-    "unidades_por_envase": 1,
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 2,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 2,
+    "principio_activo": "Fluconazol",
     "concentracion": "150 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Antimicótico; Formato de venta: Unidad; El empaque indica caja con 1 cápsula en presentación 1+1"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194690",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314705313_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314705313_2.jpg",
+      "pagina": "https://www.yza.mx/afungil-ofta-11-150mg-1-cap-/MXYZ_7501314705313.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1455,
+      "fecha": "2026-09-29",
+      "lado_util": 1348
+    },
+    {
+      "archivo": "7501314705313_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwf738fcf7/images/large/7501314705313_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/afungil-ofta-11-150mg-1-cap-/MXYZ_7501314705313.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 720,
+      "fecha": "2026-09-29",
+      "lado_util": 667
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501314705313/details",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/89-afungil-150-mg-con-1-capsula.html",
+    "https://www.yza.mx/afungil-ofta-11-150mg-1-cap-/MXYZ_7501314705313.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo no confirmado (por conocimiento previo podría ser fluconazol 150 mg, que normalmente requiere receta; en ese caso usar Rx MLM457827). La categoría Antimicóticos se dedujo del nombre. Fabricante sin identificar. Ignorado el 1 1 final del nombre.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice TAB y 1+1, pero el registro de productos lista este GTIN como fluconazol Afungil cápsulas 150 mg 1+1, 2 piezas; se usó 2 cápsulas. El empaque dice caja con 1 cápsula y trae la leyenda 1+1; confirmar el contenido real de la caja.",
+    "notas_imagenes": "2 fotos de la caja Afungil 1+1 con y sin blíster (720 y 1455 px, tiendas). El empaque lleva impresa la leyenda 1+1; se dejó porque es el empaque real de este GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "AMINOEFEDRISON NF JBE 150ML 86",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aminoefedrison NF Jarabe Ambroxol Teofilina 150 ml",
+  "descripcion": "Descripción:\nAminoefedrison NF jarabe, de Siegfried Rhein, combina ambroxol y teofilina. Es un broncodilatador y mucolítico en jarabe utilizado para aliviar la tos productiva, la congestión bronquial y las manifestaciones de asma y enfermedad pulmonar obstructiva crónica (EPOC): dilata los bronquios y fluidifica el moco para facilitar su expulsión y mejorar la respiración.\n\nCaracterísticas:\n- Jarabe de administración oral.\n- Frasco de 150 ml con pipeta dosificadora.\n- Combina un mucolítico (ambroxol) y un broncodilatador (teofilina).\n\nComposición:\nCada 100 ml contienen ambroxol 0.150 g y teofilina 0.700 g.\n\nModo de uso:\nVía oral. Utilice la pipeta dosificadora incluida y siga las instrucciones del empaque o la dosis que indique su médico.\n\nPresentación:\nCaja con un frasco de 150 ml y pipeta dosificadora.\n\nAdvertencias:\nNo exceda la dosis recomendada. Si la tos o la dificultad para respirar persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aminoefedrison",
+    "fabricante": "Siegfried Rhein",
+    "linea": "NF",
+    "presentacion": "Frasco con pipeta dosificadora",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ambroxol, Teofilina",
+    "concentracion": "0.150 g / 0.700 g por 100 ml",
+    "via_administracion": "Oral",
+    "registro_sanitario": "8591 SSA VI",
+    "otros": "Forma farmacéutica: jarabe; Incluye pipeta dosificadora; Formato de venta: caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300409584_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300409584_1.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/aminoefedrison-nf-jarabe-150-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 525,
+      "fecha": "2026-09-29",
+      "lado_util": 488
+    },
+    {
+      "archivo": "7501300409584_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300409584_2.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/aminoefedrison-nf-jarabe-150-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 995,
+      "fecha": "2026-09-29",
+      "lado_util": 922
+    },
+    {
+      "archivo": "7501300409584_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501300409584_3.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/aminoefedrison-nf-jarabe-150-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 993,
+      "fecha": "2026-09-29",
+      "lado_util": 920
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/aminoefedrison-n-f-jarabe-150ml/MXYZ_7501300409584.html",
+    "https://farmalisto.com.mx/sistema-respiratorio/5944-comprar-aminoefedrison-nf-jarabe-caja-con-frasco-con-150-ml-precio-7501300409584.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Concentraciones leídas de la caja; registro sanitario y condición de venta (fracción VI, sin receta) de una ficha de farmacia. No se encontró un prospecto con dosis por edad ni contraindicaciones detalladas, por lo que las advertencias son mínimas; conviene completarlas con el instructivo.",
+    "notas_imagenes": "3 fotos de tienda (525, 995 y 993 px): frente y dos ángulos de la caja; la de frente es de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

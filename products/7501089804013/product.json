@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "RECOVERON UNG 40GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Recoverón Ungüento Ácido Acexámico 5 g/100 g 40 g",
+  "descripcion": "Descripción:\nRecoverón, de Armstrong, es un ungüento de uso tópico con ácido acexámico al 5 g por cada 100 g. Se presenta como cicatrizante regenerador tisular y se utiliza en heridas, quemaduras y grietas del pezón, aplicado directamente sobre la zona afectada.\n\nCaracterísticas:\n- Ungüento de aplicación tópica (externa).\n- Acción cicatrizante y regeneradora del tejido.\n- Tubo de 40 g dentro de una caja individual.\n- Almacenar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nComposición:\nCada 100 g de ungüento contienen ácido acexámico 5 g, con excipientes cbp 100 g.\n\nModo de uso:\nVía tópica. Aplique sobre la zona a tratar según las instrucciones del empaque o la indicación de su médico.\n\nPresentación:\nCaja con un tubo de 40 g.\n\nAdvertencias:\nUso externo. Suspenda su uso si aparece irritación o alguna reacción desfavorable. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Recoverón",
+    "fabricante": "Armstrong Laboratorios de México",
+    "presentacion": "Caja con tubo de 40 g",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido acexámico",
+    "concentracion": "5 g / 100 g",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "3309C2012SSA",
+    "otros": "Forma farmacéutica: ungüento; Formato de venta: caja"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089804013_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089804013_2.jpg",
+      "pagina": "https://www.fahorro.com/recoveron-unguento-tubo-con-40-g.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1169,
+      "fecha": "2026-09-29",
+      "lado_util": 1083
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/3431-recoveron-ungueento-caja-con-tubo-con-40-g-7501089804013.html",
+    "https://curitek.com/producto/recoveron-acido-acexamico/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lo clasifica como dermatológico con receta y otra como venta sin receta; conviene revisar la fracción del registro en la caja. El modo de uso exacto no se encontró (el empaque lo indica).",
+    "notas_imagenes": "1 foto de frente (1200 px) de tienda; se descartó otra foto que era de Recoverón-C (otro producto).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

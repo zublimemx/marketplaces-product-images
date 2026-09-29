@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "DOLO NEUROBION TAB C5",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dolo-Neurobión Diclofenaco Vitaminas B 50 mg 5 Tabletas",
+  "descripcion": "Descripción:\nDolo-Neurobión es un medicamento de Merck que combina diclofenaco con vitaminas del complejo B (B1, B6 y B12). Es un analgésico, antineurítico y antiinflamatorio para el alivio del dolor y la inflamación de músculos, articulaciones y fibras nerviosas. Esta presentación es la caja con 5 tabletas para administración oral.\n\nBeneficios:\n- Alivia el dolor y la inflamación de músculos, articulaciones y fibras nerviosas.\n- Reúne en una sola tableta un analgésico antiinflamatorio (diclofenaco) y tres vitaminas del complejo B.\n- Mayor potencia analgésica y antiinflamatoria por la combinación de sus principios activos.\n\nComposición:\nCada tableta contiene diclofenaco sódico 50 mg, mononitrato de tiamina (vitamina B1) 50 mg, clorhidrato de piridoxina (vitamina B6) 50 mg y cianocobalamina (vitamina B12) 1.0 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tomar 1 tableta dos a tres veces al día, de preferencia después de los alimentos. La dosis máxima recomendada es de 3 tabletas al día.\n\nPresentación:\nCaja con 5 tabletas.\n\nAdvertencias:\nNo se administre durante el embarazo ni la lactancia ni en menores de 12 años. Como otros antiinflamatorios, puede afectar el estómago, los riñones y el corazón; consulte a su médico si tiene úlcera, gastritis, asma o enfermedades del corazón, del hígado o de los riñones, o si es alérgico a algún antiinflamatorio. No lo use por más tiempo del indicado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Neurobión",
+    "fabricante": "Merck",
+    "linea": "Dolo-Neurobión",
+    "presentacion": "Tabletas",
+    "contenido_neto": 5,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 5,
+    "principio_activo": "Diclofenaco sódico / Tiamina / Piridoxina / Cianocobalamina",
+    "concentracion": "50 mg / 50 mg / 50 mg / 1 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Grupo terapéutico: analgésico, antineurítico y antiinflamatorio; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298223728_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd7c5521d/images/large/7501298223728_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/dolo-neurobion-5-tabletas/MXYZ_7501298223728.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 800,
+      "fecha": "2026-09-29",
+      "lado_util": 741
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/dolo-neurobion-5-tabletas/MXYZ_7501298223728.html",
+    "https://www.klyns.mx/dolo-neurobion-c-5-tabs/p",
+    "https://wecarepharma.mx/products/dolo-neurobion-500mg-50mg-50mg-1mg-con-5-tabletas-diclofenaco-complejo-b"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado; composición y dosis de la ficha de farmacia (una tienda tenía un error de tipeo en el diclofenaco: 500 mg en lugar de 50 mg). La condición de venta es contradictoria entre fuentes (venta sin receta vs. con receta); se marcó 'Revisar'.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias YZA, 1000 px), correcta en producto y contenido (caja con 5 tabletas).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

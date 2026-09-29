@@ -5,18 +5,19 @@
   "nombre_sistema": "DALACIN C 300MG C 16CAPS",
   "nombres_sistema_alternos": [],
   "titulo": "Dalacin C Clindamicina 300 mg 16 Cápsulas",
-  "descripcion": "Descripción:\nDalacin C es un antibiótico de Pfizer cuyo principio activo es la clindamicina, en cápsulas de 300 mg. Pertenece al grupo de las lincosamidas y se utiliza para tratar infecciones causadas por bacterias sensibles a la clindamicina, siempre bajo indicación y supervisión médica.\n\nComposición:\nCada cápsula contiene clindamicina (como clorhidrato) 300 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 16 cápsulas de 300 mg.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. No lo use si es alérgico a la clindamicina o a la lincomicina. Si presenta diarrea intensa, con sangre o persistente, suspenda su uso y consulte a su médico de inmediato. El uso indebido de antibióticos puede generar resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nDalacin C de Pfizer es un antibiótico cuyo principio activo es la clindamicina, en cápsulas de 300 mg, caja con 16 cápsulas. Según su información, es eficaz en infecciones causadas por bacterias anaerobias susceptibles, por cepas susceptibles de bacterias aerobias gram-positivas (estreptococos, estafilococos y neumococos) y por cepas susceptibles de Chlamydia trachomatis.\n\nIndicaciones principales:\n- Infecciones del tracto respiratorio superior e inferior\n- Infecciones de la piel y tejidos blandos, incluido el acné\n- Infecciones del hueso y de las articulaciones\n- Infecciones ginecológicas e intraabdominales, en combinación con otro antibiótico cuando corresponda\n- Infecciones dentales\n- Otras indicaciones señaladas por el médico\n\nComposición:\n- Cada cápsula contiene clorhidrato de clindamicina equivalente a 300 mg de clindamicina\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico según el tipo y la gravedad de la infección.\n\nPresentación:\n- Caja con 16 cápsulas de 300 mg\n\nAdvertencias:\nNo lo use si es alérgico a la clindamicina o a la lincomicina. Si presenta diarrea persistente o intensa durante o después del tratamiento, suspenda su uso y consulte a su médico. El uso incorrecto de los antibióticos puede causar resistencia bacteriana. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Dalacin C",
     "fabricante": "Pfizer",
-    "presentacion": "cápsulas",
+    "linea": "Dalacin",
+    "presentacion": "Cápsulas",
     "contenido_neto": 16,
     "unidad_contenido": "cápsulas",
     "unidades_por_envase": 16,
     "principio_activo": "Clindamicina",
     "concentracion": "300 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Antibiótico; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501287627957_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwfa9dde16/images/large/7501287627957_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/dalacin-c-300mg-16-caps/MXYZ_7501287627957.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 849,
+      "fecha": "2026-09-29",
+      "lado_util": 787
+    },
+    {
+      "archivo": "7501287627957_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501287627957.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1690,
+      "fecha": "2026-09-29",
+      "lado_util": 1565
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/1083-dalacin-c-300-mg-con-16-capsulas.html",
+    "https://infocode.io/b2b/07501287627957/details",
+    "https://www.yza.mx/dalacin-c-300mg-16-caps/MXYZ_7501287627957.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Antibiótico: en México requiere receta médica.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas.",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja (849 px) y caja en 3D con fórmula visible (1690 px). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

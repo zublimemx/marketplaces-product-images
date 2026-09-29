@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "CELESTONE SOLUSPAN HYPAK",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Celestone Soluspan Hypak Betametasona Inyectable 1 ml",
+  "descripcion": "Descripción:\nCelestone Soluspan Hypak es una suspensión inyectable de betametasona, un corticosteroide de uso médico, presentada en jeringa prellenada de 1 ml con aguja desechable. Combina acetato de betametasona y fosfato sódico de betametasona, lo que permite una acción sistémica o local según lo determine el médico.\n\nCaracterísticas:\n- Está indicado en enfermedades reumáticas, del colágeno, alérgicas y dermatológicas que responden a corticosteroides.\n- Se administra por vía intramuscular, intraarticular o intralesional, según indicación médica.\n- Presentación Hypak: jeringa prellenada lista para aplicarse por personal de salud.\n\nComposición:\nCada ml contiene acetato de betametasona equivalente a 2.71 mg de betametasona y fosfato sódico de betametasona equivalente a 3 mg de betametasona, con vehículo cbp 1 ml.\n\nModo de uso:\nLa dosis y la vía de administración las determina el médico según la enfermedad y la respuesta del paciente.\n\nPresentación:\nCaja con una jeringa prellenada de 1 ml con aguja desechable.\n\nAdvertencias:\nNo se administre por vía intravenosa ni subcutánea. Contraindicado en caso de hipersensibilidad a la betametasona o a algún componente de la fórmula y en micosis sistémicas. La administración epidural se ha asociado con eventos neurológicos graves. Precaución en embarazo, tuberculosis, herpes ocular y úlcera péptica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Celestone",
+    "fabricante": "Organon",
+    "linea": "Soluspan",
+    "variante": "Hypak",
+    "presentacion": "Jeringa prellenada de 1 ml",
+    "contenido_neto": 1,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Betametasona (acetato y fosfato sódico)",
+    "concentracion": "2.71 mg / 3 mg por ml",
+    "via_administracion": "Intramuscular, intraarticular, intralesional",
+    "registro_sanitario": "64063 SSA IV",
+    "otros": "Forma farmacéutica: suspensión inyectable; Presentación con aguja desechable"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050610674_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501050610674_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/celestone-soluspan-hypak-2-71-3-00-mg-ml-1-jgp-c-1-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 663,
+      "fecha": "2026-09-29",
+      "lado_util": 614
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/celestone.soluspan.suspension/128/101/69692/194",
+    "https://www.farmaciasespecializadas.com/celestone-soluspan-hypak-2-71-3-00-mg-ml-1-jgp-c-1-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM lista Schering-Plough como titular; el empaque actual muestra Organon. Corticosteroide inyectable: clasificado como hormonal por grupo terapéutico.",
+    "notas_imagenes": "1 foto de frente (1000 px) de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

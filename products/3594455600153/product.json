@@ -4,29 +4,84 @@
   "linea": "Farma",
   "nombre_sistema": "ELATEC 1000MG TAB C30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Elatec Diosmina Hesperidina 1000 mg 30 Tabletas",
+  "descripcion": "Descripción:\nElatec 1000 mg es un medicamento en tabletas cuyo principio activo es una fracción flavonoide purificada y micronizada (diosmina y hesperidina). Es elaborado en Francia por Les Laboratoires Servier Industrie e importado y distribuido en México por Beckman Laboratories de México. Se presenta en caja con 30 tabletas.\n\nBeneficios:\n- Indicado en síndrome varicoso e insuficiencia venosa crónica, según la valoración del médico.\n- También se emplea en el manejo de la enfermedad hemorroidal.\n- Tabletas de 1000 mg con fracción flavonoide micronizada.\n\nComposición:\nCada tableta contiene fracción flavonoide purificada y micronizada equivalente a diosmina 900 mg y flavonoides expresados en hesperidina 100 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 30 tabletas de 1000 mg.\n\nAdvertencias:\n- Su venta requiere receta médica (registro SSA IV).\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Elatec",
+    "fabricante": "Servier / Beckman Laboratories de México",
+    "linea": "Elatec",
+    "variante": "1000 mg",
+    "presentacion": "Caja con tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Diosmina, hesperidina (fracción flavonoide purificada y micronizada)",
+    "concentracion": "Diosmina 900 mg / Hesperidina 100 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "066M2002 SSA IV",
+    "otros": "Hecho en Francia; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3594455600153_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwf0947746/images/large/3594455600153_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/elatec-1000mg-30-tabs/MXYZ_3594455600153.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 964,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    },
+    {
+      "archivo": "3594455600153_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594455600153_1.jpg",
+      "pagina": "https://www.fahorro.com/elatec-1000-mg-oral-30-tabs.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1195,
+      "fecha": "2026-09-29",
+      "lado_util": 1108
+    },
+    {
+      "archivo": "3594455600153_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/3594455600153_3.jpg",
+      "pagina": "https://www.fahorro.com/elatec-1000-mg-oral-30-tabs.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1185,
+      "fecha": "2026-09-29",
+      "lado_util": 1098
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/elatec-1000-mg-oral-30-tabs.html",
+    "https://wecarepharma.mx/en/products/elatec-1000mg-con-30-tabletas-diosmina-hesperidina",
+    "https://grupofarmapronto.com/producto/elatec-1000-mg-c-30-tabletas/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, registro y fabricante leídos de la foto del costado del empaque. Algunas farmacias lo marcan sin receta, pero el registro es SSA IV.",
+    "notas_imagenes": "3 fotos de tienda (964, 1195 y 1185 px: ángulo, frente y costado con fórmula). Se borraron 2 repetidas.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

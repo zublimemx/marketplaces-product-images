@@ -4,29 +4,84 @@
   "linea": "Farma",
   "nombre_sistema": "IMBALZA SOL AL 2% 2 5ML ALOPATADINA GRIN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Imbalza Olopatadina 2 mg/ml Solución Oftálmica 2.5 ml",
+  "descripcion": "Descripción:\nImbalza es una solución oftálmica (gotas para los ojos) de Laboratorios Grin cuyo principio activo es el clorhidrato de olopatadina, un antialérgico. Esta presentación contiene 2.5 ml con olopatadina al 0.2 % (2 mg/ml) en frasco con gotero.\n\nBeneficios:\n- Indicado para la prevención de la picazón o comezón ocular provocada por la conjuntivitis alérgica.\n- Indicado en el tratamiento de los signos y síntomas oculares asociados con padecimientos alérgicos.\n- La olopatadina es un agente antialérgico que bloquea los receptores de histamina H1 y estabiliza los mastocitos.\n- Concentración de 0.2 %: una aplicación al día.\n\nComposición:\nCada ml contiene clorhidrato de olopatadina equivalente a 2.0 mg de olopatadina. Vehículo cbp 1.0 ml.\n\nModo de uso:\nVía oftálmica. Aplicar una o dos gotas en el ojo o los ojos afectados, una vez al día, o según indique el médico.\n\nPresentación:\nCaja con frasco gotero de 2.5 ml.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use en niños menores de 3 años ni en caso de hipersensibilidad a la olopatadina o a los componentes.\n- Uso oftálmico, no ingerible.\n- El empleo durante el embarazo queda bajo la responsabilidad del médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Imbalza",
+    "fabricante": "Laboratorios Grin",
+    "linea": "Imbalza",
+    "variante": "Olopatadina 0.2 %",
+    "presentacion": "Frasco gotero",
+    "contenido_neto": 2.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Olopatadina (clorhidrato)",
+    "concentracion": "2 mg/ml (0.2 %)",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos y niños mayores de 3 años",
+    "registro_sanitario": "036M2018 SSA IV",
+    "otros": "Formato de venta: Caja con frasco gotero"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8400005861_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400005861.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1595,
+      "fecha": "2026-09-29",
+      "lado_util": 1475
+    },
+    {
+      "archivo": "8400005861_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400005861_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1586,
+      "fecha": "2026-09-29",
+      "lado_util": 1469
+    },
+    {
+      "archivo": "8400005861_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8400005861_3.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1593,
+      "fecha": "2026-09-29",
+      "lado_util": 1474
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/imbalza.solucion.oftalmica/88/101/63877/172",
+    "https://www.farmalisto.com.mx/oftalmologicos-con-receta/35659-imbalza-2-mg-ml-caja-con-frasco-gotero-de-25-ml-olopatadina-grin.html",
+    "https://laboratoriosgrin.com/wp-content/uploads/2022/07/1120_GR_GLA_IPP_IMBALZA_REDUCIDA.pdf"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'alopatadina' y '2 %'; el principio activo real es olopatadina y la concentración es 2 mg/ml (0.2 %). Registro y leyendas de PLM.",
+    "notas_imagenes": "3 fotos de tienda (1586 a 1595 px: frente de la caja, caja con frasco y frente).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

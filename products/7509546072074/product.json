@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "SH MENNEN MIEL-MZA SVE 700ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Mennen Miel y Manzanilla 700 ml",
+  "descripcion": "Descripción:\nShampoo Mennen Suave enriquecido con miel y extracto de manzanilla, línea Protección y Suavidad, en presentación de 700 ml. Su fórmula limpia suavemente el cabello de toda la familia, lo cuida y lo protege dejándolo con brillo, lleno de vitalidad y con un agradable aroma.\n\nBeneficios:\n- Mayor suavidad en el cabello.\n- Limpieza suave, apta para toda la familia.\n- Enriquecido con miel y extracto de manzanilla.\n- Deja el cabello con brillo, vitalidad y un agradable aroma.\n- Presentación rendidora de 700 ml.\n\nIngredientes:\nAqua, Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Benzoate, Parfum, Citric Acid, Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Tetrasodium EDTA, Sodium Phosphate, Benzophenone-3, Honey (miel), Chamomilla Recutita (Matricaria) Flower Extract (extracto de manzanilla), CI 19140, CI 14700.\n\nModo de uso:\nHumedezca su cabello y aplique dando un suave masaje. Enjuague y repita la operación.\n\nPresentación:\nBotella con 700 ml de shampoo.\n\nAdvertencias:\nEvite el contacto con los ojos. Si observa alguna reacción desfavorable, suspenda su uso. Manténgase fuera del alcance de los niños, cuando un adulto no supervise su manejo.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Protección y Suavidad",
+    "variante": "Miel y extracto de manzanilla",
+    "presentacion": "Botella",
+    "contenido_neto": 700,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "sabor_aroma": "Miel y manzanilla",
+    "otros": "Para toda la familia; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546072074_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwac4bad19/images/large/7509546072074_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7509546072074.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1046,
+      "fecha": "2026-09-29",
+      "lado_util": 969
+    },
+    {
+      "archivo": "7509546072074_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw83a128d0/images/large/7509546072074_3.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/x/MXYZ_7509546072074.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1054,
+      "fecha": "2026-09-29",
+      "lado_util": 975
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/x/MXYZ_7509546072074.html",
+    "https://www.farmaciasguadalajara.com/bebes/shampoo-y-jabon/shampoo-mennen-proteccion-y-suavidad-miel-y-extracto-de-manzanilla--700-ml.-1353365.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes, instrucciones y precauciones leídos de la contraetiqueta. Una farmacia lo lista con una referencia tipo MLM17795555 en un sitio ajeno a Mercado Libre; no se confirmó como catálogo.",
+    "notas_imagenes": "2 fotos de tienda (1046 y 1054 px: frente y contraetiqueta con ingredientes).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

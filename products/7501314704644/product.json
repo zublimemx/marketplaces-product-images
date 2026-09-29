@@ -4,29 +4,84 @@
   "linea": "Farma",
   "nombre_sistema": "DURATER 40MG COMP C 10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Durater Famotidina 40 mg 10 Comprimidos",
+  "descripcion": "Descripción:\nDurater es un medicamento de la línea Exea (división de Senosiain) cuyo principio activo es famotidina, un antagonista de los receptores H2 de la histamina que disminuye la producción de ácido en el estómago. Se presenta en caja con 10 comprimidos de 40 mg para administración por vía oral.\n\nBeneficios:\n- Reduce la secreción de ácido gástrico.\n- Indicado en padecimientos gastrointestinales relacionados con el exceso de acidez, según la valoración del médico.\n- Comprimidos de 40 mg en presentación de 10 piezas.\n\nComposición:\nCada comprimido contiene famotidina 40 mg. Excipiente cbp 1 comprimido. Contiene colorante amarillo No. 6, que puede provocar reacciones alérgicas.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale.\n\nPresentación:\nCaja con 10 comprimidos.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Su uso en el embarazo queda bajo la responsabilidad del médico.\n- Consérvese a temperatura ambiente, a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Durater",
+    "fabricante": "Laboratorios Senosiain (división Exea)",
+    "linea": "Exea",
+    "variante": "Comprimidos 40 mg",
+    "presentacion": "Caja con comprimidos",
+    "contenido_neto": 10,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 10,
+    "principio_activo": "Famotidina",
+    "concentracion": "40 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "072M87 SSA IV",
+    "otros": "Contiene colorante amarillo No. 6; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704644_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704644.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/9230",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1362,
+      "fecha": "2026-09-29",
+      "lado_util": 1262
+    },
+    {
+      "archivo": "7501314704644_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704644_1.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/9230",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1344,
+      "fecha": "2026-09-29",
+      "lado_util": 1245
+    },
+    {
+      "archivo": "7501314704644_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704644_2.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/9230",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1466,
+      "fecha": "2026-09-29",
+      "lado_util": 1358
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/durater-famotidina/",
+    "https://www.klyns.mx/durater-40-mg-c-10-cprs/p",
+    "https://www.emeritafarmacias.com/producto/durater-t-10-40mg/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de fórmula, dosis, registro y advertencias tomados de la trasera del empaque. Las indicaciones son las generales de la famotidina; no se abrió PLM para este producto.",
+    "notas_imagenes": "3 fotos de tienda (frente, trasera con fórmula y registro, ángulo), 1344 a 1466 px. Se borraron 3 repetidas o de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

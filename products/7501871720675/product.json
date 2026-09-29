@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TAFIROL 1 GR C 20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tafirol Paracetamol 1 g 20 Tabletas",
+  "descripcion": "Descripción:\nTafirol 1 g es un analgésico y antipirético de Asofarma cuyo principio activo es el paracetamol. Cada tableta contiene 1 g de paracetamol y se emplea para aliviar el dolor de diversas causas, como dolor de cabeza, dolor muscular, dolor de muelas y molestias posteriores a una cirugía, y para reducir la fiebre. La presentación es una caja con 20 tabletas de administración oral.\n\nCaracterísticas:\n- Paracetamol 1 g por tableta.\n- Analgésico y antipirético.\n- Administración por vía oral.\n- Caja con 20 tabletas.\n\nComposición:\nCada tableta contiene: paracetamol 1 g, excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tome la dosis y con la frecuencia que le indique su médico o el instructivo del empaque. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas de 1 g.\n\nAdvertencias:\nNo lo use si es alérgico al paracetamol o a alguno de los componentes de la fórmula, ni en caso de insuficiencia hepática grave. Evite el consumo de alcohol durante el tratamiento. Úselo con precaución si tiene enfermedad del hígado o del riñón. No exceda la dosis recomendada. Si presenta síntomas inusuales, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tafirol",
+    "fabricante": "Asofarma",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol",
+    "concentracion": "1 g por tableta",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja; Analgésico y antipirético"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720675_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__b8c324eb-e6a1-4833-921a-81c708a8b02c.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/tafirol-1g-con-20-tabletas-paracetamol",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1941,
+      "fecha": "2026-09-29",
+      "lado_util": 1798
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/tafirol-paracetamol/",
+    "https://wecarepharma.mx/en/products/tafirol-1g-con-20-tabletas-paracetamol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el resultado de una farmacia y en su ficha (SKU). Dos fichas de farmacia señalan que la presentación de 1 g requiere receta; no se confirmó en el empaque, por eso queda como Revisar. Sin página del fabricante ni dosis publicada.",
+    "notas_imagenes": "1 foto de tienda (WeCare Pharma), frente de la caja, 1,941 px. Se descartaron fotos con marca de agua de otra farmacia.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

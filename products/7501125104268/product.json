@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ELECTROLIT 625ML FRESA MAYO 27 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Suero Rehidratante Electrolit Sabor Fresa 625 ml",
+  "descripcion": "Descripción:\nElectrolit suero rehidratante sabor fresa, de PiSA, en frasco de 625 ml. Es una solución esterilizada de electrolitos orales indicada para prevenir o tratar la deshidratación.\n\nCaracterísticas:\n- Solución de electrolitos orales lista para beber.\n- Sabor fresa.\n- Presentación individual de 625 ml.\n- Marca Electrolit de laboratorios PiSA.\n- Producto de venta libre, sin necesidad de receta médica.\n\nModo de uso:\nVía oral. Siga las instrucciones que aparecen en el empaque o la indicación de su médico.\n\nPresentación:\nFrasco con 625 ml, sabor fresa.\n\nAdvertencias:\nAlmacenar a temperatura ambiente controlada, entre 15 y 30 °C. Si la deshidratación es intensa o los síntomas, como diarrea o vómito, continúan, acuda con su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Electrolit",
+    "fabricante": "PiSA",
+    "variante": "Suero rehidratante",
+    "presentacion": "Frasco con 625 ml",
+    "contenido_neto": 625,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "sabor_aroma": "Fresa",
+    "registro_sanitario": "90127 SSA VI",
+    "otros": "Solución esterilizada de electrolitos orales; Formato de venta: frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM431865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125104268_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw80f1e4bb/images/large/7501125104268_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/electrolit-fresa-625ml/MXYZ_7501125104268.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1489,
+      "fecha": "2026-09-29",
+      "lado_util": 1379
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/sueros-orales/4455-electrolit-suero-rehidratante-botella-con-625ml-sabor-fresa-7501125104268.html",
+    "https://curitek.com/producto/electrolit-fresa-suero-rehidratate/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La indicación se lee en la etiqueta del frasco. No se encontró la composición (mEq por litro) en las fuentes, por eso no se incluye. ",
+    "notas_imagenes": "1 foto de frente (1489 px) de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

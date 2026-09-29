@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "TABCIN 500 MG EFERV C 12 150",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tabcin 500 mg Efervescente Antigripal 12 Tabletas",
+  "descripcion": "Descripción:\nTabcin Efervescente es un antigripal en tabletas efervescentes de Bayer que combina ácido acetilsalicílico, fenilefrina y clorfenamina para el alivio de los síntomas de la gripe. Cada tableta contiene 500 mg de ácido acetilsalicílico, 8 mg de fenilefrina y 2 mg de clorfenamina. Esta presentación es la caja con 12 tabletas para disolver en agua y tomar por vía oral.\n\nBeneficios:\n- Alivio de los síntomas de la gripe.\n- Combina un analgésico y antipirético (ácido acetilsalicílico), un descongestivo nasal (fenilefrina) y un antihistamínico (clorfenamina).\n- Formato efervescente que se disuelve en agua.\n\nComposición:\nCada tableta efervescente contiene ácido acetilsalicílico 500 mg, fenilefrina 8 mg y clorfenamina 2 mg.\n\nModo de uso:\nVía oral. Disuelva una tableta en agua y tómela una vez terminada la efervescencia, siguiendo la dosis y los intervalos que indica el empaque. No exceda la dosis máxima diaria.\n\nPresentación:\nCaja con 12 tabletas efervescentes de 500 mg/8 mg/2 mg.\n\nAdvertencias:\nNo lo use si es alérgico al ácido acetilsalicílico, a otros antiinflamatorios o a algún componente de la fórmula. La clorfenamina puede causar somnolencia; evite conducir u operar maquinaria. No se use durante el embarazo ni la lactancia sin consultar a su médico. Si los síntomas persisten por más de 3 días o se acompañan de fiebre alta, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tabcin",
+    "fabricante": "Bayer",
+    "linea": "Tabcin Efervescente",
+    "presentacion": "Tabletas efervescentes",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Ácido acetilsalicílico / Fenilefrina / Clorfenamina",
+    "concentracion": "500 mg / 8 mg / 2 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: antigripal; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008485408_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw865fac42/images/large/7501008485408_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/tabcin-efervescente-500mg-12-tabs/MXYZ_7501008485408.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 904
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/tabcin-efervescente-500mg-12-tabs/MXYZ_7501008485408.html",
+    "https://www.farmalisto.com.mx/gripe-y-tos/1285-tabcin-500-mg-caja-con-12-tabletas-efervescentes.html",
+    "https://prixz.com/c/tabcin-efervescente-roja-12-tabletas-caja-acido-acetilsalicilico-500-mg/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (URL y código); composición 500/8/2 mg leída en el empaque. Las fuentes traen poca información de dosis e indicaciones; el modo de uso y las advertencias son generales (verificar contra el instructivo).",
+    "notas_imagenes": "1 foto de frente al empaque de 12 tabletas efervescentes (tienda: Farmacias YZA, 1000 px), correcta en presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

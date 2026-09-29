@@ -4,29 +4,61 @@
   "linea": "Farma",
   "nombre_sistema": "YASMIN 21 GRAGEAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Yasmin Drospirenona Etinilestradiol 3/0.03 mg 21 Grageas",
+  "descripcion": "Descripción:\nYasmin es un anticonceptivo oral combinado de Bayer que contiene drospirenona 3 mg y etinilestradiol 0.03 mg por comprimido. Esta presentación es la caja con 21 comprimidos (grageas) para administración por vía oral, con un esquema de 21 días de toma seguidos de 7 días de descanso.\n\nBeneficios:\n- Anticonceptivo oral para la prevención del embarazo cuando se toma de forma correcta y constante.\n- También está indicado para el tratamiento del acné vulgar moderado en mujeres que eligen utilizar anticoncepción oral.\n- Se utiliza para tratar los síntomas del trastorno disfórico premenstrual en mujeres que eligen utilizar anticoncepción hormonal.\n\nComposición:\nCada comprimido contiene drospirenona 3.00 mg y etinilestradiol 0.03 mg.\n\nModo de uso:\nVía oral. Se toma un comprimido al día, aproximadamente a la misma hora, con un poco de líquido si es necesario, durante 21 días; después se descansa 7 días antes de iniciar el siguiente paquete. Siga las indicaciones de su médico.\n\nPresentación:\nCaja con 21 comprimidos (grageas).\n\nAdvertencias:\nSu venta requiere receta médica. Los anticonceptivos con estrógenos aumentan el riesgo de trombosis. No lo use si tiene o ha tenido coágulos en venas o arterias, enfermedad grave del hígado, insuficiencia renal grave, tumores que dependen de hormonas o sospecha de embarazo, ni si es alérgica a algún componente. No protege contra infecciones de transmisión sexual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Yasmin",
+    "fabricante": "Bayer",
+    "linea": "Yasmin",
+    "presentacion": "Comprimidos (grageas)",
+    "contenido_neto": 21,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 21,
+    "principio_activo": "Drospirenona / Etinilestradiol",
+    "concentracion": "3 mg / 0.03 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mujeres adultas",
+    "genero": "Mujer",
+    "otros": "Grupo terapéutico: anticonceptivo hormonal combinado; Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7703331157506_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1271c26e/images/large/7703331157506_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/yasmin-3mg0.03mg-21-comp/MXYZ_7703331157506.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 681,
+      "fecha": "2026-09-29",
+      "lado_util": 631
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/yasmin-comprimidos/22/101/10509/25",
+    "https://www.yza.mx/yasmin-3mg0.03mg-21-comp/MXYZ_7703331157506.html",
+    "https://www.benavides.com.mx/yasmin-3-0-03-mg-21-grageas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (URL y código); presentación de 21 comprimidos con 0.03 mg igual al nombre. Indicaciones, esquema de dosis y contraindicaciones de PLM.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias YZA, 1000 px), con 21 comprimidos y concentración 3 mg/0.03 mg visibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "THERAFLU DAYTIME C10 FRUTOS DEL BOSQUE JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Theraflu Daytime Frutos del Bosque 10 Sobres",
+  "descripcion": "Descripción:\nTheraflu Daytime sabor frutos del bosque es un medicamento en granulado para preparar una bebida caliente, de fórmula de día que no causa sueño. Es auxiliar en el alivio de los síntomas del resfriado severo, la gripe y la tos. Cada sobre combina paracetamol 650 mg, bromhidrato de dextrometorfano 20 mg y clorhidrato de fenilefrina 10 mg. Presentación: caja con 10 sobres.\n\nBeneficios:\n- Auxiliar en el alivio de los síntomas del resfriado y la influenza, incluyendo la tos.\n- Alivia congestión nasal, dolores musculares, tos, dolor de cabeza, dolores menores, fiebre y dolor de garganta.\n- Fórmula de día, sin causar sueño.\n- Sabor frutos del bosque.\n\nComposición:\nCada sobre contiene: paracetamol 650 mg, bromhidrato de dextrometorfano 20 mg, clorhidrato de fenilefrina 10 mg.\n\nModo de uso:\nVía oral. Disuelva el contenido de un sobre en agua caliente, mezcle bien y tome. Use solo como se indica en el empaque o como lo señale su médico.\n\nPresentación:\nCaja con 10 sobres de granulado sabor frutos del bosque.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. No usar en niños menores de 12 años. No exceda la dosis recomendada. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Theraflu",
+    "fabricante": "GSK",
+    "linea": "Daytime",
+    "variante": "Resfriado severo y tos",
+    "presentacion": "Sobres de granulado",
+    "contenido_neto": 10,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol, dextrometorfano, fenilefrina",
+    "concentracion": "650 mg / 20 mg / 10 mg por sobre",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Frutos del bosque",
+    "otros": "Formato de venta: Caja; Fórmula sin sueño"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065010438_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/171497-1600-auto?width=1600&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/theraflu-dayt-frut-b-650-20-10-mg-grn-10/p",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 1258,
+      "fecha": "2026-09-29",
+      "lado_util": 1165
+    }
+  ],
+  "url_oficial": "https://www.theraflu.com.mx/productos/daytime-gripe-tos.html",
+  "fuentes": [
+    "https://www.theraflu.com.mx/productos/daytime-gripe-tos.html",
+    "https://www.klyns.mx/theraflu-dayt-frut-b-650-20-10-mg-grn-10/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página oficial muestra una caja de 6 sobres; la de este producto es de 10 sobres (GTIN confirmado en Klyns y otras farmacias). Se usó la composición de ambas fuentes, que coinciden. Dosis exacta no publicada en las fuentes abiertas.",
+    "notas_imagenes": "1 foto de tienda (Farmacias Klyns), frente de la caja de 10 sobres, 1,258 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

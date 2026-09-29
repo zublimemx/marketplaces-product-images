@@ -4,19 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "EXFORGE HCT 5 160 12 5 T28 OCTUBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Exforge HCT 5/160/12.5 mg 28 Tabletas",
-  "descripcion": "Descripción:\nExforge HCT es un medicamento antihipertensivo de Novartis que combina tres principios activos: amlodipino, valsartán e hidroclorotiazida. Se presenta en caja con 28 tabletas recubiertas de administración oral.\n\nComposición:\n- Amlodipino 5 mg\n- Valsartán 160 mg\n- Hidroclorotiazida 12.5 mg\n\nPresentación:\nCaja con 28 tabletas.\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente bajo prescripción y seguimiento médico. No lo suspenda ni modifique la dosis sin indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Exforge HCT 5 mg/160 mg/12.5 mg 28 Comprimidos",
+  "descripcion": "Descripción:\nExforge HCT es un medicamento de Novartis que combina tres antihipertensivos en un solo comprimido: amlodipino 5 mg, valsartán 160 mg e hidroclorotiazida 12.5 mg. Se emplea en el tratamiento de la hipertensión arterial bajo indicación y supervisión médica. Esta presentación es una caja con 28 comprimidos para administración por vía oral.\n\nCaracterísticas:\n- Triple combinación: amlodipino, valsartán e hidroclorotiazida.\n- Comprimidos de 5 mg/160 mg/12.5 mg.\n- Administración por vía oral.\n- Caja con 28 comprimidos.\n- Medicamento de venta con receta médica.\n\nFórmula:\nCada comprimido contiene amlodipino 5 mg, valsartán 160 mg e hidroclorotiazida 12.5 mg.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale. No suspenda ni modifique el tratamiento sin consultar a su médico.\n\nPresentación:\nCaja con 28 comprimidos de 5 mg/160 mg/12.5 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Evite la automedicación. No se use durante el embarazo. Informe a su médico si es alérgico a alguno de los componentes, si tiene enfermedad del hígado o de los riñones, o si toma otros medicamentos. Léase el instructivo anexo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Exforge HCT",
     "fabricante": "Novartis",
-    "presentacion": "Tabletas",
+    "linea": "Exforge",
+    "presentacion": "Caja con comprimidos",
     "contenido_neto": 28,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 28,
     "principio_activo": "Amlodipino, valsartán e hidroclorotiazida",
     "concentracion": "5 mg/160 mg/12.5 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Forma farmacéutica: Comprimido; Antihipertensivo; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -30,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124815851_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124815851.jpg",
+      "pagina": "https://www.fahorro.com/exforge-hct-5-mg-160-mg-12-5-mg-oral-28-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1520,
+      "fecha": "2026-09-29",
+      "lado_util": 1408
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/exforge-hct-5-160-12-5mg-com-caj-c-28.html",
+    "https://www.farmaciasguadalajara.com/circulatorio/cardiovasculares/exforge-hct-5mg-160mg-12.5mg--28-comprimidos.-1094696.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Identificación por el nombre del sistema (T28, 5/160/12.5) y conocimiento previo; GTIN sin verificar. Fabricante Novartis inferido. Descripción basada solo en lo seguro; falta ficha oficial.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados; composición leída del empaque (marca Novartis). Las fichas de tienda no traen indicaciones, contraindicaciones ni registro, por eso el texto es general. Algunas tiendas mencionan Viatris como laboratorio actual.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1520 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

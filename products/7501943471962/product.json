@@ -4,18 +4,19 @@
   "linea": "Mark",
   "nombre_sistema": "TAS SUAVE MAX C/100",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas Suave Max 100 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas Suave Max, en paquete de 100 piezas, pensadas para la limpieza suave de la piel del bebé durante el cambio de pañal y en el aseo diario de manos y cara. Son prácticas para llevar en la pañalera y tener a la mano en casa.\n\nCaracterísticas:\n- Toallitas húmedas en presentación grande, con 100 piezas por paquete.\n- Diseñadas para una limpieza delicada de la piel del bebé.\n- Prácticas para el cambio de pañal y para limpiezas rápidas dentro y fuera de casa.\n\nModo de uso:\nExtraiga una toallita del paquete, limpie suavemente la zona deseada y deséchela en el bote de basura. Cierre bien el paquete después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 100 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. No arroje las toallitas al inodoro. Evite el contacto con los ojos. Suspenda su uso si observa irritación en la piel. Mantenga fuera del alcance de los niños y no deje al bebé solo durante el cambio de pañal.",
+  "titulo": "Toallitas Húmedas KleenBebé Suavelastic Max 100 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé KleenBebé Suavelastic Max, de Kimberly-Clark, que limpian desde la primera pasada sin dejar residuos ni irritar la delicada piel del bebé. Combinan fibras naturales con una doble textura para una limpieza suave y eficaz, y están dermatológicamente probadas.\n\nBeneficios:\n- Enriquecidas con vitamina E, aloe vera y té verde.\n- Fibras naturales y doble textura para una limpieza suave y eficaz.\n- Limpian sin dejar residuos.\n- Hipoalergénicas, sin parabenos y sin alcohol, según indica el empaque.\n- Dermatológicamente probadas.\n\nModo de uso:\nSaque una toallita del paquete y úsela para limpiar la piel del bebé en cada cambio de pañal. Cierre bien la tapa después de usar para conservar la humedad.\n\nPresentación:\nPaquete con 100 toallitas húmedas.\n\nAdvertencias:\n- Uso externo.\n- Suspenda su uso si aparece irritación o enrojecimiento en la piel.\n- No arroje las toallitas al inodoro.\n- Mantenga las bolsas de plástico fuera del alcance de bebés y niños.",
   "ficha": {
-    "marca": "Suave Max",
+    "marca": "KleenBebé",
     "fabricante": "Kimberly-Clark de México",
-    "presentacion": "Toallitas húmedas",
+    "linea": "Suavelastic Max",
+    "presentacion": "Paquete de toallitas húmedas",
     "contenido_neto": 100,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 100,
     "edad_etapa": "Bebés",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete; Uso: Externo"
+    "otros": "Con vitamina E, aloe vera y té verde; Hipoalergénicas: Sí; Libre de parabenos: Sí; Libre de alcohol: Sí; Dermatológicamente probadas; Formato de venta: Paquete; Uso: Externo"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943471962_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77828651/7501943471962_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-kleenbebe-suavelastic-max-100-toallitas-3079061/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1199,
+      "fecha": "2026-09-29",
+      "lado_util": 1111
+    },
+    {
+      "archivo": "7501943471962_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943471962.jpg",
+      "pagina": "https://www.fahorro.com/kleenbebe-suavelastic-max-toallas-humedas-100-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1522,
+      "fecha": "2026-09-29",
+      "lado_util": 1410
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-kleenbebe-suavelastic-max-100-toallitas-3079061/p",
+    "https://www.fahorro.com/kleenbebe-suavelastic-max-toallas-humedas-100-pz.html",
+    "https://www.klyns.mx/t-hum-suavelastic-max-c-100/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); nombre del sistema ambiguo (TAS SUAVE MAX C/100). No se pudo confirmar la marca real (el nombre no incluye HUGG como el id 302) ni si son toallitas de bebé o de uso general; el fabricante Kimberly-Clark se infiere solo por el prefijo del GTIN 7501943. Verificar marca y línea antes de publicar y ajustar título y categoría si no son toallitas de bebé.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas de farmacia (KleenBebé Suavelastic Max, 100 toallitas). La marca real es KleenBebé; el nombre del sistema (TAS SUAVE MAX) no la incluía. Fabricante Kimberly-Clark de México por ser la marca KleenBebé. Sitio oficial de KleenBebé no consultado.",
+    "notas_imagenes": "2 fotos de tienda (paquete de 100 toallitas en dos diseños de empaque); se descartó una foto de un paquete de 108 piezas.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

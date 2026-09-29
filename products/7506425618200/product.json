@@ -4,16 +4,19 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM KBBS VITAE 70 10 C80",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas para Bebé Vitae 80 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas para bebé de la línea Vitae, en presentación de 80 piezas. Están pensadas para la limpieza e higiene del bebé en el cambio de pañal y en el aseo diario.\n\nPresentación:\n- Toallitas húmedas desechables\n- Contenido: 80 piezas\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Si presenta irritación, suspenda su uso y consulte a su médico. No arroje las toallitas al inodoro. Mantenga el empaque cerrado después de cada uso para conservar la humedad.",
+  "titulo": "Toallitas Húmedas KleenBebé Suavelastic Vitta E 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas KleenBebé Suavelastic Vitta E, en paquete de 80 piezas. Están pensadas para la limpieza suave de la piel del bebé en el cambio de pañal y en el aseo diario. Su doble textura ayuda a limpiar de manera eficaz desde la primera pasada sin dejar residuos, y el empaque destaca el lema \"Piel limpia es piel sana\".\n\nCaracterísticas:\n- Hipoalergénicas\n- Sin parabenos\n- Sin alcohol\n- Doble textura para una limpieza eficaz y suave\n- Con ingredientes naturales que ayudan a mantener la humectación de la piel\n- Con aloe vera, té verde y vitamina E\n\nPresentación:\n- Paquete con 80 toallitas húmedas desechables\n- Línea Suavelastic, variante Vitta E\n- Hecho en México\n\nAdvertencias:\nPara evitar el riesgo de asfixia, mantenga las bolsas de plástico fuera del alcance de los bebés y de los niños. Producto de uso externo. Si observa irritación en la piel del bebé, suspenda su uso y consulte a su pediatra.",
   "ficha": {
-    "linea": "Vitae",
-    "presentacion": "Paquete",
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Suavelastic",
+    "variante": "Vitta E",
+    "presentacion": "Paquete de toallitas húmedas",
     "contenido_neto": 80,
     "unidad_contenido": "piezas",
-    "unidades_por_envase": 80,
+    "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
-    "otros": "Formato de venta: Unidad; Denominación en el sistema: TAS HUM KBBS VITAE 70 10 C80"
+    "otros": "Hipoalergénicas; Sin parabenos; Sin alcohol; Con aloe vera, té verde y vitamina E; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425618200_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://infocode.io/images/products/07506425618200/planogram__1__2aec1101-e28d-4249-8fbb-4d9e02368ea6.jpg",
+      "pagina": "https://infocode.io/b2b/7506425618200/details",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
+  "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Toallitas/suavelastic-toallitas",
+  "fuentes": [
+    "https://infocode.io/b2b/07506425618200/details",
+    "https://www.kleenbebe.com/Productos/Suavelastic/Toallitas/suavelastic-toallitas"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). No se identificó la marca: KBBS podría ser una abreviatura de Kleenbebé u otra; por eso el título y la ficha no incluyen marca. Se interpretó 70 10 C80 como 70 piezas más 10 adicionales, total 80 (sin confirmar). Ingredientes y fabricante desconocidos.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos (toallitas KleenBebé Suavelastic hipoalergénicas, 80 piezas); variante Vitta E confirmada por la foto del empaque y listados de tiendas. El fabricante Kimberly-Clark se deduce de la marca.",
+    "notas_imagenes": "1 foto de frente del paquete Vitta E de 80 piezas (2000 px, registro de productos infocode, origen tienda). El sitio oficial de la marca bloquea el acceso automático.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

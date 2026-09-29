@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "LODESTAR DUO 100 5 MG CAP C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lodestar Duo Losartán Amlodipino 100 mg/5 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nLodestar-Duo, de Laboratorios Liomont, combina en una sola cápsula losartán de 100 mg y amlodipino de 5 mg. Está indicado para el tratamiento de la hipertensión arterial en pacientes que requieren el uso conjunto de dos fármacos para alcanzar un control adecuado de la presión arterial.\n\nCaracterísticas:\n- Combinación en dosis fija de un antagonista de los receptores de angiotensina II (losartán) y un bloqueador de los canales de calcio (amlodipino).\n- Una sola cápsula al día.\n- Caja con 30 cápsulas, equivalente a un mes de tratamiento.\n\nComposición:\nCada cápsula contiene losartán 100 mg y amlodipino 5 mg, con excipientes cbp 1 cápsula.\n\nModo de uso:\nVía oral. Una cápsula al día, preferentemente a la misma hora, con o sin alimentos, o según lo indique su médico.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo se administre durante el embarazo ni la lactancia. No suspenda ni modifique el tratamiento sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lodestar",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Lodestar Duo",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Losartán, Amlodipino",
+    "concentracion": "100 mg / 5 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsula; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299309339_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwfa0bc140/images/large/7501299309339_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/lodestar-duo-100mg5mg-30-caps/MXYZ_7501299309339.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    },
+    {
+      "archivo": "7501299309339_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw8358ddb7/images/large/7501299309339_2.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/lodestar-duo-100mg5mg-30-caps/MXYZ_7501299309339.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/lodestar-duo-100mg5mg-30-caps/MXYZ_7501299309339.html",
+    "https://curitek.com/producto/lodestar-duo-losartan-amlodipino/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las tiendas discrepan en la condición de venta (una dice sin receta, otra con receta). Antihipertensivo combinado: se marca con receta por ser terapia de prescripción. Sin registro sanitario visible.",
+    "notas_imagenes": "2 fotos de tienda (1500 px): frente y ángulo lateral de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

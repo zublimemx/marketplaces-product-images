@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ELECTROLIT 625ML COCO 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Electrolit Suero Rehidratante Sabor Coco 625 ml",
+  "descripcion": "Descripción:\nElectrolit es un suero rehidratante oral listo para beber, en solución electrolizada, que repone los líquidos y electrolitos que el cuerpo pierde. Esta presentación es la botella de 625 ml sabor coco, con tapa azul y etiqueta blanca con verde.\n\nBeneficios:\n- Previene o trata la deshidratación mediante la reposición de líquidos y de los electrolitos contenidos en su fórmula.\n- Aporta glucosa, que resulta una fuente útil de calorías; su aporte energético es de 20 kcal por cada 100 ml.\n- Útil cuando se pierden líquidos por gastroenteritis aguda, actividad física intensa o exposición a ambientes extremadamente cálidos.\n- Indicado para la prevención y el tratamiento por vía oral del desequilibrio por deshidratación en mayores de 6 años.\n\nIngredientes:\nCloruro de sodio, cloruro de potasio, cloruro de calcio dihidratado, cloruro de magnesio hexahidratado, lactato de sodio, glucosa y vehículo cbp. Sabor coco.\n\nModo de uso:\nVía oral. Consulte la forma de uso en el empaque o siga la indicación de su médico.\n\nPresentación:\nBotella de 625 ml, sabor coco.\n\nAdvertencias:\nSu uso está indicado en mayores de 6 años. Las personas con diabetes deben ajustar su consumo a sus intercambios alimenticios y a sus medicamentos, y quienes tengan enfermedad renal deben consultarlo con su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Electrolit",
+    "fabricante": "PiSA",
+    "linea": "Suero rehidratante",
+    "variante": "Coco",
+    "presentacion": "Botella",
+    "contenido_neto": 625,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Mayores de 6 años",
+    "sabor_aroma": "Coco",
+    "via_administracion": "Oral",
+    "registro_sanitario": "90127 SSA",
+    "otros": "Aporte energético: 20 kcal por 100 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM431865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125104411_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://electrolit.com.mx/wp-content/uploads/2026/07/coco.png",
+      "pagina": "https://electrolit.com.mx/",
+      "ancho_original": 512,
+      "alto_original": 512,
+      "lado_final": 552,
+      "fecha": "2026-09-29",
+      "lado_util": 437
+    },
+    {
+      "archivo": "7501125104411_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://images.openfoodfacts.org/images/products/750/112/510/4411/front_es.12.full.jpg",
+      "pagina": "https://world.openfoodfacts.org/product/7501125104411/suero-rehidratante-coco-electrolit",
+      "ancho_original": 546,
+      "alto_original": 1096,
+      "lado_final": 1183,
+      "fecha": "2026-09-29",
+      "lado_util": 1096
+    }
+  ],
+  "url_oficial": "https://electrolit.com.mx/",
+  "fuentes": [
+    "https://electrolit.com.mx/preguntas-frecuentes/",
+    "https://world.openfoodfacts.org/product/7501125104411/suero-rehidratante-coco-electrolit",
+    "https://farmaciasmedina.com/detalleProducto/Electrolit-Coco/7501125104411"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia y en Open Food Facts. El '12' del nombre del sistema se interpretó como código o lote y no como caja de 12 piezas (precio de una botella). Ingredientes tomados de Open Food Facts; dato de 20 kcal/100 ml y usos del sitio oficial. No se incluyen cantidades de electrolitos porque las fuentes eran inconsistentes.",
+    "notas_imagenes": "2 fotos de frente a la botella de coco 625 ml: sitio oficial del fabricante (552 px) y Open Food Facts (1183 px). Se descartó un banner promocional del sitio oficial.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

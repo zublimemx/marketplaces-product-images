@@ -4,29 +4,84 @@
   "linea": "Farma",
   "nombre_sistema": "SERC 24 MG C 30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Serc Betahistina 24 mg 30 Tabletas",
+  "descripcion": "Descripción:\nSerc 24 mg es un medicamento en tabletas cuyo principio activo es el diclorhidrato de betahistina, de Abbott. Se utiliza en el tratamiento de los síntomas asociados al síndrome de Ménière, como vértigo, mareos y zumbido de oídos (tinnitus), y en trastornos del equilibrio de origen vestibular, siempre bajo supervisión médica. Se presenta en caja con 30 tabletas.\n\nBeneficios:\n- Tabletas de 24 mg con betahistina.\n- Indicado en síntomas de vértigo asociados a trastornos del oído interno, según la valoración del médico.\n- Presentación de 30 tabletas para cubrir tratamientos prolongados.\n\nComposición:\nCada tableta contiene diclorhidrato de betahistina 24 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale.\n\nPresentación:\nCaja con 30 tabletas de 24 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use en menores de 18 años.\n- No se use durante el embarazo y la lactancia.\n- No usar en caso de hipersensibilidad a la betahistina o feocromocitoma.\n- Consérvese a no más de 30 °C y protéjase de la luz.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Serc",
+    "fabricante": "Abbott Laboratories de México",
+    "linea": "Serc",
+    "variante": "24 mg",
+    "presentacion": "Caja con tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Betahistina (diclorhidrato)",
+    "concentracion": "24 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos (mayores de 18 años)",
+    "registro_sanitario": "75796 SSA IV",
+    "otros": "Hecho en Francia; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033957871_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033957871.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1371,
+      "fecha": "2026-09-29",
+      "lado_util": 1270
+    },
+    {
+      "archivo": "7501033957871_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033957871_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1392,
+      "fecha": "2026-09-29",
+      "lado_util": 1289
+    },
+    {
+      "archivo": "7501033957871_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033957871_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1312,
+      "fecha": "2026-09-29",
+      "lado_util": 1215
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/serc-24mg-con-30-tabletas-betahistina",
+    "https://farmalisto.com.mx/serc/1594-comprar-serc-24-mg-caja-con-30-tabletas-vertigo-precio-7501033957871.html",
+    "https://grupofarmapronto.com/producto/serc-24mg-tabletas-c-30/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, registro, leyendas y código de barras leídos de la trasera del empaque. Las indicaciones vienen de una ficha de distribuidor. La categoría Rx sugerida es la del sistema nervioso; Para Ojos y Oídos con Receta sería una alternativa.",
+    "notas_imagenes": "3 fotos de tienda (1312 a 1392 px: frente, trasera con fórmula y ángulo).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

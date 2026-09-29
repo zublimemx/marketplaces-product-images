@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "VASO DIBAR 100ML ESTERIL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vaso Recolector Dibar Estéril 100 ml 1 Pieza",
+  "descripcion": "Descripción:\nVaso recolector estéril Dibar de 100 mL para la recolección de muestras clínicas de orina, heces y otros fluidos biológicos en laboratorios, hospitales y clínicas. Es un envase desechable de polipropileno transparente de grado médico, con tapa de rosca y graduación visible, que se entrega en bolsa individual. Presentación de 1 pieza.\n\nCaracterísticas:\n- Capacidad de 100 mL.\n- Polipropileno transparente de grado médico.\n- Tapa de rosca color azul con cierre hermético.\n- Estéril, en empaque individual de polietileno.\n- Superficie lisa, sin rebabas.\n- Desechable, de un solo uso.\n\nModo de uso:\nRetire la tapa sin tocar el interior del vaso ni de la tapa, deposite la muestra y cierre firmemente. Siga las indicaciones del laboratorio o del personal de salud para la toma y la entrega de la muestra.\n\nPresentación:\n1 vaso recolector estéril de 100 mL en bolsa individual.\n\nAdvertencias:\nProducto de un solo uso. No lo utilice si la bolsa está abierta o dañada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Vaso recolector",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Pieza individual; Estéril; Material: polipropileno; Capacidad: 100 mL; Tapa de rosca azul"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438159",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Material de Laboratorio > Otros",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +28,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.promexsa.com.mx/productos/vaso-recolector-esteril-100-ml-1-pz-dibar/",
+    "https://pmvelasco.mx/products/vaso-recolector-esteril-de-orina-y-heces-dibar"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Producto identificado por nombre y marca; ninguna ficha abierta mostró el GTIN 7501868950702, pero el prefijo corresponde a Dibar.",
+    "notas_imagenes": "Sin foto válida: la imagen de la presentación estéril mide 225 px y la de mayor tamaño encontrada es la del vaso no estéril (leyenda 'no tóxico'), que se descartó.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ENTEROGERMINA 2 BILL C10AMP SUSP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enterogermina 2 Billones UFC 10 Ampolletas de 5 ml",
+  "descripcion": "Descripción:\nEnterogermina 2 Billones es una suspensión oral lista para beber, en ampolletas de 5 mL, que contiene 2 billones (2,000 millones) de esporas de Bacillus clausii con tecnología Inteli-Esporas, de Sanofi. Ayuda a restaurar el equilibrio de la flora intestinal alterado por diarrea, infecciones intestinales, intoxicaciones, trastornos de la dieta y uso de antibióticos. Se presenta en una caja con 10 ampolletas.\n\nBeneficios:\n- Reduce el tiempo y la aparición de la diarrea en niños y adultos.\n- Restaura el equilibrio de la flora intestinal.\n- Sus esporas resisten la acidez del estómago y la mayoría de los antibióticos; puede tomarse entre las dosis de un antibiótico.\n- Presentación lista para beber, en ampolletas fáciles de llevar.\n\nComposición:\nCada ampolleta de 5 mL contiene: esporas de Bacillus clausii (cepas SIN, O/C, T y N/R) 2,000 millones de UFC; excipiente: agua purificada.\n\nModo de uso:\nVía oral. Agite la ampolleta, ábrala y bébala directamente o agréguela a un alimento o bebida; puede tomarse en ayunas o después de comer. Bebés y niños: 1 a 2 ampolletas al día. Adultos: máximo 3 ampolletas al día.\n\nPresentación:\nCaja con 10 ampolletas de 5 mL.\n\nAdvertencias:\nUso exclusivo por vía oral; no se administre por ninguna otra vía. No lo use si es alérgico a alguno de los componentes de la fórmula. Consulte a su médico si tiene dolor de estómago, náuseas o vómito, o si nota un cambio en sus hábitos intestinales por más de 2 semanas. En personas inmunodeprimidas o gravemente enfermas, úselo solo bajo supervisión médica. En embarazo o lactancia consulte a su médico. Almacene en su caja a menos de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Enterogermina",
+    "fabricante": "Sanofi",
+    "linea": "2 Billones",
+    "presentacion": "Ampolletas de suspensión oral",
+    "contenido_neto": 10,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Bacillus clausii (esporas)",
+    "concentracion": "2 billones de UFC por ampolleta de 5 mL",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja; Volumen: 5 mL por ampolleta; Probiótico"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798074680_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciassimilaresmx.vtexassets.com/arquivos/ids/164761-1200-auto?v=639168959795370000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.farmaciasdesimilares.com/esporas_bac_claus_2bill_10amp_enteroger/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "3664798074680_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciassimilaresmx.vtexassets.com/arquivos/ids/164762-1200-auto?v=639168959795670000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.farmaciasdesimilares.com/esporas_bac_claus_2bill_10amp_enteroger/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1125,
+      "fecha": "2026-09-29",
+      "lado_util": 1042
+    }
+  ],
+  "url_oficial": "https://www.enterogermina.com/es-mx/productos/enterogermina-2b",
+  "fuentes": [
+    "https://www.enterogermina.com/es-mx/productos/enterogermina-2b",
+    "https://www.campus.sanofi/dam/jcr:f789934a-fda9-43fb-92ea-469a0afc5246/Enterogermina2B.pdf",
+    "https://phemedica.com.mx/product/enterogermina-esporas-de-bacillus-clausii-ninos-y-adultos-2-billones-ufc-suspencion-oral-caja-c-10-amp-de-5-ml-sanofi/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 3664798074680 confirmado en una farmacia para la caja de 10 ampolletas de 2 billones. Dosis de la página oficial de Sanofi.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias Similares): frente con banner '10 Amps' y vista angulada; unos 1,100 a 1,300 px. Se descartaron dos gráficos promocionales. Las fotos del sitio oficial son de estilo de vida, sin empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

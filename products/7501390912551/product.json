@@ -4,22 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "CHOLAL MOD SOL C 10 AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "Cholal Mod Solución 10 Ampolletas",
-  "descripcion": "Descripción:\nCholal Mod es un medicamento de la marca Cholal en presentación de solución, caja con 10 ampolletas. La composición exacta, la vía de administración y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución\n- Caja con 10 ampolletas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Cholal Modificado Vitamina B12 y Minerales 10 Ampolletas",
+  "descripcion": "Descripción:\nCholal Modificado es un suplemento alimenticio en solución oral de laboratorios Italmex, con extracto de hígado como fuente de vitamina B12 y con minerales (magnesio y potasio). Se presenta en una caja con 10 ampolletas de 5 ml, lista para disolverse en agua o leche.\n\nCaracterísticas:\n- Suplemento alimenticio en solución oral.\n- Con vitamina B12 y minerales.\n- Ampolletas individuales de 5 ml.\n- Caja con 10 ampolletas.\n\nIngredientes:\nAgua, inositol, extracto de hígado, sorbitol, sulfato de magnesio, alcohol etílico, color caramelo, saborizante artificial, sulfato de sodio, cloruro de sodio, benzoato de sodio y nitrato de potasio.\n- Porción: una ampolleta de 5 ml (10 porciones por envase).\n- Por porción: 12.55 kJ (3.08 kcal), carbohidratos 0.77 g, sodio 12.38 mg, extracto de hígado equivalente a 3 µg de vitamina B12 (cianocobalamina), magnesio 11.66 mg, potasio 0.77 mg y sorbitol 357.14 mg.\n\nModo de uso:\nUso sugerido: tomar de 1 a 2 ampolletas al día. Disuelva el contenido de una ampolleta (5 ml) en medio vaso con agua o leche e ingiérase de inmediato. Si no se administra todo el producto, deséchese el sobrante.\n\nPresentación:\nCaja con 10 ampolletas de 5 ml.\n\nAdvertencias:\nSuplemento alimenticio; no es un medicamento. No exceda la porción recomendada. Consulte a su médico o nutriólogo si tiene alguna enfermedad, sigue una dieta especial o está embarazada o en lactancia. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Cholal",
-    "variante": "Mod",
-    "presentacion": "Solución",
+    "fabricante": "Italmex",
+    "linea": "Cholal Modificado",
+    "variante": "Vitamina B12 y minerales",
+    "presentacion": "Caja con ampolletas",
     "contenido_neto": 10,
-    "unidad_contenido": "ampolletas",
+    "unidad_contenido": "ampolletas de 5 ml",
     "unidades_por_envase": 10,
-    "otros": "Formato de venta: Unidad"
+    "via_administracion": "Oral",
+    "otros": "Forma: Solución oral; Suplemento alimenticio; Porción: 1 ampolleta de 5 ml; Uso sugerido: 1 a 2 ampolletas al día"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457821",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390912551_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390912551.jpg",
+      "pagina": "https://www.fahorro.com/cholal-modificado-suplemento-alimenticio-5-ml-10-ampolletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1472,
+      "fecha": "2026-09-29",
+      "lado_util": 1363
+    },
+    {
+      "archivo": "7501390912551_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390912551_2.jpg",
+      "pagina": "https://www.fahorro.com/cholal-modificado-suplemento-alimenticio-5-ml-10-ampolletas.html",
+      "ancho_original": 344,
+      "alto_original": 1000,
+      "lado_final": 1000,
+      "fecha": "2026-09-29",
+      "lado_util": 926
+    },
+    {
+      "archivo": "7501390912551_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390912551_4.jpg",
+      "pagina": "https://www.fahorro.com/cholal-modificado-suplemento-alimenticio-5-ml-10-ampolletas.html",
+      "ancho_original": 844,
+      "alto_original": 1000,
+      "lado_final": 956,
+      "fecha": "2026-09-29",
+      "lado_util": 886
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cholal-modificado-suplemento-alimenticio-5-ml-10-ampolletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, vía (oral o inyectable) y fabricante sin confirmar. La categoría Digestivos es una inferencia; verificar (alternativa: Otros Medicamentos MLM194677).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Ingredientes, información nutrimental y modo de empleo leídos del lateral del empaque. Clasificado como suplemento alimenticio, no medicamento. Una ficha de baja calidad mencionaba asparagina, que no aparece en los ingredientes del empaque; no se incluyó.",
+    "notas_imagenes": "3 fotos (tienda, 956 a 1472 px): frente, lateral con ingredientes y modo de empleo, y vista angular. Se descartó una vista superior con texto invertido.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,38 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "AMPLIRON 750MG C 12 COMP MAYO 27 420",
   "nombres_sistema_alternos": [],
-  "titulo": "Ampliron 750 mg 12 Comprimidos",
-  "descripcion": "Descripción:\nAmpliron 750 mg en presentación de 12 comprimidos.\n\nPresentación:\nCaja con 12 comprimidos de 750 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ampliron Amoxicilina 750 mg 12 Comprimidos",
+  "descripcion": "Descripción:\nAmpliron es un antibiótico bactericida de amplio espectro de Siegfried Rhein cuyo principio activo es la amoxicilina, una penicilina. Cada comprimido contiene 750 mg, concentración que permite un tratamiento completo de 6 días. Está indicado en infecciones causadas por bacterias sensibles, como las de garganta y dentales, y en infecciones de las vías respiratorias superiores e inferiores (amigdalitis, faringitis, sinusitis, otitis media y bronquitis), genitourinarias y de piel y tejidos blandos, siempre bajo indicación médica.\n\nBeneficios:\n- Antibiótico de amplio espectro con un adecuado perfil de seguridad.\n- Rápida absorción y elevadas concentraciones en el foco infeccioso.\n- Presentación de 750 mg con tratamiento completo para 6 días.\n\nComposición:\nCada comprimido contiene 750 mg de amoxicilina.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento indicado aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 comprimidos de 750 mg.\n\nAdvertencias:\nAntibiótico: su venta requiere receta médica, que se retiene al surtirse. El uso incorrecto puede causar resistencia bacteriana y no sirve contra resfriados ni influenza. Está contraindicado en personas alérgicas o con sensibilidad a las penicilinas o las cefalosporinas. Puede causar náusea, diarrea, vómito o erupción cutánea. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Ampliron",
+    "fabricante": "Siegfried Rhein",
     "presentacion": "comprimidos",
     "contenido_neto": 12,
     "unidad_contenido": "comprimidos",
     "unidades_por_envase": 12,
+    "principio_activo": "Amoxicilina",
     "concentracion": "750 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Antibiótico; Tratamiento completo de 6 días; Forma farmacéutica: comprimido"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408402_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7e1ad89c/images/large/7501300408402_1.jpg",
+      "pagina": "https://www.yza.mx/ampliron-750mg---caja-con-12-comprimidos-amoxicilina/MXYZ_7501300408402.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 849,
+      "fecha": "2026-09-29",
+      "lado_util": 787
+    },
+    {
+      "archivo": "7501300408402_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwae8ed0ed/images/large/7501300408402_2.jpg",
+      "pagina": "https://www.yza.mx/ampliron-750mg---caja-con-12-comprimidos-amoxicilina/MXYZ_7501300408402.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 818,
+      "fecha": "2026-09-29",
+      "lado_util": 757
+    },
+    {
+      "archivo": "7501300408402_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4ebc0678/images/large/7501300408402_7.jpg",
+      "pagina": "https://www.yza.mx/ampliron-750mg---caja-con-12-comprimidos-amoxicilina/MXYZ_7501300408402.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/ampliron-750mg---caja-con-12-comprimidos-amoxicilina/MXYZ_7501300408402.html",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/258-ampliron-750-mg-con-12-comprimidos.html",
+    "https://buscamed.com/buscar/CixeCZK-ampliron-750mg-12-comprimidos-1-caja"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo, el grupo terapéutico ni el fabricante. Categoría genérica y receta por confirmar (el nombre sugiere posible antibiótico, sin confirmar). El MAYO 27 y el 420 del nombre se ignoraron como caducidad y lote.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Antibiótico con receta retenida; el único grupo disponible en venta libre para antiinfecciosos es de pocas publicaciones, por eso la categoría rx sugerida es la principal.",
+    "notas_imagenes": "3 fotos de tienda: frente, costado y parte posterior del empaque (818 a 864 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

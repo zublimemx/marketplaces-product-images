@@ -4,20 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "AC MENNEN 100 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Aceite para Bebé Mennen Baby Magic 100 ml",
-  "descripcion": "Descripción:\nAceite para bebé Mennen Baby Magic en presentación de 100 ml. Es un producto de la marca Mennen, de la línea de cuidado del bebé de Colgate-Palmolive, pensado para el aseo y el cuidado de la piel del bebé. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nPresentación:\nFrasco de 100 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si observa irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "titulo": "Aceite para Bebé Mennen Baby Magic Hipoalergénico 100 ml",
+  "descripcion": "Descripción:\nAceite para bebé Mennen Baby Magic con fórmula suave e hipoalergénica, creada para cuidar, limpiar y humectar la delicada piel del bebé. Su textura ligera lo hace ideal para dar masajes relajantes después del baño y, según la ficha de tienda, también ayuda a ablandar la costra láctea. La etiqueta indica que es recomendado por la Sociedad Mexicana de Pediatría, A.C.\n\nBeneficios:\n- Humecta e hidrata la piel del bebé.\n- Fórmula hipoalergénica.\n- Ideal para masajes suaves.\n- Ayuda a ablandar la costra láctea.\n\nIngredientes:\nMineral Oil, Parfum.\n\nModo de uso:\nAplique la cantidad necesaria para dejar una ligera capa en todo el cuerpo después del baño. Dé un masaje suave y relajante al bebé.\n\nPresentación:\nBotella de 100 ml.\n\nAdvertencias:\n- Uso externo.\n- No lo aplique en piel irritada o lastimada.\n- Suspenda su uso si aparece irritación, enrojecimiento o alguna molestia.\n- Evite el contacto con los ojos; si ocurre, enjuague con abundante agua.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Mennen",
     "fabricante": "Colgate-Palmolive",
     "linea": "Baby Magic",
-    "variante": "Aceite para bebé",
-    "presentacion": "Frasco",
+    "variante": "Aceite hipoalergénico",
+    "presentacion": "Botella",
     "contenido_neto": 100,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
     "genero": "Unisex",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Ingredientes: Mineral Oil, Parfum; Hipoalergénico: Sí; Uso: Externo; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908246_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035908246_1_1.jpg",
+      "pagina": "https://www.fahorro.com/catalogsearch/result/?q=7501035908246",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    },
+    {
+      "archivo": "7501035908246_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035908246_2.jpg",
+      "pagina": "https://www.fahorro.com/catalogsearch/result/?q=7501035908246",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/mennen-aceite-100ml/MXYZ_7501035908246.html",
+    "https://farmalisto.com.mx/bebes/1676-comprar-baby-magic-mennen-aceite-50ml-botella-con-50ml-aseo-bebe-precio-7501035908239.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Se interpretó AC como aceite y la marca como Mennen Baby Magic (Colgate-Palmolive), sin confirmarlo; podría ser otro producto Mennen. Misma familia que los productos 278 (200 ml) y 300 (50 ml). Verificar antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una farmacia (Mennen Aceite 100 ml, Baby Magic). El sitio oficial de Mennen bloqueó el acceso. Ingredientes y modo de uso tomados de la etiqueta visible en la foto de tienda.",
+    "notas_imagenes": "2 fotos de tienda (frente del frasco y contraetiqueta) bajadas del servidor de imágenes de Farmacias del Ahorro, que ya no tiene ficha activa para este código; se descartaron imágenes con banners de tamaño y texto decorativo.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

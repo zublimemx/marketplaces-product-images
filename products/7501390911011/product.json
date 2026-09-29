@@ -4,16 +4,19 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL CRA 10G",
   "nombres_sistema_alternos": [],
-  "titulo": "Italdermol Crema 10 g",
-  "descripcion": "Descripción:\nItaldermol es una crema de uso tópico para aplicar sobre la piel, comercializada bajo la marca Italdermol. Esta presentación es un tubo de 10 g.\n\nModo de uso:\nAplique una capa delgada sobre la zona afectada de la piel limpia y seca, en la cantidad y con la frecuencia que indique su médico o el empaque. Lávese las manos después de aplicar, salvo que las manos sean la zona tratada.\n\nPresentación:\nTubo con 10 g de crema.\n\nAdvertencias:\nProducto de uso externo. No se ingiera. Evite el contacto con los ojos, la boca y las mucosas. Suspenda su uso y consulte a su médico si aparece irritación, enrojecimiento o si los síntomas empeoran o persisten. Revise en el empaque la composición, las indicaciones y las contraindicaciones antes de usarlo, y no lo use si es alérgico a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Italdermol Crema Triticum Vulgare 150 mg/g 10 g",
+  "descripcion": "Descripción:\nItaldermol es una crema con Triticum vulgare (trigo) a 150 mg por cada gramo, de laboratorios Italmex. Se presenta como crema regeneradora de pieles lesionadas y es un medicamento que se usa para reconstruir áreas de tejido epitelial afectadas por quemaduras, heridas y otros tipos de lesiones de la piel.\n\nCaracterísticas:\n- Crema con Triticum vulgare 150 mg/g.\n- Regeneradora de pieles lesionadas.\n- De uso tópico, para aplicarse directamente sobre la piel.\n- Presentación en tubo de 10 g.\n\nComposición:\nTriticum vulgare 150 mg por cada 1 g de crema.\n\nModo de uso:\nUso tópico. Aplique la crema sobre la zona a tratar de la forma y con la frecuencia que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con tubo con 10 g de crema.\n\nAdvertencias:\nUso externo; no se ingiera. Evite el contacto con los ojos. Suspenda su uso y consulte a su médico si aparece irritación o una reacción alérgica, o si la lesión no mejora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Italdermol",
-    "presentacion": "Crema",
+    "fabricante": "Italmex",
+    "presentacion": "Tubo",
     "contenido_neto": 10,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
+    "principio_activo": "Triticum vulgare",
+    "concentracion": "150 mg/g",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad; Uso: Externo"
+    "otros": "Forma farmacéutica: Crema; Regeneradora de pieles lesionadas"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -27,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390911011_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390911011.jpg",
+      "pagina": "https://www.fahorro.com/italdermol-10-g-crema.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1176,
+      "fecha": "2026-09-29",
+      "lado_util": 1089
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/italdermol-10-g-crema.html",
+    "https://www.dermaexpress.com.mx/products/italdermol-crema-7501390911011"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (ITALDERMOL CRA 10G). No se pudo confirmar composición, indicaciones ni fabricante; el precio alto para 10 g sugiere un activo específico (posible receta). Confirmar antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como código de barras en tienda y presentación de 10 g confirmada en el empaque. No se encontró ficha con modo de uso ni advertencias oficiales; el texto es prudente. No se confirmó si requiere receta (una fuente de baja calidad decía que sí).",
+    "notas_imagenes": "1 foto de frente de la caja (tienda, 1176 px), la caja va en horizontal sobre fondo blanco.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

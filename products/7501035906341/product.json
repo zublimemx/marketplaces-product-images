@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NEUTRO B LIQ HID 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Palmolive Neutro Balance 400 ml",
+  "descripcion": "Descripción:\nCrema corporal líquida Palmolive Neutro Balance hidro-equilibrante con vitamina E, en presentación de 400 ml para piel normal. Su fórmula incluye un complejo hidro-equilibrante que ayuda a proteger la piel de los daños ocasionados por el ambiente y a mantener su humectación durante el día.\n\nBeneficios:\n- Humecta la piel y la deja suave y fresca de inmediato.\n- Forma una capa protectora que evita que la humedad de la dermis se altere, manteniendo su balance natural.\n- Con vitamina E y complejo hidro-equilibrante.\n- Consistencia ligera que se absorbe rápidamente sin dejar sensación grasosa.\n- Presentación rendidora de 400 ml para toda la familia.\n\nModo de uso:\nAplique diariamente sobre la piel limpia y seca del cuerpo, con un suave masaje hasta su completa absorción.\n\nPresentación:\nEnvase con 400 ml de crema corporal líquida.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Neutro Balance",
+    "variante": "Hidro-equilibrante con vitamina E",
+    "presentacion": "Envase con crema líquida",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel normal",
+    "otros": "Con vitamina E; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035906341_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035906341_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1561,
+      "fecha": "2026-09-29",
+      "lado_util": 1446
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-liquida-neutro-balance-400-ml.html",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-palmolive-neutro-balance-humectante-400ml",
+    "https://farmaciasmedina.com/detalleProducto/Palmolive-Neutro-Balance-Crema-Corporal-Hidro-equilibrante-Con-Vitamina-E/7501035906341"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio del fabricante devolvió 403. No se confirmaron ingredientes. La forma de aplicación es la habitual de una crema corporal.",
+    "notas_imagenes": "1 foto de tienda (1561 px, envase de frente).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

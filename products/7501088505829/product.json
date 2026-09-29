@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "TROFERIT FLOW JBE 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Troferit Flow Jarabe Dropropizina Ambroxol 3 mg/ml 120 ml",
+  "descripcion": "Descripción:\nTroferit Flow es un jarabe de Chinoin para el aparato respiratorio que combina dropropizina, un antitusivo, con ambroxol, un mucolítico expectorante. Cada mililitro contiene 3 mg de dropropizina y 3 mg de clorhidrato de ambroxol. Esta presentación es el frasco de 120 ml para administración oral.\n\nBeneficios:\n- La dropropizina actúa como antitusivo para calmar la tos.\n- El ambroxol ayuda a fluidificar las secreciones y facilita su expulsión.\n- Dos principios activos en un solo jarabe para el manejo de la tos con secreciones.\n\nComposición:\nCada 100 ml de jarabe contienen dropropizina 0.300 g y clorhidrato de ambroxol 0.300 g, con vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico; consulte las instrucciones anexas en el empaque.\n\nPresentación:\nFrasco con 120 ml de jarabe.\n\nAdvertencias:\nNo lo use si es alérgico a la dropropizina, al ambroxol o a algún componente de la fórmula. Consulte a su médico antes de usarlo durante el embarazo o la lactancia, o en niños. Si la tos persiste o se acompaña de fiebre o dificultad para respirar, acuda con su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Troferit",
+    "fabricante": "Chinoin",
+    "linea": "Troferit Flow",
+    "presentacion": "Jarabe",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dropropizina / Ambroxol",
+    "concentracion": "3 mg/ml / 3 mg/ml",
+    "via_administracion": "Oral",
+    "otros": "Grupo terapéutico: antitusivo y mucolítico; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088505829_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw75726b2e/images/large/7501088505829_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/troferit-flow-jarabe-120ml/MXYZ_7501088505829.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 814,
+      "fecha": "2026-09-29",
+      "lado_util": 754
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/troferit-flow-jarabe-120ml/MXYZ_7501088505829.html",
+    "https://farmaciasmedina.com/detalleProducto/Troferit-Flow-Jarabe-120-Ml-Jarabe-Frasco/7501088505829",
+    "https://www.sanborns.com.mx/producto/192401"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y código); fórmula (dropropizina 0.300 g y ambroxol 0.300 g por 100 ml) leída en el frente del empaque. La condición de venta es contradictoria: una ficha dice venta sin receta y otra fracción IV con receta; se marcó 'Revisar'. Las fichas no traen indicaciones detalladas ni dosis.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias YZA, 1000 px), con la fórmula visible; correcta en producto y presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

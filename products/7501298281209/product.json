@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SEDALMERCK C 20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sedalmerck Paracetamol Cafeína Fenilefrina 20 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck es un medicamento en tabletas de Merck que combina paracetamol, cafeína y clorhidrato de fenilefrina. Está indicado como auxiliar en el tratamiento sintomático de algunas molestias del resfriado común o gripe: dolor, fiebre y congestión nasal. Se presenta en caja con 20 tabletas.\n\nBeneficios:\n- Auxiliar en el alivio del dolor y la fiebre.\n- Ayuda a aliviar la congestión nasal asociada al resfriado común o la gripe.\n- Fórmula combinada en una sola tableta.\n\nComposición:\nCada tableta contiene paracetamol al 90 % equivalente a 500.0 mg de paracetamol, cafeína 50 mg y clorhidrato de fenilefrina 5 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Adultos: tomar una tableta 3 veces al día (cada 8 horas).\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\n- No exceda la dosis recomendada ni lo use por más de 5 días; el paracetamol usado por periodos prolongados puede ocasionar daño hepático.\n- No se use en menores de 14 años ni durante el embarazo y la lactancia.\n- No se use en personas con hipersensibilidad a los componentes, enfermedad cardiaca, gastritis, úlcera péptica, hipertensión arterial, glaucoma o hipertiroidismo.\n- No se use en pacientes en tratamiento con inhibidores de la MAO o hasta 14 días después de suspenderlos.\n- Puede causar insomnio, taquicardia, inquietud, arritmias cardiacas y vómito. No tome bebidas alcohólicas mientras lo use.\n- Consérvese a no más de 30 °C, en lugar seco y protegido de la luz.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sedalmerck",
+    "fabricante": "Merck",
+    "linea": "Sedalmerck",
+    "variante": "Tabletas",
+    "presentacion": "Caja con tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol, cafeína, clorhidrato de fenilefrina",
+    "concentracion": "Paracetamol 500 mg / Cafeína 50 mg / Fenilefrina 5 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 14 años",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298281209_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7a2ebdbc/images/large/7501298281209_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/sedalmerck-20-tabs/MXYZ_7501298281209.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 897,
+      "fecha": "2026-09-29",
+      "lado_util": 830
+    },
+    {
+      "archivo": "7501298281209_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298281209_3.jpg",
+      "pagina": "https://www.fahorro.com/sedalmerck-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1550,
+      "fecha": "2026-09-29",
+      "lado_util": 1436
+    },
+    {
+      "archivo": "7501298281209_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298281209_1.jpg",
+      "pagina": "https://www.fahorro.com/sedalmerck-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1452,
+      "fecha": "2026-09-29",
+      "lado_util": 1345
+    },
+    {
+      "archivo": "7501298281209_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298281209_2.jpg",
+      "pagina": "https://www.fahorro.com/sedalmerck-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1105,
+      "fecha": "2026-09-29",
+      "lado_util": 1024
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sedalmerck-20-tabletas.html",
+    "https://www.yza.mx/sedalmerck-20-tabs/MXYZ_7501298281209.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula, dosis y advertencias leídas de la trasera del empaque. Se eligió Antigripales por la indicación de la etiqueta (resfriado o gripe); Analgésicos sería la alternativa.",
+    "notas_imagenes": "4 fotos de tienda (frente, ángulo y trasera con fórmula), 897 a 1550 px. Se borraron 2 infografías publicitarias.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

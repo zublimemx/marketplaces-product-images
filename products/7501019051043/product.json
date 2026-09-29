@@ -4,20 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "TENA SLIP GRANDE C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales para Adulto Tena Slip Grande 10 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para adulto TENA Slip, talla Grande, en paquete con 10 piezas. TENA es una marca de productos para incontinencia de Essity.\n\nCaracterísticas:\n- Marca: TENA, línea Slip\n- Talla: Grande\n- Uso: adultos\n- Paquete con 10 piezas\n\nPresentación:\nPaquete con 10 pañales desechables talla Grande.\n\nAdvertencias:\nUse la talla adecuada según la medida de cintura y cadera indicada en el empaque. Deseche el producto después de su uso y no lo tire al inodoro.",
+  "titulo": "Pañales para Adulto Tena Slip Maxi Protect Grande 10 Piezas",
+  "descripcion": "Descripción:\nTENA Slip Maxi Protect ProSkin es un pañal desechable para adulto con cintas multi-ajuste, talla Grande (G), para incontinencia con absorción abundante. Cuenta con doble zona absorbente y gel de absorción más rápida, neutraliza los olores y está elaborado con materiales respirables. Cada paquete contiene 10 piezas.\n\nCaracterísticas:\n- Talla Grande (G).\n- Absorción abundante: nivel 9 de 10 en la escala de absorción de la marca.\n- Doble zona absorbente para máxima seguridad y doble barrera anti-escurrimiento.\n- Gel de absorción más rápida y neutralización de olores.\n- Cintas multi-ajuste y elásticos al frente y atrás.\n- Materiales respirables, con vitamina E y extracto de avena (tecnología ProSkin, que cuida y protege la piel).\n- Diseño anatómico.\n\nModo de uso:\nColoque el pañal entre las piernas y ajuste las cintas multi-ajuste de atrás hacia adelante hasta lograr un ajuste cómodo y seguro. Cámbielo con la frecuencia necesaria y mantenga la piel limpia y seca en cada cambio.\n\nPresentación:\nPaquete con 10 pañales para adulto, talla Grande (G).\n\nAdvertencias:\nDeseche el pañal usado en la basura; no lo arroje al inodoro. Suspenda su uso si aparece enrojecimiento o molestia en la piel y consulte a su médico. Consulte también a su médico si la incontinencia es reciente o persistente. Mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "TENA",
     "fabricante": "Essity",
-    "linea": "Slip",
+    "linea": "Slip Maxi Protect ProSkin",
+    "variante": "Pañal para adulto con cintas, absorción abundante",
     "presentacion": "Paquete",
     "contenido_neto": 10,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
     "edad_etapa": "Adultos",
-    "talla": "Grande",
+    "talla": "Grande (G)",
     "genero": "Unisex",
-    "otros": "Formato de venta: Unidad; Tipo: Desechable"
+    "otros": "Tipo: Desechable; Nivel de absorción: 9 de 10; Rango de talla indicado en ficha de tienda: 40-60; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019051043_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/305567-1000-1000/7501019051043.jpg?v=638963163910030000",
+      "pagina": "https://www.lagranbodega.com.mx/tena-slip-grande-10-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1004,
+      "fecha": "2026-09-29",
+      "lado_util": 930
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/panales-para-adulto/13328-cpomprar-tena-panal-slip-grande-talla-40-60-empaque-con-10-panales-incontinencia-precio-7501019051043.html",
+    "https://www.chedraui.com.mx/panales-para-incontinencia-tena-slip-maxi-protect-anatomico-talla-grande-10-piezas-3004928/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto y presentación deducidos del nombre; sin verificar variante exacta (Slip Plus u otra), absorbencia ni rango de tallas. Descripción breve por falta de fuentes.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como EAN en tienda; línea Maxi Protect y características leídas del empaque y de una ficha de tienda. Fabricante (Essity) inferido de la marca TENA, no visto en una ficha. El rango '40-60' de la ficha de tienda no trae unidades, por eso solo aparece en 'otros'.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1004 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

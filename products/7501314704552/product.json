@@ -4,38 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "MICCIL 1MG COMP C 20",
   "nombres_sistema_alternos": [],
-  "titulo": "Miccil 1 mg 20 Comprimidos",
-  "descripcion": "Descripción:\nMiccil 1 mg en presentación de 20 comprimidos.\n\nPresentación:\nCaja con 20 comprimidos de 1 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Miccil Bumetanida 1 mg 20 Tabletas",
+  "descripcion": "Descripción:\nMiccil de IPAL es un diurético de asa que contiene bumetanida, en tabletas de 1 mg. Se utiliza para favorecer la eliminación de líquidos y sales por la orina, siempre bajo indicación y vigilancia del médico.\n\nIndicaciones:\n- Hipertensión arterial\n- Edema por insuficiencia cardiaca congestiva\n- Edema por cirrosis hepática descompensada\n- Edema de origen renal, incluido el síndrome nefrótico\n- Retención de líquidos en el síndrome premenstrual\n\nComposición:\n- Cada tableta contiene bumetanida 1 mg\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico según cada paciente.\n\nPresentación:\n- Caja con 20 tabletas de 1 mg\n\nAdvertencias:\nNo lo use si presenta coma hepático o hipersensibilidad a la bumetanida o a alguno de los componentes de la fórmula. Durante el embarazo, sobre todo en el primer trimestre, el médico debe valorar el riesgo y el beneficio; no se recomienda durante la lactancia. Puede alterar los niveles de sales en sangre, por lo que puede requerir seguimiento médico. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Miccil",
-    "presentacion": "comprimidos",
+    "fabricante": "IPAL",
+    "linea": "Miccil",
+    "presentacion": "Tabletas",
     "contenido_neto": 20,
-    "unidad_contenido": "comprimidos",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
+    "principio_activo": "Bumetanida",
     "concentracion": "1 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Diurético; Requiere receta médica; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704552_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw3001fc60/images/large/7501314704552_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.fahorro.com/miccil-1-mg-oral-20-tabs.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 857,
+      "fecha": "2026-09-29",
+      "lado_util": 791
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/2518-miccil-con-20-comprimidos.html",
+    "https://www.fahorro.com/miccil-1-mg-oral-20-tabs.html",
+    "https://infocode.io/b2b/07501314704552/details"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo, el grupo terapéutico ni el fabricante. Categoría genérica (Otros Medicamentos) y receta por confirmar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el registro de productos (Bumetanida Miccil IPAL, tableta de 1 mg, 20 piezas, hecho en México) y en fichas de tienda. Indicaciones y contraindicaciones tomadas de la ficha de una farmacia mexicana.",
+    "notas_imagenes": "1 foto de tienda de la caja de frente (1000 px originales, 857 px finales).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

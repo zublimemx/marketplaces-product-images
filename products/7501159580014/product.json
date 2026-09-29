@@ -4,22 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SINUBERASE C 48 COMPR 198",
   "nombres_sistema_alternos": [],
-  "titulo": "Sinuberase 48 Comprimidos",
-  "descripcion": "Descripción:\nSinuberase es un medicamento de la marca Sinuberase en comprimidos. Esta presentación es una caja con 48 comprimidos para administración oral. La composición, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Tome los comprimidos con un poco de agua, en la dosis y con la frecuencia que indique su médico o el instructivo.\n\nPresentación:\nCaja con 48 comprimidos.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Sinuberase Bacilos Lácticos 48 Comprimidos",
+  "descripcion": "Descripción:\nSinuberase es un medicamento en comprimidos a base de bacilos lácticos (esporas de Lactobacillus sporogenes, también conocido como Bacillus coagulans), elaborado por Sanofi. Cada comprimido aporta 1x10^6 UFC. Según su etiqueta, restaura el equilibrio de la flora intestinal alterado por diarrea, infecciones intestinales, intoxicaciones, trastornos de la dieta, quimioterapia y uso de antibióticos. Se presenta en una caja con 48 comprimidos de administración oral.\n\nBeneficios:\n- Restaura el equilibrio de la flora intestinal alterado por diarrea, infecciones intestinales, intoxicaciones, trastornos de la dieta, quimioterapia y uso de antibióticos.\n- Combate la diarrea causada por rotavirus y auxilia en la diarrea por desequilibrio de la flora intestinal.\n- Reduce el tiempo y la aparición de los cuadros diarreicos.\n- Contribuye a la absorción adecuada de nutrientes.\n- Estimula las defensas naturales del organismo protegiendo contra ataques de microbios dañinos.\n- Puede tomarse junto o después de los antibióticos.\n\nComposición:\nCada comprimido contiene: Lactospore (Lactobacillus sporogenes) 1x10^6 UFC, excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. Disuélvase lentamente en la boca. Dosis máxima: lactantes, 1 comprimido triturado 3 veces al día; niños, 2 comprimidos 3 a 4 veces al día; adultos, 4 comprimidos 4 a 6 veces al día.\n\nPresentación:\nCaja con 48 comprimidos.\n\nAdvertencias:\nNo debe administrarse cuando el paciente haya manifestado alergia a los componentes de la fórmula. No exceda la dosis recomendada. Si persisten las molestias consulte a su médico. Consérvese a no más de 30 °C y en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Sinuberase",
+    "fabricante": "Sanofi-Aventis Winthrop",
+    "variante": "Bacilos lácticos",
     "presentacion": "Comprimidos",
     "contenido_neto": 48,
     "unidad_contenido": "comprimidos",
     "unidades_por_envase": 48,
+    "principio_activo": "Lactobacillus sporogenes (Lactospore)",
+    "concentracion": "1x10^6 UFC por comprimido",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "registro_sanitario": "4391 SSA VI",
+    "otros": "Formato de venta: Caja; Probiótico; Puede tomarse con antibióticos"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM457814",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501159580014_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159580014_2.jpg",
+      "pagina": "https://www.fahorro.com/sinuberase-probioticos-48-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1101,
+      "fecha": "2026-09-29",
+      "lado_util": 1020
+    },
+    {
+      "archivo": "7501159580014_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501159580014_1.jpg",
+      "pagina": "https://www.fahorro.com/sinuberase-probioticos-48-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1265,
+      "fecha": "2026-09-29",
+      "lado_util": 1172
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/sinuberase-probioticos-48-comprimidos.html",
+    "https://www.sanborns.com.mx/producto/184519/sinuberase-ayuda-a-aliviar-la-diarrea-48-comprimidos-2b-probioticos"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo identificar la composición; la categoría de Respiratorios Venta Libre se dedujo solo por el nombre (posible uso en senos paranasales) y puede no ser correcta. Verificar composición, categoría y receta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos tomados de la etiqueta del empaque (GTIN 7501159580014 visible). Hay un empaque más nuevo (Probióticos, colitis) con el mismo GTIN que menciona Bacillus coagulans; una tienda lo lista como Bacillus clausii, dato que no coincide con la etiqueta.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro): frente angulado y panel posterior con fórmula y código de barras; se quitó una imagen compuesta con banner y otro diseño de empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

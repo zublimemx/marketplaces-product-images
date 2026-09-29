@@ -4,17 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "FEBRAX SUSP 100ML MARZO 27 72",
   "nombres_sistema_alternos": [],
-  "titulo": "Febrax Suspensión 100 ml",
-  "descripcion": "Descripción:\nFebrax es un medicamento de la marca del mismo nombre en presentación de suspensión, frasco con 100 ml. La información detallada de composición e indicaciones debe consultarse en el empaque del producto.\n\nPresentación:\n- Suspensión\n- Contenido: 100 ml\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Febrax Naproxeno Paracetamol Suspensión 100 ml",
+  "descripcion": "Descripción:\nFebrax es una suspensión oral con naproxeno sódico y paracetamol, sabor plátano, de Siegfried Rhein. Sirve como auxiliar en el alivio del dolor, la fiebre y la inflamación. Se presenta en un frasco con polvo para preparar 100 ml de suspensión.\n\nBeneficios:\n- Auxiliar en el alivio del dolor, la fiebre y la inflamación.\n- Coadyuvante para disminuir molestias como ardor, inflamación, dolor y fiebre relacionados con infecciones de oídos y vías respiratorias.\n- Para el manejo del dolor por golpes, caídas o mala postura, dolor de cabeza o muscular de leve a moderado y dolor por tratamientos o problemas dentales.\n\nFórmula:\nEl frasco con polvo contiene naproxeno sódico 2.5 g, paracetamol 2.0 g y excipientes cbp 40.0 g. Una vez hecha la mezcla, cada cucharada de 5 ml contiene el equivalente a 125 mg de naproxeno sódico y 100 mg de paracetamol (25 mg y 20 mg por ml).\n\nModo de uso:\nVía oral. Niños de 2 a 3 años: media cucharada de 2.5 ml cada 8 horas. Niños mayores de 3 años: 1 cucharada de 5 ml cada 8 horas, junto con los alimentos. No tome la suspensión por más de 5 días. Agítese antes de usarse.\n\nPresentación:\nCaja con 1 frasco con polvo para preparar 100 ml de suspensión.\n\nAdvertencias:\nNo se use en el embarazo ni en la lactancia ni en menores de 2 años. No se use en caso de hipersensibilidad o alergia al ácido acetilsalicílico, naproxeno, paracetamol, anticoagulantes orales u otros antiinflamatorios y analgésicos no esteroideos; insuficiencia hepática o renal, agranulocitopenia, gastritis aguda, estados cianóticos, anemia, úlcera o sangrado gastrointestinal. Tampoco en pacientes con acidez estomacal, cirrosis hepática, restricción de sodio, insuficiencia cardiaca o enfermedad renal preexistente, ni en ancianos. Puede causar mareo, somnolencia, insomnio, malestar de estómago, vómito, urticaria, zumbido de oídos, vértigo y erupciones en la piel. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Febrax",
-    "presentacion": "Suspensión",
+    "fabricante": "Siegfried Rhein",
+    "variante": "Suspensión sabor plátano",
+    "presentacion": "Frasco con polvo para preparar suspensión",
     "contenido_neto": 100,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Naproxeno sódico y paracetamol",
+    "concentracion": "25 mg/20 mg por ml (125 mg/100 mg por 5 ml)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños mayores de 2 años",
+    "sabor_aroma": "Plátano",
+    "otros": "Forma farmacéutica: Polvo para suspensión oral; Analgésico, antipirético y antiinflamatorio"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194673",
@@ -26,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407061_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407061_5.jpg",
+      "pagina": "https://www.fahorro.com/febrax-oral-100-ml-suspension.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1398,
+      "fecha": "2026-09-29",
+      "lado_util": 1295
+    },
+    {
+      "archivo": "7501300407061_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407061_1.jpg",
+      "pagina": "https://www.fahorro.com/febrax-oral-100-ml-suspension.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1365,
+      "fecha": "2026-09-29",
+      "lado_util": 1264
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/febrax-suspension-naproxeno-paracetamol-2/",
+    "https://www.fahorro.com/febrax-oral-100-ml-suspension.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, concentración y fabricante no confirmados; la categoría Analgésicos es una inferencia por el nombre (probable antipirético). Verificar y ampliar la descripción con la ficha del fabricante.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Texto basado en la etiqueta del empaque, que no trae leyenda de venta con receta; se marcó 'No' pero conviene confirmarlo. Hay un empaque anterior sin la leyenda 'sabor plátano' en la misma referencia.",
+    "notas_imagenes": "2 fotos (tienda, 1398 y 1365 px): frente del empaque actual (25 mg/20 mg por ml, sabor plátano) y reverso con la fórmula y las indicaciones. Se descartaron otras fotos del empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

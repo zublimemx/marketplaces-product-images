@@ -4,18 +4,18 @@
   "linea": "Mark",
   "nombre_sistema": "C DLGATE LUMIN W COHIT BRILL 66MLN",
   "nombres_sistema_alternos": [],
-  "titulo": "Pasta Dental Colgate Luminous White Brillante 66 ml",
-  "descripcion": "Descripción:\nColgate Luminous White es una crema dental de la línea blanqueadora de Colgate, formulada para ayudar a remover las manchas superficiales de los dientes y a mantener su brillo con el cepillado diario. Esta presentación en tubo contiene 66 ml.\n\nBeneficios:\n- Ayuda a remover manchas superficiales en los dientes.\n- Contribuye a una sonrisa más luminosa con el uso diario.\n- Tubo de 66 ml, práctico para el hogar o para llevar de viaje.\n\nModo de uso:\nColoque sobre el cepillo dental una cantidad de crema dental del tamaño de un chícharo y cepille todos los dientes por al menos dos minutos, mínimo dos veces al día, de preferencia después de cada comida. Enjuague la boca con agua.\n\nPresentación:\nTubo con 66 ml de crema dental.\n\nAdvertencias:\nUso externo en la cavidad bucal. No se ingiera. Si se ingiere accidentalmente una cantidad mayor a la usada para cepillarse, busque ayuda médica. En niños menores de 6 años, use solo una cantidad mínima del tamaño de un chícharo y supervise el cepillado. Mantenga fuera del alcance de los niños.",
+  "titulo": "Crema Dental Colgate Luminous White Brilliant 66 ml",
+  "descripcion": "Descripción:\nCrema dental blanqueadora Colgate Luminous White Brilliant, de Colgate-Palmolive, formulada para lograr dientes más blancos y brillantes. Ayuda a evitar la formación de manchas amarillas ocasionadas por malos hábitos orales y contribuye a una sonrisa más luminosa y a un aliento fresco. Forma parte de la línea Luminous White de Colgate, pensada para el blanqueamiento y el brillo de la sonrisa.\n\nBeneficios:\n- Remueve hasta el 100% de las manchas superficiales, según indica el empaque.\n- Ayuda a lograr dientes más blancos y brillantes con el uso diario.\n- Contribuye al cuidado de la salud bucal y a mantener el aliento fresco.\n\nModo de uso:\nCepille sus dientes con una porción de crema dental hasta tres veces al día, después de cada comida, o según la recomendación de su odontólogo.\n\nPresentación:\nTubo con 66 ml de crema dental.\n\nAdvertencias:\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
     "linea": "Luminous White",
-    "variante": "Brillante",
+    "variante": "Brilliant White",
     "presentacion": "Crema dental",
     "contenido_neto": 66,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Unidad; Función: Blanqueadora"
+    "otros": "Función: Blanqueadora; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +29,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546698137_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546698137_1.jpg",
+      "pagina": "https://www.fahorro.com/pasta-dental-colgate-luminous-white-brilliant-white-66-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1663,
+      "fecha": "2026-09-29",
+      "lado_util": 1538
+    },
+    {
+      "archivo": "7509546698137_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546698137_2_1.jpg",
+      "pagina": "https://www.fahorro.com/pasta-dental-colgate-luminous-white-brilliant-white-66-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1651,
+      "fecha": "2026-09-29",
+      "lado_util": 1529
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pasta-dental-colgate-luminous-white-brilliant-white-66-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); nombre del sistema abreviado (C DLGATE LUMIN W COHIT BRILL 66MLN). No se logró descifrar COHIT (podría ser parte del nombre de la variante o de otra sub-línea) y se asumió Brillante por BRILL; confirmar el nombre exacto de la variante y el sabor en el empaque. Fabricante inferido por el prefijo del GTIN 7509546. Se omitieron datos de flúor y sabor por no poder confirmarlos.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el SKU de una farmacia (Colgate Luminous White Brilliant White 66 ml). El COHIT del nombre del sistema no pudo descifrarse y se ignoró. No se confirmaron sabor ni contenido de flúor, por eso se omiten; la lista de ingredientes de la tienda era parcial. Sitio oficial de Colgate México no consultado.",
+    "notas_imagenes": "2 fotos de tienda (caja de frente y reverso) del servidor de Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

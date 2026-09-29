@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "TRIMEBUTINA /SIMETICONA 200MG/75MG C/24 TAB MAVER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Trimebutina Simeticona 200 mg/75 mg Maver 24 Comprimidos",
+  "descripcion": "Descripción:\nTrimebutina/Simeticona de Laboratorios Maver es un medicamento en comprimidos de uso gastrointestinal que combina trimebutina 200 mg y simeticona 75 mg. Está formulado para apoyar el cuidado del sistema digestivo y el manejo de molestias gastrointestinales. Esta presentación es la caja con 24 comprimidos para administración oral.\n\nBeneficios:\n- La trimebutina contribuye a regular la función intestinal.\n- La simeticona ayuda a disminuir la distensión abdominal.\n- Dos principios activos en un solo comprimido de 200 mg/75 mg.\n\nComposición:\nCada comprimido contiene trimebutina 200 mg y simeticona 75 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico tratante.\n\nPresentación:\nCaja con 24 comprimidos de 200 mg/75 mg.\n\nAdvertencias:\nNo se automedique. Conservar a no más de 30 °C y mantener el envase bien cerrado. Consulte a su médico si está embarazada o en periodo de lactancia, o ante cualquier efecto no deseado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Maver",
+    "fabricante": "Laboratorios Maver",
+    "linea": "Genérico",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 24,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 24,
+    "principio_activo": "Trimebutina / Simeticona",
+    "concentracion": "200 mg / 75 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: digestivo, antiespasmódico y antiflatulento; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": "MLM62152576"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009749155_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Trimebutina_d083a4fc-ac0b-438e-a5dd-e7288fc06ef2.jpg?v=1776465643",
+      "pagina": "https://sanorim.mx/products/trimebutina-simeticona-200mg-75mg-24-comprimidos-maver",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1129,
+      "fecha": "2026-09-29",
+      "lado_util": 1046
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://sanorim.mx/products/trimebutina-simeticona-200mg-75mg-24-comprimidos-maver",
+    "https://distribuidorasanantonio.com/producto/trimebutina-simeticona-maver-200mg-75mg-c-24-comprimidos-7502009749155/",
+    "https://www.mercadolibre.com.mx/trimebutina-simeticona-200mg75mg-con-24-comprimidos-maver/p/MLM62152576"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de distribuidor; presentación de 24 comprimidos igual al nombre. El empaque dice 'comprimido' (algunas tiendas lo llaman cápsulas). Se marcó receta 'Sí' porque la ficha lo presenta como medicamento de fracción IV; verificar si se desea tratar como venta libre. Catálogo ML tomado del título del resultado de búsqueda (no se abrió la página).",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Sanorim, 1200 px), correcta en concentración y contenido.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

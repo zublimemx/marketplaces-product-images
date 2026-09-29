@@ -5,7 +5,7 @@
   "nombre_sistema": "CONTOURS PLUS 50 TIRAS",
   "nombres_sistema_alternos": [],
   "titulo": "Tiras Reactivas Contour Plus Glucosa 50 Piezas",
-  "descripcion": "Descripción:\nLas tiras reactivas Contour Plus son tiras para la medición de glucosa en sangre capilar, de la línea Contour de Ascensia Diabetes Care. Esta caja incluye 50 tiras reactivas para el automonitoreo de la glucosa en personas con diabetes, bajo la orientación de su médico.\n\nCaracterísticas:\n- Tiras reactivas de glucosa en sangre Contour Plus, con 50 piezas.\n- Tecnología sin codificación: no es necesario introducir ni confirmar un código antes de medir.\n- Requieren una muestra pequeña de sangre obtenida de la yema del dedo.\n- Se usan con medidores de glucosa compatibles de la línea Contour; verifique la compatibilidad de su medidor en el instructivo.\n\nModo de uso:\nLávese y séquese bien las manos. Inserte una tira reactiva en el medidor compatible, obtenga una gota de sangre con el dispositivo de punción y acerque la punta de la tira a la gota hasta que el medidor indique que la muestra es suficiente. Lea el resultado en la pantalla y deseche la tira usada; cada tira es de un solo uso.\n\nPresentación:\nCaja con 50 tiras reactivas.\n\nAdvertencias:\nProducto para uso diagnóstico in vitro y de uso externo. No reutilice las tiras ni las use después de la fecha de caducidad. Mantenga los envases bien cerrados y almacénelos en un lugar fresco y seco. No cambie su tratamiento con base solo en el resultado de una medición; consulte a su médico. Mantenga fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nTiras reactivas CONTOUR PLUS de Ascensia Diabetes Care para la determinación de glucosa en sangre capilar. Son compatibles con los glucómetros CONTOUR PLUS y CONTOUR PLUS ELITE y forman parte del sistema para el automonitoreo de glucosa en personas con diabetes.\n\nCaracterísticas:\n- Requieren una muestra de sangre pequeña, de apenas 0.6 µl.\n- Tecnología Segunda-Oportunidad de Muestra: permite aplicar más sangre en la misma tira cuando la primera muestra no fue suficiente.\n- Diseñadas para absorber fácilmente la muestra de sangre.\n- Autocodificación: no requieren introducir un código.\n- Según el fabricante, sus resultados no se ven afectados por muchas sustancias de interferencia comunes de la sangre (como colesterol o hemoglobina) ni por tratamientos como paracetamol o ibuprofeno.\n\nModo de uso:\nInserte una tira en el glucómetro compatible, aplique la gota de sangre en el extremo de la tira y lea el resultado en la pantalla. Consulte el instructivo de uso incluido en el empaque.\n\nPresentación:\nCaja con 50 tiras reactivas. No incluye glucómetro.\n\nAdvertencias:\n- Consulte a su médico.\n- Lea las instrucciones de uso antes de utilizar el producto.\n- Utilice las tiras solo con los glucómetros compatibles y respete la fecha de caducidad indicada en el envase.",
   "ficha": {
     "marca": "Contour",
     "fabricante": "Ascensia Diabetes Care",
@@ -15,7 +15,8 @@
     "contenido_neto": 50,
     "unidad_contenido": "tiras",
     "unidades_por_envase": 50,
-    "otros": "Tipo de muestra: Sangre capilar; Requiere codificación: No; Formato de venta: Caja"
+    "registro_sanitario": "0774R2014 SSA",
+    "otros": "Compatible con glucómetros Contour Plus y Contour Plus Elite; Muestra de sangre: 0.6 µl; Autocodificación: Sí; Tecnología Segunda-Oportunidad de Muestra; No incluye glucómetro; Formato de venta: Caja"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "5016003770609_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/5/0/5016003770609.jpg",
+      "pagina": "https://production-media.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1126,
+      "fecha": "2026-09-29",
+      "lado_util": 1043
+    },
+    {
+      "archivo": "5016003770609_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/5/0/5016003770609_1.jpg",
+      "pagina": "https://production-media.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1231,
+      "fecha": "2026-09-29",
+      "lado_util": 1140
+    }
+  ],
+  "url_oficial": "https://www.ascensia.com.mx/products/contour-plus-strips/",
+  "fuentes": [
+    "https://www.ascensia.com.mx/products/contour-plus-strips/",
+    "https://farmalisto.com.mx/tiras-reactivas-y-lancetas/34854-contour-plus-sensores-c-50-s-5016003770609.html",
+    "https://curitek.com/producto/contour-plus-50-tiras-reactivas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema y conocimiento general (el prefijo 5016003 del GTIN corresponde a Bayer/Ascensia). Verificar compatibilidad con medidores, el volumen de muestra y si la caja de 50 viene en 2 envases de 25. No se usó la categoría de Farmacia porque las tiras de glucosa se publican en Medidores de Glucosa.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la URL de una farmacia (Contour Plus sensores c/50) y en la ficha oficial de Ascensia México. El modo de uso es general; validar con el instructivo del empaque. Se publicó en Medidores de Glucosa porque no hay categoría específica para tiras reactivas.",
+    "notas_imagenes": "2 fotos de tienda (caja de 50 tiras de frente y en ángulo, 1600 px) del servidor de Farmacias del Ahorro. Las imágenes oficiales de Ascensia eran de 500 px o mostraban una sola tira y se descartaron.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

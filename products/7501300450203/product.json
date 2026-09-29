@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "BACTRIM 400 80MG C30 TAB 130",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Bactrim Sulfametoxazol Trimetoprima 400/80 mg 30 Tabletas",
+  "descripcion": "Descripción:\nBactrim tabletas, de Weser Pharma, combina sulfametoxazol de 400 mg y trimetoprima de 80 mg. Es un antibiótico indicado para el tratamiento de infecciones causadas por bacterias sensibles, siempre bajo prescripción médica.\n\nCaracterísticas:\n- Combinación de dos antibacterianos (sulfametoxazol y trimetoprima).\n- Tabletas de administración oral.\n- Caja con 30 tabletas.\n- Indicado en infecciones respiratorias y del oído (bronquitis crónica, otitis media, neumonía), del tracto urogenital y gastrointestinales (fiebre tifoidea, diarrea del viajero, cólera), y en otras como brucelosis, osteomielitis y toxoplasmosis, según criterio médico.\n\nComposición:\nCada tableta contiene sulfametoxazol 400 mg y trimetoprima 80 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento indicado aunque los síntomas mejoren.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo se administre a personas con alergia a las sulfonamidas, a la trimetoprima o a algún componente de la fórmula. Evite la automedicación. Este antibiótico requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bactrim",
+    "fabricante": "Weser Pharma",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Sulfametoxazol, Trimetoprima",
+    "concentracion": "400 mg / 80 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta; Antibiótico; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300450203_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300450203_1_1.jpg",
+      "pagina": "https://www.benavides.com.mx/bactrim-400-mg-80-mg-sulfametoxazol-trimetoprima-30-ud-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1543,
+      "fecha": "2026-09-29",
+      "lado_util": 1428
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/bactrim-400-mg-80-mg-sulfametoxazol-trimetoprima-30-ud-tabletas",
+    "https://astuto.la/productos/7501300450203/bactrim-400-mg-80-mg-caja-con-30-tabletas--rx2"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sin registro sanitario visible. Las advertencias son las generales de un antibiótico de sulfonamida; no se encontró prospecto completo.",
+    "notas_imagenes": "1 foto de frente (1543 px) de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

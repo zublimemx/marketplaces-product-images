@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "DERMAN CRA 50 GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Derman Crema Antimicótica 50 g",
+  "descripcion": "Descripción:\nDerman crema es un medicamento de uso cutáneo con efecto antimicótico (contra hongos) y antiséptico, a base de ácido undecilénico y undecilenato de zinc. Se presenta en tubo con 50 g y está indicado en el tratamiento de las dermatofitosis, infecciones por hongos que afectan piel, cabello y uñas, especialmente el pie de atleta.\n\nBeneficios:\n- Efecto antimicótico y antiséptico, que impide el desarrollo de microorganismos generadores de infecciones.\n- Indicado en tiña pedis (hongos en los pies), tiña cruris (hongos en la ingle) y tiña corporis (hongos en otras partes del cuerpo).\n- Ayuda a controlar el mal olor, la sudoración excesiva, la comezón y las grietas cutáneas propias del pie de atleta.\n- Por su forma farmacéutica, humecta y suaviza la piel en la etapa de sequedad y descamación.\n\nComposición:\nCada 100 g contienen ácido undecilénico y undecilenato de zinc equivalentes a 20.36 g de ácido undecilénico total. Excipiente cbp 100 g.\n\nModo de uso:\nVía cutánea. Lave y seque los pies, y aplique Derman sobre la piel afectada 3 veces al día durante 4 semanas. La aplicación debe continuar al menos una semana después de la desaparición de los signos y síntomas.\n\nPresentación:\nCaja con tubo con 50 g de crema.\n\nAdvertencias:\n- No se aplique en mucosas ni por vía oftálmica. No ingerible.\n- No usar en piel irritada, ampollas, heridas profundas y abiertas, ni en niños menores de 2 años. No se use en el embarazo ni la lactancia.\n- Si provoca irritación excesiva, suspenda la aplicación. En pacientes con diabetes o mala circulación su uso debe ser bajo supervisión médica.\n- Conservar a no más de 25 °C en su envase original.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Derman",
+    "linea": "Derman F. F.",
+    "variante": "Crema antimicótica, antiséptica y desodorante",
+    "presentacion": "Tubo con crema",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido undecilénico, undecilenato de zinc",
+    "concentracion": "20.36 g de ácido undecilénico total por 100 g",
+    "via_administracion": "Cutánea",
+    "edad_etapa": "Mayores de 2 años",
+    "registro_sanitario": "38933 SSA VI",
+    "otros": "Formato de venta: Caja con tubo; Conservar a no más de 25 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "354312225027_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225027.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1259,
+      "fecha": "2026-09-29",
+      "lado_util": 1166
+    },
+    {
+      "archivo": "354312225027_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225027_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1297,
+      "fecha": "2026-09-29",
+      "lado_util": 1201
+    },
+    {
+      "archivo": "354312225027_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225027_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1179,
+      "fecha": "2026-09-29",
+      "lado_util": 1092
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/crema-derman-tubo-con-50-g/p",
+    "https://farmaciagloria.mx/Antimicoticos/1130-derman-crema-con-50-g.html",
+    "https://prixz.com/c/derman-crema-50g-1-tubo-2-5-100g/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Información y registro (38933 SSA VI, venta libre) leídos de la trasera del empaque. Se desconoce el fabricante con certeza. El GTIN es de 12 dígitos en el sistema y en las tiendas aparece sin el 0 inicial.",
+    "notas_imagenes": "3 fotos de tienda (1179 a 1297 px: frente, trasera con fórmula y registro, ángulo). La búsqueda de imágenes se hizo con el GTIN sin cero inicial.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

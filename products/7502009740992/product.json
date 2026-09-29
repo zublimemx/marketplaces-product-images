@@ -4,29 +4,79 @@
   "linea": "Farma",
   "nombre_sistema": "CLAMOXIN 500 125 MG C10 AMOXI A CLAV MAVER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Clamoxin Amoxicilina Ác. Clavulánico 500/125 mg 10 Tabletas",
+  "descripcion": "Descripción:\nClamoxin, de Laboratorios Maver, combina amoxicilina de 500 mg y ácido clavulánico de 125 mg. Es un antibiótico de amplio espectro indicado en infecciones del tracto respiratorio (otitis media, sinusitis, faringoamigdalitis, bronquitis, neumonía), del tracto urinario (cistitis, uretritis, pielonefritis) y de la piel y los tejidos blandos causadas por microorganismos sensibles, siempre bajo prescripción médica.\n\nCaracterísticas:\n- Combinación de una penicilina (amoxicilina) con un inhibidor de betalactamasas (ácido clavulánico).\n- Tabletas de administración oral.\n- Caja con frasco con 10 tabletas.\n\nComposición:\nCada tableta contiene amoxicilina 500 mg y ácido clavulánico 125 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento indicado aunque los síntomas mejoren.\n\nPresentación:\nCaja con un frasco con 10 tabletas de 500 mg/125 mg.\n\nAdvertencias:\nNo se administre a personas con alergia a las penicilinas o a otros antibióticos betalactámicos. Evite la automedicación. Este antibiótico requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Clamoxin",
+    "fabricante": "Maver",
+    "presentacion": "Caja con frasco con 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Amoxicilina, Ácido clavulánico",
+    "concentracion": "500 mg / 125 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta; Antibiótico; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502009740992_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7502009740992_d5efee7c-5010-410d-8bbd-4b523fce7fa8.jpg?v=1701390758&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/13075",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 882,
+      "fecha": "2026-09-29",
+      "lado_util": 817
+    },
+    {
+      "archivo": "7502009740992_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/amoxicilina_acido_clavulanico_500_125_mg_con_10_tabletas_clamoxin_7502009740992_1_36136964-bca3-4b2d-8780-c7bfb317d2ed.jpg?v=1757127340",
+      "pagina": "https://farmaciasanjorge.com/products/13075",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 679,
+      "fecha": "2026-09-29",
+      "lado_util": 629
+    },
+    {
+      "archivo": "7502009740992_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/06/imgi_31_clamoxin-amox-clav-500mg-c-10-tab-maver-1.png",
+      "pagina": "https://farmaciasanjorge.com/products/13075",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 546,
+      "fecha": "2026-09-29",
+      "lado_util": 505
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://phemedica.com.mx/product/clamoxin-amoxicilinaacido-clavulanico-500-125-mg-c-10-tabs-maver/",
+    "https://farmaciaherrera.com.mx/products/amoxicilina-ac-clav-clamoxin-500-125-mg-con-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sin registro sanitario visible. Las advertencias son las generales de un antibiótico betalactámico; no se encontró prospecto completo.",
+    "notas_imagenes": "3 fotos de tienda (546 a 882 px): frasco con caja y dos ángulos de la caja; la tercera es de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

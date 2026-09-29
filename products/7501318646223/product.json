@@ -4,20 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "CANESTEN V OVULOS C/3",
   "nombres_sistema_alternos": [],
-  "titulo": "Canesten V Clotrimazol 3 Óvulos Vaginales",
-  "descripcion": "Descripción:\nCanesten V de Bayer es un antimicótico vaginal cuyo principio activo es el clotrimazol, en óvulos para aplicar por vía vaginal. Se utiliza para el tratamiento de la candidiasis vaginal (infección por hongos), cuyos síntomas incluyen comezón, ardor y flujo.\n\nModo de uso:\nVía vaginal. Introduzca el óvulo lo más profundo posible en la vagina, de preferencia por la noche al acostarse, durante el número de días indicado en el empaque o por su médico.\n\nPresentación:\nCaja con 3 óvulos vaginales.\n\nAdvertencias:\nNo lo use si es alérgica al clotrimazol o a alguno de los componentes. Durante el embarazo consulte a su médico antes de usarlo. Suspenda su uso si aparece irritación intensa. Si los síntomas no mejoran o reaparecen, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Canesten V Clotrimazol 200 mg 3 Óvulos Vaginales",
+  "descripcion": "Descripción:\nCanesten V de Bayer es un antimicótico de amplio espectro en óvulos para aplicación vaginal, con clotrimazol como principio activo. Está indicado en infecciones vulvovaginales causadas por hongos y levaduras, en especial Candida albicans y Candida glabrata, y ayuda a aliviar la comezón, el ardor y la irritación de los genitales externos asociados con una infección vaginal. Es un esquema corto de 3 días y el empaque incluye 3 óvulos con instrucciones anexas.\n\nBeneficios:\n- Alivio de los síntomas de infección vaginal causada por hongos (candidiasis): comezón, ardor, irritación, flujo, inflamación y dolor.\n- Tratamiento fácil de usar, en esquema de 3 días.\n- Antimicótico de amplio espectro.\n\nComposición:\nCada óvulo contiene 200 mg de clotrimazol y excipientes.\n\nModo de uso:\nVía vaginal. Introduzca el óvulo lo más profundo posible en la vagina, de preferencia por la noche al acostarse, durante el número de días indicado en el empaque. Siga las instrucciones anexas.\n\nPresentación:\nCaja con 3 óvulos vaginales de 200 mg.\n\nAdvertencias:\nNo lo use si es alérgica al clotrimazol o a alguno de los componentes de la fórmula. Durante el embarazo y la lactancia consulte a su médico antes de usarlo. Si los síntomas no mejoran después de 3 días o reaparecen, consulte a su médico. Conservar en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Canesten",
-    "fabricante": "Bayer",
+    "fabricante": "Bayer de México",
     "linea": "Canesten V",
+    "variante": "3 días",
     "presentacion": "óvulos vaginales",
     "contenido_neto": 3,
     "unidad_contenido": "óvulos",
     "unidades_por_envase": 3,
     "principio_activo": "Clotrimazol",
+    "concentracion": "200 mg por óvulo",
     "via_administracion": "Vaginal",
     "genero": "Mujer",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Esquema de tratamiento: 3 días; Formato de venta: unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318646223_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4771cf45/images/large/7501318646223_1.jpg",
+      "pagina": "https://www.yza.mx/canesten-v-3-dias-200mg-3-ovulos/MXYZ_7501318646223.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1038,
+      "fecha": "2026-09-29",
+      "lado_util": 962
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/canesten-v-3-dias-200mg-3-ovulos/MXYZ_7501318646223.html",
+    "https://sanorim.mx/products/canesten-v-clotrimazol-caja-con-3-ovulos",
+    "https://wecarepharma.mx/products/canesten-v-ovulos-200mg-con-3-clotrimazol"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. No se conoce la concentración por óvulo de esta presentación de 3 (no se puso en la ficha ni en el título); confirmarla. Categoría alternativa equivalente: Antimicóticos (MLM194690).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (Canesten V 3 días, 200 mg, 3 óvulos, Bayer). Categoría alternativa equivalente: Antimicóticos (MLM194690).",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1038 px). Se descartó una segunda foto casi idéntica.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

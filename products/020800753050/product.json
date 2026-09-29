@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL 236ML ORIGINAL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pepto-Bismol Suspensión Sabor Original 236 ml",
+  "descripcion": "Descripción:\nPepto-Bismol suspensión sabor original, de Procter & Gamble, en frasco de 236 ml. Contiene subsalicilato de bismuto y alivia los síntomas de la acidez, la indigestión, el malestar estomacal, la náusea y la diarrea.\n\nBeneficios:\n- Alivia 5 síntomas digestivos: acidez, indigestión, malestar estomacal, náusea y diarrea.\n- Suspensión líquida de administración oral.\n- Sabor original.\n- Presentación de 236 ml.\n\nComposición:\nSubsalicilato de bismuto 1.75 g por cada 100 ml de suspensión.\n\nModo de uso:\nVía oral. Siga las instrucciones de dosificación que aparecen en el empaque o las que indique su médico.\n\nPresentación:\nFrasco con 236 ml de suspensión sabor original.\n\nAdvertencias:\nNo se administre a personas con alergia al bismuto, a los salicilatos o a cualquier componente de la fórmula. Evite el consumo de alcohol durante el tratamiento. Durante el embarazo y la lactancia consulte a su médico antes de usarlo. Puede oscurecer temporalmente la lengua y las heces. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "variante": "Sabor original",
+    "presentacion": "Frasco con suspensión",
+    "contenido_neto": 236,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "1.75 g / 100 ml",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Original",
+    "registro_sanitario": "30310 SSA VI",
+    "otros": "Forma farmacéutica: suspensión; Formato de venta: frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "020800753050_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/2/0/20800753050.jpg",
+      "pagina": "https://www.farmaciasguadalajara.com/medicina/antidiarreicos/pepto-bismol-1.75gr-100ml-suspension-sabor-original--236-ml.-897558.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1192,
+      "fecha": "2026-09-29",
+      "lado_util": 1104
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmaciasguadalajara.com/medicina/antidiarreicos/pepto-bismol-1.75gr-100ml-suspension-sabor-original--236-ml.-897558.html",
+    "https://prixz.com/c/pepto-bismol-suspension-236-ml/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (UPC); se buscó con el 0 inicial. Los 5 síntomas se leen en la etiqueta y en la imagen de la marca; el registro sanitario proviene de una ficha de farmacia. El aviso de oscurecimiento de lengua y heces es información general del subsalicilato de bismuto.",
+    "notas_imagenes": "1 foto de frente (1192 px) de tienda; se descartaron 3 imágenes publicitarias con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ASPIRINA 500MG C80 TAB BAYER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aspirina 500 mg 80 Tabletas Caja Expendedora",
+  "descripcion": "Descripción:\nAspirina de Bayer en tabletas de 500 mg de ácido acetilsalicílico, en caja expendedora con 80 tabletas (8 envases de burbuja con 10 tabletas cada uno). Es uno de los analgésicos más usados para aliviar el dolor de cabeza y los dolores corporales, y ayuda en el alivio de la fiebre.\n\nBeneficios:\n- Ayuda en el alivio del dolor y la fiebre.\n- Ayuda en el alivio de dolores de cabeza, de cuello y hombros.\n- Acción analgésica, antiinflamatoria y antipirética.\n- Presentación de 80 tabletas en envases de burbuja de 10 tabletas, práctica para tener a la mano.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 500 mg.\n\nModo de uso:\nVía oral. Niños de 14 años en adelante y adultos: tomar de 1 a 2 tabletas cada 4 a 8 horas, sin exceder 8 tabletas en 24 horas y por no más de 3 a 5 días. Adultos mayores: 1 tableta cada 6 horas, sin exceder 4 tabletas en 24 horas.\n\nPresentación:\nCaja expendedora con 80 tabletas (8 envases de burbuja con 10 tabletas cada uno).\n\nAdvertencias:\n- Si persisten las molestias, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer",
+    "linea": "Aspirina",
+    "variante": "500 mg",
+    "presentacion": "Caja expendedora con tabletas en envases de burbuja",
+    "contenido_neto": 80,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 80,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "500 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños de 14 años en adelante",
+    "otros": "8 envases de burbuja con 10 tabletas cada uno; Formato de venta: Caja expendedora"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499818_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/182779-1000-1000/7501008499818.jpg",
+      "pagina": "https://www.klyns.mx/aspirina-500-mg-exp-80-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1040,
+      "fecha": "2026-09-29",
+      "lado_util": 962
+    }
+  ],
+  "url_oficial": "https://www.aspirina.com.mx/gama-aspirina/aspirina",
+  "fuentes": [
+    "https://www.aspirina.com.mx/gama-aspirina/aspirina",
+    "https://www.klyns.mx/aspirina-500-mg-exp-80-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por una farmacia (Aspirina 500 mg Exp 80 tabletas) y por la foto de la caja. La ficha y la dosis del fabricante son de la presentación de 20 tabletas; el contenido de 80 viene del empaque.",
+    "notas_imagenes": "1 foto de tienda (1040 px, caja expendedora de 80 tabletas de frente). Las fotos del fabricante son de la caja de 20 tabletas y no se usaron.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,10 +4,12 @@
   "linea": "Mark",
   "nombre_sistema": "SUAVE GDE E4 C/14",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Suave Grande Etapa 4 14 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para bebé de la marca Suave, talla Grande (Etapa 4), diseñados para mantener al bebé seco y cómodo durante el día y la noche. Esta presentación es un paquete con 14 pañales.\n\nCaracterísticas:\n- Pañales desechables de un solo uso.\n- Talla Grande, Etapa 4.\n- Cintas ajustables para un ajuste seguro.\n- Paquete con 14 piezas.\n\nModo de uso:\nLimpie y seque la piel del bebé antes de colocar el pañal. Ajuste las cintas de modo que quede cómodo, sin apretar, y cámbielo con frecuencia o cuando esté húmedo o sucio. Después de usarlo, enróllelo y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 14 pañales talla Grande, Etapa 4.\n\nAdvertencias:\nProducto de un solo uso. Mantenga fuera del alcance de los niños las bolsas de plástico. Consulte en el empaque el rango de peso recomendado para esta talla.",
+  "titulo": "Pañales Kleenbebé Suavelastic Etapa 4 Grande 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Kleenbebé Suavelastic para bebé, etapa 4 (talla Grande), de Kimberly-Clark de México. Están pensados para ofrecer máxima sequedad y protección contra escurrimientos, con cintura elástica que se adapta a los movimientos del bebé. Esta presentación es un paquete con 14 pañales.\n\nCaracterísticas:\n- Talla Grande, etapa 4, unisex.\n- Cintura elástica para un mejor ajuste.\n- Block Gel para máxima sequedad.\n- Protección antiescurrimientos.\n- Contiene vitamina E.\n- Paquete con 14 piezas.\n\nModo de uso:\nLimpie y seque la piel del bebé antes de colocar el pañal. Ajuste las cintas de modo que quede cómodo, sin apretar, y cámbielo con frecuencia o cuando esté húmedo o sucio. Después de usarlo, enróllelo y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 14 pañales desechables talla Grande, etapa 4.\n\nAdvertencias:\nProducto de un solo uso. Mantenga fuera del alcance de los niños las bolsas de plástico. Consulte en el empaque el rango de peso recomendado para esta talla.",
   "ficha": {
-    "marca": "Suave",
+    "marca": "Kleenbebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Suavelastic",
     "variante": "Desechables",
     "presentacion": "Paquete",
     "contenido_neto": 14,
@@ -16,7 +18,7 @@
     "edad_etapa": "Etapa 4",
     "talla": "Grande",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete; Tipo: Pañal desechable"
+    "otros": "Formato de venta: Paquete; Tipo: Pañal desechable; Con cintura elástica, Block Gel y vitamina E"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017376995_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmalisto.com.mx/115904-large_default/comprar-panales-kleen-bebe-suavelastic-g-etapa-4-paquete-con-14-piezas-precio.jpg",
+      "pagina": "https://farmalisto.com.mx/panales/1411-comprar-panales-kleen-bebe-suavelastic-g-etapa-4-paquete-con-14-piezas-precio-7501017376995.html",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 984,
+      "fecha": "2026-09-29",
+      "lado_util": 912
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/panales/1411-comprar-panales-kleen-bebe-suavelastic-g-etapa-4-paquete-con-14-piezas-precio-7501017376995.html",
+    "https://superfenix.mx/producto/panales-para-bebe-kleenbebe-suavelastic-etapa-4-grande-unisex-14-piezas/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Se interpretó 'SUAVE GDE E4 C/14' como pañales de bebé talla Grande, Etapa 4, 14 piezas; no se pudo confirmar la marca exacta ni el fabricante, ni el rango de peso. Verificar antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema 'SUAVE' corresponde a Kleenbebé Suavelastic. Sitio oficial de Kleenbebé responde 403. No se encontró el rango de peso en las fuentes abiertas.",
+    "notas_imagenes": "1 foto de tienda (Farmalisto), frente del paquete, 984 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

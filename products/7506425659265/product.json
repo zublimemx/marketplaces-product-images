@@ -4,18 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR XXJ 7 C/40 4",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Absorsec Etapa 7 XXJ 40 Piezas",
-  "descripcion": "Descripción:\nPañales desechables para bebé Absorsec en Etapa 7, talla XXJ (extra extra jumbo), en paquete con 40 piezas.\n\nPresentación:\nPaquete con 40 pañales desechables Etapa 7 XXJ.\n\nAdvertencias:\nCambie el pañal con frecuencia. Deseche el pañal usado en la basura, no en el inodoro. Mantenga el producto y su empaque fuera del alcance de los niños.",
+  "titulo": "Pañales KleenBebé Absorsec Etapa 7 XXJ Unisex 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables KleenBebé Absorsec Unisex talla XXJ (Extra Extra Jumbo), etapa 7, en paquete de 40 piezas. Están pensados para bebés de talla grande y cuentan con un núcleo absorbente con tecnología Blockgel que ayuda a mantener al bebé seco por más tiempo y a evitar filtraciones. El empaque destaca su mejor ajuste y su absorción.\n\nCaracterísticas:\n- Línea Absorsec de KleenBebé\n- Etapa 7, talla XXJ (Extra Extra Jumbo)\n- Diseño unisex, para niños y niñas\n- Núcleo absorbente con tecnología Blockgel\n- Ajuste seguro para mayor libertad de movimiento\n- Empaque con 40 pañales\n\nPresentación:\n- Paquete con 40 pañales desechables\n- Etapa 7, talla XXJ\n\nAdvertencias:\nMantenga las bolsas de plástico fuera del alcance de los bebés y de los niños para evitar el riesgo de asfixia. Cambie el pañal con frecuencia para cuidar la piel del bebé. Consulte la guía de tallas y pesos del empaque antes de elegir la etapa.",
   "ficha": {
-    "marca": "Absorsec",
-    "variante": "Etapa 7 XXJ",
-    "presentacion": "pañales desechables",
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Absorsec",
+    "variante": "Etapa 7 XXJ Unisex",
+    "presentacion": "Paquete de pañales desechables",
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 7",
-    "talla": "XXJ",
-    "otros": "Formato de venta: Paquete"
+    "talla": "XXJ (Extra Extra Jumbo)",
+    "genero": "Unisex",
+    "otros": "Núcleo absorbente con tecnología Blockgel; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425659265_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77872805/7506425659265_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/panales-kleenbebe-absorsec-unisex-xxj-e7-40-piezas-3874763/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1065,
+      "fecha": "2026-09-29",
+      "lado_util": 987
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/panales-kleenbebe-absorsec-unisex-xxj-e7-40-piezas-3874763/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema. La marca Absorsec se infiere de la abreviatura ABSOR y hay que confirmarla, igual que el rango de peso de la Etapa 7 XXJ (no se incluyó en la descripción).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado: la imagen del producto en la tienda lleva este GTIN en el nombre del archivo y el nombre es Pañales Kleenbebé Absorsec Unisex XXJ E7 40 Piezas. No se encontró el rango de peso para esta etapa; el sistema anota un 4 al final que se ignoró. El fabricante Kimberly-Clark se deduce de la marca.",
+    "notas_imagenes": "1 foto de frente del paquete de 40 piezas (1065 px, tienda). Sin otras fotos disponibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

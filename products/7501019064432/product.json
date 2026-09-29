@@ -4,20 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "CALZON TENA PANTS MAXIPRO CH-M C/13",
   "nombres_sistema_alternos": [],
-  "titulo": "Calzón Tena Pants Maxipro Chico-Mediano 13 Piezas",
-  "descripcion": "Descripción:\nTena Pants Maxipro es un calzón absorbente desechable para adultos con incontinencia urinaria, de la marca Tena. Tiene forma de ropa interior, por lo que se coloca y se retira de manera práctica, y ofrece protección para el uso diario o nocturno. Esta presentación viene en talla Chico-Mediano (CH-M) con 13 piezas.\n\nCaracterísticas:\n- Diseño tipo ropa interior, de ajuste cómodo y discreto.\n- Núcleo absorbente para retener la humedad y ayudar a proteger la piel.\n- Talla Chico-Mediano (CH-M).\n- Producto desechable de un solo uso.\n\nModo de uso:\nColóquelo como una prenda interior, ajustándolo a la cintura y a las piernas. Cámbielo cuando esté saturado o con la frecuencia que requiera cada persona. Para retirarlo, puede romper los costados y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 13 piezas talla Chico-Mediano.\n\nAdvertencias:\nProducto de un solo uso. Si presenta irritación o enrojecimiento de la piel, suspenda su uso y consulte a su médico. Consulte en el empaque la tabla de tallas y de cintura recomendada.",
+  "titulo": "Calzón Tena Pants Maxi Protect Ch/M Unisex 13 Piezas",
+  "descripcion": "Descripción:\nTENA Pants Maxi Protect es ropa interior desechable para incontinencia urinaria, unisex, en talla chica/mediana (Ch/M). Ofrece absorción abundante, con nivel 9 de 10 en la escala de absorción TENA, y cuenta con ProSkin, que cuida y protege la piel. Se presenta en paquete con 13 piezas.\n\nCaracterísticas:\n- Talla chica/mediana, para hombre y mujer.\n- Absorción abundante: nivel 9 de 10 en la escala TENA.\n- Cuatro capas absorbentes con núcleo reforzado; según el empaque absorbe 20% más rápido.\n- ProSkin: con vitamina E y aceite de algodón, para cuidar y proteger la piel y evitar irritaciones.\n- Tela ultra suave, con materiales suaves y respirables.\n- Red protectora y canales de distribución que ayudan a proteger de la humedad y a mantener la movilidad.\n\nPresentación:\nPaquete con 13 piezas de ropa interior desechable, talla chica/mediana.\n\nAdvertencias:\nProducto desechable, de un solo uso. Consulte las instrucciones del empaque para elegir la talla, colocarlo y desecharlo. Manténgase fuera del alcance de los niños.",
   "ficha": {
-    "marca": "Tena",
-    "linea": "Pants Maxipro",
-    "variante": "Calzón desechable",
-    "presentacion": "Paquete",
+    "marca": "TENA",
+    "fabricante": "Essity",
+    "linea": "Pants Maxi Protect",
+    "variante": "ProSkin",
+    "presentacion": "paquete",
     "contenido_neto": 13,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 13,
-    "edad_etapa": "Adultos",
-    "talla": "Chico-Mediano",
     "genero": "Unisex",
-    "otros": "Formato de venta: Paquete; Tipo: Calzón desechable para incontinencia"
+    "talla": "Chico/Mediano (Ch/M)",
+    "otros": "Tipo: ropa interior desechable para incontinencia; Absorción abundante (9 de 10 en la escala TENA); Formato de venta: paquete con 13 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064432_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7501019064432-1.jpg",
+      "pagina": "https://www.delsol.com.mx/ropa-interior-desechable-tena-maxi-protect-chico-mediano-10-piezas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 828,
+      "fecha": "2026-09-29",
+      "lado_util": 767
+    },
+    {
+      "archivo": "7501019064432_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/Calzon_Tena_Pants_Maxipro_Chico_Mediano_Con_13_Piezas_7501019064432_2_7660c132-9672-4cf3-ba86-7224d3addded.jpg?v=1758301605&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/42706",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 814,
+      "fecha": "2026-09-29",
+      "lado_util": 754
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/42706",
+    "https://www.delsol.com.mx/ropa-interior-desechable-tena-maxi-protect-chico-mediano-10-piezas",
+    "https://www.chedraui.com.mx/ropa-interior-desechable-tena-pants-maxi-protect-talla-m-13-piezas-3864321/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (Tena Pants Maxi Pro, talla Chico-Mediano, 13 piezas); no se confirmó el GTIN ni se verificó el fabricante (se omitió).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado para la talla chica/mediana de 13 piezas (una de las fichas mezcla el título con 10 o 3 piezas, pero el paquete dice 13). El fabricante Essity es el dueño de la marca TENA (conocimiento general, no de las fichas). Las características salen de la imagen del paquete y de las infografías del fabricante.",
+    "notas_imagenes": "2 fotos de tienda: frente del paquete con la leyenda 13 CH/M y vista lateral. Se descartaron 3 infografías con textos publicitarios y un duplicado.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

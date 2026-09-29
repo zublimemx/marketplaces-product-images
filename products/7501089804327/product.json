@@ -4,38 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "RECOVERON NC CRA40GR",
   "nombres_sistema_alternos": [],
-  "titulo": "Recoveron NC Crema 40 g",
-  "descripcion": "Descripción:\nRecoveron NC es una crema de uso tópico de la marca Recoveron, en tubo de 40 g.\n\nPresentación:\nTubo con 40 g de crema.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Recoverón NC Ácido Acexámico Neomicina Crema 40 g",
+  "descripcion": "Descripción:\nRecoverón NC de Armstrong Laboratorios es una crema de uso cutáneo que combina ácido acexámico y neomicina. Está indicada como cicatrizante y regenerador de tejidos en heridas, y gracias a su componente antibiótico ayuda a eliminar o prevenir la presencia de gérmenes en lesiones de la piel susceptibles a la neomicina.\n\nIndicaciones:\n- Heridas superficiales y quemaduras superficiales\n- Impétigo, ectima y foliculitis\n- Eccemas infectados\n- Úlceras, incluidas las varicosas, y escaras\n- Episiotomías y grietas del pezón\n\nComposición:\n- Cada gramo de crema contiene ácido acexámico 0.05 g y neomicina 0.004 g\n\nModo de uso:\nAplique sobre la zona afectada limpia, en la frecuencia y por el tiempo que indique su médico.\n\nPresentación:\n- Tubo con 40 g de crema\n\nAdvertencias:\nSolo para uso externo. No lo use si es alérgico a alguno de los componentes de la fórmula, en particular a la neomicina. Evite el contacto con los ojos. Si aparece irritación, enrojecimiento o no observa mejoría, suspenda su uso y consulte a su médico. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Recoveron",
-    "variante": "NC",
-    "presentacion": "crema",
+    "marca": "Recoverón",
+    "fabricante": "Armstrong Laboratorios",
+    "linea": "Recoverón NC",
+    "presentacion": "Crema",
     "contenido_neto": 40,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica",
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Ácido acexámico y neomicina",
+    "concentracion": "Ácido acexámico 0.05 g y neomicina 0.004 g por gramo",
+    "via_administracion": "Cutánea",
+    "otros": "Cicatrizante con antibiótico; Requiere receta médica; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457831",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089804327_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089804327_2.jpg",
+      "pagina": "https://www.fahorro.com/recoveron-nc-tubo-con-40-g.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "fecha": "2026-09-29",
+      "lado_util": 1082
+    },
+    {
+      "archivo": "7501089804327_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089804327_4.jpg",
+      "pagina": "https://www.fahorro.com/recoveron-nc-tubo-con-40-g.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1139,
+      "fecha": "2026-09-29",
+      "lado_util": 1055
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/3163-recoveron-c-40-g-crema.html",
+    "https://www.fahorro.com/recoveron-nc-tubo-con-40-g.html",
+    "https://infocode.io/b2b/07501089804327/details"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar composición, indicaciones ni fabricante. Se supone crema dermatológica por la presentación.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas; la presentación de 40 g coincide con el nombre del sistema. La condición de receta se deduce del contenido de neomicina (antibiótico); validar contra el empaque.",
+    "notas_imagenes": "2 fotos de tienda del tubo y su estuche (1200 px originales cada una), sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

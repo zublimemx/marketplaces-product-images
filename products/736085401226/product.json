@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "FLUMETOL NF OFT GTS 5ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Flumetol NF Ofteno Fluorometolona 1 mg/ml Gotero 5 ml",
+  "descripcion": "Descripción:\nFlumetol NF Ofteno es una suspensión oftálmica de Laboratorios Sophia cuyo principio activo es el acetato de fluorometolona, un corticosteroide de uso tópico. Se emplea en el tratamiento de condiciones inflamatorias del segmento anterior del ojo y de padecimientos alérgicos que responden a esteroides tópicos, siempre bajo prescripción médica. La presentación es una caja con frasco gotero de 5 mL.\n\nCaracterísticas:\n- Fluorometolona 1 mg por mL.\n- Suspensión oftálmica en frasco gotero.\n- Corticosteroide de uso tópico ocular bajo receta.\n- Frasco gotero de 5 mL.\n\nComposición:\nCada mL de suspensión contiene: acetato de fluorometolona 1 mg, vehículo cbp 1 mL.\n\nModo de uso:\nVía oftálmica; no ingerible. La dosis es la que el médico señale; habitualmente se aplican 1 a 2 gotas en el saco conjuntival inferior, varias veces al día, y se reduce gradualmente la frecuencia antes de suspender.\n\nPresentación:\nCaja con frasco gotero de 5 mL.\n\nAdvertencias:\nVenta con receta médica. Está contraindicado en queratitis por herpes simple, vacuna o varicela, otras enfermedades virales de la córnea y la conjuntiva, infecciones purulentas sin tratar y en caso de hipersensibilidad. El uso prolongado de esteroides oftálmicos puede aumentar la presión intraocular, favorecer cataratas, úlceras corneales por hongos y retrasar la cicatrización. No se use durante el embarazo y la lactancia. Consérvese el frasco bien cerrado a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flumetol",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "NF Ofteno",
+    "presentacion": "Suspensión oftálmica",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Acetato de fluorometolona",
+    "concentracion": "1 mg/mL",
+    "via_administracion": "Oftálmica",
+    "registro_sanitario": "346M98 SSA IV",
+    "otros": "Formato de venta: Caja con frasco gotero; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "736085401226_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085401226.jpg",
+      "pagina": "https://www.fahorro.com/flumetol-nf-oftalmico-5-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1468,
+      "fecha": "2026-09-29",
+      "lado_util": 1361
+    },
+    {
+      "archivo": "736085401226_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085401226_1.jpg",
+      "pagina": "https://www.fahorro.com/flumetol-nf-oftalmico-5-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1376
+    },
+    {
+      "archivo": "736085401226_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/3/736085401226_2.jpg",
+      "pagina": "https://www.fahorro.com/flumetol-nf-oftalmico-5-ml-gotas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1518,
+      "fecha": "2026-09-29",
+      "lado_util": 1406
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/flumetol.nf.ofteno.suspension.oftalmica/174/101/7792/204",
+    "https://www.fahorro.com/flumetol-nf-oftalmico-5-ml-gotas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición, contraindicaciones y registro confirmados en PLM y en la cara posterior del empaque. La dosis habitual proviene de PLM; el empaque indica 'la que el médico señale'.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro): frente, cara posterior con fórmula y vista angulada; 1,470 a 1,520 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

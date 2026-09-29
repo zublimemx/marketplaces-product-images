@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "POSTDAY 2 TABL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Postday Levonorgestrel 0.75 mg 2 Comprimidos",
+  "descripcion": "Descripción:\nPostday es un anticonceptivo de emergencia (postcoital) a base de levonorgestrel, un progestágeno de síntesis, elaborado por Investigación Farmacéutica. Se presenta en caja con 2 comprimidos de 0.75 mg y está indicado únicamente para usarse después de una relación sexual sin protección o cuando el método anticonceptivo pudo haber fallado.\n\nBeneficios:\n- Indicado después de un coito no protegido, incluyendo casos de rotura, deslizamiento o mal uso del condón, expulsión de un dispositivo intrauterino, falla del coito interrumpido u olvido de tres o más píldoras anticonceptivas en un ciclo.\n- Puede usarse en cualquier momento del ciclo menstrual, a menos que haya retraso del sangrado menstrual.\n- No requiere prueba de embarazo previa.\n\nComposición:\nCada comprimido contiene levonorgestrel 0.75 mg. Excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. Tome un comprimido tan pronto como sea posible y un segundo comprimido a las 12 horas, o bien los dos comprimidos en una sola toma, sin exceder 72 horas después de la relación sexual sin protección. Si vomita dentro de las 2 horas posteriores a tomarlo, debe repetirse la dosis.\n\nPresentación:\nCaja con 2 comprimidos de 0.75 mg.\n\nAdvertencias:\n- Es un método de emergencia; no debe usarse como anticonceptivo de forma regular.\n- No es recomendable en caso de embarazo, sangrado vaginal sin diagnóstico ni hipersensibilidad al levonorgestrel o a sus componentes.\n- Puede ser menos eficaz en mujeres con sobrepeso u obesidad.\n- Los efectos más frecuentes son dolor de cabeza, sangrado vaginal anormal y náuseas.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Postday",
+    "fabricante": "Investigación Farmacéutica",
+    "linea": "Postday",
+    "variante": "0.75 mg",
+    "presentacion": "Caja con comprimidos",
+    "contenido_neto": 2,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 2,
+    "principio_activo": "Levonorgestrel",
+    "concentracion": "0.75 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mujeres (no recomendado en menores de 16 años)",
+    "genero": "Mujer",
+    "registro_sanitario": "409M2002 SSA V",
+    "otros": "Anticonceptivo de emergencia; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501249605634_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__98f151ab-edbd-471f-84e8-e7ca405ab454_1200x1200.jpg?v=1744687368",
+      "pagina": "https://wecarepharma.mx/products/postday-0-75mg-con-2-comprimidos-levonorgestrel",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1227,
+      "fecha": "2026-09-29",
+      "lado_util": 1136
+    },
+    {
+      "archivo": "7501249605634_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/165641-1000-1000/7501249605634.jpg",
+      "pagina": "https://www.klyns.mx/postday-0-75mg-c-2-tabs/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 987,
+      "fecha": "2026-09-29",
+      "lado_util": 914
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/postday.comprimidos/81/101/9327/25",
+    "https://www.klyns.mx/postday-0-75mg-c-2-tabs/p",
+    "https://sanorim.mx/products/postday-levonorgestrel-75-mg-caja-con-2-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro 409M2002 SSA V (fracción V, se dispensa en farmacia sin receta). Verificar con la política del marketplace para anticonceptivos de emergencia.",
+    "notas_imagenes": "2 fotos de tienda (987 y 1227 px, frente). Se descartaron un banner publicitario y dos copias repetidas o de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

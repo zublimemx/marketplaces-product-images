@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "STADIUM 25MG C10 TABS ABRIL 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Stadium Dexketoprofeno 25 mg 10 Tabletas",
+  "descripcion": "Descripción:\nStadium es un analgésico antiinflamatorio no esteroideo de Laboratorios Sanfer cuyo principio activo es el dexketoprofeno (trometamol), en tabletas de 25 mg. Se utiliza para el tratamiento sintomático a corto plazo del dolor agudo de intensidad leve a moderada. Esta presentación es la caja con 10 tabletas para administración por vía oral.\n\nBeneficios:\n- Alivia el dolor agudo de intensidad leve a moderada, como el musculoesquelético, la dismenorrea y el dolor dental.\n- Uso a corto plazo, con una dosis de 25 mg por tableta.\n- Formato de 10 tabletas.\n\nComposición:\nCada tableta contiene dexketoprofeno (como trometamol) 25 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. En general, la dosis recomendada es de una tableta de 25 mg cada 8 horas, sin sobrepasar las 3 tabletas al día (75 mg). Use la dosis eficaz más baja durante el menor tiempo posible y siga la indicación de su médico.\n\nPresentación:\nCaja con 10 tabletas de 25 mg.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia, ni en menores de 18 años. No lo use si es alérgico al dexketoprofeno, a otros antiinflamatorios o a algún componente de la fórmula. Como otros antiinflamatorios, puede afectar el estómago, los riñones y el corazón; consulte a su médico si tiene úlcera, gastritis o enfermedades del corazón, del hígado o de los riñones. Consérvese a no más de 25 °C y protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Stadium",
+    "fabricante": "Laboratorios Sanfer",
+    "linea": "Stadium",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Dexketoprofeno (trometamol)",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: analgésico antiinflamatorio no esteroideo; Dosis máxima diaria: 75 mg; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070635756_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw118732fd/images/large/7501070635756_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/stadium-25mg-10-tabs/MXYZ_7501070635756.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 636,
+      "fecha": "2026-09-29",
+      "lado_util": 589
+    },
+    {
+      "archivo": "7501070635756_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/s/t/stadium-25-mg-oral-10-tab-5756_2.jpg",
+      "pagina": "https://www.fahorro.com/stadium-25-mg-oral-10-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1072,
+      "fecha": "2026-09-29",
+      "lado_util": 993
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/stadium-25mg-10-tabs/MXYZ_7501070635756.html",
+    "https://farmalisto.com.mx/analgesicos/2381-stadium-25-mg-caja-con-10-tabletas-7501070635756.html",
+    "https://www.emeritafarmacias.com/producto/stadium-t-10-25mg-dexketopro-trometan/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y código); 'ABRIL 27' del nombre se ignoró (caducidad). Condición de venta contradictoria: una farmacia lo marca venta sin receta y otra en categoría con receta; se marcó 'Revisar'.",
+    "notas_imagenes": "2 fotos de frente y en ángulo del empaque de 10 tabletas de 25 mg (tienda: Farmacias YZA 636 px y Farmacias del Ahorro 1200 px), correctas en producto y presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

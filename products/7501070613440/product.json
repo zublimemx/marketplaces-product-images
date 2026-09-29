@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "AMOXIL 500 MG 12 CAPS 300",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Amoxil Amoxicilina 500 mg 12 Cápsulas",
+  "descripcion": "Descripción:\nAmoxil es un antibiótico cuyo principio activo es la amoxicilina, una penicilina de amplio espectro. Esta presentación es la caja con 12 cápsulas de 500 mg para administración por vía oral.\n\nBeneficios:\n- Indicado en el tratamiento de infecciones bacterianas, entre ellas las infecciones respiratorias agudas y crónicas como sinusitis, otitis media y faringitis.\n- También se usa en infecciones del tracto urinario y de la piel y los tejidos blandos.\n- La amoxicilina es efectiva contra una amplia variedad de microorganismos sensibles, como algunas cepas de Streptococcus pneumoniae, Haemophilus influenzae y Escherichia coli.\n- Puede utilizarse en combinación con otros medicamentos para el tratamiento de la infección por Helicobacter pylori en pacientes con úlceras pépticas.\n\nComposición:\nCada cápsula contiene amoxicilina (como trihidrato) equivalente a 500 mg y excipientes.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico según el tipo de infección. Complete todo el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 cápsulas de 500 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Es un antibiótico: su uso incorrecto puede generar resistencia bacteriana. No lo use si es alérgico a la amoxicilina, a otras penicilinas o a algún componente de la fórmula. Precaución en personas con antecedentes de enfermedades gastrointestinales como colitis, asma o insuficiencia renal, y ante cualquier erupción en la piel durante el tratamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Amoxil",
+    "fabricante": "GlaxoSmithKline",
+    "linea": "Amoxil",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Amoxicilina",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: antibiótico; Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070613440_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501070613440_f9aa539d-da68-4415-bf34-c38994c8cc83_1200x1200.jpg?v=1744660843",
+      "pagina": "https://wecarepharma.mx/en/products/amoxil-500mg-con-12-capsulas-amoxicilina",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 500,
+      "fecha": "2026-09-29",
+      "lado_util": 463
+    },
+    {
+      "archivo": "7501070613440_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501070613440.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/amoxil-500-mg-c-12-capsulas-2/",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 938,
+      "fecha": "2026-09-29",
+      "lado_util": 869
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/amoxil-500mg-con-12-capsulas-amoxicilina",
+    "https://grupofarmapronto.com/producto/amoxil-500-mg-c-12-capsulas-2/",
+    "https://www.klyns.mx/amoxil-500-mg-c-12-caps/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en ficha de farmacia y en el nombre de la imagen de otra; presentación de 500 mg con 12 cápsulas igual al nombre. Fabricante tomado del empaque (logotipo GSK); puede haber cambiado de titular.",
+    "notas_imagenes": "2 fotos de frente al empaque de 12 cápsulas de 500 mg (tienda: WeCare 500 px y Farmapronto 1280 px), correctas en concentración y contenido. Se descartó una tercera foto con recorte irregular.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "HERKLIN 60 SHAMPO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Herklin Clásico Shampoo Anti Piojos Fenotrina 0.2% 60 ml",
+  "descripcion": "Descripción:\nHerklin Clásico es un shampoo en solución con fenotrina al 0.2% para matar y eliminar piojos y liendres. Elimina los piojos de la cabeza y del cuerpo a partir de los 2 meses de edad. Se aplica en cabello seco, actúa en 10 minutos y está pensado para cabello corto o escaso. Esta presentación es el frasco de 60 ml.\n\nBeneficios:\n- Mata y elimina piojos y liendres.\n- Solo 10 minutos de aplicación.\n- Puede utilizarse desde los 2 meses de edad.\n- Aplicación en el cabello seco.\n\nComposición:\nSolución de fenotrina al 0.2%.\n\nModo de uso:\n- Aplique en cabello completamente seco, asegurándose de que todo el cabello quede impregnado con la solución, especialmente en la nuca y detrás de las orejas.\n- Deje actuar por 10 minutos.\n- Enjuague con abundante agua.\n- Desenrede el cabello húmedo con un peine o cepillo común.\n- Con el cabello todavía húmedo, retire con un peine lendrera los piojos y liendres muertos.\n- Repita el tratamiento una semana después.\n\nPresentación:\nFrasco con 60 ml de shampoo en solución.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos y las mucosas; si ocurre, enjuague con abundante agua. No se ingiera. No lo use si es alérgico a la fenotrina o a algún componente de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Herklin",
+    "linea": "Herklin Clásico",
+    "variante": "Clásico",
+    "presentacion": "Shampoo en solución",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Fenotrina",
+    "concentracion": "0.2 %",
+    "via_administracion": "Tópica",
+    "edad_etapa": "Desde 2 meses de edad",
+    "tipo_piel_cabello": "Cabello corto o escaso",
+    "otros": "Tiempo de acción: 10 minutos; Repetir el tratamiento una semana después; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM432657",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Tratamientos para Piojos > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089810021_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw737c7834/images/large/7501089810021_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/herklin-anti-piojos-y-liendres-shampoo-60ml/MXYZ_7501089810021.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 993,
+      "fecha": "2026-09-29",
+      "lado_util": 920
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/herklin-anti-piojos-y-liendres-shampoo-60ml/MXYZ_7501089810021.html",
+    "https://farmalisto.com.mx/shampoo-y-acondicionador/3494-herklin-shampoo-solucion-02-caja-con-frasco-con-60ml-7501089810021.html",
+    "https://farmaciasmedina.com/detalleProducto/Herklin-Shampoo/7501089810021"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y SKU); fenotrina 0.2% y 60 ml confirmados. Modo de uso de la ficha de farmacia. No se encontró el fabricante en las fuentes. Categoría específica de piojos (Shampoos y Acondicionadores) en lugar de una de medicamentos, por ser un shampoo antipiojos de venta libre. Una ficha de otra tienda lo describía erróneamente como anticaspa y se descartó.",
+    "notas_imagenes": "1 foto de frente al empaque de Herklin Clásico 60 ml (tienda: Farmacias YZA, 1000 px), correcta en producto y presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

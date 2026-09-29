@@ -4,18 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "FLANAX 550MG 10TAB + 2TAB GTS",
   "nombres_sistema_alternos": [],
-  "titulo": "Flanax Naproxeno Sódico 550 mg Tabletas",
-  "descripcion": "Descripción:\nFlanax de Bayer contiene naproxeno sódico 550 mg por tableta. Es un analgésico y antiinflamatorio no esteroideo (AINE) que se emplea para aliviar el dolor de leve a moderado y la inflamación, como el dolor de cabeza, muscular, articular, dental o menstrual.\n\nBeneficios:\n- Alivia el dolor y reduce la inflamación.\n- Tabletas de 550 mg de uso oral.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg.\n\nModo de uso:\nVía oral. Tome la dosis indicada en el empaque o la que su médico le recomiende, preferentemente con alimentos y un vaso de agua. No exceda la dosis máxima.\n\nPresentación:\nCaja con tabletas de 550 mg.\n\nAdvertencias:\nNo lo use en caso de alergia al naproxeno, a la aspirina o a otros antiinflamatorios, ni si tiene úlcera o sangrado gástrico. Evite su uso durante el embarazo y la lactancia sin indicación médica. Puede causar molestias gástricas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Flanax Naproxeno Sódico 550 mg 12 Tabletas",
+  "descripcion": "Descripción:\nFlanax 550 de Bayer es un analgésico y antiinflamatorio con naproxeno sódico, en tabletas de 550 mg de efecto de larga duración. Según la etiqueta, es auxiliar en el tratamiento del dolor y la inflamación de articulaciones, ligamentos, músculos y tendones por contracturas, torceduras, desgarres, esguinces y luxaciones, así como en el dolor de cuello, espalda y columna, los cólicos menstruales (dismenorrea primaria y secundaria) y los dolores dentales. El empaque de esta presentación incluye 12 tabletas en total (10 más 2 adicionales).\n\nComposición:\n- Cada tableta contiene naproxeno sódico 550 mg\n\nModo de uso:\nVía oral, junto con los alimentos. Una tableta cada 24 horas hasta por 5 días.\n\nPresentación:\n- Caja con 12 tabletas de 550 mg\n- Conservar a no más de 30 °C, en la caja bien cerrada y protegido de la luz\n\nAdvertencias:\nNo lo use si es alérgico al naproxeno o a otros antiinflamatorios o analgésicos, ni si tiene úlcera péptica activa o sangrado gastrointestinal, insuficiencia cardiaca grave, renal o hepática. No se administre por más de 5 días ni a menores de 12 años. No debe usarse durante el embarazo ni la lactancia. Puede causar acidez, náusea, dolor de estómago, mareo o zumbido de oídos; si esto ocurre, suspéndalo y consulte a su médico. Consulte a su médico si toma medicamentos para epilepsia, ácido úrico, presión arterial o ciclosporinas. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Flanax",
     "fabricante": "Bayer",
-    "presentacion": "tabletas",
+    "linea": "Flanax 550",
+    "presentacion": "Tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
     "principio_activo": "Naproxeno sódico",
     "concentracion": "550 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "006M90 SSA VI",
+    "otros": "Venta libre; Efecto de larga duración; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194673",
@@ -27,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499979_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008499979_2.jpg",
+      "pagina": "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-12-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1586,
+      "fecha": "2026-09-29",
+      "lado_util": 1469
+    },
+    {
+      "archivo": "7501008499979_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008499979_3.jpg",
+      "pagina": "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-12-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1583,
+      "fecha": "2026-09-29",
+      "lado_util": 1466
+    },
+    {
+      "archivo": "7501008499979_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008499979_4.jpg",
+      "pagina": "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-12-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1578,
+      "fecha": "2026-09-29",
+      "lado_util": 1462
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/flanax-tabletas/21/101/7740/210",
+    "https://www.fahorro.com/flanax-550-mg-analgesico-antiinflamatorio-12-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. El nombre indica 10 tabletas + 2 adicionales (probable presentación promocional de 12 tabletas); no se puso el número en el título hasta confirmarlo. Verificar si la venta de 550 mg es libre o con receta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sistema anota 10 tabletas más 2 gratis: el empaque de este GTIN dice caja con 12 tabletas, por eso el título usa 12. Las fotos de este GTIN traen impresa la promoción Paga 10 y llévate 2. Composición, dosis y advertencias tomadas de la contraetiqueta. GTIN confirmado por las fotos de tienda cuyo nombre de archivo es este GTIN; el registro infocode no lo lista.",
+    "notas_imagenes": "3 fotos de tienda: caja de frente (1586 px), caja en 3D (1583 px) y contraetiqueta (1578 px). Las dos de frente llevan impreso el banner promocional Paga 10 y llévate 2 gratis, propio del empaque de este GTIN; no hay foto de frente sin promoción, retirarlas si la política del canal lo exige.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

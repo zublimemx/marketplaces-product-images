@@ -4,29 +4,60 @@
   "linea": "Mark",
   "nombre_sistema": "TENA CALZ PANTS MAXIPRO MUJER G C/14",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Tena Pants Maxi Protect Mujer Talla G 14 Piezas",
+  "descripcion": "Descripción:\nTENA Pants Maxi Protect Mujer es ropa interior desechable absorbente diseñada para mujeres con pérdidas de orina, con la comodidad y el ajuste de una prenda íntima. Esta presentación es el paquete con 14 piezas en talla Grande (G), con absorción abundante.\n\nCaracterísticas:\n- Tecnología Proskin con vitamina E y extracto de semilla de algodón para cuidar la piel y ayudar a evitar irritaciones.\n- Gel superabsorbente que absorbe en segundos y neutraliza los olores.\n- Doble barrera anti-escurrimiento para mayor protección contra fugas.\n- Material ultrasuave y ajuste perfecto para moverse con libertad y sentirse segura.\n- Corte alto y diseño femenino que se adapta mejor al cuerpo.\n\nModo de uso:\nColóquese como una prenda interior, siguiendo las instrucciones del empaque, y cámbiela cuando sea necesario. Elija la talla según la medida de cintura y cadera indicada en el paquete.\n\nPresentación:\nPaquete con 14 piezas, talla Grande (G), para mujer.\n\nAdvertencias:\nProducto desechable de un solo uso. Después de usarlo, envuélvalo y deséchelo en la basura; no lo tire al inodoro. Si presenta irritación o pérdidas frecuentes, consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Tena",
+    "fabricante": "Essity",
+    "linea": "Pants Maxi Protect",
+    "variante": "Mujer",
+    "presentacion": "Ropa interior desechable",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 14,
+    "edad_etapa": "Adultos",
+    "talla": "G (Grande)",
+    "genero": "Mujer",
+    "otros": "Nivel de absorción: abundante; Tecnología: Proskin con vitamina E; Producto desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48929128"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064760_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501019064760-0.jpg",
+      "pagina": "https://www.fahorro.com/ropa-interior-desechable-tena-pants-mujer-talla-g-14-piezas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1452,
+      "fecha": "2026-09-29",
+      "lado_util": 1345
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ropa-interior-desechable-tena-pants-mujer-talla-g-14-piezas.html",
+    "https://www.klyns.mx/tena-pants-maxi-protect-mujer-grande-14-pz/p",
+    "https://www.mercadolibre.com.mx/tena-pants-mujer-g-14-piezas-grande/p/MLM48929128"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia; 'MAXIPRO' del sistema corresponde a la línea Maxi Protect. Catálogo ML tomado del título del resultado de búsqueda (Tena Pants Mujer G 14 piezas); no se abrió la página. No se anotan medidas de cintura porque no se vieron en las fuentes.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda: Farmacias del Ahorro, 1600 px), talla G y 14 piezas visibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

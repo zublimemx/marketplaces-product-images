@@ -4,20 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "GRANEODIN B M LIMON C24",
   "nombres_sistema_alternos": [],
-  "titulo": "Graneodin B Pastillas Sabor Limón 24 Piezas",
-  "descripcion": "Descripción:\nGraneodin B es una presentación en pastillas para la garganta con sabor limón, en caja con 24 pastillas. Está pensada para usarse disolviendo lentamente la pastilla en la boca.\n\nModo de uso:\nDisuelva lentamente una pastilla en la boca, sin masticarla ni tragarla entera. Respete el intervalo y el número máximo de pastillas por día que indica el empaque o su médico.\n\nPresentación:\nCaja con 24 pastillas sabor limón.\n\nAdvertencias:\nRevise en el empaque la composición, las indicaciones y las contraindicaciones antes de usarlo. No lo use si es alérgico a alguno de los componentes. Suspenda su uso y consulte a su médico si los síntomas empeoran o duran más de unos días, o si se acompañan de fiebre alta. No se recomienda en niños pequeños por el riesgo de atragantamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Graneodín B Benzocaína 10 mg 24 Pastillas Miel Limón",
+  "descripcion": "Descripción:\nGraneodín B son pastillas con benzocaína y sabor miel-limón que alivian el dolor y la irritación de garganta de intensidad leve a moderada. Su efecto anestésico local brinda alivio temporal contra el dolor, el ardor y la irritación de garganta.\n\nBeneficios:\n- Efecto anestésico local en la zona de dolor.\n- Alivio instantáneo de la molestia de garganta.\n- Sin azúcar; contiene sucralosa.\n- Agradable sabor miel-limón.\n\nFórmula:\nCada pastilla contiene benzocaína 10 mg y excipiente cbp 1 pastilla.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 6 años: disuelva lentamente en la boca una pastilla cada 2 horas, sin exceder 8 pastillas al día.\n\nPresentación:\nCaja con 24 pastillas sabor miel-limón.\n\nAdvertencias:\n- Si persisten las molestias, consulte a su médico.\n- No exceda la dosis recomendada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Graneodin",
+    "marca": "Graneodín",
+    "fabricante": "RB Health",
     "linea": "B",
+    "variante": "Miel-limón",
     "presentacion": "Pastillas",
     "contenido_neto": 24,
     "unidad_contenido": "pastillas",
     "unidades_por_envase": 24,
+    "principio_activo": "Benzocaína",
+    "concentracion": "10 mg",
     "via_administracion": "Oral",
-    "sabor_aroma": "Limón",
-    "otros": "Formato de venta: Caja"
+    "sabor_aroma": "Miel-limón",
+    "edad_etapa": "Adultos y niños mayores de 6 años",
+    "otros": "Sin azúcar (contiene sucralosa); Venta sin receta; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194717",
@@ -29,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095409059_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095409059.jpg",
+      "pagina": "https://www.fahorro.com/graneodin-b-sabor-miel-limon-caja-24-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1190,
+      "fecha": "2026-09-29",
+      "lado_util": 1102
+    },
+    {
+      "archivo": "7501095409059_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095409059_2.jpg",
+      "pagina": "https://www.fahorro.com/graneodin-b-sabor-miel-limon-caja-24-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 963,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    },
+    {
+      "archivo": "7501095409059_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095409059_1.jpg",
+      "pagina": "https://www.fahorro.com/graneodin-b-sabor-miel-limon-caja-24-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1183,
+      "fecha": "2026-09-29",
+      "lado_util": 1096
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/graneodin-b-sabor-miel-limon-caja-24-pastillas.html",
+    "https://www.farmatodo.com.mx/graneodin-b-miel-limon-10-mg-caja-c-24-pastillas/p"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (GRANEODIN B M LIMON C24) y conocimiento general. No se confirmó la composición ni el fabricante, por eso se omiten. La M del nombre podría ser Miel (Miel Limón) o Menta; confirmar el sabor exacto en el empaque. Se asume que son pastillas para la garganta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el SKU de una farmacia y en fichas de otras (Graneodín B miel-limón, 24 pastillas, benzocaína 10 mg). La M del sistema es Miel-Limón. Fabricante tomado de la marca RB Health de una ficha de farmacia; no se consultó el sitio oficial.",
+    "notas_imagenes": "3 fotos de tienda del servidor de Farmacias del Ahorro (frente, vista en ángulo y reverso con fórmula); se descartaron 2 gráficos promocionales.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

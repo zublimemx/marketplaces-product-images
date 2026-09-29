@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR CH C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Kleenbebé Absorsec Etapa 2 Chico 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Kleenbebé Absorsec talla Chico (etapa 2), de Kimberly-Clark. Cuentan con núcleo Absorgel con Blockgel para una mejor absorción y menos regreso de líquidos, cubiertas respirables y elástico en la cintura para un mayor ajuste. Contienen aloe, manzanilla y vitamina E. Esta presentación es una bolsa con 40 pañales.\n\nCaracterísticas:\n- Talla Chico, etapa 2, unisex.\n- Núcleo Absorgel con Blockgel para mejor absorción y menos regreso de líquidos.\n- Cubiertas respirables.\n- Elástico en la cintura con mayor ajuste.\n- Contiene aloe, manzanilla y vitamina E.\n- Paquete con 40 piezas.\n\nModo de uso:\nLimpie y seque la piel del bebé antes de colocar el pañal. Ajuste las cintas de modo que quede cómodo, sin apretar, y cámbielo con frecuencia o cuando esté húmedo o sucio. Después de usarlo, enróllelo y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 40 pañales desechables talla Chico, etapa 2.\n\nAdvertencias:\nProducto de un solo uso. Mantenga fuera del alcance de los niños las bolsas de plástico. Consulte en el empaque el rango de peso recomendado para esta talla.",
+  "ficha": {
+    "marca": "Kleenbebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Absorsec",
+    "variante": "Desechables",
+    "presentacion": "Paquete",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 2",
+    "talla": "Chico",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete; Tipo: Pañal desechable; Núcleo Absorgel con Blockgel; Con aloe, manzanilla y vitamina E"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943433359_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/181704-1600-auto?v=638983939582400000&width=1600&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/absorsec-chico-c-40/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/absorsec-chico-c-40/p",
+    "https://www.surtitienda.mx/paal-kleen-bebe-absorsec-chico-40s-kleen-bebe-7501943433359/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'ABSOR CH' es Kleenbebé Absorsec Chico. El mismo GTIN aparece con dos diseños de empaque (Absorsec y Absorsec Ultra); se usó el diseño vigente. Sitio oficial responde 403.",
+    "notas_imagenes": "1 foto de tienda (Farmacias Klyns), frente del paquete vigente, 972 px. Se descartó el diseño anterior (Absorsec Ultra).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

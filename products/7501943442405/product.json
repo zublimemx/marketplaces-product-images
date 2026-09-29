@@ -4,11 +4,11 @@
   "linea": "Mark",
   "nombre_sistema": "HU SUP PREMATURO C/30",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Huggies Supreme Prematuro 30 Piezas",
-  "descripcion": "Descripción:\nHuggies Supreme Prematuro son pañales desechables de la línea Supreme, diseñados para bebés prematuros, con un tamaño pequeño que se ajusta a su cuerpo delicado. Cada paquete contiene 30 pañales.\n\nCaracterísticas:\n- Talla Prematuro, pensada para bebés nacidos antes de tiempo o de bajo peso.\n- Línea Supreme de Huggies, para el cuidado de la piel del bebé.\n- Paquete con 30 pañales desechables.\n- Ajuste cómodo con cintas ajustables.\n\nModo de uso:\nColoque el pañal por debajo del bebé, súbalo por delante y ajuste las cintas a cada lado para asegurarlo sin apretar. Cambie el pañal con frecuencia y limpie la piel del bebé en cada cambio. Para una mayor comodidad, doble el borde delantero hacia afuera si el ombligo del bebé aún no ha cicatrizado.\n\nPresentación:\nPaquete con 30 pañales desechables talla Prematuro.\n\nAdvertencias:\nDeseche el pañal usado en la basura y no lo arroje al inodoro. Mantenga las bolsas y los empaques de plástico fuera del alcance de los niños para evitar riesgo de asfixia. No deje al bebé sin supervisión durante el cambio. Consulte a su pediatra sobre el cuidado de bebés prematuros.",
+  "titulo": "Pañales Huggies Supreme Prematuro Unisex 30 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies para bebés prematuros, de la marca Kimberly-Clark, en presentación de 30 piezas. Son unisex, están diseñados para bebés de menos de 2.5 kg y buscan maximizar la protección de la delicada piel del bebé durante sus primeros 100 días. Huggies Supreme se presenta como una línea con suavidad y cuidado superiores, clínica y dermatológicamente probada.\n\nCaracterísticas:\n- Talla Prematuro (P), unisex, para bebés de menos de 2.5 kg.\n- Suavidad superior y cuidado superior para ayudar a mantener la piel fresca y sana.\n- Pensados para dar máxima protección a la piel del bebé durante sus primeros 100 días.\n- Paquete con 30 pañales.\n\nModo de uso:\nColóquelo por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca.\n\nPresentación:\nPaquete con 30 pañales desechables.\n\nAdvertencias:\n- Uso externo.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- No arroje los pañales usados al inodoro.\n- Mantenga el producto y las bolsas de plástico fuera del alcance de los niños.",
   "ficha": {
     "marca": "Huggies",
-    "fabricante": "Kimberly-Clark de México",
+    "fabricante": "Kimberly-Clark",
     "linea": "Supreme",
     "variante": "Prematuro",
     "presentacion": "Paquete",
@@ -16,9 +16,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 30,
     "edad_etapa": "Prematuro",
-    "talla": "Prematuro",
+    "talla": "Prematuro (P)",
     "genero": "Unisex",
-    "otros": "Tipo: Desechable; Formato de venta: Paquete"
+    "otros": "Peso del bebé: menos de 2.5 kg; Tipo: Desechable; Formato de venta: Paquete"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,20 +26,49 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19737819"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943442405_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/179834/7501943442405.jpg",
+      "pagina": "https://www.klyns.mx/huggies-nat-prematuro-30/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 946,
+      "fecha": "2026-09-29",
+      "lado_util": 876
+    },
+    {
+      "archivo": "7501943442405_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501943442405.png",
+      "pagina": "https://grupofarmapronto.com/producto/huggies-supreme-prematuro-c-30-panales/",
+      "ancho_original": 980,
+      "alto_original": 600,
+      "lado_final": 804,
+      "fecha": "2026-09-29",
+      "lado_util": 744
+    }
+  ],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
+  "fuentes": [
+    "https://www.klyns.mx/huggies-nat-prematuro-30/p",
+    "https://grupofarmapronto.com/producto/huggies-supreme-prematuro-c-30-panales/",
+    "https://www.huggies.com.mx/productos/huggies-supreme/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (HU SUP PREMATURO C/30) y conocimiento general. No se incluyó el rango de peso de la talla Prematuro por no poder confirmarlo. Fabricante inferido por el prefijo del GTIN 7501943.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Huggies prematuro 30 piezas, unisex, menos de 2.5 kg). Unas tiendas lo nombran Huggies Natural Care Prematuro y otras Huggies Supreme Prematuro (la línea oficial Supreme sí incluye la talla P); las fotos disponibles muestran el empaque Natural Care, así que verificar el diseño del empaque físico. El catálogo de Mercado Libre MLM19737819 (Huggies Natural Care 30 piezas prematuro) apareció en la búsqueda y se anotó por coincidencia de nombre y presentación, sin poder abrirlo.",
+    "notas_imagenes": "2 fotos de tienda (paquete de frente, 946 px y 804 px) que muestran el empaque Natural Care; el sitio oficial de Huggies bloqueó el acceso.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

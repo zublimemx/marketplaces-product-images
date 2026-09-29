@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "UNESIA 100G UNG TB20G 2 PACK FEBRERO 28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Unesia Bifonazol Ungüento 1 g/100 g 2 Tubos de 20 g",
+  "descripcion": "Descripción:\nUnesia es un ungüento antimicótico de Genomma Lab cuyo principio activo es el bifonazol al 1 g por cada 100 g. Está indicado para el tratamiento de las micosis en las uñas de los pies y de las manos causadas por hongos y levaduras, y ayuda a recuperar la dureza y la coloración de la uña. Esta presentación es un paquete de 2 cajas, cada una con un tubo de 20 g de ungüento.\n\nBeneficios:\n- Tratamiento de las micosis en las uñas de los pies y de las manos causadas por hongos y levaduras.\n- Ayuda a recuperar la dureza y la coloración de la uña.\n- Actúa contra la uña amarilla causada por hongos.\n\nComposición:\nCada 100 g de ungüento contienen: bifonazol 1 g, excipiente cbp.\n\nModo de uso:\nVía cutánea, sobre la uña afectada. Siga las instrucciones del empaque y consulte a su profesional de la salud antes de usar este producto.\n\nPresentación:\nPaquete con 2 cajas, cada una con un tubo de 20 g de ungüento.\n\nAdvertencias:\nNo lo use si es alérgico al bifonazol o a alguno de los componentes de la fórmula. Suspenda su uso y consulte a su médico si aparece irritación o si no hay mejoría. Uso externo; evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Unesia",
+    "fabricante": "Genomma Lab",
+    "presentacion": "Ungüento, paquete de 2 tubos",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 2,
+    "principio_activo": "Bifonazol",
+    "concentracion": "1 g por 100 g",
+    "via_administracion": "Cutánea",
+    "otros": "Formato de venta: Paquete de 2 cajas con tubo de 20 g cada una; Antimicótico para uñas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "650240013775_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://shop.genommalab.com/media/catalog/product/6/5/650240013775-1.jpg",
+      "pagina": "https://marcas.genommalab.com/un",
+      "ancho_original": 3000,
+      "alto_original": 3000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "650240013775_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://shop.genommalab.com/media/catalog/product/6/5/650240013775-2.jpg",
+      "pagina": "https://marcas.genommalab.com/un",
+      "ancho_original": 3000,
+      "alto_original": 3000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
+  "url_oficial": "https://marcas.genommalab.com/un",
+  "fuentes": [
+    "https://marcas.genommalab.com/un",
+    "https://vitau.mx/unesia-1100g-caja-1-tubo-20g-unguento-1785"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 650240013775 (12 dígitos) aparece en el sitio de Genomma Lab como 'Unesia 2 Pack'; el empaque lateral dice '2 cajas con tubo de 20 g c/u'. La concentración de bifonazol viene de una farmacia y del empaque (1 g/100 g). No se confirmó si requiere receta; se asumió que no (antimicótico tópico).",
+    "notas_imagenes": "2 fotos del sitio del fabricante (Genomma Lab): frente del paquete y costado con el código de barras. El frente muestra las leyendas impresas 'Precio especial' y 'Nuevo', que forman parte del empaque; no se encontró otra foto del paquete de 2.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

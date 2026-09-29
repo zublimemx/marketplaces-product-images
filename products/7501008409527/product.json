@@ -5,22 +5,24 @@
   "nombre_sistema": "REDOXON 1 NJA 10 TABS 200",
   "nombres_sistema_alternos": [],
   "titulo": "Redoxon Vitamina C 1 g Naranja 10 Tabletas Efervescentes",
-  "descripcion": "Descripción:\nRedoxon Naranja de Bayer son tabletas efervescentes de vitamina C (1 g) con sabor naranja, que se disuelven en agua para preparar una bebida. Es un suplemento alimenticio a base de vitamina C.\n\nBeneficios:\n- Aporta vitamina C, nutriente antioxidante.\n- Tabletas efervescentes de fácil preparación.\n- Sabor naranja.\n\nModo de uso:\nDisuelva una tableta en un vaso con agua y tómela cuando termine la efervescencia, o siga la dosis indicada en el empaque.\n\nPresentación:\nEnvase con 10 tabletas efervescentes sabor naranja.\n\nAdvertencias:\nNo exceda la dosis recomendada. Si está embarazada, en lactancia o bajo tratamiento médico, consulte a su médico antes de consumirlo. No sustituye una dieta equilibrada. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nRedoxon de Bayer es un suplemento de vitamina C en tabletas efervescentes sabor naranja, con 1 g de ácido ascórbico por tableta. Según su etiqueta, se utiliza en el tratamiento y la prevención de las deficiencias de vitamina C, contribuye a la función del sistema inmunológico, ayuda en la prevención y el tratamiento de la gripe y el resfriado común, es coadyuvante en la cicatrización de heridas, fracturas y quemaduras, y favorece la absorción intestinal de hierro y la defensa antioxidante.\n\nComposición:\n- Cada tableta efervescente contiene ácido ascórbico 1 g\n- Contiene sodio, aspartame y azúcar (aprox. 24.3 %)\n\nModo de uso:\nAdultos: disuelva 1 o 2 tabletas al día en un vaso con agua y tome de inmediato.\n\nPresentación:\n- Tubo con 10 tabletas efervescentes sabor naranja\n\nAdvertencias:\nNo se recomienda en niños. No lo use si tiene hipersensibilidad a alguno de sus componentes, gastritis, úlcera péptica, diabetes, insuficiencia renal, gota, cistinuria, oxaluria, cálculos renales o hemocromatosis, ni si toma anticoagulantes. Contiene aspartame: las personas con fenilcetonuria deben considerar que contiene fenilalanina. Durante el embarazo y la lactancia úselo solo bajo supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Redoxon",
     "fabricante": "Bayer",
+    "linea": "Redoxon",
     "variante": "Naranja",
-    "presentacion": "tabletas efervescentes",
+    "presentacion": "Tabletas efervescentes",
     "contenido_neto": 10,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 10,
-    "principio_activo": "Vitamina C",
-    "concentracion": "1 g",
+    "principio_activo": "Ácido ascórbico (vitamina C)",
+    "concentracion": "1 g por tableta",
     "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
     "sabor_aroma": "Naranja",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Con aspartame y azúcar; Venta libre; Formato de venta: Unidad"
   },
-  "receta_mx": "No aplica",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM438195",
@@ -32,14 +34,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008409527_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008409527_2.jpg",
+      "pagina": "https://www.fahorro.com/redoxon-1-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1283,
+      "fecha": "2026-09-29",
+      "lado_util": 1188
+    },
+    {
+      "archivo": "7501008409527_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008409527_3.jpg",
+      "pagina": "https://www.fahorro.com/redoxon-1-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1323,
+      "fecha": "2026-09-29",
+      "lado_util": 1225
+    },
+    {
+      "archivo": "7501008409527_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008409527_1.jpg",
+      "pagina": "https://www.fahorro.com/redoxon-1-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1328,
+      "fecha": "2026-09-29",
+      "lado_util": 1230
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/redoxon-1-g-de-vitamina-c-sabor-naranja-10-tabletas-efervescentes.html",
+    "https://infocode.io/b2b/07501008409527/details"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. El 1 del nombre se interpretó como 1 g de vitamina C; confirmar si es Redoxon Vitamina C sola o Doble Acción (con zinc). El 200 al final se tomó como lote.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tienda y por las fotos del empaque (vitamina C 1 g, 10 tabletas efervescentes sabor naranja). Modo de uso, indicaciones y contraindicaciones tomados de la etiqueta.",
+    "notas_imagenes": "3 fotos de tienda (1600 px originales): empaque de frente, empaque en otro ángulo y contraetiqueta, sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

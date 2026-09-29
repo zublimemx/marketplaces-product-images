@@ -4,16 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "FERRANINA FOL C 30 GRAG",
   "nombres_sistema_alternos": [],
-  "titulo": "Ferranina Fol 30 Grageas",
-  "descripcion": "Descripción:\nFerranina Fol es un producto de la marca Ferranina en presentación de grageas, caja con 30 piezas. La composición exacta, la dosis recomendada y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Grageas\n- Contenido: 30 grageas\n\nAdvertencias:\nUtilice el producto según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ferranina Fol Hierro y Ácido Fólico 100 mg 30 Tabletas",
+  "descripcion": "Descripción:\nFerranina Fol es un medicamento de Takeda que combina hierro (100 mg) y ácido fólico (800 mcg) en tabletas para administración por vía oral. Aporta estos dos nutrimentos y su uso corresponde siempre a la indicación de su médico. Esta presentación incluye una caja con 30 tabletas.\n\nCaracterísticas:\n- Combinación de hierro y ácido fólico.\n- Cada tableta aporta 100 mg de hierro y 800 mcg de ácido fólico.\n- Administración por vía oral.\n- Caja con 30 tabletas.\n\nComposición:\nHierro 100 mg y ácido fólico 800 mcg por tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que indique su médico, quien también puede valorar la respuesta al tratamiento.\n\nPresentación:\nCaja con 30 tabletas de 100 mg/800 mcg.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a los componentes, sobrecarga de hierro o anemias que no se deban a deficiencia de hierro. Informe a su médico si tiene antecedentes de problemas gastrointestinales o si toma otros suplementos con hierro o ácido fólico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Ferranina",
-    "variante": "Fol",
-    "presentacion": "Grageas",
+    "marca": "Ferranina Fol",
+    "fabricante": "Takeda",
+    "linea": "Ferranina",
+    "presentacion": "Caja con tabletas",
     "contenido_neto": 30,
-    "unidad_contenido": "grageas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 30,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Hierro y ácido fólico",
+    "concentracion": "100 mg/800 mcg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: Tableta (grageas)"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -27,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501092743033_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1d3ef3fe/images/large/7501092743033_1.jpg",
+      "pagina": "https://www.yza.mx/ferranina-fol-30-gra/MXYZ_7501092743033.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 857,
+      "fecha": "2026-09-29",
+      "lado_util": 794
+    },
+    {
+      "archivo": "7501092743033_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/f/e/ferranina-fol-368-mg-oral-30-grag-3033_2.jpg",
+      "pagina": "https://www.yza.mx/ferranina-fol-30-gra/MXYZ_7501092743033.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ferranina-fol-368-mg-oral-30-grageas.html",
+    "https://wecarepharma.mx/en/products/ferranina-fol-grageas-100mg-800mcg-con-30-hierro-acido-folico"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Composición no confirmada (por el nombre parece un producto con hierro y ácido fólico); categoría inferida. Alternativa: MLM438195 si se publica como suplemento. Verificar fabricante y fórmula.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Las fuentes no coinciden en la sal de hierro (polimaltosado vs fumarato), por eso no se especifica. Las contraindicaciones vienen de una ficha de baja calidad y no se listan indicaciones por falta de fuente oficial; no se confirmó si requiere receta.",
+    "notas_imagenes": "2 fotos (tienda, 857 y 1296 px): frente de la caja y vista angular. Se descartó una foto borrosa duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

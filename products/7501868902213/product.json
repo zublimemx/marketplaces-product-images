@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "VENDA DIBAR 30 CM C 8 PZAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Venda Elástica Dibar 30 cm x 5 m Paquete con 8 Piezas",
+  "descripcion": "Descripción:\nVenda elástica Dibar de tejido plano, fabricada con algodón y fibras sintéticas, de media compresión y media elasticidad. Cada venda mide 30 cm de ancho por 5 m de largo y el paquete incluye 8 piezas, por lo que es práctica para clínicas, consultorios, botiquines y uso en casa.\n\nCaracterísticas:\n- Tejido plano con 60 % algodón y 40 % poliéster.\n- Compresión y elasticidad medias.\n- Medida de 30 cm x 5 m por pieza.\n- Paquete con 8 piezas.\n\nModo de uso:\nSe usa para asegurar férulas, compresas frías o calientes, apósitos y tubos de catéter, y para apoyar, asegurar y proteger zonas con torceduras o esguinces. Envuelva la zona a cubrir con una tensión moderada, sin cortar la circulación, y fije el extremo de la venda.\n\nPresentación:\nPaquete con 8 vendas elásticas de 30 cm x 5 m.\n\nAdvertencias:\nNo aplique una compresión excesiva. Si nota adormecimiento, cambio de color u hormigueo en la zona vendada, retire la venda y consulte a su médico.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Paquete de vendas elásticas",
+    "contenido_neto": 5,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 8,
+    "otros": "Ancho: 30 cm; Largo: 5 m por pieza; Material: 60 % algodón y 40 % poliéster (tejido plano); Compresión y elasticidad medias; Formato de venta: Paquete con 8 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -20,13 +27,19 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "url_oficial": "https://dibar.mx/product/vendas-dibar/",
+  "fuentes": [
+    "https://dibar.mx/product/vendas-dibar/",
+    "https://suvet.com.mx/producto/venda-elastica-30-cm-x-5-m-empaque-con-8-piezas/",
+    "https://store.quirurfast.com/products/venda-elastica-30-cm-x-5-m-dibar-c-8"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN no apareció en ninguna página; la presentación 30 cm x 5 m con 8 piezas (código VD7) coincide con el catálogo del fabricante. Las instrucciones de uso son de una ficha de distribuidor; la advertencia final es de precaución general.",
+    "notas_imagenes": "Sin fotos válidas: las encontradas eran chicas (400 px), traían marca de agua de tienda o eran un rollo genérico sin marca. El sitio del fabricante solo trae fotos grupales de varias medidas.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

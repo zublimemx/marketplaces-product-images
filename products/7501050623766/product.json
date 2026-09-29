@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "AFRIN NO DRIP SOL 15ML CSE CONGESTION SEVERA VERDE 36",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Afrin No Drip Congestión Severa Oximetazolina 15 ml",
+  "descripcion": "Descripción:\nAfrin No Drip Congestión Severa (CSE) es un descongestivo nasal en spray de Bayer cuyo principio activo es la oximetazolina. Alivia de manera temporal la congestión nasal severa y la resequedad provocadas por el resfriado común, la sinusitis, la rinitis alérgica o las alergias del tracto respiratorio superior. Su fórmula no escurre por la nariz ni llega a la garganta. Esta presentación es el frasco de 15 ml en caja verde.\n\nBeneficios:\n- Empieza a actuar en segundos y puede durar hasta 12 horas.\n- Fórmula sin escurrimiento (No Drip) que no gotea por la nariz ni pasa a la garganta.\n- Con la potencia y el aroma del mentol.\n- Alivio local y temporal de la congestión nasal en resfriados, rinitis y sinusitis.\n\nComposición:\nCada 100 ml contienen clorhidrato de oximetazolina 50.0 mg (0.50 mg por ml), en suspensión nasal.\n\nModo de uso:\nVía nasal. Adultos y mayores de 10 años: aplicar 2 aspersiones en cada fosa nasal cada 12 horas. Niños de 6 a 10 años: 1 aspersión en cada fosa nasal cada 12 horas. No use más de dos dosis en 24 horas.\n\nPresentación:\nFrasco de 15 ml.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. No lo use en niños menores de 6 años, salvo por prescripción médica. Tenga precaución si padece problemas del corazón, presión arterial elevada, diabetes o trastornos de la tiroides, y consulte a su médico antes de usarlo. No lo use por más de 3 días seguidos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Afrin",
+    "fabricante": "Bayer",
+    "linea": "Afrin No Drip",
+    "variante": "Congestión Severa (CSE)",
+    "presentacion": "Suspensión nasal en spray",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Oximetazolina",
+    "concentracion": "0.50 mg/ml (0.05 %)",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Adultos y niños mayores de 6 años",
+    "sabor_aroma": "Mentol",
+    "otros": "Grupo terapéutico: descongestivo nasal; Duración: hasta 12 horas; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050623766_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501050623766_1_1.png",
+      "pagina": "https://www.fahorro.com/afrin-no-drip-cse-alivio-rapido-de-la-congestion-nasal-severa-con-mentol-actua-durante-12-horas-15-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1621,
+      "fecha": "2026-09-29",
+      "lado_util": 1501
+    }
+  ],
+  "url_oficial": "https://www.afrin.com.mx/sprays-nasales/sin-goteo/afrin-no-drip-congestion-severa",
+  "fuentes": [
+    "https://www.afrin.com.mx/sprays-nasales/sin-goteo/afrin-no-drip-congestion-severa",
+    "https://www.yza.mx/afrin-no-drip-15ml-/MXYZ_7501050623766.html",
+    "https://farmaciasmedina.com/detalleProducto/Afrin-No-Drip-Cse-Descongestivo-Nasal-Alivio-Temporal/7501050623766"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia; variante CSE (Congestión Severa, caja verde) igual al nombre. Dosis, beneficios y advertencias de la página del fabricante (leída con WebFetch). La advertencia de no usar más de 3 días es la precaución habitual de los descongestivos nasales; verificar contra el instructivo.",
+    "notas_imagenes": "1 foto de frente a la caja verde CSE de 15 ml (tienda: Farmacias del Ahorro, 1600 px). Se descartó la foto de la variante azul No Drip regular y no se pudo descargar la imagen del sitio oficial.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

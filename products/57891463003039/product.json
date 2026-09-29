@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PLASTIPAK 5ML C100 VERDE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringas Desechables BD Plastipak 5 ml Caja con 100 Piezas",
+  "descripcion": "Descripción:\nJeringa desechable estéril BD Plastipak de 5 ml, de tres piezas y de un solo uso, para la aplicación de inyecciones. Se presenta en caja con 100 piezas, una opción práctica para consultorios, clínicas, farmacias y botiquines que necesitan surtido constante de jeringas.\n\nCaracterísticas:\n- Capacidad de 5 ml.\n- Estéril y desechable, de un solo uso.\n- Versión con aguja identificada con color verde (calibre 21 G x 32 mm, de uso intramuscular).\n- Marca BD (Becton Dickinson), línea Plastipak.\n- Caja con 100 piezas para uso médico y de curación.\n\nPresentación:\nCaja con 100 jeringas de 5 ml.\n\nAdvertencias:\nProducto estéril de un solo uso: no reutilizar. No utilizar si el empaque individual está dañado o abierto. Deseche la jeringa y la aguja en un contenedor para objetos punzocortantes. Almacenar entre 15 y 30 °C. Su aplicación debe realizarse por personal capacitado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "BD",
+    "fabricante": "Becton Dickinson",
+    "linea": "Plastipak",
+    "variante": "Aguja verde 21 G x 32 mm",
+    "presentacion": "Caja con 100 jeringas",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "via_administracion": "Intramuscular",
+    "otros": "Capacidad: 5 ml; Estéril; Desechable, un solo uso; Calibre de aguja: 21 G x 32 mm (inferido por el color verde); Formato de venta: caja con 100"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +32,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/agujas-y-jeringas-medicas/2930-bd-plastipak-caja-con-5-jeringas-esteriles-de-5-ml-21gx32mm.html",
+    "https://www.plastipak.shop/MLM-2081711973-jeringa-bd-plastipak-5-ml-21g-32mm-100-piezas-_JM"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN-14 no apareció en ninguna página. Se identificó por nombre: BD Plastipak 5 ml, caja con 100, 'verde' interpretado como aguja 21 G x 32 mm (color estándar del calibre 21 G). Datos tomados de la versión de 5 piezas y de un listado de 100 piezas; verificar calibre y si incluye aguja contra la caja física antes de publicar.",
+    "notas_imagenes": "Sin fotos: las únicas encontradas eran de la caja de 5 piezas (otra presentación); BD y el listado de 100 piezas no fueron accesibles.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

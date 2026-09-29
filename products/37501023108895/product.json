@@ -6,14 +6,24 @@
   "nombres_sistema_alternos": [
     "NEXCARE MICROPORE 2 5CM C12 PIEL"
   ],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cinta Micropore Nexcare Piel 2.5 cm x 5 m 12 Piezas",
+  "descripcion": "Descripción:\nCinta adhesiva de papel Nexcare Micropore, color piel, de 2.5 cm de ancho por 5 m de largo. Es una cinta microporosa con respaldo no tejido de fibras de rayón, ideal para fijar apósitos que requieren cambios frecuentes y especialmente diseñada para personas con piel delicada. Esta presentación incluye 12 rollos.\n\nBeneficios:\n- Permite la transpiración de la piel.\n- Adhesivo hipoalergénico.\n- Libre de látex.\n- Ideal para aplicaciones discretas.\n\nCaracterísticas:\n- Respaldo no tejido de fibras de rayón.\n- Cinta de papel microporosa.\n- Medidas por rollo: 2.5 cm de ancho x 5 m de largo.\n- Color blanco / tono piel.\n\nModo de uso:\nLimpie y seque la zona, corte la cantidad necesaria de cinta y péguela sobre el apósito o la gasa sin estirarla en exceso. Para retirarla, hágalo con suavidad.\n\nPresentación:\n12 rollos de cinta adhesiva de 2.5 cm x 5 m.",
+  "ficha": {
+    "marca": "Nexcare",
+    "fabricante": "3M",
+    "linea": "Micropore",
+    "variante": "Piel",
+    "presentacion": "Rollo de cinta adhesiva de papel",
+    "contenido_neto": 5,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 12,
+    "otros": "Ancho: 2.5 cm; Largo: 5 m por rollo; Respaldo no tejido de rayón; Adhesivo hipoalergénico; Libre de látex; Formato de venta: 12 rollos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Botiquín de Primeros Auxilios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "37501023108895_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://multimedia.3m.com/mws/media/1336994J/packaging.jpg?boundedSize=1000",
+      "pagina": "https://www.nexcare.com.mx/3M/es_MX/p/d/v000275728/",
+      "ancho_original": 1024,
+      "alto_original": 971,
+      "lado_final": 736,
+      "fecha": "2026-09-29",
+      "lado_util": 682
+    }
+  ],
+  "url_oficial": "https://www.nexcare.com.mx/3M/es_MX/p/d/v000275728/",
+  "fuentes": [
+    "https://www.nexcare.com.mx/3M/es_MX/p/d/v000275728/",
+    "https://www.fahorro.com/nexcare-cinta-micropore-piel-1-25-cm-x-5-m.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN de 14 dígitos (inicia con 3) parece ser el código de caja o display de 12 rollos de Nexcare Micropore Piel 2.5 cm x 5 m; no se halló una página con ese GTIN. La ficha del fabricante corresponde a la versión 2.5 cm x 5.1 m de 1 pieza. Modo de uso redactado en términos generales. Categoría provisional (no hay una hoja específica para cintas médicas en el archivo).",
+    "notas_imagenes": "1 foto del fabricante (736 px, empaque de un rollo: 'Cont. 1 rollo, 2.5 cm x 5 m, color blanco'). No hay foto de la caja de 12.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

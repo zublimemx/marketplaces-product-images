@@ -4,17 +4,18 @@
   "linea": "Mark",
   "nombre_sistema": "HUGG SUPR UNISEX ET3 + TAS HUM SUPR C80 C/5",
   "nombres_sistema_alternos": [],
-  "titulo": "Pañales Huggies Supreme Unisex Etapa 3 con Toallitas",
-  "descripcion": "Descripción:\nPaquete combinado de Huggies Supreme que incluye pañales desechables unisex Etapa 3 y toallitas húmedas Huggies Supreme de 80 piezas. Huggies Supreme, de Kimberly-Clark, es la línea de la marca enfocada en ofrecer suavidad superior y cuidado superior para la delicada piel del bebé, y se presenta como clínica y dermatológicamente probada.\n\nCaracterísticas:\n- Pañales Huggies Supreme unisex, aptos para niño o niña, Etapa 3.\n- Toallitas húmedas Huggies Supreme con textura 3D similar al algodón, con aceite de almendras y fibras naturales para una limpieza suave.\n- Tapa Easy Push en las toallitas, que abre con un solo toque, según el fabricante.\n\nModo de uso:\nPañal: colóquelo por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca. Toallitas: úselas para la limpieza de la piel del bebé en cada cambio de pañal.\n\nPresentación:\nPaquete combinado de pañales Huggies Supreme Unisex Etapa 3 y toallitas húmedas Huggies Supreme de 80 piezas. Consulte en el empaque el número exacto de pañales incluidos y el rango de peso recomendado.\n\nAdvertencias:\n- Uso externo. Evite el contacto de las toallitas con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- No arroje pañales ni toallitas al inodoro.\n- Mantenga los productos y su empaque fuera del alcance de los niños.",
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 3 con Toallitas Húmedas",
+  "descripcion": "Descripción:\nPaquete combinado Huggies Supreme que reúne pañales desechables unisex Etapa 3 y toallitas húmedas Huggies Supreme de 80 piezas. Huggies Supreme, de Kimberly-Clark, es la línea de la marca enfocada en la suavidad y el cuidado superior de la delicada piel del bebé, y se presenta como clínica y dermatológicamente probada.\n\nCaracterísticas:\n- Pañales Huggies Supreme unisex, aptos para niño o niña, Etapa 3 (de 7 a 10 kg aproximadamente, según el fabricante).\n- Suavidad superior y cuidado superior para ayudar a mantener la piel del bebé fresca y sana.\n- Toallitas húmedas Huggies Supreme con textura 3D algodonosa, aceite de almendra y fibras naturales para una limpieza suave.\n- Tapa Easy Push en las toallitas, que abre con un solo toque.\n\nModo de uso:\nPañal: colóquelo por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca. Toallitas: úselas para la limpieza de la piel del bebé en cada cambio de pañal.\n\nPresentación:\nPaquete combinado de pañales Huggies Supreme Unisex Etapa 3 y toallitas húmedas Huggies Supreme de 80 piezas. Consulte en el empaque la cantidad exacta de pañales incluidos.\n\nAdvertencias:\n- Uso externo. Evite el contacto de las toallitas con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- No arroje pañales ni toallitas al inodoro.\n- Mantenga los productos y las bolsas de plástico fuera del alcance de los niños.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
     "linea": "Supreme",
-    "variante": "Unisex con toallitas húmedas",
+    "variante": "Unisex con toallitas húmedas Supreme",
     "presentacion": "Paquete combinado de pañales y toallitas húmedas",
     "edad_etapa": "Etapa 3",
+    "talla": "Etapa 3",
     "genero": "Unisex",
-    "otros": "Incluye toallitas húmedas Supreme de 80 piezas; Número de pañales por confirmar en el empaque; Formato de venta: Paquete combinado"
+    "otros": "Incluye toallitas húmedas Supreme de 80 piezas; Rango de peso Etapa 3: 7 a 10 kg; Cantidad de pañales por confirmar en el empaque; Formato de venta: Paquete combinado"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,17 +30,18 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "https://www.huggies.com.mx/productos/linea-supreme/",
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/linea-supreme/",
+    "https://www.huggies.com.mx/productos/huggies-supreme/",
     "https://www.huggies.com.mx/productos/linea-supreme/toallitas-humedas-huggies-supreme/"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "El GTIN 7506425658954 no aparece en ninguna página consultada; la búsqueda solo devolvió las toallitas Supreme de 80 piezas. Se interpretó por el nombre del sistema (Huggies Supreme Unisex Etapa 3 + toallitas Supreme C80) como paquete combinado. El 'C/5' es ambiguo y no se sabe cuántos pañales trae; el precio del sistema ($207) es casi igual al de los pañales Etapa 3 de 36 piezas ($201), lo que sugiere un paquete de pañales con toallitas de obsequio, pero es solo una hipótesis. La descripción usa datos generales de la línea Supreme del sitio oficial; verificar contra el empaque antes de publicar.",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7506425658954 no aparece en ninguna tienda ni base consultada (Medina, Chedraui, Klyns, La Gran Bodega). Se interpretó por el nombre del sistema como paquete combinado de pañal Supreme Etapa 3 con toallitas Supreme de 80 piezas; el C/5 es ambiguo y no se sabe cuántos pañales trae. Descripción tomada de las páginas oficiales de la línea Supreme; verificar contra el empaque antes de publicar.",
     "notas_imagenes": "Sin fotos: no se encontró ninguna imagen de este paquete combinado exacto; las imágenes de pañales o toallitas sueltas no representan el producto vendido.",
-    "fecha": "2026-09-29"
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

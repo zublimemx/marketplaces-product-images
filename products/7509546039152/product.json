@@ -4,18 +4,20 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP 22 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Crema Dental Colgate MFP 22 ml",
-  "descripcion": "Descripción:\nCrema dental Colgate MFP con flúor en forma de monofluorofosfato de sodio, en presentación de 22 ml. Es un formato compacto y práctico para el uso diario o para llevar de viaje.\n\nPresentación:\n- Crema dental\n- Contenido: 22 ml\n\nModo de uso:\nCepille sus dientes después de cada comida con una cantidad de crema del tamaño de un chícharo. Enjuague la boca con agua después del cepillado.\n\nAdvertencias:\nUso externo. No se ingiera. En niños pequeños use solo una pequeña cantidad y supervise el cepillado para evitar que se la traguen. Mantenga fuera del alcance de los niños.",
+  "titulo": "Crema Dental Colgate MFP Máxima Protección Anticaries 22 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate MFP Máxima Protección Anticaries con flúor, en tubo de 22 ml, sabor original. Es un formato compacto y práctico para el cepillado diario, para llevar en el bolso, la oficina o de viaje. El empaque destaca la fórmula con Calci-Protect.\n\nCaracterísticas:\n- Con flúor en forma de monofluorofosfato de sodio\n- Máxima Protección Anticaries\n- Rico sabor original\n- Tubo de 22 ml en caja individual\n- Hecho en México\n\nModo de uso:\nAplique una porción sobre el cepillo dental y cepille sus dientes. Escupa el exceso y no ingiera el producto. Su uso es recomendable en niños mayores de 6 años; en niños de 6 años y menores use una cantidad del tamaño de una gota (0.25 g) y supervise el cepillado para reducir la posibilidad de que la ingieran.\n\nPresentación:\n- Crema dental, tubo de 22 ml\n\nAdvertencias:\nNo ingerir. Si recibe flúor de otras fuentes, consulte a su odontólogo o médico. Mantenga fuera del alcance de los niños.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
-    "linea": "MFP",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "MFP con flúor",
     "presentacion": "Crema dental",
     "contenido_neto": 22,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Monofluorofosfato de sodio",
-    "otros": "Formato de venta: Unidad"
+    "sabor_aroma": "Original",
+    "otros": "Con flúor; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546039152_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/pasta_dental_colgate_mfp_22_ml_7509546039152_1_1b3cb744-2d3a-4bb0-bab5-ab3ce03560f2.jpg?v=1757129106&width=1100",
+      "pagina": "https://openfarma.mx/products/pasta-dental-colgate-mfp-22-ml",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 831,
+      "fecha": "2026-09-29",
+      "lado_util": 770
+    },
+    {
+      "archivo": "7509546039152_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7509546039152.jpeg",
+      "pagina": "https://openfarma.mx/products/pasta-dental-colgate-mfp-22-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 970,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07509546039152/details",
+    "https://farmalisto.com.mx/pasta-de-dientes/8789-crema-dental-colgate-mfp-22-ml-7509546039152.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre (C D = crema dental, MFP = monofluorofosfato); nombre comercial completo, ingredientes y concentración de flúor sin verificar. Modo de uso y advertencias son las genéricas de una crema dental con flúor.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tienda (crema dental Colgate original con flúor, 22 ml). La concentración de flúor no apareció en las fuentes y se omitió.",
+    "notas_imagenes": "2 fotos: frente del empaque plano y empaque en 3D (831 y 970 px; tiendas). Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

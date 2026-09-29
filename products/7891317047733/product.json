@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "CALCIGENOL DODLE SUSP 340ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Calcigenol Doble Fosfato de Calcio 1.8 g Suspensión 340 ml",
+  "descripcion": "Descripción:\nCalcigenol Doble es una suspensión oral de Eurofarma con fosfato de calcio (fosfato tricálcico) que aporta calcio y fósforo. Su etiqueta lo dirige a niños y adolescentes y señala que ayuda a tener un sano crecimiento en etapas de desarrollo. También se indica como complemento de los requerimientos diarios de calcio y fósforo y como coadyuvante en la prevención y el tratamiento de la osteoporosis. Presentación: frasco de 340 mL.\n\nBeneficios:\n- Complemento de los requerimientos diarios de calcio y fósforo.\n- Ayuda a tener un sano crecimiento en etapas de desarrollo, en niños y adolescentes.\n- Coadyuvante en la prevención y el tratamiento de la osteoporosis.\n\nComposición:\nCada 100 mL de suspensión contienen: fosfato tricálcico 1.8 g, equivalente a calcio 0.718 g y fósforo 0.333 g.\n\nModo de uso:\nVía oral. Agite antes de usar. La dosis debe ser indicada por su médico o según el empaque.\n\nPresentación:\nFrasco con 340 mL de suspensión oral.\n\nAdvertencias:\nConsérvese a temperatura ambiente no mayor a 25 °C y en su empaque. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Calcigenol",
+    "fabricante": "Eurofarma",
+    "linea": "Doble",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 340,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Fosfato tricálcico (calcio y fósforo)",
+    "concentracion": "1.8 g por 100 mL",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños y adolescentes",
+    "otros": "Formato de venta: Frasco; Calcio 0.718 g y fósforo 0.333 g por 100 mL"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317047733_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317047733.jpg",
+      "pagina": "https://www.fahorro.com/calcigenol-doble-suspension-calcio-y-fosforo-340.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1459,
+      "fecha": "2026-09-29",
+      "lado_util": 1351
+    },
+    {
+      "archivo": "7891317047733_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317047733_2.jpg",
+      "pagina": "https://www.fahorro.com/calcigenol-doble-suspension-calcio-y-fosforo-340.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1459,
+      "fecha": "2026-09-29",
+      "lado_util": 1351
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanisidro.mx/producto/medicamentos/vitaminicos/calcigenol-doble-1-8-gr-suspension-340-ml/",
+    "https://www.fahorro.com/calcigenol-doble-suspension-calcio-y-fosforo-340.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'DODLE' (error de captura de Doble). GTIN confirmado. Sitio oficial de Eurofarma México no se consultó; sabor no confirmado.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro), frente y vista ligeramente girada del frasco, 1,459 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

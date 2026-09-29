@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "BRUNADOL PARACET/NAPROX 300MG/275MG C10 TAB BRULUART",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Brunadol Paracetamol Naproxeno 300 mg/275 mg 10 Tabletas",
+  "descripcion": "Descripción:\nBrunadol es un analgésico en tabletas que combina paracetamol 300 mg y naproxeno sódico 275 mg, elaborado por Bruluagsa. Se utiliza en el tratamiento del dolor y la fiebre, incluyendo dolor de cabeza, dolor de oído, dolor posoperatorio y posparto y padecimientos musculoesqueléticos. Se presenta en una caja de cartón con 10 tabletas en envase de burbuja.\n\nCaracterísticas:\n- Combinación de paracetamol y naproxeno sódico.\n- Paracetamol 300 mg y naproxeno sódico 275 mg por tableta.\n- Administración por vía oral.\n- Caja con 10 tabletas en envase de burbuja.\n\nComposición:\nCada tableta contiene: paracetamol 300 mg, naproxeno sódico 275 mg, excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Dosis habitual: 2 tabletas al inicio del tratamiento y después 1 tableta cada 6 a 8 horas, o según indique su médico.\n\nPresentación:\nCaja con 10 tabletas de 300 mg/275 mg en envase de burbuja.\n\nAdvertencias:\nVenta con receta médica. No lo use en caso de hipersensibilidad al paracetamol o al naproxeno, antecedentes de asma, rinitis o urticaria provocadas por aspirina u otros antiinflamatorios, úlcera péptica activa, insuficiencia hepática o renal, ni en ciertos trastornos de la sangre. No lo combine con otros productos que contengan paracetamol. Puede causar somnolencia. El uso prolongado se asocia con problemas renales y sangrado gastrointestinal. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Brunadol",
+    "fabricante": "Bruluagsa (Bruluart)",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol, naproxeno sódico",
+    "concentracion": "300 mg / 275 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "631M98 SSA IV",
+    "otros": "Formato de venta: Caja con envase de burbuja; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501537103521_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasdrahorro.com.mx/wp-content/uploads/2023/10/R02880166311.webp",
+      "pagina": "https://www.farmaciasdrahorro.com.mx/productos/brunadol-analgesico-en-tabletas/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1165,
+      "fecha": "2026-09-29",
+      "lado_util": 1079
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/brunadol.tabletas/73/101/61511/210",
+    "https://www.farmaciasdrahorro.com.mx/productos/brunadol-analgesico-en-tabletas/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición, dosis, contraindicaciones y registro tomados de PLM; GTIN confirmado en resultados de farmacias para la caja de 10 tabletas. Categoría de receta elegida por el componente antiinflamatorio (naproxeno).",
+    "notas_imagenes": "1 foto de tienda (Farmacias Dr. Ahorro), frente de la caja, 1,165 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

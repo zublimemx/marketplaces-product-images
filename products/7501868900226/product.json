@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO R 250ML C36 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alcohol Etílico 96° Dibar 250 ml Caja con 36 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico puro de 96° G.L., sin desnaturalizar, marca Dibar, en botella de polietileno de 250 ml. Es una solución líquida transparente, volátil y de rápida evaporación, de uso externo como antiséptico y desinfectante en clínicas, consultorios y en casa. Esta presentación corresponde a la caja con 36 botellas.\n\nCaracterísticas:\n- Alcohol etílico puro de 96° G.L.\n- Sin desnaturalizar.\n- Botella de 250 ml, caja con 36 piezas.\n- Solución líquida transparente de rápida evaporación.\n\nModo de uso:\nUso externo. Aplique sobre la superficie o el material que desea desinfectar con una gasa o un algodón. Se puede diluir según el uso previsto.\n\nPresentación:\nCaja con 36 botellas de 250 ml.\n\nAdvertencias:\n- Producto inflamable: manténgase alejado del fuego, chispas y fuentes de calor.\n- No debe ingerirse ni aplicarse sobre piel lesionada.\n- Almacénese en un lugar fresco, seco y bien ventilado, con el envase bien cerrado y protegido de la luz solar directa.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Botella de polietileno",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 36,
+    "principio_activo": "Alcohol etílico",
+    "concentracion": "96° G.L.",
+    "via_administracion": "Uso externo",
+    "otros": "Sin desnaturalizar; Formato de venta: Caja con 36 botellas de 250 ml; Vida útil: 5 años"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -20,13 +30,18 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "url_oficial": "https://dibar.mx/product/alcohol-desnaturalizado-71-5-g-l/",
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501868900226-alcohol-etilico-96o-gl-sin-desnaturalizar-rojo-250-ml-dibar-10822",
+    "https://www.promexsa.com.mx/productos/alcohol-etilico-de-96-250-ml-dibar/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde a Alcohol etílico 96° GL sin desnaturalizar de 250 ml (Dibar). La cantidad de 36 piezas sale del nombre del sistema y coincide con el empaque corrugado de 36 botellas del fabricante. Una ficha de distribuidor lo llama desnaturalizado; se prefirió la etiqueta de la botella (sin desnaturalizar). El uso como desinfectante y las advertencias vienen de fichas de distribuidor.",
+    "notas_imagenes": "Sin fotos válidas: las que aparecieron mostraban una botella de 1000 ml, un producto distinto (algodón) o un ícono de sin imagen, y se borraron.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

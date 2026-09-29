@@ -6,19 +6,19 @@
   "nombres_sistema_alternos": [
     "ENFAGROW 3 PREMIUM MFGM 800 G"
   ],
-  "titulo": "Fórmula Infantil Enfagrow Premium 3 Lata 800 g",
-  "descripcion": "Descripción:\nEnfagrow Premium 3 es una fórmula láctea en polvo de la marca Enfagrow, de Mead Johnson, diseñada para acompañar la alimentación de niños a partir del primer año de vida, como complemento de una dieta variada y equilibrada. Esta presentación es una lata de 800 g.\n\nCaracterísticas:\n- Etapa 3 de la línea Premium de Enfagrow, para niños en crecimiento a partir de 1 año.\n- Incluye MFGM (membrana del glóbulo de grasa de la leche), un componente presente de forma natural en la leche.\n- Lata de 800 g de fórmula en polvo.\n\nModo de uso:\nPrepare el producto exactamente como se indica en la tabla de preparación del empaque, con agua previamente hervida y enfriada, y con utensilios limpios. Use únicamente la cuchara medidora incluida y nivele cada medida. Consuma el producto recién preparado y deseche lo que sobre. Después de abrir, cierre bien la lata, guárdela en un lugar fresco y seco, y consúmala en el tiempo indicado en la etiqueta.\n\nPresentación:\nLata con 800 g de fórmula en polvo.\n\nAdvertencias:\nNo es adecuado para menores de 12 meses ni sustituye a la leche materna en lactantes. Prepare siempre con higiene estricta y no altere las proporciones de agua y polvo. Contiene leche. Consulte a su pediatra sobre la alimentación de su hijo.",
+  "titulo": "Fórmula Infantil Enfagrow Premium Etapa 3 Lata 800 g",
+  "descripcion": "Descripción:\nEnfagrow Premium Etapa 3 es un alimento en polvo a base de leche, deshidratado y adicionado con DHA, MFGM, vitaminas, minerales y prebióticos, elaborado por Mead Johnson para niños de corta edad a partir de 1 año. Según el fabricante, sus ingredientes ayudan al desarrollo mental (que es multifactorial), al sistema inmune y al sistema digestivo.\n\nCaracterísticas:\n- Etapa 3, para niños a partir de 1 año de edad.\n- Con MFGM y DHA, que ayudan al desarrollo mental.\n- Con prebióticos que apoyan el funcionamiento del sistema digestivo.\n- Con vitaminas y minerales que ayudan al sistema inmune.\n- Lata con 800 g de polvo.\n\nModo de uso:\nLea las instrucciones de preparación y uso que aparecen en la etiqueta del producto. La porción sugerida es de 39 g de polvo por cada 210 ml de preparado.\n\nPresentación:\nLata con 800 g.\n\nAdvertencias:\n- Una vez abierta la lata, ciérrela con la tapa de plástico y guárdela bien cerrada en un lugar fresco y seco; utilice el contenido dentro de los 30 días siguientes.\n- Si el producto cambia de apariencia, color, olor o sabor, debe desecharse.\n- Consulte con su pediatra acerca de las alternativas de alimentación para su bebé.\n- La fecha de caducidad y el número de lote están en la base de la lata.",
   "ficha": {
     "marca": "Enfagrow",
-    "fabricante": "Mead Johnson",
+    "fabricante": "Mead Johnson Nutricionales de México",
     "linea": "Premium",
-    "variante": "Etapa 3 con MFGM",
+    "variante": "Etapa 3 con MFGM y DHA",
     "presentacion": "Lata en polvo",
     "contenido_neto": 800,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "edad_etapa": "1 a 3 años",
-    "otros": "Formato de venta: Unidad; Etapa: 3"
+    "edad_etapa": "A partir de 1 año",
+    "otros": "Etapa: 3; Porción sugerida: 39 g en 210 ml; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506205809248_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506205809248.jpg",
+      "pagina": "https://www.fahorro.com/enfagrow-promental-etapa-3-formula-infantil-para-ni-os-a-partir-de-1-a-o-lata-800-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1208,
+      "fecha": "2026-09-29",
+      "lado_util": 1119
+    },
+    {
+      "archivo": "7506205809248_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506205809248_2.jpg",
+      "pagina": "https://www.fahorro.com/enfagrow-promental-etapa-3-formula-infantil-para-ni-os-a-partir-de-1-a-o-lata-800-gr.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/enfagrow-premium-3-800g/MXYZ_7506205809248.html",
+    "https://www.fahorro.com/enfagrow-promental-etapa-3-formula-infantil-para-ni-os-a-partir-de-1-a-o-lata-800-gr.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (ENFAGROW PREMIUM 3 800 GR; otro registro del sistema con el mismo GTIN dice ENFAGROW 3 PREMIUM MFGM 800 G) y conocimiento general. Confirmar el rango de edad (1 a 3 años) y la composición (DHA, prebióticos, etc.) en la ficha del fabricante antes de publicar. El GTIN aparece duplicado en el maestro (ids 303 y 948).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una farmacia y en el SKU de otra. Las tiendas lo nombran Enfagrow Premium Pro Select Etapa 3 / Enfagrow 3; la foto muestra el empaque Premium con MFGM. El sitio oficial de Mead Johnson/Enfamil no se consultó. La lata dice 1 a 3 años. Duplicado del GTIN en el maestro (ids 303 y 948).",
+    "notas_imagenes": "2 fotos de tienda (lata de frente y en ángulo) del servidor de Farmacias del Ahorro; se descartaron 3 gráficos promocionales.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

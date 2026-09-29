@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE LUMIN WHIT CARBON 66ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Luminous White Carbón Activado 66 ml",
+  "descripcion": "Descripción:\nColgate Luminous White Carbón Activado es una crema dental blanqueadora anticaries con flúor, formulada con la tecnología del carbón activado para lograr una sonrisa visiblemente más luminosa. Tiene sabor mentolado (dazzling mint) que deja una sensación de frescura y ayuda a mantener el buen aliento. Se presenta en tubo de 66 ml.\n\nBeneficios:\n- Blanquea los dientes de manera visible gracias al carbón activado.\n- Remueve las manchas superficiales del esmalte.\n- Contiene flúor para una acción anticaries.\n- Sabor mentolado que aporta frescura y ayuda a mantener el buen aliento.\n- Se complementa con los cepillos, enjuagues y otros productos de la línea Luminous White.\n\nModo de uso:\nCepille sus dientes con una cantidad adecuada de crema dental, cuidando todas las superficies, y enjuague la boca con agua. Utilícela como parte de su higiene bucal diaria, según las instrucciones del empaque.\n\nPresentación:\nTubo con 66 ml de crema dental.\n\nAdvertencias:\nProducto de uso bucal; no se ingiera. Los niños pequeños deben cepillarse con la supervisión de un adulto y usar una cantidad mínima de crema dental. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Luminous White",
+    "variante": "Carbón Activado",
+    "presentacion": "Crema dental en tubo",
+    "contenido_neto": 66,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Tipo: blanqueadora anticaries con flúor; Ingrediente destacado: carbón activado; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546674018_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20241219_1045814.jpg",
+      "pagina": "https://www.benavides.com.mx/crema-dental-colgate-luminous-white-carbon-activado-66-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/crema-dental-colgate-luminous-white-carbon-activado-66-ml",
+    "https://farmaciasmedina.com/detalleProducto/Colgate-Luminous-White-Crema-Dental-Carbon-Activado-Anticaries-Con-Fluor/7509546674018",
+    "https://www.yza.mx/colgate-lum-white-crema-dent-carbo-66ml/MXYZ_7509546674018.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (URL y código). No se encontró lista de ingredientes ni modo de uso detallado en las fuentes; el modo de uso y las advertencias son generales de una crema dental con flúor.",
+    "notas_imagenes": "1 foto de frente al tubo (tienda: Benavides, 1000 px), correcta en variante y contenido.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

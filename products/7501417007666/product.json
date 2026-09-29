@@ -42,7 +42,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "Identificado por nombre: una farmacia lista 'Magnesia Coyoacán 7 gr, 3 pzas.'. El GTIN 7501417007666 no apareció en ninguna página; las páginas de otras tiendas traen otros GTIN (7501417010253 para el cubo individual y 7501417005044 para un paquete con obsequio). El empaque se declara suplemento alimenticio, por eso va en Suplementos Alimenticios aunque una farmacia lo clasifica como antiácido. Las advertencias son generales, no del empaque.",
-    "notas_imagenes": "Sin fotos: las únicas imágenes halladas son del cubo individual con otro GTIN y traen un cintillo promocional de '30% gratis' sobre el envoltorio. No se guardó ninguna.",
+    "notas_imagenes": "Sin fotos. Superfarmacia Universal solo ofrece una imagen de 240x240 (rechazada por pequeña) y es del cubo individual; Klyns (API de catálogo) tiene solo el cubo individual GTIN 7501417010253 ('empaque con un terrón'), no el paquete de 3; Farmacias Guadalajara (la ficha 'Magnesia Coyoacán 7 gr, 3 pzas.') no abre por curl (error HTTP/2/respuesta vacía) y por WebFetch no expone imagen; Medina no tiene el producto.",
     "fecha": "2026-09-29"
   }
 }

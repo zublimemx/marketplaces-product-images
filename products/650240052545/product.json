@@ -4,15 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "XL3 C10 ANTIGRIPAL",
   "nombres_sistema_alternos": [],
-  "titulo": "Antigripal XL-3 10 Piezas",
-  "descripcion": "Descripción:\nXL-3 Antigripal es un medicamento de la marca XL-3 para el tratamiento sintomático del resfriado y la gripe, presentado en caja con 10 piezas. La composición exacta y la dosis deben consultarse en el empaque del producto.\n\nPresentación:\n- Caja con 10 piezas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "XL-3 Antigripal 325 mg/10 mg/4 mg 10 Tabletas",
+  "descripcion": "Descripción:\nXL-3 Antigripal es un medicamento en tabletas de Genomma Lab que combina paracetamol, fenilefrina y clorfenamina para ayudar a aliviar los síntomas del resfriado común. Su empaque señala alivio de la congestión y el escurrimiento nasal, el dolor de cabeza y de garganta, el cuerpo cortado, los estornudos y los ojos llorosos. La caja contiene 10 tabletas de administración oral.\n\nBeneficios:\n- Ayuda a aliviar los síntomas del resfriado común.\n- Congestión y escurrimiento nasal.\n- Dolor de cabeza y de garganta.\n- Cuerpo cortado.\n- Estornudos y ojos llorosos.\n\nFórmula:\nCada tableta contiene paracetamol 325 mg, fenilefrina 10 mg y clorfenamina 4 mg.\n\nModo de uso:\nVía oral. Consulte la dosis, la frecuencia y la duración máxima del tratamiento en el instructivo del empaque.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nContiene paracetamol: no lo combine con otros medicamentos que lo incluyan. La clorfenamina puede producir somnolencia; tenga precaución si conduce o maneja maquinaria. Consulte a su médico si tiene hipertensión, enfermedades del corazón, diabetes, glaucoma o problemas de próstata, si está embarazada o en lactancia, o si los síntomas persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "XL-3",
+    "fabricante": "Genomma Lab",
     "variante": "Antigripal",
+    "presentacion": "Caja con tabletas",
     "contenido_neto": 10,
-    "unidad_contenido": "piezas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 10,
-    "otros": "Formato de venta: Unidad"
+    "principio_activo": "Paracetamol, fenilefrina y clorfenamina",
+    "concentracion": "325 mg/10 mg/4 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "65166 SSA VI",
+    "otros": "Forma farmacéutica: Tableta; Venta libre"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -26,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240052545_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240052545_01.jpg",
+      "pagina": "https://www.fahorro.com/xl-3-antigripal-10-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1082,
+      "fecha": "2026-09-29",
+      "lado_util": 1002
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/gripe-y-tos/37215-comprar-xl-3-antigripal-caja-con-10-tabletas-precio.html",
+    "https://www.farmaciasguadalajara.com/medicina/antigripales/xl-3-antigripal-325mg-10mg-4mg--10-tabletas.-1348787.html",
+    "https://www.fahorro.com/xl-3-antigripal-10-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). El GTIN tiene 12 dígitos y no se pudo probar con 0 inicial. Forma farmacéutica (tabletas o cápsulas), principios activos y fabricante sin confirmar; por eso el título usa piezas.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 650240052545 (12 dígitos) coincide con la ficha de tienda; composición, síntomas y contenido leídos del empaque. La ficha de tienda muestra un registro sanitario con vigencia vencida en 2022, por eso conviene revisarlo antes de publicar. Advertencias generales de los ingredientes; el instructivo no estaba disponible.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 1082 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

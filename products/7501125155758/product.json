@@ -4,36 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "VITAFUSIN SOL INY AD MULTIVITAMINICO PISA",
   "nombres_sistema_alternos": [],
-  "titulo": "Vitafusin Multivitamínico Inyectable Adultos Pisa",
-  "descripcion": "Descripción:\nVitafusin Adultos es una solución inyectable multivitamínica de Laboratorios PiSA, formulada para uso en adultos y administrada por personal de salud.\n\nPresentación:\nSolución inyectable multivitamínica para adultos.\n\nAdvertencias:\nAdministración parenteral por personal capacitado. No lo use si presenta alergia a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Vitafusin Multivitamínico Adulto Solución Inyectable 5 ml",
+  "descripcion": "Descripción:\nVitafusin Adulto de Laboratorios PiSA es un multivitamínico en solución inyectable de administración intravenosa. Se presenta como frasco ámpula con liofilizado y ampolleta con diluyente de 5 ml. Según la información del medicamento, está indicado para adultos y niños mayores de 11 años que requieran un aporte adecuado de vitaminas, en especial pacientes con nutrición parenteral y quienes presentan deficiencias nutricionales severas.\n\nComposición:\n- Combinación de vitaminas liposolubles (A, D, E y K) e hidrosolubles (complejo B y vitamina C)\n- Incluye retinol, colecalciferol y tocofersolán\n\nModo de uso:\nVía intravenosa. Debe prepararse y administrarse por personal de salud, con la dosis y esquema que indique el médico.\n\nPresentación:\n- Caja con 1 frasco ámpula con liofilizado y 1 ampolleta con diluyente de 5 ml\n- Hecho en México por Laboratorios PiSA\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Si aparece enrojecimiento, comezón o dificultad para respirar, suspenda su uso y consulte de inmediato al médico. Durante el embarazo y la lactancia úselo solo bajo supervisión médica. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Vitafusin",
-    "fabricante": "PiSA",
-    "variante": "Adultos",
-    "presentacion": "solución inyectable",
-    "via_administracion": "Parenteral",
-    "edad_etapa": "Adultos"
+    "fabricante": "Laboratorios PiSA",
+    "linea": "Vitafusin Adulto",
+    "presentacion": "Solución inyectable, frasco ámpula con liofilizado y ampolleta con diluyente",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Multivitamínico (retinol, colecalciferol, tocofersolán y otras vitaminas)",
+    "via_administracion": "Intravenosa",
+    "edad_etapa": "Adultos y niños mayores de 11 años",
+    "registro_sanitario": "093M86 SSA IV",
+    "otros": "Hecho en México; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM438195",
-      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125155758_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125155758_2.jpg",
+      "pagina": "https://www.fahorro.com/vitafusin-5-ml-solucion-inyectable-adulto.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1411,
+      "fecha": "2026-09-29",
+      "lado_util": 1307
+    },
+    {
+      "archivo": "7501125155758_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125155758_3.jpg",
+      "pagina": "https://www.fahorro.com/vitafusin-5-ml-solucion-inyectable-adulto.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1377,
+      "fecha": "2026-09-29",
+      "lado_util": 1275
+    },
+    {
+      "archivo": "7501125155758_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125155758.jpg",
+      "pagina": "https://www.fahorro.com/vitafusin-5-ml-solucion-inyectable-adulto.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1347,
+      "fecha": "2026-09-29",
+      "lado_util": 1247
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Multivitaminicos/4169-vitafusin-adulto-frasco-ampula-con-5-ml.html",
+    "https://infocode.io/b2b/07501125155758/details",
+    "https://www.fahorro.com/vitafusin-5-ml-solucion-inyectable-adulto.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). Faltan composición, número de piezas y forma exacta (frasco ámpula o kit con diluyente). Se interpretó AD como Adultos. Es un inyectable: la categoría de suplementos es provisional y podría ir mejor en Otros Medicamentos (MLM194677); revisar receta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas. La categoría MLM194677 (Otros Medicamentos) se eligió por ser inyectable con receta; si se prefiere vitaminas, MLM438195. No se encontraron las cantidades completas de cada vitamina.",
+    "notas_imagenes": "3 fotos de tienda: caja en 3D (1411 px), panel lateral con el registro sanitario (1377 px) y caja de frente (1347 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "HU ALL AROUND UNI E6 C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Huggies All Around Unisex Etapa 6 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies All Around, pañal autoajustable etapa 6 unisex, para bebés de 13.5 a 18 kg. Su tecnología de autoajuste total All Around acompaña los movimientos del bebé para darle comodidad y libertad al gatear, caminar y jugar. Bolsa con 40 pañales.\n\nCaracterísticas:\n- Pañal autoajustable con tecnología de autoajuste total All Around.\n- Suave cintura de ajuste perfecto y cobertura perfecta.\n- Absorción Huggies con indicador de humedad.\n- Se mantiene como recién puesto.\n- Doble barrera de alta protección.\n- Diseños con personajes de Disney.\n- Unisex, para niños y niñas.\n\nModo de uso:\nSiga las instrucciones de colocación impresas en el empaque y ajuste el pañal a la cintura del bebé. Cambie el pañal cuando el indicador de humedad lo señale.\n\nPresentación:\nBolsa con 40 pañales etapa 6 unisex (13.5 a 18 kg).",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "All Around",
+    "variante": "Pañal autoajustable",
+    "presentacion": "Bolsa con pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 6",
+    "talla": "Etapa 6 (13.5 a 18 kg)",
+    "genero": "Unisex",
+    "otros": "Peso del bebé: 13.5 a 18 kg; Con indicador de humedad; Tecnología de autoajuste total; Formato de venta: Bolsa"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,65 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943488687_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943488687.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1523,
+      "fecha": "2026-09-29",
+      "lado_util": 1411
+    },
+    {
+      "archivo": "7501943488687_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943488687_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1440,
+      "fecha": "2026-09-29",
+      "lado_util": 1334
+    },
+    {
+      "archivo": "7501943488687_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943488687_2.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1694,
+      "fecha": "2026-09-29",
+      "lado_util": 1569
+    },
+    {
+      "archivo": "7501943488687_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943488687_3.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1491,
+      "fecha": "2026-09-29",
+      "lado_util": 1381
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pa-al-huggies-all-around-etapa-6-unisex-40-pz.html",
+    "https://www.klyns.mx/huggies-all-around-et-6-c-40/p",
+    "https://www.lagranbodega.com.mx/pa%C3%B1al-huggies-etapa-6-all-around-unisex-con-40-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Características y rango de peso leídos de la foto del empaque. El sitio del fabricante devolvió 403. El modo de uso es general.",
+    "notas_imagenes": "4 fotos de tienda (1440 a 1694 px: frente y ángulos). Se borró una con leyenda promocional de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

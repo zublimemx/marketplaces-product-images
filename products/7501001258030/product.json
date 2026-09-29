@@ -4,19 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL C24 TABS ORIGINAL",
   "nombres_sistema_alternos": [],
-  "titulo": "Pepto-Bismol Original 24 Tabletas",
-  "descripcion": "Descripción:\nPepto-Bismol Original es un medicamento de Procter & Gamble cuyo principio activo es el subsalicilato de bismuto, en presentación de tabletas, caja con 24 piezas.\n\nPresentación:\n- Tabletas de administración oral\n- Caja con 24 tabletas\n\nAdvertencias:\nContiene un derivado del ácido salicílico; consulte a su médico antes de usarlo si es alérgico a la aspirina o a los salicilatos. Puede oscurecer de forma temporal la lengua o las heces. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Pepto-Bismol Original 262.4 mg 24 Tabletas Masticables",
+  "descripcion": "Descripción:\nPepto-Bismol es un medicamento de Procter & Gamble con subsalicilato de bismuto, en tabletas masticables. Según la etiqueta, cubre, protege y alivia acidez, indigestión, malestar estomacal causado por sentirse pleno, náusea producto de indigestión y diarrea, que controla en 4 a 24 horas. En acidez actúa con una acción protectora sin causar estreñimiento.\n\nComposición:\n- Cada tableta contiene subsalicilato de bismuto 262.4 mg\n\nModo de uso:\nVía oral. Mastíquese antes de tragar. Adultos: 2 tabletas. Niños de 9 a 12 años: 1 tableta. Niños de 6 a 9 años: 2/3 de tableta. Repita la dosis según se requiera, máximo 8 dosis en 24 horas. Si las molestias persisten por más de 2 días, consulte a su médico.\n\nPresentación:\n- Caja con 24 tabletas masticables\n- Conservar a no más de 40 °C\n\nAdvertencias:\nNo lo use si padece úlceras sangrantes, insuficiencia renal, hemofilia o hipersensibilidad a los salicilatos. No se administre a niños menores de 6 años. Contiene salicilato: no lo tome si es alérgico al ácido acetilsalicílico. No lo use para tratar náusea o vómito en niños o adolescentes que tengan o se recuperen de varicela o gripe, por el riesgo de síndrome de Reye. Puede oscurecer temporalmente la lengua y las evacuaciones. Consulte a su médico si tiene diabetes, gota o fiebre elevada, o si toma anticoagulantes o tetraciclina. En embarazo o lactancia, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Pepto-Bismol",
     "fabricante": "Procter & Gamble",
+    "linea": "Pepto-Bismol",
     "variante": "Original",
-    "presentacion": "Tabletas",
+    "presentacion": "Tabletas masticables",
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
     "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "262.4 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos y niños mayores de 6 años",
+    "sabor_aroma": "Original",
+    "registro_sanitario": "091M88 SSA VI",
+    "otros": "Venta libre; Hecho en México; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -30,14 +35,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001258030_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001258030_2.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol-tabletas-masticables-anis-24-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1235,
+      "fecha": "2026-09-29",
+      "lado_util": 1144
+    },
+    {
+      "archivo": "7501001258030_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001258030_1.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol-tabletas-masticables-anis-24-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1362,
+      "fecha": "2026-09-29",
+      "lado_util": 1262
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501001258030/details",
+    "https://www.yza.mx/pepto-bismol-24-tabs/MXYZ_7501001258030.html",
+    "https://www.fahorro.com/pepto-bismol-tabletas-masticables-anis-24-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre y conocimiento previo; concentración por tableta (probablemente 262 mg) y si son masticables sin verificar. Fabricante Procter & Gamble inferido por la marca.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas; texto tomado de la contraetiqueta del empaque. Algunas tiendas describen el sabor como anís; el empaque de este GTIN se identifica como Original.",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja rosa con 24 tabletas (1362 px) y contraetiqueta legible con fórmula y dosis (1362 px). Se descartó una imagen publicitaria.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

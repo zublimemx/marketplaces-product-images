@@ -4,37 +4,94 @@
   "linea": "Farma",
   "nombre_sistema": "RECOVERON GRAN 12G SOB C10",
   "nombres_sistema_alternos": [],
-  "titulo": "Recoveron Gran 12 g 10 Sobres",
-  "descripcion": "Descripción:\nRecoveron Gran de la marca Recoveron, en sobres de 12 g. Presentación en caja con 10 sobres.\n\nPresentación:\nCaja con 10 sobres de 12 g cada uno.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Recoverón Granulado Ácido Acexámico 10 Sobres de 12 g",
+  "descripcion": "Descripción:\nRecoverón es un medicamento en granulado oral de Armstrong Laboratorios de México cuyo principio activo es el ácido acexámico, presente como acexamato de calcio. Se presenta en caja con 10 sobres de granulado que se disuelve en agua para tomarse por vía oral. Es un medicamento de prescripción: su venta requiere receta médica.\n\nBeneficios:\n- Coadyuvante en la terapia para la osificación de fracturas por osteoporosis e hipocalcemia.\n- Auxiliar en los procesos de cicatrización cutánea, como en quemaduras de primero y segundo grado y en el complejo vasculocutáneo de la pierna.\n- Cada sobre aporta el equivalente a 520 mg de calcio.\n\nComposición:\nCada sobre contiene acexamato de calcio equivalente a 4.740 g de ácido acexámico y excipiente cbp. Contiene el equivalente a 520 mg de calcio. Contiene 53 por ciento de azúcar y 0.3 por ciento de otros azúcares.\n\nModo de uso:\nVía oral. Disuelva previamente el contenido del sobre en medio vaso con agua. La dosis es la que el médico señale.\n\nPresentación:\nCaja con 10 sobres de granulado (12 g por sobre según la presentación comercial).\n\nAdvertencias:\nSu venta requiere receta médica. Está contraindicado en pacientes con hipersensibilidad conocida al medicamento, con hipercalcemia o con litiasis renal. No existe información sobre su uso durante el embarazo y la lactancia, por lo que su uso queda bajo responsabilidad del médico. Conservar a no más de 30 °C y mantener la caja bien cerrada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Recoveron",
-    "variante": "Gran",
+    "marca": "Recoverón",
+    "fabricante": "Armstrong Laboratorios de México",
+    "linea": "Recoverón",
+    "variante": "Granulado (Gran)",
     "presentacion": "sobres",
     "contenido_neto": 12,
     "unidad_contenido": "g",
     "unidades_por_envase": 10,
-    "otros": "Contenido por sobre: 12 g; Sobres por caja: 10; Formato de venta: Unidad"
+    "principio_activo": "Ácido acexámico (como acexamato de calcio)",
+    "concentracion": "4.740 g de ácido acexámico por sobre",
+    "via_administracion": "Oral",
+    "registro_sanitario": "82886 SSA IV",
+    "otros": "Forma farmacéutica: granulado oral; Aporta el equivalente a 520 mg de calcio por sobre; Formato de venta: caja con 10 sobres"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089804082_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/08/7501089804082-1777587117309-161157-1.jpeg",
+      "pagina": "https://farmaciasfleming.mx/producto/recoveron-gdo-12-gr-c-10-sob/",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1459,
+      "fecha": "2026-09-29",
+      "lado_util": 1351
+    },
+    {
+      "archivo": "7501089804082_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/08/7501089804082-1777587122614-16122-1.jpeg",
+      "pagina": "https://farmaciasfleming.mx/producto/recoveron-gdo-12-gr-c-10-sob/",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1460,
+      "fecha": "2026-09-29",
+      "lado_util": 1352
+    },
+    {
+      "archivo": "7501089804082_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/08/7501089804082-1777587127769-16127-1.jpeg",
+      "pagina": "https://farmaciasfleming.mx/producto/recoveron-gdo-12-gr-c-10-sob/",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1458,
+      "fecha": "2026-09-29",
+      "lado_util": 1350
+    },
+    {
+      "archivo": "7501089804082_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://e-comm-pub-prod.s3.amazonaws.com/img-comp/7501089804082_01.jpg",
+      "pagina": "https://farmaciasfleming.mx/producto/recoveron-gdo-12-gr-c-10-sob/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1248,
+      "fecha": "2026-09-29",
+      "lado_util": 1154
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasmart.com/recoveron-gran-12g-sob-c10",
+    "https://farmaciasfleming.mx/producto/recoveron-gdo-12-gr-c-10-sob/",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/3160-recoveron-12-g-con-10-sobres.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar composición, forma (polvo o granulado), indicaciones ni fabricante. Categoría genérica por confirmar (podría ser suplemento o medicamento).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (caja con 10 sobres, Armstrong). La caja muestra 4.740 g de ácido acexámico por sobre, mientras que las tiendas y el nombre del sistema hablan de 12 g (peso del granulado); se respetó el nombre del sistema. Una ficha de tienda describe el producto como hemostático, pero la indicación de osificación de fracturas y cicatrización viene de otra ficha y es consistente con el ácido acexámico. Categoría musculoarticular por la indicación de fracturas.",
+    "notas_imagenes": "4 fotos de tienda en línea: frente en 3D, vista con fórmula y registro, vista lateral y frente en 1248 px. Se descartó una foto de 616 px con mancha roja y una vista trasera repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

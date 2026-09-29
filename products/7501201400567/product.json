@@ -4,20 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "REFRESH TEARS 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "Refresh Tears Gotas Lubricantes para Ojos 10 ml",
-  "descripcion": "Descripción:\nRefresh Tears es una solución oftálmica lubricante (lágrimas artificiales) de Allergan, una compañía de AbbVie, en frasco de 10 ml. Su ingrediente activo es la carboximetilcelulosa sódica al 0.5%, que humecta y lubrica la superficie del ojo.\n\nBeneficios:\n- Ayuda a aliviar la irritación y la molestia ocasional por resequedad ocular.\n- Uso oftálmico.\n\nComposición:\nCarboximetilcelulosa sódica 0.5% (5 mg/ml).\n\nModo de uso:\nAplique una o dos gotas en el ojo o los ojos afectados cuantas veces sea necesario, o según lo indique su médico.\n\nPresentación:\nFrasco gotero con 10 ml de solución oftálmica.\n\nAdvertencias:\nNo toque la punta del gotero con el ojo ni con otra superficie. Cierre el frasco después de cada uso. No lo use si el sello de seguridad está roto. Suspenda su uso y consulte a su médico si presenta dolor ocular, cambios en la visión o enrojecimiento o irritación que persiste. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Refresh Tears Solución Oftálmica Lubricante 10 ml",
+  "descripcion": "Descripción:\nRefresh Tears es una solución lubricante oftálmica con carboximetilcelulosa sódica al 0.5%, en frasco gotero de 10 ml. Es un auxiliar en la humectación ocular asociada a la disminución o ausencia de lágrimas. Alivia la resequedad, la irritación, el malestar, la visión borrosa o la comezón ocasionados por condiciones ambientales o por el uso de lentes de contacto. Se presenta como refrescante para ojos secos, irritados o con molestia ocular.\n\nComposición:\n- Carboximetilcelulosa sódica al 0.5%\n\nModo de uso:\nVía oftálmica. Aplique las gotas en el ojo según la indicación del empaque o de su médico. No es necesario retirar los lentes de contacto para usarlo; también puede usarse como lubricante protector colocando una gota sobre el lente antes de aplicarlo en el ojo.\n\nPresentación:\n- Caja con frasco gotero de 10 ml\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Evite tocar la punta del gotero con el ojo o con otras superficies para no contaminar la solución. Si el malestar persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Refresh",
-    "fabricante": "Allergan (AbbVie)",
-    "linea": "Tears",
-    "presentacion": "solución oftálmica (gotas)",
+    "marca": "Refresh Tears",
+    "fabricante": "AbbVie (Allergan)",
+    "linea": "Refresh",
+    "presentacion": "Solución oftálmica con frasco gotero",
     "contenido_neto": 10,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Carboximetilcelulosa sódica",
     "concentracion": "0.5%",
     "via_administracion": "Oftálmica",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Lubricante ocular; Hecho en Brasil; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501201400567_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501201400567_3.jpg",
+      "pagina": "https://www.fahorro.com/refresh-tears-lubricante-oftalmico-gotas-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1428,
+      "fecha": "2026-09-29",
+      "lado_util": 1323
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501201400567/details",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/3198-refresh-tears-gotas-con-10-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Confirmar que el frasco de 10 ml lleve carboximetilcelulosa 0.5% y no otra variante de Refresh.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos (carboximetilcelulosa sódica Allergan, 10 ml). El empaque actual muestra la marca AbbVie y el registro aún muestra Allergan.",
+    "notas_imagenes": "1 foto de frente de la caja con marca AbbVie (1428 px, tienda). Se descartaron el empaque anterior con marca Allergan y una foto de otro producto (Refresh Fusion).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

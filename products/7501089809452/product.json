@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "KAOMYCIN VERDE COMP SUSP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Kaomycin Suspensión Neomicina Caolín Pectina 180 ml",
+  "descripcion": "Descripción:\nKaomycin suspensión, de Armstrong Laboratorios de México, es un antiséptico intestinal y antidiarreico indicado en procesos diarreicos con o sin infección, en niños y adultos, incluyendo la diarrea alimenticia y la diarrea del viajero. Combina neomicina, caolín y pectina, y viene en frasco de 180 ml con vaso dosificador.\n\nCaracterísticas:\n- Rápida acción contra todo tipo de diarrea, con o sin infección.\n- Suspensión de administración oral.\n- Incluye vaso dosificador.\n- Actividad frente a bacterias gram positivas y gram negativas.\n\nComposición:\nCada 100 ml contienen sulfato de neomicina 0.71 g, caolín 20.00 g y pectina 1.00 g.\n\nModo de uso:\nVía oral. La dosis es la que indique el médico. Agite antes de usar.\n\nPresentación:\nFrasco con 180 ml y vaso dosificador.\n\nAdvertencias:\nNo lo utilice por más de cinco días consecutivos. Si la diarrea continúa o empeora, acuda con su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Kaomycin",
+    "fabricante": "Armstrong Laboratorios de México",
+    "variante": "Verde",
+    "presentacion": "Frasco con vaso dosificador",
+    "contenido_neto": 180,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Sulfato de neomicina, Caolín, Pectina",
+    "concentracion": "0.71 g / 20.00 g / 1.00 g por 100 ml",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: suspensión; Incluye vaso dosificador; Formato de venta: frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089809452_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089809452.jpg",
+      "pagina": "https://www.fahorro.com/kaomycin-antidiarreico-suspension-oral-180-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1590,
+      "fecha": "2026-09-29",
+      "lado_util": 1473
+    },
+    {
+      "archivo": "7501089809452_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089809452_1.jpg",
+      "pagina": "https://www.fahorro.com/kaomycin-antidiarreico-suspension-oral-180-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1023,
+      "fecha": "2026-09-29",
+      "lado_util": 948
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/kaomycin-suspension-180ml/MXYZ_7501089809452.html",
+    "https://www.fahorro.com/kaomycin-antidiarreico-suspension-oral-180-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En el nombre del sistema 'Verde' corresponde al frasco verde y 'COMP' se interpretó como presentación con vaso dosificador; el GTIN coincide con Kaomycin suspensión de 180 ml. Sin registro sanitario visible. 'Agite antes de usar' es la indicación estándar de una suspensión, no se leyó en el empaque.",
+    "notas_imagenes": "2 fotos de frente (1590 y 1023 px) de tienda; se descartó una del reverso sin información útil.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,17 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "QUADRIDERM NF CRA 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "Quadriderm NF Crema 30 g",
-  "descripcion": "Descripción:\nQuadriderm NF es una crema de uso dermatológico que combina un corticosteroide, un antibiótico y agentes antimicóticos, para su aplicación sobre la piel. Se emplea bajo indicación médica en afecciones de la piel que cursan con inflamación e infección por bacterias u hongos. Esta presentación es un tubo con 30 g de crema.\n\nModo de uso:\nProducto de uso externo. Aplique una capa delgada sobre el área afectada, limpia y seca, con la frecuencia y la duración que indique su médico o el instructivo. No exceda el tiempo de tratamiento recomendado y lávese las manos después de aplicarlo.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nSolo para uso externo. No debe aplicarse en los ojos ni en las mucosas. No lo use si es alérgico a alguno de los componentes de la fórmula. El uso prolongado o en grandes extensiones de piel puede causar efectos indeseables, por lo que debe usarse solo con supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Quadriderm NF Crema 30 g Betametasona/Clotrimazol",
+  "descripcion": "Descripción:\nQuadriderm NF es una crema de uso tópico de Organon que combina un corticosteroide (betametasona), un antimicótico (clotrimazol) y un antibiótico (gentamicina). Está indicada para afecciones de la piel que presentan inflamación, infección y comezón, como dermatitis por contacto, dermatitis atópica y eczema que requieren acción antiinflamatoria y antimicótica. Se presenta en una caja con un tubo de 30 g.\n\nCaracterísticas:\n- Tres principios activos: betametasona, clotrimazol y gentamicina.\n- Acción antiinflamatoria, antimicótica y antibacteriana.\n- Para aplicación cutánea.\n- Caja con tubo de 30 g.\n\nComposición:\nCada 100 g de crema contienen: betametasona 0.05 g, clotrimazol 1 g, gentamicina 0.10 g, excipiente cbp.\n\nModo de uso:\nVía cutánea. Aplique una capa delgada sobre la zona afectada una o dos veces al día, o como lo indique su médico.\n\nPresentación:\nCaja con tubo con 30 g de crema.\n\nAdvertencias:\nVenta con receta médica. No lo use en caso de hipersensibilidad a los componentes, infecciones virales, tuberculosis cutánea, rosácea, acné vulgar o lesiones de la piel sin diagnóstico. Evite aplicarlo en áreas extensas del cuerpo o en lesiones muy grandes y no lo ponga en contacto con los ojos ni con mucosas. Si los síntomas persisten o empeoran, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Quadriderm",
-    "variante": "NF",
+    "fabricante": "Organon",
+    "linea": "NF",
     "presentacion": "Crema",
     "contenido_neto": 30,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica",
-    "otros": "Formato de venta: Tubo; Uso: Externo"
+    "principio_activo": "Betametasona, clotrimazol, gentamicina",
+    "concentracion": "0.05 g / 1 g / 0.10 g por 100 g",
+    "via_administracion": "Cutánea",
+    "otros": "Formato de venta: Caja con tubo; Requiere receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -28,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050603997_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__48b921b0-f076-40b3-bd46-ac1063e8de2f.jpg",
+      "pagina": "https://wecarepharma.mx/en/products/quadriderm-nf-crema-0-05g-1g-0-10g-30g-betametasona-clotrimazol-gentamicina",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/quadriderm-nf-crema-0-05g-1g-0-10g-30g-betametasona-clotrimazol-gentamicina",
+    "https://farmaciasmedina.com/detalleProducto/Quadriderm-Nf-30-Mg-Crema-Tubo/7501050603997"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre (Quadriderm NF, 30 g). Se describe la combinación de corticosteroide, antibiótico y antimicóticos de forma general; no se verificó la fórmula exacta ni el fabricante (se omitieron).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN presente en varias farmacias en los resultados. Datos de composición y advertencias tomados de una sola ficha de farmacia (WeCare) y del empaque; la caja muestra Organon, otra fuente aún cita Schering-Plough.",
+    "notas_imagenes": "1 foto de tienda (WeCare Pharma): caja y tubo de frente, 2,000 px; el producto ocupa la franja central de la imagen.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

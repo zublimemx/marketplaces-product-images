@@ -5,7 +5,7 @@
   "nombre_sistema": "CYTOTEC 200MG C28 TABS MISOPROSTOL",
   "nombres_sistema_alternos": [],
   "titulo": "Cytotec Misoprostol 200 mcg 28 Tabletas",
-  "descripcion": "Descripción:\nCytotec es un medicamento cuyo principio activo es el misoprostol, un análogo sintético de la prostaglandina E1. Se presenta en tabletas de 200 microgramos (mcg) para administración oral, en caja con 28 tabletas.\n\nBeneficios:\n- Según su información de prescripción, se utiliza para la prevención y el tratamiento de úlceras gástricas y duodenales, en particular las asociadas al uso de antiinflamatorios no esteroideos (AINE).\n- Actúa protegiendo la mucosa del estómago al disminuir la secreción de ácido y favorecer las defensas de la mucosa.\n\nComposición:\nCada tableta contiene misoprostol 200 mcg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico; siga exactamente sus indicaciones.\n\nPresentación:\nCaja con 28 tabletas de 200 mcg.\n\nAdvertencias:\nContraindicado en el embarazo: el misoprostol puede provocar aborto, parto prematuro y malformaciones en el feto. No debe usarse si está embarazada o cree estarlo. Tampoco debe usarse en personas alérgicas al misoprostol o a otras prostaglandinas. Puede causar diarrea y dolor abdominal. Medicamento sujeto a prescripción médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nCytotec, de Pfizer, contiene misoprostol, un medicamento de uso oral indicado en el tratamiento y la prevención de lesiones del aparato digestivo alto. Su uso requiere prescripción y seguimiento médico.\n\nBeneficios:\n- Coadministración con antiinflamatorios no esteroideos (AINE) para el tratamiento y la prevención de úlceras gástricas y duodenales, lesiones hemorrágicas y erosiones inducidas por AINE.\n- Tratamiento de úlceras gástricas y duodenales activas.\n- Tratamiento de gastroduodenitis erosiva asociada con enfermedad de úlcera péptica.\n\nFórmula:\nCada tableta contiene misoprostol 200 mcg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 28 tabletas de 200 mcg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente bajo indicación y supervisión de su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Cytotec",
     "fabricante": "Pfizer",
@@ -17,7 +17,7 @@
     "concentracion": "200 mcg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Requiere receta médica; Formato de venta: Caja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -31,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501049714604_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501049714604.png",
+      "pagina": "https://www.fahorro.com/cytotec-200-mcg-oral-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1580,
+      "fecha": "2026-09-29",
+      "lado_util": 1463
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cytotec-200-mcg-oral-28-tabs.html",
+    "https://curitek.com/producto/cytotec-200-mcg-28-tabs/",
+    "https://farmaciasmedina.com/detalleProducto/Cytotec-28-Tabletas-Caja/7501049714604"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema y conocimiento general. El sistema dice 200MG pero la concentración comercial de Cytotec es 200 mcg (se usó mcg). Fabricante (Pfizer) inferido por conocimiento general. El misoprostol es un producto sensible: revisar las políticas de Mercado Libre para publicarlo (puede requerir receta o estar restringido).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas de farmacia. El sistema dice 200MG pero la concentración real es 200 mcg. Una farmacia lo marca sin receta y otra con receta; se asume receta. El misoprostol es un producto sensible: revisar las políticas de Mercado Libre antes de publicarlo.",
+    "notas_imagenes": "1 foto de tienda (empaque de frente, 1600 px) del servidor de Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

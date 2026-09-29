@@ -4,37 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "TREXEN DUO OVULOS",
   "nombres_sistema_alternos": [],
-  "titulo": "Trexen Duo Óvulos Vaginales",
-  "descripcion": "Descripción:\nTrexen Duo es un medicamento de uso ginecológico en presentación de óvulos vaginales, de la marca Trexen. Los óvulos se aplican directamente en la vagina y están pensados para uso local.\n\nModo de uso:\nLávese las manos, retire el óvulo de su envoltura e introdúzcalo profundamente en la vagina, de preferencia por la noche y en posición acostada. La dosis y la duración del tratamiento deben ser indicadas por su médico; complete el tratamiento aunque los síntomas desaparezcan.\n\nPresentación:\nCaja con óvulos vaginales. El número de piezas y la composición se indican en el empaque.\n\nAdvertencias:\nUso exclusivo por vía vaginal. No se ingiera. Revise en el empaque la composición, las indicaciones y las contraindicaciones. Consulte a su médico si está embarazada o en periodo de lactancia, o si presenta irritación, ardor o sangrado. Conservar a temperatura ambiente, en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Trexen Duo Clindamicina Ketoconazol 100/400 mg 7 Óvulos",
+  "descripcion": "Descripción:\nTrexen Duo, de Asofarma, es un medicamento de uso vaginal que combina dos principios activos: clindamicina, un antibiótico, y ketoconazol, un antimicótico. Está indicado en el tratamiento de infecciones vaginales como la vaginosis bacteriana, la candidiasis vaginal y la vaginitis mixta.\n\nBeneficios:\n- Por su acción antibiótica: vaginosis bacteriana causada por Bacteroides spp, Gardnerella vaginalis, Mobiluncus spp, Mycoplasma hominis y otros gérmenes anaerobios.\n- Por su acción antimicótica: candidiasis vaginal y vaginitis mixta.\n\nFórmula:\nCada óvulo contiene fosfato de clindamicina equivalente a 100 mg de clindamicina y ketoconazol 400 mg, con excipiente cbp 1 óvulo.\n\nModo de uso:\nVía vaginal. No es para ingerir. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 7 óvulos.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a la clindamicina, la lincomicina, el ketoconazol, otros antimicóticos azólicos o cualquier componente de la fórmula.\n- Puede causar irritación local, comezón o sensación de ardor, sobre todo al inicio del tratamiento.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Trexen",
+    "fabricante": "Asofarma de México",
     "linea": "Duo",
     "presentacion": "Óvulos vaginales",
+    "contenido_neto": 7,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 7,
+    "principio_activo": "Clindamicina y ketoconazol",
+    "concentracion": "100 mg / 400 mg",
     "via_administracion": "Vaginal",
     "edad_etapa": "Adultos",
     "genero": "Mujer",
-    "otros": "Formato de venta: Caja"
+    "otros": "Antibiótico y antimicótico; Requiere receta médica; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720644_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501871720644.jpg",
+      "pagina": "https://production-media.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1555,
+      "fecha": "2026-09-29",
+      "lado_util": 1440
+    },
+    {
+      "archivo": "7501871720644_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9cdc9604/images/large/7501871720644_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/trexen-duo-100mg400mg-7-ovulos/MXYZ_7501871720644.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 952,
+      "fecha": "2026-09-29",
+      "lado_util": 882
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/trexen-duo-ovulos-caja-c-7/p",
+    "https://www.actuamed.com.mx/marca/24449",
+    "https://www.yza.mx/trexen-duo-100mg400mg-7-ovulos/MXYZ_7501871720644.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (TREXEN DUO OVULOS). No se pudieron confirmar los principios activos, el número de óvulos ni el fabricante; completar con el empaque o el proveedor. Los óvulos vaginales combinados suelen requerir receta; revisar. Producto sin existencia en el sistema (stock 0).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas de farmacia (Trexen Duo 100 mg/400 mg, 7 óvulos, Asofarma). Una farmacia lo lista sin receta, pero contiene un antibiótico y el vademécum lo marca con receta; se asume receta. Existe también una presentación de ketoconazol 800 mg; esta es la de 400 mg. Producto sin existencia en el sistema (stock 0).",
+    "notas_imagenes": "2 fotos de tienda (caja de frente con la leyenda cápsulas y caja en ángulo con la leyenda óvulos); la primera del servidor de imágenes de Farmacias del Ahorro sin ficha activa confirmada.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

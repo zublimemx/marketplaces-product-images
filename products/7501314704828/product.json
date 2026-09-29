@@ -4,10 +4,12 @@
   "linea": "Farma",
   "nombre_sistema": "ULSEN PCS 40MG CAP C 14 OMEPRAZOL",
   "nombres_sistema_alternos": [],
-  "titulo": "Ulsen Omeprazol 40 mg 14 Cápsulas",
-  "descripcion": "Descripción:\nUlsen es un medicamento cuyo principio activo es omeprazol, un inhibidor de la bomba de protones, en presentación de cápsulas de 40 mg, caja con 14 piezas.\n\nComposición:\n- Omeprazol 40 mg por cápsula\n\nPresentación:\n- Cápsulas de administración oral\n- Caja con 14 cápsulas\n\nAdvertencias:\nUtilice el medicamento únicamente según la indicación de su médico, en la dosis y el tiempo que determine. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Ulsen PCS Omeprazol 40 mg 14 Cápsulas",
+  "descripcion": "Descripción:\nUlsen PCS es un medicamento de Laboratorios Senosiain cuyo principio activo es omeprazol, un inhibidor de la bomba de protones que reduce la secreción de ácido en el estómago. Se presenta en cápsulas de 40 mg, caja con 14 cápsulas. La literatura del fabricante para la familia Ulsen lo indica en úlcera péptica, gástrica y duodenal, esofagitis por reflujo, gastritis, prevención de gastritis asociada a antiinflamatorios no esteroideos, erradicación de H. pylori, síndrome de Zollinger-Ellison y otros estados de hipersecreción ácida en los que se requiera un bloqueador de la bomba de protones.\n\nComposición:\n- Omeprazol 40 mg por cápsula\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que señale el médico.\n\nPresentación:\n- Cápsulas de administración oral\n- Caja con 14 cápsulas de 40 mg\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. No debe administrarse junto con clopidogrel, ya que puede reducir su efecto. Consulte a su médico antes de usarlo si está embarazada o en periodo de lactancia. La literatura del fabricante indica que su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Ulsen",
+    "marca": "Ulsen PCS",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Ulsen",
     "presentacion": "Cápsulas",
     "contenido_neto": 14,
     "unidad_contenido": "cápsulas",
@@ -15,28 +17,46 @@
     "principio_activo": "Omeprazol",
     "concentracion": "40 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Inhibidor de la bomba de protones; Hecho en México; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
-      "categoria_rx_sugerida": "",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704828_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704828_3.jpg",
+      "pagina": "https://curitek.com/producto/ulsen-pcs-40-mg-14-capsulas-omeprazol/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1375
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/ulsen-capsulas/168/59/10248/14",
+    "https://infocode.io/b2b/07501314704828/details",
+    "https://www.yza.mx/ulsen-pcs-40mg-14-caps/MXYZ_7501314704828.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Datos tomados del nombre del sistema (omeprazol 40 mg, C14); GTIN sin verificar. Significado de PCS en el nombre no aclarado. Fabricante sin identificar. Verificar si omeprazol 40 mg requiere receta (alternativa Rx: MLM457828).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas. Las indicaciones provienen de la ficha PLM de la familia Ulsen (cápsulas de 20 mg); la concentración de 40 mg del PCS sale del empaque y del registro. PLM indica que la venta requiere receta, aunque algunas tiendas en línea lo listan sin ella: validar con el área regulatoria.",
+    "notas_imagenes": "1 foto de frente de la caja (fahorro, 1486 px). Se descartó otra por marca de agua de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

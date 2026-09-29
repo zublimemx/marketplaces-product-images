@@ -4,36 +4,61 @@
   "linea": "Farma",
   "nombre_sistema": "RESPICIL AD INY IM",
   "nombres_sistema_alternos": [],
-  "titulo": "Respicil Adultos Inyectable Intramuscular",
-  "descripcion": "Descripción:\nRespicil Adultos es un medicamento en presentación inyectable para aplicación por vía intramuscular, indicado para uso en adultos, que se comercializa bajo la marca Respicil. Debe ser aplicado por personal de salud capacitado.\n\nModo de uso:\nAplicación intramuscular profunda, realizada por personal de salud, en la dosis y con la frecuencia que determine el médico. Utilice material estéril y desechable y deseche el sobrante después de su uso.\n\nPresentación:\nPresentación inyectable de uso intramuscular para adultos. El contenido y la composición se indican en el empaque.\n\nAdvertencias:\nRevise en el empaque y en el instructivo la composición, las indicaciones, las contraindicaciones y las reacciones adversas. Informe a su médico si es alérgico a algún medicamento, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Aplicar solo con material estéril y desechable. Conservar en un lugar fresco y seco, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Respicil Adulto Bencilpenicilina Metamizol Inyectable IM",
+  "descripcion": "Descripción:\nRespicil Adulto, de Laboratorios Senosiain, es un medicamento inyectable de uso intramuscular que asocia dos penicilinas (procaínica y sódica) con metamizol. Se presenta como polvo para suspensión inyectable, con su ampolleta de disolvente que contiene el metamizol. Es un antibiótico de prescripción médica: su indicación, dosis y duración deben ser determinadas por el médico.\n\nFórmula:\n- Frasco ámpula con polvo, para adulto: penicilina G procaínica equivalente a 300,000 U de penicilina G (bencilpenicilina) y penicilina G sódica equivalente a 100,000 U de penicilina G.\n- Ampolleta: metamizol 500 mg, vehículo cbp 2 ml.\n\nModo de uso:\nVía intramuscular. Debe ser preparado y aplicado por personal de salud, según la indicación del médico.\n\nPresentación:\nCaja con 1 frasco ámpula y 1 ampolleta de 2 ml.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a las penicilinas o al metamizol.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Respicil",
-    "variante": "Adultos",
-    "presentacion": "Inyectable",
+    "fabricante": "Laboratorios Senosiain",
+    "variante": "Adulto",
+    "presentacion": "Suspensión inyectable",
+    "contenido_neto": 1,
+    "unidad_contenido": "frasco ámpula con ampolleta",
+    "unidades_por_envase": 1,
+    "principio_activo": "Bencilpenicilina procaínica, bencilpenicilina sódica y metamizol",
+    "concentracion": "Penicilina G 300,000 U + 100,000 U; metamizol 500 mg/2 ml",
     "via_administracion": "Intramuscular",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "41953 SSA",
+    "otros": "Antibiótico; Requiere receta médica; Formato de venta: Caja"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75005689_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7008002/75005689_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/respicil-i-m-solucion-inyectable-adulto-c-1-frasco-ampula/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/respicil-i-m-solucion-inyectable-adulto-c-1-frasco-ampula/p",
+    "https://www.vademecum.es/mexico/medicamento/1342544/respicil-suspension-inyectable-300000-ui-100000-ui-500-mg-2-ml",
+    "https://curitek.com/producto/respicil-adulto-bencilpenicilina-metamizol-sodico/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); el GTIN es un EAN-8 (75005689) sin coincidencia verificada. No se pudo confirmar principio activo, contenido ni fabricante (podría ser un antibiótico inyectable, lo que implicaría receta); por eso se usa Otros Medicamentos y receta Revisar. Confirmar antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN EAN-8 75005689 confirmado en varias fichas de farmacia (Respicil Adulto, caja con frasco ámpula y ampolleta). Una ficha lista penicilina procaínica 300,000 U más sódica 100,000 U; el vademécum lista otra concentración base (300,000/100,000 UI/500 mg/2 ml). No se encontraron indicaciones detalladas. Antibiótico inyectable: revisar restricciones de Mercado Libre.",
+    "notas_imagenes": "1 foto de tienda (caja de frente en ángulo, 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

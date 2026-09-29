@@ -4,23 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "KANK A SOL 0 3 OZ",
   "nombres_sistema_alternos": [],
-  "titulo": "Kank-A Solución Bucal 0.3 oz",
-  "descripcion": "Descripción:\nKank-A es una solución de uso tópico en la boca de la marca Kank-A, de Blistex, orientada al cuidado de molestias bucales como las aftas o llagas. Se presenta en un frasco pequeño de 0.3 oz, práctico para llevar en el bolso o el botiquín.\n\nModo de uso:\nAplique una pequeña cantidad sobre la zona afectada, previamente seca, siguiendo las indicaciones del empaque. Evite comer, beber o enjuagarse inmediatamente después de aplicarlo. Cierre bien el frasco después de cada uso.\n\nPresentación:\nFrasco de 0.3 oz de solución bucal.\n\nAdvertencias:\nProducto de uso bucal externo. No se ingiera. Evite el contacto con los ojos. No lo use si es alérgico a alguno de los componentes. Suspenda su uso y consulte a su médico o dentista si la molestia empeora, si persiste por más de 7 días, o si aparece irritación, enrojecimiento o inflamación. Revise en el empaque la composición y las indicaciones antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Kank-A Benzocaína 20% Solución Bucal 9.7 ml",
+  "descripcion": "Descripción:\nKank-A es una solución bucal con benzocaína al 20% que se aplica directamente sobre la zona afectada con el aplicador integrado en la tapa. Es un medicamento auxiliar en el tratamiento de las aftas y de las ulceraciones bucales: la benzocaína es un anestésico de acción inmediata que alivia el dolor y la irritación. Producto de la marca Blistex, distribuido en México por Sanfer.\n\nCaracterísticas:\n- Benzocaína al 20%, anestésico local de acción inmediata.\n- Aplicador integrado en la tapa para colocar el producto con precisión.\n- Para aftas, úlceras en la boca, abrasiones causadas por dentaduras e irritación provocada por el uso de frenos.\n- Forma una película protectora sobre la lesión.\n\nFórmula:\nCada 100 g contiene benzocaína 20.0 g y vehículo cbp 100.0 g.\n\nModo de uso:\nVía bucal, no ingerible. Seque el área afectada y aplique una pequeña cantidad de la solución con el aplicador de la tapa cada 4 horas. Si es necesario, puede aplicarse con una frecuencia de hasta cada 2 horas.\n\nPresentación:\nFrasco con 9.7 ml (0.3 oz) de solución, con aplicador integrado en la tapa.\n\nAdvertencias:\nNo se use por más de 7 días consecutivos. No se use en el embarazo ni en la lactancia ni en niños menores de 2 años. No lo aplique en los ojos ni en zonas con extracción dentaria reciente. No se use en caso de hipersensibilidad a los componentes; la benzocaína puede causar reacciones alérgicas. Si no hay mejoría en 72 horas o aparece inflamación, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Kank-A",
-    "fabricante": "Blistex",
-    "presentacion": "Solución bucal",
-    "contenido_neto": 0.3,
-    "unidad_contenido": "oz",
+    "fabricante": "Blistex (distribuido por Sanfer)",
+    "variante": "Solución bucal 20%",
+    "presentacion": "Frasco con aplicador",
+    "contenido_neto": 9.7,
+    "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "via_administracion": "Tópica bucal",
-    "otros": "Formato de venta: Unidad; Uso: Bucal externo"
+    "principio_activo": "Benzocaína",
+    "concentracion": "20%",
+    "via_administracion": "Bucal (tópica), no ingerible",
+    "otros": "Equivale a 0.3 oz; Aplicador integrado en la tapa; Medicamento auxiliar en aftas y ulceraciones bucales"
   },
   "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -28,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "041388284316_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/5715-large_default/kank-a-con-03-oz-solucion.webp",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 507,
+      "fecha": "2026-09-29",
+      "lado_util": 470
+    },
+    {
+      "archivo": "041388284316_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/5716-large_default/kank-a-con-03-oz-solucion.webp",
+      "pagina": "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 509,
+      "fecha": "2026-09-29",
+      "lado_util": 472
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
+    "https://farmaciasanisidro.mx/producto/kank-a-sol-9-7ml-3-oz-2/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (KANK A SOL 0 3 OZ) y conocimiento general. El GTIN de 12 dígitos (UPC 0-41388) corresponde a Blistex. No se confirmaron composición, indicaciones oficiales ni si es importado (etiqueta en inglés) o de distribución en México; confirmar antes de publicar. Se asume venta libre; la categoría podría cambiar a Cuidado Bucal > Otros (MLM180914) si no se trata como medicamento.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 041388284316 (UPC de 12 dígitos) confirmado con el código de barras del empaque. Contenido 0.3 oz = 9.7 ml según etiqueta. Venta libre según las fichas de tienda. Categoría elegida por alivio del dolor bucal (no hay una hoja de cuidado bucal para medicamentos).",
+    "notas_imagenes": "2 fotos (tienda, ~507 px): frente del blíster y reverso con la fórmula. Resolución justa; no se encontró una fuente mejor (una imagen webp de otra tienda no se pudo procesar).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

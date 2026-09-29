@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "ENJ BUC GUM PAROEX GING 300ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enjuague Bucal GUM Paroex Gingivitis 0.12% 300 ml",
+  "descripcion": "Descripción:\nEnjuague bucal GUM Paroex Gingivitis de Sunstar, formulado con digluconato de clorhexidina al 0.12% y sin alcohol, pensado para el cuidado de las encías cuando hay gingivitis. Su sabor refrescante lo hace agradable de usar dentro de la rutina diaria de higiene bucal.\n\nBeneficios:\n- Contribuye a la protección de las encías y al mantenimiento de la salud oral.\n- Fórmula sin alcohol, con sabor refrescante.\n- Pertenece a la línea Paroex de GUM, especializada en el cuidado de las encías.\n- Presentación práctica de 300 ml.\n\nComposición:\nDigluconato de clorhexidina al 0.12%.\n\nPresentación:\nFrasco con 300 ml, una pieza.\n\nAdvertencias:\nNo se automedique. Consulte a su médico o a su dentista en caso de dudas sobre su uso o si los síntomas persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "GUM",
+    "fabricante": "Sunstar",
+    "linea": "Paroex",
+    "variante": "Gingivitis",
+    "presentacion": "Frasco con 300 ml",
+    "contenido_neto": 300,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Digluconato de clorhexidina",
+    "concentracion": "0.12%",
+    "via_administracion": "Uso bucal (enjuague)",
+    "otros": "Sin alcohol; Sabor refrescante; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "070942302289_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_1006285.jpg",
+      "pagina": "https://www.benavides.com.mx/gum-enjuague-bucal-paroexgingivitis-1-ud",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 859,
+      "fecha": "2026-09-29",
+      "lado_util": 796
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/gum-enjuague-bucal-paroexgingivitis-1-ud"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Concentración 0.12% confirmada en el empaque (la ficha de tienda dice 0.012%, error de captura). No se encontró página del fabricante en México; el modo de uso remite al empaque.",
+    "notas_imagenes": "1 foto de frente (1000 px) de tienda; se descartó el resto por falta de otras fotos del mismo producto.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,19 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "PEDIASURE 237ML FRESA",
   "nombres_sistema_alternos": [],
-  "titulo": "PediaSure Sabor Fresa 237 ml",
-  "descripcion": "Descripción:\nPediaSure es un suplemento alimenticio líquido de Abbott diseñado para niños, listo para beber, en sabor fresa. Se presenta en envase individual de 237 ml.\n\nCaracterísticas:\n- Marca: PediaSure\n- Sabor: fresa\n- Formato listo para beber\n- Contenido: 237 ml\n\nPresentación:\nEnvase individual de 237 ml.\n\nAdvertencias:\nEste producto es un complemento alimenticio y no sustituye una alimentación variada y equilibrada. No es apto como única fuente de alimentación salvo indicación médica. Consulte a su pediatra o nutriólogo antes de incluirlo en la dieta del niño. Consérvese según las instrucciones del empaque.",
+  "titulo": "PediaSure Suplemento Infantil Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nPediaSure sabor fresa de Abbott es una fórmula líquida lista para beber, en envase de 237 ml. Se clasifica como fórmula para alimentación enteral (dieta polimérica con fibra) para niños de 1 a 10 años y está diseñada para complementar su alimentación. El empaque indica nueva fórmula con fosfopéptidos de caseína (CPP), L-arginina y vitamina K2.\n\nCaracterísticas:\n- Marca: PediaSure, de Abbott\n- Sabor a fresa\n- Para niños de 1 a 10 años\n- Dieta polimérica con fibra\n- Con CPP, L-arginina y vitamina K2\n- Listo para beber, sin preparación\n\nModo de uso:\nVía oral. La cantidad diaria la indica el médico o el nutriólogo, de acuerdo con las necesidades del niño.\n\nPresentación:\n- Envase individual de 237 ml\n- Hecho en Estados Unidos\n\nAdvertencias:\nEs un complemento de la alimentación y no debe sustituir una dieta variada y equilibrada. Consulte a su pediatra o nutriólogo antes de incluirlo en la dieta del niño. Conserve el envase cerrado y siga las indicaciones del empaque para su almacenamiento y consumo.",
   "ficha": {
     "marca": "PediaSure",
     "fabricante": "Abbott",
+    "linea": "PediaSure",
+    "variante": "Dieta polimérica con fibra con CPP, L-arginina y vitamina K2",
     "presentacion": "Líquido listo para beber",
     "contenido_neto": 237,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "edad_etapa": "1 a 10 años",
     "sabor_aroma": "Fresa",
-    "edad_etapa": "Niños",
-    "genero": "Niños",
-    "otros": "Formato de venta: Unidad"
+    "otros": "Fórmula para alimentación enteral; Hecho en Estados Unidos; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033956331_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033956331_1.jpg",
+      "pagina": "https://www.fahorro.com/pediasure-plus-suplemento-alimenticio-sabor-fresa-237-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1543,
+      "fecha": "2026-09-29",
+      "lado_util": 1429
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://infocode.io/b2b/07501033956331/details",
+    "https://www.klyns.mx/pediasure-plus-237ml-fresa/p",
+    "https://www.yza.mx/pediasure-plus-fresa-237ml/MXYZ_7501033956331.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre; rango de edad, tipo de envase e ingredientes sin verificar. Se usó Suplementos Alimenticios (MLM438195) y no Leche para Bebés (MLM189058) porque PediaSure es para niños mayores de un año; revisar si el dueño prefiere la segunda.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y en varias tiendas. Se usó la categoría de suplementos (MLM438195) porque es para niños de 1 a 10 años; si se prefiere fórmula infantil sería MLM189058.",
+    "notas_imagenes": "1 foto de frente del envase con fórmula nueva (fresa, 1543 px, tienda). Se descartaron una foto con tabla de nutrientes y textos promocionales y otra del empaque anterior de la fórmula.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

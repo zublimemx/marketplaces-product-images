@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SOL CS 1000ML PLAS PISA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solución Cloruro de Sodio 0.9% PiSA Solución CS 1000 ml",
+  "descripcion": "Descripción:\nSolución CS de PiSA, solución inyectable de cloruro de sodio al 0.9% (solución salina isotónica) para administración intravenosa, en envase de plástico de 1000 ml. Es un electrolito intravenoso que se utiliza bajo supervisión médica.\n\nCaracterísticas:\n- Está indicada en deshidratación hipotónica e isotónica, alcalosis hipoclorémica e hipovolemia.\n- También se emplea como vehículo para la administración de medicamentos y electrolitos.\n- Envase de plástico de 1000 ml.\n- Se administra bajo supervisión médica.\n\nComposición:\nCloruro de sodio 0.9 g por cada 100 ml (9 g por litro).\n\nModo de uso:\nVía intravenosa. La dosis y la velocidad de administración se ajustan en cada caso según las necesidades del paciente, por indicación médica.\n\nPresentación:\nEnvase de plástico con 1000 ml.\n\nAdvertencias:\nContraindicada en caso de hipersensibilidad, hipercloremia, hipernatremia, hiperhidratación o intoxicación hídrica, hipocaliemia, acidosis y estados edematosos. Antes de usarla, revise que la solución esté transparente y que el envase esté íntegro. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "PiSA",
+    "fabricante": "Laboratorios PiSA",
+    "linea": "Solución CS",
+    "variante": "Cloruro de sodio 0.9%",
+    "presentacion": "Envase de plástico de 1000 ml",
+    "contenido_neto": 1000,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cloruro de sodio",
+    "concentracion": "0.9%",
+    "via_administracion": "Intravenosa",
+    "registro_sanitario": "82175 SSA",
+    "otros": "Forma farmacéutica: solución inyectable; Formato de venta: envase"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457891",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Soluciones Fisiológicas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125100130_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125100130.jpg",
+      "pagina": "https://www.nbio.mx/productos/solucion-cs-pisa-1000-ml-0-9-7501125100130",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1387,
+      "fecha": "2026-09-29",
+      "lado_util": 1285
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1093650/solucion-cs-pisa-solucion-0-9-g",
+    "https://farmasuper.com.mx/en/shop/7501125100130-solucion-cloruro-de-sodio-0-9-cs-1000-ml-pisa-65480"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En la nomenclatura de PiSA, CS es cloruro de sodio 0.9%, confirmado por títulos de tienda con este GTIN. La ficha consultada no aclara si requiere receta; es una solución intravenosa de uso hospitalario, revisar si el marketplace permite venderla. El 9 g por litro sale de la concentración al 0.9%.",
+    "notas_imagenes": "1 foto de frente (1387 px) de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

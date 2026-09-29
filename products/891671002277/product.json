@@ -4,20 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "NORFLEX PLUS TAB50 JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "Norflex Plus 50 Tabletas",
-  "descripcion": "Descripción:\nNorflex Plus es un medicamento en tabletas de la marca Norflex, una marca asociada a la orfenadrina, un relajante muscular. Se presenta en caja con 50 tabletas para administración oral. La composición exacta por tableta, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y con la frecuencia que indique el instructivo o su médico. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No lo combine con otros medicamentos sin consultar antes a su médico o farmacéutico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Norflex Plus Paracetamol Orfenadrina 450/35 mg 50 Tabletas",
+  "descripcion": "Descripción:\nNorflex Plus es un medicamento con acción analgésica y relajante muscular que combina 450 mg de paracetamol y 35 mg de citrato de orfenadrina por tableta. Está indicado en el manejo de las afecciones dolorosas agudas del sistema musculoesquelético asociadas con traumatismo muscular, esguinces y torceduras, prolapso de disco intervertebral, trauma cervical, tortícolis aguda y otras condiciones musculares dolorosas. Se presenta en caja de cartón con 50 tabletas.\n\nBeneficios:\n- Doble acción: el paracetamol alivia el dolor y la orfenadrina, un relajante muscular de acción central, ayuda a reducir los espasmos y las contracturas.\n- Indicado en dolores musculares agudos como contracturas, tortícolis, esguinces y lesiones musculares.\n- Presentación de 50 tabletas.\n\nComposición:\nCada tableta contiene citrato de orfenadrina 35.0 mg, paracetamol 450.0 mg y excipiente cbp.\n\nModo de uso:\nVía oral. Adultos: 1 a 2 tabletas tres veces al día, o según indicación médica. No se recomienda en niños menores de 12 años.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nNo debe administrarse a pacientes con glaucoma, retención urinaria (por ejemplo por hipertrofia prostática u obstrucción del cuello de la vejiga), miastenia gravis, insuficiencia hepática o desórdenes obstructivos del tracto gastrointestinal. En personas de edad avanzada la orfenadrina puede causar confusión, por lo que se recomienda una dosis reducida. Debe tenerse precaución en pacientes con taquicardia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Norflex",
-    "linea": "Plus",
-    "principio_activo": "Orfenadrina (en combinación)",
-    "presentacion": "Tabletas",
+    "fabricante": "Sanfer",
+    "linea": "Norflex Plus",
+    "presentacion": "tabletas",
     "contenido_neto": 50,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 50,
+    "principio_activo": "Paracetamol, Citrato de orfenadrina",
+    "concentracion": "Paracetamol 450 mg; Orfenadrina 35 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Analgésico y relajante muscular; Forma farmacéutica: tableta; Formato de venta: caja con 50 tabletas"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM457822",
@@ -29,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "891671002277_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/9/891671002277_.jpg",
+      "pagina": "https://www.fahorro.com/norflex-plus-35-450-mg-oral-50-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1044,
+      "fecha": "2026-09-29",
+      "lado_util": 967
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://nuevomedico.com.mx/sistema-nervioso/9418-norflex-plus-50-tabletas.html",
+    "https://www.benavides.com.mx/norflex-plus-450-mg-paracetamol35-mg-orfenadrina-50-tabletas",
+    "https://www.fahorro.com/norflex-plus-35-450-mg-oral-50-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Composición y concentración no confirmadas (Norflex Plus es una combinación; verificar componentes y registro sanitario). Del nombre 'TAB50' se asumió 50 tabletas; podría leerse 50 mg, confirmar. GTIN de 12 dígitos (UPC) sin verificar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 891671002277 (UPC de 12 dígitos) y foto de tienda coinciden con la caja Sanfer de 50 tabletas. Una tienda indica 'receta no obligatoria'; verificar la leyenda del empaque antes de publicar. Existe una presentación antigua en frasco (More Pharma) que no corresponde a esta foto.",
+    "notas_imagenes": "1 foto de frente de la caja Sanfer (tienda, 1200 px). Se descartó una foto del frasco (presentación distinta) y un duplicado chico.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

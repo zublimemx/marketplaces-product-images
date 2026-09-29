@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "CANESTEN V DUAL 3 DIAS JULIO 27 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Canesten V Dual 3 Días 3 Óvulos 200 mg y Crema 10 g",
+  "descripcion": "Descripción:\nCanesten V Dual 3 Días es un tratamiento vaginal de Bayer que combina óvulos y crema de clotrimazol, un antimicótico de amplio espectro para infecciones vaginales causadas por hongos y levaduras (Cándida). La caja incluye 3 óvulos de 200 mg para aplicar una vez al día durante tres días y un tubo de crema tópica al 1% para aliviar los síntomas externos.\n\nBeneficios:\n- Alivia la comezón, el ardor o irritación, el flujo blanco o amarillento, las molestias al orinar, la inflamación y el coito doloroso asociados a infecciones vaginales por hongos.\n- Presentación dual: óvulos para el interior y crema para los síntomas externos.\n- Tratamiento de 3 días con un óvulo por noche.\n\nComposición:\nCada óvulo contiene: clotrimazol 200 mg, excipiente cbp 1 óvulo. Cada gramo de crema contiene: clotrimazol 0.01 g, excipiente cbp 1 g.\n\nModo de uso:\nÓvulos, vía vaginal: coloque un óvulo antes de acostarse durante tres días consecutivos. Crema, vía cutánea: para aliviar los síntomas externos, aplique una capa delgada una o dos veces al día hasta por 7 días consecutivos, si es necesario. Se recomienda que la pareja siga el mismo tratamiento con la crema tópica para evitar una reinfección.\n\nPresentación:\nCaja con 3 óvulos de 200 mg y un tubo con 10 g de crema al 1%.\n\nAdvertencias:\nNo lo use si es alérgico al clotrimazol. Puede reducir de forma temporal la efectividad y la seguridad de los productos de látex, como condones y diafragmas. No se recomienda durante el primer trimestre del embarazo ni durante la lactancia. En niñas menores de 12 años consulte a su médico. Si recibe medicamentos por trasplante de órganos, consulte a su médico. Contiene Amarillo No. 6, que puede producir reacciones de hipersensibilidad. Consérvese a no más de 30 °C. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Canesten",
+    "fabricante": "Bayer",
+    "linea": "V Dual",
+    "variante": "3 días",
+    "presentacion": "Óvulos y crema",
+    "contenido_neto": 3,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol",
+    "concentracion": "Óvulos de 200 mg y crema al 1%",
+    "via_administracion": "Vaginal y cutánea",
+    "registro_sanitario": "217M2002 SSA VI; 78664 SSA VI",
+    "otros": "Formato de venta: Caja con 3 óvulos y tubo de crema de 10 g; Tratamiento de 3 días"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318645295_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318645295_2.jpg",
+      "pagina": "https://www.fahorro.com/canesten-v-dual-crema-y-ovulos-3-dias.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1177,
+      "fecha": "2026-09-29",
+      "lado_util": 1090
+    },
+    {
+      "archivo": "7501318645295_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318645295_1.jpg",
+      "pagina": "https://www.fahorro.com/canesten-v-dual-crema-y-ovulos-3-dias.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1356,
+      "fecha": "2026-09-29",
+      "lado_util": 1256
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/canesten-v-dual-crema-y-ovulos-3-dias.html",
+    "https://farmaciagloria.mx/Antimicoticos/639-canesten-v-dual-3-dias-con-3-ovulos-tubo-crema-10-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de fórmula, dosis y advertencias tomados de la cara posterior del empaque (GTIN 7501318645295 visible). El peso del tubo de crema (10 g) viene de los títulos de dos farmacias.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro): vista angulada de la caja y cara posterior con la fórmula; 1,200 a 1,350 px. Se descartaron una imagen con banner y otra promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,20 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "SYNCOL MAX C12 TABS SANFER",
   "nombres_sistema_alternos": [],
-  "titulo": "Syncol Max 12 Tabletas",
-  "descripcion": "Descripción:\nSyncol Max es un medicamento de Laboratorios Sanfer, en presentación de tabletas, caja con 12 piezas. La composición exacta, las indicaciones y la dosis deben consultarse en el empaque del producto.\n\nPresentación:\n- Tabletas\n- Caja con 12 tabletas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Syncol Max 650 mg/60 mg/15 mg 12 Comprimidos",
+  "descripcion": "Descripción:\nSyncol Max de Sanfer es un medicamento con paracetamol, cafeína y maleato de pirilamina, en comprimidos de administración oral. Está indicado para mujeres con síndrome premenstrual (SPM) y dismenorrea secundaria, que se caracteriza por cólicos fuertes, fatiga o cansancio, retención de agua, tensión nerviosa, irritabilidad, dolor de cabeza, de espalda, de vientre y de ovarios.\n\nComposición:\nCada comprimido contiene:\n- Paracetamol 650 mg\n- Cafeína 60 mg\n- Maleato de pirilamina 15 mg\n\nModo de uso:\nVía oral. Dos comprimidos como dosis inicial al presentar las primeras molestias y, posteriormente, uno cada 6 horas durante uno a tres días. Conservar a no más de 30 °C.\n\nPresentación:\n- Caja con 12 comprimidos\n\nAdvertencias:\nNo se use en el embarazo, la lactancia ni en menores de 12 años. No debe tomarse con bebidas alcohólicas, sedantes ni tranquilizantes porque pueden aumentar la somnolencia. Las mujeres en lactancia o con daño hepático deben consultar a su médico antes de usarlo. Precaución al conducir o manejar maquinaria. Contiene azul No. 1, que puede producir reacciones alérgicas. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
-    "marca": "Syncol",
+    "marca": "Syncol Max",
     "fabricante": "Sanfer",
-    "variante": "Max",
-    "presentacion": "Tabletas",
+    "linea": "Syncol",
+    "presentacion": "Comprimidos",
     "contenido_neto": 12,
-    "unidad_contenido": "tabletas",
+    "unidad_contenido": "comprimidos",
     "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, cafeína y maleato de pirilamina",
+    "concentracion": "650 mg / 60 mg / 15 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "107M2002 SSA VI",
+    "otros": "Venta libre; Hecho en México; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
       "categoria_id": "MLM194673",
@@ -29,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070600730_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070600730_1.jpg",
+      "pagina": "https://www.yza.mx/syncol-max-650mg60mg15mg-12-comp/MXYZ_7501070600730.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1053,
+      "fecha": "2026-09-29",
+      "lado_util": 974
+    },
+    {
+      "archivo": "7501070600730_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9148cf57/images/large/7501070600730_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/syncol-max-650mg60mg15mg-12-comp/MXYZ_7501070600730.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "fecha": "2026-09-29",
+      "lado_util": 802
+    }
+  ],
+  "url_oficial": "https://sanfer.com.mx/productos/syncol-max-12-comprimidos",
+  "fuentes": [
+    "https://sanfer.com.mx/productos/syncol-max-12-comprimidos",
+    "https://infocode.io/b2b/07501070600730/details",
+    "https://www.yza.mx/syncol-max-650mg60mg15mg-12-comp/MXYZ_7501070600730.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, concentración e indicaciones sin confirmar. Categoría Analgésicos provisional; podría corresponder a Musculoarticulares o Antigripales según la fórmula. El laboratorio Sanfer se tomó del nombre del sistema.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en registro de productos y tiendas; datos de composición, dosis, advertencias y registro tomados de la contraetiqueta.",
+    "notas_imagenes": "2 fotos: frente de la caja (1053 px) y contraetiqueta con fórmula, dosis y advertencias (868 px), de tiendas. Se descartaron la imagen de 527 px del fabricante, un empaque de diseño anterior y duplicados.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

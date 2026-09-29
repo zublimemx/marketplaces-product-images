@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SENSIBIT 10 MG C 10 TB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sensibit Loratadina 10 mg 10 Tabletas",
+  "descripcion": "Descripción:\nSensibit es un antihistamínico de Laboratorios Liomont cuyo principio activo es la loratadina. Cada tableta contiene 10 mg y se emplea para el alivio de síntomas de alergias como urticaria, estornudos y reacciones por picaduras de insectos. Su empaque señala 24 horas de actividad antialérgica sin producir sueño con una sola toma al día. Se presenta en una caja con 10 tabletas de administración oral.\n\nBeneficios:\n- 24 horas de actividad antialérgica con una sola toma al día.\n- Sin producir sueño.\n- Alivio de urticaria, estornudos, picaduras de insectos y otras manifestaciones alérgicas.\n\nComposición:\nCada tableta contiene: loratadina 10 mg, excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tome una tableta una vez al día, o según la dosis que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 10 tabletas de 10 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la loratadina o a alguno de los componentes de la fórmula. Consulte a su médico antes de usarlo en el embarazo, la lactancia o en menores de 12 años. Si persisten los síntomas, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sensibit",
+    "fabricante": "Liomont",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Loratadina",
+    "concentracion": "10 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "129M91 SSA VI",
+    "otros": "Formato de venta: Caja; Antihistamínico; Una toma al día"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antihistamínicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299300367_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/planogram__1__be7c9d1c-9185-47f0-9295-7e83ce405f14.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/sensibit-10-mg-con-10-tabletas",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/antihistaminicos/5703-comprar-sensibit-10-mg-caja-con-10-tabletas-precio-7501299300367.html",
+    "https://farmaciaherrera.com.mx/products/sensibit-10-mg-con-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en farmacias. Las precauciones de embarazo, lactancia y menores son generales para loratadina y no se leyeron en el empaque; dosis exacta no publicada en las fuentes abiertas.",
+    "notas_imagenes": "1 foto de tienda (Farmacia Herrera), frente de la caja, 2,000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

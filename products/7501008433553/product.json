@@ -4,20 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "CAFIASPIRINA FORTE C 24 TABS 40",
   "nombres_sistema_alternos": [],
-  "titulo": "Cafiaspirina Forte Aspirina y Cafeína 24 Tabletas",
-  "descripcion": "Descripción:\nCafiaspirina Forte es un medicamento de Bayer en tabletas que combina ácido acetilsalicílico y cafeína. Se presenta en caja con 24 tabletas. Consulte en el empaque la cantidad de cada componente por tableta, las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\n- Ácido acetilsalicílico\n- Cafeína\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a la aspirina o a otros antiinflamatorios. Puede causar molestias gástricas. No se administre a niños ni adolescentes con fiebre o infecciones virales sin indicación médica. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Cafiaspirina Forte 650 mg/65 mg 24 Tabletas",
+  "descripcion": "Descripción:\nCafiaspirina Forte es un analgésico de venta libre que combina ácido acetilsalicílico (650 mg) con cafeína (65 mg) en cada tableta. Está indicada para el alivio sintomático de dolores ocasionales leves a moderados, como dolor de cabeza, migraña, dolor de muelas, dolor menstrual, dolores musculares o de espalda, así como estados febriles. La cafeína potencia el efecto analgésico y ayuda a mantener el estado de alerta.\n\nBeneficios:\n- Efecto analgésico: ayuda a aliviar el dolor de cabeza, de muelas y las molestias tensionales en cuello y hombros.\n- Efecto antiinflamatorio: ayuda a disminuir la inflamación muscular.\n- Efecto antipirético: ayuda a bajar la fiebre.\n- La cafeína estimula la energía y la concentración.\n\nFórmula:\nCada tableta contiene ácido acetilsalicílico 650 mg y cafeína 65 mg.\n\nModo de uso:\nVía oral. Respete la dosis y la frecuencia indicadas en el instructivo del empaque o por su médico.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\n- No exceda la dosis indicada.\n- Si los síntomas persisten, suspenda su uso y consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Cafiaspirina",
     "fabricante": "Bayer",
-    "variante": "Forte",
+    "linea": "Forte",
+    "variante": "Migraña",
     "presentacion": "Tabletas",
     "contenido_neto": 24,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 24,
     "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "concentracion": "650 mg / 65 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "90259 SS",
+    "otros": "Formato de venta: Caja; Requiere receta: No"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -31,14 +34,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008433553_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd5915f9d/images/large/7501008433553_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/cafiaspirina-forte-24-tabs/MXYZ_7501008433553.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1035,
+      "fecha": "2026-09-29",
+      "lado_util": 959
+    },
+    {
+      "archivo": "7501008433553_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008433553_2.jpg",
+      "pagina": "https://www.fahorro.com/cafiaspirina-forte-analgesico-24-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1055,
+      "fecha": "2026-09-29",
+      "lado_util": 977
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cafiaspirina-forte-analgesico-24-tabletas.html",
+    "https://www.yza.mx/cafiaspirina-forte-24-tabs/MXYZ_7501008433553.html",
+    "https://farmaciashdezsante.com/products/cafiaspirina-forte-acido-acetilsalisilico-cafeina-650-mg-65-mg-caj-24-tab"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Producto identificado por nombre y conocimiento previo (Cafiaspirina Forte, Bayer, prefijo GTIN 7501008). No se confirmaron las miligramos de cada componente, por eso no aparece la concentración. El 40 final del nombre se ignoró. Verificar antes de publicar.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas de farmacia. Concentración 650 mg/65 mg según dos fichas (otra ficha dice 56 mg de cafeína, probable error). El registro sanitario 90259 SS sale de la ficha de una farmacia (puede estar truncado). Modo de uso y advertencias son generales; validar contra el instructivo del empaque. No se accedió al sitio oficial de Bayer (bloqueado).",
+    "notas_imagenes": "2 fotos de tienda con empaque actual (frente limpio y vista en ángulo); se descartaron una imagen con banner promocional y otra del empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

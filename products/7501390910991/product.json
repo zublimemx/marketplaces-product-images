@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL CRA 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Italdermol Crema Triticum Vulgare 15 g/100 g 30 g",
+  "descripcion": "Descripción:\nItaldermol es una crema de uso tópico de Megalabs cuyo principio activo es Triticum vulgare (extracto de trigo) al 15 g por cada 100 g. La etiqueta lo identifica como medicamento herbolario y las fichas comerciales lo describen como crema cicatrizante para el cuidado de la piel en afecciones como dermatitis y eczema. Se presenta en una caja con un tubo de 30 g.\n\nCaracterísticas:\n- Medicamento herbolario a base de Triticum vulgare.\n- Crema de uso tópico, 15 g por cada 100 g.\n- Uso externo.\n- Caja con tubo de 30 g.\n\nComposición:\nCada 100 g de crema contienen: Triticum vulgare 15 g, excipientes necesarios para su formulación.\n\nModo de uso:\nVía cutánea. Aplique sobre la zona afectada en la cantidad y con la frecuencia que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con tubo con 30 g de crema.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No lo aplique en heridas abiertas ni en mucosas y evite el contacto con los ojos. Suspenda su uso si aparece irritación y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "fabricante": "Megalabs",
+    "presentacion": "Crema",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Triticum vulgare",
+    "concentracion": "15 g por 100 g",
+    "via_administracion": "Cutánea",
+    "otros": "Formato de venta: Caja con tubo; Medicamento herbolario"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390910991_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__399597b4-9040-42bc-b7c9-6c666f2498ad.jpg",
+      "pagina": "https://curitek.com/producto/italdermol-crema-30-g-triticum-vulgare/",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://curitek.com/producto/italdermol-crema-30-g-triticum-vulgare/",
+    "https://wecarepharma.mx/en/products/italdermol-crema-150mg-1g-30g-triticum-vulgare"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Dos farmacias indican que requiere receta, pero el empaque dice 'Medicamento herbolario' y no muestra leyenda de receta; queda como Revisar. Fabricante: el empaque muestra Megalabs y una ficha cita Italmex.",
+    "notas_imagenes": "1 foto de tienda (WeCare Pharma), caja de frente en ángulo, 2,000 px. Se descartó una foto con marca de agua de otra farmacia.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

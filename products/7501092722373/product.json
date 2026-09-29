@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "DAGLA 50MG C30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dagla Itoprida 50 mg 30 Tabletas",
+  "descripcion": "Descripción:\nDagla, de Takeda, contiene clorhidrato de itoprida de 50 mg por tableta. La itoprida pertenece al grupo de los procinéticos, medicamentos que favorecen la motilidad del aparato digestivo, y se utiliza en el manejo de síntomas gastrointestinales relacionados con alteraciones de la motilidad y con el reflujo gastroesofágico, siempre bajo indicación médica.\n\nCaracterísticas:\n- Tabletas de administración oral.\n- Caja con 30 tabletas.\n- Laboratorio Takeda.\n\nComposición:\nCada tableta contiene clorhidrato de itoprida 50 mg, equivalente a 45.4 mg de itoprida, con excipientes cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nAlmacenar a temperatura ambiente controlada, entre 15 y 30 °C. No modifique la dosis ni suspenda el tratamiento sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dagla",
+    "fabricante": "Takeda",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Clorhidrato de itoprida",
+    "concentracion": "50 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "292M2009 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Clasificación ATC: A03FA07; Formato de venta: caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501092722373_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501092722373_3.jpg",
+      "pagina": "https://www.fahorro.com/dagla-50-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1302,
+      "fecha": "2026-09-29",
+      "lado_util": 1206
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/gastroenterologia/18096-comprar-dagla-50-mg-caja-con-30-tabletas-precio-7501092722373.html",
+    "https://www.yza.mx/dagla-50mg-30-tabs/MXYZ_7501092722373.html",
+    "https://curitek.com/producto/dagla-itoprida/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes discrepan en receta (una dice sin receta); el registro termina en SSA IV, que corresponde a medicamento con receta. Las indicaciones se resumieron a partir de la clasificación (procinético) y palabras clave de la ficha; no se encontró prospecto completo.",
+    "notas_imagenes": "1 foto de frente (1600 px) de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

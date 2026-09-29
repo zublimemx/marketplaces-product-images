@@ -4,22 +4,20 @@
   "linea": "Farma",
   "nombre_sistema": "TRAYENTA DUO 2 5 850MG C60",
   "nombres_sistema_alternos": [],
-  "titulo": "Trayenta Duo 2.5 mg/850 mg 60 Tabletas",
-  "descripcion": "Descripción:\nTrayenta Duo es un medicamento de Boehringer Ingelheim que combina dos antidiabéticos orales en una sola tableta: linagliptina 2.5 mg y clorhidrato de metformina 850 mg. Se presenta en caja con 60 tabletas.\n\nBeneficios:\n- Según su información de prescripción, está indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para mejorar el control de la glucosa en sangre.\n- Combina en una sola tableta dos mecanismos de acción complementarios: la linagliptina (inhibidor de la DPP-4) y la metformina (biguanida).\n- Facilita el tratamiento en personas que requieren ambos componentes, con menos tabletas por toma.\n\nComposición:\nCada tableta contiene linagliptina 2.5 mg y clorhidrato de metformina 850 mg.\n\nModo de uso:\nVía oral, con los alimentos para reducir las molestias gastrointestinales, en la dosis que indique su médico. Tome las tabletas completas, sin partirlas ni masticarlas.\n\nPresentación:\nCaja con 60 tabletas de 2.5 mg/850 mg.\n\nAdvertencias:\nLa metformina puede causar acidosis láctica, una complicación rara pero grave. No debe usarse en cetoacidosis diabética, diabetes tipo 1, insuficiencia renal grave ni en personas alérgicas a alguno de sus componentes. Se han reportado casos de pancreatitis con los inhibidores de la DPP-4: suspenda el medicamento y consulte a su médico si presenta dolor abdominal intenso y persistente. Puede aumentar el riesgo de hipoglucemia si se usa junto con insulina o sulfonilureas. Debe suspenderse antes de estudios con medios de contraste yodados, según indicación médica. Evite el consumo excesivo de alcohol. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Trayenta Duo Linagliptina Metformina 2.5/850 mg 60 Tabletas",
+  "descripcion": "Descripción:\nTrayenta Duo es un medicamento de Boehringer Ingelheim que combina linagliptina 2.5 mg y clorhidrato de metformina 850 mg en una sola tableta de administración oral. Se usa como complemento de la alimentación y la actividad física para mejorar el control de la glucosa en adultos con diabetes mellitus tipo 2, cuando la dieta y el ejercicio no son suficientes. Puede emplearse solo o junto con otros hipoglucemiantes e insulina, según lo determine el médico.\n\nCaracterísticas:\n- Dos principios activos en una tableta: linagliptina 2.5 mg y metformina 850 mg.\n- Administración por vía oral.\n- Caja con 60 tabletas.\n- Medicamento de venta con receta médica.\n\nFórmula:\nCada tableta contiene linagliptina 2.5 mg, clorhidrato de metformina 850 mg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis es la que su médico señale; se recomienda tomar las tabletas junto con los alimentos para reducir las molestias gastrointestinales.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. No se use en caso de insuficiencia renal grave, insuficiencia hepática grave, cetoacidosis diabética ni hipersensibilidad a los componentes. Informe a su médico si tiene insuficiencia cardiaca, infecciones graves o deshidratación; la función renal debe vigilarse de manera periódica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Trayenta Duo",
     "fabricante": "Boehringer Ingelheim",
     "linea": "Trayenta",
-    "variante": "Duo 2.5 mg/850 mg",
-    "presentacion": "Tabletas",
+    "presentacion": "Caja con tabletas",
     "contenido_neto": 60,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 60,
     "principio_activo": "Linagliptina y clorhidrato de metformina",
     "concentracion": "2.5 mg/850 mg",
     "via_administracion": "Oral",
-    "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Forma farmacéutica: Tableta; Antidiabético oral; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501037935189_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501037935189.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1513,
+      "fecha": "2026-09-29",
+      "lado_util": 1400
+    },
+    {
+      "archivo": "7501037935189_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501037935189_1.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1451,
+      "fecha": "2026-09-29",
+      "lado_util": 1344
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/trayenta-duo-25-mg-linagliptina850-mg-metformina-60-tabletas",
+    "https://curitek.com/producto/trayenta-duo-2-5-mg-850-mg/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (TRAYENTA DUO 2 5 850MG C60) y conocimiento general (linagliptina 2.5 mg + metformina 850 mg). Indicaciones y advertencias tomadas de la información general del producto; confirmar contra la ficha de Boehringer Ingelheim México antes de publicar. Categoría Digestivos por corresponder a metabólicos en la clasificación de Mercado Libre.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados con el empaque (fórmula visible en la caja). No se confirmó número de registro sanitario. Una ficha de tienda decía que no requiere receta, lo cual es incorrecto para un antidiabético; se marcó como receta.",
+    "notas_imagenes": "2 fotos (tienda, 1513 y 1451 px): frente y vista angular de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,23 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "KIT DE ORTODONCIA GUM 6PZAS",
   "nombres_sistema_alternos": [],
-  "titulo": "Kit de Ortodoncia Gum 6 Piezas",
-  "descripcion": "Descripción:\nKit de cuidado bucal de la marca GUM (Sunstar) pensado para personas que usan aparatos de ortodoncia, como brackets. Reúne 6 piezas de higiene bucal para complementar el cepillado diario y ayudar a mantener limpios los dientes, los aparatos y los espacios de difícil acceso. El contenido exacto de las 6 piezas se indica en el empaque.\n\nCaracterísticas:\n- Kit de higiene bucal para uso con ortodoncia.\n- Incluye 6 piezas de la marca GUM.\n- Práctico para llevar en casa o de viaje.\n\nModo de uso:\nUse los accesorios del kit como complemento del cepillado con pasta dental, después de cada comida cuando sea posible, siguiendo las instrucciones del empaque y las recomendaciones de su ortodoncista o dentista.\n\nPresentación:\nKit con 6 piezas.\n\nAdvertencias:\nProducto de uso personal. Si presenta sangrado persistente o molestias en las encías, consulte a su dentista u ortodoncista.",
+  "titulo": "Kit de Ortodoncia GUM Orthodontic 6 Piezas",
+  "descripcion": "Descripción:\nEl kit de ortodoncia GUM Orthodontic, de Sunstar, reúne en un estuche seis accesorios para la higiene diaria de personas que usan brackets y aparatos de ortodoncia. Incluye un cepillo especial para ortodoncia, cepillos interdentales Proxabrush, hilo dental y cera para proteger la boca de las rozaduras de los brackets.\n\nContenido del kit:\n- 1 cepillo dental de ortodoncia.\n- 3 cepillos interdentales Proxabrush en tres tamaños distintos.\n- 1 hilo dental EasyThread, diseñado para pasarse por debajo de los alambres del aparato.\n- 1 cera ortodóntica sabor menta.\n\nModo de uso:\nUse el cepillo de ortodoncia con su crema dental después de cada comida, cepillando alrededor de brackets y alambres. Elija el tamaño de Proxabrush que entre cómodamente entre los dientes y los brackets, y límpielo con agua tras cada uso. Pase el hilo dental por debajo de los alambres. Cuando un bracket o un alambre roce la mejilla o los labios, aplique un poco de cera sobre la zona.\n\nPresentación:\nEstuche con 6 piezas: cepillo, 3 cepillos interdentales, hilo dental y cera ortodóntica menta.\n\nAdvertencias:\nProducto de higiene bucal de uso personal; no lo comparta. Reemplace el cepillo y los cepillos interdentales cuando las cerdas se desgasten. Consulte a su ortodoncista ante cualquier molestia, sangrado o duda sobre el uso de la cera.",
   "ficha": {
     "marca": "GUM",
     "fabricante": "Sunstar",
+    "linea": "Orthodontic",
     "variante": "Kit de ortodoncia",
-    "presentacion": "Kit",
+    "presentacion": "kit",
     "contenido_neto": 6,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 6,
-    "otros": "Formato de venta: Kit; Uso: Ortodoncia"
+    "sabor_aroma": "Menta",
+    "otros": "Contenido: 1 cepillo de ortodoncia, 3 cepillos interdentales Proxabrush, 1 hilo dental EasyThread y 1 cera ortodóntica menta; Uso: higiene de brackets y aparatos de ortodoncia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM180914",
-      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -28,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "070942125352_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/70942125352-1.jpeg",
+      "pagina": "https://www.yza.mx/gum-kit-de-ortodoncia-6-pzas/MXYZ_70942125352.html",
+      "ancho_original": 2500,
+      "alto_original": 2500,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "070942125352_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/Kit_Gum_Ortodoncia_Con_6_070942125352_398ec0e8-43ec-4317-9d29-e89aeb6c597d.jpg?v=1748049607",
+      "pagina": "https://www.yza.mx/gum-kit-de-ortodoncia-6-pzas/MXYZ_70942125352.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 795,
+      "fecha": "2026-09-29",
+      "lado_util": 737
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/gum-kit-de-ortodoncia-6-pzas/MXYZ_70942125352.html",
+    "https://www.delsol.com.mx/kit-de-ortodoncia-gum",
+    "https://wecarepharma.mx/en/products/kit-gum-ortodoncia-con-6"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Contenido exacto de las 6 piezas no confirmado (se describe de forma general). El prefijo UPC 070942 corresponde a Sunstar/GUM según conocimiento previo, no verificado. Categoría: Cuidado Bucal > Otros (no existe hoja específica para kits de ortodoncia).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN (UPC 070942125352) y contenido de 6 piezas confirmados en varias tiendas. No se abrió el sitio oficial de GUM. Categoría de cepillos dentales por ser el grupo más cercano con más publicaciones.",
+    "notas_imagenes": "2 fotos de tienda: estuche de frente (2000 px) y contenido del kit (795 px). Se descartó una primera foto que no cumplía los criterios.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,23 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "FIRAC PLUS GRAG C 20",
   "nombres_sistema_alternos": [],
-  "titulo": "Firac Plus 20 Grageas",
-  "descripcion": "Descripción:\nFirac Plus es un medicamento de la marca Firac en grageas. Esta presentación es una caja con 20 grageas para administración oral. La composición, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Tome las grageas enteras, sin masticar, con un poco de agua, en la dosis y con la frecuencia que indique su médico o el instructivo.\n\nPresentación:\nCaja con 20 grageas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Firac Plus Clonixinato y Pargeverina 20 Tabletas",
+  "descripcion": "Descripción:\nFirac Plus es un medicamento de Laboratorios Grossman en tabletas que combina clonixinato de lisina, un analgésico, con clorhidrato de pargeverina, un antiespasmódico. De acuerdo con la ficha del producto, se emplea en el manejo del dolor y de los espasmos del músculo liso de los aparatos digestivo, genitourinario y hepatobiliar. Se presenta en una caja con 20 tabletas de administración oral.\n\nCaracterísticas:\n- Combinación de analgésico y antiespasmódico en una sola tableta.\n- Clonixinato de lisina 125 mg y clorhidrato de pargeverina 10 mg por tableta.\n- Administración por vía oral.\n- Caja con 20 tabletas.\n\nComposición:\nCada tableta contiene: clonixinato de lisina 125 mg, clorhidrato de pargeverina 10 mg, excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Ingiera las tabletas con un poco de agua, en la dosis y durante el tiempo que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Firac",
+    "fabricante": "Grossman",
     "linea": "Plus",
-    "presentacion": "Grageas",
+    "presentacion": "Tabletas",
     "contenido_neto": 20,
-    "unidad_contenido": "grageas",
+    "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
+    "principio_activo": "Clonixinato de lisina, clorhidrato de pargeverina",
+    "concentracion": "125 mg / 10 mg por tableta",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: Caja; Clasificación: Antiespasmódico"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -28,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123014101_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123014101_3.jpg",
+      "pagina": "https://www.fahorro.com/firac-plus-125-mg-10-mg-oral-20-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1537,
+      "fecha": "2026-09-29",
+      "lado_util": 1424
+    },
+    {
+      "archivo": "7501123014101_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123014101_1.jpg",
+      "pagina": "https://www.fahorro.com/firac-plus-125-mg-10-mg-oral-20-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1531,
+      "fecha": "2026-09-29",
+      "lado_util": 1418
+    },
+    {
+      "archivo": "7501123014101_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123014101_2.jpg",
+      "pagina": "https://www.fahorro.com/firac-plus-125-mg-10-mg-oral-20-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1424,
+      "fecha": "2026-09-29",
+      "lado_util": 1319
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/firac-plus-125-mg-10-mg-oral-20-tabs.html",
+    "https://www.sanborns.com.mx/producto/156494/firac-plus-grag-20"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo identificar el principio activo ni el grupo terapéutico; se usó 'Otros Medicamentos'. Verificar composición, categoría y si requiere receta.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. El sistema dice grageas; el empaque dice tabletas. No se confirmó si requiere receta; categoría elegida por su acción antiespasmódica (digestivo).",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro): frente, panel con fórmula y vista angulada; 1,400 a 1,500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

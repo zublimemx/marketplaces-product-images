@@ -4,29 +4,73 @@
   "linea": "Farma",
   "nombre_sistema": "BICONCOR 5 6 25MG C 30TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biconcor Bisoprolol Hidroclorotiazida 5/6.25 mg 30 Tabletas",
+  "descripcion": "Descripción:\nBiconcor es un medicamento de Merck que combina dos agentes antihipertensivos en una sola tableta: bisoprolol, un bloqueador adrenérgico beta 1 cardioselectivo, e hidroclorotiazida, un diurético. Está indicado para el tratamiento de la hipertensión arterial sistémica. Esta presentación contiene 30 tabletas de 5 mg/6.25 mg.\n\nBeneficios:\n- Dos mecanismos de acción antihipertensiva en una sola tableta.\n- Bisoprolol: contribuye a disminuir el gasto cardiaco, inhibe la liberación de renina y reduce el flujo simpático.\n- Hidroclorotiazida: reduce el volumen sanguíneo y la resistencia vascular periférica.\n- Dosis de una tableta una vez al día, según indicación médica.\n\nComposición:\nCada tableta contiene bisoprolol fumarato 5 mg e hidroclorotiazida 6.25 mg.\n\nModo de uso:\nVía oral. La dosis y el ajuste de dosis los determina el médico; si se planea suspender el tratamiento, debe hacerse de forma gradual durante 2 semanas.\n\nPresentación:\nCaja con 30 tabletas de 5 mg/6.25 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Contraindicado en pacientes con hipersensibilidad al bisoprolol, a la hidroclorotiazida, a otras tiazidas, a sulfonamidas o a cualquiera de los excipientes.\n- No se use en el embarazo ni en la lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biconcor",
+    "fabricante": "Merck",
+    "linea": "Biconcor",
+    "variante": "5 mg/6.25 mg",
+    "presentacion": "Caja con tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Bisoprolol, hidroclorotiazida",
+    "concentracion": "Bisoprolol 5 mg / Hidroclorotiazida 6.25 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "220M98 SSA",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298215907_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298215907.jpg",
+      "pagina": "",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1433,
+      "fecha": "2026-09-29",
+      "lado_util": 1327
+    },
+    {
+      "archivo": "7501298215907_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/172602-1000-1000/7501298215907.jpg",
+      "pagina": "https://www.klyns.mx/biconcor-5-mg-6-5-mg-c-30-grageas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 762,
+      "fecha": "2026-09-29",
+      "lado_util": 706
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/biconcor.tabletas.recubiertas/115/101/6595/222",
+    "https://www.klyns.mx/biconcor-5-mg-6-5-mg-c-30-grageas/p",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/5627-biconcor-5-mg625-mg-bisoprololhidroclorotiazida-30-tabletas-merck-7501298215907.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM lista frascos de 15 tabletas; la caja de 30 tabletas de 5/6.25 mg se confirmó por las fotos y las farmacias. La fórmula por tableta sale de la concentración del nombre y de la foto. Registro de PLM.",
+    "notas_imagenes": "2 fotos de tienda (1433 y 762 px; la segunda es el diseño anterior con Merck Serono).",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

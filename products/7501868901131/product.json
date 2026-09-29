@@ -4,16 +4,17 @@
   "linea": "Farma",
   "nombre_sistema": "ALCO A 1LT C12 PZAS DIBAR",
   "nombres_sistema_alternos": [],
-  "titulo": "Alcohol Dibar 1 l Caja con 12 Piezas",
-  "descripcion": "Descripción:\nAlcohol de la marca Dibar en botella de 1 litro, presentado en caja con 12 piezas. Producto de uso externo.\n\nPresentación:\nCaja con 12 botellas de 1 litro cada una.\n\nAdvertencias:\nSolo para uso externo; no se ingiera. Producto inflamable: manténgase alejado del fuego, chispas y fuentes de calor. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "titulo": "Alcohol Etílico Dibar 71.5° G.L. 1 l Caja con 12 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico desnaturalizado de 71.5° G.L. de la marca Dibar, en botella de 1 litro (contenido neto 1000 ml). Esta presentación se ofrece en caja con 12 piezas, para quien requiere alcohol de uso externo en volumen.\n\nCaracterísticas:\n- Alcohol etílico desnaturalizado con graduación de 71.5° G.L.\n- Botella de 1 litro con tapa azul de rosca.\n- Formato de caja con 12 botellas, con un total de 12 litros.\n- Producto de uso externo.\n\nModo de uso:\nPara uso externo. Humedezca una gasa o un algodón con una pequeña cantidad de alcohol y aplíquelo sobre la superficie que desee limpiar, siguiendo las indicaciones de la etiqueta. No lo use sobre heridas abiertas ni sobre mucosas.\n\nPresentación:\nCaja con 12 botellas de 1 litro (1000 ml) cada una.\n\nAdvertencias:\nSolo para uso externo; no se ingiera, ya que está desnaturalizado. Producto inflamable: manténgase alejado del fuego, chispas y fuentes de calor. Evite el contacto con los ojos. Conserve la botella bien cerrada, en un lugar fresco y ventilado, lejos de la luz solar directa y fuera del alcance de los niños.",
   "ficha": {
     "marca": "Dibar",
     "presentacion": "botella",
     "contenido_neto": 1,
     "unidad_contenido": "l",
     "unidades_por_envase": 12,
+    "concentracion": "71.5° G.L.",
     "via_administracion": "Tópica",
-    "otros": "Formato de venta: Caja con 12 piezas; Uso: Externo"
+    "otros": "Tipo: alcohol etílico desnaturalizado; Uso: externo; Formato de venta: caja con 12 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868901131_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://tofuu.getjusto.com/orioneat-prod/LBpTZSCQKfgKTohpy-7501868901131.jpg",
+      "pagina": "https://www.farmacia24siete.com/pedir/jzvMQobaJmStJHa3A/dibar-alcohol-con-1-l-7501868901131",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 738,
+      "fecha": "2026-09-29",
+      "lado_util": 684
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmacia24siete.com/pedir/jzvMQobaJmStJHa3A/dibar-alcohol-con-1-l-7501868901131",
+    "https://distribuidorasanantonio.com/producto/alcohol-dibar-1lt-7501868901131/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). Se interpretó C12 PZAS como caja con 12 botellas de 1 litro, porque el precio (unos 34 pesos por litro) es consistente con eso. Se desconoce el tipo de alcohol (ALCO A: antiséptico 70%, etílico desnaturalizado 96%, etc.); si es etílico, la categoría equivalente es MLM191698.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501868901131 corresponde a Dibar alcohol etílico 71.5° en botella de 1 l. La caja con 12 piezas se dedujo del nombre del sistema (C12 PZAS) y del precio; no se encontró una ficha de caja de 12. Categoría equivalente: Alcohol Etílico (MLM191698).",
+    "notas_imagenes": "1 foto de la botella Dibar (tienda, 800 px). Otras fuentes traían fotos de 225 px o del alcohol de 96°, que no corresponden.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

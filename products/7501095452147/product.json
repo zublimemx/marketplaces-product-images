@@ -5,17 +5,20 @@
   "nombre_sistema": "TEMPRA 500MG C20 TABS",
   "nombres_sistema_alternos": [],
   "titulo": "Tempra Paracetamol 500 mg 20 Tabletas",
-  "descripcion": "Descripción:\nTempra 500 mg es un medicamento en tabletas cuyo principio activo es el paracetamol (acetaminofén), un analgésico y antipirético. Se utiliza para el alivio del dolor de leve a moderado y para reducir la fiebre. Esta presentación incluye 20 tabletas de 500 mg para administración oral.\n\nComposición:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con un poco de agua, en la dosis y con el intervalo que indique el empaque o su médico. No exceda la dosis máxima diaria recomendada.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nNo use otros productos que contengan paracetamol al mismo tiempo. Una dosis mayor a la recomendada puede causar daño al hígado. No lo use si es alérgico al paracetamol. Si el dolor persiste por más de unos días o la fiebre no cede, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nTempra 500 mg es un analgésico y antipirético en tabletas para adultos y mayores de 12 años, cuyo principio activo es el paracetamol. Está indicado como auxiliar para aliviar el dolor y la fiebre, así como algunas molestias relacionadas con el catarro. Se presenta en caja con 20 tabletas.\n\nBeneficios:\n- Auxiliar para el alivio del dolor.\n- Auxiliar para reducir la fiebre.\n- Ayuda con algunas molestias del catarro.\n- Tabletas de 500 mg para adultos y mayores de 12 años.\n\nComposición:\nCada tableta contiene 500 mg de paracetamol y excipiente cbp.\n\nModo de uso:\nVía oral. Tome 1 o 2 tabletas por vez, sin exceder de 8 tabletas al día, y por un periodo máximo de 5 días. Si las molestias persisten, consulte a su médico.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nNo exceda la dosis recomendada ni el tiempo máximo de uso. No lo utilice si es alérgico al paracetamol o a alguno de los componentes. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Tempra",
-    "principio_activo": "Paracetamol (acetaminofén)",
-    "concentracion": "500 mg",
-    "presentacion": "Tabletas",
+    "linea": "Tempra",
+    "variante": "Adultos 500 mg",
+    "presentacion": "tabletas",
     "contenido_neto": 20,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol",
+    "concentracion": "500 mg por tableta",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Caja"
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "otros": "Dosis máxima: 8 tabletas al día por un máximo de 5 días; Formato de venta: caja con 20 tabletas"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -29,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501095452147_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501095452147_1_2.jpg",
+      "pagina": "https://www.fahorro.com/tempra-500-mg-adultos-paracetamol-caja-20-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1063,
+      "fecha": "2026-09-29",
+      "lado_util": 985
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/tempra-500-mg-adultos-paracetamol-caja-20-tabletas.html",
+    "https://www.chedraui.com.mx/tabletas-tempra-500mg-paracetamol-adultos-20-tabletas-3039560/p",
+    "https://curitek.com/producto/tempra-500-mg-20-tabletas-paracetamol/"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (Tempra 500 mg, 20 tabletas); no se verificó fabricante ni ficha oficial (se omitió).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN (SKU) y presentación de 20 tabletas confirmados en tiendas. No se confirmó el fabricante, por eso no se anota.",
+    "notas_imagenes": "1 foto de tienda (1063 px) con la caja de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

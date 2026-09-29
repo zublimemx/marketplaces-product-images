@@ -4,18 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "UNAMOL SUSP 1MG 60ML CISAPRIDA",
   "nombres_sistema_alternos": [],
-  "titulo": "Unamol Cisaprida Suspensión 1 mg 60 ml",
-  "descripcion": "Descripción:\nUnamol es un medicamento en suspensión oral cuyo principio activo es cisaprida, con concentración de 1 mg según la denominación del producto. Se presenta en frasco con 60 ml de suspensión.\n\nPresentación:\n- Suspensión oral\n- Contenido: 60 ml\n- Concentración indicada: 1 mg\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente bajo indicación médica y en la dosis que su médico determine. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Unamol Cisaprida Suspensión 1 mg/ml 60 ml",
+  "descripcion": "Descripción:\nUnamol es una suspensión oral de cisaprida a 1 mg por ml, elaborada por Laboratorios Senosiain (Exea). Se utiliza para incrementar o restaurar la motilidad del tracto gastrointestinal en las afecciones en las que se encuentra disminuida, ayudando a aliviar síntomas como la distensión y el dolor abdominal. Se presenta en frasco de 60 ml con pipeta graduada para medir la dosis.\n\nCaracterísticas:\n- Cisaprida 1 mg por ml.\n- Suspensión oral con pipeta graduada.\n- Frasco con 60 ml.\n- Medicamento de venta con receta médica.\n\nFórmula:\nCada 100 ml contienen cisaprida monohidratada equivalente a 100 mg de cisaprida y vehículo cbp 100 ml. Cada ml contiene 1 mg de cisaprida. Contiene 18.2% de otros azúcares.\n\nModo de uso:\nVía oral. Agítese antes de usarse. La dosis es la que el médico señale.\n\nPresentación:\nCaja con frasco con 60 ml de suspensión y pipeta graduada.\n\nAdvertencias:\nSu venta requiere receta médica. No se use en el embarazo ni en la lactancia. No se use en caso de obstrucción intestinal, perforación intestinal o hemorragia gastrointestinal. Conserve el frasco bien cerrado y a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Unamol",
-    "presentacion": "Suspensión oral",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Exea",
+    "variante": "Suspensión",
+    "presentacion": "Frasco con pipeta graduada",
     "contenido_neto": 60,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Cisaprida",
-    "concentracion": "1 mg",
+    "concentracion": "1 mg/ml",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "registro_sanitario": "023M90 SSA IV",
+    "otros": "Forma farmacéutica: Suspensión; Contiene 18.2% de otros azúcares; Venta con receta médica"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -29,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704743_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704743.jpg",
+      "pagina": "https://www.fahorro.com/unamol-1-g-ml-suspension-60-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1524,
+      "fecha": "2026-09-29",
+      "lado_util": 1412
+    },
+    {
+      "archivo": "7501314704743_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704743_1.jpg",
+      "pagina": "https://www.fahorro.com/unamol-1-g-ml-suspension-60-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    },
+    {
+      "archivo": "7501314704743_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704743_2.jpg",
+      "pagina": "https://www.fahorro.com/unamol-1-g-ml-suspension-60-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1554,
+      "fecha": "2026-09-29",
+      "lado_util": 1439
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/unamol-ped-susp-60-c-gotero/p",
+    "https://www.fahorro.com/unamol-1-g-ml-suspension-60-ml.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "No se pudo buscar en internet: el presupuesto de WebSearch de la sesión estaba agotado (200/200). Datos deducidos del nombre del sistema y conocimiento previo, sin verificar. Cisaprida normalmente requiere receta en México (verificar). La concentración 1 mg probablemente es por ml; confirmar en la ficha del fabricante. Fabricante no identificado.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con el código de barras del empaque; fórmula, registro, dosis y leyenda de receta leídos del empaque. Indicación tomada de una ficha de tienda.",
+    "notas_imagenes": "3 fotos (tienda, ~1530 px): frente, reverso con fórmula y registro, y vista angular.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,38 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "FLUONING 750MG T7",
   "nombres_sistema_alternos": [],
-  "titulo": "Fluoning 750 mg 7 Tabletas",
-  "descripcion": "Descripción:\nFluoning 750 mg en presentación de 7 tabletas.\n\nPresentación:\nCaja con 7 tabletas de 750 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "titulo": "Fluoning Levofloxacino 750 mg 7 Tabletas",
+  "descripcion": "Descripción:\nFluoning 750 de Laboratorios PiSA es un antibiótico del grupo de las fluoroquinolonas que contiene levofloxacino, en tabletas de 750 mg. Se utiliza en infecciones causadas por bacterias sensibles, únicamente con indicación y vigilancia del médico.\n\nIndicaciones:\n- Infecciones osteoarticulares y de la cavidad abdominal\n- Infecciones genitourinarias: prostatitis bacteriana crónica, pielonefritis y uretritis gonocócica\n- Neumonía adquirida en la comunidad o en el hospital\n- Exacerbación aguda de bronquitis crónica\n- Infecciones de la piel y de los tejidos blandos\n- Sinusitis aguda\n\nComposición:\n- Cada tableta contiene levofloxacino hemihidratado equivalente a 750 mg de levofloxacino\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que señale el médico.\n\nPresentación:\n- Caja con 7 tabletas de 750 mg\n- Conservar a no más de 30 °C\n\nAdvertencias:\nNo lo use si es alérgico a las quinolonas, si tiene epilepsia o si ha tenido problemas de tendones relacionados con este tipo de antibióticos. No se use durante el embarazo, la lactancia ni en menores de 18 años. El uso incorrecto de este antibiótico puede generar resistencia bacteriana. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Fluoning",
-    "presentacion": "tabletas",
+    "fabricante": "Laboratorios PiSA",
+    "linea": "Fluoning 750",
+    "presentacion": "Tabletas",
     "contenido_neto": 7,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 7,
+    "principio_activo": "Levofloxacino hemihidratado",
     "concentracion": "750 mg",
     "via_administracion": "Oral",
-    "otros": "Formato de venta: Unidad"
+    "edad_etapa": "Adultos",
+    "otros": "Antibiótico; Requiere receta médica; Formato de venta: Unidad"
   },
-  "receta_mx": "Revisar",
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM194677",
-      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125118289_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125118289_2.jpg",
+      "pagina": "https://www.fahorro.com/fluoning-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1198,
+      "fecha": "2026-09-29",
+      "lado_util": 1110
+    },
+    {
+      "archivo": "7501125118289_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125118289_3.jpg",
+      "pagina": "https://www.fahorro.com/fluoning-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1440,
+      "fecha": "2026-09-29",
+      "lado_util": 1334
+    },
+    {
+      "archivo": "7501125118289_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125118289_1.jpg",
+      "pagina": "https://www.fahorro.com/fluoning-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1426,
+      "fecha": "2026-09-29",
+      "lado_util": 1321
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/1648-fluoning-750-mg-con-7-tabletas.html",
+    "https://www.fahorro.com/fluoning-750-mg-oral-7-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo. Por la concentración y las 7 tabletas podría ser un antibiótico (posiblemente levofloxacino 750 mg), pero no está confirmado; si lo es, receta Sí, categoría Antiinfecciosos Venta Libre (MLM457823) y rx MLM457827. El GTIN comparte prefijo con Vitafusin de PiSA, lo que sugiere que también es de PiSA (no confirmado).",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por las fotos de tienda cuyo nombre de archivo es este GTIN; el registro infocode no lo lista. Etiqueta indica venta con receta y no uso en embarazo, lactancia ni menores de 18 años.",
+    "notas_imagenes": "3 fotos de tienda: caja de frente, caja en otro ángulo y contraetiqueta, todas de 1600 px originales y sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE TRIPLE ACC 150ML FEB27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Triple Acción Menta 150 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Triple Acción con sabor a menta original, en tubo de 150 ml (empaque familiar). Su fórmula está adicionada con flúor, mineral que ayuda a combatir la caries y refuerza el esmalte natural de los dientes, y está pensada para brindar en cada cepillado una limpieza profunda para toda la familia.\n\nBeneficios:\n- Triple acción: protección anticaries, dientes más blancos y aliento fresco.\n- Con flúor, que ayuda a combatir la caries y a reforzar el esmalte natural.\n- Sabor a menta original para una sensación de frescura durante el día.\n- Rendidor tubo de 150 ml para compartir entre todos los miembros de la familia.\n\nModo de uso:\nÚsela en el cepillado diario, aplicando sobre el cepillo dental una porción adecuada para limpiar todos los dientes.\n\nPresentación:\nTubo con 150 ml de crema dental.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Triple Acción",
+    "variante": "Menta original",
+    "presentacion": "Tubo",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Empaque familiar; Con flúor; Formato de venta: Pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546000350_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546000350_1.jpg",
+      "pagina": "https://www.fahorro.com/crema-dental-colgate-triple-accion-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1571,
+      "fecha": "2026-09-29",
+      "lado_util": 1455
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-dental-colgate-triple-accion-150-ml.html",
+    "https://www.klyns.mx/colgate-triple-accion-150ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se pudo abrir el sitio del fabricante (403). No se confirmó la lista de ingredientes ni el porcentaje de flúor.",
+    "notas_imagenes": "1 foto de tienda (1571 px, empaque familiar de frente). Se descartó una imagen con recuadro 'Familiar 150 ml' y un banner publicitario.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

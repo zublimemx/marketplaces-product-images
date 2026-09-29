@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "KIT RICITOS DE ORO MZLLA 4PZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Set para Bebé Ricitos de Oro Manzanilla 4 Piezas",
+  "descripcion": "Descripción:\nMini kit para bebé Ricitos de Oro de Grisi, línea Manzanilla, con cuatro productos de higiene y cuidado en tamaños prácticos para el aseo diario del bebé, para llevar de viaje o para regalo. Todos los productos son hipoalergénicos y tienen aroma a manzanilla.\n\nBeneficios:\n- Hipoalergénico.\n- El jabón suaviza y ayuda a desinflamar la piel del bebé.\n- La crema corporal humecta, suaviza y protege la piel.\n- El shampoo acondiciona el cabello del bebé.\n- El agua de colonia deja un aroma suave y dulce.\n\nCaracterísticas:\n- 1 shampoo de manzanilla de 100 mL.\n- 1 jabón de manzanilla de 100 g.\n- 1 crema corporal de manzanilla de 100 mL.\n- 1 agua de colonia de manzanilla de 100 mL.\n- Caja con ventana que muestra los productos.\n\nModo de uso:\nUtilice cada producto según las instrucciones de su etiqueta.\n\nPresentación:\nKit con 4 piezas: shampoo 100 mL, jabón 100 g, crema corporal 100 mL y agua de colonia 100 mL.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si ocurre, enjuague con agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Grisi",
+    "fabricante": "Grisi",
+    "linea": "Ricitos de Oro Manzanilla",
+    "variante": "Mini kit",
+    "presentacion": "Kit",
+    "contenido_neto": 4,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 4,
+    "sabor_aroma": "Manzanilla",
+    "genero": "Unisex",
+    "otros": "Contenido: shampoo 100 mL, jabón 100 g, crema corporal 100 mL y agua de colonia 100 mL; Hipoalergénico"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189840",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Sets de Cuidado para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022140659_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501022140659_1_2.jpg",
+      "pagina": "https://www.fahorro.com/grisi-ricitos-de-oro-mini-kit-manzanilla-4-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1532,
+      "fecha": "2026-09-29",
+      "lado_util": 1419
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/grisi-ricitos-de-oro-mini-kit-manzanilla-4-pz.html",
+    "https://farmaciasanisidro.mx/producto/ricitos-de-oro-kit-p-bebe-c-4-piezas/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El contenido del kit se leyó en la caja (foto de tienda). El nombre del sistema dice 'MZLLA' (manzanilla). Sitio oficial de Grisi no consultado a fondo. No se encontraron ingredientes.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro), frente del kit, 1,532 px.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

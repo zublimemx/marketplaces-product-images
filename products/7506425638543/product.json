@@ -4,22 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAS DIAPRO HUM C/MZNILLA C/49",
   "nombres_sistema_alternos": [],
-  "titulo": "Toallitas Húmedas Diapro con Manzanilla 49 Piezas",
-  "descripcion": "Descripción:\nToallitas húmedas de la marca Diapro con manzanilla, para la limpieza e higiene de la piel del bebé durante el cambio de pañal y en otros momentos del día. Cada paquete incluye 49 toallitas.\n\nCaracterísticas:\n- Toallitas húmedas con extracto de manzanilla.\n- Suaves para uso diario en la piel del bebé.\n- Paquete con 49 piezas.\n\nModo de uso:\nSaque una toallita, limpie suavemente la zona deseada y deseche la toallita en la basura, nunca en el inodoro. Cierre bien el empaque después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 49 toallitas húmedas.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece enrojecimiento o irritación en la piel y consulte a su pediatra.",
+  "titulo": "Toallitas Húmedas Diapro con Manzanilla XG 49 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Diapro con manzanilla en presentación XG, de gran tamaño, pensadas para la higiene y el aseo de personas adultas. El paquete contiene 49 toallitas suaves y resistentes, humedecidas con una loción con glicerina y extracto de manzanilla.\n\nCaracterísticas:\n- Tamaño extra grande de aproximadamente 23 x 22 cm por toallita.\n- Con glicerina y manzanilla.\n- Sin alcohol y sin parabenos.\n- Hipoalergénicas.\n- Paquete con 49 piezas.\n\nModo de uso:\nRetire una toallita del paquete y páselo suavemente sobre la piel limpia, sin tallar. Utilice las toallitas que necesite y cierre bien la tapa o el sello adhesivo después de cada uso para que no se resequen.\n\nPresentación:\nPaquete con 49 toallitas húmedas XG con manzanilla, de la línea de cuidado para adulto Diapro.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece enrojecimiento o irritación en la piel. No arroje las toallitas al inodoro; deséchelas en la basura. Manténgalas fuera del alcance de los niños.",
   "ficha": {
     "marca": "Diapro",
+    "linea": "Diapro",
     "variante": "Con manzanilla",
-    "presentacion": "Paquete de toallitas húmedas",
+    "presentacion": "paquete",
     "contenido_neto": 49,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 49,
-    "otros": "Aroma/Ingrediente: Manzanilla; Formato de venta: Paquete"
+    "talla": "XG",
+    "sabor_aroma": "Manzanilla",
+    "otros": "Tamaño de la toallita: 23 x 22 cm; Con glicerina; Sin alcohol; Sin parabenos; Hipoalergénicas; Uso: higiene de adultos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "MLM187794",
-      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_id": "MLM191653",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Toallas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -27,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425638543_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/174578/7506425638543.jpg?v=638193313869970000",
+      "pagina": "https://www.klyns.mx/toallas-humedas-diapro-con-manzanilla-49-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 879,
+      "fecha": "2026-09-29",
+      "lado_util": 814
+    }
+  ],
+  "url_oficial": "https://diapro.com.mx/Producto/toallitashumedas",
+  "fuentes": [
+    "https://www.klyns.mx/toallas-humedas-diapro-con-manzanilla-49-piezas/p",
+    "https://diapro.com.mx/Producto/toallitashumedas",
+    "https://www.farmaleal.com.mx/products/tas-diapro-hum-c-mznilla-c-49-7506425638543"
+  ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo confirmar la marca Diapro ni su fabricante; datos tomados del nombre ('TAS DIAPRO HUM C/MZNILLA C/49'). Verificar si es para bebé o de uso general.",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 49 piezas confirmados en tiendas y en el sitio de la marca. No se confirmó el fabricante, por eso no se anota. La marca ofrece toallitas para adulto XG.",
+    "notas_imagenes": "1 foto de tienda (879 px) con el paquete de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }

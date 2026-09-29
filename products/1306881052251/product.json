@@ -4,15 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "B TRACET XL SOL C3 AMP KETOROLACO LIDOCAINA TIAMINA CIANOCOBALAMINA MEDICAM 500",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "B-Tracet XL Solución Inyectable 3 Ampolletas",
+  "descripcion": "Descripción:\nB-Tracet XL es una solución inyectable de laboratorios Medicam que combina ketorolaco, lidocaína, tiamina (vitamina B1) y cianocobalamina (vitamina B12). Se presenta en caja con 3 ampolletas para administración por vía inyectable.\n\nComposición:\n- Ketorolaco: analgésico antiinflamatorio no esteroideo.\n- Lidocaína: anestésico local.\n- Tiamina (vitamina B1) y cianocobalamina (vitamina B12): vitaminas del complejo B.\n\nModo de uso:\nVía inyectable. La dosis, la vía y la duración del tratamiento las determina el médico, y la aplicación debe ser realizada por personal de salud capacitado.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable.\n\nAdvertencias:\n- Su venta requiere receta médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "B-Tracet",
+    "fabricante": "Medicam",
+    "linea": "B-Tracet",
+    "variante": "XL",
+    "presentacion": "Caja con ampolletas de solución inyectable",
+    "unidades_por_envase": 3,
+    "principio_activo": "Ketorolaco, lidocaína, tiamina, cianocobalamina",
+    "via_administracion": "Inyectable",
+    "otros": "Formato de venta: Caja con 3 ampolletas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
@@ -21,12 +31,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://cedismed.com/producto/b-tracet-pl/",
+    "https://mayoreofarmaceutico.com.mx/productos/1306881052251/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "gtin",
+    "notas": "Conflicto de identidad: los catálogos asocian el GTIN 1306881052251 a B-Tracet-PL (tramadol, ketorolaco, B1 y B12, ampolletas de 2 ml, Medicam), mientras que el nombre del sistema dice XL con ketorolaco, lidocaína, tiamina y cianocobalamina. No se encontró ninguna ficha de B-Tracet XL. La descripción sigue el nombre del sistema y no da concentraciones; verificar con el empaque físico antes de publicar.",
+    "notas_imagenes": "Sin fotos: las únicas halladas eran de B-Tracet-PL (otro producto) y traían logotipos y teléfonos de una farmacia; se borraron.",
+    "fecha": "2026-09-29",
+    "sesion": 3
   }
 }
