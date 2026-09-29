@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "DOLAC 10MG C10 CAPS 280",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dolac Ketorolaco 10 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nDolac es un analgésico y antiinflamatorio no esteroideo (AINE) de Siegfried Rhein cuyo principio activo es el ketorolaco trometamina. Se presenta en cápsulas de gelatina blanda (softgel) de 10 mg para administración oral y está indicado para el tratamiento a corto plazo del dolor agudo de intensidad moderada a severa, como dolor dental, cólico menstrual, migraña, lesiones musculoesqueléticas, traumatismos, dolor ginecológico y dolor postquirúrgico.\n\nCaracterísticas:\n- Inhibidor de la ciclooxigenasa (COX) de acción rápida\n- Efecto analgésico no opioide, sin somnolencia\n- Cápsula de gelatina blanda con tecnología softgel\n- Vía de administración: oral\n\nFórmula:\nCada cápsula contiene ketorolaco trometamina 10 mg.\n\nModo de uso:\nAdultos y mayores de 12 años: 10 mg cada 4 a 6 horas según indicación médica, sin exceder 40 mg al día. El tratamiento no debe prolongarse más de 7 días.\n\nPresentación:\nCaja con 10 cápsulas de 10 mg.\n\nAdvertencias:\nNo usar en caso de úlcera péptica activa o sangrado gastrointestinal reciente, insuficiencia renal moderada a severa, embarazo o trabajo de parto, ni en menores de 12 años; tampoco antes o durante cirugías por riesgo de sangrado. Puede afectar la mucosa gastrointestinal y la función renal, e inhibe la agregación plaquetaria; informe a su médico si toma anticoagulantes. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolac",
+    "fabricante": "Siegfried Rhein",
+    "presentacion": "Caja con 10 cápsulas de gelatina blanda (softgel)",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ketorolaco trometamina",
+    "concentracion": "10 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "022M2015 SSA IV",
+    "otros": "Forma farmacéutica: cápsula de gelatina blanda; Clasificación: AINE"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300421524_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300421524_1.jpg",
+      "pagina": "https://www.fahorro.com/dolac-10-mg-10-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1658,
+      "fecha": "2026-09-29",
+      "lado_util": 1537
+    },
+    {
+      "archivo": "7501300421524_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300421524.jpg",
+      "pagina": "https://www.fahorro.com/dolac-10-mg-10-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1479,
+      "fecha": "2026-09-29",
+      "lado_util": 1370
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/dolac-capsulas/170/101/7342/14",
+    "https://www.fahorro.com/dolac-10-mg-10-caps.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema trae '280' al final, que no corresponde a ningún dato del producto y se ignoró. Registro 022M2015 SSA IV (PLM).",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): caja de frente y en ángulo, caja con 10 cápsulas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

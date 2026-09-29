@@ -4,29 +4,78 @@
   "linea": "Farma",
   "nombre_sistema": "POSTINOR PBA DE EMBARAZO ULTRA SENS 100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Prueba de Embarazo Postinor Ultrasensible 1 Pieza",
+  "descripcion": "Descripción:\nPostinor Ultra Sensible es una prueba de embarazo en orina de Gedeon Richter, con dispositivo tipo pluma de un solo uso. Es un agente de diagnóstico que, según su empaque, se lee fácilmente, puede usarse a cualquier hora del día y da resultados en tan solo un minuto.\n\nCaracterísticas:\n- Fácil de leer.\n- Para uso a cualquier hora del día.\n- Resultados en tan solo un minuto.\n- Detecta el embarazo hasta un 50% antes que pruebas similares, según el fabricante.\n- Indica más del 99% de precisión en su empaque.\n\nModo de uso:\nSiga las instrucciones del instructivo incluido. El empaque muestra las partes del dispositivo (tapa de plástico, tira absorbente, ventana de resultados y mango) y cómo leer los resultados: una sola línea de control indica no embarazada; banda de prueba y banda de control indican embarazo positivo; sin banda de control el resultado es inválido. Se requiere un reloj con segundero o cronómetro, que no se incluye.\n\nPresentación:\nCaja con 1 dispositivo plástico de prueba.\n\nAdvertencias:\n- Para uso de diagnóstico in vitro (no para uso interno).\n- Conservar entre 3 y 30 °C.\n- Confirme el resultado con su médico.\n- No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Postinor",
+    "fabricante": "Gedeon Richter",
+    "linea": "Ultra Sensible",
+    "presentacion": "Caja con 1 dispositivo de prueba",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "registro_sanitario": "1830R2017 SSA",
+    "otros": "Prueba de embarazo en orina; Resultados en un minuto; Conservar entre 3 °C y 30 °C; Uso de diagnóstico in vitro; Formato de venta: pieza individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194260",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM27233400"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506352500043_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506352500043.jpg",
+      "pagina": "https://www.fahorro.com/prueba-de-embarazo-postinor-ultrasensible.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1369,
+      "fecha": "2026-09-29",
+      "lado_util": 1268
+    },
+    {
+      "archivo": "7506352500043_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506352500043_1.jpg",
+      "pagina": "https://www.fahorro.com/prueba-de-embarazo-postinor-ultrasensible.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1398,
+      "fecha": "2026-09-29",
+      "lado_util": 1295
+    },
+    {
+      "archivo": "7506352500043_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506352500043_2.jpg",
+      "pagina": "https://www.fahorro.com/prueba-de-embarazo-postinor-ultrasensible.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1222,
+      "fecha": "2026-09-29",
+      "lado_util": 1132
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/prueba-de-embarazo-postinor-ultrasensible.html",
+    "https://www.yza.mx/postinor-ultrasensible-/MXYZ_7506352500043.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (URL de farmacia con 7506352500043 y foto nombrada con el GTIN). Datos transcritos del empaque visible en las fotos (frente y reverso). El catálogo MLM27233400 coincide por título ('Postinor prueba de embarazo ultrasensible 1 blister') pero no se pudo abrir para confirmar el GTIN.",
+    "notas_imagenes": "3 fotos de tienda (1369, 1398 y 1222 px): frente, reverso con instructivo de lectura y vista en ángulo de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "DALVEAR 200ML INF ML MIEL LIMON",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dalvear Infantil Jarabe Dropropizina Bromhexina 200 ml",
+  "descripcion": "Descripción:\nDalvear Infantil es un jarabe con sabor miel-lima-limón que combina dropropizina y bromhexina. Se describe como un antitusígeno no narcótico infantil de acción periférica, mucolítico y expectorante. Es un producto de Siegfried Rhein y se presenta en caja con un frasco de 200 ml.\n\nBeneficios:\n- Antitusígeno, mucolítico y expectorante en un solo jarabe\n- Indicado para la tos de cualquier etiología\n- Coadyuvante en faringitis, amigdalitis, laringitis, traqueítis y enfermedades broncopulmonares agudas\n- Sabor miel-lima-limón agradable para los niños\n- Incluye accesorio dosificador\n\nComposición:\n- Dropropizina 150 mg por cada 100 ml de jarabe\n- Bromhexina 80 mg por cada 100 ml de jarabe\n\nModo de uso:\nVía oral. La dosis depende de la edad y del peso del niño y debe ser indicada por el médico; mida siempre con el dosificador del empaque (vaso, cuchara o pipeta).\n\nPresentación:\nCaja con un frasco con 200 ml de jarabe infantil y dosificador.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a alguno de los componentes. Administrar únicamente bajo indicación médica y en las dosis indicadas. Si la tos persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dalvear",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Infantil",
+    "variante": "Miel-lima-limón",
+    "presentacion": "Frasco de 200 ml con dosificador",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dropropizina y bromhexina",
+    "concentracion": "Dropropizina 150 mg y bromhexina 80 mg por cada 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños",
+    "sabor_aroma": "Miel, lima y limón",
+    "registro_sanitario": "211M2011 SSA IV",
+    "otros": "Forma farmacéutica: jarabe; Fabricado por Laboratorios Columbia para Siegfried Rhein"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086310401_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310401_4.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-infantil-150-mg-80-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1419,
+      "fecha": "2026-09-29",
+      "lado_util": 1314
+    },
+    {
+      "archivo": "7501086310401_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310401_2.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-infantil-150-mg-80-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1509,
+      "fecha": "2026-09-29",
+      "lado_util": 1398
+    },
+    {
+      "archivo": "7501086310401_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086310401_3.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-infantil-150-mg-80-mg-100-ml-jarabe-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1476,
+      "fecha": "2026-09-29",
+      "lado_util": 1367
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/dalvear-infantil-150-mg-80-mg-100-ml-jarabe-200-ml.html",
+    "https://www.farmaciasguadalajara.com/medicina/vias-respiratorias/dalvear-jarabe-infantil-150mg-80mg-100ml-sabor-miel-lima-limon--200-ml.-1044664.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Condición de venta no confirmada (una tienda lo clasifica entre los medicamentos de gripe y tos con receta; el empaque visible no lo indica), por eso 'Revisar'. Dosis no disponible en las fichas. Registro sanitario y fabricante leídos del empaque.",
+    "notas_imagenes": "3 fotos del empaque (caja en ángulo, caja y frente), origen tienda, 1419 a 1509 px. Se eliminó una foto del costado con texto ilegible.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

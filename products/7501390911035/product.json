@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL OVU C6",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Italdermol Extracto de Triticum vulgare 600 mg 6 Óvulos",
+  "descripcion": "Descripción:\nItaldermol óvulos es un medicamento de uso vaginal de Italmex cuyo principio activo es el extracto acuoso de Triticum vulgare (trigo). Cada óvulo contiene 600 mg y la caja incluye 6 óvulos. Está indicado para favorecer la cicatrización y la recuperación de los tejidos en padecimientos cervicovaginales, como erosiones del cuello uterino, cervicitis, vaginitis y vulvovaginitis crónicas, y en la regeneración de tejidos después de una cirugía.\n\nCaracterísticas:\n- Principio activo: extracto acuoso de Triticum vulgare.\n- Concentración: 600 mg por óvulo.\n- Forma farmacéutica: óvulo vaginal.\n- Presentación de 6 óvulos.\n\nComposición:\nCada óvulo contiene 600 mg de extracto acuoso de Triticum vulgare y excipientes.\n\nModo de uso:\nVía vaginal. La dosis y la duración del tratamiento las indica el médico. Lávese las manos antes y después de la aplicación y siga las instrucciones del instructivo del empaque.\n\nPresentación:\nCaja con 6 óvulos vaginales de 600 mg.\n\nAdvertencias:\nNo lo use si es alérgica a alguno de los componentes de la fórmula. La seguridad del producto no ha sido comprobada en mujeres embarazadas; consulte a su médico antes de usarlo en el embarazo o la lactancia. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "fabricante": "Italmex",
+    "linea": "Italdermol",
+    "presentacion": "Caja con 6 óvulos",
+    "contenido_neto": 6,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 6,
+    "principio_activo": "Extracto acuoso de Triticum vulgare",
+    "concentracion": "600 mg",
+    "via_administracion": "Vaginal",
+    "registro_sanitario": "573M94 SSA IV",
+    "otros": "Forma farmacéutica: óvulo vaginal; Grupo terapéutico: cicatrizante cervicovaginal"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390911035_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7000178/7501390911035_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/italdermol-600-mg-caja-c-6-ovulos/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/dermatologicos/6512-comprar-italdermol-600-mg-caja-con-6-ovulos-precio-7501390911035.html",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/2036-italdermol-600-mg-con-6-ovulos.html",
+    "https://www.fahorro.com/italdermol-vaginal-600mg-40-mg-con-6-ovulos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN, principio activo y presentación confirmados por el empaque (extracto acuoso de Triticum vulgare 600 mg, 6 óvulos). Una ficha de tienda lo describe como clotrimazol y metronidazol, lo cual es incorrecto. Algunas tiendas lo nombran '600 mg/40 mg'; no se pudo aclarar qué representa el 40 mg. Las fuentes no coinciden sobre receta (una indica fracción IV, otra venta libre), por eso 'Revisar'.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 972 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

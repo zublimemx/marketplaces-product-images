@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT CLINIC ORTHODONCIA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Kit Cepillo Dental Clinic Ortodoncia Premium Pack 6 Piezas",
+  "descripcion": "Descripción:\nKit Clinic Orthodontic Premium Pack para el cuidado bucal diario de personas con tratamiento de ortodoncia. Reúne en un solo empaque un cepillo dental y accesorios de limpieza interdental para llegar a los espacios entre dientes y alrededor de los aparatos, con protector para la cabeza del cepillo y estuche para llevarlo contigo.\n\nCaracterísticas:\n- Kit de 6 piezas: 1 cepillo dental para ortodoncia, 3 cepillos interdentales de colores, tapa protectora y estuche\n- Pensado para pacientes con brackets o espacios interdentales amplios\n- Cepillos interdentales para complementar el cepillado\n- Estuche y tapa para mantener el cepillo protegido durante el traslado\n- Los colores del mango pueden variar\n\nPresentación:\nBlíster con kit de 6 piezas.",
+  "ficha": {
+    "marca": "Clinic",
+    "linea": "Orthodontic Premium Pack",
+    "variante": "Kit para ortodoncia",
+    "presentacion": "Kit en blíster",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "otros": "Incluye cepillo dental, 3 cepillos interdentales, tapa protectora y estuche; colores del mango variables"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501072670007_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://club.presalud.com/web/image/product.product/30856/image_1920",
+      "pagina": "https://club.presalud.com/shop/7501072670007-cepillo-dental-clinic-ortodoncia-30856",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1035,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    },
+    {
+      "archivo": "7501072670007_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/planogram__1__54c41a12-825f-4897-9211-a54491b22608.jpg?v=1732555660&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/cepillo-dental-clinic-kit-ortodoncia-con-6-piezas",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 1986,
+      "fecha": "2026-09-29",
+      "lado_util": 1839
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciaherrera.com.mx/products/cepillo-dental-clinic-kit-ortodoncia-con-6-piezas",
+    "https://club.presalud.com/shop/7501072670007-cepillo-dental-clinic-ortodoncia-30856",
+    "https://www.emeritafarmacias.com/producto/CEPILLO-DENTAL-ORTHODONTIC-PACK-CLINIC/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró página del fabricante; el detalle del contenido se toma del nombre de las fichas de tienda (kit de 6 piezas) y de las fotos del empaque.",
+    "notas_imagenes": "2 fotos de frente al blíster (tienda; mango verde y mango amarillo, ambas de más de 1,000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

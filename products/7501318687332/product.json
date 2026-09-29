@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "NOVAMIL RICE 400G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fórmula Infantil Novamil Rice No Láctea 400 g",
+  "descripcion": "Descripción:\nNovamil Rice es una fórmula infantil no láctea para lactantes y niños de corta edad con necesidades especiales de nutrición, elaborada con proteína de arroz hidrolizada y con tecnología PAX Complex. Está indicada a partir del nacimiento y hasta los 36 meses de edad.\n\nCaracterísticas:\n- Fórmula no láctea con proteína de arroz hidrolizada.\n- Para lactantes y niños de corta edad con necesidades especiales de nutrición.\n- Uso desde el nacimiento hasta los 36 meses.\n- Puede prepararse como sustituto total de la leche o como complemento en la alimentación del bebé.\n\nModo de uso:\nPrepare la fórmula de acuerdo con las instrucciones de preparación impresas en el empaque, respetando las medidas y la higiene indicadas. Consulte a su pediatra sobre la cantidad y frecuencia adecuadas para su bebé.\n\nPresentación:\nLata de 400 g de contenido neto.\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé. Consulte a su médico o pediatra antes de usar esta fórmula, en especial si su bebé tiene alguna condición médica. No se automedique.",
+  "ficha": {
+    "marca": "Novamil",
+    "fabricante": "Genomma Lab Internacional",
+    "linea": "Rice",
+    "variante": "Fórmula no láctea con proteína de arroz hidrolizada",
+    "presentacion": "Lata",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "0 a 36 meses",
+    "otros": "Tecnología PAX Complex; Fórmula no láctea; Uso como sustituto total o complemento"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318687332_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501318687332.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/812704/novamil-rice-pvo-400g",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1051,
+      "fecha": "2026-09-29",
+      "lado_util": 974
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/novamil-rice-formula-no-lactea-especializada-a-partir-del-nacimiento-hasta-36-meses-400-g",
+    "https://world.openfoodfacts.org/product/7501318687332/novamil-rice-pax-complex"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró lista de ingredientes ni tabla nutrimental confiable, por lo que se omiten.",
+    "notas_imagenes": "1 foto de tienda (sanborns/claroshop, 1200 px) de frente de la lata. Se descartaron una foto de Benavides (520 px, duplicada) y una foto casera de OpenFoodFacts.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

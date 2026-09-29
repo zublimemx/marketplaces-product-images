@@ -4,29 +4,76 @@
   "linea": "Farma",
   "nombre_sistema": "BAUMA BZO 7121J OMRON",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Baumanómetro Digital de Brazo Omron HEM-7121J",
+  "descripcion": "Descripción:\nBaumanómetro digital automático de brazo Omron modelo HEM-7121J, un monitor de presión arterial compacto y fácil de usar pensado para el control en casa. Mide la presión sistólica, la presión diastólica y el pulso, y muestra los resultados en pantalla.\n\nCaracterísticas:\n- Modelo HEM-7121J de Omron, de tipo automático para el brazo.\n- Compacto y sencillo de operar, con un botón de inicio y paro.\n- Sensor de posición que ayuda a guiar al usuario sobre la postura adecuada al momento de medir.\n- Control de inflado óptimo para mediciones más cómodas y precisas.\n- Memoria para almacenar las últimas 30 mediciones.\n- La foto de la caja muestra el monitor junto con su brazalete.\n\nPresentación:\n1 pieza (monitor de presión arterial digital de brazo Omron HEM-7121J).\n\nAdvertencias:\nEste equipo sirve para monitorear la presión arterial y no sustituye la valoración de un médico. Consulte a su médico para interpretar sus mediciones y lea el instructivo del fabricante antes de usarlo.",
+  "ficha": {
+    "marca": "Omron",
+    "fabricante": "Omron Healthcare",
+    "linea": "Monitor de presión arterial de brazo",
+    "variante": "HEM-7121J",
+    "presentacion": "Pieza",
+    "unidades_por_envase": 1,
+    "otros": "Modelo: HEM-7121J; Tipo: digital automático de brazo; Mide presión sistólica, diastólica y pulso; Memoria: últimas 30 mediciones; Sensor de posición; Control de inflado óptimo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM190865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Medidores de Presión > Digitales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22960283"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "073796712105_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://dvcmedical.mx/wp-content/uploads/2024/08/73796712105-BAUMANOMETRO-DIGITAL.webp",
+      "pagina": "https://dvcmedical.mx/producto/baumanometro-digital-de-brazo-hem-7121j/",
+      "ancho_original": 683,
+      "alto_original": 597,
+      "lado_final": 703,
+      "fecha": "2026-09-29",
+      "lado_util": 651
+    },
+    {
+      "archivo": "073796712105_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/mkt/60882b8c6b985_d1f6cd61b7b0405abae55afbf8f8f1f8png.jpg?scale=1500&qlty=90",
+      "pagina": "https://www.claroshop.com/producto/13806428/baumanometro-brazo-omron-monitor-de-presion-arterial-hem-7121j",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 354
+    },
+    {
+      "archivo": "073796712105_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/mkt/60882ae9efe1d_41coxnrdnsl_ac_jpg.jpg?scale=1500&qlty=90",
+      "pagina": "https://www.claroshop.com/producto/13806428/baumanometro-brazo-omron-monitor-de-presion-arterial-hem-7121j",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 500
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://dvcmedical.mx/producto/baumanometro-digital-de-brazo-hem-7121j/",
+    "https://www.claroshop.com/producto/13806428/baumanometro-brazo-omron-monitor-de-presion-arterial-hem-7121j"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por el modelo HEM-7121J del nombre; el UPC 073796712105 coincide con el nombre del archivo de la foto de dvcmedical, pero ninguna página lo mostró como texto. Rango de medición, medidas del brazalete, alimentación y garantía no se pudieron confirmar en las fuentes abiertas (Amazon y Mercado Libre bloquean el acceso); la ficha de catálogo MLM22960283 coincide en nombre.",
+    "notas_imagenes": "3 fotos de tienda (dvcmedical y ClaroShop): caja con monitor y brazalete, monitor solo y monitor con brazalete; miden entre 540 y 703 px (menos de 800 px) y no se encontró una fuente de mayor resolución. Se descartaron una foto de estilo de vida y un banner con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "ZEDESEN 400MG CAP C10 JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Zedesen Ceftibuteno 400 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nZedesen es un antibiótico cefalosporínico de administración oral, de Laboratorios Senosiain, cuyo principio activo es el ceftibuteno, en cápsulas de 400 mg. Se emplea en infecciones causadas por bacterias sensibles al ceftibuteno, como infecciones respiratorias (faringitis, amigdalitis, sinusitis, otitis media y bronquitis), infecciones urinarias e infecciones gastrointestinales. La caja contiene 10 cápsulas.\n\nCaracterísticas:\n- Principio activo: ceftibuteno\n- Concentración: 400 mg por cápsula\n- Vía de administración: oral\n- Antibiótico de uso con receta médica (fracción IV)\n\nFórmula:\nCada cápsula contiene ceftibuteno 400 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; no suspenda el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 10 cápsulas de 400 mg.\n\nAdvertencias:\nNo usar en caso de hipersensibilidad a las cefalosporinas, a otros betalactámicos o a los componentes de la fórmula. Evite el consumo de alcohol durante el tratamiento. Consulte a su médico si está embarazada o en período de lactancia. No se automedique. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Zedesen",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Caja con 10 cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ceftibuteno",
+    "concentracion": "400 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "067M2017 SSA",
+    "otros": "Forma farmacéutica: cápsulas; Fracción IV; La caja muestra la marca IPAL"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701285_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw65e1f50c/images/large/7501314701285_1.jpg",
+      "pagina": "https://www.yza.mx/zedesen-400mg-10-caps/MXYZ_7501314701285.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 803,
+      "fecha": "2026-09-29",
+      "lado_util": 745
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/medicamentos-de-a-z/4251-zedesen-400-mg-con-10-capsulas.html",
+    "https://prixz.com/c/zedesen-ceftibuteno-400-mg-con-10-capsulas-2/",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/35185-zedesen-ceftibuteno-400-mg-10-capsulas-ipal-rx2-7501314701285.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de farmacias en línea, sin ficha oficial del fabricante; el registro 067M2017 SSA viene de Prixz. El nombre del sistema trae 'JUNIO 27' (caducidad), ignorado.",
+    "notas_imagenes": "1 foto de tienda (Yza, 803 px), caja frontal de 10 cápsulas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

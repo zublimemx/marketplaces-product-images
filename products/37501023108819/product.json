@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "NEXCARE TRANSPORE 2 5 CM X9 1M",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cinta Transparente Nexcare Transpore 2.5 cm x 9.1 m",
+  "descripcion": "Descripción:\nCinta adhesiva transparente hipoalergénica 3M Nexcare Transpore, de 2.5 cm de ancho por 9.1 m de largo (1 pulgada por 10 yardas), en rollo individual. Es una cinta para uso en el botiquín y en curación, útil para fijar gasas, apósitos y vendajes sobre la piel.\n\nCaracterísticas:\n- Cinta adhesiva transparente, que permite ver la piel y el apósito que cubre.\n- Adhesivo hipoalergénico.\n- Medidas: 2.5 cm de ancho por 9.1 m de largo.\n- Presentación en rollo dentro de una caja de cartón.\n\nModo de uso:\nLimpie y seque la zona, corte la longitud necesaria y coloque la cinta sobre el apósito o la gasa sin estirarla, de modo que quede fija sin apretar la piel.\n\nPresentación:\n1 rollo de cinta Transpore de 2.5 cm x 9.1 m.\n\nAdvertencias:\n- Uso externo.\n- Suspenda su uso si aparece irritación o enrojecimiento de la piel.\n- No la aplique sobre heridas abiertas sin cubrirlas con un apósito.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nexcare",
+    "fabricante": "3M",
+    "linea": "Transpore",
+    "variante": "Transparente",
+    "presentacion": "Rollo de cinta adhesiva",
+    "contenido_neto": 9.1,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 1,
+    "otros": "Ancho: 2.5 cm; Largo: 9.1 m (10 yardas); Hipoalergénica; Cinta adhesiva transparente para curación; GTIN-14 de caja o empaque maestro (pieza individual sin confirmar); Formato de venta: rollo individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "37501023108819_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501023108351_1.jpg",
+      "pagina": "https://www.fahorro.com/nexcare-cinta-transpore-transparente-2-50-cm-x-9-10-m.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 388
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nexcare-cinta-transpore-transparente-2-50-cm-x-9-10-m.html",
+    "https://www.farmatodo.com.mx/cinta-nexcare-transpore-2-5cmx9-1m-bolsa-c-1-pz/p",
+    "https://www.farmaciasguadalajara.com/3m-nexcare-cinta-transpore-transparente-25cm-x-91m-1-pz-988545"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 37501023108819 es un GTIN-14 (indicador 3); el código de la pieza sería 7501023108819, que no apareció en ninguna ficha. Se identificó por nombre y medidas: en una farmacia la misma cinta de 2.5 cm x 9.1 m aparece con otro código (7501023108351). Las fichas en línea traen poca descripción; los usos y el modo de uso son generales. Verificar la cantidad de rollos por caja si el GTIN-14 corresponde a un empaque maestro.",
+    "notas_imagenes": "1 foto (tienda, 500 px, original pequeña) de la caja Nexcare Transpore transparente 2.5 cm x 9.1 m; corresponde a la presentación con otro código de barras de la misma cinta.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

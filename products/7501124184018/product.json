@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "LACTEOL FORT C16 CAPS 10MIL MILL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lacteol Fort Lactobacillus LB 10 Mil Millones 16 Cápsulas",
+  "descripcion": "Descripción:\nLacteol Fort es un medicamento a base de Lactobacillus LB (Lactobacillus fermentum y Lactobacillus delbrueckii, inactivados) en cápsulas con 10 mil millones de bacterias, de Laboratorios Carnot. Se presenta como antidiarreico biológico para el tratamiento de la diarrea aguda o crónica de origen bacteriano o viral y del colon irritable.\n\nBeneficios:\n- Ayuda a controlar la diarrea aguda y crónica de origen bacteriano o viral.\n- Actúa formando una barrera física sobre las células del intestino y produciendo sustancias con acción antibacteriana.\n- Estimula la respuesta inmune intestinal al aumentar la síntesis de IgA.\n- No se han descrito reacciones adversas ni interacciones con otros medicamentos a dosis terapéuticas.\n\nComposición:\nLactobacillus LB (Lactobacillus fermentum y Lactobacillus delbrueckii, inactivados), 10 mil millones por cápsula (340 mg).\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 1 cápsula cada 12 horas, o como lo indique su médico. Para lactantes y niños pequeños, las cápsulas se pueden abrir y disolver su contenido en un poco de agua.\n\nPresentación:\nCaja con 16 cápsulas.\n\nAdvertencias:\n- Si la diarrea persiste o se acompaña de fiebre, sangre en las evacuaciones o signos de deshidratación, consulte a su médico.\n- Conservar en lugar seco a una temperatura no mayor de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lacteol",
+    "fabricante": "Laboratorios Carnot",
+    "linea": "Lacteol Fort",
+    "variante": "10 mil millones",
+    "presentacion": "Caja con 16 cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Lactobacillus LB (Lactobacillus fermentum y Lactobacillus delbrueckii)",
+    "concentracion": "10 mil millones por cápsula (340 mg)",
+    "via_administracion": "Oral",
+    "otros": "Grupo terapéutico: antidiarreico biológico; Conservar a no más de 30 °C; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124184018_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124184018.jpg",
+      "pagina": "https://www.fahorro.com/lacteol-fort-10-mil-millones-16-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1512,
+      "fecha": "2026-09-29",
+      "lado_util": 1400
+    },
+    {
+      "archivo": "7501124184018_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20230217_1043595.jpg",
+      "pagina": "https://www.fahorro.com/lacteol-fort-10-mil-millones-16-caps.html",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 401
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/lacteol.fort.capsulas/35/101/8306/14",
+    "https://www.benavides.com.mx/lacteol-fort-lactobacilos-acidofilos-16-ud-capsulas",
+    "https://www.yza.mx/lacteol-fort-10mui-16-caps-/MXYZ_7501124184018.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Lacteol Fort 10 mil millones, 16 cápsulas). Indicaciones y dosis de la monografía de PLM (presentación de 340 mg); una ficha de farmacia lo lista como 340 mg. Receta \"No\" por tratarse de un probiótico inactivado; confirmar el régimen de venta en el empaque.",
+    "notas_imagenes": "2 fotos de la caja (tienda: Farmacias del Ahorro 1512 px y Benavides 561 px, la segunda por debajo de 800 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

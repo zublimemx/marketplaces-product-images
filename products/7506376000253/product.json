@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "CRA VITACILINA FAC ANTIARRUGAS 100G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Vitacilina Antiarrugas Día y Noche 100 g",
+  "descripcion": "Descripción:\nVitacilina Facial Antiarrugas es una crema facial para usar de día y de noche, formulada con retinol, niacinamida, ácido hialurónico y vitamina E para el cuidado de la piel madura. Se presenta en un tarro de 100 g con tapa metálica dentro de una caja de cartón.\n\nBeneficios:\n- Ayuda a reducir las líneas de expresión y a corregir visiblemente las zonas marcadas por la edad\n- Ayuda a remodelar el contorno facial y a mejorar la firmeza de la piel\n- Ayuda a prevenir el envejecimiento prematuro\n- Hidratación con ácido hialurónico\n- Un solo producto para la rutina de día y de noche\n\nIngredientes:\nIngredientes destacados: retinol, niacinamida, ácido hialurónico y vitamina E. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nAplicar por la mañana y por la noche sobre la piel limpia y seca, con un masaje suave ascendente y circular en rostro, cuello, papada y escote.\n\nPresentación:\nTarro con 100 g de crema facial, en caja individual.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si presenta irritación o molestia en la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "linea": "Facial",
+    "variante": "Antiarrugas día y noche",
+    "presentacion": "Tarro de 100 g",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Tipo de producto: crema facial antiarrugas; Activos: retinol, niacinamida, ácido hialurónico y vitamina E; Uso: día y noche"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506376000253_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/750637600025.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-crema-facial-antiarrugas-100-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1118,
+      "fecha": "2026-09-29",
+      "lado_util": 1036
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/crema-facial-vitacilina-antiarrugas-dia-noche-con-retinol-100-g/00750637600025",
+    "https://www.fahorro.com/vitacilina-crema-facial-antiarrugas-100-gr.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Beneficios y modo de uso tomados de una ficha de tienda; advertencias redactadas de forma general para cosméticos de uso externo.",
+    "notas_imagenes": "1 foto de frente al empaque (tarro y caja), origen tienda, 1118 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

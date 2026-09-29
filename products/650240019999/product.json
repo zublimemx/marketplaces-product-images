@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "LOMECAN V 3 OVULO VAG 3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lomecan V Clotrimazol 200 mg 3 Óvulos Vaginales",
+  "descripcion": "Descripción:\nLomecan V son óvulos vaginales de clotrimazol 200 mg para el tratamiento de infecciones vaginales causadas por hongos. Es un tratamiento de 3 días que, según su empaque, alivia desde el primer día el ardor, la comezón y la inflamación.\n\nIndicaciones:\n- Tratamiento de infecciones vaginales simples o mixtas causadas por Candida albicans, Candida glabrata y Trichomonas vaginalis.\n\nFórmula:\nCada óvulo contiene clotrimazol 200 mg, con excipiente cbp 1 óvulo.\n\nModo de uso:\nVía vaginal. Aplique un óvulo al día durante tres días consecutivos, de preferencia al acostarse. Lávese las manos antes y después de la aplicación.\n\nPresentación:\nCaja con 3 óvulos vaginales de 200 mg.\n\nAdvertencias:\n- No lo use si es alérgico a los antimicóticos del grupo de los imidazoles o a cualquier componente de la fórmula.\n- Si la irritación persiste, interrumpa el tratamiento y consulte a su médico.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lomecan",
+    "fabricante": "Genomma Lab",
+    "linea": "Lomecan V",
+    "presentacion": "Caja con 3 óvulos vaginales",
+    "contenido_neto": 3,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 3,
+    "principio_activo": "Clotrimazol",
+    "concentracion": "200 mg por óvulo",
+    "via_administracion": "Vaginal",
+    "otros": "Tratamiento de 3 días; Antimicótico vaginal; Formato de venta: caja con 3 óvulos"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "650240019999_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://shop.genommalab.com/media/catalog/product/cache/1/image/10000x/040ec09b1e35df139433887a97daa66f/6/5/650240019999.jpg",
+      "pagina": "https://shop.genommalab.com/mx/lomecan-v-ovulos-caja-con-3-ovulos-vaginales.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1961,
+      "fecha": "2026-09-29",
+      "lado_util": 1812
+    }
+  ],
+  "url_oficial": "https://shop.genommalab.com/mx/lomecan-v-ovulos-caja-con-3-ovulos-vaginales.html",
+  "fuentes": [
+    "https://shop.genommalab.com/mx/lomecan-v-ovulos-caja-con-3-ovulos-vaginales.html",
+    "https://www.medicamentosplm.com/home/productos/lomecan-v-ovulos/63/101/46572/111",
+    "https://www.yza.mx/lomecan-v-3-ovulos/MXYZ_650240019999.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 650240019999 (UPC de 12 dígitos) confirmado en la tienda del fabricante (foto nombrada con el GTIN) y en tienda de autoservicio. Clasificado como antimicótico; también podría ir en uroginecológicos de venta libre. Se consideró de venta libre por ser clotrimazol tópico vaginal; la ficha PLM no aclara el tipo de venta. Registro sanitario no visto.",
+    "notas_imagenes": "1 foto oficial del fabricante (Genomma Lab, 1961 px) de la caja con 3 óvulos. Se descartaron 3 imágenes publicitarias de la misma ficha.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

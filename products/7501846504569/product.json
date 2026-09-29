@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CERA XIOMARA TELARANA WAX&S 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cera Modeladora Xiomara Wax & Shine Telaraña 60 g",
+  "descripcion": "Descripción:\nCera modeladora Xiomara Wax & Shine efecto telaraña de 60 g. Es una cera en formato gel que proporciona una fijación ligera y un acabado mate natural, ideal para lograr un estilo urbano, flexible y definido. Se presenta en práctico tarro de 60 g y está pensada para un peinado de apariencia natural y en tendencia.\n\nBeneficios:\n- Fijación ligera con acabado mate natural\n- Moldea el cabello sin rigidez\n- No deja residuos grasos ni sensación pegajosa\n- Da control y textura ligera al peinado\n- Mantiene el peinado durante todo el día\n\nModo de uso:\nAplique sobre el cabello seco para definir y mantener el peinado durante todo el día, con un look manejable y sin endurecer.\n\nPresentación:\nTarro con 60 g.",
+  "ficha": {
+    "marca": "Xiomara",
+    "linea": "Wax & Shine",
+    "variante": "Telaraña (fijación ligera)",
+    "presentacion": "Tarro",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello normal",
+    "genero": "Hombre",
+    "otros": "Tipo de producto: cera modeladora en gel; Fijación: ligera; Acabado: mate natural"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501846504569_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw9d294c43/images/7501846504569/7501846504569_1.jpg",
+      "pagina": "https://www.dax.com.mx/producto/xiomara-cera-wax-n-shine-telarana-fijacion-ligera-60g-7501846504569.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1175,
+      "fecha": "2026-09-29",
+      "lado_util": 1088
+    },
+    {
+      "archivo": "7501846504569_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw1832c9e4/images/7501846504569/7501846504569_2.jpg",
+      "pagina": "https://www.dax.com.mx/producto/xiomara-cera-wax-n-shine-telarana-fijacion-ligera-60g-7501846504569.html",
+      "ancho_original": 1201,
+      "alto_original": 1201,
+      "lado_final": 1243,
+      "fecha": "2026-09-29",
+      "lado_util": 1151
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/xiomara-cera-wax-n-shine-telarana-fijacion-ligera-60g-7501846504569.html",
+    "https://super.walmart.com.mx/ip/cera-modeladora-xiomara-wax-shine-efecto-telarana-60-g/00750184650456"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sin ingredientes ni advertencias publicados en las fuentes. El identificador de Walmart (750184650456) coincide con el GTIN.",
+    "notas_imagenes": "2 fotos de tienda (Dax, 1200 px): tarro de frente y tapa con contenido neto 60 g.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

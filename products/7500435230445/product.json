@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "NYQUIL Z 25MG 10CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "NyQuil Z Difenhidramina 25 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nNyQuil Z es un auxiliar en el insomnio ocasional en cápsulas blandas cuyo principio activo es la difenhidramina (25 mg por cápsula), de Procter & Gamble. Ayuda a conciliar el sueño. La difenhidramina es un antihistamínico que produce somnolencia. La caja contiene 10 cápsulas.\n\nCaracterísticas:\n- Principio activo: difenhidramina\n- Concentración: 25 mg por cápsula\n- Auxiliar en el insomnio ocasional\n- Vía de administración: oral\n\nFórmula:\nCada cápsula contiene difenhidramina 25 mg.\n\nModo de uso:\nVía oral. Siga las indicaciones de dosis del empaque.\n\nPresentación:\nCaja con 10 cápsulas.\n\nAdvertencias:\nPuede causar somnolencia. Este producto está indicado únicamente para el insomnio ocasional; si el problema de sueño persiste, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "NyQuil Z",
+    "fabricante": "Procter & Gamble",
+    "presentacion": "Caja con 10 cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Difenhidramina",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsula blanda; Indicación: auxiliar en el insomnio ocasional"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435230445_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435230445_1.jpg",
+      "pagina": "https://www.fahorro.com/nyquil-z-10-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1284,
+      "fecha": "2026-09-29",
+      "lado_util": 1189
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nyquil-z-10-caps.html",
+    "https://www.farmatodo.com.mx/nyquil-z-25-mg-caja-c-10-capsulas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes abiertas no publican dosis, contraindicaciones ni registro sanitario; la sección de advertencias se limitó a lo verificable. Completar con el instructivo del empaque si se requiere.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja frontal de 10 cápsulas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

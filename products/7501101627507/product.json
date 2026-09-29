@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "DOLO TIAMINAL CAPS C 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dolo-Tiaminal Metamizol Vitaminas B1 B6 B12 24 Cápsulas",
+  "descripcion": "Descripción:\nDolo-Tiaminal, de Laboratorios Silanes, es un medicamento en cápsulas que combina metamizol sódico, un analgésico, con las vitaminas B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina). Se utiliza para el alivio del dolor, como el dolor de cabeza y el dolor muscular y de espalda.\n\nCaracterísticas:\n- Combina un analgésico con vitaminas del complejo B en una misma cápsula.\n- Presentación en caja con 24 cápsulas.\n\nFórmula:\nCada cápsula contiene metamizol sódico 250 mg, mononitrato de tiamina (vitamina B1) 100 mg, clorhidrato de piridoxina (vitamina B6) 50 mg y cianocobalamina (vitamina B12) 500 µg.\n\nModo de uso:\nVía oral. Respete la dosis indicada en el instructivo del empaque o la que le señale su médico.\n\nPresentación:\nCaja con 24 cápsulas.\n\nAdvertencias:\nConsulte a su médico antes de utilizar este medicamento, en especial si está embarazada o en lactancia, o si padece alguna enfermedad. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Tiaminal",
+    "fabricante": "Laboratorios Silanes",
+    "presentacion": "Caja con 24 cápsulas",
+    "contenido_neto": 24,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Metamizol sódico, tiamina (B1), piridoxina (B6) y cianocobalamina (B12)",
+    "concentracion": "250 mg / 100 mg / 50 mg / 500 µg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsula"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501101627507_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501101627507.jpg",
+      "pagina": "https://www.fahorro.com/dolo-tiaminal-oral-24-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1521,
+      "fecha": "2026-09-29",
+      "lado_util": 1409
+    },
+    {
+      "archivo": "7501101627507_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501101627507_0ffba2f3-5d26-4697-9e2b-c015187a22d0.jpg?v=1744671133",
+      "pagina": "https://www.fahorro.com/dolo-tiaminal-oral-24-capsulas.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 502,
+      "fecha": "2026-09-29",
+      "lado_util": 465
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/dolo-tiaminal-24-caps-/MXYZ_7501101627507.html",
+    "https://farmalisto.com.mx/analgesicos/4124-dolo-tiaminal-caja-con-24-capsulas-7501101627507.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lo clasifica como medicamento con receta y otras lo venden sin marcar receta; confirmar el estatus en el empaque. Una tienda mostraba una composición distinta (paracetamol/clorfenamina) que no coincide con la caja; se descartó.",
+    "notas_imagenes": "2 fotos de frente del empaque (fahorro 1600 px y wecarepharma 500 px); la segunda muestra la fórmula.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

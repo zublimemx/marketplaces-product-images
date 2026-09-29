@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "MOUSSE CAPRICE RIZOS DEFINI 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Espuma Modeladora Caprice Rizos Definidos 200 g",
+  "descripcion": "Descripción:\nEspuma modeladora Palmolive Caprice Especialidades Rizos Definidos, con colágeno y aloe vera, en presentación de 200 g. Elimina el frizz y el esponjado del cabello y ayuda a definir los rizos con un acabado elástico. Su fórmula con extracto de aloe de origen natural ayuda a proteger el cabello de las agresiones diarias del uso de secadora o tenazas.\n\nBeneficios:\n- Define los rizos y elimina el frizz y el esponjado\n- Con colágeno y aloe vera\n- Ayuda a proteger el cabello de las agresiones de secadoras y tenazas\n- Efecto de rizos elásticos de hasta 24 horas de duración, según el empaque\n\nIngredientes:\nAgua, Butane, Propane, Isobutane, Polyquaternium-4, Benzyl Alcohol, Parfum, Polysorbate 20, Laureth-4, PEG-40 Hydrogenated Castor Oil, Citric Acid, PEG-12 Dimethicone, Benzoic Acid, Cocamidopropyl Betaine, Sorbic Acid, Aloe Barbadensis Leaf Juice, Hydrolyzed Collagen.\n\nModo de uso:\n1. Agite antes de cada uso y voltee el envase para obtener el producto.\n2. Con la cabeza de lado, aplique el producto sobre el cabello. Presione y levante los rizos modelando el peinado.\n\nPresentación:\nEnvase aerosol con 200 g de espuma.\n\nAdvertencias:\nNo se aplique cerca de los ojos ni de flama. Inflamable. No se deje al alcance de los niños. No se queme ni se perfore el envase. No se exponga al calor.",
+  "ficha": {
+    "marca": "Palmolive Caprice",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Especialidades",
+    "variante": "Rizos Definidos con colágeno y aloe vera",
+    "presentacion": "Espuma en aerosol",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello rizado",
+    "otros": "Tipo de producto: espuma modeladora para rizos; Ingredientes destacados: colágeno y aloe vera"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546655000_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/305549/305549_01.webp",
+      "pagina": "https://www.heb.com.mx/caprice-mousse-rizos-definidos-250-gr-363823/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 725,
+      "fecha": "2026-09-29",
+      "lado_util": 672
+    },
+    {
+      "archivo": "7509546655000_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/305549/305549_04.webp",
+      "pagina": "https://www.heb.com.mx/caprice-mousse-rizos-definidos-250-gr-363823/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 729,
+      "fecha": "2026-09-29",
+      "lado_util": 675
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/caprice-mousse-rizos-definidos-250-gr-363823/p",
+    "https://super.walmart.com.mx/ip/mousse-palmolive-caprice-especialidades-rizos-definidos-colageno-aloe-vera-200-g/00750954665500"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunos listados (HEB, Del Sol) dicen 250 g en la URL, pero el empaque de la foto y Walmart/Amazon indican 200 g. El identificador de Walmart (750954665500) coincide con el GTIN. Ingredientes y modo de uso leídos de la etiqueta posterior en la imagen de HEB; el paso 3 del modo de uso no se leyó completo y se omitió. El tipo de cabello se infiere del nombre 'Rizos Definidos'.",
+    "notas_imagenes": "2 fotos de tienda (HEB, 720 px): frente del envase y vista lateral. Se descartaron la etiqueta posterior con teléfono y una imagen promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

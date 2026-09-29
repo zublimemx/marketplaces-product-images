@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "VICK 44 AD INF 240 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jarabe Vick 44 Todo Tipo de Tos Cereza 240 ml",
+  "descripcion": "Descripción:\nVick 44 Jarabe para tos seca y con flemas, sabor cereza, en frasco de 240 ml. Combina dextrometorfano, un antitusígeno que actúa sobre el centro de la tos en el cerebro, con guaifenesina, un expectorante que ayuda a aflojar las secreciones de las vías respiratorias para facilitar su eliminación. Está indicado para el alivio de la tos en adultos y niños.\n\nBeneficios:\n- Alivia la tos seca y la tos con flemas, según el empaque.\n- Doble acción: controla la tos y ayuda a expulsar las flemas.\n- Fórmula con tecnología mucoadhesiva que ayuda a recubrir la garganta irritada.\n- Sabor cereza y presentación de 240 ml.\n\nComposición:\nCada 10 ml contienen dextrometorfano bromhidrato 10 mg y guaifenesina 100 mg.\n\nModo de uso:\nVía oral. Mida la dosis con un dosificador y siga la dosis indicada en el empaque según la edad, o la que le indique su médico.\n\nPresentación:\nFrasco con 240 ml de jarabe sabor cereza.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- No lo use junto con medicamentos inhibidores de la monoaminooxidasa (IMAO).\n- No se administre a menores de 2 años sin supervisión médica.\n- Consulte a su médico si tiene enfermedad pulmonar crónica o si la tos persiste.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "Vick 44",
+    "variante": "Todo tipo de tos, sabor cereza",
+    "presentacion": "Jarabe en frasco",
+    "contenido_neto": 240,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dextrometorfano y guaifenesina",
+    "concentracion": "10 mg y 100 mg por cada 10 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños",
+    "sabor_aroma": "Cereza",
+    "otros": "Grupo terapéutico: antitusivo y expectorante; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001168933_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001168933_1_2.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/2596",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1439,
+      "fecha": "2026-09-29",
+      "lado_util": 1333
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/2596",
+    "https://www.fahorro.com/vick-44-jarabe-todo-tipo-de-tos-240-ml.html",
+    "https://farmalisto.com.mx/gripe-y-tos/392-comprar-vick-44-jarabe-frasco-con-240-ml-tos-precio-7501001168933.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Vick 44 jarabe 240 ml, adulto/infantil; el nombre del sistema dice \"AD INF\"). Concentración por 10 ml tomada de una ficha de farmacia. No se encontró la tabla de dosis por edad, por eso se remite al empaque. Categoría igual a la usada para Vick 44 de 120 ml.",
+    "notas_imagenes": "1 foto de frente del frasco de 240 ml (tienda: Farmacias del Ahorro 1439 px). Se descartó una imagen duplicada de solo 500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

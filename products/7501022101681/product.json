@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "REUMOPHAN VIT 50/250MG C20 TABS AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Reumophan Vit Ketoprofeno Clorzoxazona B1 B6 20 Tabletas",
+  "descripcion": "Descripción:\nReumophan Vit es un medicamento en tabletas de Italmex (Megalabs) que combina ketoprofeno, un antiinflamatorio no esteroideo, clorzoxazona, un relajante muscular, y las vitaminas B1 (tiamina) y B6 (piridoxina). Se clasifica como antirreumático y relajante muscular, y se usa en el tratamiento del dolor y la inflamación de origen musculoesquelético. Se presenta en caja con 20 tabletas.\n\nCaracterísticas:\n- Acción antiinflamatoria, analgésica y relajante muscular.\n- Incluye vitaminas B1 y B6.\n- Concentraciones: clorzoxazona 250 mg y ketoprofeno, tiamina y piridoxina 50 mg cada una.\n- Presentación de 20 tabletas.\n\nComposición:\nCada tableta contiene clorzoxazona 250 mg, ketoprofeno 50 mg, clorhidrato de tiamina (vitamina B1) 50 mg y clorhidrato de piridoxina (vitamina B6) 50 mg.\n\nModo de uso:\nVía oral. Las tabletas se toman enteras con líquido. La dosis y la duración del tratamiento las determina el médico; no exceda la dosis indicada.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes, ni si tiene antecedentes de úlcera o sangrado gastrointestinal, insuficiencia renal grave o si toma anticoagulantes. Use con precaución en personas con enfermedades del hígado, del riñón o del estómago. No lo combine con otros antiinflamatorios. Puede causar somnolencia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Reumophan",
+    "fabricante": "Italmex (Megalabs)",
+    "linea": "Reumophan Vit",
+    "presentacion": "Caja con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Clorzoxazona / Ketoprofeno / Tiamina / Piridoxina",
+    "concentracion": "250 mg / 50 mg / 50 mg / 50 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta; Grupo terapéutico: antirreumático y relajante muscular con vitaminas B1 y B6"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39474552"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022101681_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501022101681.png",
+      "pagina": "https://grupofarmapronto.com/producto/reumophan-vit-50mg-250mg-tabletas-c-20/",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 738,
+      "fecha": "2026-09-29",
+      "lado_util": 683
+    },
+    {
+      "archivo": "7501022101681_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501022101681.2.png",
+      "pagina": "https://grupofarmapronto.com/producto/reumophan-vit-50mg-250mg-tabletas-c-20/",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 732,
+      "fecha": "2026-09-29",
+      "lado_util": 678
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/reumophan-vit-50mg250mg-20-tabs/MXYZ_7501022101681.html",
+    "https://grupofarmapronto.com/producto/reumophan-vit-50mg-250mg-tabletas-c-20/",
+    "https://wecarepharma.mx/en/products/reumophan-vit-250mg-50mg-50mg-50mg-con-20-tabletas-clorz-ketop-tiamina-pirido"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación (20 tabletas) confirmados. Las fuentes discrepan: la mayoría indica ketoprofeno + clorzoxazona + tiamina + piridoxina (coincide con el título del catálogo 250/50/50/50), pero una ficha menciona ketorolaco y otra diclofenaco con B12; se usó la mayoría. Fabricante Italmex/Megalabs según el empaque (una farmacia menciona Grisi). Las fuentes tampoco coinciden en si requiere receta. El catálogo de Mercado Libre MLM39474552 coincide con el título 'Reumophan-vit 250 mg/50 mg/50 mg/50 mg 20 tabletas' (no se pudo abrir la página).",
+    "notas_imagenes": "2 fotos del empaque (tienda, 738 y 732 px): frente y vista angular.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

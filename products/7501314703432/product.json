@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "EXEL 15MG CAPS C 10 MELOXICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Exel Meloxicam 15 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nExel 15 mg son cápsulas con meloxicam, un antiinflamatorio no esteroideo indicado en el tratamiento de artritis reumatoide, artritis gotosa, osteoartritis y afecciones musculares y traumáticas. Es elaborado por Laboratorios Senosiain y el empaque lleva el sello Cetus.\n\nCaracterísticas:\n- Meloxicam 15 mg por cápsula.\n- Antiinflamatorio para padecimientos reumáticos y musculares.\n- Administración por vía oral.\n\nFórmula:\nCada cápsula contiene meloxicam 15 mg.\n\nModo de uso:\nVía oral. La dosis recomendada para meloxicam es de 7.5 mg a 15 mg al día, sin exceder 15 mg diarios; en pacientes con insuficiencia renal terminal el máximo es de 7.5 mg al día. Utilícelo solo según la indicación de su médico.\n\nPresentación:\nCaja con 10 cápsulas de 15 mg.\n\nAdvertencias:\nNo lo use si es hipersensible a los componentes de la fórmula, si ha tenido reacciones a otros antiinflamatorios no esteroideos (asma, angioedema, urticaria), durante el embarazo o la lactancia, con úlcera péptica activa o con insuficiencia hepática o renal grave. Use con precaución si toma anticoagulantes, en personas de edad avanzada o con riesgo de hipovolemia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Exel",
+    "fabricante": "Laboratorios Senosiain, S.A. de C.V.",
+    "linea": "Cetus",
+    "presentacion": "Caja con 10 cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Meloxicam",
+    "concentracion": "15 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsula; Antiinflamatorio no esteroideo"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314703432_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314703432_3.jpg",
+      "pagina": "https://www.fahorro.com/exel-15-mg-oral-10-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1502,
+      "fecha": "2026-09-29",
+      "lado_util": 1391
+    },
+    {
+      "archivo": "7501314703432_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20240612_567914.jpg",
+      "pagina": "https://www.fahorro.com/exel-15-mg-oral-10-capsulas.html",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 417
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/exel.capsulas/168/63/7606/14",
+    "https://www.klyns.mx/exel-15-mg-c-10-caps/p",
+    "https://www.benavides.com.mx/exel-15-mg-meloxicam-10-capsulas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de PLM cubre las cápsulas de 7.5 y 15 mg; la dosis se tomó de ahí. La caja dice Cetus (Senosiain).",
+    "notas_imagenes": "2 fotos de tienda de frente del empaque (fahorro 1600 px y Benavides 520 px). Se descartó una tercera foto duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

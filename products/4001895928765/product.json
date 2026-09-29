@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "TEGADERM 10X12CM C50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Apósito Transparente 3M Tegaderm Film 10 x 12 cm 50 Piezas",
+  "descripcion": "Descripción:\nApósito transparente 3M Tegaderm Film de 10 x 12 cm, estilo con marco de aplicación, para el cuidado de la piel y la fijación segura de catéteres y vías intravenosas. Protege el sitio de inserción del catéter de la contaminación exterior al evitar el paso de líquidos y bacterias.\n\nCaracterísticas:\n- Película transparente semipermeable: permite el intercambio de gas y vapor de agua, esencial para las funciones normales de la piel bajo el apósito\n- Adhesivo hipoalergénico a base de acrilato, libre de látex y sensible a la presión\n- Resistente al agua, de fácil remoción y sin residuos\n- Marco de aplicación que facilita colocar el apósito y personalizar formas y tamaños\n- Medida: 10 x 12 cm, referencia 1626W, marca 3M (Solventum)\n\nPresentación:\nCaja con 50 apósitos.\n\nAdvertencias:\nProducto de uso médico. Lea las instrucciones del empaque antes de usar.",
+  "ficha": {
+    "marca": "3M",
+    "fabricante": "Solventum (3M)",
+    "linea": "Tegaderm Film",
+    "presentacion": "Caja con 50 apósitos",
+    "contenido_neto": 50,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 50,
+    "otros": "Medida: 10 x 12 cm; referencia 1626W; apósito transparente con marco de aplicación; hipoalergénico; libre de látex; resistente al agua"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "4001895928765_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dhmaterialmedico.com/material-medico/fotos/tegaderm-film-transparente-esteril-10-x-12-cm-caja-de-50-unidades.jpg",
+      "pagina": "https://www.dhmaterialmedico.com/tegaderm-film-transparente-10-x-12-cm-caja-de-50",
+      "ancho_original": 853,
+      "alto_original": 640,
+      "lado_final": 739,
+      "fecha": "2026-09-29",
+      "lado_util": 685
+    },
+    {
+      "archivo": "4001895928765_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dhmaterialmedico.com/material-medico/fotos/tegaderm-film-transparente-esteril-10-x-12-cm-caja-de-50-unidades-1.jpg",
+      "pagina": "https://www.dhmaterialmedico.com/tegaderm-film-transparente-10-x-12-cm-caja-de-50",
+      "ancho_original": 853,
+      "alto_original": 640,
+      "lado_final": 792,
+      "fecha": "2026-09-29",
+      "lado_util": 734
+    }
+  ],
+  "url_oficial": "https://www.solventum.com/es-es/home/f/b00035590/",
+  "fuentes": [
+    "https://www.solventum.com/es-es/home/f/b00035590/",
+    "https://medimarket.mx/products/solventum-3m-aposito-transparente-tegaderm-film-de-10-cm-x-12-cm",
+    "https://www.dhmaterialmedico.com/tegaderm-film-transparente-10-x-12-cm-caja-de-50"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 4001895928765 no aparece en las páginas consultadas; se identificó por nombre y por la referencia 1626W (10 x 12 cm, caja de 50). La página oficial es de Solventum España (Tegaderm en general).",
+    "notas_imagenes": "2 fotos (tienda española de material médico, de 739 px y 792 px): caja de frente y apósito. Se descartaron la foto del sobre individual de baja resolución y una foto de uso en un brazo.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

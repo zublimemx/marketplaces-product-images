@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "SOL CS 250 ML PLAST PISA 24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solución CS PiSA Cloruro de Sodio 0.9% 250 ml",
+  "descripcion": "Descripción:\nSolución CS de PiSA es una solución estéril de cloruro de sodio al 0.9% (solución salina isotónica) para administración intravenosa, en envase de plástico de 250 ml. Es una solución cristaloide que se emplea para reponer líquidos y sodio, y como vehículo para preparar y administrar medicamentos por venoclisis, bajo supervisión médica.\n\nIndicaciones:\n- Deshidratación y depleción del volumen de líquidos.\n- Gastroenteritis y pérdida de electrolitos.\n- Alcalosis hipoclorémica.\n- Vehículo para diluir y aplicar medicamentos por vía intravenosa.\n\nComposición:\nCloruro de sodio 0.9 g por cada 100 ml de solución (9 g por litro).\n\nModo de uso:\nVía intravenosa. La dosis, el volumen y la velocidad de administración los determina el médico según el estado clínico del paciente, y debe aplicarla personal de salud capacitado.\n\nPresentación:\nEnvase de plástico con 250 ml de solución inyectable.\n\nAdvertencias:\n- Medicamento que se dispensa con fórmula médica.\n- Antes de usarla, revise que el envase esté íntegro y que la solución sea transparente y sin partículas.\n- Conservar en ambiente controlado entre 15 y 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "PiSA",
+    "fabricante": "PiSA",
+    "linea": "Solución CS",
+    "variante": "Cloruro de sodio 0.9%",
+    "presentacion": "Envase de plástico con solución inyectable",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cloruro de sodio",
+    "concentracion": "0.9 %",
+    "via_administracion": "Intravenosa",
+    "registro_sanitario": "82175SSAIV",
+    "otros": "Grupo terapéutico: solución fisiológica; Venta con receta médica (fracción IV); Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457891",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Soluciones Fisiológicas",
+      "categoria_rx_sugerida": "MLM455483",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125100116_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/341481/341481_01.webp?v=f9bb2cfc",
+      "pagina": "https://www.heb.com.mx/pisa-solucion-cloruro-de-sodio-de-250-ml-125627/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 846,
+      "fecha": "2026-09-29",
+      "lado_util": 784
+    },
+    {
+      "archivo": "7501125100116_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/341481/341481_02.webp?v=26afd75e",
+      "pagina": "https://www.heb.com.mx/pisa-solucion-cloruro-de-sodio-de-250-ml-125627/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 854,
+      "fecha": "2026-09-29",
+      "lado_util": 791
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/soluciones-fisiologicas/4426-solucion-de-cloruro-de-sodio-pisa-frasco-de-250-ml-7501125100116.html",
+    "https://www.farmaciasguadalajara.com/sueros/soluciones-intravenosas/solucion-cloruro-de-sodio-0.9---250-ml.-111848.html",
+    "https://www.heb.com.mx/pisa-solucion-cloruro-de-sodio-de-250-ml-125627/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (Solución cloruro de sodio PiSA 250 ml). En la nomenclatura de PiSA, CS es cloruro de sodio 0.9%. Categoría Soluciones Fisiológicas (MLM457891, de cats_leaf_all) como en las presentaciones de 500 y 1000 ml, porque no hay categoría de venta libre adecuada; la categoría Rx es la genérica. El registro termina en IV (receta); es solución intravenosa de uso hospitalario, revisar si el marketplace permite venderla.",
+    "notas_imagenes": "2 fotos del envase de 250 ml (tienda: H-E-B 846 y 854 px, ambas por debajo de 1000 px de origen).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

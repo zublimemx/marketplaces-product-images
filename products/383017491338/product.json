@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "BD JGA ULTRA-FINE 0.3ML/30UI 31G/6MM C10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringas Insulina Ultra-Fine Embecta 0.3 ml 31G 6 mm 10 Pzas",
+  "descripcion": "Descripción:\nJeringas para insulina Ultra-Fine de 0.3 ml (30 UI) con aguja de 31G x 6 mm, en caja con 10 piezas. Están diseñadas para aplicar insulina U-100 por vía subcutánea de forma precisa y más cómoda. El empaque actual lleva la marca Embecta, el negocio de diabetes que antes pertenecía a BD, y conserva el nombre Ultra-Fine.\n\nCaracterísticas:\n- Capacidad de 0.3 ml o 30 UI, ideal para dosis pequeñas de insulina.\n- Aguja ultrafina calibre 31G (0.25 mm) que ayuda a reducir molestias durante la inyección.\n- Longitud de aguja de 6 mm para una aplicación subcutánea adecuada.\n- Escala graduada con marcas de media unidad, fácil de leer.\n- Para insulina U-100.\n- Estériles y de un solo uso.\n\nModo de uso:\nUso subcutáneo. Cargue la dosis de insulina indicada por su médico y aplique la inyección siguiendo las instrucciones del empaque y de su equipo de salud. Deseche la jeringa después de usarla.\n\nPresentación:\nCaja con 10 jeringas estériles de un solo uso de 0.3 ml, 31G x 6 mm.\n\nAdvertencias:\nProducto estéril de un solo uso; no lo reutilice. No lo use si el empaque está dañado. Deseche las jeringas en un contenedor adecuado para objetos punzocortantes. Lea las instrucciones del empaque y consulte a su médico sobre su tratamiento.",
+  "ficha": {
+    "marca": "Ultra-Fine",
+    "fabricante": "Embecta (antes BD)",
+    "linea": "Ultra-Fine",
+    "variante": "0.3 ml (30 UI) 31G x 6 mm",
+    "presentacion": "Caja con 10 jeringas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "otros": "Capacidad: 0.3 ml / 30 UI; Calibre: 31G (0.25 mm); Longitud de aguja: 6 mm; Para insulina U-100; Escala de media unidad; Estériles y de un solo uso"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "383017491338_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/182936-1000-1000/383017491338.jpg",
+      "pagina": "https://www.klyns.mx/jeringa-ultrafine-3-ml-31x6-mm-c-10-insu/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 675,
+      "fecha": "2026-09-29",
+      "lado_util": 625
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/jeringa-ultrafine-3-ml-31x6-mm-c-10-insu/p",
+    "https://benavides.com.mx/jeringas-para-insulina-bd-ultra-fine-0-3ml-31g-x-6mm-caja-c-10-piezas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 383017491338 (12 dígitos) confirmado en Klyns (EAN 383017491338, Ultra-Fine Embecta 0.3 ml 31G x 6 mm, 10 piezas). El nombre del sistema dice BD, pero el empaque actual es Embecta. El modo de uso y las advertencias son generales de jeringas de insulina, no leídos del empaque.",
+    "notas_imagenes": "1 foto de tienda (Klyns, 1000 px): frente de la caja Ultra-Fine Embecta 0.3 ml, 6 mm, 31G, con 10 jeringas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

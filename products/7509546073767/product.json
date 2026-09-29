@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO BLACK SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante en Aerosol Stefano Black Hombre 159 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Stefano Black para hombre. Ofrece una fragancia masculina duradera y ayuda a eliminar el mal olor causado por la sudoración. Se presenta en lata de aerosol de 159 ml (113 g), práctica para el uso diario, el trabajo, el gimnasio o de viaje.\n\nBeneficios:\n- Fragancia masculina de larga duración.\n- Ayuda a controlar el olor corporal provocado por la sudoración.\n- Formato aerosol de aplicación rápida.\n- Presentación de 159 ml (113 g).\n\nModo de uso:\nAgite el envase antes de usar. Aplique sobre la piel limpia y seca de las axilas, con el envase a unos 15 cm de distancia, durante 1 a 2 segundos.\n\nPresentación:\nAerosol de 159 ml (113 g).\n\nAdvertencias:\n- Contenido presurizado. Extremadamente inflamable: manténgalo lejos del fuego, de fuentes de calor y de la luz solar directa.\n- No lo perfore ni lo incinere, aunque esté vacío.\n- Evite inhalar el producto y el contacto con los ojos.\n- No lo aplique sobre piel irritada o lastimada y suspenda su uso si aparece irritación.\n- Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Original",
+    "variante": "Black",
+    "presentacion": "Aerosol de 159 ml (113 g)",
+    "contenido_neto": 159,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Peso neto: 113 g; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546073767_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546073767-1.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-black-113gr-aerosol-ocean",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1945,
+      "fecha": "2026-09-29",
+      "lado_util": 1801
+    },
+    {
+      "archivo": "7509546073767_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546073767-1.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-black-113gr-aerosol-ocean",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1005,
+      "fecha": "2026-09-29",
+      "lado_util": 931
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-stefano-black-aerosol-113-g.html",
+    "https://www.yza.mx/stefano-black-desodorante-aerosol-caballero-113g-1-pza/MXYZ_7509546073767.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda (Stefano Black aerosol 113 g, 159 ml, caballero). Las fichas no describen la familia olfativa de Black, por eso no se incluyó. El fabricante Colgate-Palmolive se toma del registro de otros Stefano de la misma serie de GTIN; las instrucciones de uso y advertencias son las habituales de los aerosoles.",
+    "notas_imagenes": "2 fotos de frente del aerosol (tienda: Del Sol 1945 y 1005 px). Se descartó una imagen con panel de texto \"Desodorante 159 ml\".",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

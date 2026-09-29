@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL MAST C12TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pepto-Bismol Tabletas Masticables 12 Piezas",
+  "descripcion": "Descripción:\nPepto-Bismol tabletas masticables, cuyo principio activo es el subsalicilato de bismuto (262.4 mg por tableta), de Procter & Gamble. Ayuda a aliviar los síntomas de acidez, indigestión, diarrea, malestar estomacal y náusea. La caja contiene 12 tabletas masticables de sabor original.\n\nBeneficios:\n- Alivia acidez, indigestión, malestar estomacal, náusea y diarrea\n- Alivia la diarrea sin causar estreñimiento\n- Tabletas masticables de sabor original\n\nComposición:\nCada tableta masticable contiene subsalicilato de bismuto 262.4 mg.\n\nModo de uso:\nVía oral. Mastique la tableta y siga la dosis indicada en el empaque.\n\nPresentación:\nCaja con 12 tabletas masticables.\n\nAdvertencias:\nNo usar en caso de hipersensibilidad al subsalicilato de bismuto o a los salicilatos, úlcera gástrica o sangrado gastrointestinal, ni en menores de 12 años sin supervisión médica. Precaución si tiene antecedentes de enfermedad renal; consulte a su médico si está embarazada o en lactancia. Si los síntomas persisten por más de 48 horas, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "presentacion": "Caja con 12 tabletas masticables",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "262.4 mg",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Original",
+    "otros": "Forma farmacéutica: tableta masticable"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435131834_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435131834_2.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol-oral-12-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1500,
+      "fecha": "2026-09-29",
+      "lado_util": 1388
+    },
+    {
+      "archivo": "7500435131834_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435131834.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol-oral-12-tabletas.html",
+      "ancho_original": 2500,
+      "alto_original": 2500,
+      "lado_final": 1996,
+      "fecha": "2026-09-29",
+      "lado_util": 1849
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/pepto-bismol-oral-12-tabletas.html",
+    "https://wecarepharma.mx/en/products/pepto-bismol-subsalicilato-de-bismuto-mast-262-4mg-con-12-tabletas",
+    "https://farmaciasmedina.com/detalleProducto/Pepto_Bismol_Tabletas_Masticables/7500435131834"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las contraindicaciones provienen de una ficha de farmacia (WeCare), no del prospecto oficial; validar con el empaque. Las tiendas dicen 'sabor original' y una foto del empaque muestra 'sabor anís'. Dosis no confirmada en fuente. Un listado de Mercado Libre es de tipo 'up', no catálogo /p/MLM.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1300 a 2000 px): caja frontal de 12 tabletas y otra versión del empaque. Se descartó una infografía promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

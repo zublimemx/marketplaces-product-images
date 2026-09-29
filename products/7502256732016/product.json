@@ -4,14 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "OXIMETRO DE PULSO INHALACARE HOMECARE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Oxímetro de Pulso para Dedo InhalaCare Homecare",
+  "descripcion": "Descripción:\nOxímetro de pulso digital para dedo de la marca InhalaCare de Homecare. Permite medir de manera rápida y no invasiva la saturación de oxígeno en la sangre (SpO2) y la frecuencia del pulso, colocando el dedo en el dispositivo y leyendo el resultado en la pantalla. Es un equipo compacto y portátil para el monitoreo en casa.\n\nCaracterísticas:\n- Oxímetro de pulso para dedo\n- Mide saturación de oxígeno en sangre (SpO2) y frecuencia de pulso\n- Pantalla digital de lectura rápida\n- Compacto y portátil, funciona con baterías\n\nPresentación:\nUna pieza.\n\nAdvertencias:\nEs un dispositivo de medición de referencia. Consulte a su médico para la interpretación de las lecturas y ante cualquier valor que le preocupe.",
+  "ficha": {
+    "marca": "InhalaCare",
+    "fabricante": "Homecare",
+    "presentacion": "Pieza",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Tipo de producto: oxímetro de pulso para dedo; Mide: SpO2 y frecuencia de pulso; Modelo exacto no confirmado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM408023",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Oxímetros",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +29,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://nubedica.com.mx/producto/oximetro-inh01-home-care/",
+    "https://timinsumosmedicos.com/producto/oximetro-de-pulso-inhalacare/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "El GTIN 7502256732016 no aparece en ninguna página consultada. Existen varios modelos InhalaCare/Homecare con GTIN distintos (INH01 = 7502256731934, FS10E, FS20E, otros), y no se pudo saber cuál corresponde. Descripción genérica de oxímetro de dedo; sin datos técnicos (rango, batería, dimensiones) para no afirmar de un modelo equivocado.",
+    "notas_imagenes": "Sin fotos: no se pudo confirmar el modelo exacto y las fotos disponibles corresponden a otros modelos con GTIN diferente (INH01, FS10E, FS20E).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

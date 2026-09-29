@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TIN JUST F-MEN CAST OBS 60ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tinte Just For Men Castaño Oscuro H-45 60 ml",
+  "descripcion": "Descripción:\nJust For Men Fórmula Original es un tinte en shampoo para cabello de hombre en tono Castaño Oscuro (H-45), de Combe de México, en presentación de 60 ml. Cubre las canas con un acabado natural y ayuda a restaurar el color original del cabello. Su fórmula sin amoníaco contiene keratina y aceite de oliva para proteger y fortalecer el cabello mientras lo tiñe, con una aplicación rápida y sencilla.\n\nBeneficios:\n- Cubre al 100% las canas con acabado natural\n- Color duradero, hasta 8 semanas sin decolorarse con los lavados\n- Sin amoníaco, con keratina y aceite de oliva\n- Aplicación fácil y rápida en formato shampoo\n\nModo de uso:\nVierta la base de color en la botella aplicadora, agite y aplique directamente sobre el cabello. Se recomienda usarlo después de cortar el cabello para obtener mejores resultados. Siga las instrucciones completas del empaque.\n\nPresentación:\nKit con tinte en shampoo de 60 ml en tono Castaño Oscuro.\n\nAdvertencias:\nRealice una prueba de alergia en la piel al menos 48 horas antes de usarlo. Uso externo; evite el contacto con los ojos. Ante cualquier duda, consulte a su médico o químico farmacéutico.",
+  "ficha": {
+    "marca": "Just For Men",
+    "fabricante": "Combe de México",
+    "linea": "Fórmula Original",
+    "variante": "Castaño Oscuro H-45",
+    "presentacion": "Tinte en shampoo",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello con canas",
+    "genero": "Hombre",
+    "otros": "Tono: Castaño oscuro (H-45); Sin amoníaco; Con keratina y aceite de oliva; Duración de color: hasta 8 semanas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430110",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tintes y Decolorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080111226_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111226_3_1.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-casta-o-osc-60-ml-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1518,
+      "fecha": "2026-09-29",
+      "lado_util": 1406
+    },
+    {
+      "archivo": "7501080111226_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080111226_2_1.jpg",
+      "pagina": "https://www.fahorro.com/tinte-just-for-men-casta-o-osc-60-ml-gel.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1435,
+      "fecha": "2026-09-29",
+      "lado_util": 1329
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/just-for-men-tinte-castano-oscuro-shampoo-60-ml",
+    "https://www.fahorro.com/tinte-just-for-men-casta-o-osc-60-ml-gel.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de la tienda no lista ingredientes. Se agregó 'evite el contacto con los ojos' como precaución general de un tinte de uso externo.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): caja frontal H-45 Castaño Oscuro y una versión anterior del empaque con el mismo tono. Se descartó el panel trasero plano.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

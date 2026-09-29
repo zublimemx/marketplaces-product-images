@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE MEN CONVICT SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Conviction Aerosol Hombre 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Axe Conviction para hombre, de Unilever, con fragancia aromática discreta y masculina. Es un desodorante de doble acción: destruye el mal olor y deja una fragancia duradera para sentirte fresco durante todo el día.\n\nBeneficios:\n- Destruye el mal olor y deja una fragancia de larga duración; el empaque indica hasta 48 horas de fragancia.\n- Fragancia con notas de lavanda y sándalo, con toques verdes.\n- Fórmula sin sales de aluminio.\n- Lata de aluminio reciclable.\n\nModo de uso:\nAgite antes de usar. Gire, presione y aplique el desodorante sobre el cuerpo a no menos de 15 cm de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nEvite el uso íntimo. Aplique a una distancia mínima de 15 cm de la piel. Producto en aerosol: manténgalo alejado del fuego y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Axe Men",
+    "variante": "Conviction",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Lavanda y sándalo",
+    "otros": "Duración de la fragancia: 48 h; Sin sales de aluminio; Lata de aluminio reciclable; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306226739_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506306226739_2_1.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-conviction-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1622,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-conviction-150-ml.html/07506306226739",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-conviction-150-ml.html/07506306226739",
+    "https://www.farmatodo.com.mx/axe-aer-conviction-desodorante-envase-c-150-ml/p",
+    "https://www.fahorro.com/desodorante-axe-conviction-hombre-150-ml-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Axe México (07506306226739) y en Farmatodo. En México el nombre comercial es Conviction (el sistema dice Convict).",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del aerosol Axe Conviction 48h. La página oficial de Axe no expuso imágenes descargables.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "FLANAX GEL 5 5 TUBO 40 GR 108",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Flanax Gel Naproxeno Sódico 5.5% Tubo 40 g",
+  "descripcion": "Descripción:\nFlanax Gel es un analgésico y antiinflamatorio de uso tópico de Bayer cuyo principio activo es el naproxeno sódico al 5.5%. Se aplica directamente sobre la piel para aliviar el dolor muscular y articular y reducir la inflamación. Se presenta en tubo de 40 g.\n\nIndicaciones:\n- Alivio del dolor muscular y de la inflamación causada por lesiones como esguinces, torceduras, golpes y desgarres.\n- Lesiones deportivas como bursitis, tendinitis, epicondilitis y sinovitis, y dolor de articulaciones por osteoartritis.\n- Dolor de cuello, espalda y región lumbar, y dolores musculares por ejercicio intenso.\n\nFórmula:\nNaproxeno sódico al 5.5% en gel.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona afectada y masajee suavemente hasta su absorción, o siga las indicaciones del empaque. Lávese las manos después de aplicarlo.\n\nPresentación:\nCaja con tubo de 40 g de gel.\n\nAdvertencias:\n- Uso externo. No lo aplique sobre heridas abiertas ni mucosas, ni cerca de los ojos.\n- No lo use si es alérgico al naproxeno u otros antiinflamatorios no esteroideos.\n- Suspenda su uso si aparece irritación.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flanax",
+    "fabricante": "Bayer de México",
+    "variante": "Gel 5.5%",
+    "presentacion": "Caja con tubo de 40 g",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "5.5%",
+    "via_administracion": "Tópica",
+    "otros": "Analgésico antiinflamatorio tópico; Especialistas en inflamación; Formato de venta: caja con 1 tubo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008426944_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008426944.jpg",
+      "pagina": "https://www.fahorro.com/flanax-gel-analgesico-antiinflamatorio-40g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1527,
+      "fecha": "2026-09-29",
+      "lado_util": 1414
+    },
+    {
+      "archivo": "7501008426944_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008426944_2.jpg",
+      "pagina": "https://www.fahorro.com/flanax-gel-analgesico-antiinflamatorio-40g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1242,
+      "fecha": "2026-09-29",
+      "lado_util": 1150
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/flanax-55-naproxeno-gel-40-g-tubo",
+    "https://www.farmaleal.com.mx/products/flanax-5-5-tb-40-g-gel-7501008426944",
+    "https://prixz.com/c/flanax-topico-40-gr-gel-tubo-naproxeno-5-5-gr/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (URL de farmacia con 7501008426944). El nombre del sistema '5 5 ... 108' corresponde a 5.5% y un código interno. El modo de uso no viene en las fichas; es una indicación general para geles tópicos. Registro sanitario no visto.",
+    "notas_imagenes": "2 fotos (tienda, 1527 y 1242 px): frente de la caja y vista en ángulo. Se descartó una tercera con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

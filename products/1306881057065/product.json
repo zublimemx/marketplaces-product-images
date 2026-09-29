@@ -36,9 +36,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda con el GTIN y el nombre no devolvió ninguna ficha de B-Pracet-KP (solo productos de la familia B-Tracet y monografías genéricas de ketoprofeno con vitaminas). El GTIN 1306881057065 parece un código interno, no comercial. Título y ficha salen solo del nombre del sistema; Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en venta libre por instrucción del dueño.",
-    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto.",
+    "notas": "La búsqueda única con GTIN y nombre no devolvió ninguna ficha de B-Pracet-KP (solo patentes, monografías genéricas y productos afines de otras marcas); el GTIN 1306881057065 parece código interno. Título y ficha salen solo del nombre del sistema; Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en categoría de venta libre por instrucción del dueño.",
+    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto; sondeos directos a URL por GTIN en tres tiendas dieron 404.",
     "fecha": "2026-09-29",
-    "sesion": 4
+    "sesion": 5
   }
 }

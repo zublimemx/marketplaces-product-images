@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO ALP MEN SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante en Aerosol Stefano Alpha Hombre 113 g",
+  "descripcion": "Descripción:\nDesodorante en aerosol Stefano Alpha para hombre, en presentación de 113 g (159 ml). Combina frescura y protección para evitar que el mal olor sea el protagonista en tus encuentros sociales, con una fragancia de notas de lavanda, hierbas y cítricos.\n\nBeneficios:\n- Frescura y protección contra el mal olor corporal.\n- Fragancia masculina con notas de lavanda, hierbas y cítricos.\n- Formato aerosol de fácil aplicación.\n- Envase de 113 g (159 ml).\n\nModo de uso:\nAgite el envase antes de usar. Rocíe sobre las axilas limpias y secas a una distancia aproximada de 15 cm.\n\nPresentación:\nAerosol de 113 g (159 ml).\n\nAdvertencias:\nSolo para uso externo. Contenido a presión: no se exponga al calor ni se perfore. Producto inflamable, no lo use cerca de flamas o fuego. Evite la inhalación y el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Stefano",
+    "linea": "Alpha",
+    "variante": "Alpha Men",
+    "presentacion": "Aerosol",
+    "contenido_neto": 113,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Lavanda, hierbas y cítricos",
+    "otros": "Formato aerosol; Equivale a 159 ml"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546078434_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546078434_1.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-stefano-alpha-hombre-113-g-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1618,
+      "fecha": "2026-09-29",
+      "lado_util": 1499
+    },
+    {
+      "archivo": "7509546078434_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7509546078434.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-stefano-alpha-hombre-113-g-aerosol.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1144,
+      "fecha": "2026-09-29",
+      "lado_util": 1060
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-stefano-alpha-hombre-113-g-aerosol.html",
+    "https://farmaciasanjorge.com/products/32954"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "ALP MEN del sistema equivale a Alpha Men. El modo de uso y las advertencias son generales para aerosoles; no se encontró texto de etiqueta.",
+    "notas_imagenes": "2 fotos de frente del envase (fahorro 1600 px que dice 159 mL y claroshop 1200 px que dice 113 g). Se descartó una foto duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

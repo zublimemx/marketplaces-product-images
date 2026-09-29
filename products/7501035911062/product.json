@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "C D FRESKA-RA 4D FORTIDENT 100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Freska-ra 4D Fortident 100 ml",
+  "descripcion": "Descripción:\nCrema dental Freska-ra 4D de la línea Fortident, de Colgate-Palmolive, en presentación de 100 ml. Es una pasta dental para la higiene bucal de todos los días, pensada para proteger y fortalecer la dentadura y mantenerla a salvo de las bacterias que se generan después de comer.\n\nCaracterísticas:\n- Marca: Freska-ra, línea Fortident\n- Variante: 4D\n- Contenido: 100 ml\n- Producto para uso adulto en la rutina diaria de cuidado bucal\n\nPresentación:\nTubo con 100 ml de crema dental.\n\nAdvertencias:\nLea la información del empaque. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Freska-ra",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Fortident",
+    "variante": "4D",
+    "presentacion": "Tubo",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Tipo de producto: crema dental"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911062_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://images-products.vitau.mx/image_1706623202000.jpg",
+      "pagina": "https://vitau.mx/freska-ra-4d-fortident-100ml-100-ml-paquete-de-1-20957",
+      "ancho_original": 134,
+      "alto_original": 500,
+      "lado_final": 529,
+      "fecha": "2026-09-29",
+      "lado_util": 490
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/pasta-dental-freska-ra-fortident-100ml-3020167/p",
+    "https://vitau.mx/freska-ra-4d-fortident-100ml-100-ml-paquete-de-1-20957",
+    "https://farmaciasanjorge.com/products/3954"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Información pública muy limitada: sin ingredientes ni modo de uso en las fuentes. GTIN confirmado como 'Crema dental Freska-Ra 100 ml' (EAN 7501035911062). Otra foto de tienda para este GTIN mostraba la versión 'Complete 5 en 1' de 132 g y se descartó.",
+    "notas_imagenes": "1 foto de tienda (vitau.mx) del tubo Freska-ra 4D; resolución baja (134x500 px originales, escalada a lienzo cuadrado). Se descartó una foto de la variante Complete 5 en 1 de 132 g.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

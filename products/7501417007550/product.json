@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "PASTA LASSAR 50G COYOACAN OXIDO DE ZIN QUIMICA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Lassar Óxido de Zinc Coyoacán 50 g",
+  "descripcion": "Descripción:\nPasta Lassar con óxido de zinc en presentación de 50 g, marca Coyoacán. La pasta de Lassar es una preparación dermatológica tradicional de uso externo a base de óxido de zinc, de textura espesa, que forma una capa protectora sobre la piel. Se emplea comúnmente en irritaciones leves de la piel, como rozaduras, y como barrera de protección contra la humedad.\n\nComposición:\nÓxido de zinc como ingrediente activo, en una base de pasta para uso tópico. La concentración exacta debe confirmarse en el empaque (las pastas de Lassar de referencia contienen 25 g de óxido de zinc por cada 100 g).\n\nModo de uso:\nUso cutáneo. Como referencia de esta clase de productos, se aplica una capa sobre la zona limpia y seca de la piel, hasta 3 veces al día, según indique el empaque o su médico.\n\nPresentación:\nContenedor con 50 g de pasta Lassar.\n\nAdvertencias:\nUso exclusivamente externo. No lo aplique en ojos ni mucosas. Suspenda su uso y consulte a su médico si aparece irritación o si las molestias persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Coyoacán",
+    "presentacion": "Pasta (ungüento) de uso tópico",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc",
+    "via_administracion": "Cutánea (tópica)",
+    "otros": "Forma farmacéutica: pasta; Concentración de óxido de zinc por confirmar en el empaque; Formato de venta: pieza"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +30,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/pasta.de.lassar.andromaco.pasta/74/101/9206/120"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se encontró ninguna ficha con el GTIN 7501417007550 ni de la pasta Lassar Coyoacán de 50 g; la descripción se basa en fichas de pasta de Lassar de otra marca (Andrómaco), por lo que composición, modo de uso y laboratorio deben verificarse contra el empaque. El nombre del sistema menciona 'Coyoacán' y 'Química', sin más detalle.",
+    "notas_imagenes": "Sin fotos: ninguna tienda consultada tiene foto de la pasta Lassar Coyoacán de 50 g; las de otras marcas o presentaciones no representan el producto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

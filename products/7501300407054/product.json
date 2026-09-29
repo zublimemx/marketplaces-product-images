@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "FEBRAX SUPOSITORIOS 252",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Febrax Naproxeno Paracetamol 100/200 mg 5 Supositorios",
+  "descripcion": "Descripción:\nFebrax supositorios, de Siegfried Rhein, es un analgésico, antipirético y antiinflamatorio de uso rectal para niños que combina naproxeno sódico y paracetamol. Está indicado en el tratamiento sintomático del dolor y de la fiebre, como complemento de la terapia con antibióticos en infecciones de las vías respiratorias, y en dolores como otalgias, cefalea, dolor posoperatorio, procesos dentales, traumáticos y osteomusculares moderados.\n\nBeneficios:\n- Doble acción analgésica y antipirética con antiinflamatorio\n- Presentación en supositorios de uso rectal\n- Caja con 5 supositorios\n\nComposición:\nCada supositorio contiene naproxeno sódico 100 mg y paracetamol 200 mg; excipiente cbp 1 supositorio.\n\nModo de uso:\nVía rectal. Niños de 2 a 3 años: 1 supositorio cada 12 horas. Niños mayores de 3 años: 1 supositorio cada 8 horas, o según indicación del médico. No se administre por más de 5 días.\n\nPresentación:\nCaja con 5 supositorios de 100 mg/200 mg.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad al naproxeno sódico o al paracetamol, ni en pacientes a quienes el ácido acetilsalicílico u otros antiinflamatorios hayan provocado asma, rinitis o urticaria. No debe emplearse con úlcera péptica activa, insuficiencia hepática o renal, ni en tratamiento con anticoagulantes orales. No se use durante el embarazo ni la lactancia. Protéjase de la luz y consérvese a no más de 25 °C en lugar seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Febrax",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Niños",
+    "presentacion": "Supositorios",
+    "contenido_neto": 5,
+    "unidad_contenido": "supositorios",
+    "unidades_por_envase": 5,
+    "principio_activo": "Naproxeno sódico; Paracetamol",
+    "concentracion": "100 mg/200 mg por supositorio",
+    "via_administracion": "Rectal",
+    "edad_etapa": "Niños desde 2 años",
+    "registro_sanitario": "177M2014 SSA",
+    "otros": "Caja con 5 supositorios; no administrar por más de 5 días"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300407054_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407054_5.jpg",
+      "pagina": "https://www.fahorro.com/febrax-10200-mg-rec-5-supositorios.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1287,
+      "fecha": "2026-09-29",
+      "lado_util": 1192
+    },
+    {
+      "archivo": "7501300407054_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300407054_2.jpg",
+      "pagina": "https://www.fahorro.com/febrax-10200-mg-rec-5-supositorios.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1394,
+      "fecha": "2026-09-29",
+      "lado_util": 1291
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/febrax.supositorios/170/101/43442/193",
+    "https://www.fahorro.com/febrax-10200-mg-rec-5-supositorios.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde a Febrax 100/200 mg caja con 5 supositorios; el número '252' del nombre del sistema no se pudo explicar (podría ser un código interno). La condición de venta sin receta se toma de una tienda y de la leyenda de la ficha PLM (SSA V); confirmar.",
+    "notas_imagenes": "2 fotos de la caja (tienda, más de 1,200 px): de frente y en ángulo. Se descartó la foto del panel posterior por ser solo texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

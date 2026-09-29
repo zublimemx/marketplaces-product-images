@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "LIBERTRIM ALFA C12 CPR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Libertrim Alfa 200/75/45 mg 12 Comprimidos",
+  "descripcion": "Descripción:\nLibertrim Alfa es una combinación de maleato de trimebutina, simeticona y alfa-galactosidasa en comprimidos, de Carnot Laboratorios. Está indicado para el tratamiento del síndrome de intestino irritable, un padecimiento que puede cursar con dolor abdominal tipo cólico, distensión, gases y cambios en el ritmo intestinal.\n\nComposición:\nCada comprimido contiene maleato de trimebutina 200 mg, simeticona 75 mg, alfa-galactosidasa 45 mg (equivalente a 450 Gal U) y excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. La dosis habitual es 1 comprimido cada 12 horas durante 4 semanas y hasta tres meses, a criterio del médico; según la severidad del cuadro, 1 comprimido cada 8 horas en periodos mayores de tres meses. Se recomienda tomarlo de 15 a 30 minutos antes de los alimentos.\n\nPresentación:\nCaja con 12 comprimidos de 200/75/45 mg.\n\nAdvertencias:\n- Contraindicado en hipersensibilidad a los componentes, oclusión intestinal, apendicitis, perforación intestinal y miastenia gravis.\n- No se recomienda su uso durante los tres primeros meses del embarazo ni durante la lactancia.\n- Tenga especial cuidado si padece diabetes mellitus.\n- Su venta requiere receta médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Libertrim",
+    "fabricante": "Carnot Laboratorios",
+    "linea": "Libertrim Alfa",
+    "presentacion": "Caja con 12 comprimidos",
+    "contenido_neto": 12,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 12,
+    "principio_activo": "Maleato de trimebutina, simeticona y alfa-galactosidasa",
+    "concentracion": "200 mg / 75 mg / 45 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: comprimido; Alfa-galactosidasa equivalente a 450 Gal U; Fracción sanitaria: Grupo IV"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124186203_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124186203.jpg",
+      "pagina": "https://www.fahorro.com/libertrim-alfa-12-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1382,
+      "fecha": "2026-09-29",
+      "lado_util": 1280
+    },
+    {
+      "archivo": "7501124186203_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124186203_2.jpg",
+      "pagina": "https://www.fahorro.com/libertrim-alfa-12-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1382,
+      "fecha": "2026-09-29",
+      "lado_util": 1280
+    },
+    {
+      "archivo": "7501124186203_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501124186203_3.jpg",
+      "pagina": "https://www.fahorro.com/libertrim-alfa-12-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1385,
+      "fecha": "2026-09-29",
+      "lado_util": 1283
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/libertrim-alfa-200-75-45-mg-c-12-comprimidos-v1/p",
+    "https://www.medicamentosplm.com/home/productos/libertrim-alfa-comprimidos/35/101/62475/25",
+    "https://www.fahorro.com/libertrim-alfa-12-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo (EAN 7501124186203) y en la ficha de YZA; la ficha de Costco solo confirma la presentación. Grupo IV, venta con receta.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): frente de la caja, reverso con la fórmula y caja en perspectiva.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

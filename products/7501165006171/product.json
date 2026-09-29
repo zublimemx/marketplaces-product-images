@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "ALLEGRA SUSP 150ML 20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Allegra Suspensión Pediátrica Fexofenadina 6 mg/ml 150 ml",
+  "descripcion": "Descripción:\nAllegra suspensión pediátrica, de Sanofi, es un antihistamínico en suspensión oral cuyo principio activo es el clorhidrato de fexofenadina. Está indicada para el alivio de los síntomas asociados a la rinitis alérgica, como estornudos, escurrimiento nasal, comezón en nariz, paladar y garganta, e irritación, comezón y lagrimeo de los ojos en niños de 2 a 11 años, y para la urticaria idiopática crónica en niños de 6 meses a 11 años.\n\nBeneficios:\n- Alivia los síntomas de la rinitis alérgica: estornudos, escurrimiento nasal, comezón nasal y ocular\n- Indicada también en urticaria idiopática crónica (ronchas y comezón en la piel)\n- Formulación pediátrica en suspensión oral lista para dosificar\n- Actúa bloqueando los receptores H1 de la histamina\n\nComposición:\nCada 100 ml de suspensión contienen 600 mg de clorhidrato de fexofenadina (6 mg/ml); excipiente cbp 100 ml.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento son las que indique el médico según la edad del niño.\n\nPresentación:\nCaja con frasco de 150 ml de suspensión.\n\nAdvertencias:\nNo la use si el niño es alérgico a la fexofenadina o a alguno de los componentes de la fórmula. Su uso en niños debe hacerse bajo indicación médica. Si los síntomas persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Allegra",
+    "fabricante": "Sanofi-Aventis de México",
+    "linea": "Pediátrico",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clorhidrato de fexofenadina",
+    "concentracion": "6 mg/ml (600 mg/100 ml)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 11 años (rinitis alérgica); de 6 meses a 11 años (urticaria idiopática crónica)",
+    "otros": "Antihistamínico; venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165006171_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw97c4ca3f/images/large/7501165006171_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/allegra-suspension-600mg-150ml/MXYZ_7501165006171.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 950,
+      "fecha": "2026-09-29",
+      "lado_util": 876
+    },
+    {
+      "archivo": "7501165006171_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe5bf3afb/images/large/7501165006171_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/allegra-suspension-600mg-150ml/MXYZ_7501165006171.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1009,
+      "fecha": "2026-09-29",
+      "lado_util": 933
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/allegra-suspension-600mg-150ml/MXYZ_7501165006171.html",
+    "https://wecarepharma.mx/products/allegra-ped-suspension-600mg-100ml-150ml-fexofenadina"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema trae un '20' final sin significado claro; se ignoró. Una fuente indica que no se recomienda en menores de 2 años para rinitis, por eso la dosis se deja a indicación médica.",
+    "notas_imagenes": "2 fotos de frente y de lado de la caja (tienda, cerca de 1,000 px). Se descartó una imagen infográfica con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

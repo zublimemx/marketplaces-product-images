@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "BENGUE UL GEL 35 GR ROJO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ultra Bengué Gel Rojo Naproxeno Lidocaína 35 g",
+  "descripcion": "Descripción:\nUltra Bengué es un gel tópico analgésico y antiinflamatorio para el alivio del dolor muscular, de espalda y de golpes. Combina naproxeno, lidocaína, salicilato de metilo y mentol en una fórmula de aplicación directa sobre la zona adolorida. Se presenta en caja con tubo de 35 g.\n\nBeneficios:\n- Anestesia inmediata que ayuda a aliviar el dolor, según el empaque.\n- Doble efecto para relajar los tejidos musculares.\n- Acción rápida y prolongada desinflamatoria.\n- Útil en dolores de espalda, musculares y golpes.\n\nFórmula:\nNaproxeno, lidocaína, salicilato de metilo y mentol (consulte las concentraciones en el empaque).\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona afectada y masajee suavemente hasta su absorción, o siga las indicaciones del empaque. Lávese las manos después de aplicarlo.\n\nPresentación:\nCaja con tubo de 35 g de gel.\n\nAdvertencias:\n- Uso externo. No lo aplique sobre heridas abiertas, mucosas ni cerca de los ojos.\n- No lo use si es alérgico al naproxeno u otros antiinflamatorios, ni si es alérgico a algún componente.\n- Suspenda su uso si aparece irritación.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ultra Bengué",
+    "fabricante": "Genomma Lab",
+    "variante": "Gel rojo",
+    "presentacion": "Caja con tubo de 35 g",
+    "contenido_neto": 35,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Naproxeno, lidocaína, salicilato de metilo y mentol",
+    "via_administracion": "Tópica",
+    "otros": "Analgésico y antiinflamatorio tópico; Formato de venta: caja con 1 tubo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240006647_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240006647.jpg",
+      "pagina": "https://www.fahorro.com/ultra-bengue-gel-35-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1233,
+      "fecha": "2026-09-29",
+      "lado_util": 1142
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ultra-bengue-gel-35-g.html",
+    "https://wecarepharma.mx/products/ultra-bengue-rojo-gel-35g-naproxeno-lidocaina-salicilato-de-metilo-mentol",
+    "https://www.walmart.com.mx/ip/gel-ultra-bengue-naproxeno-lidocaina-tubo-rojo-35-g/00065024000664"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (foto de la farmacia nombrada con el GTIN y código de artículo de tienda coincidente). Las concentraciones de los principios activos difieren entre fuentes en línea, por eso no se anotan; verificar en la caja. Las advertencias son las generales de un gel tópico con naproxeno. Fabricante (Genomma Lab) según la marca. Registro sanitario no visto.",
+    "notas_imagenes": "1 foto de frente (tienda, 1233 px) de la caja Ultra Bengué gel rojo 35 g; incluye los textos de beneficios propios del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "CRA CLARANT B3 NML/SCA 400G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 Piel Normal a Seca 400 g",
+  "descripcion": "Descripción:\nCrema facial antimanchas Pond's Clarant B3 para piel normal a seca, en tarro de 400 g. Combina vitamina B3 y vitamina C para ayudar a refrescar la piel, calmar el enrojecimiento y lograr un tono más claro y uniforme. Su textura cremosa nutre la piel y la deja suave e hidratada. Es ideal para el cuidado diario de la piel del rostro y en el empaque se presenta como crema antimanchas para un tono uniforme.\n\nBeneficios:\n- Ayuda a unificar el tono de la piel y a disminuir la apariencia de manchas.\n- Con vitamina B3 y vitamina C.\n- Ayuda a calmar el enrojecimiento y a refrescar la piel.\n- Hidratación para piel normal a seca.\n- Aporta luminosidad al rostro.\n\nPresentación:\nTarro con 400 g de crema. El empaque indica contenido neto de 400 g.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Mantener fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Antimanchas, tono uniforme",
+    "presentacion": "Tarro",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel normal a seca",
+    "genero": "Mujer",
+    "otros": "Con vitamina B3 y vitamina C; Efecto antimanchas y tono uniforme; Uso facial; Formato de venta: tarro"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330286_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/292368-1000-1000/7501056330286.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/crema-ponds-aclarante-b3-seca-400-g/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 996,
+      "fecha": "2026-09-29",
+      "lado_util": 923
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/ponds-clarant-b3-crema-antimanchas-piel-balanceada-a-seca-400-g/p",
+    "https://www.dax.com.mx/producto/ponds-crema-facial-clarant-b3-normal-a-seca-400g-7501056330286.html",
+    "https://www.lagranbodega.com.mx/crema-ponds-aclarante-b3-seca-400-g/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo, Dax y La Gran Bodega (EAN 7501056330286, 400 g, piel normal a seca). Las advertencias son generales de cosméticos de uso externo, no leídas del empaque.",
+    "notas_imagenes": "1 foto de tienda (La Gran Bodega, 1000 px): tarro Pond's Clarant B3 de 400 g de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

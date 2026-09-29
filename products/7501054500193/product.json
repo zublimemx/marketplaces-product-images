@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NIVEA SDA TARR GDE 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Nivea Creme Tarro 200 ml Humectante Multiusos",
+  "descripcion": "Descripción:\nNivea Creme es la crema humectante clásica de Nivea en tarro de 200 ml. Está enriquecida con pantenol, Eucerit y glicerina, ingredientes de conocida eficacia que brindan cuidado intensivo. Es un producto multiusos para todo tipo de piel y para toda la familia: se puede usar en el cuerpo, las manos, el rostro, los pies, y también para retirar el maquillaje.\n\nBeneficios:\n- Humectante: ayuda a mantener la piel suave e hidratada.\n- Cuidado intensivo para pieles secas, codos y rodillas.\n- Crema universal de uso diario y de varios usos.\n- Para todo tipo de piel; compatibilidad con la piel dermatológicamente aprobada.\n- Contiene pantenol, Eucerit y glicerina.\n\nIngredientes:\nAqua, Paraffinum Liquidum, Cera Microcristallina, Glycerin, Lanolin Alcohol (Eucerit), Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum. La lista del empaque prevalece, ya que las fórmulas se ajustan periódicamente.\n\nModo de uso:\nAplique una cantidad suficiente sobre la piel limpia y masajee hasta su completa absorción, las veces que sea necesario. Para retirar el maquillaje, aplíquela sobre el rostro y limpie con un algodón.\n\nPresentación:\nTarro de 200 ml.\n\nAdvertencias:\nEvite su uso en piel irritada. Uso externo. Evite el contacto con los ojos. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "NIVEA",
+    "fabricante": "BDF México (Beiersdorf)",
+    "linea": "Creme",
+    "variante": "Tarro",
+    "presentacion": "Tarro de 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Uso: cuerpo, manos, rostro y pies; Sirve también para desmaquillar; Formato de venta: tarro; Número de artículo del fabricante: 80132"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054500193_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/288653-1000-1000/7501054500193.jpg?v=638001459556070000",
+      "pagina": "https://www.lagranbodega.com.mx/crema-nivea-tarro-grande-200-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 873,
+      "fecha": "2026-09-29",
+      "lado_util": 809
+    },
+    {
+      "archivo": "7501054500193_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501054500193_ed6bb070-6ccb-429d-873a-7899d5fad614.jpg?v=1701388136&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/4703",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 641,
+      "fecha": "2026-09-29",
+      "lado_util": 594
+    }
+  ],
+  "url_oficial": "https://www.nivea.com.mx/productos/nivea-creme-75010545001930060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/nivea-creme-75010545001930060.html",
+    "https://farmalisto.com.mx/dermocosmeticos/12721-comprar-crema-nivea-tarro-con-200-ml-piel-precio-7501054500193.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia y presentación de 200 ml en el sitio del fabricante. 'SDA' del nombre del sistema se interpretó como parte de la descripción del tarro grande (Nivea Creme 200 ml).",
+    "notas_imagenes": "2 fotos de frente al tarro de 200 ml (tienda, 873 y 641 px). Se descartaron las fotos del fabricante por traer texto publicitario, mostrar otros tamaños (50 y 400 ml) o estar en un fondo decorado.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

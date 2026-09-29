@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "DEBROMU 40MG TAB C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Debromu Bromuro de Otilonio 40 mg 30 Tabletas",
+  "descripcion": "Descripción:\nDebromu 40 mg son tabletas con bromuro de otilonio, un medicamento de uso gastrointestinal de Laboratorios A. Menarini Pharma México. La caja indica bromuro de otilonio 40 mg por tableta, con 30 tabletas por empaque.\n\nCaracterísticas:\n- Principio activo: bromuro de otilonio.\n- Medicamento para trastornos del aparato digestivo.\n- Administración por vía oral.\n\nFórmula:\nCada tableta contiene bromuro de otilonio 40 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis es la que señale su médico.\n\nPresentación:\nCaja con 30 tabletas de 40 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Su uso durante el embarazo y la lactancia queda bajo la responsabilidad del médico. Consérvese a no más de 30 °C y en lugar seco. Reporte las sospechas de reacción adversa a los canales de farmacovigilancia indicados en el empaque. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Debromu",
+    "fabricante": "A. Menarini Pharma México",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Bromuro de otilonio",
+    "concentracion": "40 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "199M2008 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Uso gastrointestinal; Conservar a no más de 30 °C y en lugar seco"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385494246_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385494246.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/debromu-40-mg-con-30-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1501,
+      "fecha": "2026-09-29",
+      "lado_util": 1391
+    },
+    {
+      "archivo": "7501385494246_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385494246_1.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/debromu-40-mg-con-30-tabletas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1477,
+      "fecha": "2026-09-29",
+      "lado_util": 1369
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/gastroenterologia/6472-comprar-debromu-40-mg-caja-con-30-tabletas-precio-7501385494246.html",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/6472-debromu-40-mg-30-tabletas-bromuro-de-otilonio-amenarini-pharma-mexico-7501385494246.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró texto con las indicaciones detalladas; se describe como uso gastrointestinal. Datos de dosis, registro y conservación leídos en la caja.",
+    "notas_imagenes": "2 fotos de tienda de frente y del reverso de la caja con la fórmula (fahorro 1600 px). Se descartó una foto de 500 px duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

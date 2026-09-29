@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "DABEX 500 MG C 60",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dabex Metformina 500 mg 60 Tabletas",
+  "descripcion": "Descripción:\nDabex es un medicamento en tabletas a base de clorhidrato de metformina 500 mg, de Merck. Está indicado como monoterapia en el tratamiento de la diabetes mellitus estable del adulto, especialmente del obeso, como coadyuvante de la dieta y el ejercicio para mejorar el control de la glucemia en pacientes con diabetes tipo 2. También puede usarse junto con sulfonilureas o insulina, según indique el médico.\n\nComposición:\nCada tableta contiene clorhidrato de metformina 500 mg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis se individualiza según la respuesta y la tolerancia de cada paciente; por lo general se inicia con 500 mg al día y se aumenta de manera gradual. Se administra en dosis divididas con las comidas. La dosis máxima diaria recomendada es de 2,550 mg en adultos.\n\nPresentación:\nCaja con 60 tabletas de 500 mg.\n\nAdvertencias:\n- No se administre durante el embarazo ni la lactancia.\n- Contraindicado en enfermedad o disfunción renal, insuficiencia cardiaca que requiera tratamiento, acidosis metabólica, insuficiencia hepática e hipersensibilidad a la metformina.\n- Existe riesgo de acidosis láctica, sobre todo si hay daño renal.\n- Su venta requiere receta médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dabex",
+    "fabricante": "Merck",
+    "linea": "Dabex",
+    "presentacion": "Caja con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Clorhidrato de metformina",
+    "concentracion": "500 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: tableta; Fracción sanitaria: Grupo IV; Indicado en diabetes mellitus tipo 2"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298219509_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298219509.jpg",
+      "pagina": "https://www.fahorro.com/dabex-500-mg-oral-60-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1357,
+      "fecha": "2026-09-29",
+      "lado_util": 1257
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/dabex-500-mg-caja-c-60-tabletas/p",
+    "https://www.medicamentosplm.com/Home/productos/dabex.tabletas/115/101/7102/210",
+    "https://www.fahorro.com/dabex-500-mg-oral-60-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto (URL con 7501298219509) y en la foto de Farmacias del Ahorro; no confundir con Dabex XR.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente de la caja Dabex 500 mg con 60 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

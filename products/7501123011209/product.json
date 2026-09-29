@@ -4,29 +4,72 @@
   "linea": "Farma",
   "nombre_sistema": "CARDISPAN TABL 1G MASTIC",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cardispan Levocarnitina 1 g 20 Tabletas Masticables",
+  "descripcion": "Descripción:\nCardispan es un medicamento de Grossman a base de levocarnitina (L-carnitina), en tabletas masticables de 1 g para administración oral. Se utiliza en el tratamiento de las deficiencias primarias y secundarias de L-carnitina, siempre bajo indicación médica.\n\nIndicaciones:\n- Deficiencias primarias y secundarias de L-carnitina.\n- Encefalopatía hiperamonémica asociada a toxicidad por ácido valproico.\n- Prevención en pacientes que reciben ácido valproico y tienen mayor riesgo de daño hepático.\n- Deficiencia secundaria de L-carnitina en pacientes en hemodiálisis prolongada.\n\nComposición:\nCada tableta masticable contiene levocarnitina 1 g.\n\nModo de uso:\nVía oral. La tableta se mastica. La dosis y la duración las determina el médico según cada caso; en adultos se manejan dosis diarias de 1 a 3 g repartidas en varias tomas.\n\nPresentación:\nCaja con 20 tabletas masticables de 1 g.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- En pacientes diabéticos que usan insulina se recomienda vigilar la glucosa.\n- Puede aumentar el INR en quienes toman anticoagulantes cumarínicos.\n- Puede causar náusea, vómito o diarrea.\n- Consulte a su médico si está embarazada o en lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cardispan",
+    "fabricante": "Grossman",
+    "linea": "Cardispan",
+    "variante": "Tabletas masticables",
+    "presentacion": "Caja con 20 tabletas masticables",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Levocarnitina",
+    "concentracion": "1 g",
+    "via_administracion": "Oral",
+    "registro_sanitario": "037M93 SSA",
+    "otros": "Grupo terapéutico: metabólico (ATC A16AA01); Tabletas masticables; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170538"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123011209_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501123011209.jpg",
+      "pagina": "https://grupofarmapronto.com/producto/cardispan-1-g-c-20-tabletas-masticables/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 926,
+      "fecha": "2026-09-29",
+      "lado_util": 835
+    },
+    {
+      "archivo": "7501123011209_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Cardispan.png?v=1755187556",
+      "pagina": "https://grupofarmapronto.com/producto/cardispan-1-g-c-20-tabletas-masticables/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 870,
+      "fecha": "2026-09-29",
+      "lado_util": 806
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1220382/cardispan-tabletas-masticables-1-g",
+    "https://grupofarmapronto.com/producto/cardispan-1-g-c-20-tabletas-masticables/",
+    "https://sanorim.mx/products/cardispan-tabletas-masticables-1-g-caja-con-20-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Cardispan 1 g, 20 tabletas masticables, Grossman). Indicaciones y dosis de la monografía de Vademecum; el registro sanitario no muestra fracción de venta, por eso receta \"Revisar\". Se anotó el catálogo de Mercado Libre MLM40170538 porque la URL de resultados coincide exactamente (Cardispan tabletas masticables 1 g, 20 tabletas), pero no se pudo abrir para verificarlo. Categoría Digestivos y metabólicos (venta libre) por ser un metabólico.",
+    "notas_imagenes": "2 fotos de la caja, de frente y en ángulo (tienda: Farmapronto 926 px y Sanorim 870 px, ambas por debajo de 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "OBRYDEX 3 1 MG SOL OFT 5 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Obrydex Tobramicina Dexametasona Solución Oftálmica 5 ml",
+  "descripcion": "Descripción:\nObrydex es una solución oftálmica de Laboratorios Grin que combina un antibiótico (tobramicina) con un corticosteroide (dexametasona) en gotas para los ojos. Se presenta en frasco gotero de 5 ml y se usa bajo prescripción médica.\n\nIndicaciones:\n- Infecciones superficiales del ojo acompañadas de inflamación, como blefaritis, conjuntivitis, queratitis y dacriocistitis.\n- Control de la inflamación después de una cirugía ocular, según indicación médica.\n\nFórmula:\nCada ml contiene tobramicina 3 mg y fosfato sódico de dexametasona equivalente a 1 mg de dexametasona.\n\nModo de uso:\nVía oftálmica. En infecciones leves se indica 1 o 2 gotas en el ojo afectado cada 4 horas; en casos más severos, el médico puede indicar una frecuencia mayor. Siga siempre la dosis y la duración que le señale su médico.\n\nPresentación:\nCaja con frasco gotero de 5 ml.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes, ni si tiene tuberculosis ocular, infecciones por hongos o herpes simple en el ojo, ni glaucoma de ángulo abierto.\n- No se administre en infecciones virales. Úselo con precaución si tiene abrasión de la córnea o glaucoma.\n- Su venta requiere receta médica.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Obrydex",
+    "fabricante": "Laboratorios Grin",
+    "presentacion": "Caja con frasco gotero de 5 ml",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tobramicina y dexametasona",
+    "concentracion": "Tobramicina 3 mg/ml y dexametasona 1 mg/ml",
+    "via_administracion": "Oftálmica",
+    "otros": "Antibiótico con corticosteroide oftálmico; Formato de venta: caja con 1 frasco"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "008400003218_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw570c6829/images/large/8400003218_1.jpg",
+      "pagina": "https://www.yza.mx/obry-dex-solucion-oftalmica-3mg1mg-5ml/MXYZ_8400003218.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 924,
+      "fecha": "2026-09-29",
+      "lado_util": 856
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/obrydex.solucion.oftalmica/88/101/9045/172",
+    "https://www.yza.mx/obry-dex-solucion-oftalmica-3mg1mg-5ml/MXYZ_8400003218.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 008400003218 (UPC de 12 dígitos) confirmado por la ficha con el código 8400003218 y la foto de otra farmacia. El nombre del sistema dice 'OBRYDEX 3 1 MG' = 3 mg/ml tobramicina y 1 mg/ml dexametasona. Se marca receta por ser antibiótico con esteroide. Registro sanitario no visto.",
+    "notas_imagenes": "1 foto de frente (tienda, 924 px) de la caja Obrydex solución 3 mg / 1 mg, 5 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

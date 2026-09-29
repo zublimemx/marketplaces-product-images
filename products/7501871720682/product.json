@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TAFIROL FLEX TAB30 JULIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tafirol Flex 300 mg/250 mg 30 Tabletas",
+  "descripcion": "Descripción:\nTafirol Flex es un analgésico y miorrelajante de Asofarma que combina paracetamol (300 mg) y clorzoxazona (250 mg) en cada tableta. Se utiliza como analgésico miorrelajante ante dolores y contracturas musculares derivados de distensiones, tortícolis, fibrositis y desgarres musculares, así como en dolor de columna como espondilitis, síndrome cervical, ciática y lumbalgias. Se presenta en caja con 30 tabletas.\n\nCaracterísticas:\n- Combinación de paracetamol y clorzoxazona\n- Concentración: 300 mg/250 mg por tableta\n- Vía de administración: oral\n- Acción analgésica y relajante muscular\n\nFórmula:\nCada tableta contiene paracetamol 300 mg y clorzoxazona 250 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 30 tabletas de 300 mg/250 mg.\n\nAdvertencias:\nContiene paracetamol; consulte a su médico antes de usarlo junto con otros medicamentos que lo contengan. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tafirol Flex",
+    "fabricante": "Asofarma",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Paracetamol y clorzoxazona",
+    "concentracion": "300 mg/250 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Clasificación: analgésico miorrelajante"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720682_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501871720682.jpg",
+      "pagina": "https://www.fahorro.com/tafirol-flex-300-mg-250-mg-caja-con-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1524,
+      "fecha": "2026-09-29",
+      "lado_util": 1411
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/tafirol-flex-300mg-250mg-c-30-tabs/p",
+    "https://www.fahorro.com/tafirol-flex-300-mg-250-mg-caja-con-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición e indicaciones de Farmacias Klyns; sin registro sanitario ni contraindicaciones en fuentes abiertas. Una farmacia lo clasifica 'con receta' y otra no lo especifica, por eso se dejó 'Revisar'. La advertencia sobre otros productos con paracetamol es una precaución general, no leída del empaque. El nombre del sistema trae 'JULIO 27' (caducidad), ignorado.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): caja frontal de Tafirol Flex con 30 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

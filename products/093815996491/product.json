@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "FREESTYLE OPTIUM C50 TIRAS REACTIVAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tiras Reactivas FreeStyle Optium Glucosa 50 Piezas",
+  "descripcion": "Descripción:\nTiras reactivas de Abbott para medir la glucosa en sangre, para el autoanálisis de la glucosa. Están diseñadas para usarse con el medidor FreeStyle Optium Neo y no requieren codificación, lo que simplifica cada medición. La caja contiene 50 tiras.\n\nCaracterísticas:\n- Tiras empacadas en envases individuales.\n- Sin necesidad de codificación.\n- Tamaño de muestra de 0.6 µl.\n- Tiempo de análisis de 5 segundos.\n- Tope de llenado que asegura que la medición inicie solo cuando se aplicó una muestra suficiente, con posibilidad de volver a aplicar la muestra dentro de los primeros 5 segundos.\n\nCompatibilidad:\nPara uso exclusivo con el medidor FreeStyle Optium Neo, según el empaque.\n\nPresentación:\nCaja con 50 tiras reactivas.\n\nAdvertencias:\n- Producto para diagnóstico in vitro; no lo ingiera.\n- Lea las instrucciones del empaque y del instructivo del medidor.\n- Consulte a su médico para interpretar sus resultados y ajustar su tratamiento.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "FreeStyle",
+    "fabricante": "Abbott",
+    "linea": "Optium",
+    "presentacion": "Caja con 50 tiras reactivas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "registro_sanitario": "2480R2011 SSA",
+    "otros": "Tiras reactivas para glucosa en sangre; Sin codificación; Tamaño de muestra 0.6 µl; Tiempo de análisis 5 segundos; Compatible con FreeStyle Optium Neo; Formato de venta: caja con 50 tiras"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "093815996491_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.abbottienda.com/3434-large_default/freestyle-optium-tiras-reactivas-caja-c50.jpg",
+      "pagina": "https://www.abbottienda.com/diabetes/165-freestyle-optium-tiras-reactivas-caja-c50.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 753,
+      "fecha": "2026-09-29",
+      "lado_util": 698
+    },
+    {
+      "archivo": "093815996491_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.abbottienda.com/3433-large_default/freestyle-optium-tiras-reactivas-caja-c50.jpg",
+      "pagina": "https://www.abbottienda.com/diabetes/165-freestyle-optium-tiras-reactivas-caja-c50.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 730,
+      "fecha": "2026-09-29",
+      "lado_util": 676
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.abbottienda.com/diabetes/165-freestyle-optium-tiras-reactivas-caja-c50.html",
+    "https://www.claroshop.com/producto/1334267/freestyle-optium-50-tiras-reactivas-para-glucosa"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN no apareció en las fichas consultadas; se identificó por nombre y presentación (FreeStyle Optium, 50 tiras). El registro sanitario 2480R2011 SSA salió de la ficha de la tienda de Abbott y debe verificarse contra la caja. La ficha de esa tienda menciona también compatibilidad con otro lector; aquí se usó la compatibilidad impresa en la caja (Optium Neo).",
+    "notas_imagenes": "2 fotos de la tienda de Abbott (753 y 730 px, originales de 800 px): frente y vista en ángulo de la caja de 50 tiras. Se descartó una tercera foto de tienda con el producto pequeño en el cuadro.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

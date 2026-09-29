@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "FITOESTIMULINA OVULOS C 6",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fitoestimulina 600 mg/40 mg 6 Óvulos Vaginales",
+  "descripcion": "Descripción:\nFitoestimulina óvulos vaginales, de Laboratorios Grossman, contiene extracto acuoso de Triticum vulgare y fenoxietanol. Está indicada en enfermedades cervicovaginales que requieren activación de los procesos de cicatrización y reepitelización: distrofias cervicovaginales posmenopáusicas, ectropión y cervicitis erosiva, cervicovaginitis aguda y crónica, y lesiones cervicales poscauterización o consecutivas a cirugía y radioterapia.\n\nBeneficios:\n- Favorece la cicatrización y los procesos de reparación tisular en la zona cervicovaginal\n- Proporciona condiciones para una reepitelización rápida y eficiente\n- El fenoxietanol aporta acción antiséptica local\n\nComposición:\nCada óvulo contiene: extracto acuoso de Triticum vulgare 0.60 g, fenoxietanol 0.04 g, excipiente cbp 1 óvulo.\n\nModo de uso:\nVía vaginal profunda. Según la ficha del producto se administra un óvulo diario al acostarse; en lesiones extensas pueden administrarse dos veces al día, o de acuerdo con la indicación médica. No ingerible.\n\nPresentación:\nCaja con 6 óvulos vaginales.\n\nAdvertencias:\nNo lo use si tiene hipersensibilidad a alguno de los componentes de la fórmula. El uso prolongado de productos de aplicación local puede causar hipersensibilidad; si esto ocurre, suspenda el tratamiento y consulte a su médico. Consérvese en lugar fresco. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fitoestimulina",
+    "fabricante": "Laboratorios Grossman",
+    "presentacion": "Óvulos vaginales",
+    "contenido_neto": 6,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 6,
+    "principio_activo": "Extracto acuoso de Triticum vulgare; Fenoxietanol",
+    "concentracion": "600 mg/40 mg por óvulo",
+    "via_administracion": "Vaginal",
+    "otros": "Caja con 6 óvulos vaginales; no ingerible; conservar en lugar fresco"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123011803_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmalisto.com.mx/100727-large_default/comprar-fitoestimulina-600-mg40-mg-caja-con-6-ovulos-cicatricacion-cervicovaginal-precio.jpg",
+      "pagina": "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/10500-comprar-fitoestimulina-600-mg40-mg-caja-con-6-ovulos-cicatricacion-cervicovaginal-precio-7501123011803.html",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 587,
+      "fecha": "2026-09-29",
+      "lado_util": 544
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/fitoestimulina.ovulos.vaginales/66/101/7726/112",
+    "https://farmaciasmedina.com/detalleProducto/Fitoestimulina-6-Ovulo-Caja/7501123011803"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de PLM indica que su venta requiere receta médica. Los registros 497M94 y 577M94 corresponden a crema y óvulos; no se asignó cuál es de óvulos.",
+    "notas_imagenes": "1 foto de la caja (tienda; original de 1000 x 1300 px, recortada a 587 px de lado). No hay más fotos con esta presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

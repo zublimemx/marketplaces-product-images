@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE INTENSE 48H SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Intense 48h Aerosol 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Axe Intense de 150 ml, con tecnología de doble acción: destruye el mal olor y deja una fragancia duradera durante 48 horas. Pertenece a la línea Axe para hombre, en la variante Intense con notas de lima y especias (Power Lime & Spices). Su formato en aerosol de 150 ml es práctico para el uso diario y ayuda a sentirte fresco durante toda la jornada.\n\nBeneficios:\n- Ayuda a mantener la frescura todo el día.\n- Destruye el mal olor y deja una fragancia duradera, según el empaque.\n- Fórmula con 0% sales de aluminio.\n- Lata de aluminio reciclable.\n\nModo de uso:\nAgite antes de usar. Gire, presione y aplique el desodorante sobre el cuerpo, a no menos de 15 cm de la piel.\n\nPresentación:\nEnvase de aerosol de 150 ml (97 g), en lata de aluminio.\n\nAdvertencias:\n- Evite el uso íntimo.\n- Uso externo; evite el contacto con los ojos.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Intense",
+    "variante": "Power Lime & Spices",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Lima y especias",
+    "genero": "Hombre",
+    "otros": "Protección 48 horas; 0% sales de aluminio; Lata de aluminio reciclable; Peso neto: 97 g; Formato de venta: pieza individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306244795_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7506306244795-1.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=71427&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1049,
+      "fecha": "2026-09-29",
+      "lado_util": 972
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-intense-150-ml.html/07506306244795",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-intense-150-ml.html/07506306244795",
+    "https://vitau.mx/desodorante-axe-intense-48h-spy-150-ml-envase-de-aerosol-27103"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Axe México (URL con 07506306244795). La página oficial no lista ingredientes ni advertencias completas; los datos de fabricante (Unilever) y aroma se dedujeron de la marca y del empaque.",
+    "notas_imagenes": "1 foto de frente (tienda, 1049 px) del envase Axe Intense Power Lime & Spices 150 ml. La foto oficial de Axe (assets de Unilever) devolvió 403 al script; se descartó otra foto de un diseño de lata distinto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL CZA C24 TBS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pepto-Bismol Cereza 262 mg 24 Tabletas Masticables",
+  "descripcion": "Descripción:\nPepto-Bismol en tabletas masticables sabor cereza es un medicamento de libre venta de Procter & Gamble cuyo ingrediente activo es el subsalicilato de bismuto (262 mg por tableta). En su empaque indica que cubre, protege y alivia los síntomas del malestar digestivo.\n\nBeneficios:\n- Alivia la acidez y la indigestión.\n- Ayuda con el malestar estomacal y la náusea.\n- Alivia la diarrea.\n- Tabletas masticables con sabor a cereza.\n\nFórmula:\nCada tableta masticable contiene subsalicilato de bismuto 262 mg (262.4 mg según la etiqueta).\n\nModo de uso:\nVía oral. Mastique las tabletas y siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 24 tabletas masticables sabor cereza.\n\nAdvertencias:\n- Conservar en ambiente controlado de 15 a 30 °C.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "variante": "Masticable sabor cereza",
+    "presentacion": "Caja con 24 tabletas masticables",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "262 mg por tableta",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Cereza",
+    "otros": "Forma farmacéutica: tableta masticable; Medicamento de libre venta; Formato de venta: caja con 24 tabletas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501001353377_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001353377_5.jpg",
+      "pagina": "https://www.fahorro.com/pepto-bismol-tabletas-masticables-cereza-24-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1488,
+      "fecha": "2026-09-29",
+      "lado_util": 1378
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/412-comprar-pepto-bismol-262-mg-caja-con-24-tabletas-sabor-cereza--precio-7501001353377.html",
+    "https://farmaciasmedina.com/detalleProducto/Pepto-Bismol-Cereza-Masticables/7501001353377",
+    "https://www.fahorro.com/pepto-bismol-tabletas-masticables-cereza-24-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas (URLs con 7501001353377). Las fichas en línea no traen dosis ni advertencias completas, por eso no se detallan; revisar el empaque. No se encontró página oficial ni registro sanitario.",
+    "notas_imagenes": "1 foto de frente (tienda, 1488 px) de la caja Pepto-Bismol masticable cereza 24 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

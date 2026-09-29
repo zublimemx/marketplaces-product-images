@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "TUMS SURT C3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tums Antiácido Surtido 750 mg 3 Rollos de 8 Tabletas",
+  "descripcion": "Descripción:\nTums es un antiácido en tabletas masticables cuyo ingrediente activo es el carbonato de calcio (750 mg por tableta). Esta presentación surtida incluye 3 rollos con 8 tabletas cada uno (24 tabletas en total) en sabores surtidos, prácticos para llevar consigo.\n\nBeneficios:\n- Antiácido de carbonato de calcio para el alivio de la acidez estomacal.\n- Tabletas masticables en sabores surtidos.\n- Rollos individuales, fáciles de transportar.\n\nFórmula:\nCada tableta masticable contiene carbonato de calcio 750 mg.\n\nModo de uso:\nVía oral. Mastique la tableta completamente antes de tragarla y siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nEmpaque con 3 rollos de 8 tabletas masticables cada uno (24 tabletas), sabores surtidos.\n\nAdvertencias:\n- No exceda la dosis máxima indicada en el empaque.\n- Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tums",
+    "fabricante": "GlaxoSmithKline",
+    "variante": "Sabores surtidos",
+    "presentacion": "Empaque con 3 rollos de 8 tabletas masticables",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Carbonato de calcio",
+    "concentracion": "750 mg por tableta",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Surtido",
+    "otros": "Antiácido en tableta masticable; 3 rollos de 8 tabletas (24 tabletas en total); Formato de venta: empaque con 3 rollos"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170653"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065054043_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065054043.jpg",
+      "pagina": "https://www.fahorro.com/tums-antiacido-tabletas-masticables-extra-surtido-24-tabletas-3-rollos-de-8-tabletas-cada-uno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1018,
+      "fecha": "2026-09-29",
+      "lado_util": 943
+    },
+    {
+      "archivo": "7501065054043_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065054043_2.jpg",
+      "pagina": "https://www.fahorro.com/tums-antiacido-tabletas-masticables-extra-surtido-24-tabletas-3-rollos-de-8-tabletas-cada-uno.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1568,
+      "fecha": "2026-09-29",
+      "lado_util": 1452
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/tums-extra-surtido-750-mg-3-rollos-c-8-tabletas-masticables/p",
+    "https://www.fahorro.com/tums-antiacido-tabletas-masticables-extra-surtido-24-tabletas-3-rollos-de-8-tabletas-cada-uno.html",
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/2685-comprar-tums-extra-750-mg-empaque-con-3-rollos-de-8-tabletas-masticables-acidez-precio-7501065054043.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (URL de farmacia con 7501065054043, 'Tums Extra 750 mg, 3 rollos de 8 tabletas'). El catálogo MLM40170653 coincide por título y presentación, pero no se pudo abrir para confirmar el GTIN. Las fichas no traen dosis ni advertencias detalladas; solo se indican precauciones generales. Registro sanitario no visto.",
+    "notas_imagenes": "2 fotos (tienda, 1018 y 1568 px): empaque de 3 rollos Tums surtido de frente y en ángulo. Se descartó una tercera con banner promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

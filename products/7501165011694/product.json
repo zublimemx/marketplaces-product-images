@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ISODINE BUCOFARINGEO 120 ML AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Isodine Bucofaríngeo Yodopovidona Solución 120 ml",
+  "descripcion": "Descripción:\nIsodine Bucofaríngeo es una solución antiséptica bucofaríngea a base de yodopovidona, elaborada por Sanfer. Está indicada como auxiliar en las infecciones de la garganta y de la boca y se presenta en un frasco de 120 ml para uso bucofaríngeo.\n\nBeneficios:\n- Antiséptico bucofaríngeo con yodopovidona como principio activo\n- Auxiliar en infecciones de garganta y boca\n- Vía de administración bucofaríngea, para gárgaras y enjuagues\n- Presentación práctica de 120 ml\n\nModo de uso:\nUso bucofaríngeo (gárgaras o enjuagues bucales). Siga las indicaciones del empaque o de su médico en cuanto a la dilución, la frecuencia y la duración del uso.\n\nPresentación:\nFrasco con 120 ml de solución antiséptica.\n\nAdvertencias:\nEvite tragar la solución. No lo use si es alérgico al yodo o a alguno de los componentes de la fórmula. Si los síntomas persisten o empeoran, suspenda su uso y consulte a un médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Isodine",
+    "fabricante": "Sanfer",
+    "linea": "Bucofaríngeo",
+    "presentacion": "Frasco de 120 ml",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Yodopovidona",
+    "via_administracion": "Bucofaríngea",
+    "otros": "Forma farmacéutica: solución antiséptica; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165011694_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501165011694_1_2.jpg",
+      "pagina": "https://www.fahorro.com/isodine-bucofaringeo-solucion-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1393,
+      "fecha": "2026-09-29",
+      "lado_util": 1290
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/isodine-bucofaringeo-solucion-120-ml.html",
+    "https://grupofarmapronto.com/producto/isodine-bucofar-8-gr-c-120-ml-solucion/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se pudo confirmar la concentración de yodopovidona (una fuente indica 1 % y otra sugiere 8 g); se omitió. Modo de uso y advertencias redactados en forma general; verificar contra el empaque.",
+    "notas_imagenes": "1 foto de frente al frasco, origen tienda, 1393 px. Se eliminó una segunda foto que era de otro producto (Microdacyn).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

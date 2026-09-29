@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "OLEODERM PLUS 225ML CRA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Oleoderm Plus Crema con Protección Solar FPS 15 225 ml",
+  "descripcion": "Descripción:\nOleoderm Plus (comercializada también como Oleoderm Solar) es una crema de uso tópico con protección solar FPS 15 formulada con aceite de almendras dulces e hidróxido de calcio y filtros solares. Está indicada como auxiliar en dermatitis por contacto, dermatitis de pañal y quemaduras solares, y se puede aplicar sobre la piel afectada cuantas veces sea necesario.\n\nBeneficios:\n- Protección solar FPS 15 contra rayos UVA y UVB para uso diario.\n- Auxiliar para aliviar molestias de la piel por quemaduras solares de primer grado o por contacto con sustancias químicas irritantes.\n- Uso en dermatitis de pañal y dermatitis por contacto.\n- Uso externo.\n\nComposición:\nAceite de almendras dulces e hidróxido de calcio, con filtros solares octilmetoxicinamato, butilmetoxidibenzoilmetano y octocrileno.\n\nModo de uso:\nAplíquese en toda la piel afectada cuantas veces sea necesario.\n\nPresentación:\nFrasco con 225 ml de crema.\n\nAdvertencias:\nSolo para uso externo. Hasta la fecha no se conocen contraindicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Oleoderm",
+    "fabricante": "Representaciones Mex-América, S.A. de C.V. (Remexa)",
+    "linea": "Plus / Solar",
+    "variante": "Crema con protección solar FPS 15",
+    "presentacion": "Frasco",
+    "contenido_neto": 225,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Aceite de almendras dulces e hidróxido de calcio; filtros solares",
+    "via_administracion": "Tópica",
+    "otros": "FPS 15; Protección UVA y UVB; Uso externo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501273500233_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://laherrera.mx/cdn/shop/files/7501273500233.jpg?v=1744492555&width=1500",
+      "pagina": "https://farmaciasanjorge.com/products/8359",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 1125,
+      "fecha": "2026-09-29",
+      "lado_util": 1042
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/oleoderm.plus.crema.con.proteccion.solar/152/101/9074/440",
+    "https://www.klyns.mx/oleoderm-plus-cra-225-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La foto del empaque y PLM indican FPS 15; una tienda lo titula FPS 30. Se usó FPS 15 por coincidir con la etiqueta.",
+    "notas_imagenes": "1 foto de tienda (laherrera.mx, 1280 px) de frente del empaque, etiqueta Oleoderm Solar FPS 15. Se descartó una foto pequeña (500 px) duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

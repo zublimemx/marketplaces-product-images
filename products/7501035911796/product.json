@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "COL MENNEN 200 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Colonia para Bebé Mennen Baby Magic Hipoalergénica 200 ml",
+  "descripcion": "Descripción:\nColonia Mennen Baby Magic es una colonia hipoalergénica para bebé, con una fragancia suave pensada para la piel delicada de los más pequeños. Se presenta en botella de 200 ml y sirve para perfumar al bebé después del baño o para aromatizar su ropita.\n\nBeneficios:\n- Colonia hipoalergénica para bebé\n- Fragancia suave y agradable\n- Botella de 200 ml de práctico uso\n- Se puede aplicar en gotitas sobre la piel o sobre la ropa del bebé\n\nModo de uso:\nAplique unas gotitas sobre la piel del bebé o sobre su ropita, evitando la cara y la piel irritada o lastimada.\n\nPresentación:\nBotella con 200 ml de colonia.\n\nAdvertencias:\nUso externo. No la aplique en la cara ni sobre piel irritada o lastimada. Evite el contacto con los ojos; si ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación, enrojecimiento o molestia. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Mennen",
+    "linea": "Baby Magic",
+    "variante": "Hipoalergénica",
+    "presentacion": "Botella de 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebé",
+    "genero": "Bebé",
+    "otros": "Tipo de producto: colonia para bebé; Hipoalergénica"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194109",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Colonias para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911796_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5b82be79/images/large/7501035911796_1.jpg",
+      "pagina": "https://www.yza.mx/colonia-para-bebes-mennen-200-ml/MXYZ_7501035911796.html",
+      "ancho_original": 2000,
+      "alto_original": 4902,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/colonia-para-bebes-mennen-200-ml/MXYZ_7501035911796.html",
+    "https://farmaciasanjorge.com/products/3961"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes no disponibles en las fichas. Modo de uso y advertencias tomados de la ficha de tienda.",
+    "notas_imagenes": "1 foto de frente a la botella, origen tienda, 2000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "CONTUMAX 255G SOB C 15 17GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Contumax Macrogol 3350 255 g 15 Sobres de 17 g",
+  "descripcion": "Descripción:\nContumax es un laxante en polvo a base de macrogol 3350 (polietilenglicol), de Asofarma. Se presenta en sobres individuales de 17 g para preparar y tomar por vía oral, y está indicado como laxante para el tratamiento del estreñimiento y para facilitar la evacuación.\n\nComposición:\nCada sobre contiene macrogol 3350 17.00 g. Polvo para reconstitución oral.\n\nModo de uso:\nVía oral. El contenido del sobre se disuelve para su administración (polvo para reconstitución oral). La dosis y la duración del tratamiento son las que indique el médico.\n\nPresentación:\nCaja con 15 sobres de 17 g de polvo cada uno (255 g en total).\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Conservar en ambiente controlado entre 15 y 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Contumax",
+    "fabricante": "Asofarma",
+    "presentacion": "Caja con 15 sobres de polvo",
+    "contenido_neto": 255,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 15,
+    "principio_activo": "Macrogol 3350 (polietilenglicol)",
+    "concentracion": "17 g por sobre",
+    "via_administracion": "Oral",
+    "registro_sanitario": "137M2004 SSA IV",
+    "otros": "Forma farmacéutica: polvo para reconstitución oral; Sobres de 17 g; Contenido total: 255 g; Fracción sanitaria: Grupo IV"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720774_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501871720774.jpg",
+      "pagina": "https://www.fahorro.com/contumax-255-g-polvo-15-sobres.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1490,
+      "fecha": "2026-09-29",
+      "lado_util": 1380
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/laxantes-con-receta/7091-comprar-contumax-255-g-caja-con-15-sobres-de-17-g-de-polvo-cu-laxante-en-mexico-y-df-precio-7501871720774.html",
+    "https://www.farmaciasguadalajara.com/contumax-255-gr-15-sobres-de-17-gr-c-u-979902",
+    "https://www.fahorro.com/contumax-255-g-polvo-15-sobres.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto (URL y ficha con EAN 7501871720774). No se pudo confirmar en fuentes abiertas la dosis ni las contraindicaciones detalladas; Farmalisto lo clasifica como laxante con receta (registro SSA IV).",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): caja de Contumax con 15 sobres de 17 g (macrogol 3350, 255 g). Se descartaron 3 fotos del envase tipo frasco de 255 g, que es otra presentación.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

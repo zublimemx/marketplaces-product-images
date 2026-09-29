@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "CANESTEN V1 DIA OV1 500MG 63",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Canesten V Clotrimazol 500 mg 1 Óvulo Vaginal",
+  "descripcion": "Descripción:\nCanesten V 1 Día es un óvulo vaginal antimicótico de Bayer que contiene 500 mg de clotrimazol y se aplica en una sola dosis. Su empaque lo presenta para el alivio de los síntomas de la infección vaginal causada por hongos (candidiasis): comezón, ardor, irritación, flujo, inflamación y dolor.\n\nBeneficios:\n- Tratamiento de un solo día: una única aplicación.\n- Ayuda a aliviar los síntomas desde la primera aplicación.\n- El clotrimazol actúa contra los hongos al inhibir la síntesis de ergosterol, un componente de su membrana.\n- Fácil de usar.\n\nComposición:\nClotrimazol 500 mg por óvulo.\n\nModo de uso:\nVía vaginal. Dosis única: aplique 1 óvulo por la noche, al acostarse, introduciéndolo lo más profundo posible en la vagina, estando acostada boca arriba con las piernas ligeramente flexionadas. Siga las instrucciones del empaque.\n\nPresentación:\nCaja con 1 óvulo vaginal de 500 mg.\n\nAdvertencias:\n- Evite su uso durante el primer trimestre del embarazo, salvo indicación médica.\n- No lo use durante la menstruación y evite las relaciones sexuales durante el tratamiento.\n- Puede reducir de forma temporal la efectividad de productos de látex, como los condones.\n- No se recomienda en menores de 12 años.\n- Si los síntomas persisten o reaparecen, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Canesten",
+    "fabricante": "Bayer de México",
+    "linea": "Canesten V",
+    "variante": "1 Día",
+    "presentacion": "Caja con 1 óvulo vaginal",
+    "contenido_neto": 1,
+    "unidad_contenido": "óvulo",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol",
+    "concentracion": "500 mg",
+    "via_administracion": "Vaginal",
+    "edad_etapa": "Mayores de 12 años",
+    "genero": "Mujer",
+    "otros": "Grupo terapéutico: antimicótico vaginal; Tratamiento de dosis única; Conservar sin exceder 30 °C; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318697409_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6c9e7a39/images/large/7501318697409_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.fahorro.com/canesten-v-ovulo-1-dia-infecciones-vaginales.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/canesten-v-500-mg-clotrimazol-1-ovulo",
+    "https://www.medicamentosplm.com/home/productos/canesten-v-ovulos/22/101/52638/111",
+    "https://www.yza.mx/canesten-v-1-dia-500mg-1-ovulo/MXYZ_7501318697409.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de farmacia (Canesten V 1 día, 500 mg, 1 óvulo). Modo de uso y precauciones tomados de la monografía de la línea Canesten V (PLM). Categoría igual a la usada para otros Canesten V vaginales.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda: Yza 1000 px). Se descartaron una imagen con banner de texto y otra de menor resolución duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

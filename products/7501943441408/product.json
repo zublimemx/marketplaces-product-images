@@ -4,29 +4,60 @@
   "linea": "Mark",
   "nombre_sistema": "ABSOR JUM C/14",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Kleen Bebé Absorsec Jumbo Etapa 5 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Kleen Bebé Absorsec Ultra talla Jumbo (etapa 5), unisex, en bolsa con 14 piezas. Su sistema ultra absorbente ayuda a mantener seca la piel del bebé y a evitar que se regrese el líquido, con una cubierta tipo tela respirable y cintas reajustables para un ajuste seguro.\n\nCaracterísticas:\n- Núcleo Absorgel con Blockgel, un sistema súper absorbente.\n- Cubierta tipo tela respirable.\n- Cintas reajustables y elástico en la cintura para mejor ajuste.\n- Barreras anti fuga.\n- Con aloe, manzanilla y vitamina E para el cuidado de la piel del bebé.\n- Diseño anatómico, unisex.\n\nPresentación:\nBolsa con 14 pañales talla Jumbo, etapa 5.\n\nAdvertencias:\nMantenga las bolsas de plástico lejos de bebés y niños para evitar riesgos de asfixia. Deseche los pañales usados en el lugar adecuado y no los tire al inodoro. Cambie el pañal con frecuencia.",
+  "ficha": {
+    "marca": "Kleen Bebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Absorsec Ultra",
+    "variante": "Jumbo",
+    "presentacion": "Bolsa",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Etapa 5",
+    "talla": "Jumbo",
+    "genero": "Unisex",
+    "otros": "Núcleo Absorgel con Blockgel; Cubierta respirable; Cintas reajustables; Con aloe, manzanilla y vitamina E"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19929400"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943441408_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7501943441408.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/23736/panal-jumbo-absorsec-14-unidades",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1243,
+      "fecha": "2026-09-29",
+      "lado_util": 1151
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/absorsec-jumbo-c-14/p",
+    "https://www.sanborns.com.mx/producto/23736/panal-jumbo-absorsec-14-unidades",
+    "https://www.surtitienda.mx/paal-kleen-bebe-absorsec-jumbo-14pzas-kleen-bebe-7501943441408/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "ABSOR JUM del sistema es Kleen Bebé Absorsec Jumbo (no Huggies). No se encontró el rango de peso de la talla Jumbo, por eso no se incluye. El ID de catálogo MLM19929400 salió en resultados (Pañales KleenBebé Absorsec Unisex Jumbo 14 Piezas Etapa 5) pero no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda (sanborns/claroshop, 1200 px) de frente de la bolsa, sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

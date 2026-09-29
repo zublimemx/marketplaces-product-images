@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "CICLOFERON PIEL 2 GR 180",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cicloferon Aciclovir 5% Crema Color Piel 2 g",
+  "descripcion": "Descripción:\nCicloferon es una crema antiviral de Laboratorios Liomont cuyo principio activo es el aciclovir al 5%. En su presentación color piel de 2 g se aplica sobre el fuego labial (herpes labial). Está indicada para el tratamiento inicial y recurrente de lesiones mucocutáneas causadas por el virus del herpes simple (VHS 1 y 2) y como coadyuvante en herpes zóster.\n\nCaracterísticas:\n- Principio activo: aciclovir 5% (0.05 g por gramo de crema)\n- Presentación color piel\n- Forma farmacéutica: crema tópica\n- Previene, detiene y alivia el fuego labial, según el empaque\n\nFórmula:\nCada gramo de crema contiene aciclovir 0.05 g.\n\nModo de uso:\nAplíquese 5 veces al día durante 5 días, evitando las dosis nocturnas. Lávese las manos antes y después de aplicar la crema y coloque una cantidad suficiente sobre el área afectada. Si no hay mejoría en 5 días, el tratamiento puede extenderse hasta 10 días en total.\n\nPresentación:\nCaja de cartón con tubo de 2 g de crema color piel.\n\nAdvertencias:\nNo usar en caso de hipersensibilidad al aciclovir, valaciclovir o a cualquier componente de la fórmula. Evite el contacto con los ojos y no lo aplique en mucosas (ojos, boca, vagina). No usar en menores de 2 años. Si las lesiones no mejoran o son graves o recurrentes, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cicloferon",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Cicloferon Piel",
+    "variante": "Color piel",
+    "presentacion": "Tubo de 2 g en caja de cartón",
+    "contenido_neto": 2,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Aciclovir",
+    "concentracion": "5%",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "088M93 SSA VI",
+    "otros": "Forma farmacéutica: crema; Indicación: fuego labial (herpes labial)"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299303085_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299303085_3.jpg",
+      "pagina": "https://www.fahorro.com/cicloferon-5-crema-color-piel-2-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1618,
+      "fecha": "2026-09-29",
+      "lado_util": 1499
+    },
+    {
+      "archivo": "7501299303085_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299303085_2.jpg",
+      "pagina": "https://www.fahorro.com/cicloferon-5-crema-color-piel-2-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1239,
+      "fecha": "2026-09-29",
+      "lado_util": 1148
+    },
+    {
+      "archivo": "7501299303085_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299303085.jpg",
+      "pagina": "https://www.fahorro.com/cicloferon-5-crema-color-piel-2-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1196,
+      "fecha": "2026-09-29",
+      "lado_util": 1108
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/cicloferon-crema/103/101/6899/36",
+    "https://www.fahorro.com/cicloferon-5-crema-color-piel-2-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro 088M93 SSA VI (PLM), fracción de venta libre. La caja de la foto confirma 'Aplicar 5 veces al día durante 5 días'.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): caja con exhibidor frontal y en ángulo. Se descartó el panel plano de instrucciones.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

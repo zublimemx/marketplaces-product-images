@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "BIOMESINA COMP 10 250MG C 10 TABS BUTILHIO METAMIZ BIOMEP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biomesina Compuesta Butilhioscina Metamizol 10 Grageas",
+  "descripcion": "Descripción:\nBiomesina Compuesta es un medicamento que combina butilhioscina, un antiespasmódico, con metamizol sódico, un analgésico. Se presenta en caja con 10 grageas de Laboratorios Biomep. Está indicado para el alivio del dolor de tipo cólico y de los espasmos del aparato digestivo y de las vías urinarias, donde se requiere reducir tanto el dolor como la contracción del músculo liso.\n\nCaracterísticas:\n- Combinación de butilhioscina (10 mg) y metamizol (250 mg) por gragea.\n- La butilhioscina actúa como antiespasmódico y el metamizol como analgésico.\n- Forma farmacéutica: gragea para administración oral.\n\nComposición:\nCada gragea contiene 10 mg de butilhioscina (bromuro de butilhioscina) y 250 mg de metamizol sódico.\n\nModo de uso:\nVía oral. Las grageas se toman enteras con un poco de líquido. La dosis y la duración del tratamiento las define el médico; no exceda la dosis indicada.\n\nPresentación:\nCaja con 10 grageas de 10 mg/250 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes ni en caso de obstrucción intestinal, insuficiencia renal grave, antecedentes de agranulocitosis o reacciones graves a otros analgésicos. Use con precaución en personas con enfermedades del hígado o del riñón. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biomesina",
+    "fabricante": "Biomep",
+    "linea": "Biomesina Compuesta",
+    "presentacion": "Caja con 10 grageas",
+    "contenido_neto": 10,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Butilhioscina / Metamizol sódico",
+    "concentracion": "10 mg / 250 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: gragea (el sistema la nombra como tabletas); Grupo terapéutico: antiespasmódico y analgésico"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501573900115_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7006918/7501573900115_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/biomesina-compuesta-butilhioscina-metamizol-10-250-mg-caja-c-10-grageas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 903
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/biomesina-compuesta-butilhioscina-metamizol-10-250-mg-caja-c-10-grageas/p",
+    "https://wecarepharma.mx/en/products/biomesina-compuesta-grageas-10-250mg-con-10-butilhioscina-metamizol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (10 grageas, 10 mg/250 mg). Las fichas de farmacia no coinciden sobre si requiere receta; se dejó 'Revisar'. El texto de contraindicaciones proviene de una sola ficha de tienda.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 976 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

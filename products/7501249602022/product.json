@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "PREVITA MOM C30 CAPS DHA EPA A FOLICO VIT D CALCIO HIERRO IFA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Previta Mom Suplemento Prenatal DHA EPA 30 Cápsulas",
+  "descripcion": "Descripción:\nPrevita Mom es un suplemento alimenticio en cápsulas con vitaminas y minerales, DHA y EPA, ácido fólico, vitamina D, calcio y hierro aminoquelado, elaborado por Investigación Farmacéutica (IFA). Se presenta en caja con 30 cápsulas de 1,155 mg cada una, para tomar una al día.\n\nBeneficios:\n- Suplemento alimenticio con DHA/EPA, ácido fólico, vitamina D, calcio y hierro\n- Con vitaminas del complejo B y minerales como magnesio y zinc\n- Hierro aminoquelado\n- Sin lactosa, gluten, soya, trigo ni levadura\n- Una cápsula al día\n\nComposición:\n- DHA 134 mg por cápsula\n- EPA 26.8 mg por cápsula\n- Ácido fólico 0.4 mg por cápsula\n- Vitamina D 0.01 mg por cápsula\n- Calcio 120 mg por cápsula\n- Hierro 14 mg por cápsula\n- Magnesio 60 mg por cápsula\n- Zinc 3.75 mg por cápsula\n- Vitamina E 12 mg por cápsula\n- Vitaminas B1, B2, B3, B5, B6 y B12\n\nModo de uso:\nTomar una cápsula una vez al día, de preferencia con alimentos.\n\nPresentación:\nCaja con 30 cápsulas de 1,155 mg cada una.\n\nAdvertencias:\nEste producto no es un medicamento. No apto para menores de edad. Consulte a su médico antes de consumirlo durante el embarazo o la lactancia. Consérvese en un lugar fresco y seco, protegido de la luz.",
+  "ficha": {
+    "marca": "Previta",
+    "fabricante": "Investigación Farmacéutica (IFA)",
+    "linea": "Mom",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "DHA, EPA, ácido fólico, vitamina D, calcio y hierro aminoquelado",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos (mujeres en embarazo y lactancia)",
+    "genero": "Mujer",
+    "otros": "Suplemento alimenticio; Peso por cápsula: 1,155 mg; Sin lactosa, gluten, soya, trigo ni levadura"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501249602022_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501249602022.png",
+      "pagina": "https://www.fahorro.com/previta-mom-suplemento-alimenticio-30-caps.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 830,
+      "fecha": "2026-09-29",
+      "lado_util": 769
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://medicamentosplm.com/Home/productos/previta_mom_c%C3%A1psulas/81/101/63604/14",
+    "https://www.fahorro.com/previta-mom-suplemento-alimenticio-30-caps.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición y modo de uso de la ficha PLM. La recomendación de consultar al médico durante el embarazo es una precaución general redactada por nosotros.",
+    "notas_imagenes": "1 foto de frente a la caja, origen tienda, 830 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

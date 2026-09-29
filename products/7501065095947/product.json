@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "CENTRUM SILVER 50MAS C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Centrum Silver +50 Multivitamínico 30 Tabletas",
+  "descripcion": "Descripción:\nCentrum Silver +50 es un multivitamínico y multimineral en tabletas para adultos mayores de 50 años. Está indicado para la deficiencia de los componentes de su fórmula y como auxiliar en la deficiencia de vitaminas, minerales y antioxidantes en estados de desgaste como cansancio, fatiga, baja concentración y retención mental, y para la salud visual.\n\nBeneficios:\n- Fórmula con vitaminas del complejo B, vitamina C, calcio, potasio y zinc\n- Contiene antioxidantes y minerales\n- Diseñado para las necesidades de personas de 50 años o más\n- Una tableta al día\n\nModo de uso:\nVía oral. Adultos: una tableta diaria con alguno de los alimentos. No exceda la dosis diaria recomendada.\n\nPresentación:\nFrasco con 30 tabletas.\n\nAdvertencias:\nNo lo use si es hipersensible a alguno de los componentes de la fórmula. Contiene hierro, que a dosis altas puede ser dañino para los niños. Si está tomando otro complemento, lea la etiqueta porque podría contener el mismo ingrediente. No se recomienda su uso pediátrico. En caso de embarazo o lactancia consulte a su médico. Puede causar malestar abdominal, estreñimiento, diarrea, náusea o malestar estomacal. Consérvese la caja bien cerrada a no más de 30 °C y protegida de la luz. Contiene un desecante no ingerible dentro del envase. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Centrum",
+    "fabricante": "PF Consumer Healthcare Canada ULC",
+    "linea": "Silver +50",
+    "presentacion": "Frasco con tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Vitaminas del complejo B; Vitamina C; Calcio; Potasio; Zinc; Antioxidantes",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos de 50 años o más",
+    "registro_sanitario": "004V2016 SSA",
+    "otros": "Una tableta diaria con alimentos; importado y distribuido por GlaxoSmithKline Consumer Healthcare México; contiene hierro"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065095947_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065095947_2.jpg",
+      "pagina": "https://www.fahorro.com/centrum-multivitaminico-silver-50-30-tabletas.html",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 949,
+      "fecha": "2026-09-29",
+      "lado_util": 879
+    },
+    {
+      "archivo": "7501065095947_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065095947_3.jpg",
+      "pagina": "https://www.fahorro.com/centrum-multivitaminico-silver-50-30-tabletas.html",
+      "ancho_original": 960,
+      "alto_original": 960,
+      "lado_final": 950,
+      "fecha": "2026-09-29",
+      "lado_util": 880
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/centrum-multivitaminico-silver-50-30-tabletas.html",
+    "https://www.chedraui.com.mx/tabletas-centrum-multivitaminico-silver-50-frasco-con-30-tabletas-3026220/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de dosis, advertencias y registro tomados de la foto de la etiqueta posterior. No se abrió la página de Centrum México con ficha del producto.",
+    "notas_imagenes": "2 fotos (tienda, cerca de 950 px): frente de la caja y etiqueta posterior con modo de uso. Se descartó una imagen con banners de texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

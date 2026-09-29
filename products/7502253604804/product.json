@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "BLOQ FOTOSUN UV 100 BLOQ FOTOSUN UV 100 50+ FPS MINIONS 14G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Protector Solar Fotosun UV 100 Minions FPS 50 Barra 14 g",
+  "descripcion": "Descripción:\nProtector solar facial en barra Fotosun UV 100 Solar Stick, edición Minions, de Daclaf. Ayuda a prevenir los daños que ocasionan los rayos UVA, UVB y la luz azul, que causan envejecimiento prematuro y engrosamiento de la piel. Su formato en barra es práctico para llevarlo en la mochila y reaplicarlo fácilmente.\n\nBeneficios:\n- Factor de protección solar 50 (protección alta) contra rayos UVA y UVB.\n- Protege también contra la luz azul.\n- Acabado invisible y toque seco.\n- Resistente al agua.\n- Para uso diario.\n- No probado en animales.\n\nIngredientes:\nDibutyl adipate, dicaprylyl carbonate, oryza sativa bran wax, euphorbia cerifera wax, cocoglycerides, bis-ethylhexyloxyphenol methoxyphenyl triazine, diethylamino hydroxybenzoyl hexyl benzoate, cetyl alcohol, butyrospermum parkii butter, ethylhexyl triazone, PEG-40 hydrogenated castor oil, silice, helianthus annuus seed oil, meadowfoam estolide, tocopheryl acetate, panthenol.\n\nModo de uso:\nAplique la cantidad suficiente de manera directa y uniforme sobre rostro, cuello y escote limpios, al menos 20 minutos antes de la exposición al sol. Reaplique como mínimo cada 2 horas o cuando sea necesario, sobre todo después de transpirar, bañarse o secarse.\n\nPresentación:\nBarra de 14 g.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con ojos, mucosas y heridas. Suspenda su uso si aparece irritación o salpullido. No permanezca expuesto al sol por tiempo prolongado aunque use protector solar. Este producto no ofrece protección al 100%. No se recomienda para niños ni personas con piel sensible al sol. Mantener fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Fotosun",
+    "fabricante": "Daclaf",
+    "linea": "UV 100",
+    "variante": "Minions Solar Stick",
+    "presentacion": "Barra",
+    "contenido_neto": 14,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "FPS: 50 (protección alta); Protección UVA, UVB y luz azul; Resistente al agua; Acabado invisible y toque seco; Uso facial y diario; No probado en animales; Edición Minions"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178702",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Protección Solar > Protectores y Bloqueadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,63 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502253604804_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7013907/7502253604804_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/fotosun-uv-100-protector-solar-minions-barra-50-fps-c-14-g/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "fecha": "2026-09-29",
+      "lado_util": 1092
+    },
+    {
+      "archivo": "7502253604804_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7013908/7502253604804_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/fotosun-uv-100-protector-solar-minions-barra-50-fps-c-14-g/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1180,
+      "fecha": "2026-09-29",
+      "lado_util": 1093
+    },
+    {
+      "archivo": "7502253604804_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7013909/7502253604804_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/fotosun-uv-100-protector-solar-minions-barra-50-fps-c-14-g/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1142,
+      "fecha": "2026-09-29",
+      "lado_util": 1058
+    },
+    {
+      "archivo": "7502253604804_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7013910/7502253604804_04.jpg",
+      "pagina": "https://www.farmatodo.com.mx/fotosun-uv-100-protector-solar-minions-barra-50-fps-c-14-g/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1144,
+      "fecha": "2026-09-29",
+      "lado_util": 1060
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/fotosun-uv-100-protector-solar-minions-barra-50-fps-c-14-g/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo (EAN 7502253604804, barra de 14 g). El nombre del sistema dice 50+ pero el empaque indica FPS 50; ingredientes, modo de uso y precauciones se tomaron del reverso del blíster en la foto de tienda.",
+    "notas_imagenes": "4 fotos de tienda (Farmatodo, 1200 px): blíster de frente, reverso del blíster con ingredientes, barra de frente con diseño Minions y barra con la otra cara.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

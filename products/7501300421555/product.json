@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "DALVEAR 120ML INF FRESA OCTUBRE 27 108",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dalvear Infantil Jarabe Fresa 150 mg/80 mg 120 ml",
+  "descripcion": "Descripción:\nDalvear Infantil es un jarabe sabor fresa con drotropizina y bromhexina, que actúa como antitusivo no narcótico con acción mucolítica y expectorante. Está indicado en el tratamiento de la tos de cualquier etiología, en faringitis, amigdalitis, laringitis y traqueítis agudas o crónicas, en enfermedades broncopulmonares agudas y crónicas, y en la tos irritativa con secreción anormal de moco.\n\nCaracterísticas:\n- Combina un antitusivo (drotropizina) con un mucolítico y expectorante (bromhexina).\n- Presentación infantil sabor fresa.\n- Incluye vaso, cuchara y/o pipeta dosificadora, según el empaque.\n\nFórmula:\nCada 100 ml de jarabe contienen drotropizina 150 mg y clorhidrato de bromhexina 80 mg.\n\nModo de uso:\nVía oral. Respete la dosis indicada en el instructivo del empaque o la que le señale su médico o pediatra.\n\nPresentación:\nCaja con frasco de 120 ml de jarabe sabor fresa, con vaso, cuchara y/o pipeta.\n\nAdvertencias:\nEste producto es de uso infantil y debe administrarse bajo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dalvear",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Infantil",
+    "variante": "Sabor fresa",
+    "presentacion": "Caja con frasco con vaso, cuchara y/o pipeta",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Drotropizina y bromhexina",
+    "concentracion": "150 mg / 80 mg por 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Infantil",
+    "sabor_aroma": "Fresa",
+    "otros": "Forma farmacéutica: jarabe; Antitusivo, mucolítico y expectorante"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300421555_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501300421555.jpg",
+      "pagina": "https://www.fahorro.com/dalvear-jarabe-fresa-infantil-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1494,
+      "fecha": "2026-09-29",
+      "lado_util": 1384
+    },
+    {
+      "archivo": "7501300421555_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw347af46a/images/large/7501300421555_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.fahorro.com/dalvear-jarabe-fresa-infantil-120-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 937,
+      "fecha": "2026-09-29",
+      "lado_util": 868
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/dalvear-infantil-fresa-150mg80mg-120ml/MXYZ_7501300421555.html",
+    "https://www.farmatodo.com.mx/dalvear-infantil-jarabe-fresa-150-80-mg-frasco-c-120-ml-v1/p",
+    "https://www.fahorro.com/dalvear-jarabe-fresa-infantil-120-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501300421555 corresponde a Dalvear Infantil (la versión SF es 7501300421579). No se confirmó si se vende con o sin receta; la dosis no aparece en fuentes.",
+    "notas_imagenes": "2 fotos de frente del empaque infantil (fahorro 1600 px y yza 1000 px). Se borró una foto de yza que correspondía a Dalvear Adulto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

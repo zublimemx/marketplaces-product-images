@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP CALCI-PROT 90ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Máxima Protección Anticaries 90 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Máxima Protección Anticaries con Calci-Protect (MFP), con flúor y rico sabor original, de Colgate-Palmolive. Ofrece una sensación de limpieza más profunda en toda la boca y ayuda a combatir los gérmenes que causan la caries. Es una opción para el cuidado diario de la salud bucal de toda la familia.\n\nBeneficios:\n- Protección anticaries con flúor para fortalecer los dientes.\n- Ayuda a combatir los gérmenes que causan la caries.\n- Ayuda a reducir la acumulación de gérmenes causantes de la placa que provoca el amarillamiento en los dientes.\n- Aliento fresco.\n- Rico sabor original a menta.\n\nModo de uso:\nAplique una porción de crema dental sobre el cepillo y cepille todos los dientes, después de cada comida o al menos dos veces al día. Enjuague la boca al terminar.\n\nPresentación:\nTubo de 90 ml.\n\nAdvertencias:\nUso externo bucal. No se ingiera. Mantener fuera del alcance de los niños; en niños pequeños use solo una cantidad mínima y supervise el cepillado.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "Calci-Protect (MFP)",
+    "presentacion": "Tubo",
+    "contenido_neto": 90,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Original (menta)",
+    "otros": "Con flúor; Protección anticaries; Aliento fresco; Formato de venta: tubo con caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546687353_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010826/7509546687353_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/colgate-pasta-dental-mfp-tubo-c-90-ml/p",
+      "ancho_original": 2048,
+      "alto_original": 2048,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7509546687353_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010827/7509546687353_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/colgate-pasta-dental-mfp-tubo-c-90-ml/p",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    },
+    {
+      "archivo": "7509546687353_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010828/7509546687353_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/colgate-pasta-dental-mfp-tubo-c-90-ml/p",
+      "ancho_original": 2048,
+      "alto_original": 2048,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/colgate-pasta-dental-mfp-tubo-c-90-ml/p",
+    "https://www.lagranbodega.com.mx/pasta-dental-colgate-90-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo (EAN 7509546687353, tubo 90 ml) y La Gran Bodega. El modo de uso y las advertencias son generales de cremas dentales con flúor, no leídos del empaque.",
+    "notas_imagenes": "3 fotos de tienda (Farmatodo, 2000 px): tubo Colgate Máxima Protección Anticaries con Calci-Protect de frente, caja en perspectiva y caja de frente. Se descartaron una foto duplicada y otra con un diseño de empaque distinto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

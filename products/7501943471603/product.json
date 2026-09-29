@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM DEPEND S/ALCOHOL C/42",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Depend sin Alcohol Extra Grandes 42 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Depend sin alcohol, de tamaño extra grande, para limpiar e hidratar suavemente la piel. Su tamaño facilita el cuidado y la higiene de personas que requieren asistencia. Vienen en paquete con tapa reutilizable para conservar la humedad.\n\nCaracterísticas:\n- Sin alcohol, sin fragancia y sin parabenos.\n- Hipoalergénicas, suaves e hidratantes; contienen glicerina.\n- Doble textura: un lado acolchado para mayor limpieza y otro liso para mayor suavidad.\n- Tamaño extra grande de 22.9 cm x 21.7 cm.\n- Paquete con 42 toallitas.\n\nModo de uso:\nRetire una toallita del paquete y utilícela para limpiar la zona deseada. Cierre bien la tapa después de cada uso para que las toallitas no pierdan humedad. El empaque incluye instrucciones ilustradas.\n\nPresentación:\nPaquete con 42 toallitas húmedas.\n\nAdvertencias:\nSolo para uso externo. Suspenda su uso si aparece irritación. No se tiren al inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Depend",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Toallas húmedas",
+    "variante": "Sin alcohol, extra grandes",
+    "presentacion": "Paquete con tapa",
+    "contenido_neto": 42,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "otros": "Tamaño: 22.9 x 21.7 cm; Sin alcohol, sin fragancia y sin parabenos; Hipoalergénicas; Doble textura; Con glicerina"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191653",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Toallas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501943471603_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501943471603.jpg",
+      "pagina": "https://www.fahorro.com/tas-hum-depend-42-bsa-1603.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1506,
+      "fecha": "2026-09-29",
+      "lado_util": 1395
+    }
+  ],
+  "url_oficial": "https://tiendadepend.mx/products/toallas-humedas-depend",
+  "fuentes": [
+    "https://tiendadepend.mx/products/toallas-humedas-depend",
+    "https://www.fahorro.com/tas-hum-depend-42-bsa-1603.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página oficial de Depend describe el producto con 42 piezas y tamaño extra grande; la advertencia de no tirarlas al inodoro es general.",
+    "notas_imagenes": "1 foto de tienda (fahorro, 1600 px) de frente del paquete de 42 toallitas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

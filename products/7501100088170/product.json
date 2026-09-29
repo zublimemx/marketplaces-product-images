@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "TYLENOL SUSP INF 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylenol Infantil Paracetamol Suspensión 3.2 g/100 ml 120 ml",
+  "descripcion": "Descripción:\nTylenol Infantil es una suspensión oral de paracetamol con sabor a cereza, para niños de 2 a 12 años. Es un auxiliar para el alivio de la fiebre y del dolor asociados con gripa, resfriado común, dolor de cabeza, dolor dental, dolor de garganta, dolor de oídos y reacciones posteriores a la vacunación. No irrita el estómago.\n\nCaracterísticas:\n- Principio activo: paracetamol (analgésico y antipirético).\n- Concentración: 3.2 g por cada 100 ml de suspensión.\n- Sabor cereza, agradable para los niños.\n- Incluye vaso dosificador para medir la dosis.\n- Frasco de 120 ml.\n\nComposición:\nCada 100 ml de suspensión contienen 3.2 g de paracetamol en un vehículo c.b.p.\n\nModo de uso:\nVía oral. Administre 10 a 15 mg de paracetamol por kilogramo de peso cada 4 a 6 horas, sin exceder 5 dosis en 24 horas. Agite bien el frasco antes de usarlo y mida la dosis con el dosificador que viene en el empaque.\n\nPresentación:\nCaja con frasco de 120 ml y vaso dosificador.\n\nAdvertencias:\nNo lo administre si el niño es alérgico al paracetamol. Consulte al médico si el niño tiene enfermedades del hígado o del riñón, o si la fiebre persiste por más de 72 horas. No exceda la dosis recomendada ni lo combine con otros medicamentos que contengan paracetamol. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylenol",
+    "fabricante": "Johnson & Johnson (Janssen-Cilag)",
+    "linea": "Tylenol Infantil",
+    "variante": "Sabor cereza",
+    "presentacion": "Frasco con 120 ml",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol",
+    "concentracion": "3.2 g/100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 12 años",
+    "sabor_aroma": "Cereza",
+    "registro_sanitario": "508M97 SSA VI",
+    "otros": "Forma farmacéutica: suspensión; Incluye vaso dosificador; Grupo terapéutico: analgésico y antipirético"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501100088170_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/177512-1200-auto?v=638556329183970000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/tylenol-sol-inf-120-ml/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 586,
+      "fecha": "2026-09-29",
+      "lado_util": 543
+    },
+    {
+      "archivo": "7501100088170_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/177511-1200-auto?v=638556329082770000&width=1200&height=auto&aspect=true",
+      "pagina": "https://www.klyns.mx/tylenol-sol-inf-120-ml/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 453
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/tylenol-infantil-suspension/84/101/44713/194",
+    "https://www.benavides.com.mx/tylenol-32-g-100-ml-paracetamol-120-ml-suspension",
+    "https://www.klyns.mx/tylenol-sol-inf-120-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación (120 ml, 3.2 g/100 ml) confirmados. El directorio de medicamentos menciona uso desde 0 años, pero el empaque y las farmacias indican niños de 2 a 12 años; se usó el empaque. El registro 508M97 SSA VI corresponde a venta libre.",
+    "notas_imagenes": "2 fotos de tienda (648 y 586 px): vista angular y vista frontal. Se descartaron las fotos de dos farmacias que traían una insignia de '100 ml' que no coincide con los 120 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

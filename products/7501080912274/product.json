@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "STERIMAR SPRAY BEBE 50 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solución Nasal Sterimar Bebé Agua de Mar Spray 50 ml",
+  "descripcion": "Descripción:\nSterimar Bebé es una solución isotónica de agua de mar 100% natural en spray de fina microdifusión, para la higiene y humectación nasal diaria del bebé de 0 a 3 años. Limpia y humecta los conductos nasales, ayuda a remover la mucosidad acumulada, facilita la toma del biberón o del seno materno y favorece una mejor respiración, lo que promueve un sueño tranquilo y una buena alimentación.\n\nCaracterísticas:\n- Boquilla pediátrica de seguridad con forma ergonómica que se adapta a la nariz del bebé\n- Solución de agua de mar 100% natural, isotónica\n- Alcanza hasta 150 atomizaciones\n- Refuerza la protección de la mucosa nasal sin irritarla\n- Empaque reciclable\n\nComposición:\nAgua de mar 15.91 ml y cantidad de halógenos expresados en cloruro de sodio 479.5 mg por cada 50 ml; agua purificada cbp 50 ml.\n\nModo de uso:\n1. Quite la tapa protectora.\n2. Realice uno o dos disparos al aire para iniciar la apertura de la válvula.\n3. Recueste al bebé de lado, o siéntelo con la cabeza ligeramente inclinada hacia un lado.\n4. Introduzca suavemente la boquilla en la fosa nasal y presione la base para aplicar.\n5. Repita el procedimiento en la otra fosa nasal.\n6. Después de cada aplicación, limpie la boquilla con agua y jabón.\nAplique de 2 a 4 veces al día en cada fosa nasal, o más si se requiere, o según las instrucciones de su médico.\n\nPresentación:\nFrasco con spray de 50 ml.\n\nAdvertencias:\nEvite el contacto con los ojos. No perfore ni incinere el envase. No lo exponga a los rayos solares ni lo almacene a una temperatura superior a 50 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sterimar",
+    "fabricante": "Church & Dwight",
+    "linea": "Bebé",
+    "variante": "Uso diario",
+    "presentacion": "Spray nasal",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Agua de mar",
+    "via_administracion": "Nasal",
+    "edad_etapa": "0 a 3 años",
+    "otros": "Solución isotónica 100% natural; boquilla pediátrica de seguridad; hasta 150 atomizaciones; venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501080912274_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501080912274_1_2.jpg",
+      "pagina": "https://www.fahorro.com/sterimar-bebe-agua-de-mar-uso-diario-50-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
+  "url_oficial": "https://www.sterimar.com.mx/producto/bebe-uso-diario",
+  "fuentes": [
+    "https://www.sterimar.com.mx/producto/bebe-uso-diario",
+    "https://www.fahorro.com/sterimar-bebe-agua-de-mar-uso-diario-50-ml.html",
+    "https://www.yza.mx/sterimar-bebe-50ml/MXYZ_7501080912274.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 1536 px). Se descartaron una imagen publicitaria con texto, una foto de bebé y una foto del frasco de baja resolución del sitio oficial.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

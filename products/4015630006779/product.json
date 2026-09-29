@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "ACCU CHEK SOFTCLIX C 200 LANCETAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lancetas Accu-Chek Softclix 200 Piezas",
+  "descripcion": "Descripción:\nLancetas Accu-Chek Softclix de Roche en caja con 200 piezas. Son lancetas para el automonitoreo de glucosa en sangre: se colocan en el dispositivo de punción Accu-Chek Softclix y permiten obtener la pequeña gota de sangre capilar que se necesita para medir la glucosa con un glucómetro.\n\nCaracterísticas:\n- Caja con 200 lancetas.\n- Diseñadas para usarse con el dispositivo de punción Accu-Chek Softclix.\n- Pensadas para pruebas de glucosa en sangre capilar, por ejemplo en personas que controlan su diabetes.\n- Cada lanceta es de un solo uso.\n\nModo de uso:\nColoque una lanceta nueva en el dispositivo Accu-Chek Softclix siguiendo el instructivo del dispositivo, realice la punción en un lado de la yema del dedo, obtenga la gota de sangre para la prueba y deseche la lanceta usada de forma segura.\n\nPresentación:\nCaja con 200 lancetas.\n\nAdvertencias:\n- Producto de un solo uso: no reutilice ni comparta las lancetas.\n- Deseche las lancetas usadas en un contenedor para objetos punzocortantes.\n- Siga las instrucciones del dispositivo y del glucómetro que utilice.\n- Mantenga el producto fuera del alcance de los niños y consulte a su médico sobre el control de su glucosa.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "linea": "Softclix",
+    "presentacion": "Caja con 200 lancetas",
+    "contenido_neto": 200,
+    "unidad_contenido": "lancetas",
+    "unidades_por_envase": 200,
+    "otros": "Uso: automonitoreo de glucosa en sangre capilar; Compatible con el dispositivo de punción Accu-Chek Softclix; Un solo uso; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4015630006779_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/4/0/4015630006779_1_1.jpg",
+      "pagina": "https://www.farmaciasespecializadas.com/accu-chek-softclix-lanceta-caj-c-200.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 990,
+      "fecha": "2026-09-29",
+      "lado_util": 917
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/tiras-reactivas-y-lancetas/693-comprar-accu-chek-softclix-lancetas-caja-con-200-piezas-precio-4015630006779.html",
+    "https://www.farmaciasespecializadas.com/accu-chek-softclix-lanceta-caj-c-200.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 4015630006779 confirmado en dos fichas de farmacia (Roche, 200 lancetas). Las fichas no traen calibre ni especificaciones; la descripción se limita a lo confirmado y al uso general de la lanceta. Categoría: no existe una hoja específica de lancetas en los catálogos; se usó Medidores de Glucosa, igual que en otras tiras reactivas del lote de datos.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda: Farmacias Especializadas 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

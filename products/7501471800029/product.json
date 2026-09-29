@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "KLONAZA 80/80/125MG C/20CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Klonaza 80 mg/80 mg/125 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nKlonaza, de Atlantis Pharma, es un medicamento en cápsulas que combina floroglucinol, trimetilfloroglucinol y clonixinato de lisina. Según las fichas comerciales, se emplea como antiespasmódico y analgésico para el manejo de espasmos y dolor de origen digestivo y abdominal, como el dolor de estómago, siempre bajo supervisión médica.\n\nComposición:\nCada cápsula contiene floroglucinol 80 mg, trimetilfloroglucinol 80 mg y clonixinato de lisina 125 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique el médico. Consulte las indicaciones en el instructivo del empaque.\n\nPresentación:\nCaja con 20 cápsulas de 80 mg/80 mg/125 mg.\n\nAdvertencias:\nMedicamento cuya venta puede requerir receta médica. No lo use si es alérgico a alguno de los componentes de la fórmula. Suspenda su uso y consulte a su médico si presenta molestias o reacciones adversas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Klonaza",
+    "fabricante": "Atlantis Pharma",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Floroglucinol; Trimetilfloroglucinol; Clonixinato de lisina",
+    "concentracion": "80 mg/80 mg/125 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Antiespasmódico y analgésico; caja con 20 cápsulas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM47286410"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501471800029_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/planogram__1__5743420d-0784-4978-ab98-9418d16c4daf.jpg?v=1732561413&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/klonaza-80-80-125-mg-con-20-capsulas",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/klonaza-80mg-80mg-125mg-con-20-capsulas-floroglucinol-trimetilfloroglucinol-clonixinato-de-lisina",
+    "https://farmaciaherrera.com.mx/products/klonaza-80-80-125-mg-con-20-capsulas",
+    "https://www.yza.mx/klonaza-80mg80mg125mg-20-caps/MXYZ_7501471800029.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se halló ficha oficial ni PLM; las indicaciones son las de fichas comerciales, por eso la descripción es breve. Una tienda dice que requiere receta y otra no lo indica: confirmar condición de venta. Otra tienda lista un código EAN distinto (7501188800701) para el mismo producto. Catálogo ML tomado de un resultado de búsqueda con el mismo nombre y presentación; no se pudo abrir.",
+    "notas_imagenes": "1 foto de frente a la caja (tienda, 2000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "MOTRIN GTS PED FSA-FRA GTS 150ML NOVIEMBRE 28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Motrin Pediátrico Ibuprofeno 40 mg/ml Fresa-Frambuesa 15 ml",
+  "descripcion": "Descripción:\nMotrin Pediátrico es una suspensión oral de ibuprofeno para bebés de 6 a 24 meses. Ayuda a recuperarse de la fiebre y del dolor por inflamación asociados a gripa, resfriado común, dolor de cabeza, dolor dental, dolor de garganta y dolor de oído. Tiene sabor fresa-frambuesa, no contiene alcohol e incluye pipeta dosificadora para dosis exactas.\n\nBeneficios:\n- Alivia desde los 15 minutos y hasta por 8 horas\n- Sabor fresa-frambuesa\n- Pipeta dosificadora para medir la dosis exacta\n- Sin alcohol\n\nComposición:\nIngrediente activo por cada 1 ml: ibuprofeno 40 mg.\n\nModo de uso:\nVía oral. Agítese antes de usarse. Quite la tapa del frasco, inserte la pipeta y llénela según el peso del niño; es preferible ajustar la dosis por peso y no por edad. Niños de 6 meses a 2 años: 1 toma cada 4 a 6 horas, sin exceder 4 dosis al día.\n- De 6 a 8 kg: 1.25 ml\n- De 8.1 a 10 kg: 1.75 ml\n- De 10.1 a 12 kg: 2.0 ml\n- De 12.1 a 15 kg: 2.5 ml\nNo lo administre por más de 5 días sin consultar al médico.\n\nPresentación:\nCaja con frasco de 15 ml y pipeta dosificadora.\n\nAdvertencias:\nNo se administre a menores de 6 meses. El ibuprofeno puede provocar reacciones alérgicas graves, sobre todo en personas alérgicas a otros antiinflamatorios no esteroideos (ácido acetilsalicílico, naproxeno, diclofenaco). Este producto contiene un antiinflamatorio no esteroideo que puede causar hemorragia estomacal. Si se presenta una reacción alérgica, suspenda su uso y busque atención médica de inmediato. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Motrin",
+    "fabricante": "Johnson & Johnson",
+    "linea": "Pediátrico",
+    "variante": "Gotas orales",
+    "presentacion": "Suspensión oral con pipeta dosificadora",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "40 mg/ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "6 a 24 meses",
+    "sabor_aroma": "Fresa-frambuesa",
+    "otros": "Sin alcohol; incluye pipeta dosificadora; venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007535487_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20250124_791733.jpg",
+      "pagina": "https://www.benavides.com.mx/motrin-pediatrico-40-mg1ml-ibuprofeno-suspension-15-ml",
+      "ancho_original": 520,
+      "alto_original": 520,
+      "lado_final": 561,
+      "fecha": "2026-09-29",
+      "lado_util": 415
+    },
+    {
+      "archivo": "7501007535487_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/txsayi32vr8v/7KMa4PtbkPbv9d5jouXZDy/ca28d3bf5e5cd31273029dff1d9821e3/packshot-motrin_pediatrico-980x980-v2-es-mx?fm=jpg&w=1600&q=90",
+      "pagina": "https://www.motrin.com.mx/productos/motrin-pediatrico",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 1010,
+      "fecha": "2026-09-29",
+      "lado_util": 932
+    }
+  ],
+  "url_oficial": "https://www.motrin.com.mx/productos/motrin-pediatrico",
+  "fuentes": [
+    "https://www.motrin.com.mx/productos/motrin-pediatrico",
+    "https://www.benavides.com.mx/motrin-pediatrico-40-mg1ml-ibuprofeno-suspension-15-ml",
+    "https://farmaciasanjorge.com/products/7068"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 150 ML, pero el GTIN corresponde a la presentación de 15 ml (gotas fresa-frambuesa), confirmada en el sitio oficial y en dos tiendas; se toma como error de captura del nombre. Verificar contra el producto físico.",
+    "notas_imagenes": "2 fotos de frente al empaque: una de tienda (561 px) y el packshot oficial (1010 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "XARELTO 15MG C 28 COMP MARZO 27 RIVAROXABAN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Xarelto Rivaroxabán 15 mg 28 Comprimidos",
+  "descripcion": "Descripción:\nXarelto es un anticoagulante oral de Bayer cuyo principio activo es el rivaroxabán. Esta presentación contiene 28 comprimidos de 15 mg y se utiliza bajo prescripción y vigilancia médica para prevenir y tratar problemas de coagulación de la sangre.\n\nIndicaciones:\n- Prevención de accidente cerebrovascular y de embolia en pacientes con fibrilación auricular no valvular.\n- Tratamiento y prevención de la recurrencia de trombosis venosa profunda y embolia pulmonar.\nLa indicación y la dosis exactas las define el médico.\n\nFórmula:\nCada comprimido contiene rivaroxabán 15 mg, con excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. Tome los comprimidos exactamente como los indique su médico y no suspenda el tratamiento sin consultarlo.\n\nPresentación:\nCaja con 28 comprimidos de 15 mg.\n\nAdvertencias:\n- No lo use si tiene hemorragia activa o es alérgico al rivaroxabán o a algún componente.\n- Aumenta el riesgo de sangrado; informe a su médico si tiene enfermedad del hígado o riesgo elevado de hemorragia.\n- Conservar en ambiente controlado de 15 a 30 °C.\n- Su venta requiere receta médica.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Xarelto",
+    "fabricante": "Bayer",
+    "presentacion": "Caja con 28 comprimidos",
+    "contenido_neto": 28,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 28,
+    "principio_activo": "Rivaroxabán",
+    "concentracion": "15 mg por comprimido",
+    "via_administracion": "Oral",
+    "registro_sanitario": "357M2008 SSA IV",
+    "otros": "Anticoagulante oral; ATC B01AF01; Formato de venta: caja con 28 comprimidos"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318608191_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw653c6b63/images/large/7501318608191_1.jpg",
+      "pagina": "https://www.yza.mx/xarelto-15mg-28-comp/MXYZ_7501318608191.html",
+      "ancho_original": 993,
+      "alto_original": 1000,
+      "lado_final": 522,
+      "fecha": "2026-09-29",
+      "lado_util": 484
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/12227-xarelto-15-mg-rivaroxaban-28-comprimidos-bayer-rx-7501318608191.html",
+    "https://www.benavides.com.mx/xarelto-15-mg-rivaroxaban-28-comprimidos",
+    "https://www.fahorro.com/xarelto-15-mg-oral-28-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (URL de farmacia con 7501318608191, Bayer, 28 comprimidos de 15 mg). El nombre del sistema trae 'MARZO 27' (caducidad), ignorada. Una farmacia lo lista con 'receta no obligatoria', pero es un anticoagulante y otra ficha indica que requiere receta; se marca Sí. Las indicaciones son las de la información general del producto para la dosis de 15 mg; verificar contra el instructivo.",
+    "notas_imagenes": "1 foto de frente (tienda, 522 px, resolución baja) de la caja Xarelto 15 mg, 28 comprimidos. Se descartó otra copia idéntica más borrosa y una foto de 1600 px con banner de texto añadido.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

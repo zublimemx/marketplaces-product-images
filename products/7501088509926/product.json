@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "GOTINAL AD 15ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gotinal Adulto Nafazolina 1 mg/ml Spray Nasal 15 ml",
+  "descripcion": "Descripción:\nGotinal Adulto es una solución nasal en atomizador con clorhidrato de nafazolina 1 mg/ml, indicada como auxiliar para el alivio local de la congestión nasal. Se presenta en un frasco atomizador de 15 ml para aplicación por vía nasal.\n\nCaracterísticas:\n- Auxiliar para el alivio local de la congestión nasal.\n- Solución con nafazolina 1 mg/ml.\n- Frasco con atomizador de 15 ml.\n- Versión para adultos.\n\nFórmula:\nCada ml contiene clorhidrato de nafazolina 1 mg y vehículo cbp 1 ml.\n\nModo de uso:\nVía nasal. Respete la dosis indicada en el instructivo del empaque o la que le señale su médico.\n\nPresentación:\nCaja con frasco atomizador con 15 ml.\n\nAdvertencias:\nSu uso durante el embarazo y la lactancia queda bajo la responsabilidad del médico. Consérvese a no más de 25 °C. Reporte las sospechas de reacción adversa a los canales de farmacovigilancia indicados en el empaque. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Gotinal",
+    "fabricante": "Chinoin (Productos Farmacéuticos, S.A. de C.V.)",
+    "linea": "Adulto",
+    "variante": "Solución nasal en atomizador",
+    "presentacion": "Frasco atomizador",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Nafazolina (clorhidrato)",
+    "concentracion": "1 mg/ml",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Adultos",
+    "otros": "Solución nasal; Conservar a no más de 25 °C; Venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088509926_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088509926_3.jpg",
+      "pagina": "https://www.fahorro.com/gotinal-adulto-spray-15-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1263,
+      "fecha": "2026-09-29",
+      "lado_util": 1170
+    },
+    {
+      "archivo": "7501088509926_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwff9fba3f/images/large/7501088509926_1.jpg",
+      "pagina": "https://www.fahorro.com/gotinal-adulto-spray-15-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 679,
+      "fecha": "2026-09-29",
+      "lado_util": 629
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/gotinal-adulto-solucion-15ml-/MXYZ_7501088509926.html",
+    "https://www.farmaciasguadalajara.com/medicina/vias-respiratorias/gotinal-solucion-adulto-1mg-ml-atomizador--15-ml.-908436.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "2 fotos de tienda de frente del empaque (fahorro 1600 px y yza 1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

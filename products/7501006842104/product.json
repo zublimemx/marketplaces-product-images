@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "POM LAB GOLBA SURTEXH TB60",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pomada Labial Golba Surtido Exhibidor 60 Tubos 2.5 g",
+  "descripcion": "Descripción:\nExhibidor tipo frasco con 60 protectores labiales Golba surtidos, de 2.5 g cada uno. Los protectores Golba humectan, reparan y protegen los labios y ayudan a prevenir la resequedad ocasionada por el sol, el viento y el frío. Presentación pensada para comercios que ofrecen protectores labiales al detalle, con variedad de colores.\n\nCaracterísticas:\n- Protector para labios en tubo de 2.5 g\n- Con cera de abeja\n- Colores surtidos\n- Exhibidor con 60 piezas listo para colocar en mostrador\n\nPresentación:\nFrasco exhibidor con 60 tubos de 2.5 g (150 g de producto en total).",
+  "ficha": {
+    "marca": "Golba",
+    "linea": "Protector para labios",
+    "variante": "Surtido",
+    "presentacion": "Exhibidor con 60 tubos",
+    "contenido_neto": 2.5,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 60,
+    "otros": "Formato de venta: frasco exhibidor con 60 pomadas labiales de 2.5 g; colores surtidos; con cera de abeja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM172339",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Bálsamos Labiales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501006842104_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/912hBLLfMiL._AC_SL1500_.jpg",
+      "pagina": "https://www.amazon.com.mx/Golba-Protector-Labial-Exhibidor-unidades/dp/B06ZZR4TJT",
+      "ancho_original": 1148,
+      "alto_original": 1500,
+      "lado_final": 1616,
+      "fecha": "2026-09-29",
+      "lado_util": 1497
+    },
+    {
+      "archivo": "7501006842104_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/81kxonqzatL._AC_SL1500_.jpg",
+      "pagina": "https://www.amazon.com.mx/Golba-Protector-Labial-Exhibidor-unidades/dp/B06ZZR4TJT",
+      "ancho_original": 533,
+      "alto_original": 1500,
+      "lado_final": 1617,
+      "fecha": "2026-09-29",
+      "lado_util": 1498
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmasuper.com.mx/en/shop/7501006842104-pomada-p-labios-golba-c-60-68362",
+    "https://www.amazon.com.mx/Golba-Protector-Labial-Exhibidor-unidades/dp/B06ZZR4TJT",
+    "https://www.fahorro.com/protec-lab-surtido-120x1golba-tubo.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Es presentación de exhibidor con 60 piezas (TB60). Los colores y aromas surtidos no se pudieron detallar; la descripción de beneficios viene de fichas de la misma marca.",
+    "notas_imagenes": "2 fotos del frasco exhibidor con los tubos (tienda, de más de 1,600 px). La imagen de la tienda origen del GTIN era un 'sin imagen' y se descartó.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

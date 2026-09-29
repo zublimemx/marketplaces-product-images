@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "VICK 44 AD EX MIEL 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vick 44 Exp Jarabe Expectorante Sabor Miel 120 ml",
+  "descripcion": "Descripción:\nVick 44 Exp Miel es un jarabe expectorante con sabor a miel de abeja, mentol y eucalipto, indicado para aliviar la tos con flemas y la irritación de garganta. Su principio activo es la guaifenesina, que ayuda a eliminar las flemas. Incorpora tecnología mucoadherente que recubre la garganta.\n\nBeneficios:\n- Alivia la tos.\n- Ayuda a eliminar las flemas.\n- Alivia la garganta irritada.\n- Sabor miel de abeja, mentol y eucalipto.\n\nComposición:\nGuaifenesina como principio activo, en jarabe sabor miel de abeja, mentol y eucalipto.\n\nModo de uso:\nVía oral. Respete la dosis indicada en el instructivo del empaque o la que le señale su médico.\n\nPresentación:\nFrasco con 120 ml de jarabe sabor miel.\n\nAdvertencias:\nConservar en un lugar a temperatura ambiente controlada, entre 15 y 30 °C. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "44 Exp",
+    "variante": "Miel",
+    "presentacion": "Frasco de jarabe",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Guaifenesina",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Miel de abeja, mentol y eucalipto",
+    "registro_sanitario": "36968 SSA VI",
+    "otros": "Jarabe expectorante; Tecnología mucoadherente; Conservar entre 15 y 30 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7590002037157_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7590002037157_1.jpg",
+      "pagina": "https://www.fahorro.com/vick-44-jarabe-expectorante-miel-120-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1466,
+      "fecha": "2026-09-29",
+      "lado_util": 1356
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/vick-44-jarabe-expectorante-miel-120-ml.html",
+    "https://www.farmalisto.com.mx/expectorante/8929-vick-miel-44-expec-jbe-120-ml-7590002037157-7590002037157.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró la concentración de guaifenesina ni la dosis en fuentes; se remite al empaque. \"AD\" del nombre del sistema se interpretó como adulto.",
+    "notas_imagenes": "1 foto de tienda (fahorro, 1600 px) de frente del frasco, sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

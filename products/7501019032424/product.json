@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES SABA COMPACTOS SUPER C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Saba V-Compact Súper con Aplicador 10 Piezas",
+  "descripcion": "Descripción:\nTampones Saba V-Compact Súper con aplicador compacto de plástico, para días de flujo abundante. Cada caja contiene 10 tampones de absorbencia súper, diseñados para brindar una protección cómoda y ginecológicamente probada.\n\nCaracterísticas:\n- Absorbencia Súper para flujo abundante.\n- Aplicador compacto de plástico, fácil de llevar y de usar.\n- Tecnología de absorción inteligente.\n- Protección cómoda.\n- Ginecológicamente probados.\n\nModo de uso:\nSiga las instrucciones ilustradas que vienen dentro de la caja para insertar y retirar el tampón con su aplicador.\n\nPresentación:\nCaja con 10 tampones con aplicador compacto.\n\nAdvertencias:\nLea el instructivo y las advertencias impresas en la caja antes de usar. Consulte a su médico ante cualquier duda o molestia. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Saba",
+    "linea": "V-Compact",
+    "variante": "Súper (flujo abundante)",
+    "presentacion": "Caja con aplicador compacto de plástico",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "otros": "Absorbencia: Súper; Aplicador compacto de plástico; Ginecológicamente probados; Tecnología de absorción inteligente"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019032424_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501019032424-1.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/395/tampones-compactos-super-10-piezas-saba",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1394,
+      "fecha": "2026-09-29",
+      "lado_util": 1291
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.gt/tampones-saba-compactos-super-10-unidades/p",
+    "https://www.chedraui.com.mx/tampones-saba-super-con-aplicador-compacto-10-tampones-3004897/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las características se tomaron del texto visible en la caja; las páginas de tienda casi no traen descripción.",
+    "notas_imagenes": "1 foto de tienda (delsol/cloudfront, 1500 px) de frente de la caja con la leyenda con 10. Se descartó otra toma sin la cantidad.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

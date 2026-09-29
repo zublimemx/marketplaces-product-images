@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "NEXT-FWD ANTIVIRAL 375/50/3MG C/24TAB SELSER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Next-FWD Antiviral 375/50/3 mg 24 Tabletas",
+  "descripcion": "Descripción:\nNext-FWD Antiviral es un medicamento en tabletas con sensación de frescura (mentol) que combina paracetamol, amantadina y maleato de clorfenamina. Está indicado en el tratamiento de la gripe: actúa contra el virus causante de la misma y, a la vez, proporciona alivio sintomático de la fiebre, el dolor muscular y la congestión nasal. En el empaque se indica que alivia desde la primera toma, a partir de 15 minutos y hasta por 12 horas.\n\nCaracterísticas:\n- Combina un analgésico y antipirético, un antiviral y un antihistamínico en una sola tableta.\n- Alivia síntomas como escurrimiento nasal, dolor de cabeza, estornudos y malestar general.\n- Tableta con sensación de frescura.\n\nComposición:\nCada tableta contiene paracetamol 375 mg, clorhidrato de amantadina 50 mg y maleato de clorfenamina 3 mg.\n\nModo de uso:\nVía oral. Se recomienda iniciar el tratamiento dentro de las primeras 48 horas de haber comenzado los síntomas. Respete la dosis indicada en el instructivo del empaque o la que le señale su médico.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo se administre a menores de 3 años ni durante el embarazo o la lactancia. No lo use si tiene antecedentes de convulsiones, epilepsia, depresión, insuficiencia hepática o renal, glaucoma o hiperplasia prostática. El paracetamol puede dañar el hígado si se excede la dosis máxima, y el alcohol aumenta ese riesgo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Next-FWD",
+    "fabricante": "Genomma Lab Internacional",
+    "linea": "Antiviral",
+    "variante": "Sensación de frescura",
+    "presentacion": "Caja con 24 tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol, amantadina y clorfenamina",
+    "concentracion": "375 mg / 50 mg / 3 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "013M2024 SSA",
+    "otros": "Forma farmacéutica: tableta; Indicación: gripe"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240065293_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240065293.jpg",
+      "pagina": "https://www.fahorro.com/next-fwd-antiviral-24-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1412,
+      "fecha": "2026-09-29",
+      "lado_util": 1308
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1551949/next-fwd-tableta-375-mg-50-mg-3-mg",
+    "https://www.fahorro.com/next-fwd-antiviral-24-tabs.html",
+    "https://www.benavides.com.mx/next-fwd-375-50-3-mg-paracetamol-amantadina-clorferamina-24-tabs"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La amantadina normalmente requiere receta en México, pero las farmacias venden este producto sin receta obligatoria; verificar el estatus de venta antes de publicar.",
+    "notas_imagenes": "1 foto de frente del empaque (fahorro, 1600 px). Se descartó una segunda foto de Benavides por ser duplicado de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

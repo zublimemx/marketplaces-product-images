@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "BRAXAN 200MG CPR C20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Braxan Amiodarona 200 mg 20 Tabletas",
+  "descripcion": "Descripción:\nBraxan es un medicamento antiarrítmico de Laboratorios Armstrong cuyo principio activo es el clorhidrato de amiodarona. Se presenta en tabletas de 200 mg, en caja con 20 tabletas, para administración por vía oral bajo indicación y vigilancia médica.\n\nBeneficios:\n- Antiarrítmico del grupo de los medicamentos cardiovasculares\n- Utilizado en el manejo de arritmias, como la taquicardia\n- Tabletas de 200 mg\n- Caja con 20 tabletas\n\nComposición:\nCada tableta contiene clorhidrato de amiodarona 200 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser determinadas por el médico, quien vigilará su respuesta al medicamento.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. Es un medicamento que requiere seguimiento médico periódico; no modifique ni suspenda la dosis sin consultar a su médico. No lo use si es alérgico a la amiodarona o al yodo. Conserve el medicamento a temperatura ambiente controlada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Braxan",
+    "fabricante": "Armstrong",
+    "presentacion": "Caja con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Amiodarona (clorhidrato)",
+    "concentracion": "200 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "307M81 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Código ATC: C01BD01; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089802071_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4ff5ac37/images/large/7501089802071_1.jpg",
+      "pagina": "https://www.yza.mx/braxan-200mg-20-comp/MXYZ_7501089802071.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/presion-arterial/3389-braxan-200-mg-caja-con-20-tabletas-7501089802071.html",
+    "https://www.yza.mx/braxan-200mg-20-comp/MXYZ_7501089802071.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de tienda no trae dosis, contraindicaciones ni advertencias; el modo de uso y las advertencias se redactaron de forma general para un antiarrítmico.",
+    "notas_imagenes": "1 foto de frente a la caja (Braxan amiodarona 200 mg, 20 tabletas), origen tienda, 974 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "DRAMAMINE JBE 250MG 42",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dramamine Infantil Jarabe 250 mg/100 ml 120 ml",
+  "descripcion": "Descripción:\nDramamine Infantil en jarabe es un medicamento cuyo ingrediente activo es el dimenhidrinato (250 mg por cada 100 ml). Ayuda a prevenir y aliviar la náusea, el mareo y el vómito asociados al movimiento.\n\nIndicaciones:\n- Prevención y tratamiento de náusea, mareo y vómito asociados con el movimiento.\n\nFórmula:\nCada 100 ml de jarabe contienen dimenhidrinato 250 mg, con vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. Administre la primera dosis de una hora a hora y media antes de iniciar el viaje.\n- Niños de 6 a 12 años: 10 a 20 ml cada 6 a 8 horas, sin exceder 60 ml en 24 horas.\n- Niños de 2 a 6 años: 5 a 10 ml cada 6 a 8 horas, sin exceder 30 ml en 24 horas.\n\nPresentación:\nCaja con un frasco de 120 ml y vaso dosificador.\n\nAdvertencias:\n- No se administre a menores de 2 años, salvo indicación médica.\n- No lo use si es alérgico al dimenhidrinato o a algún componente de la fórmula, ni si tiene asma.\n- Úselo con precaución si hay glaucoma, hiperplasia prostática, úlcera péptica o arritmias cardiacas.\n- Evite el alcohol y los sedantes durante el tratamiento, porque pueden aumentar la somnolencia.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dramamine",
+    "fabricante": "Kenvue",
+    "variante": "Infantil jarabe",
+    "presentacion": "Caja con frasco de 120 ml y vaso dosificador",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dimenhidrinato",
+    "concentracion": "250 mg/100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 12 años",
+    "registro_sanitario": "51373 SSA VI",
+    "otros": "Antiemético y antimareo; Incluye vaso dosificador; Formato de venta: caja con 1 frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007532349_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/za5qny03n4xo/4mKB35wgvdlkdNXDQsMnqq/21dbaf9cf7e43fc9865f261ef91afede/DRAMAMINE_INFANTIL_JARABE.png",
+      "pagina": "https://www.kenvuebrands.com/mx/dramamine/dramaminer-jarabe",
+      "ancho_original": 447,
+      "alto_original": 800,
+      "lado_final": 749,
+      "fecha": "2026-09-29",
+      "lado_util": 694
+    },
+    {
+      "archivo": "7501007532349_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501007532349_1.jpg",
+      "pagina": "https://www.yza.mx/dramamine-jarabe-infan-250mg100ml-120ml/MXYZ_7501007532349.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1288,
+      "fecha": "2026-09-29",
+      "lado_util": 1193
+    }
+  ],
+  "url_oficial": "https://www.kenvuebrands.com/mx/dramamine/dramaminer-jarabe",
+  "fuentes": [
+    "https://www.kenvuebrands.com/mx/dramamine/dramaminer-jarabe",
+    "https://medicamentosplm.com/home/productos/dramamine-jarabe/2502/101/57674/94",
+    "https://www.yza.mx/dramamine-jarabe-infan-250mg100ml-120ml/MXYZ_7501007532349.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (Dramamine jarabe infantil 250 mg/100 ml, 120 ml). El '42' del nombre del sistema no corresponde a un dato de la presentación. Registro sanitario tomado de la página oficial de Kenvue; la ficha PLM lista como laboratorio a Janssen-Cilag de México (titular anterior).",
+    "notas_imagenes": "2 fotos: frente (fabricante, 749 px, original de 447x800) y contraetiqueta de la caja (tienda, 1288 px). Se descartó una foto de un diseño de caja anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

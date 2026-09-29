@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "NYQUIL Z 25MG 30CAPS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "NyQuil Z Difenhidramina 25 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nNyQuil Z es un auxiliar en el insomnio ocasional en cápsulas, cuyo principio activo es la difenhidramina. Cada cápsula contiene 25 mg y la caja incluye 30 cápsulas. Es un producto de Procter & Gamble.\n\nCaracterísticas:\n- Principio activo: difenhidramina.\n- Concentración: 25 mg por cápsula.\n- Auxiliar en el insomnio ocasional.\n- Presentación de 30 cápsulas.\n\nComposición:\nCada cápsula contiene 25 mg de difenhidramina.\n\nModo de uso:\nVía oral. Tome las cápsulas enteras con un poco de agua, poco antes de acostarse, en la dosis que indica el empaque. No lo use por más tiempo del indicado; si el insomnio persiste, consulte a su médico.\n\nPresentación:\nCaja con 30 cápsulas de 25 mg.\n\nAdvertencias:\nPuede causar somnolencia: no conduzca ni maneje maquinaria durante las horas de sueño ni después de tomarlo, y evite el consumo de alcohol. No lo use si es alérgico a la difenhidramina, ni en caso de glaucoma de ángulo cerrado o retención urinaria. No se recomienda en menores de 12 años sin supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "NyQuil",
+    "fabricante": "Procter & Gamble",
+    "linea": "NyQuil Z",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Difenhidramina",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsula; Uso: auxiliar en el insomnio ocasional; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435145497_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435145497.jpg",
+      "pagina": "https://www.fahorro.com/nyquilz-30-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1541,
+      "fecha": "2026-09-29",
+      "lado_util": 1427
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nyquilz-30-capsulas.html",
+    "https://farmaciasmedina.com/detalleProducto/Nyquilz-Auxiliar-En-El-Insomnio/7500435145497"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados; el empaque indica difenhidramina 25 mg y 'Auxiliar en el insomnio ocasional'. Una ficha de tienda lo describe como antigripal, lo cual no coincide con el empaque y se descartó. La dosis exacta no aparece en las fichas; se remite al empaque.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 1541 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

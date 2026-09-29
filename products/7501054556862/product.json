@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA CORP NIVEAMILK 400ML+CRA100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Nivea Milk 400 ml + Crema 100 ml",
+  "descripcion": "Descripción:\nPaquete de crema corporal Nivea Milk con un envase de 400 ml y un envase adicional de 100 ml, de Beiersdorf. La línea Nivea Body Milk está pensada para hidratar el cuerpo con una textura cremosa de rápida absorción que deja la piel suave. El envase de 100 ml es práctico para llevarlo en el bolso o de viaje.\n\nBeneficios:\n- Humectación profunda: la línea Nivea Body Milk Nutritiva indica hasta 72 horas de humectación.\n- Con aceite de almendras, vitamina E, ácido hialurónico y glicerina en la variante Nutritiva.\n- Ayuda a dar suavidad inmediata y una piel visiblemente más saludable y radiante.\n- Ayuda a proteger contra la sequedad de la piel.\n\nPresentación:\nPaquete con 2 envases: crema corporal de 400 ml y crema de 100 ml (500 ml en total).\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Si observa alguna reacción desfavorable, suspenda su uso. No lo use en menores de 6 meses. Este producto no es un protector solar. Mantener fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Body Milk",
+    "variante": "Milk, paquete 400 ml + 100 ml",
+    "presentacion": "Paquete con 2 envases",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 2,
+    "otros": "Contenido: crema corporal 400 ml + crema 100 ml; Variante exacta (Body Milk Nutritiva o Soft Milk) por confirmar en el empaque; Uso corporal externo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -20,13 +30,17 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "url_oficial": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "nombre",
+    "notas": "No se encontró ninguna ficha con el GTIN 7501054556862 del paquete 400 ml + 100 ml. Se interpretó por el nombre 'Niveamilk'; los datos de beneficios e ingredientes son de la página oficial de Nivea Body Milk Nutritiva 400 ml y la variante exacta (Nutritiva o Soft Milk) debe verificarse en el empaque.",
+    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado 400 ml + 100 ml; las de un solo envase no representan el producto vendido.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

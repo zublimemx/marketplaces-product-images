@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "PROTEC LIMA-LIMON 1LT 1 PZA GEL ANTIBACTERIAL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gel Antibacterial Protec Lima Limón 1 l",
+  "descripcion": "Descripción:\nGel antiséptico transparente para manos Protec con aroma lima limón, en presentación de 1 litro con dosificador. Está formulado a base de alcohol etílico al 75% y adicionado con humectantes y emolientes. No requiere enjuague y se utiliza para sanitizar y desinfectar las manos.\n\nBeneficios:\n- Elimina el 99.9% de los gérmenes al instante, según el empaque.\n- Fórmula con alcohol etílico al 75%.\n- Adicionado con humectantes y emolientes para cuidar la piel de las manos.\n- Hipoalergénico.\n- No requiere enjuague.\n- Aroma lima limón.\n\nModo de uso:\nAplique una cantidad suficiente de gel en las palmas de las manos y frote hasta cubrir toda la superficie, incluidos dedos y uñas, hasta que se seque. No requiere enjuague.\n\nPresentación:\nFrasco de 1 litro con válvula dosificadora.\n\nAdvertencias:\nSolo para uso externo. Producto inflamable: manténgase alejado del fuego y de fuentes de calor. Evite el contacto con los ojos y no lo ingiera. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Protec",
+    "linea": "Gel antiséptico",
+    "variante": "Lima Limón",
+    "presentacion": "Frasco con dosificador",
+    "contenido_neto": 1,
+    "unidad_contenido": "l",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Lima limón",
+    "otros": "Alcohol etílico al 75%; Con humectantes y emolientes; Hipoalergénico; No requiere enjuague; Elimina el 99.9% de los gérmenes"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194457",
+      "categoria_ruta": "Belleza y Cuidado Personal > Farmacia > Geles Antibacteriales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501048351077_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77957940/7501048351077_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/gel-antiseptico-protec-lima-limon-1l-3708307/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1190,
+      "fecha": "2026-09-29",
+      "lado_util": 1102
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/gel-antiseptico-protec-lima-limon-1l-3708307/p",
+    "https://www.bodegamesones.mx/products/protec-gel-antibacterial-1-lt-51077"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN aparece como EAN en la ficha de la tienda de origen. El modo de uso y las advertencias son generales para geles con alcohol.",
+    "notas_imagenes": "1 foto de tienda (Chedraui, 1200 px) de frente del frasco. Se descartó una foto de otra tienda con marca de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

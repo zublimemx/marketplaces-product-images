@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "TING CREMA 72 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ting Crema Antimicótico para Pie de Atleta 72 g",
+  "descripcion": "Descripción:\nTing crema es un antimicótico de uso tópico, de Sanfer, indicado para el tratamiento del pie de atleta (tinea pedis) y de tiñas superficiales. Ayuda a eliminar la comezón, el ardor, la descamación, la sudoración y el mal olor causados por la infección por hongos en los pies.\n\nBeneficios:\n- Antimicótico para pie de atleta y tiñas superficiales\n- Ayuda a controlar la sudoración, el mal olor, la comezón, el ardor y la descamación\n- Presentación en crema de fácil aplicación\n- Tubo de 72 g\n\nFórmula:\nÁcido undecilénico, undecilenato de zinc y triclosán. Cada 100 g de crema contienen ácido undecilénico 3.780 g y triclosán 0.100 g; excipiente cbp 100 g.\n\nModo de uso:\nVía cutánea. Lave y seque bien los pies y aplique la crema en la zona afectada y entre los dedos, de preferencia por la noche; también puede aplicarse por la mañana. Siga la duración del tratamiento indicada en el empaque o por su médico.\n\nPresentación:\nCaja con tubo de 72 g de crema.\n\nAdvertencias:\nEvite el contacto con los ojos y mucosas. No se use en menores de 2 años. No aplique sobre heridas abiertas. Su uso durante el embarazo y la lactancia queda bajo responsabilidad del médico. Si las molestias persisten, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ting",
+    "fabricante": "Sanfer",
+    "linea": "Crema",
+    "presentacion": "Crema en tubo",
+    "contenido_neto": 72,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido undecilénico; Undecilenato de zinc; Triclosán",
+    "concentracion": "Ácido undecilénico 3.780 g y triclosán 0.100 g por cada 100 g",
+    "via_administracion": "Tópica",
+    "otros": "Caja con tubo de 72 g; no usar en menores de 2 años; venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501072300157_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501072300157_2_1.jpg",
+      "pagina": "https://www.fahorro.com/ting-crema-72-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1409,
+      "fecha": "2026-09-29",
+      "lado_util": 1305
+    },
+    {
+      "archivo": "7501072300157_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501072300157_3_1.jpg",
+      "pagina": "https://www.fahorro.com/ting-crema-72-g.html",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 562,
+      "fecha": "2026-09-29",
+      "lado_util": 521
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ting-crema-72-g.html",
+    "https://www.heb.com.mx/hormona-antimicotico-ting-crema-72-gr-29163/p",
+    "https://www.chedraui.com.mx/crema-ting-antimicotico-para-pie-de-atleta-tubo-con-72g-3039838/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las cantidades por 100 g provienen de una sola ficha de tienda; el empaque menciona además undecilenato de zinc sin cantidad visible.",
+    "notas_imagenes": "2 fotos (tienda): caja de frente y tubo, de más de 1,400 px y 560 px. Se descartó la foto del panel posterior de la caja por ser solo texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

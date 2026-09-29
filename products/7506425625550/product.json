@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES KOTEX UNIK SUPER C/12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Kotex Unika Súper Flujo Abundante 12 Piezas",
+  "descripcion": "Descripción:\nTampones digitales Kotex Unika Súper, sin aplicador, para flujo abundante. Incorporan la tecnología Blue Protection, una barrera protectora de fibras superabsorbentes que ayuda a mantener la seguridad y la comodidad durante el día. Son de Kimberly-Clark.\n\nCaracterísticas:\n- Tecnología Blue Protection con barrera protectora de fibras superabsorbentes.\n- Curvas anatómicas y cubierta suave que se adaptan al cuerpo para una inserción fácil.\n- Doble cordón para mayor tranquilidad al retirarlo.\n- Absorbencia Súper para flujo abundante: de 9 a 12 gramos absorbidos, según la escala del empaque.\n- Sin aplicador plástico, lo que genera menos residuos.\n- Formato digital: se inserta con el dedo.\n\nPresentación:\nCaja con 12 tampones Kotex Unika Súper.\n\nAdvertencias:\nLea el instructivo anexo en el empaque antes del primer uso.",
+  "ficha": {
+    "marca": "Kotex",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Unika",
+    "variante": "Súper, flujo abundante, sin aplicador",
+    "presentacion": "Caja",
+    "contenido_neto": 12,
+    "unidad_contenido": "tampones",
+    "unidades_por_envase": 12,
+    "genero": "Mujer",
+    "otros": "Absorbencia: Súper, de 9 a 12 g; Tecnología Blue Protection; Digitales sin aplicador; Doble cordón; Formato de venta: caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425625550_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/305414-1000-1000/7506425625550.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/tampones-kotex-unika-super-12-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1015,
+      "fecha": "2026-09-29",
+      "lado_util": 940
+    },
+    {
+      "archivo": "7506425625550_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7008901/7506425625550_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/kotex-tampones-unika-super-flujo-abundante-paquete-c-12-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1046,
+      "fecha": "2026-09-29",
+      "lado_util": 969
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/kotex-tampones-unika-super-flujo-abundante-paquete-c-12-pz-v1/p",
+    "https://www.lagranbodega.com.mx/tampones-kotex-unika-super-12-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo y La Gran Bodega (EAN 7506425625550, 12 piezas). Absorbencias leídas del reverso del empaque en la foto de tienda.",
+    "notas_imagenes": "2 fotos de tienda: frente del empaque (La Gran Bodega, 1000 px) y reverso con tabla de absorbencia (Farmatodo, 1200 px). Se descartó una foto duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

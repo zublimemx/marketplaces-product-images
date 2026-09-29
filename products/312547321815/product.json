@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "ANTISEP LIST COOL M 500ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Enjuague Bucal Listerine Cool Mint Antiséptico 500 ml",
+  "descripcion": "Descripción:\nListerine Cool Mint es un enjuague bucal antiséptico con aceites esenciales y sabor a menta intensa, en botella de 500 ml. Está formulado como complemento del cepillado y del hilo dental para el cuidado diario de la boca.\n\nBeneficios:\n- Enjuague antiséptico con aceites esenciales\n- Ayuda a combatir los gérmenes que causan el mal aliento\n- Ayuda a reducir la placa dental y la gingivitis como complemento de la higiene bucal\n- Sabor menta intensa (Cool Mint) que deja sensación de frescura\n- Botella de 500 ml para uso diario\n\nIngredientes:\nAceites esenciales: eucaliptol, mentol, salicilato de metilo y timol. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nDespués de cepillarse los dientes, enjuague la boca durante 30 segundos, dos veces al día, y escupa. Siga las instrucciones del empaque.\n\nPresentación:\nBotella con 500 ml de enjuague bucal.\n\nAdvertencias:\nNo se ingiera. Manténgase fuera del alcance de los niños. En caso de ingestión accidental, busque ayuda médica. Suspenda su uso si aparece irritación en la boca.",
+  "ficha": {
+    "marca": "Listerine",
+    "linea": "Cool Mint",
+    "variante": "Antiséptico",
+    "presentacion": "Botella de 500 ml",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta (Cool Mint)",
+    "principio_activo": "Aceites esenciales (eucaliptol, mentol, salicilato de metilo, timol)",
+    "otros": "Tipo de producto: enjuague bucal antiséptico"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "312547321815_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://target.scene7.com/is/image/Target/GUEST_7f9b496e-4934-469f-873b-0139acf72e7a?wid=1600&hei=1600&qlt=90",
+      "pagina": "https://www.target.com/p/listerine-antiseptic-mouthwash-for-bad-breath-and-plaque-cool-mint-500ml/-/A-13404206",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1542,
+      "fecha": "2026-09-29",
+      "lado_util": 1428
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com/ip/Listerine-Antiseptic-Mouthwash-Cool-Mint-500ml/10316915",
+    "https://www.target.com/p/listerine-antiseptic-mouthwash-for-bad-breath-and-plaque-cool-mint-500ml/-/A-13404206"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN de 12 dígitos (UPC) no apareció confirmado en ninguna página; se identificó por nombre y contenido (Listerine Cool Mint 500 ml, listados de EE. UU.). Ingredientes activos son los estándar de la línea Cool Mint; verificar contra el empaque que se vende en México.",
+    "notas_imagenes": "1 foto de frente a la botella (Listerine Cool Mint 500 ml), origen tienda de EE. UU., 1542 px; el empaque puede variar respecto al que se vende en México. Se eliminó una segunda foto con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

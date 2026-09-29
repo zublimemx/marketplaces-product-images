@@ -4,29 +4,68 @@
   "linea": "Farma",
   "nombre_sistema": "OXIMETRO AD PANT LED JPD 500E HOMECARE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Oxímetro de Pulso para Dedo Homecare JPD-500E Pantalla LED",
+  "descripcion": "Descripción:\nOxímetro de pulso portátil para dedo Homecare, modelo JPD-500E, con pantalla LED. Está pensado para uso doméstico y permite medir de forma rápida y sin cables la saturación de oxígeno en la sangre (SpO2) y la frecuencia del pulso. Su tamaño compacto facilita llevarlo a cualquier lugar, y se maneja con un solo botón.\n\nCaracterísticas:\n- Pantalla LED de fácil lectura.\n- Lectura de saturación de oxígeno (SpO2) y frecuencia de pulso en segundos.\n- Uso sencillo con un solo botón.\n- Indicador de batería baja.\n- Apagado automático después de 8 segundos sin señal.\n- Bajo consumo de energía; funciona con pilas AAA.\n- Diseño ligero y portátil, con cordón para colgar.\n\nModo de uso:\nColoque el dedo dentro del oxímetro y presione el botón para iniciar la lectura. Espere a que se estabilice el valor en la pantalla. El equipo se apaga automáticamente cuando no detecta señal.\n\nPresentación:\nCaja con 1 pieza. Incluye 1 oxímetro, 1 par de pilas AAA, 1 cordón para transporte y 1 estuche protector.\n\nAdvertencias:\nEste equipo no sustituye la valoración médica ni el diagnóstico de un profesional de la salud. Consulte a su médico si obtiene lecturas anormales o presenta síntomas. Lea el instructivo del empaque. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Homecare",
+    "fabricante": "Jumper Medical",
+    "linea": "Oxímetro de pulso",
+    "variante": "Blanco con pantalla LED",
+    "presentacion": "Caja con 1 pieza",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Modelo: JPD-500E; Pantalla: LED; Alimentación: 2 pilas AAA (incluidas); Incluye: cordón y estuche protector; Apagado automático a los 8 segundos sin señal; Indicador de batería baja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM408023",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Oxímetros",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21763701"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502256729054_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://prosafetymx.com/cdn/shop/products/OximetroHomecarEJDP-500E_2.jpg?v=1655404614",
+      "pagina": "https://prosafetymx.com/products/oximetro-de-pulso-homecare",
+      "ancho_original": 977,
+      "alto_original": 1509,
+      "lado_final": 1366,
+      "fecha": "2026-09-29",
+      "lado_util": 1265
+    },
+    {
+      "archivo": "7502256729054_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://prosafetymx.com/cdn/shop/products/OximetroHomecareJDP-500E.jpg?v=1655404726",
+      "pagina": "https://prosafetymx.com/products/oximetro-de-pulso-homecare",
+      "ancho_original": 1312,
+      "alto_original": 1096,
+      "lado_final": 1313,
+      "fecha": "2026-09-29",
+      "lado_util": 1216
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://prosafetymx.com/products/oximetro-de-pulso-homecare",
+    "https://farmaciasanjorge.com/products/34878",
+    "https://www.farmaleal.com.mx/products/oximetro-homecare-p-dedo-jpd500e-7502256729054"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontraron rangos técnicos de SpO2 ni de pulso en fuentes confiables, por eso no se incluyen. El ID de catálogo MLM21763701 salió de una URL de terceros (\"Oxímetro de pulso para dedo Homecare JPD-500E blanco\"); no se pudo abrir la ficha de Mercado Libre para confirmarlo.",
+    "notas_imagenes": "2 fotos de tienda (prosafetymx): equipo de frente y caja con accesorios. Sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

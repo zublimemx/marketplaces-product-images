@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "PEPTO BISMOL 118 ML CEREZA SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pepto-Bismol Suspensión Sabor Cereza 118 ml",
+  "descripcion": "Descripción:\nPepto-Bismol Suspensión Sabor Cereza es un medicamento de venta libre a base de subsalicilato de bismuto, en suspensión oral con sabor a cereza y frasco de 118 ml. En su empaque se presenta para cubrir, proteger y aliviar la acidez, la indigestión, el malestar estomacal, la náusea y la diarrea. Contiene 262 mg de subsalicilato de bismuto por cada 15 ml (1.75 g por cada 100 ml).\n\nBeneficios:\n- Cubre, protege y alivia acidez, indigestión, malestar estomacal, náusea y diarrea, según el empaque.\n- Suspensión líquida lista para tomar, con sabor cereza.\n- Presentación de 118 ml, práctica para llevar en el botiquín o de viaje.\n\nComposición:\nSubsalicilato de bismuto 262 mg por cada 15 ml de suspensión (1.75 g por cada 100 ml).\n\nModo de uso:\nVía oral. Agite bien el frasco antes de usar. Tome la dosis que indica el empaque o su médico y no exceda la dosis recomendada.\n\nPresentación:\nFrasco con 118 ml de suspensión oral sabor cereza.\n\nAdvertencias:\n- Contiene un salicilato: no lo use si es alérgico a la aspirina o a otros salicilatos.\n- No lo administre a niños o adolescentes con varicela o síntomas de gripe sin indicación médica.\n- Puede oscurecer de forma temporal la lengua y las evacuaciones.\n- Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "linea": "Pepto-Bismol",
+    "variante": "Sabor cereza",
+    "presentacion": "Suspensión oral en frasco",
+    "contenido_neto": 118,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Subsalicilato de bismuto",
+    "concentracion": "262 mg/15 ml (1.75 g/100 ml)",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Cereza",
+    "registro_sanitario": "30310SSAVI",
+    "otros": "Grupo terapéutico: antidiarreico y antiácido (ATC A07BB); Conservar entre 15 y 30 °C; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "020800756440_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/20800756440.jpg",
+      "pagina": "https://www.claroshop.com/producto/492625/pepto-bismol-suspension-118-ml-sabor-cereza",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1247,
+      "fecha": "2026-09-29",
+      "lado_util": 1155
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-de-libre-venta/3973-pepto-bismol-suspension-botella-con-118-ml-sabor-cereza-20800756440.html",
+    "https://www.farmaciasguadalajara.com/pepto-bismol-suspension-sabor-cereza-118-ml-1001345"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 20800756440 (UPC de 12 dígitos) confirmado en ficha de farmacia; presentación igual. Concentración y texto de indicaciones verificados en la foto del frasco (262 mg/15 ml). El registro sanitario visto en la ficha aparece con vigencia 2019; confirmar en el empaque. La dosis exacta no se pudo leer en fuentes y se remite al empaque.",
+    "notas_imagenes": "1 foto de frente del frasco (tienda: Claro Shop 1200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

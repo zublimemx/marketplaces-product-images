@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD REXONA EFFI A-PRO PIES153ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Rexona Efficient Antibacterial Pies 153 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol para pies Rexona Efficient con protección antibacterial, en presentación de 153 ml. Combate las bacterias, el sudor y el mal olor de los pies, dejándolos frescos y protegidos por hasta 48 horas.\n\nBeneficios:\n- Fórmula antibacterial que combate las bacterias que causan el mal olor.\n- Ayuda a controlar el sudor y refresca los pies.\n- Protección de larga duración, hasta 48 horas.\n- Formato aerosol de aplicación rápida y práctica.\n- Ideal para usar con calzado cerrado, deportivo o de uso diario.\n\nModo de uso:\nAgite antes de usar. Aplique sobre los pies limpios y secos y deje secar antes de ponerse calcetines o calzado.\n\nPresentación:\nAerosol de 153 ml.\n\nAdvertencias:\nUso externo. Envase a presión: manténgalo lejos de flamas, fuentes de calor y de la luz directa del sol; no lo perfore ni lo incinere aunque esté vacío. Evite inhalarlo y el contacto con los ojos. No lo aplique sobre piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Efficient",
+    "variante": "Antibacterial Protection",
+    "presentacion": "Aerosol de 153 ml",
+    "contenido_neto": 153,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Uso: pies; Formato: aerosol (spray); Protección: hasta 48 horas; Acción: antibacterial"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293035895_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7791293035895-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-para-pies-rexona-efficient-antibacterial-protection-152ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1043,
+      "fecha": "2026-09-29",
+      "lado_util": 966
+    },
+    {
+      "archivo": "7791293035895_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293035895_2.jpg",
+      "pagina": "https://www.fahorro.com/rexona-efficient-antibacterial-spray-desodorante-para-pies-153-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1287,
+      "fecha": "2026-09-29",
+      "lado_util": 1192
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/desodorante-para-pies-rexona-efficient-antibacterial-153ml-3520731/p",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-para-pies-rexona-efficient-antibacterial-protection-152ml",
+    "https://www.fahorro.com/rexona-efficient-antibacterial-spray-desodorante-para-pies-153-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación (153 ml) confirmados en fichas de tienda; el nombre del sistema 'EFFI A-PRO' corresponde a Rexona Efficient Antibacterial Protection para pies. No se abrió página oficial de la marca. Las advertencias son las estándar de un aerosol; validar con la etiqueta.",
+    "notas_imagenes": "2 fotos del aerosol (tienda, 1043 y 1287 px): dos versiones del diseño del envase con el mismo GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

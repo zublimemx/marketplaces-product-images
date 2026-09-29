@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "LOC LIMP PONDS BIO-HYDRA DUAL 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Loción Limpiadora Pond's Bio-Hydratante Dual 200 ml",
+  "descripcion": "Descripción:\nLoción facial desmaquillante dual Pond's Bio-Hydratante, una fórmula de dos fases (oleosa y acuosa) que remueve todo el maquillaje, incluido el de los ojos, y limpia el rostro sin dejar impurezas. Está formulada con extracto de miel y es apta para todo tipo de piel.\n\nBeneficios:\n- Remueve eficazmente el maquillaje.\n- Limpia sin dejar impurezas y deja la piel libre de maquillaje.\n- Probada dermatológica y oftalmológicamente.\n- Adecuada para todo tipo de piel.\n\nIngredientes:\nFase oleosa: ciclopentasiloxano, dimeticona y etilhexil metoxicinamato. Fase acuosa: agua, cloruro de sodio, propilenglicol y extracto de miel.\n\nModo de uso:\nAgite suavemente el producto para mezclar las dos fases. Aplique sobre un algodón y páselo por el rostro y los ojos para retirar el maquillaje y las impurezas.\n\nPresentación:\nFrasco de 200 ml.\n\nAdvertencias:\nSolo para uso externo. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Bio-Hydratante",
+    "variante": "Loción desmaquillante dual",
+    "presentacion": "Frasco",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Fórmula bifásica (fase oleosa y acuosa); Con extracto de miel; Probada dermatológica y oftalmológicamente"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM179203",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Limpieza Facial > Desmaquillantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330378_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056330378-1.jpg",
+      "pagina": "https://www.delsol.com.mx/locion-desmaquillante-bio-hydratante-dual-ponds-200-ml",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 1056,
+      "fecha": "2026-09-29",
+      "lado_util": 977
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/loci%C3%B3n-dual-desmaquillante-bio-hidratante.html/07501056330378",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/loci%C3%B3n-dual-desmaquillante-bio-hidratante.html/07501056330378",
+    "https://www.delsol.com.mx/locion-desmaquillante-bio-hydratante-dual-ponds-200-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de tienda (delsol/cloudfront, 1024 px) de frente del frasco. La página oficial no expuso imágenes al script.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

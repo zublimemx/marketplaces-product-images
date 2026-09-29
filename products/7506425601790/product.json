@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM KIMBIES DZNOALOE C90",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Kimbies Durazno y Aloe 90 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé Kimbies con aroma a durazno y aloe vera, de Kimberly-Clark, en paquete con 90 piezas. Están pensadas para limpiar con suavidad la piel delicada del bebé en cada cambio de pañal, y por su resistencia también sirven para limpiar manos y rostro.\n\nBeneficios:\n- Hipoalergénicas y dermatológicamente probadas.\n- Sin alcohol y sin parabenos.\n- Con aloe vera y durazno para el cuidado de la piel del bebé.\n- Incluyen fibras naturales para una limpieza más suave y eficaz.\n- Suave aroma a durazno.\n- Empaque práctico que conserva la humedad de las toallitas.\n\nModo de uso:\nTome una toallita y utilícela para limpiar la piel del bebé en cada cambio de pañal, o para limpiar manos y rostro.\n\nPresentación:\nPaquete con 90 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo.",
+  "ficha": {
+    "marca": "Kimbies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "KleenBebé",
+    "variante": "Durazno y aloe",
+    "presentacion": "Paquete",
+    "contenido_neto": 90,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 90,
+    "edad_etapa": "Bebés",
+    "sabor_aroma": "Durazno y aloe",
+    "otros": "Hipoalergénicas; Dermatológicamente probadas; Sin alcohol; Sin parabenos; Con aloe vera y fibras naturales; Formato de venta: paquete"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425601790_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/307158-1000-1000/7506425601790.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/toalla-humeda-kbb-kimbies-repuesto-90-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1032,
+      "fecha": "2026-09-29",
+      "lado_util": 956
+    },
+    {
+      "archivo": "7506425601790_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/164463-1000-1000/7506425601790.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/toalla-humeda-kbb-kimbies-repuesto-90-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 886,
+      "fecha": "2026-09-29",
+      "lado_util": 821
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/kimbies-toallitas-humedas-durazno-aloe-paquete-c-90-pz-v1/p",
+    "https://www.klyns.mx/t-hum-kimbies-c-90/p",
+    "https://www.lagranbodega.com.mx/toalla-humeda-kbb-kimbies-repuesto-90-piezas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo, Klyns y La Gran Bodega (EAN 7506425601790, 90 piezas). El diseño del empaque cambió entre las fotos disponibles; se conservaron dos.",
+    "notas_imagenes": "2 fotos de tienda: paquete Kimbies 90 piezas (La Gran Bodega y Klyns, 1000 px), con dos versiones del diseño del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

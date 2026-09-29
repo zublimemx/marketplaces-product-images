@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "NEXCARE PIEL 1 25CM C24",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cinta Micropore Nexcare Piel 1.25 cm x 5 m",
+  "descripcion": "Descripción:\nCinta adhesiva médica Nexcare Micropore, de papel color piel, para asegurar vendas, gasas y apósitos. Su microporosidad permite la transpiración de la piel, y su adhesivo hipoalergénico a base de acrilato, libre de látex, la hace adecuada para piel sensible.\n\nCaracterísticas:\n- Cinta adhesiva de papel color piel\n- Adhesivo hipoalergénico a base de acrilato\n- Libre de látex\n- Microporosa: permite que la piel transpire\n- Ancho de 1.25 cm y largo de 5 m\n- Sirve para fijar vendas, gasas y apósitos sobre la piel\n\nPresentación:\nRollo de cinta Micropore color piel de 1.25 cm x 5 m.",
+  "ficha": {
+    "marca": "Nexcare",
+    "fabricante": "3M",
+    "linea": "Micropore",
+    "variante": "Color piel",
+    "presentacion": "Rollo de cinta adhesiva",
+    "contenido_neto": 5,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 1,
+    "otros": "Ancho: 1.25 cm; largo: 5 m; hipoalergénica; libre de látex; el GTIN del sistema es un código logístico de 14 dígitos y el nombre indica C24 (caja con 24 rollos)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "37501023108888_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501023104216_1.jpg",
+      "pagina": "https://www.fahorro.com/nexcare-cinta-micropore-piel-1-25-cm-x-5-m.html",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 387
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nexcare-cinta-micropore-piel-1-25-cm-x-5-m.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN de 14 dígitos (37501023108888) no aparece en las fuentes; se identificó por el nombre como Nexcare Micropore Piel de 1.25 cm. El nombre indica C24 (probable caja con 24 rollos) pero el precio parece de una sola pieza: confirmar el formato de venta antes de publicar.",
+    "notas_imagenes": "1 foto de frente al empaque de un rollo (tienda, 540 px, menor a 800 px). Corresponde a la pieza individual, no a la caja de 24.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

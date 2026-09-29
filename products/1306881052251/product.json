@@ -5,7 +5,7 @@
   "nombre_sistema": "B TRACET XL SOL C3 AMP KETOROLACO LIDOCAINA TIAMINA CIANOCOBALAMINA MEDICAM 500",
   "nombres_sistema_alternos": [],
   "titulo": "B-Tracet XL Solución Inyectable 3 Ampolletas",
-  "descripcion": "Descripción:\nB-Tracet XL es una solución inyectable de laboratorios Medicam que, según el nombre con el que se identifica, combina ketorolaco, lidocaína, tiamina (vitamina B1) y cianocobalamina (vitamina B12). Se presenta en caja con 3 ampolletas para administración por vía inyectable.\n\nComposición:\n- Ketorolaco: analgésico antiinflamatorio no esteroideo.\n- Lidocaína: anestésico local.\n- Tiamina (vitamina B1) y cianocobalamina (vitamina B12): vitaminas del complejo B.\nLas concentraciones y el volumen de cada ampolleta deben confirmarse en el empaque.\n\nModo de uso:\nVía inyectable. La dosis, la vía y la duración del tratamiento las determina el médico, y la aplicación debe ser realizada por personal de salud capacitado.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo utilice por cuenta propia; su uso debe estar bajo supervisión médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nB-Tracet XL es una solución inyectable de laboratorios Medicam que, según el nombre con el que se identifica en el sistema, combina ketorolaco, lidocaína, tiamina (vitamina B1) y cianocobalamina (vitamina B12). Se presenta en caja con 3 ampolletas para administración por vía inyectable. Pertenece a la familia B-Tracet de Medicam.\n\nComposición:\n- Ketorolaco: analgésico antiinflamatorio no esteroideo.\n- Lidocaína: anestésico local.\n- Tiamina (vitamina B1) y cianocobalamina (vitamina B12): vitaminas del complejo B.\nLas concentraciones y el volumen de cada ampolleta deben confirmarse en el empaque.\n\nModo de uso:\nVía inyectable. La dosis, la vía y la duración del tratamiento las determina el médico, y la aplicación debe ser realizada por personal de salud capacitado.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo utilice por cuenta propia; su uso debe estar bajo supervisión médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "B-Tracet",
     "fabricante": "Medicam",
@@ -32,15 +32,16 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://cedismed.com/producto/b-tracet-pl/"
+    "https://cedismed.com/producto/b-tracet-pl/",
+    "https://www.farmaciasantonio.com/b-tracet-pl-3-iny-promocion"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "gtin",
-    "notas": "Conflicto de identidad: un distribuidor asocia el GTIN 1306881052251 a B-Tracet-PL de Medicam (tramadol 50 mg, ketorolaco 10 mg, tiamina 100 mg y cianocobalamina 1000 mcg por ampolleta de 2 ml, caja con 3), mientras que el nombre del sistema dice XL con ketorolaco, lidocaína, tiamina y cianocobalamina. No se encontró ninguna ficha de B-Tracet XL. La descripción sigue el nombre del sistema; verificar con el empaque físico antes de publicar (si fuera el PL, contiene tramadol).",
-    "notas_imagenes": "Sin fotos: la única ficha con el GTIN solo muestra un ícono de \"sin imagen\" y no se encontró foto de B-Tracet XL.",
+    "notas": "Conflicto de identidad: dos distribuidores asocian el GTIN 1306881052251 a B-Tracet-PL de Medicam (tramadol 50 mg, ketorolaco 10 mg, tiamina 100 mg y cianocobalamina 1000 mcg por ampolleta de 2 ml, caja con 3), mientras que el nombre del sistema dice XL con ketorolaco, lidocaína, tiamina y cianocobalamina. No se encontró ninguna ficha de B-Tracet XL ni mención de una variante con lidocaína. La descripción sigue el nombre del sistema; verificar con el empaque físico antes de publicar (si fuera el PL, contiene tramadol y cambia la composición y la categoría).",
+    "notas_imagenes": "Sin fotos: la única ficha con el GTIN solo muestra un ícono de \"sin imagen\" y no se encontró foto de B-Tracet XL; las fotos de B-Tracet-PL no corresponden al nombre del sistema.",
     "fecha": "2026-09-29",
-    "sesion": 4
+    "sesion": 5
   }
 }

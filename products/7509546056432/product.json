@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD SPEEDS 48H PRO ADN GEL 85GN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Speed Stick ADN Gel 48 Horas 85 g",
+  "descripcion": "Descripción:\nSpeed Stick ADN en gel es un antitranspirante y desodorante para hombre de la línea Speed Stick, con protección de hasta 48 horas contra el sudor y el mal olor. Su fórmula en gel transparente se aplica de forma suave y se seca rápido, y viene en barra de 85 g.\n\nBeneficios:\n- Protección antitranspirante y desodorante hasta por 48 horas\n- Fórmula en gel de secado rápido\n- Ayuda a evitar residuos visibles en la piel y en la ropa\n- Sensación de frescura durante el día\n- Fragancia masculina de larga duración\n- Presentación de 85 g\n\nModo de uso:\nRetire la tapa, gire la base para subir el gel y aplique sobre las axilas limpias y secas. Deje secar antes de vestirse.\n\nPresentación:\nBarra de gel de 85 g.\n\nAdvertencias:\nUso externo. No lo aplique sobre piel irritada, lastimada o recién depilada. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "ADN",
+    "variante": "Gel 48 horas",
+    "presentacion": "Barra de gel de 85 g",
+    "contenido_neto": 85,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "otros": "Tipo de producto: antitranspirante y desodorante en gel; Protección: hasta 48 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546056432_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546056432-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-adn-gel-85gr",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/speed-stick-gel-antitranspirante-85-gr/p",
+    "https://farmaciasanjorge.com/products/44412",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-adn-gel-85gr"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fragancia específica, ingredientes y modo de uso no aparecen en las fichas; el modo de uso y las advertencias están redactados de forma general para barras en gel. El fabricante (Colgate-Palmolive) se dedujo de la marca que indica una ficha.",
+    "notas_imagenes": "1 foto de frente al empaque, origen tienda, 1200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

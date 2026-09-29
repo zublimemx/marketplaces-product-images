@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "JANUMET XR 50 1000MG C56 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Janumet XR 50 mg/1000 mg 56 Tabletas",
+  "descripcion": "Descripción:\nJanumet XR es un medicamento antidiabético oral de MSD que combina fosfato de sitagliptina (50 mg) y metformina (1000 mg) en una tableta de liberación prolongada. Se utiliza para el control de la diabetes mellitus tipo 2 como parte del tratamiento indicado por el médico. Se presenta en frasco con 56 tabletas.\n\nCaracterísticas:\n- Combinación de sitagliptina y metformina\n- Concentración: 50 mg/1000 mg por tableta\n- Tabletas de liberación prolongada\n- Vía de administración: oral\n- Clasificación: antidiabético / hipoglucemiante\n\nFórmula:\nCada tableta de liberación prolongada contiene fosfato de sitagliptina equivalente a 50 mg de sitagliptina y 1000 mg de metformina.\n\nModo de uso:\nVía oral. La dosis y la forma de administración deben ser indicadas por el médico.\n\nPresentación:\nFrasco con 56 tabletas de liberación prolongada.\n\nAdvertencias:\nConserve el producto en ambiente controlado, entre 15 y 25 °C. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Janumet XR",
+    "fabricante": "MSD",
+    "presentacion": "Frasco con 56 tabletas de liberación prolongada",
+    "contenido_neto": 56,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 56,
+    "principio_activo": "Sitagliptina (como fosfato) y metformina",
+    "concentracion": "50 mg/1000 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "157M2014 SSA IV",
+    "otros": "Forma farmacéutica: tabletas de liberación prolongada; Clasificación: antidiabético"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502241941935_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502241941935.png?format=jpeg",
+      "pagina": "https://www.fahorro.com/janumet-xr-500-mg-oral-56-tabletas-n.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1486,
+      "fecha": "2026-09-29",
+      "lado_util": 1376
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/especializados/16832-comprar-janumet-xr-50-1000-mg-frasco-con-56-tabletas-precio-7502241941935-schering-plough.html",
+    "https://www.fahorro.com/janumet-xr-500-mg-oral-56-tabletas-n.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sin ficha oficial abierta; contraindicaciones y dosis no confirmadas en fuente, por lo que se remite al médico. Un listado de Mercado Libre para este producto es de tipo 'up' (MLMU2377535065), no ficha de catálogo /p/MLM.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), frasco de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

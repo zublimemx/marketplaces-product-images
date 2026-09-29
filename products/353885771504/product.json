@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "ONE TOUCH ULTRA TIRAS REAC C50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tiras Reactivas OneTouch Ultra 50 Piezas",
+  "descripcion": "Descripción:\nTiras reactivas OneTouch Ultra para medir la glucosa (azúcar) en sangre. Se utilizan con los medidores de glucosa en sangre OneTouch Ultra para la medición cuantitativa de glucosa en muestras de sangre capilar recién obtenidas de la yema del dedo. La caja contiene 50 tiras reactivas, distribuidas en 2 frascos de 25 tiras cada uno, de Johnson & Johnson Medical (LifeScan).\n\nCaracterísticas:\n- Compatibles con medidores de glucosa OneTouch Ultra\n- Medición cuantitativa de glucosa en sangre capilar\n- Caja con 50 tiras reactivas (2 frascos de 25 tiras)\n\nModo de uso:\nIntroduzca una tira reactiva en el medidor compatible y aplique la muestra de sangre siguiendo el instructivo del medidor y de las tiras.\n\nPresentación:\nCaja con 2 frascos de 25 tiras reactivas cada uno (50 tiras en total).\n\nAdvertencias:\nUtilícelas únicamente con medidores compatibles de la familia OneTouch Ultra. Consulte a su médico sobre la interpretación de los resultados y el manejo de su tratamiento.",
+  "ficha": {
+    "marca": "OneTouch",
+    "fabricante": "Johnson & Johnson Medical (LifeScan)",
+    "linea": "Ultra",
+    "presentacion": "Caja con 2 frascos de 25 tiras",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "otros": "Tipo de producto: tiras reactivas para glucosa en sangre; Compatibilidad: medidores OneTouch Ultra; Muestra: sangre capilar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "353885771504_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/353885771504_11.jpg",
+      "pagina": "https://www.fahorro.com/one-touch-ultra-50-tiras-reactivas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 981,
+      "fecha": "2026-09-29",
+      "lado_util": 909
+    },
+    {
+      "archivo": "353885771504_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/353885771504_2.jpg",
+      "pagina": "https://www.fahorro.com/one-touch-ultra-50-tiras-reactivas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1235,
+      "fecha": "2026-09-29",
+      "lado_util": 1144
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/Tiras-Reactivas-OneTouch-Ultra-Caja-con-50-Tiras-3039884/p",
+    "https://www.fahorro.com/one-touch-ultra-50-tiras-reactivas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ninguna fuente publica el instructivo completo; el modo de uso es genérico. La caja de la foto trae texto bilingüe (versión importada). No hay categoría específica de tiras reactivas en el CSV; se usó Medidores de Glucosa.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1200 a 1600 px): caja de frente y en ángulo. Se descartó la vista trasera de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

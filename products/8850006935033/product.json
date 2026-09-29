@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MENNEN BB MAGIC HIP AZUL 400G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Bebé Mennen Baby Magic Hipoalergénico 400 g",
+  "descripcion": "Descripción:\nTalco para bebé Mennen Baby Magic hipoalergénico en frasco de 400 g, versión azul. Su suave fórmula cuida la piel de tu bebé rechazando el paso de la humedad para ayudar a prevenir las rozaduras, además de ayudar a mantenerlo fresco y perfumado. Está recomendado por la Sociedad Mexicana de Pediatría, A.C.\n\nBeneficios:\n- Fórmula hipoalergénica pensada para la piel sensible del bebé.\n- Protege la piel de malestares e irritaciones causados por el pañal.\n- Rechaza el paso de la humedad para ayudar a prevenir las rozaduras.\n- Mantiene la piel fresca y perfumada.\n\nIngredientes:\nTalco, estearato de magnesio, carbonato de magnesio y fragancia.\n\nModo de uso:\nPonga un poco de talco en la palma de la mano y aplíquelo en el área del pañal del bebé. También puede usarse sobre todo el cuerpo para mantenerlo fresco.\n\nPresentación:\nFrasco con 400 g.\n\nAdvertencias:\n- Manténgase fuera del alcance de los niños.\n- Durante su aplicación evite el contacto con la nariz, la boca y los ojos del bebé.\n- No lo use sobre piel irritada o lastimada.\n- Descontinúe su uso en caso de irritación, enrojecimiento o molestia.",
+  "ficha": {
+    "marca": "Mennen",
+    "linea": "Baby Magic",
+    "variante": "Hipoalergénico Azul",
+    "presentacion": "Frasco con 400 g",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebé",
+    "otros": "Fórmula hipoalergénica; Recomendado por la Sociedad Mexicana de Pediatría, A.C.; Formato de venta: frasco individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455894",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8850006935033_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/8850006935033-1.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=85699&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1001,
+      "fecha": "2026-09-29",
+      "lado_util": 927
+    },
+    {
+      "archivo": "8850006935033_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/8850006935033-2.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=85699&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1015,
+      "fecha": "2026-09-29",
+      "lado_util": 940
+    },
+    {
+      "archivo": "8850006935033_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/8850006935033-3.jpg",
+      "pagina": "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=85699&urlRequestType=Base&langId=-5&catalogId=12001",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/ProductDisplay?storeId=1&productId=85699&urlRequestType=Base&langId=-5&catalogId=12001",
+    "https://www.walmart.com.mx/ip/talco-para-bebe-mennen-baby-magic-hipoalergenico-protege-su-piel-400-gr/00885000693503"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 8850006935033 (EAN de fabricación tailandesa) confirmado en tienda departamental y en el código de artículo de otra tienda. Modo de uso, precauciones e ingredientes transcritos de la etiqueta posterior visible en las fotos. En resultados apareció un catálogo de Mercado Libre 'Talco Mennen Baby Magic Hipoalergénico 400 g' (MLM18963493) pero no se pudo abrir para confirmar que sea la versión azul, por eso no se anota.",
+    "notas_imagenes": "3 fotos de tienda (1000 px): frente, contraetiqueta y lateral del frasco azul de 400 g; sin logotipos de tienda ni texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

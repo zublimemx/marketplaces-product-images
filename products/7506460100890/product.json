@@ -4,16 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "GRANEODIN F MIEL LIMON C24 PASTILLAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Graneodin F Flurbiprofeno 8.75 mg Miel-Limón 24 Pastillas",
+  "descripcion": "Descripción:\nGraneodín F Doble Acción son pastillas para chupar con flurbiprofeno 8.75 mg, sabor miel-limón, indicadas como auxiliar en el alivio del dolor de garganta. El flurbiprofeno es un antiinflamatorio que actúa sobre el dolor y la inflamación de la garganta, y según el empaque su efecto alivia hasta por 4 horas.\n\nCaracterísticas:\n- Pastilla con flurbiprofeno 8.75 mg.\n- Sabor miel-limón.\n- Auxiliar en el alivio del dolor de garganta.\n- Presentación en envase tipo burbuja.\n\nComposición:\nCada pastilla contiene flurbiprofeno 8.75 mg.\n\nModo de uso:\nVía oral. Deje que la pastilla se disuelva lentamente en la boca. Respete la dosis indicada en el instructivo del empaque o por su médico.\n\nPresentación:\nCaja con envase burbuja con 24 pastillas sabor miel-limón.\n\nAdvertencias:\nNo se automedique. Consulte a su médico en caso de dudas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Graneodin",
+    "fabricante": "RB Health México",
+    "linea": "F Doble Acción",
+    "variante": "Miel-Limón",
+    "presentacion": "Caja con envase burbuja",
+    "contenido_neto": 24,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Flurbiprofeno",
+    "concentracion": "8.75 mg por pastilla",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Miel-Limón",
+    "otros": "Forma farmacéutica: pastilla para chupar; Alivio hasta por 4 horas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455605"
     },
     "amazon": {},
     "shopify": {},
@@ -21,12 +35,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/graneodin-f-miel-limon-24-pastillas",
+    "https://www.fahorro.com/graneodin-f-sabor-miel-limon-24-pastillas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de catálogo MLM39455605 (Graneodin F miel-limón 8.75 mg, 24 pastillas) salió en resultados, pero no se pudo abrir. Dosis exacta no confirmada; se remite al empaque.",
+    "notas_imagenes": "Sin fotos válidas: las fotos encontradas (fahorro, Benavides, claroshop) son del empaque con la leyenda promocional PRECIO ESPECIAL o piezas publicitarias con texto, y se borraron. Mercado Libre y Amazon bloquean el acceso.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

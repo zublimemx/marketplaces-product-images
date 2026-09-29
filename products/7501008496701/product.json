@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ASPIRINA EFERV TAB C 12 150",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aspirina Efervescente 500 mg 12 Tabletas",
+  "descripcion": "Descripción:\nAspirina Efervescente de Bayer contiene ácido acetilsalicílico en tabletas efervescentes de 500 mg. Es un medicamento de venta libre con acción analgésica, antiinflamatoria y antipirética, indicado en el empaque para el rápido alivio del dolor y de la fiebre y en el tratamiento del reumatismo. Al disolverse en agua se toma en forma de bebida efervescente.\n\nBeneficios:\n- Analgésico: alivia el dolor, como el dolor de cabeza.\n- Antipirético: ayuda a reducir la fiebre.\n- Antiinflamatorio.\n- Tabletas efervescentes de rápida disolución.\n\nComposición:\nCada tableta efervescente contiene ácido acetilsalicílico 500 mg.\n\nModo de uso:\nVía oral. Disuelva la tableta en un vaso con agua y tómela cuando termine la efervescencia. Respete la dosis indicada en el instructivo del empaque o por su médico.\n\nPresentación:\nCaja con 12 tabletas efervescentes.\n\nAdvertencias:\nNo lo use si es alérgico al ácido acetilsalicílico. Evite su uso si tiene antecedentes de úlcera péptica, gastritis o alteraciones de la coagulación, si es asmático, y en niños con fiebre de origen viral. Consulte a su médico si está embarazada o en lactancia, sobre todo en el tercer trimestre; las personas de edad avanzada pueden requerir dosis menores. El alcohol aumenta el riesgo de sangrado gastrointestinal. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer de México",
+    "linea": "Efervescente",
+    "presentacion": "Caja con 12 tabletas efervescentes",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "500 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta efervescente; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008496701_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw73ddd3c2/images/large/7501008496701_1.jpg",
+      "pagina": "https://www.yza.mx/aspirina-efervescente-500mg-12-tabs/MXYZ_7501008496701.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/aspirina-efervescente-500mg-12-tabs/MXYZ_7501008496701.html",
+    "https://www.farmaciasguadalajara.com/aspirina-efervescente-para-dolor-de-cabeza-y-fiebre-500-mg-12-tabletas-600776"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice \"150\" pero el GTIN corresponde a Aspirina Efervescente 500 mg con 12 tabletas.",
+    "notas_imagenes": "1 foto de tienda (yza 1000 px) de frente del empaque, sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

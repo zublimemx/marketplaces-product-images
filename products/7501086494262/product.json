@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT ORAL-B INDICAT35SVE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Oral-B Indicator 35 Suave 1 Pieza",
+  "descripcion": "Descripción:\nCepillo dental manual Oral-B Indicator 35 de cerdas suaves, diseñado para la limpieza diaria de dientes y encías. Combina cerdas suaves que ayudan a eliminar la placa sin dañar las encías con un indicador de desgaste que avisa cuándo es momento de reemplazarlo, y con un mango ergonómico para un agarre cómodo y buen control durante el cepillado.\n\nCaracterísticas:\n- Cerdas suaves, adecuadas para encías sensibles\n- Cerdas Indicator con indicador de desgaste\n- Diseño ergonómico para un agarre cómodo\n- Dureza: suave\n- Compatible con todas las cremas dentales\n- 1 pieza en blíster\n\nModo de uso:\nCepille sus dientes al menos dos veces al día con una cantidad adecuada de crema dental, con movimientos suaves y circulares, cuidando todas las superficies de dientes y encías. Cambie el cepillo cada tres meses o cuando las cerdas estén desgastadas.\n\nPresentación:\nBlíster con 1 cepillo dental manual.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Indicator",
+    "variante": "35 Suave",
+    "presentacion": "Blíster",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Cepillo manual; dureza suave; indicador de desgaste; para adultos; colores del mango pueden variar"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086494262_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/Imagenes_de_planograma__9074affa-0010-477e-ac76-e258cd576d10__07501086494262.1.jpg?v=1744701524",
+      "pagina": "https://wecarepharma.mx/products/cepillo-dental-oral-b-indicator-suave-35",
+      "ancho_original": 550,
+      "alto_original": 550,
+      "lado_final": 542,
+      "fecha": "2026-09-29",
+      "lado_util": 501
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/cepillo-dental-oral-b-indicator-suave-35",
+    "https://www.mdsc.com.mx/en/shop/odontologia-14134/7501086494262-cepillo-dental-oral-b-indicator-suave-35-blister-c-1-pza-na-335239"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se abrió página del fabricante; se usó una ficha de tienda con el GTIN.",
+    "notas_imagenes": "1 foto de frente al blíster (tienda, 542 px, menor a 800 px; no se encontró fuente de mayor resolución). Se descartó un 'imagen no disponible'.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "KOPTIN 900 MG SUSP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Koptin Azitromicina 900 mg Suspensión 22.5 ml",
+  "descripcion": "Descripción:\nKoptin es un antibiótico de Chinoin cuyo principio activo es la azitromicina, en polvo para preparar suspensión oral con una concentración de 200 mg por cada 5 ml. El frasco contiene 900 mg de azitromicina para obtener 22.5 ml de suspensión. Se emplea en el tratamiento de infecciones causadas por bacterias sensibles a la azitromicina, como infecciones de la piel y tejidos blandos, sinusitis, faringitis, amigdalitis, neumonía y otras infecciones bacterianas.\n\nCaracterísticas:\n- Principio activo: azitromicina\n- Contenido: 900 mg por frasco (200 mg por cada 5 ml de suspensión)\n- Forma farmacéutica: polvo para suspensión oral\n- Vía de administración: oral\n\nFórmula:\nCada 5 ml de suspensión contienen azitromicina 200 mg.\n\nModo de uso:\nVía oral. Prepare la suspensión siguiendo las instrucciones del empaque. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con frasco de polvo para preparar 22.5 ml de suspensión (900 mg).\n\nAdvertencias:\nConserve el producto en ambiente controlado, entre 15 y 30 °C. Su uso requiere prescripción médica; no se automedique. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Koptin",
+    "fabricante": "Chinoin",
+    "presentacion": "Caja con frasco de polvo para suspensión de 22.5 ml",
+    "contenido_neto": 22.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Azitromicina",
+    "concentracion": "200 mg/5 ml (900 mg por frasco)",
+    "via_administracion": "Oral",
+    "registro_sanitario": "342M2002 SSA IV",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; Fracción IV"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088507915_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw405325cf/images/large/7501088507915_1.jpg",
+      "pagina": "https://www.yza.mx/koptin-suspension-2005ml/MXYZ_7501088507915.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 865,
+      "fecha": "2026-09-29",
+      "lado_util": 802
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/antibioticos/3282-koptin-suspension-900-mg-caja-con-frasco-con-polvo-para-200-mg-5-ml-rx2-7501088507915.html",
+    "https://www.farmatodo.com.mx/koptin-suspension-900-mg-frasco-c-225-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de farmacias en línea (Farmalisto, Farmatodo); sin ficha oficial. Las contraindicaciones no se pudieron confirmar y se omitieron. El nombre del sistema dice '900 MG SUSP' y coincide con el frasco de 22.5 ml.",
+    "notas_imagenes": "1 foto de tienda (Yza, 1000 px): caja, frasco y jeringa dosificadora.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

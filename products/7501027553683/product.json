@@ -4,29 +4,55 @@
   "linea": "Mark",
   "nombre_sistema": "SET EVENFLO PEINE Y CEPILLO ZOO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Set Evenflo Peine y Cepillo para Bebé Zoo Friends 2 Piezas",
+  "descripcion": "Descripción:\nSet Evenflo de cepillo y peine para bebé de la línea Zoo Friends. Incluye dos piezas, un cepillo y un peine, pensadas para el cuidado delicado del cabello del bebé desde recién nacido, con decoración de animalitos en cada pieza.\n\nCaracterísticas:\n- Set de 2 piezas: 1 cepillo y 1 peine\n- Cepillo suave y delicado, ideal para recién nacido\n- Peine para desenredar y peinar el cabello del bebé\n- Decoración con animalitos de la línea Zoo Friends\n- Empaque individual tipo blíster\n- El diseño y el color de las piezas pueden variar según disponibilidad\n\nModo de uso:\nCepille y peine suavemente el cabello del bebé, siempre con movimientos delicados. Lave las piezas con agua y jabón neutro después de usarlas.\n\nPresentación:\nEmpaque con 1 cepillo y 1 peine.\n\nAdvertencias:\nUtilícelo siempre con la supervisión de un adulto. Manténgase fuera del alcance de los niños sin supervisión.",
+  "ficha": {
+    "marca": "Evenflo",
+    "linea": "Zoo Friends",
+    "presentacion": "Set de cepillo y peine (2 piezas)",
+    "contenido_neto": 2,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 2,
+    "edad_etapa": "Recién nacido en adelante",
+    "otros": "Incluye: 1 cepillo y 1 peine; Diseño y color según disponibilidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM429679",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Peines y Cepillos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM26326877"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027553683_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://static.farmaciaparis.com/products-v2/33bb027e-7a0f-438f-94c3-cc727461754c.webp",
+      "pagina": "https://farmaciaparis.com/products/5564",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 1036,
+      "fecha": "2026-09-29",
+      "lado_util": 960
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/set-evenflo-peine-y-cepillo-2-pz.html",
+    "https://farmaciaparis.com/products/5564"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fichas de tienda con muy poca información; materiales y medidas no confirmados. catalogo_ml MLM26326877 tomado del título de un resultado ('Cepillo y Peine Zoo Friends C/2 pz'); no se pudo abrir la ficha.",
+    "notas_imagenes": "1 foto de frente al empaque (blíster Evenflo con cepillo y peine), origen tienda, 1024 px. Se eliminaron una foto con leyenda de tienda y otra de un producto ajeno (cubiertas para cepillo dental).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

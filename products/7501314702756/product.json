@@ -4,29 +4,83 @@
   "linea": "Farma",
   "nombre_sistema": "ARFLA 200MG C28 TABS ORAL CAJA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Arfla Rifaximina 200 mg 28 Tabletas",
+  "descripcion": "Descripción:\nArfla es un antibiótico intestinal en tabletas a base de rifaximina 200 mg, de Laboratorios Senosiain (línea Exea). Está indicado en enfermedades del aparato gastrointestinal causadas por bacterias sensibles: infecciones intestinales agudas y crónicas, síndrome diarreico, enterocolitis bacteriana resistente al tratamiento sintomático en pacientes de riesgo, diarrea del viajero, diverticulitis aguda, profilaxis antes y después de cirugía del tracto gastrointestinal y como terapia coadyuvante en la encefalopatía hepática.\n\nComposición:\nCada tableta contiene rifaximina 200 mg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración dependen de la indicación y las determina el médico. Como referencia, en diarrea infecciosa los adultos y mayores de 12 años toman una tableta de 200 mg tres veces al día durante 4 días, o dos tabletas dos veces al día durante tres días.\n\nPresentación:\nCaja con 28 tabletas de 200 mg.\n\nAdvertencias:\n- No se administre a niños menores de 12 años.\n- Contraindicado en hipersensibilidad a la rifaximina o a otras rifamicinas, obstrucción intestinal y lesiones ulcerativas graves del intestino.\n- Puede producir coloración rojiza de la orina sin relevancia clínica.\n- Antibiótico: el uso incorrecto de este producto puede causar resistencia bacteriana.\n- Úselo con precaución durante el embarazo y la lactancia y bajo control médico.\n- Su venta requiere receta médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Arfla",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Exea",
+    "presentacion": "Caja con 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Rifaximina",
+    "concentracion": "200 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "300M2016 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Antibiótico intestinal; Fracción sanitaria: Grupo IV"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314702756_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702756.jpg",
+      "pagina": "https://www.fahorro.com/arfla-200-mg-oral-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1424,
+      "fecha": "2026-09-29",
+      "lado_util": 1318
+    },
+    {
+      "archivo": "7501314702756_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702756_1.jpg",
+      "pagina": "https://www.fahorro.com/arfla-200-mg-oral-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1461,
+      "fecha": "2026-09-29",
+      "lado_util": 1353
+    },
+    {
+      "archivo": "7501314702756_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314702756_2.jpg",
+      "pagina": "https://www.fahorro.com/arfla-200-mg-oral-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1199,
+      "fecha": "2026-09-29",
+      "lado_util": 1111
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/arfla-200-mg-caja-c-28-tabletas/p",
+    "https://farmalisto.com.mx/antibioticos/18395-comprar-arfla-200-mg-caja-con-28-tabletas-rx2-precio-7501314702756.html",
+    "https://www.fahorro.com/arfla-200-mg-oral-28-tabs.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto (URL 7501314702756) y Farmatodo. Antibiótico con leyenda de venta con receta.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): frente de la caja Arfla 200 mg con 28 tabletas, reverso con fórmula y caja en perspectiva.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

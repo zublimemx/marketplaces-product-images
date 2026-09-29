@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA VITACILINA FAC ACLARADOR 100G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Vitacilina Aclaradora Día y Noche 100 g",
+  "descripcion": "Descripción:\nVitacilina Facial Aclaradora es una crema facial para usar de día y de noche que combina retinol, niacinamida y vitamina C en una fórmula hidratante y luminosa. Se presenta en un tarro de 100 g con tapa metálica, dentro de una caja de cartón, y está pensada para el cuidado diario de la piel del rostro.\n\nBeneficios:\n- Crema aclaradora de rostro con acción hidratante y luminosa\n- Ayuda a lucir un tono de piel más uniforme y radiante\n- Fórmula con retinol, niacinamida y vitamina C\n- Un solo producto para la rutina de día y de noche\n- Práctico tarro de 100 g para uso continuo\n\nIngredientes:\nIngredientes destacados: retinol, niacinamida y vitamina C. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nAplicar por la mañana y por la noche sobre el rostro limpio y seco, con un masaje suave hasta su completa absorción.\n\nPresentación:\nTarro con 100 g de crema facial, en caja individual.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si presenta irritación o molestia en la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "linea": "Facial",
+    "variante": "Aclaradora día y noche",
+    "presentacion": "Tarro de 100 g",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Tipo de producto: crema facial; Activos: retinol, niacinamida y vitamina C; Uso: día y noche"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506376000260_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/750637600026.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-crema-facial-aclaradora-100-gr.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1226,
+      "fecha": "2026-09-29",
+      "lado_util": 1136
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/vitacilina-crema-facial-aclaradora-100-gr.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de tienda trae poca información; activos tomados del empaque (retinol, niacinamida, vitamina C). Modo de uso redactado en forma general a partir del formato día y noche del empaque y del producto hermano antiarrugas. Tipo de piel no confirmado.",
+    "notas_imagenes": "1 foto de frente al empaque (tarro y caja), origen tienda, 1226 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

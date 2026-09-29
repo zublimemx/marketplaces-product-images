@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SENOSIAIN AD C 20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Supositorios Senosiain Adulto Glicerina 20 Piezas",
+  "descripcion": "Descripción:\nSupositorios Senosiain Adulto son supositorios de glicerol (glicerina) para uso rectal, de Laboratorios Senosiain. Su empaque los presenta como evacuante intestinal para el alivio del estreñimiento. Cada caja contiene 20 supositorios para adultos.\n\nBeneficios:\n- Evacuante intestinal.\n- Alivio del estreñimiento.\n- Presentación con 20 supositorios.\n- Formato para adultos.\n\nComposición:\nGlicerol (glicerina).\n\nModo de uso:\nVía rectal. Retire el supositorio de su envoltura e introdúzcalo en el recto siguiendo la dosis indicada en el empaque o por su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 supositorios para adultos.\n\nAdvertencias:\n- Uso rectal exclusivamente; no se ingiere.\n- No lo use por períodos prolongados sin indicación médica.\n- Suspenda su uso y consulte a su médico si hay sangrado rectal, dolor abdominal intenso o si el estreñimiento persiste.\n- Conservar en un lugar fresco y seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Senosiain",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Supositorios de glicerina",
+    "variante": "Adulto",
+    "presentacion": "Caja con 20 supositorios",
+    "contenido_neto": 20,
+    "unidad_contenido": "supositorios",
+    "unidades_por_envase": 20,
+    "principio_activo": "Glicerol (glicerina)",
+    "via_administracion": "Rectal",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: laxante evacuante; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704149_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwfd892757/images/large/7501314704149_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/senosiain-supositorios-adulto-20-sups/MXYZ_7501314704149.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 828,
+      "fecha": "2026-09-29",
+      "lado_util": 764
+    },
+    {
+      "archivo": "7501314704149_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501314704149.jpeg",
+      "pagina": "https://www.yza.mx/senosiain-supositorios-adulto-20-sups/MXYZ_7501314704149.html",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 1275,
+      "fecha": "2026-09-29",
+      "lado_util": 1180
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/laxantes/6034-comprar-senosiain-adulto-caja-con-20-supositorios-estrenimiento-precio-7501314704149.html",
+    "https://grupofarmapronto.com/producto/senosiain-adulto-c-20-supositorios/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Senosiain adulto, 20 supositorios, glicerol, OTC). No se pudo leer la ficha detallada (la de Farmalisto fue rechazada por límite de solicitudes); la descripción sale de la caja y de la ficha de otra farmacia. No se incluyó la cantidad de glicerol por supositorio; otra presentación de la línea (10 piezas) indica 2632 mg, confirmar en el empaque.",
+    "notas_imagenes": "2 fotos de la caja de 20 supositorios (tienda: Yza 828 px y Farmapronto 1275 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

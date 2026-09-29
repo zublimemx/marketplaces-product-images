@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "CAPENT 45GR POMADA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pomada para Rozaduras Capent 45 g",
+  "descripcion": "Descripción:\nCapent es una pomada para rozaduras de bebé que forma una capa protectora sobre la piel y proporciona un rápido y eficaz alivio. Contiene vitaminas A, D y E. Se presenta en tubo de 45 g, dentro de una caja individual.\n\nBeneficios:\n- Forma una capa protectora que proporciona un rápido y eficaz alivio de las rozaduras.\n- Contiene vitaminas A, D y E.\n- Pensada para el cuidado de la piel del bebé.\n\nIngredientes:\nContiene vitaminas A, D y E. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nAplique una capa delgada sobre la piel limpia y seca de la zona con rozaduras, por ejemplo en el área del pañal, en cada cambio de pañal o las veces que sea necesario.\n\nPresentación:\nCaja con tubo de 45 g de pomada.\n\nAdvertencias:\nSolo para uso externo. Consérvese a no más de 30 °C. Si persisten las molestias, consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Capent",
+    "fabricante": "Grisi Hnos., S.A. de C.V.",
+    "linea": "Bebé",
+    "variante": "Pomada para rozaduras",
+    "presentacion": "Tubo en caja",
+    "contenido_neto": 45,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "registro_sanitario": "53922 SSA",
+    "otros": "Contiene vitaminas A, D y E; Material de curación; Conservar a no más de 30 °C"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM193807",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "037836012334_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/37836012334-1.jpg",
+      "pagina": "https://farmaciasmedina.com/detalleProducto/Capent-Pomada-Para-Rozaduras/037836012334",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 695,
+      "fecha": "2026-09-29",
+      "lado_util": 642
+    },
+    {
+      "archivo": "037836012334_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasmedina.com/assets/images/articulosNuevoNombre/037836012334_Capent_Pomada_Para_Rozaduras.jpg",
+      "pagina": "https://farmaciasmedina.com/detalleProducto/Capent-Pomada-Para-Rozaduras/037836012334",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1205,
+      "fecha": "2026-09-29",
+      "lado_util": 1116
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Capent-Pomada-Para-Rozaduras/037836012334",
+    "https://prixz.com/c/capent-pomada-con-45-g/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN es de 12 dígitos (037836012334). El modo de uso es general; el texto de la caja solo indica que forma una capa protectora. Datos de registro y conservación leídos en la caja.",
+    "notas_imagenes": "2 fotos de tienda de frente del empaque (delsol/cloudfront 800 px y farmaciasmedina 1200 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

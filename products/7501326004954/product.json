@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "JANUMET 50 1000 C 56 TBL MAYO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Janumet Sitagliptina Metformina 50/1000 mg 56 Comprimidos",
+  "descripcion": "Descripción:\nJanumet es un medicamento de MSD que combina sitagliptina (un inhibidor de la DPP-4) con metformina, dos antidiabéticos orales que se complementan para el control de la glucosa. Esta presentación contiene 50 mg de sitagliptina y 1000 mg de metformina por comprimido y se vende en caja con 56 comprimidos para administración oral.\n\nBeneficios:\n- Antidiabético oral de combinación\n- Indicado en el control de la glucemia en pacientes con diabetes mellitus tipo 2\n- Dos principios activos en un solo comprimido\n- Caja con 56 comprimidos\n\nComposición:\n- Sitagliptina (como fosfato de sitagliptina) 50 mg por comprimido\n- Clorhidrato de metformina 1000 mg por comprimido\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga siempre sus indicaciones y las del instructivo.\n\nPresentación:\nCaja con 56 comprimidos.\n\nAdvertencias:\nSu venta requiere receta médica. Es un medicamento de uso crónico que requiere vigilancia médica; no modifique ni suspenda la dosis sin consultar a su médico. No lo use si es alérgico a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Janumet",
+    "fabricante": "MSD",
+    "presentacion": "Caja con 56 comprimidos",
+    "contenido_neto": 56,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 56,
+    "principio_activo": "Sitagliptina y metformina",
+    "concentracion": "Sitagliptina 50 mg y metformina 1000 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "134M2007 SSA IV",
+    "otros": "Forma farmacéutica: comprimido; Código ATC: A10BD07; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501326004954_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501326004954.png",
+      "pagina": "https://www.fahorro.com/janumet-50-1000-mg-oral-56-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1472,
+      "fecha": "2026-09-29",
+      "lado_util": 1363
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/especializados/6201-comprar-janumet-50-1000-mg-caja-con-56-comprimidos-diabetes-mellitus-tipo-2-precio-7501326004954-msd.html",
+    "https://www.fahorro.com/janumet-50-1000-mg-oral-56-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de tienda no trae dosis ni contraindicaciones; el modo de uso y las advertencias se redactaron de forma general.",
+    "notas_imagenes": "1 foto de frente a la caja (MSD, 50 mg/1000 mg, 56 comprimidos), origen tienda, 1600 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

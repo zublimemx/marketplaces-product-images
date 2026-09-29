@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE TOTAL 150 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Total Prevención Activa 150 ml",
+  "descripcion": "Descripción:\nCrema dental Colgate Total (Total 12 Clean Mint / Total Prevención Activa Original Mint) en tubo de 150 ml. Su fórmula con sabor a menta no solo refresca el aliento, sino que crea una capa de protección de hasta 12 horas continuas para toda la boca. Recubre el esmalte para cuidarlo de la aparición de manchas, sarro, placa y sensibilidad, y está reforzada con flúor, que ayuda a prevenir las caries.\n\nBeneficios:\n- Fórmula con flúor que ayuda a prevenir las caries\n- Sabor menta que refresca el aliento\n- Protección de hasta 12 horas\n- Ayuda a proteger el esmalte contra manchas, sarro, placa y sensibilidad\n- Reduce las bacterias en dientes, lengua, mejillas y encías\n\nModo de uso:\nCepille sus dientes tres veces al día, después de cada comida, con una cantidad adecuada de crema dental.\n\nPresentación:\nTubo con 150 ml de crema dental.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Total",
+    "variante": "Prevención Activa Original Mint (Total 12 Clean Mint)",
+    "presentacion": "Tubo",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Con flúor; protección de hasta 12 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911376_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035911376_5.jpg",
+      "pagina": "https://www.fahorro.com/crema-dental-colgate-total-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1647,
+      "fecha": "2026-09-29",
+      "lado_util": 1525
+    },
+    {
+      "archivo": "7501035911376_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmacorp.com/cdn/shop/files/7501035911376_2000x2000.jpg?v=1790656719",
+      "pagina": "https://www.fahorro.com/crema-dental-colgate-total-150-ml.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1621,
+      "fecha": "2026-09-29",
+      "lado_util": 1501
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-dental-colgate-total-150-ml.html",
+    "https://farmacorp.com/products/7501035911376"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El mismo GTIN aparece con dos diseños de empaque: Total 12 Clean Mint (antiguo) y Total Prevención Activa Original Mint (vigente). No se abrió el sitio oficial de Colgate (acceso denegado).",
+    "notas_imagenes": "2 fotos (tienda, más de 1,600 px): tubo y caja en perspectiva, y frente de la caja, del diseño Prevención Activa. Se descartó la foto del diseño antiguo Total 12.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

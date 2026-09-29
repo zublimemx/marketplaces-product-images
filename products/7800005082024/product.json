@@ -4,29 +4,58 @@
   "linea": "Mark",
   "nombre_sistema": "HILO SDA ORAL-B CERA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hilo Dental Oral-B Essential Floss Encerado 50 m",
+  "descripcion": "Descripción:\nHilo dental Oral-B Essential Floss encerado con sabor a menta, en carrete de 50 metros. Limpia donde el cepillo no alcanza: su hilo suave y resistente, con recubrimiento de cera, se desliza sin esfuerzo entre los dientes y accede a los espacios reducidos para retirar restos de comida y dejar la boca con una agradable sensación de frescor. Es un complemento ideal del cepillado diario para ayudar a mantener dientes y encías en buenas condiciones.\n\nCaracterísticas:\n- Hilo dental encerado\n- Suave y resistente, con mayor control durante el uso\n- Sabor a menta\n- Se desliza fácilmente entre los dientes y llega a espacios reducidos\n- Deja una agradable sensación de frescor en la boca\n- Longitud: 50 metros\n\nModo de uso:\nUtilícelo después del cepillado de la mañana y de la noche.\n\nPresentación:\nUna pieza de hilo dental encerado con 50 m.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Essential Floss",
+    "variante": "Encerado",
+    "presentacion": "Carrete",
+    "contenido_neto": 50,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Tipo de producto: hilo dental encerado; Longitud: 50 m"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180913",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Hilos Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM16134274"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7800005082024_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7800005082024_1.jpg",
+      "pagina": "https://www.fahorro.com/oral-b-essential-floss-hilo-dental-50-mt.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmalisto.com.mx/hilo-dental/12349-comprar-oral-b-hilo-dental-empaque-con-1-pieza-con-50-m-limpieza-bucal-precio-7800005082024.html",
+    "https://superfenix.mx/producto/hilo-dental-oral-b-hilo-dental-con-cera/",
+    "https://www.arenal.com/satin-tape-oral-b-hilo-dental-seda-cons-abor-menta"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Beneficios y modo de uso tomados de la ficha del mismo producto (Essential Floss encerado menta) en una tienda europea (Arenal); las tiendas mexicanas solo confirman EAN, 50 m y encerado. catalogo_ml coincide por nombre y presentación, no se verificó el GTIN en la ficha. Sin advertencias en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): blíster frontal de Essential Floss 50 m. Se descartó una imagen publicitaria con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "TROFERIT JRB 120 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Troferit Jarabe Dropropizina 3 mg/ml 120 ml",
+  "descripcion": "Descripción:\nTroferit es un jarabe antitusígeno no narcótico de acción periférica, a base de dropropizina, de Productos Farmacéuticos (Chinoin). Actúa como sedante periférico de la tos y, a diferencia de los antitusivos tipo codeína, no tiene acción depresora del sistema nervioso central, según la información del medicamento. Está indicado para el tratamiento de la tos de cualquier origen, aun en presencia de broncoespasmo e insuficiencia respiratoria, así como en faringitis, laringitis, traqueítis aguda o crónica y tos irritativa.\n\nComposición:\nJarabe. Cada 100 ml contienen dropropizina 300 mg (3 mg/ml) y vehículo cbp. Contiene 65 por ciento de azúcar.\n\nModo de uso:\nVía oral.\n- Adultos y mayores de 12 años: 10 ml cada 8 horas.\n- Niños de 6 a 12 años: 5 ml cada 8 horas.\n- Niños de 2 a 5 años: 2.5 ml cada 8 horas.\n\nPresentación:\nCaja con frasco de 120 ml y vaso dosificador.\n\nAdvertencias:\n- No se use en niños menores de 2 años.\n- Contraindicado en úlcera gástrica activa, insuficiencia hepática o renal e hipersensibilidad a los componentes.\n- Úselo con precaución si tiene antecedentes de enfermedad hepática o renal, úlcera o diabetes (contiene azúcar).\n- No se aconseja durante el primer trimestre del embarazo ni durante la lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Troferit",
+    "fabricante": "Productos Farmacéuticos, S.A. de C.V. (Chinoin)",
+    "presentacion": "Frasco con 120 ml y vaso dosificador",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dropropizina",
+    "concentracion": "3 mg/ml (300 mg por 100 ml)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 2 años",
+    "sabor_aroma": "Jarabe con azúcar",
+    "registro_sanitario": "90850 SSA VI",
+    "otros": "Forma farmacéutica: jarabe; Incluye vaso dosificador; Contiene 65 por ciento de azúcar; Fracción sanitaria: Grupo VI; Almacenar entre 15 y 30 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088575396_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb1f2cbb4/images/large/7501088575396_1.jpg",
+      "pagina": "https://www.yza.mx/troferit-jarabe-300mg-120ml-/MXYZ_7501088575396.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 965,
+      "fecha": "2026-09-29",
+      "lado_util": 894
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/troferit-jarabe-3-1-mg-ml-frasco-c-120-ml/p",
+    "https://farmalisto.com.mx/gripe-y-tos/3304-troferit-jarabe-frasco-con-120-ml-7501088575396.html",
+    "https://www.yza.mx/troferit-jarabe-300mg-120ml-/MXYZ_7501088575396.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto y Farmatodo. Registro SSA VI (venta libre); se dejó receta No.",
+    "notas_imagenes": "1 foto de tienda (YZA, 1000 px): caja y frasco de Troferit 120 ml con vaso dosificador. Las fotos de Farmacias Medina y Benavides eran de menos de 500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

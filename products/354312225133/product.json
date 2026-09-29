@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "VITACILINA 28GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vitacilina Ungüento Tópico con Neomicina 28 g",
+  "descripcion": "Descripción:\nVitacilina ungüento es un medicamento de uso tópico que combina el efecto antibacteriano de la neomicina con el efecto queratolítico del retinol (regeneración de la capa córnea de la piel). Está indicado como auxiliar en el tratamiento de infecciones bacterianas superficiales de la piel, así como en el manejo del acné vulgar leve, foliculitis, furunculosis, eczema y dermatosis secundariamente infectadas.\n\nBeneficios:\n- Raspones, cortaduras accidentales o quirúrgicas y heridas superficiales\n- Quemaduras superficiales\n- Barros y espinillas\n- Eczema, foliculitis y furunculosis\n- Impétigo y úlceras impetiginizadas o infectadas por bacterias susceptibles\n- Profilaxis de infecciones potenciales en laceraciones, cortaduras y abrasiones\n\nComposición:\nCada 100 g contienen sulfato de neomicina equivalente a 0.350 g de neomicina y retinol (palmitato de vitamina A) 100,000 UI; excipiente cbp 100 g.\n\nModo de uso:\nVía tópica. Aplique sobre la zona afectada limpia, en la cantidad y con la frecuencia que indique su médico o el empaque.\n\nPresentación:\nCaja con tubo de 28 g de ungüento.\n\nAdvertencias:\nNo se recomienda su uso durante el embarazo ni la lactancia. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vitacilina",
+    "fabricante": "Compañía Internacional de Comercio",
+    "presentacion": "Ungüento",
+    "contenido_neto": 28,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Neomicina (sulfato); Retinol (palmitato de vitamina A)",
+    "concentracion": "Neomicina 0.350 g y retinol 100,000 UI por cada 100 g",
+    "via_administracion": "Tópica",
+    "otros": "Caja con tubo de 28 g; venta sin receta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "354312225133_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225133_2_2.jpg",
+      "pagina": "https://www.fahorro.com/vitacilina-unguento-28-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1165,
+      "fecha": "2026-09-29",
+      "lado_util": 1078
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/vitacilina-unguento-28g/MXYZ_354312225133.html",
+    "https://www.fahorro.com/vitacilina-unguento-28-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El código del sistema tiene 12 dígitos; coincide con el SKU 354312225133 de las fichas.",
+    "notas_imagenes": "1 foto de frente a la caja (tienda, 1165 px). Se descartó otra foto de baja calidad con fondo gris.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

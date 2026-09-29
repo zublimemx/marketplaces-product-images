@@ -4,15 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "NEURODEX C12 TABS DEXAMETASONA COMPLEJO B MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Neurodex Dexametasona Complejo B 12 Tabletas",
+  "descripcion": "Descripción:\nNeurodex Tabletas es un medicamento de la marca Medicam que combina dexametasona, un glucocorticoide con acción antiinflamatoria, con vitaminas del complejo B en una sola presentación de 12 tabletas para administración oral. Su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nComposición:\nDexametasona y complejo B (vitaminas del grupo B). Las concentraciones de cada componente deben confirmarse en el empaque.\n\nModo de uso:\nVía oral. Siga la dosis y la duración del tratamiento indicadas por su médico; no suspenda el tratamiento de forma repentina sin indicación médica.\n\nPresentación:\nCaja con 12 tabletas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- Consulte a su médico si es diabético, tiene hipertensión, úlcera, alguna infección, si está embarazada o en lactancia, o si toma otros medicamentos.\n- Conservar en un lugar fresco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neurodex",
+    "fabricante": "Medicam",
+    "linea": "Neurodex",
+    "variante": "Tabletas",
+    "presentacion": "Caja con 12 tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Dexametasona y complejo B",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Grupo terapéutico: corticoide con vitaminas del complejo B; Venta con receta médica; Concentraciones por confirmar en el empaque; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
@@ -21,12 +34,18 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://mayoreofarmaceutico.com.mx/productos/1306881052183/",
+    "https://farmaciaherrera.com.mx/products/dexametasona-complejo-b-neurodex-con-12-tabletas",
+    "https://www.rappi.com.mx/p/neurodex-dexanetasonacomplejo-b-1170212"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 1306881052183 confirmado en fichas de distribuidor (Neurodex, dexametasona/complejo B, 12 tabletas, Medicam). Ninguna ficha da las concentraciones de dexametasona ni de cada vitamina B; verificar en el empaque. Categoría igual a la de Neurodex inyectable; grupo terapéutico por confirmar.",
+    "notas_imagenes": "Sin fotos: la única foto disponible (distribuidor, 640 px) tenía el logotipo de la tienda sobre la imagen y se borró; las demás fichas usan una imagen genérica o no traen foto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,57 @@
   "linea": "Mark",
   "nombre_sistema": "POM XIOMARA BAR-BIG-CAB BLACK 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pomada Xiomara Wax & Shine Black Barba y Cabello 60 g",
+  "descripcion": "Descripción:\nXiomara Wax & Shine Black es una pomada profesional para barba, bigote y cabello con control de estilo firme. Controla el frizz y mantiene el peinado con un efecto firme y natural, y su tarro de 60 g es fácil de llevar a todas partes.\n\nBeneficios:\n- Pomada profesional para barba, bigote y cabello\n- Control de estilo firme\n- Controla el frizz y mantiene el cabello con un efecto firme y natural\n- Uso versátil en cabello, barba y bigote\n- Formato portátil de 60 g\n\nModo de uso:\nTome una pequeña cantidad de pomada, frótela entre las palmas de las manos y aplíquela sobre el cabello, la barba o el bigote, moldeando con los dedos o con un peine hasta lograr el estilo deseado.\n\nPresentación:\nTarro con 60 g de pomada.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Xiomara",
+    "linea": "Wax & Shine",
+    "variante": "Black",
+    "presentacion": "Tarro de 60 g",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "tipo_piel_cabello": "Cabello, barba y bigote",
+    "otros": "Tipo de producto: pomada profesional para barba, bigote y cabello; Fijación firme"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18985402"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501846504859_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501846504859-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/pomada-wax-and-shine-black-60grs",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/pomada-profesional-xiomara-wax-shine-black-para-barba-bigote-y-cabello-60-g/00750184650485",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/pomada-wax-and-shine-black-60grs"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN visto en un listado de otra tienda (Xiomara Wax & Shine Black pomada 60 gr). Ingredientes no disponibles; modo de uso genérico. catalogo_ml MLM18985402 tomado del título de un resultado ('Cera para Peinar Xiomara Wax & Shine Black 60g'); no se pudo abrir la ficha.",
+    "notas_imagenes": "1 foto de frente al tarro negro, origen tienda, 1080 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

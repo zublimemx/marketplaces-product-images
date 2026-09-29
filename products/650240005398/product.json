@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "SILKA MEDIC 30 GR GEL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Silka Medic Gel Antimicótico Terbinafina 1% 30 g",
+  "descripcion": "Descripción:\nSilka Medic gel es un antimicótico de uso tópico, de Genomma Lab, indicado para el tratamiento del pie de atleta (tinea pedis) y de las infecciones micóticas de la piel ubicadas en ingle (tinea cruris), manos, tórax y axilas. Contiene terbinafina, que actúa contra el hongo que provoca la infección y ayuda a eliminar sus síntomas: comezón, ardor, sudoración y descamación de los pies.\n\nBeneficios:\n- Antimicótico con terbinafina al 1% en gel de fácil aplicación\n- Elimina el hongo que causa el pie de atleta y ayuda a aliviar comezón, ardor, sudoración y descamación\n- Indicado también en tiña de la ingle, del cuerpo y candidiasis cutánea\n\nComposición:\nTerbinafina gel al 1%.\n\nModo de uso:\nVía tópica. Aplique el gel una o dos veces al día sobre la zona afectada y el área circundante. Para el pie de atleta, ponga especial atención en los espacios entre los dedos. La duración del tratamiento varía según la afección: en tiña del cuerpo, de la ingle, del pie y candidiasis cutánea, 1 semana; en pitiriasis versicolor, 2 semanas.\n\nPresentación:\nCaja con tubo de 30 g de gel.\n\nAdvertencias:\nNo se recomienda su uso durante el embarazo ni la lactancia. Evite el contacto con los ojos. Si las molestias persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Silka Medic",
+    "fabricante": "Genomma Lab",
+    "presentacion": "Gel",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Terbinafina",
+    "concentracion": "1%",
+    "via_administracion": "Tópica",
+    "otros": "Caja con tubo de 30 g; venta sin receta (fracción VI)"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240005398_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/8243-large_default/silka-medic-30-g-gel.webp",
+      "pagina": "https://farmaciagloria.mx/Antimicoticos/3468-silka-medic-30-g-gel.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 565,
+      "fecha": "2026-09-29",
+      "lado_util": 524
+    },
+    {
+      "archivo": "650240005398_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciagloria.mx/8244-large_default/silka-medic-30-g-gel.webp",
+      "pagina": "https://farmaciagloria.mx/Antimicoticos/3468-silka-medic-30-g-gel.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 576,
+      "fecha": "2026-09-29",
+      "lado_util": 534
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciagloria.mx/Antimicoticos/3468-silka-medic-30-g-gel.html",
+    "https://www.sears.com.mx/producto/812901/silka-medic-gel-30g",
+    "https://www.farmatodo.com.mx/silka-medic-gel-001-c-30-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El código del sistema tiene 12 dígitos (0650240005398 en las fichas). La duración del tratamiento del empaque indica una aplicación al día por 1 semana; una tienda dice una o dos veces al día: seguir el instructivo del empaque.",
+    "notas_imagenes": "2 fotos (tienda, 565 px y 576 px, menores a 800 px; la fuente solo ofrece 643 px): caja de frente y panel posterior.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

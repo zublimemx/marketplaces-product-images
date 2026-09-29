@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CERA XIOMARA MOLDE RING WAX&S 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cera Modeladora Xiomara Wax & Shine Efecto Ring 60 g",
+  "descripcion": "Descripción:\nCera modeladora para el cabello Xiomara Wax & Shine con efecto Ring y estilo Cool Style, en tarro de 60 g. Sirve para dar forma al peinado y aporta brillo, con un aspecto fresco y húmedo al cabello.\n\nCaracterísticas:\n- Cera modeladora para peinar y dar forma al cabello.\n- Aporta brillo y un aspecto fresco y húmedo al peinado.\n- Efecto Ring, estilo Cool Style.\n- Práctico tarro de 60 g, fácil de llevar.\n\nModo de uso:\nTome una pequeña cantidad de producto, frótela entre las manos para calentarla y distribúyala sobre el cabello seco o húmedo, dando forma al peinado. Si desea rehacer el peinado durante el día, agregue un poco más de producto.\n\nPresentación:\nTarro de 60 g.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con agua abundante. Suspenda su uso si aparece irritación. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Xiomara",
+    "linea": "Wax & Shine",
+    "variante": "Efecto Ring / Cool Style",
+    "presentacion": "Tarro de 60 g",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Producto: cera modeladora para el cabello; Formato de venta: tarro"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501846503777_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://costofarma.mx/cdn/shop/files/7501846503777.jpg?v=1756271612&width=1946",
+      "pagina": "https://costofarma.mx/products/cera-xiomara-molde-ring-wax-s-60g-7501846503777",
+      "ancho_original": 1152,
+      "alto_original": 1000,
+      "lado_final": 967,
+      "fecha": "2026-09-29",
+      "lado_util": 896
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://costofarma.mx/products/cera-xiomara-molde-ring-wax-s-60g-7501846503777",
+    "https://www.arteli.com.mx/cera-para-peinar-xiomara-wax--shine-modeladora-ring-60g-3324295/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en ficha de tienda con presentación de 60 g. Hay poca información de fabricante; no se encontró lista de ingredientes ni sitio oficial. El catálogo de Mercado Libre que apareció corresponde a un paquete de 3 piezas, por lo que no se registró.",
+    "notas_imagenes": "1 foto de frente al tarro (tienda, 967 px). Se descartó una foto de 533 px con otro tono de color.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

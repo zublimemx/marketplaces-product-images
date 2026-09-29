@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE MEN APOLLO SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Apollo Aerosol Hombre 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol Axe Apollo para hombre, de Unilever, con una fragancia fresca y masculina de carácter sofisticado. Está pensado para dar frescura y control del mal olor durante todo el día, con una fragancia duradera que acompaña la actitud de quien lo usa.\n\nBeneficios:\n- Destruye el mal olor y deja una fragancia de larga duración; el empaque indica hasta 48 horas de fragancia.\n- Fragancia Apollo, con aroma fresco y masculino.\n- Lata de aluminio reciclable.\n- Formato en aerosol de 150 ml, fácil de aplicar.\n\nModo de uso:\nAgite antes de usar. Gire, presione y aplique sobre las axilas limpias y secas, a no menos de 15 cm de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nEvite el uso íntimo. Aplique a una distancia mínima de 15 cm de la piel. Producto en aerosol: manténgalo alejado del fuego y fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Axe Men",
+    "variante": "Apollo",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Apollo (fresco y masculino)",
+    "otros": "Duración de la fragancia: 48 h; Lata de aluminio reciclable; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293025780_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293025780_4.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-apollo-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1622,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-apollo-150-ml.html/07791293025780",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-apollo-150-ml.html/07791293025780",
+    "https://www.farmatodo.com.mx/axe-apollo-desodorante-spray-150-ml/p",
+    "https://www.fahorro.com/desodorante-axe-apollo-hombre-150-ml-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Axe México y en Farmatodo. Las fuentes discrepan en la formulación: Farmatodo y la foto del empaque describen un desodorante con 48 h de fragancia, y la página oficial actual habla de un antitranspirante de 72 h con aroma cítrico y amaderado; se describió lo común y se dejó la fragancia en términos generales. Verificar contra el empaque.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del aerosol Axe Apollo 48h. Se descartó otra foto con un diseño de empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

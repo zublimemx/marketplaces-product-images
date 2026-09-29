@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "DAFLOXEN F C 16 TABL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dafloxen F Naproxeno/Paracetamol 275/300 mg 16 Tabletas",
+  "descripcion": "Descripción:\nDafloxen F es un medicamento en tabletas que combina naproxeno sódico y paracetamol, de Laboratorios Liomont. Está indicado para el alivio de la fiebre, el dolor y la inflamación: dolor de cabeza, dolor e inflamación dental, dolor e inflamación en músculos y articulaciones y dolor menstrual, y como coadyuvante del antibiótico en infecciones de oídos, nariz y garganta.\n\nComposición:\nCada tableta contiene naproxeno sódico 275 mg y paracetamol 300 mg (como paracetamol DC 90), con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral.\n- Adultos: dos tabletas al inicio del tratamiento y después una tableta cada 6 a 8 horas.\n- Personas de edad avanzada: una tableta cada 12 horas, sin exceder 2 tabletas al día.\n- No se administre a menores de 12 años.\n\nPresentación:\nCaja con 16 tabletas de 275 mg/300 mg.\n\nAdvertencias:\n- No se administre por más de 5 días.\n- No se utilice con otros productos que contengan paracetamol.\n- No se administre durante el embarazo ni la lactancia.\n- Contraindicado en hipersensibilidad a naproxeno o paracetamol, antecedentes de asma, pólipos nasales o urticaria por ácido acetilsalicílico y otros AINE, enfermedad péptica activa e insuficiencia hepática o renal.\n- Puede causar somnolencia o mareo; tenga precaución al conducir.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dafloxen",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Dafloxen F",
+    "presentacion": "Caja con 16 tabletas",
+    "contenido_neto": 16,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Naproxeno sódico y paracetamol",
+    "concentracion": "275 mg / 300 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "372M95 SSA VI",
+    "otros": "Forma farmacéutica: tableta; Fracción sanitaria: Grupo VI; No usar por más de 5 días"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299300909_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd5e0cb89/images/large/7501299300909_1.jpg",
+      "pagina": "https://www.yza.mx/dafloxen-f-275mg300mg-16-tabs/MXYZ_7501299300909.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 979,
+      "fecha": "2026-09-29",
+      "lado_util": 907
+    },
+    {
+      "archivo": "7501299300909_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw13117957/images/large/7501299300909_2.jpg",
+      "pagina": "https://www.yza.mx/dafloxen-f-275mg300mg-16-tabs/MXYZ_7501299300909.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1018,
+      "fecha": "2026-09-29",
+      "lado_util": 943
+    },
+    {
+      "archivo": "7501299300909_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwecda3c61/images/large/7501299300909_3.jpg",
+      "pagina": "https://www.yza.mx/dafloxen-f-275mg300mg-16-tabs/MXYZ_7501299300909.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1005,
+      "fecha": "2026-09-29",
+      "lado_util": 931
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/dafloxen-f-275-300-mg-caja-c-16-tabletas/p",
+    "https://www.medicamentosplm.com/Home/productos/dafloxen.f.tabletas/103/101/7110/210",
+    "https://www.yza.mx/dafloxen-f-275mg300mg-16-tabs/MXYZ_7501299300909.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo, Farmacias Medina y YZA. El registro es SSA VI (venta libre) y por eso se marca receta No; la ficha de PLM indica venta con receta, por lo que conviene verificarlo.",
+    "notas_imagenes": "3 fotos de tienda (YZA, 1000 px): caja de Dafloxen F 16 tabletas de frente y en perspectiva. Las fotos de Farmacias Medina eran de 480 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

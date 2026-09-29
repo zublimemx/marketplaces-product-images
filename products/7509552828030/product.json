@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "MASC FRUCTIS CAB DANAD COCO350ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Mascarilla Garnier Fructis Hair Food Coco 350 ml",
+  "descripcion": "Descripción:\nGarnier Fructis Hair Food Coco es una mascarilla de reparación de 1 minuto para cabello dañado, enriquecida con aceite y extracto de coco. Su textura en crema nutre e hidrata el cabello y lo deja suave, fácil de manejar y con brillo. Se presenta en un tarro de 350 ml.\n\nBeneficios:\n- Mascarilla de reparación en 1 minuto para cabello dañado\n- Nutre e hidrata profundamente\n- Deja el cabello suave y fácil de manejar\n- Aporta brillo\n- Ayuda a reparar el cabello dañado por coloración, plancha y secador\n- Fórmula sin siliconas, parabenos ni colorantes artificiales\n\nIngredientes:\nIngredientes destacados: aceite de coco y extracto de coco, con manteca de karité y otros aceites nutritivos. Consulte la lista completa de ingredientes en el empaque.\n\nModo de uso:\nAplique sobre el cabello húmedo después del shampoo, déjela actuar durante un minuto y enjuague con abundante agua.\n\nPresentación:\nTarro con 350 ml de mascarilla capilar.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Garnier Fructis",
+    "fabricante": "L'Oréal",
+    "linea": "Hair Food",
+    "variante": "Coco",
+    "presentacion": "Tarro de 350 ml",
+    "contenido_neto": 350,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Coco",
+    "tipo_piel_cabello": "Cabello dañado, seco y teñido",
+    "otros": "Tipo de producto: mascarilla de reparación de 1 minuto; Sin siliconas, parabenos ni colorantes artificiales"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM171894",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tratamientos para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509552828030_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509552828030-1.jpeg",
+      "pagina": "https://www.delsol.com.mx/mascarilla-de-reparacion-1-minuto-hair-fod-coco-garnier-350-ml",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1939,
+      "fecha": "2026-09-29",
+      "lado_util": 1796
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.garnier.cl/sobre-nuestras-marcas/fructis/hair-food-coco-350ml",
+    "https://www.walmart.com.mx/ip/mascarilla-para-cabello-garnier-fructis-hair-food-coco-cabello-danado-350-ml/00750955282803"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Beneficios, modo de uso e ingredientes destacados tomados de la página de Garnier Chile del mismo producto (Hair Food Coco 350 ml) y de una ficha de tienda de México; la fórmula de México podría variar ligeramente. El fabricante (L'Oréal) se dedujo de la marca.",
+    "notas_imagenes": "1 foto de frente al tarro, origen tienda, 1939 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

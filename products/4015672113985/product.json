@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "BAUMA BZO HEM 7146 30 MEMORIAS ENTRADA P/ELIMINADOR OMRON",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Baumanómetro Digital de Brazo Omron HEM-7146 30 Memorias",
+  "descripcion": "Descripción:\nMonitor de presión arterial automático de brazo OMRON HEM-7146 (M2+), con almacenamiento de 30 memorias y entrada para eliminador (adaptador de corriente, no incluido). Alerta al usuario cuando detecta latidos irregulares y cuenta con una guía de ajuste del brazalete que avisa cuando no está colocado adecuadamente.\n\nCaracterísticas:\n- Modelo HEM-7146, color blanco, medidas 125 x 165 x 118 mm, alimentación con 4 pilas AA (incluidas)\n- Detector de latido irregular\n- Guía de ajuste del brazalete\n- Brazalete universal que se ajusta a brazos de 22 a 42 cm de circunferencia\n- Detector de error de movimiento: identifica cuando el usuario se mueve durante la medición\n- Almacena 30 memorias\n- Compatible con la app OMRON Connect para guardar las mediciones en el smartphone con memorias ilimitadas y compartirlas con su médico o familiares\n- Garantía de 5 años\n\nPresentación:\n1 pieza. Incluye monitor de presión arterial automático de brazo, brazalete universal HEM-RML31-B, manual de instrucciones, guía de OMRON Connect y 4 pilas AA.\n\nAdvertencias:\nLea el manual de instrucciones antes de usar el equipo. Los resultados de las mediciones deben ser interpretados por su médico; el equipo no sustituye una valoración médica.",
+  "ficha": {
+    "marca": "OMRON",
+    "fabricante": "Omron Healthcare",
+    "linea": "M2+",
+    "variante": "HEM-7146",
+    "presentacion": "Monitor de presión arterial de brazo",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Modelo: HEM-7146 (HEM-7146-E); 30 memorias; brazalete universal 22 a 42 cm; medidas del equipo: 125 x 165 x 118 mm; color blanco; 4 pilas AA; garantía de 5 años; compatible con app OMRON Connect"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM190865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Medidores de Presión > Digitales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4015672113985_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/351210/351210_02.webp",
+      "pagina": "https://www.heb.com.mx/omron-monitor-de-presion-de-brazo-hem-7120-1-pz-549740/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 690,
+      "fecha": "2026-09-29",
+      "lado_util": 639
+    },
+    {
+      "archivo": "4015672113985_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/351210/351210_03.webp",
+      "pagina": "https://www.heb.com.mx/omron-monitor-de-presion-de-brazo-hem-7120-1-pz-549740/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 659,
+      "fecha": "2026-09-29",
+      "lado_util": 611
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/omron-monitor-de-presion-de-brazo-hem-7120-1-pz-549740/p",
+    "https://gpsfarma.com/tensiometro-digital-de-brazo-omron-hem-7146-e.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio oficial de Omron no estuvo accesible. El eliminador (adaptador) mencionado en el nombre del sistema no aparece entre los accesorios incluidos.",
+    "notas_imagenes": "2 fotos (tienda, cerca de 700 px): caja de frente y caja con equipo y brazalete. Se descartó un acercamiento de la pantalla del equipo.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

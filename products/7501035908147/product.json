@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "TCO MENNEN ROSA 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Talco para Bebé Mennen Baby Magic Rosa 200 g",
+  "descripcion": "Descripción:\nTalco para bebé Mennen Baby Magic hipoalergénico, versión rosa, en frasco de 200 g. Su suave fórmula cuida la delicada piel del bebé rechazando el paso de la humedad para ayudar a prevenir las rozaduras, además de ayudar a mantenerlo fresco y perfumado. Cuenta con la recomendación de la Sociedad Mexicana de Pediatría, A.C.\n\nBeneficios:\n- Fórmula hipoalergénica.\n- Protege la piel del bebé de las molestias e irritaciones causadas por la humedad del pañal.\n- Ayuda a prevenir las rozaduras.\n- Mantiene la piel fresca y con un aroma agradable.\n\nIngredientes:\nTalco, estearato de magnesio, carbonato de magnesio y fragancia (según la etiqueta de la línea Baby Magic; verifique la lista en su empaque).\n\nModo de uso:\nPonga un poco de talco en la palma de la mano y aplíquelo en el área del pañal del bebé. También puede usarse sobre el cuerpo para mantenerlo fresco.\n\nPresentación:\nFrasco con 200 g.\n\nAdvertencias:\n- Manténgase fuera del alcance de los niños.\n- Durante la aplicación evite el contacto con la nariz, la boca y los ojos del bebé.\n- No lo use sobre piel irritada o lastimada.\n- Suspenda su uso en caso de irritación, enrojecimiento o molestia.",
+  "ficha": {
+    "marca": "Mennen",
+    "linea": "Baby Magic",
+    "variante": "Hipoalergénico Rosa",
+    "presentacion": "Frasco con 200 g",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebé",
+    "otros": "Fórmula hipoalergénica; Recomendado por la Sociedad Mexicana de Pediatría, A.C.; Formato de venta: frasco individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM455894",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035908147_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw77b26af4/images/large/7501035908147_1.jpg",
+      "pagina": "https://www.yza.mx/mennen-talco-rosa-200g/MXYZ_7501035908147.html",
+      "ancho_original": 2000,
+      "alto_original": 4588,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.sanborns.com.mx/producto/579293/talco-hipoalergenicorosa-mennen-bebe-200g",
+    "https://www.yza.mx/mennen-talco-rosa-200g/MXYZ_7501035908147.html",
+    "https://www.farmalisto.com.mx/tratamientos-para-la-piel/13227-comprar-mennen-baby-mennen-talco-para-bebes-rosa-frasco-con-200-g-precio-7501035908147.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (EAN 7501035908147) en varias tiendas. El modo de uso, precauciones e ingredientes se tomaron de la etiqueta posterior de la presentación azul de 400 g de la misma línea (misma fórmula base); confirmar contra la etiqueta del frasco rosa de 200 g. Fabricante no confirmado en las fuentes.",
+    "notas_imagenes": "1 foto de frente (tienda, 2000 px, fondo blanco limpio). Se descartó una segunda foto con banners promocionales.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

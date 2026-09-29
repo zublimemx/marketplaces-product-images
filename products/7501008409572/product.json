@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "BEROCCA CAL MAG C 10 COMPR OFERTADO 10% 200",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Berocca Calcio y Magnesio 10 Comprimidos Efervescentes",
+  "descripcion": "Descripción:\nBerocca Vitaminas, Calcio y Magnesio es un multivitamínico en comprimidos efervescentes de Bayer, con vitaminas del complejo B, vitamina C, calcio y magnesio. Se presenta en caja con un tubo de 10 comprimidos que se disuelven en agua.\n\nBeneficios:\n- Multivitamínico para adultos con vitaminas, calcio y magnesio\n- Indicado en la prevención y el tratamiento de la deficiencia de las vitaminas de su fórmula\n- Aporta nutrientes en periodos de estrés, crecimiento rápido o enfermedades prolongadas\n- Comprimido efervescente que se toma disuelto en agua\n\nComposición:\n- Vitamina B1 (tiamina) 15 mg por comprimido\n- Vitamina B2 (riboflavina) 15 mg por comprimido\n- Vitamina B6 (piridoxina) 10 mg por comprimido\n- Vitamina B12 (cianocobalamina) 10 mcg por comprimido\n- Vitamina C (ácido ascórbico) 1,000 mg por comprimido\n- Biotina 150 mcg por comprimido\n- Nicotinamida 50 mg por comprimido\n- Ácido pantoténico 25 mg por comprimido\n- Calcio 100 mg por comprimido\n- Magnesio 100 mg por comprimido\n\nModo de uso:\nVía oral. Disuelva un comprimido en un vaso de agua y tómelo una vez al día, o como lo indique su médico.\n\nPresentación:\nCaja con un tubo de 10 comprimidos efervescentes.\n\nAdvertencias:\nContiene aspartamo; no lo consuma si tiene fenilcetonuria. Dosis altas de vitamina C pueden favorecer la formación de cálculos renales. Puede provocar una coloración amarilla más intensa de la orina. No lo use en caso de hipersensibilidad a los componentes, litiasis renal o vesicular, ni hipercalcemia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Berocca",
+    "fabricante": "Bayer",
+    "linea": "Vitaminas, Calcio y Magnesio",
+    "variante": "Comprimidos efervescentes",
+    "presentacion": "Caja con tubo de 10 comprimidos",
+    "contenido_neto": 10,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 10,
+    "principio_activo": "Vitaminas del complejo B, vitamina C, calcio y magnesio",
+    "concentracion": "Vitamina C 1,000 mg, calcio 100 mg y magnesio 100 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: comprimido efervescente; Contiene aspartamo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008409572_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20260122_716480.jpg",
+      "pagina": "https://www.benavides.com.mx/berocca-efervescente-10-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/berocca-comprimidos-efervescentes/21/101/6569/28",
+    "https://www.benavides.com.mx/berocca-efervescente-10-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición de la ficha PLM de Berocca comprimidos efervescentes; confirmar contra el empaque vigente. Se trata de un multivitamínico con registro de medicamento, de venta libre.",
+    "notas_imagenes": "1 foto limpia de frente a la caja, origen tienda, 864 px. Se eliminó una foto compuesta con banner de texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

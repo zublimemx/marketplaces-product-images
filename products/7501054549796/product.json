@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA CORP NIV MILK N EX/SECA 100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Nivea Milk Nutritiva Piel Extra Seca 100 ml",
+  "descripcion": "Descripción:\nCrema corporal Nivea Milk Nutritiva en presentación de 100 ml, especial por su sérum de humectación profunda que brinda un cuidado completo a las pieles secas y muy secas. Su fórmula con ácido hialurónico puro, aceite de almendras y vitamina E nutre y humecta la piel de manera intensiva sin dejar sensación grasosa.\n\nBeneficios:\n- Humectación de hasta 72 horas, según el fabricante.\n- Nutrición y cuidado intensivo para piel seca a extra seca.\n- Textura no grasosa, de uso diario.\n- Piel suave, tersa y visiblemente más saludable.\n- Protección contra la resequedad.\n\nIngredientes clave:\nÁcido hialurónico puro, aceite de almendras, vitamina E y sérum de humectación profunda.\n\nModo de uso:\nAplique sobre la piel limpia y seca del cuerpo, con un ligero masaje hasta su absorción, una o más veces al día según lo necesite.\n\nPresentación:\nFrasco de 100 ml.\n\nAdvertencias:\n- Uso externo.\n- En caso de irritación, suspenda su uso.\n- No se aplique sobre piel irritada o lastimada.\n- Evite el contacto con los ojos.\n- No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Body Milk",
+    "variante": "Nutritiva",
+    "presentacion": "Frasco con 100 ml",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel seca a extra seca",
+    "otros": "Humectación hasta 72 horas; Con ácido hialurónico puro, aceite de almendras, vitamina E y sérum de humectación profunda; Textura no grasosa; Uso externo; Formato de venta: frasco individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054549796_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/8/8/2/2f2d112c3e8d4a1db4a0ce1cd87ef0ed-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/products/nivea/nivea-body-care/nivea-body/nbody-essential/nbody-rich-nourishing/nbody-rch-crg-mlk-100-ml/80232-7501054549796",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 980,
+      "fecha": "2026-09-29",
+      "lado_util": 908
+    }
+  ],
+  "url_oficial": "https://www.nivea.com.mx/products/nivea/nivea-body-care/nivea-body/nbody-essential/nbody-rich-nourishing/nbody-rch-crg-mlk-100-ml/80232-7501054549796",
+  "fuentes": [
+    "https://www.nivea.com.mx/products/nivea/nivea-body-care/nivea-body/nbody-essential/nbody-rich-nourishing/nbody-rch-crg-mlk-100-ml/80232-7501054549796"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Nivea México (URL con 7501054549796). El modo de uso no viene en la página oficial; es una indicación general para cremas corporales. Fabricante (Beiersdorf) deducido de la marca.",
+    "notas_imagenes": "1 foto oficial de Nivea México (980 px): frasco Milk Nutritiva con etiqueta 72 h, 100 ml (se ve 'NUEVO' en el sello superior). Se descartó otra foto con etiqueta anterior de 48 h.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

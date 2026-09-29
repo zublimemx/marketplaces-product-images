@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "SH CAPRICE LIMP REFR CASPA 200 MLN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Caprice Control Caspa Limpieza Refrescante 200 ml",
+  "descripcion": "Descripción:\nShampoo Caprice Control Caspa con limpieza refrescante y eucalipto, en presentación de 200 ml. Está formulado para el cuidado del cabello con caspa: según el empaque elimina 100% los rastros de caspa, la comezón y la irritación, y deja el cabello con una limpieza refrescante.\n\nBeneficios:\n- Control de caspa, comezón e irritación del cuero cabelludo.\n- Limpieza refrescante con eucalipto.\n- Limpia suavemente el cabello en cada lavado.\n\nModo de uso:\nAplique sobre el cabello mojado, masajee suavemente el cuero cabelludo, deje actuar unos minutos y enjuague con abundante agua. Repita si es necesario.\n\nPresentación:\nFrasco de 200 ml.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Caprice",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Control Caspa",
+    "variante": "Limpieza refrescante con eucalipto",
+    "presentacion": "Frasco",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello con caspa",
+    "sabor_aroma": "Eucalipto",
+    "otros": "Shampoo anticaspa; Limpieza refrescante"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546686776_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/7509546686776.jpg",
+      "pagina": "https://www.sanborns.com.mx/producto/349268/shampoo-caprice-control-caspa-limpieza-refrescante-200ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1170,
+      "fecha": "2026-09-29",
+      "lado_util": 1084
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.sanborns.com.mx/producto/349268/shampoo-caprice-control-caspa-limpieza-refrescante-200ml",
+    "https://www.chedraui.com.mx/shampoo-caprice-control-caspa-limpieza-refrescante-eucalipto-750ml-3786148/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontraron ingredientes ni modo de uso en etiqueta; el modo de uso y advertencias son generales. La ficha del mismo shampoo en 750 ml confirma la línea y el eucalipto.",
+    "notas_imagenes": "1 foto de tienda (sanborns/claroshop, 1200 px) de frente del frasco. Otras fuentes no traían foto utilizable.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

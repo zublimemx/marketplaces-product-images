@@ -4,29 +4,57 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES SABA COMPAC SUPEPLUS C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Saba Compac Super Plus con Aplicador 10 Piezas",
+  "descripcion": "Descripción:\nTampones internos Saba V-Compact con absorbencia Super Plus para flujo abundante. Cada paquete contiene 10 tampones con aplicador compacto de plástico, de la marca Saba de Essity.\n\nCaracterísticas:\n- Absorbencia Super Plus, para flujo súper abundante.\n- Aplicador compacto de plástico, fácil de llevar y de colocar.\n- Tecnología de absorción inteligente, que se adapta al flujo.\n- Producto ginecológicamente probado.\n- Protección cómoda y discreta.\n- Paquete de 10 tampones.\n\nModo de uso:\nLávese las manos antes de usarlo. Siga las instrucciones ilustradas que vienen en el interior del paquete para introducir el tampón con ayuda del aplicador. Para retirarlo, jale suavemente el cordón. Lávese las manos después de usarlo.\n\nPresentación:\nPaquete con 10 tampones con aplicador compacto.\n\nAdvertencias:\nUtilice la absorbencia mínima necesaria para su flujo y cambie el tampón cada 4 a 8 horas. El uso de tampones se asocia con el síndrome de choque tóxico, una enfermedad poco frecuente pero grave. Si presenta fiebre alta repentina, vómito, diarrea, mareo, dolor muscular o erupciones parecidas a una quemadura de sol, retire el tampón y acuda de inmediato al médico. Lea las instrucciones del empaque. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Saba",
+    "fabricante": "Essity",
+    "linea": "V-Compact",
+    "variante": "Super Plus",
+    "presentacion": "Paquete con 10 tampones",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "genero": "Mujer",
+    "otros": "Absorbencia: Super Plus (flujo abundante); Con aplicador compacto de plástico; Uso: interno; Ginecológicamente probado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM16011058"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019036422_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6996319/7501019036422_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/saba-tampones-super-plus-compacto-paquete-c-10-pz/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 664,
+      "fecha": "2026-09-29",
+      "lado_util": 615
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/saba-tampones-super-plus-compacto-paquete-c-10-pz/p",
+    "https://www.chedraui.com.mx/tampones-saba-super-plus-con-aplicador-compacto-10-tampones-3333474/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación (10 piezas) confirmados en ficha de farmacia y por el empaque. El catálogo MLM16011058 salió en los resultados con el título 'Tampones Saba Compac Superplus'; no se pudo abrir la página para confirmar el número de piezas.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 664 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

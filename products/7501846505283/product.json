@@ -4,29 +4,67 @@
   "linea": "Mark",
   "nombre_sistema": "CERA XIOMARA MOLDE MATE WAX&S 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cera Xiomara Wax & Shine Moldeadora Mate 60 g",
+  "descripcion": "Descripción:\nXiomara Wax & Shine Moldeadora Mate es una cera para peinar de acabado mate que permite moldear y dar textura al cabello con fijación ligera y un aspecto despeinado y urbano. Se presenta en un práctico tarro de 60 g.\n\nBeneficios:\n- Cera moldeadora con acabado mate\n- Fijación ligera sin sensación pegajosa\n- Ayuda a crear peinados de aspecto despeinado y natural\n- Fácil de aplicar y de moldear con las manos\n- Tarro compacto de 60 g\n\nModo de uso:\nTome una pequeña cantidad de cera, frótela entre las palmas de las manos y aplíquela sobre el cabello seco o ligeramente húmedo. Moldee el peinado con los dedos hasta lograr el acabado deseado.\n\nPresentación:\nTarro con 60 g de cera para el cabello.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Xiomara",
+    "linea": "Wax & Shine",
+    "variante": "Moldeadora mate",
+    "presentacion": "Tarro de 60 g",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de cabello",
+    "otros": "Tipo de producto: cera moldeadora; Acabado: mate; Fijación ligera"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18985273"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501846505283_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/427358/427358_01.webp?v=048e77e7",
+      "pagina": "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p",
+      "ancho_original": 653,
+      "alto_original": 600,
+      "lado_final": 705,
+      "fecha": "2026-09-29",
+      "lado_util": 439
+    },
+    {
+      "archivo": "7501846505283_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/427358/427358_02.webp?v=c75bcec5",
+      "pagina": "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p",
+      "ancho_original": 730,
+      "alto_original": 600,
+      "lado_final": 788,
+      "fecha": "2026-09-29",
+      "lado_util": 431
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.arteli.com.mx/cera-para-peinar-xiomara-waxshine-modeladora-mate-60g-3572903/p",
+    "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN visto en un listado de otra tienda (Xiomara Wax & Shine Free Style Mate). Las fichas de tienda traen poca información; modo de uso genérico. catalogo_ml MLM18985273 tomado del título de un resultado ('Cera para Peinar Xiomara Wax & Shine Modeladora Mate 60g'); no se pudo abrir la ficha.",
+    "notas_imagenes": "2 fotos del tarro (vista en ángulo y vista superior de frente), origen tienda, 705 y 788 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

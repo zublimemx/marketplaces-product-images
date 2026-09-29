@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "FLAGENASE 500 MG C 30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Flagenase Metronidazol 500 mg 30 Tabletas",
+  "descripcion": "Descripción:\nFlagenase es un medicamento antiparasitario de Laboratorios Liomont cuyo principio activo es el metronidazol. Se emplea en el tratamiento de infecciones causadas por protozoarios, como las producidas por tricomonas, giardia y amibas (amebiasis). Se presenta en tabletas de 500 mg para administración oral, en caja con 30 tabletas.\n\nCaracterísticas:\n- Principio activo: metronidazol\n- Concentración: 500 mg por tableta\n- Vía de administración: oral\n- Clasificación: antiparasitario\n\nFórmula:\nCada tableta contiene: metronidazol 500 mg. Excipiente cbp una tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser determinadas por el médico según el tipo de infección.\n\nPresentación:\nCaja con 30 tabletas de 500 mg.\n\nAdvertencias:\nSu uso debe ser indicado por un médico; no se automedique. Conserve el producto a temperatura ambiente controlada (15 a 30 °C). Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flagenase",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Metronidazol",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "63530 SSA VI",
+    "otros": "Forma farmacéutica: tabletas; Clasificación ATC: P01AB01"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299300251_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299300251_3.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-500-mg-oral-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1654,
+      "fecha": "2026-09-29",
+      "lado_util": 1532
+    },
+    {
+      "archivo": "7501299300251_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299300251_1.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-500-mg-oral-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1253,
+      "fecha": "2026-09-29",
+      "lado_util": 1161
+    },
+    {
+      "archivo": "7501299300251_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299300251_2.jpg",
+      "pagina": "https://www.fahorro.com/flagenase-500-mg-oral-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1284,
+      "fecha": "2026-09-29",
+      "lado_util": 1189
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/flagenase-500-mg-oral-30-tabs.html",
+    "https://www.farmalisto.com.mx/antiparasitarios-con-receta/5699-flagenase-500-mg-caja-con-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fuentes discrepan sobre receta: Farmacias del Ahorro indica que no la requiere, Farmalisto la lista como 'con receta'. El registro (63530 SSA VI) apunta a venta libre; revisar antes de clasificar. Dosis e indicaciones detalladas no confirmadas en fuente oficial (ficha PLM no cargó).",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): tres vistas de la caja de 30 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "CANESTEN 1 CRA 30 GR TOP 100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Canesten Clotrimazol Crema 1% 30 g",
+  "descripcion": "Descripción:\nCanesten crema con clotrimazol al 1%, de Bayer, es un antimicótico de uso tópico para el tratamiento de micosis cutáneas superficiales causadas por hongos y levaduras sensibles al clotrimazol, como la tiña corporal, la tiña del cuero cabelludo, el pie de atleta y la candidiasis cutánea. El empaque menciona síntomas como resequedad, comezón, picazón, despellejamiento, mal olor, sudoración y salpullido.\n\nComposición:\nCrema al 1%. Cada 100 g contienen clotrimazol 1 g y excipiente cbp.\n\nModo de uso:\nVía cutánea. Aplique una capa fina sobre las zonas afectadas, 2 o 3 veces al día, durante 2 a 4 semanas.\n\nPresentación:\nCaja con tubo de 30 g de crema al 1%.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos y no lo ingiera.\n- Contraindicado en caso de hipersensibilidad al clotrimazol o a otros antimicóticos imidazólicos.\n- No se ha demostrado su inocuidad durante el embarazo; consulte a su médico si debe usarlo en el embarazo o la lactancia.\n- Puede reducir la eficacia y seguridad de los productos de látex.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Canesten",
+    "fabricante": "Bayer de México",
+    "linea": "Canesten",
+    "variante": "Crema 1%",
+    "presentacion": "Tubo con crema",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol",
+    "concentracion": "1% (1 g por 100 g)",
+    "via_administracion": "Cutánea (tópica)",
+    "otros": "Forma farmacéutica: crema; Uso: micosis cutáneas superficiales; Fracción sanitaria: Grupo VI; Formato de venta: caja con tubo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318644335_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20250711_339962.jpg",
+      "pagina": "https://www.benavides.com.mx/canesten-1-clotrimazol-crema-30-g",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 800
+    },
+    {
+      "archivo": "7501318644335_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7004555/7501318644335_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/canesten-crema-1-c-30-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 904
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/canesten-crema-1-c-30-gr/p",
+    "https://www.medicamentosplm.com/Home/productos/canesten.crema/22/101/71203/36",
+    "https://www.benavides.com.mx/canesten-1-clotrimazol-crema-30-g"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto y Farmatodo (crema 1%, 30 g). La crema tópica de clotrimazol es de venta libre (Grupo VI); la leyenda 'literatura exclusiva para médicos' es del texto profesional.",
+    "notas_imagenes": "2 fotos de tienda: frente de la caja (Benavides, 1000 px) y caja con tubo de 30 g (Farmatodo, 1000 px). Se descartó el reverso por ser solo texto ilegible.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

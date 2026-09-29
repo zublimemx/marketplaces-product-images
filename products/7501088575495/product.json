@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "TROFERIT 30 MG C 15 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Troferit Dropropizina 30 mg 15 Tabletas",
+  "descripcion": "Descripción:\nTroferit es un antitusivo en tabletas de 30 mg de dropropizina, elaborado por Chinoin, para el manejo de la tos seca e irritativa. Se administra por vía oral y se presenta en caja con 15 tabletas.\n\nBeneficios:\n- Antitusivo indicado en la tos seca e irritativa sin secreciones\n- Útil como apoyo en cuadros respiratorios como faringitis, laringitis, bronquitis crónica y tos de origen alérgico\n- Tabletas de 30 mg de dropropizina\n- Caja con 15 tabletas\n\nComposición:\nCada tableta contiene dropropizina 30 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico o seguir el instructivo del empaque.\n\nPresentación:\nCaja con 15 tabletas.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a la dropropizina. No se recomienda en enfermedades respiratorias crónicas con producción de flemas ni en insuficiencia respiratoria grave. Precaución en pacientes con antecedentes de epilepsia. En embarazo y lactancia, use solo bajo indicación médica. Si la tos persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Troferit",
+    "fabricante": "Chinoin",
+    "presentacion": "Caja con 15 tabletas",
+    "contenido_neto": 15,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Dropropizina",
+    "concentracion": "30 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta; Uso: antitusivo"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088575495_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088575495_1_1.jpg",
+      "pagina": "https://www.fahorro.com/troferit-30-mg-oral-15-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1487,
+      "fecha": "2026-09-29",
+      "lado_util": 1377
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/troferit-30mg-con-15-tabletas-dropropizina",
+    "https://www.fahorro.com/troferit-30-mg-oral-15-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicaciones y advertencias de una sola ficha de tienda (en inglés), traducidas y resumidas; una ficha dice que requiere receta y otra la ubica como medicamento para gripe y tos sin receta, por eso 'Revisar'. La página de otra farmacia dio error 429 (límite de solicitudes) y no se abrió.",
+    "notas_imagenes": "1 foto de frente a la caja con blíster, origen tienda, 1487 px. Se eliminó una segunda foto muy pequeña y con mucho margen.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

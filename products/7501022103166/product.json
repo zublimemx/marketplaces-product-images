@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "SH GRISI RICITOS ORO 250ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Grisi Ricitos de Oro Manzanilla 250 ml",
+  "descripcion": "Descripción:\nShampoo para bebé Ricitos de Oro de Grisi con manzanilla, en presentación de 250 ml. Es una fórmula suave que ayuda a aclarar y proteger el cabello de los más pequeños durante el baño, y se presenta como hipoalergénica, libre de parabenos y sin colorantes artificiales.\n\nBeneficios:\n- Con manzanilla para aclarar y proteger el cabello del bebé.\n- Fórmula suave que no irrita los ojos, según el fabricante.\n- Hipoalergénico.\n- Libre de parabenos y sin colorantes artificiales.\n- Ayuda a dejar el cabello suave.\n\nModo de uso:\nAplique una pequeña cantidad sobre el cabello húmedo, masajee suavemente y enjuague con agua abundante.\n\nPresentación:\nFrasco de 250 ml (8.45 fl oz).\n\nAdvertencias:\n- Uso externo.\n- Evite que el producto entre en contacto con los ojos; si sucede, enjuague con agua.\n- Suspenda su uso si aparece irritación.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Grisi",
+    "linea": "Ricitos de Oro",
+    "variante": "Manzanilla",
+    "presentacion": "Frasco con 250 ml",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebé",
+    "sabor_aroma": "Manzanilla",
+    "tipo_piel_cabello": "Cabello de bebé",
+    "otros": "Hipoalergénico; Libre de parabenos; Sin colorantes artificiales; Aclara y protege; Formato de venta: frasco individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194228",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022103166_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwf787e1ad/images/large/7501022103166_1.jpg",
+      "pagina": "https://www.yza.mx/shampoo-ricitos-oro-grisi-250-ml/MXYZ_7501022103166.html",
+      "ancho_original": 974,
+      "alto_original": 941,
+      "lado_final": 934,
+      "fecha": "2026-09-29",
+      "lado_util": 865
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/grisi-ricitos-de-oroshampoo-manzanilla-250-ml.html",
+    "https://www.sanborns.com.mx/producto/65533/shampoo-grisi-ricitos-de-oro",
+    "https://www.yza.mx/shampoo-ricitos-oro-grisi-250-ml/MXYZ_7501022103166.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (foto de la farmacia nombrada con el GTIN y ficha con el GTIN en la URL). Las fichas traen poca información: no hay lista de ingredientes ni instrucciones oficiales; el modo de uso y las precauciones son generales para shampoo infantil. Fabricante no confirmado.",
+    "notas_imagenes": "1 foto de frente (tienda, 934 px) del frasco Ricitos de Oro manzanilla 250 ml (8.47 fl oz). Se descartó una segunda foto idéntica.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "BIOMICS 50ML SUSP 100 MG 5ML CEFIXIMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biomics Cefixima 100 mg/5 ml Suspensión 50 ml",
+  "descripcion": "Descripción:\nBiomics es un antibiótico de Laboratorios Senosiain cuyo principio activo es la cefixima, una cefalosporina de administración oral. Se presenta como polvo para preparar suspensión con una concentración de 100 mg de cefixima por cada 5 ml, en presentación de 50 ml con pipeta dosificadora. Está indicado en infecciones causadas por microorganismos sensibles a la cefixima, como sinusitis, otitis media, faringitis, bronquitis, neumonía, infecciones de las vías urinarias, gonorrea e infecciones gastrointestinales.\n\nCaracterísticas:\n- Principio activo: cefixima (como trihidrato)\n- Concentración: 100 mg por cada 5 ml de suspensión\n- Vía de administración: oral\n- Incluye pipeta dosificadora\n\nFórmula:\nCada 5 ml de suspensión contienen cefixima trihidrato equivalente a 100 mg de cefixima.\n\nModo de uso:\nVía oral. Prepare la suspensión con el diluyente conforme a las instrucciones del empaque y agite antes de cada toma. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con frasco No. 1 con diluyente, frasco No. 2 con polvo para 50 ml de suspensión y pipeta dosificadora.\n\nAdvertencias:\nNo usar en caso de hipersensibilidad a las cefalosporinas u otros betalactámicos. Informe a su médico si tiene antecedentes de enfermedad gastrointestinal o insuficiencia renal, ya que puede requerirse ajuste de dosis. Venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biomics",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Caja con frasco de polvo para 50 ml de suspensión y pipeta dosificadora",
+    "contenido_neto": 50,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cefixima",
+    "concentracion": "100 mg/5 ml",
+    "via_administracion": "Oral",
+    "registro_sanitario": "188M2009 SSA IV",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; Incluye pipeta dosificadora"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701353_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701353.jpg",
+      "pagina": "https://www.fahorro.com/biomics-100-mg-suspension-oral-50-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1396,
+      "fecha": "2026-09-29",
+      "lado_util": 1293
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/biomics.suspension/168/59/36597/194",
+    "https://www.yza.mx/biomics-suspension-polvo-100mg5ml-50ml/MXYZ_7501314701353.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos del PLM (fabricante, indicaciones, contraindicaciones, registro 188M2009 SSA IV); PLM lista presentaciones de 50 y 100 ml, se respetó la de 50 ml. La caja muestra la marca Altia.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja en ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

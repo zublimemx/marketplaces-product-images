@@ -4,14 +4,22 @@
   "linea": "Farma",
   "nombre_sistema": "PBA EMB PREBIOS C 1 LABORATORIOS RAPIL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Prueba de Embarazo Prebios 1 Pieza",
+  "descripcion": "Descripción:\nPrebios es una prueba de embarazo de un solo uso que analiza una muestra de orina para indicar si existe embarazo. Según su empaque, ofrece una respuesta rápida y confiable en menos de 1 minuto, por lo que resulta práctica para realizarse en casa. Se presenta en caja individual con un dispositivo tipo pluma con tapa.\n\nCaracterísticas:\n- Prueba de embarazo en orina, de un solo uso.\n- Resultado en menos de 1 minuto, según el empaque.\n- Dispositivo individual, práctico y fácil de transportar.\n- Marca Prebios, de Laboratorios Rapil.\n\nModo de uso:\nSiga paso a paso las instrucciones del instructivo incluido en la caja y lea el resultado dentro del tiempo que ahí se indica.\n\nPresentación:\nCaja con 1 prueba de embarazo (1 pieza).\n\nAdvertencias:\n- Producto de un solo uso; no lo reutilice.\n- Una prueba de embarazo es orientativa: confirme el resultado con su médico.\n- Lea las instrucciones del empaque.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Prebios",
+    "fabricante": "Laboratorios Rapil",
+    "presentacion": "Caja con 1 prueba de embarazo",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Tipo: prueba rápida de embarazo en orina; Resultado en menos de 1 minuto según el empaque; Formato de venta: pieza individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194260",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502239732071_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaleal.com.mx/cdn/shop/products/7502239732071.jpg?v=1743752218&width=1946",
+      "pagina": "https://www.farmaleal.com.mx/products/prebios-1-pba-emb-1-pza",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 798
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.emeritafarmacias.com/producto/prebios-prueba-de-embarazo-cod/",
+    "https://www.farmaleal.com.mx/products/prebios-1-pba-emb-1-pza",
+    "https://www.rappi.com.mx/p/prebios-prueba-de-embarazo-81966"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7502239732071 confirmado como SKU de Prebios prueba de embarazo en una farmacia y por el nombre de archivo de la foto. Las fichas en línea traen poca información técnica (sin sensibilidad, fabricante ni instructivo); el fabricante 'Laboratorios Rapil' viene del nombre del sistema y no se confirmó en las fuentes. Verificar datos técnicos y registro sanitario con el empaque.",
+    "notas_imagenes": "1 foto de frente del empaque (tienda, 862 px); coincide con el GTIN por nombre de archivo.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

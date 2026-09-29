@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "AMOXICLAV BID SUSP 400MG 57 14MG SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Amoxiclav BID Suspensión 400 mg/57.14 mg/5 ml 70 ml",
+  "descripcion": "Descripción:\nAmoxiclav BID, de Laboratorios PiSA, es un antibiótico en polvo para preparar suspensión oral. Está formado por una asociación sinérgica de amoxicilina trihidratada y clavulanato de potasio, con acción antimicrobiana de amplio espectro. Está indicado para el tratamiento de infecciones agudas y crónicas causadas por microorganismos sensibles, entre ellas infecciones de las vías respiratorias superiores e inferiores, genitourinarias, de piel y tejidos blandos, gastrointestinales y biliares.\n\nBeneficios:\n- Amplio espectro: actúa contra bacterias grampositivas y gramnegativas, incluso productoras de betalactamasas\n- Esquema BID (dos tomas al día), según indicación del médico\n- Presentación en suspensión oral de fácil administración\n\nComposición:\nCada 5 ml de suspensión preparada contienen amoxicilina 400 mg (como trihidrato) y ácido clavulánico 57.14 mg (como clavulanato de potasio).\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento deben ser indicadas por el médico. Prepare la suspensión siguiendo las instrucciones del empaque.\n\nPresentación:\nCaja con frasco con polvo para preparar 70 ml de suspensión.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No lo use sin indicación médica ni suspenda o prolongue el tratamiento por su cuenta. No lo use si es alérgico a las penicilinas o a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Amoxiclav",
+    "fabricante": "Laboratorios PiSA",
+    "linea": "BID",
+    "presentacion": "Polvo para suspensión oral",
+    "contenido_neto": 70,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amoxicilina; Ácido clavulánico",
+    "concentracion": "400 mg/57.14 mg por cada 5 ml",
+    "via_administracion": "Oral",
+    "otros": "Antibiótico; venta con receta médica; caja con frasco con polvo para 70 ml"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125175596_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125175596_3.jpg",
+      "pagina": "https://www.fahorro.com/amoxiclav-bid-suspension-400-ml-57-14-mg-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1308,
+      "fecha": "2026-09-29",
+      "lado_util": 1212
+    },
+    {
+      "archivo": "7501125175596_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125175596_2.jpg",
+      "pagina": "https://www.fahorro.com/amoxiclav-bid-suspension-400-ml-57-14-mg-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1233,
+      "fecha": "2026-09-29",
+      "lado_util": 1142
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/amoxiclav-bid-400-57-14-mg-5-ml-70-ml-susp",
+    "https://www.fahorro.com/amoxiclav-bid-suspension-400-ml-57-14-mg-5-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El volumen de 70 ml no viene en el nombre del sistema; se toma de las fichas con el mismo GTIN. Los antibióticos requieren receta en México.",
+    "notas_imagenes": "2 fotos (tienda, más de 1,200 px): frente de la caja y caja en perspectiva. Se descartó el panel posterior por ser solo texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

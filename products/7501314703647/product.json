@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "DIMEGAN D JBE 60ML VSO INF",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dimegan-D Loratadina Fenilefrina Jarabe 60 ml",
+  "descripcion": "Descripción:\nDimegan-D es un jarabe que combina un antihistamínico (loratadina) con un descongestionante nasal (fenilefrina). Es elaborado por Laboratorios Senosiain bajo la marca Cetus y se presenta en caja con un frasco de 60 ml y vaso dosificador.\n\nBeneficios:\n- Combina antihistamínico y descongestionante en un solo jarabe\n- Indicado para aliviar los síntomas de la alergia respiratoria y la congestión nasal\n- Incluye vaso dosificador para medir la dosis\n- Presentación de 60 ml\n\nComposición:\nSegún el empaque: loratadina 10 mg y fenilefrina 40 mg por cada 10 ml de jarabe.\n\nModo de uso:\nVía oral. Utilice el vaso dosificador incluido y siga la dosis y la duración que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con un frasco de 60 ml de jarabe y vaso dosificador.\n\nAdvertencias:\nNo lo use si es alérgico a la loratadina, a la fenilefrina o a algún componente de la fórmula. No exceda la dosis indicada. Si hay somnolencia, palpitaciones o los síntomas persisten, suspenda su uso y consulte a un médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dimegan-D",
+    "fabricante": "Senosiain",
+    "linea": "Cetus",
+    "presentacion": "Frasco de 60 ml con vaso dosificador",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Loratadina y fenilefrina",
+    "concentracion": "Loratadina 10 mg y fenilefrina 40 mg por cada 10 ml",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: jarabe; Incluye vaso dosificador"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314703647_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://openfarma.mx/cdn/shop/files/dimegan_d_infantil_1_2_mg_ml_60_ml_jarabe_7501314703647_1_ede7854d-2337-43db-8bba-35f5f4cf0ef2.jpg?v=1757125623",
+      "pagina": "https://openfarma.mx/products/dimegan-d-infantil-1-2-mg-ml-60-ml-jarabe",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 732,
+      "fecha": "2026-09-29",
+      "lado_util": 677
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Dimegan-D-60-Ml-Jarabe-Frasco-Dosificador/7501314703647",
+    "https://openfarma.mx/products/dimegan-d-infantil-1-2-mg-ml-60-ml-jarabe",
+    "https://www.farmatodo.com.mx/dimegan-d-jarabe-10-40-10-mg-ml-frasco-c-60-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'INF' pero el empaque no dice infantil; un listado con el mismo GTIN lo llama 'Infantil 1/2 mg/ml' mientras el empaque y otros listados indican 10 mg/40 mg/10 ml. Se usó la concentración del empaque. Indicaciones inferidas de los principios activos; condición de venta no confirmada.",
+    "notas_imagenes": "1 foto de frente al empaque, origen tienda, 800 px. Otras fotos disponibles eran menores de 500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

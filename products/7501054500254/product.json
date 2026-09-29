@@ -4,29 +4,67 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NIVEA SDA TARR JUMB 500 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Nivea Creme Tarro 500 ml",
+  "descripcion": "Descripción:\nNivea Creme es la crema humectante universal de cuidado intensivo para todo tipo de piel. Enriquecida con pantenol, Eucerit (alcohol de lanolina) y glicerina, brinda una protección intensiva que deja la piel con sensación de suavidad. Apta para rostro, cuerpo, manos y pies; también puede usarse como desmaquillante. Presentación en tarro de 500 ml, ideal para el cuidado de la piel de toda la familia.\n\nBeneficios:\n- Cuidado intensivo y humectación universal\n- Sensación de piel suave\n- Protección para piel seca, irritada o agrietada\n- Para todo tipo de piel y uso diario\n- Multiusos: rostro, cuerpo, manos y pies\n\nIngredientes:\nAqua, Paraffinum Liquidum, Cera Microcristallina, Glycerin, Lanolin Alcohol (Eucerit), Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Sodium Anisate.\n\nModo de uso:\nAplique la crema diariamente sobre la piel del cuerpo. Reaplique las veces que sea necesario en zonas muy secas.\n\nPresentación:\nTarro de 500 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si observa una reacción desfavorable y consulte a su médico si persiste. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Nivea Creme",
+    "presentacion": "Tarro",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Tipo de producto: crema humectante multiusos; Con pantenol, Eucerit y glicerina; Uso: rostro, cuerpo, manos y pies; Número de artículo Nivea: 80136"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM28324044"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054500254_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/a/e/e/313265f473274fe0b25f0a805c81b3b0-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/nivea-creme-tarro-500-ml-75010545002540060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 966,
+      "fecha": "2026-09-29",
+      "lado_util": 897
+    },
+    {
+      "archivo": "7501054500254_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501054500254-01.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-nivea-tarro-jumbo-500ml",
+      "ancho_original": 896,
+      "alto_original": 896,
+      "lado_final": 748,
+      "fecha": "2026-09-29",
+      "lado_util": 693
+    }
+  ],
+  "url_oficial": "https://www.nivea.com.mx/productos/nivea-creme-tarro-500-ml-75010545002540060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/nivea-creme-tarro-500-ml-75010545002540060.html",
+    "https://farmalisto.com.mx/cuidado-de-la-piel/12722-comprar-crema-nivea-tarro-con-500-ml-precio-7501054500254.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio de Nivea usa el código 75010545002540060 (contiene el GTIN). Se eligió la categoría Cuidado Corporal por ser tarro jumbo de uso corporal; Cuidado Facial también aplica. catalogo_ml corresponde a 'Crema Nivea Tarro con 500 ml'.",
+    "notas_imagenes": "2 fotos: frente del tarro (sitio oficial Nivea) y tapa con 500 ml (tienda Del Sol). Se descartaron imágenes con texto promocional, ilustraciones y una foto de estilo de vida.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

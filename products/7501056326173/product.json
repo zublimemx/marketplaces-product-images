@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA S PONDS HUMECTANTE 400 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's S Humectante Nutritiva 400 g",
+  "descripcion": "Descripción:\nLa Crema Facial Pond's S Humectante Nutritiva ayuda a mejorar la suavidad, la firmeza y la elasticidad de la piel, porque la nutre de afuera hacia adentro dejándola humectada por 48 horas. Es una crema adecuada para piel seca, con una fórmula de extractos de origen natural que previene la resequedad. Su textura cremosa se absorbe y brinda a la piel la humectación que necesita durante más tiempo.\n\nBeneficios:\n- Humectación por 48 horas\n- Mejora la suavidad, firmeza y elasticidad de la piel\n- Fórmula con mezcla de extractos botánicos de origen natural y nutrientes\n- Adecuada para piel seca\n- Textura cremosa de rápida absorción\n\nModo de uso:\nAplique por la mañana y por la noche en la cara y el cuello, después de limpiarlos. Puede complementar su rutina de cuidado de la piel con una loción desmaquillante para preparar la piel antes de aplicar la crema.\n\nPresentación:\nFrasco con 400 g de crema.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Crema S",
+    "variante": "Humectante nutritiva",
+    "presentacion": "Frasco",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel seca",
+    "otros": "Humectación por 48 horas; uso facial y en cuello"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056326173_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/78123655/7501056326173_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/crema-facial-ponds-s-humectante-nutritiva-400g-3065186/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1191,
+      "fecha": "2026-09-29",
+      "lado_util": 1103
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/crema-humectante-s-400g.html/07501056326173",
+  "fuentes": [
+    "https://www.chedraui.com.mx/crema-facial-ponds-s-humectante-nutritiva-400g-3065186/p",
+    "https://superfenix.mx/producto/crema-facial-ponds-crema-s-400-grs/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página oficial de Pond's apareció en resultados con el GTIN en la URL pero devolvió acceso denegado; no se pudo leer. El fabricante Unilever se asume de la marca, no de las fichas leídas.",
+    "notas_imagenes": "1 foto de frente al frasco de 400 g (tienda, 1200 px). Se descartó una imagen del frasco de 50 g y una repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,29 +4,94 @@
   "linea": "Farma",
   "nombre_sistema": "LODESTAR ZID 50 12 5MG TAB REC 30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lodestar Zid Losartán/Hidroclorotiazida 50/12.5 mg 30 Tab",
+  "descripcion": "Descripción:\nLodestar Zid es un antihipertensivo en tabletas que combina losartán potásico e hidroclorotiazida, de Laboratorios Liomont. Está indicado para el tratamiento de la hipertensión arterial en pacientes en los que corresponde una terapia combinada, y en pacientes con hipertensión e hipertrofia ventricular izquierda.\n\nComposición:\nCada tableta contiene losartán potásico 50 mg, hidroclorotiazida 12.5 mg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral, con o sin alimentos. La dosis inicial y de mantenimiento es de 1 tableta (50/12.5 mg) una vez al día; si es necesario, el médico puede aumentar a la presentación de 100/25 mg una vez al día, que es la dosis máxima recomendada. La respuesta antihipertensiva suele alcanzarse en unas tres semanas.\n\nPresentación:\nCaja con 30 tabletas de 50 mg/12.5 mg.\n\nAdvertencias:\n- No se use durante el embarazo ni la lactancia.\n- No se use en menores de 18 años.\n- Contraindicado en hipersensibilidad a los componentes o a medicamentos con sulfonamidas y en anuria.\n- No se recomienda en deterioro hepático o renal intenso.\n- Su venta requiere receta médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lodestar",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Lodestar Zid",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Losartán potásico e hidroclorotiazida",
+    "concentracion": "50 mg / 12.5 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "351M2008 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Antihipertensivo; Fracción sanitaria: Grupo IV; Conservar a no más de 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299307144_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307144.jpg",
+      "pagina": "https://www.fahorro.com/lodestar-zid-50-mg-12-5-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1562,
+      "fecha": "2026-09-29",
+      "lado_util": 1448
+    },
+    {
+      "archivo": "7501299307144_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307144_1.jpg",
+      "pagina": "https://www.fahorro.com/lodestar-zid-50-mg-12-5-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1604,
+      "fecha": "2026-09-29",
+      "lado_util": 1486
+    },
+    {
+      "archivo": "7501299307144_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307144_2.jpg",
+      "pagina": "https://www.fahorro.com/lodestar-zid-50-mg-12-5-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1630,
+      "fecha": "2026-09-29",
+      "lado_util": 1510
+    },
+    {
+      "archivo": "7501299307144_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307144_3.jpg",
+      "pagina": "https://www.fahorro.com/lodestar-zid-50-mg-12-5-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1629,
+      "fecha": "2026-09-29",
+      "lado_util": 1509
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/lodestar-zid-50-125-mg-caja-c-30-tabletas-v1/p",
+    "https://www.medicamentosplm.com/Home/productos/lodestar.zid.tabletas/103/101/33629/210",
+    "https://www.fahorro.com/lodestar-zid-50-mg-12-5-mg-oral-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en YZA (MXYZ_7501299307144) y Farmatodo (30 tabletas 50/12.5 mg).",
+    "notas_imagenes": "4 fotos de tienda (Farmacias del Ahorro, 1600 px): caja de Lodestar Zid 50/12.5 mg con 30 tabletas de frente y en distintos ángulos. Se descartó el costado por ser solo texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

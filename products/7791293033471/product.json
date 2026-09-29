@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD REXONA EFFI ORIG PIES 153ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante para Pies Rexona Efficient 153 ml Aerosol",
+  "descripcion": "Descripción:\nDesodorante en aerosol para pies Rexona Efficient Original, de Unilever, formulado para controlar el sudor y el mal olor que producen los pies. Se aplica directamente en los pies y en el interior del calzado, por lo que es práctico para usarlo todos los días.\n\nBeneficios:\n- Protección de hasta 48 horas contra el sudor y el mal olor de los pies.\n- Fórmula de triple acción con protección instantánea desde la aplicación.\n- No contiene alcohol etílico.\n- Probado dermatológicamente.\n- Se puede aplicar también dentro del zapato para ayudar a mantenerlo fresco.\n\nIngredientes:\nButane, Isobutane, Propane, Cyclomethicone, Aluminum Chlorohydrate, Talc, Parfum, Disteardimonium Hectorite, Limonene.\n\nModo de uso:\nAgite antes de usar. Aplique directamente a 15 cm de distancia sobre los pies y en el interior del calzado. Ideal para usar todos los días.\n\nPresentación:\nAerosol de 153 ml.\n\nAdvertencias:\n- Extremadamente inflamable. Envase a presión que puede explotar si se calienta.\n- No lo perfore ni lo incinere, aun vacío. No lo exponga al sol ni a temperaturas mayores de 50 °C.\n- No lo use cerca de flamas o superficies calientes.\n- Evite el contacto con los ojos y el uso íntimo. No lo aplique sobre piel irritada.\n- Úselo en lugares bien ventilados y manténgalo fuera del alcance de los niños.\n- Suspenda su uso si aparecen síntomas de irritación.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Efficient",
+    "variante": "Original",
+    "presentacion": "Aerosol",
+    "contenido_neto": 153,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Original",
+    "otros": "Uso: pies y calzado; Protección: 48 horas; Sin alcohol etílico; Probado dermatológicamente; Formato de venta: pieza"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293033471_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293033471_2.jpg",
+      "pagina": "https://www.fahorro.com/rexona-efficient-spray-desodorante-para-pies-153-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1284,
+      "fecha": "2026-09-29",
+      "lado_util": 1189
+    },
+    {
+      "archivo": "7791293033471_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293033471_1.jpg",
+      "pagina": "https://www.fahorro.com/rexona-efficient-spray-desodorante-para-pies-153-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1285,
+      "fecha": "2026-09-29",
+      "lado_util": 1190
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/desodorante-para-pies-rexona-efficient-original-153ml-3520764/p",
+    "https://www.farmatodo.com.mx/rexona-desodorante-para-pies-efficient-aerosol-c-153-ml/p",
+    "https://www.fahorro.com/rexona-efficient-spray-desodorante-para-pies-153-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmatodo (EAN 7791293033471) y en la foto de Farmacias del Ahorro. Ingredientes, modo de uso y advertencias leídos del reverso del empaque en la foto de tienda.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): frente y reverso del aerosol.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

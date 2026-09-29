@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "DERMAN CRA 25 GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Derman Crema Antimicótica Ácido Undecilénico 25 g",
+  "descripcion": "Descripción:\nDerman es una crema antimicótica, antiséptica y desodorante de uso tópico, con undecilenato de zinc y ácido undecilénico. Por la acción fungicida de estos ingredientes es útil en el tratamiento del pie de atleta, las tiñas superficiales y otras infecciones de la piel causadas por hongos. Se presenta en tubo de 25 g.\n\nComposición:\nCada 100 g contienen undecilenato de zinc 18.0 g, ácido undecilénico 5.0 g y excipiente cbp 100 g.\n\nModo de uso:\nVía cutánea. Aplique dos veces al día, de preferencia por la mañana y por la noche, sobre los pies previamente lavados y secados con cuidado, frotando suavemente.\n\nPresentación:\nCaja con tubo de 25 g de crema.\n\nAdvertencias:\n- Solo para uso externo; no se aplique en los ojos ni en mucosas.\n- No se aplique en niños menores de 6 años.\n- No se recomienda su uso durante el embarazo y la lactancia.\n- Contraindicado en pacientes hipersensibles a algún componente de la fórmula.\n- Conservar a temperatura ambiente, a no más de 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Derman",
+    "fabricante": "Cía. Internacional de Comercio, S.A.P.I. de C.V.",
+    "presentacion": "Tubo con crema",
+    "contenido_neto": 25,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Undecilenato de zinc y ácido undecilénico",
+    "concentracion": "18 g y 5 g por 100 g",
+    "via_administracion": "Cutánea (tópica)",
+    "registro_sanitario": "38933 SSA VI",
+    "otros": "Forma farmacéutica: crema; Antimicótica, antiséptica y desodorante; Uso en pie de atleta y tiñas superficiales; Fracción sanitaria: Grupo VI"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "354312225010_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225010.jpg",
+      "pagina": "https://www.fahorro.com/derman-crema-antimicotica-antiseptica-y-desodorante-25-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1284,
+      "fecha": "2026-09-29",
+      "lado_util": 1189
+    },
+    {
+      "archivo": "354312225010_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225010_1.jpg",
+      "pagina": "https://www.fahorro.com/derman-crema-antimicotica-antiseptica-y-desodorante-25-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1213,
+      "fecha": "2026-09-29",
+      "lado_util": 1124
+    },
+    {
+      "archivo": "354312225010_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/5/354312225010_2.jpg",
+      "pagina": "https://www.fahorro.com/derman-crema-antimicotica-antiseptica-y-desodorante-25-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1095,
+      "fecha": "2026-09-29",
+      "lado_util": 1014
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/derman-crema-tubo-c-25-gr/p",
+    "https://www.medicamentosplm.com/Home/productos/derman.crema/41/101/57148/36",
+    "https://www.fahorro.com/derman-crema-antimicotica-antiseptica-y-desodorante-25-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 354312225010 (12 dígitos) confirmado en Farmatodo, YZA (MXYZ_354312225010) y en la foto de Farmacias del Ahorro. Registro SSA VI (venta libre).",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, 1600 px): frente de la caja Derman crema 25 g, reverso con instrucciones y caja en perspectiva.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

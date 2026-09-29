@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "MYDOCALM A CAP 30 300MG TOLPERISONA PARACETAMOL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Mydocalm-A Tolperisona Paracetamol 50/300 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nMydocalm-A es un medicamento de Chinoin que combina tolperisona (50 mg) y paracetamol (300 mg) en cápsulas de administración oral. Actúa como relajante muscular y analgésico, útil en cuadros dolorosos asociados con espasmo muscular.\n\nIndicaciones:\n- Dolor asociado con espasmo muscular, traumatismos, inflamaciones, lumbago y tortícolis.\n\nFórmula:\nCada cápsula contiene clorhidrato de tolperisona 50 mg y paracetamol 300 mg, con excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis habitual señalada en la ficha del medicamento es de una cápsula 3 o 4 veces al día, durante un promedio de 3 a 5 días, o según lo indique su médico.\n\nPresentación:\nCaja con 30 cápsulas en envase tipo burbuja.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes, si tiene miastenia gravis, enfermedad del hígado, trastornos de la coagulación o úlcera péptica activa, ni si toma anticoagulantes.\n- Úselo con precaución si tiene antecedentes de enfermedad hepática o renal.\n- No debe usarse por periodos prolongados.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Mydocalm-A",
+    "fabricante": "Chinoin (Productos Farmacéuticos, S.A. de C.V.)",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Tolperisona y paracetamol",
+    "concentracion": "Tolperisona 50 mg y paracetamol 300 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Relajante muscular y analgésico; Formato de venta: caja con 30 cápsulas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088545658_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088545658_1_3.jpg",
+      "pagina": "https://www.yza.mx/mydocalm-a-50mg300mg-30-caps/MXYZ_7501088545658.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1596,
+      "fecha": "2026-09-29",
+      "lado_util": 1478
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/mydocalm.a.capsulas/36/101/8767/14",
+    "https://www.yza.mx/mydocalm-a-50mg300mg-30-caps/MXYZ_7501088545658.html",
+    "https://www.fahorro.com/mydocalm-a-5300-mg-oral-30-capsulas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias fichas. El nombre del sistema dice '300MG': la presentación es tolperisona 50 mg / paracetamol 300 mg por cápsula. No se pudo confirmar en las fuentes si su leyenda exige receta médica, por eso queda en 'Revisar'. Registro sanitario no visto.",
+    "notas_imagenes": "1 foto (tienda, 1596 px) del diseño actual de la caja con 30 cápsulas. Se descartó otra foto de menor resolución con un diseño de caja distinto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

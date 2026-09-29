@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL GASA C3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Italdermol Gasas con Crema 150 mg/g 3 Piezas",
+  "descripcion": "Descripción:\nItaldermol Gasas es un medicamento herbolario de uso tópico en forma de gasas impregnadas con crema, indicado como cicatrizante en alteraciones de la piel, heridas y quemaduras, favoreciendo la neoformación epitelial. Cada gasa contiene 4 g de crema con extracto acuoso de Triticum vulgare (trigo) a una concentración de 150 mg por gramo, lista para aplicarse sobre la zona afectada.\n\nCaracterísticas:\n- Presentación práctica en sobres individuales, cada uno con una gasa con crema.\n- Uso externo (tópico).\n- Medicamento herbolario cuyo principio activo es el extracto acuoso de Triticum vulgare.\n\nComposición:\nExtracto acuoso de Triticum vulgare 150 mg/g de crema.\n\nModo de uso:\nAplicación tópica (externa). Consulte el instructivo del empaque para conocer la forma y frecuencia de aplicación, o siga la indicación de su médico.\n\nPresentación:\nCaja con 3 gasas, cada una con 4 g de crema en sobre individual (12 g de crema en total).\n\nAdvertencias:\nSolo para uso externo. Conservar a temperatura ambiente controlada, entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "fabricante": "Italmex",
+    "linea": "Gasas",
+    "presentacion": "Caja con 3 gasas con crema en sobres individuales",
+    "contenido_neto": 12,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 3,
+    "principio_activo": "Extracto acuoso de Triticum vulgare",
+    "concentracion": "150 mg/g",
+    "via_administracion": "Tópica (externa)",
+    "registro_sanitario": "174M96 SSA IV",
+    "otros": "Medicamento herbolario; Cada gasa contiene 4 g de crema; Conservar entre 15 y 30 °C"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390911042_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwce14849e/images/large/7501390911042_1.jpg",
+      "pagina": "https://www.yza.mx/italdermol-crema-12g-3-gasas/MXYZ_7501390911042.html",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 644,
+      "fecha": "2026-09-29",
+      "lado_util": 597
+    },
+    {
+      "archivo": "7501390911042_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501390911042.jpg?v=1726104521&width=1500",
+      "pagina": "https://www.yza.mx/italdermol-crema-12g-3-gasas/MXYZ_7501390911042.html",
+      "ancho_original": 874,
+      "alto_original": 830,
+      "lado_final": 813,
+      "fecha": "2026-09-29",
+      "lado_util": 753
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/productos-de-curacion/6513-comprar-italdermol-caja-con-3-gasas-con-4-g-de-crema-cada-uno-neoformacion-epitelial-precio-7501390911042.html",
+    "https://farmaciasmedina.com/detalleProducto/Italdermol-Gasas-Con-Crema-3-Piezas-Sobre/7501390911042"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró el modo de uso detallado en fuentes; se remite al instructivo.",
+    "notas_imagenes": "2 fotos de tienda (yza 1000 px y farmaciaherrera 874 px) de frente del empaque. La foto de Medina (480 px) se rechazó por tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

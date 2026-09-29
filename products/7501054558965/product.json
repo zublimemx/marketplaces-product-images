@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA NIVEA TARRO 400ML+LTA 50ML N",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Nivea Creme Tarro 400 ml con Lata 50 ml",
+  "descripcion": "Descripción:\nNivea Creme es la crema humectante universal de uso múltiple, enriquecida con pantenol, Eucerit y glicerina. Este paquete reúne el tarro de vidrio de 400 ml con una lata de 50 ml para tener la crema en casa y llevarla contigo. Es apta para rostro, cuerpo, manos y pies.\n\nBeneficios:\n- Crema humectante multiusos para el cuidado intensivo de la piel\n- Apta para rostro, cuerpo, manos y pies\n- Con pantenol, Eucerit y glicerina\n- Con vitamina E\n- Apta para todo tipo de piel\n- Incluye tarro de 400 ml y lata de 50 ml\n\nIngredientes:\nAqua, Paraffinum Liquidum, Cera Microcristalina, Glicerina, Lanolin Alcohol (Eucerit), Paraffin, Pantenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum. (Lista del tarro de 400 ml; verifique la del empaque.)\n\nModo de uso:\nAplique una cantidad suficiente sobre la piel limpia y masajee suavemente hasta su absorción, tantas veces como lo necesite.\n\nPresentación:\nPaquete con un tarro de vidrio de 400 ml y una lata de 50 ml de Nivea Creme.\n\nAdvertencias:\nUso externo. Evite aplicarla sobre la piel irritada. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Creme",
+    "variante": "Tarro 400 ml + lata 50 ml",
+    "presentacion": "Paquete con tarro de 400 ml y lata de 50 ml",
+    "contenido_neto": 450,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 2,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Tipo de producto: crema humectante multiusos; Incluye: tarro de vidrio de 400 ml y lata de 50 ml; Apta para rostro, cuerpo, manos y pies"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -20,13 +31,17 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "url_oficial": "https://www.nivea.com.mx/productos/crema-humectante-nivea%C2%AE-creme-tarro-azul-400-ml-75010545002160060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/crema-humectante-nivea%C2%AE-creme-tarro-azul-400-ml-75010545002160060.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se encontró una página del paquete promocional (tarro 400 ml + lata 50 ml); datos tomados de la página oficial de Nivea Creme tarro de 400 ml. La lata de 50 ml se dedujo del nombre del sistema; el final 'N' del nombre no se pudo interpretar.",
+    "notas_imagenes": "Sin fotos: no se localizó ninguna foto del paquete tarro 400 ml + lata 50 ml; las fotos del tarro de 400 ml solo no corresponden a este paquete.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

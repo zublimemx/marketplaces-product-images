@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PROXALIN PLUS C16 TABS PARACET NAPROX DEGORTS 190",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Proxalin Plus Paracetamol Naproxeno 250/300 mg 16 Tabletas",
+  "descripcion": "Descripción:\nProxalin Plus es un analgésico y antipirético en tabletas que combina paracetamol y naproxeno, elaborado por Laboratorios Degorts. Su empaque lo presenta para el rápido alivio del dolor y la fiebre, incluidos el dolor de garganta, de oído y de cabeza. Se presenta en caja con 16 tabletas para administración oral.\n\nBeneficios:\n- Combina dos activos: paracetamol (analgésico y antipirético) y naproxeno (antiinflamatorio no esteroideo)\n- Rápido alivio del dolor y la fiebre\n- Útil en dolor de garganta, de oído y de cabeza, entre otros dolores\n- Caja con 16 tabletas\n\nComposición:\n- Paracetamol 250 mg por tableta\n- Naproxeno 300 mg por tableta\n\nModo de uso:\nVía oral. Tome las tabletas con un vaso de agua, de acuerdo con la dosis y la duración que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 16 tabletas.\n\nAdvertencias:\nNo exceda la dosis recomendada. No lo use junto con otros medicamentos que contengan paracetamol o antiinflamatorios no esteroideos sin indicación médica. No lo use si es alérgico a alguno de sus componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Proxalin Plus",
+    "fabricante": "Degorts",
+    "presentacion": "Caja con 16 tabletas",
+    "contenido_neto": 16,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Paracetamol y naproxeno",
+    "concentracion": "Paracetamol 250 mg y naproxeno 300 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tableta"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501825300724_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501825300724_b6a52e7b-5c92-499b-a1fd-6a7e32d66bc0.jpg?v=1727297381",
+      "pagina": "https://farmaciaherrera.com.mx/collections/medicamentos-genericos/products/paracetamol-naproxeno-proxalin-plus-300-250-mg-con-16-tabletas",
+      "ancho_original": 750,
+      "alto_original": 750,
+      "lado_final": 650,
+      "fecha": "2026-09-29",
+      "lado_util": 602
+    },
+    {
+      "archivo": "7501825300724_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501825300724_a29ca036-eb9c-4cf0-9206-a90862341ced.jpg?v=1701390843",
+      "pagina": "https://farmaciaherrera.com.mx/collections/medicamentos-genericos/products/paracetamol-naproxeno-proxalin-plus-300-250-mg-con-16-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "fecha": "2026-09-29",
+      "lado_util": 903
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/naproxeno-paracetamol-c-16-tabs-degorts/p",
+    "https://farmaciaherrera.com.mx/collections/medicamentos-genericos/products/paracetamol-naproxeno-proxalin-plus-300-250-mg-con-16-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró ficha con indicaciones, dosis ni condición de venta; la clasificación de receta se deja en 'Revisar' (el empaque promociona alivio del dolor y la fiebre, lo que sugiere venta libre). Advertencias redactadas de forma general para AINE/paracetamol.",
+    "notas_imagenes": "2 fotos de frente al empaque, origen tienda (650 px y 976 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

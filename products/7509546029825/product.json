@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD NEUTRO B R-ON 65 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Roll-On Palmolive Neutro Balance 65 ml",
+  "descripcion": "Descripción:\nDesodorante antitranspirante en roll-on Palmolive Neutro Balance Dermoprotector, unisex, de 65 ml. Está formulado para proteger del sudor y cuidar la piel de las axilas con una aplicación suave, y cuenta con protección de hasta 48 horas.\n\nCaracterísticas:\n- Antitranspirante en roll-on, para hombre y mujer.\n- Protección e hidratación por 48 horas, según el empaque.\n- Fórmula suave con la piel, sin alcohol y dermatológicamente probada.\n- Presentación práctica de 65 ml, fácil de aplicar y de llevar.\n\nComposición:\nAgua, hidroxipropil metilcelulosa, Pareth-12 C11-15, PEG-12 y propilenglicol, entre otros ingredientes (lista parcial; consulte la lista completa en el empaque).\n\nModo de uso:\nAplique sobre la axila limpia y seca. Deje secar unos segundos antes de vestirse.\n\nPresentación:\nEnvase roll-on de 65 ml.\n\nAdvertencias:\n- Uso externo.\n- Evite el contacto con los ojos y no lo aplique sobre piel irritada o lastimada.\n- Suspenda su uso si aparece irritación.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Neutro Balance Dermoprotector",
+    "variante": "Antitranspirante",
+    "presentacion": "Roll-on",
+    "contenido_neto": 65,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Unisex",
+    "otros": "Protección 48 horas; Sin alcohol; Dermatológicamente probado; Formato de venta: pieza individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546029825_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546029825-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-palmolive-neutro-balance-65ml",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 970,
+      "fecha": "2026-09-29",
+      "lado_util": 899
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://incibeauty.com/en/produit/7509546029825",
+    "https://www.walmart.com.mx/ip/desodorante-neutro-balance-dermoprotector-roll-on-antitranspirante-65-ml/00750954602982",
+    "https://grupofarmapronto.com/producto/palmolive-neutro-balance-roll-on-65-ml-desodorante/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7509546029825 confirmado (INCI Beauty, SKU de farmacia y tienda departamental). La lista de ingredientes en línea es parcial. No se encontró página oficial de la marca; el modo de uso y las advertencias son generales para desodorantes roll-on, no textuales del empaque.",
+    "notas_imagenes": "1 foto de frente (tienda, 970 px) con el empaque Palmolive Neutro Balance Dermoprotector 65 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

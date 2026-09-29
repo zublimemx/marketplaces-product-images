@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "ROSEL C24 CAPS 50 300MG AMANTADINA CLORFENAMINA PARACETAMOL WERMAR 128",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Rosel Amantadina Clorfenamina Paracetamol 24 Cápsulas",
+  "descripcion": "Descripción:\nRosel es un antigripal en cápsulas de Wermar Pharmaceuticals que combina amantadina, clorfenamina y paracetamol. Su empaque lo presenta como antigripal con acción antiviral específica que alivia los síntomas de la gripe: dolor muscular, fiebre y escurrimiento nasal. Cada caja contiene 24 cápsulas para administración oral.\n\nComposición:\nCada cápsula contiene amantadina 50 mg, clorfenamina (como maleato) 3 mg y paracetamol 300 mg.\n\nBeneficios:\n- Amantadina: acción antiviral.\n- Paracetamol: ayuda a bajar la fiebre y a aliviar el dolor muscular.\n- Clorfenamina: antihistamínico que ayuda con el escurrimiento nasal.\n- Es más eficaz cuando se inicia en las primeras 48 horas de los síntomas.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 1 cápsula cada 8 horas, o como lo indique su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 24 cápsulas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si tiene epilepsia, convulsiones, depresión, glaucoma, agrandamiento de la próstata o enfermedad grave del hígado o del riñón.\n- No lo use en menores de 3 años.\n- Puede causar somnolencia, mareo, insomnio o confusión; evite conducir o manejar maquinaria.\n- No lo combine con otros medicamentos que contengan paracetamol ni con bebidas alcohólicas.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Rosel",
+    "fabricante": "Wermar Pharmaceuticals",
+    "linea": "Rosel",
+    "presentacion": "Caja con 24 cápsulas",
+    "contenido_neto": 24,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Amantadina, clorfenamina y paracetamol",
+    "concentracion": "50 mg / 3 mg / 300 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Grupo terapéutico: antigripal con antiviral; Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503003738404_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/10/7503003738404.png",
+      "pagina": "https://phemedica.com.mx/product/rosel-amantadinaclorfenaminaparacetamol-50-3-300-mg-c-24-caps-wermar/",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 565,
+      "fecha": "2026-09-29",
+      "lado_util": 524
+    },
+    {
+      "archivo": "7503003738404_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://club.presalud.com/web/image/product.product/34717/image_1920?unique=da85024",
+      "pagina": "https://phemedica.com.mx/product/rosel-amantadinaclorfenaminaparacetamol-50-3-300-mg-c-24-caps-wermar/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 969,
+      "fecha": "2026-09-29",
+      "lado_util": 898
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.actuamed.com.mx/marca/28495",
+    "https://www.farmatodo.com.mx/rosel-amantadina-clorfenamina-paracetamol-50-3-300-mg-caja-c-24-capsulas/p",
+    "https://club.presalud.com/shop/7503003738404-rosel-amantadinaclorfenaminaparacetamol-503300-mg-24-capsulas-generico-wermarphar-34717"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Rosel 50/3/300 mg, 24 cápsulas, Wermar). Dosis y contraindicaciones de una ficha de referencia de medicamentos; una tienda lo clasifica como genérico de Wermarphar. Se marca receta \"Sí\" según esa ficha (contiene amantadina); revisar si el marketplace lo acepta como venta libre. El nombre del sistema trae \"CAPS 50 300MG\", coincide con la caja.",
+    "notas_imagenes": "2 fotos de la caja (tienda: Phemedica 565 px y Presalud 969 px; la primera está por debajo de 800 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

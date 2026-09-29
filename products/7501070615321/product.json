@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "DAFLON DIOSMINA/HESPERIDINA 1000MG C/30TAB SANFER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Daflon 1000 mg Diosmina Hesperidina 30 Tabletas",
+  "descripcion": "Descripción:\nDaflon 1000 mg contiene una fracción flavonoica purificada y micronizada, formada por diosmina y hesperidina, en tabletas de Servier distribuidas por Sanfer. Está indicado para el tratamiento de la insuficiencia venosa: várices, edema de las piernas, y hemorroides, así como las secuelas de la flebitis.\n\nCaracterísticas:\n- Flavonoides micronizados: 900 mg de diosmina y 100 mg de hesperidina por tableta.\n- Tableta de 1000 mg para una sola toma al día en el régimen habitual.\n- Presentación de 30 tabletas.\n\nComposición:\nCada tableta contiene 1000 mg de fracción flavonoica purificada micronizada: 900 mg de diosmina y 100 mg de hesperidina.\n\nModo de uso:\nVía oral. El régimen habitual es de una tableta de 1000 mg al día. En las crisis hemorroidales agudas, el médico puede indicar una dosis mayor durante unos días y luego una dosis de mantenimiento. La duración del tratamiento la determina el médico.\n\nPresentación:\nCaja con 30 tabletas de 1000 mg (900 mg/100 mg).\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes ni durante la lactancia. No se ha establecido su seguridad en menores de 18 años; durante el embarazo se cuenta con información limitada. Si los síntomas hemorroidales no mejoran, el médico debe realizar una revisión proctológica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Daflon",
+    "fabricante": "Servier / distribuido por Sanfer",
+    "linea": "Daflon 1000",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Diosmina / Hesperidina",
+    "concentracion": "900 mg / 100 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "072M97 SSA IV",
+    "otros": "Forma farmacéutica: tableta; Grupo terapéutico: venotónico y vasoprotector"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070615321_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070615321_3.jpg",
+      "pagina": "https://www.fahorro.com/daflon-1000-mg-30-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1384,
+      "fecha": "2026-09-29",
+      "lado_util": 1282
+    },
+    {
+      "archivo": "7501070615321_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/484620/484620_02.webp?v=6140bb96",
+      "pagina": "https://www.heb.com.mx/sanfer-daflon-1000mg-30tab-diosmina-hesperidina-1-pz-1027610/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 630,
+      "fecha": "2026-09-29",
+      "lado_util": 582
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/daflon_tabletas/160/101/7107/210",
+    "https://www.heb.com.mx/sanfer-daflon-1000mg-30tab-diosmina-hesperidina-1-pz-1027610/p",
+    "https://www.fahorro.com/daflon-1000-mg-30-tabs.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre y por el empaque (Daflon 1000 mg, 30 tabletas, 900 mg/100 mg, Sanfer); ninguna ficha consultada mostró el GTIN completo. El registro 072M97 es SSA IV, pero en la práctica las farmacias lo manejan de forma distinta; se dejó receta 'Revisar'. El fabricante de la tableta de 1000 mg es Servier según el directorio de medicamentos.",
+    "notas_imagenes": "2 fotos del empaque (tienda, 1384 y 630 px): frente y vista frontal recta.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

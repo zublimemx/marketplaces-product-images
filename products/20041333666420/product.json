@@ -4,14 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "PILA DURACELL ALK AA C/6",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pilas Alcalinas Duracell AA Tira con 6 Piezas",
+  "descripcion": "Descripción:\nTira de 6 pilas alcalinas Duracell tamaño AA de 1.5 V. Son pilas de alta capacidad de descarga continua, pensadas para dispositivos de uso prolongado y de consumo frecuente como controles remotos, juguetes, linternas, relojes y otros aparatos electrónicos de uso diario. La presentación en tira facilita su exhibición, almacenamiento y traslado.\n\nCaracterísticas:\n- Tipo: alcalina, tamaño AA\n- Voltaje: 1.5 V\n- Contenido: 6 pilas\n- Formato: tira con 6 piezas\n- Marca Duracell\n\nPresentación:\nTira con 6 pilas alcalinas AA.\n\nAdvertencias:\nInserte las pilas respetando la polaridad (+/-). No mezcle pilas nuevas con usadas ni de distintos tipos. No las recargue, no las abra, no las exponga al fuego ni al calor excesivo. Manténgase fuera del alcance de los niños; en caso de ingestión, acuda de inmediato al médico.",
+  "ficha": {
+    "marca": "Duracell",
+    "presentacion": "Tira con 6 pilas",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 6,
+    "otros": "Tipo de pila: alcalina AA; Voltaje: 1.5 V; Modelo de referencia: MN1500B1"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM7552",
+      "categoria_ruta": "Electrónica, Audio y Video > Pilas y Cargadores > Pilas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +26,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "20041333666420_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://urrea.com/media/catalog/product/M/N/MN1500B1_20260904182454.jpg",
+      "pagina": "https://urrea.com/tira-de-pilas-alcalinas-duracellr-aa-6-piezas-mn1500b1",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1071,
+      "fecha": "2026-09-29",
+      "lado_util": 992
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.cyberpuerta.mx/Energia/Cargadores-Baterias-Pilas/Pilas/Duracell-Pila-Alcalina-AA-6-Piezas.html",
+    "https://urrea.com/tira-de-pilas-alcalinas-duracellr-aa-6-piezas-mn1500b1"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN del sistema (20041333666420) es un GTIN-14 de caja; su UPC base 041333666426 aparece en un listado de 'Duracell Pila Alcalina AA 6 piezas' (tira), pero el GTIN-14 no se vio publicado. Otras tiendas venden el blíster de 6 (UPC 041333900483), presentación distinta que no se usó. Las advertencias son las estándar de pilas alcalinas.",
+    "notas_imagenes": "1 foto de tienda (Urrea, 1000 px): tira con 6 pilas AA. Se descartaron el blíster promopack y su vista trasera (presentación diferente) y una foto duplicada de menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "PROTEC LACT EVENFLO ABSORG C/48",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Protectores de Lactancia Evenflo Advanced Absorgel 48 Pzas",
+  "descripcion": "Descripción:\nProtectores desechables para lactancia Evenflo Advanced con sistema Absorgel, fabricados por Kimberly-Clark de México. Están diseñados para evitar los escurrimientos involuntarios de leche materna y ayudar a mantener la comodidad y la seguridad de la mamá durante la etapa de lactancia. Cada protector viene en su propia bolsita individual, lo que ayuda a conservar la higiene hasta el momento de usarlo.\n\nCaracterísticas:\n- Sistema Absorgel que encapsula el líquido y ayuda a evitar que regrese hacia la piel.\n- Distribución del líquido mediante 2 canales para un mejor manejo de la humedad.\n- Capacidad de absorber hasta 10 veces su peso en líquido.\n- Incluye 2 cintas adheribles que ayudan a que el protector permanezca en su lugar y no se mueva.\n- Empaque individual por pieza para mayor higiene.\n- Desechable, de un solo uso.\n\nPresentación:\nCaja con 48 protectores para lactancia desechables (48 piezas), cada uno en bolsita individual.\n\nAdvertencias:\nProducto desechable de un solo uso. Para instrucciones de uso y precauciones consulte el empaque.",
+  "ficha": {
+    "marca": "Evenflo Advanced",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Advanced",
+    "variante": "Absorgel",
+    "presentacion": "Caja con 48 protectores desechables",
+    "contenido_neto": 48,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 48,
+    "otros": "Sistema Absorgel; Distribución del líquido con 2 canales; 2 cintas adheribles; Empaque individual por pieza; Desechable; Formato de venta: caja"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194498",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Protectores Mamarios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,75 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027565518_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010697/7501027565518_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1173,
+      "fecha": "2026-09-29",
+      "lado_util": 1087
+    },
+    {
+      "archivo": "7501027565518_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010699/7501027565518_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1175,
+      "fecha": "2026-09-29",
+      "lado_util": 1088
+    },
+    {
+      "archivo": "7501027565518_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010698/7501027565518_03.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1149,
+      "fecha": "2026-09-29",
+      "lado_util": 1064
+    },
+    {
+      "archivo": "7501027565518_5.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010700/7501027565518_04.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1175,
+      "fecha": "2026-09-29",
+      "lado_util": 1088
+    },
+    {
+      "archivo": "7501027565518_6.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/7010701/7501027565518_05.jpg",
+      "pagina": "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1167,
+      "fecha": "2026-09-29",
+      "lado_util": 1081
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/evenflo-advanced-protectores-de-lactancia-sistema-absorgel-48-ud",
+    "https://www.farmatodo.com.mx/evenflo-advanced-protector-de-lactancia-absorgel-paquete-c-48-pz-v1/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por la ficha de Farmatodo (EAN 7501027565518, 48 piezas). Posible ficha de catálogo relacionada MLM21301400 (Protectores Para Lactancia Evenflo 48 Piezas), no verificada porque Mercado Libre bloquea el acceso.",
+    "notas_imagenes": "5 fotos de tienda (Farmatodo, 1200 px): frente del empaque, costado, reverso con código de barras y el protector por ambos lados. Se descartó la foto de Benavides porque el empaque muestra la leyenda promocional 'Ahora más producto'.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

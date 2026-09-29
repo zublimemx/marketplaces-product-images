@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA CLARANT B3 NML/GSA 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 Piel Normal a Grasa 200 g",
+  "descripcion": "Descripción:\nCrema facial antimanchas Pond's Clarant B3 para piel de normal a grasa. Su fórmula con niacinamida (vitamina B3) ayuda a desvanecer las manchas causadas por el sol y a restablecer un tono de piel más uniforme, mientras aclara y humecta gradualmente sin dejar sensación grasosa. Está formulada por el Pond's Institute y probada dermatológicamente. Se presenta en tarro de 200 g, ideal para el uso diario en rostro y cuello.\n\nBeneficios:\n- Desvanece las manchas causadas por el sol\n- Aclara y humecta la piel de forma gradual, con hidratación de hasta 20 horas\n- No deja sensación grasosa\n- Para piel balanceada a grasa\n- Con vitamina B3 (niacinamida)\n- Dermatológicamente probada\n\nIngredientes:\nPrincipales: Aqua, Niacinamide, Glycerin, Sodium Ascorbyl Phosphate y filtros UV (Ethylhexyl Methoxycinnamate, Butyl Methoxydibenzoylmethane). Consulte la lista completa en el empaque.\n\nModo de uso:\nAplique en cara y cuello, después de limpiarlos, por la mañana y por la noche. Antes de usarla en el rostro, haga una prueba en la zona del cuello cercana al rostro o en el dorso de la mano.\n\nPresentación:\nTarro con 200 g.\n\nAdvertencias:\nDurante el uso puede sentirse un leve cosquilleo o enrojecimiento de la piel, lo cual es normal. Suspenda su uso si la irritación persiste. Uso externo.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Piel normal a grasa (balanceada a grasa)",
+    "presentacion": "Tarro",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Normal a grasa",
+    "otros": "Tipo de producto: crema facial antimanchas; Con vitamina B3 (niacinamida); Dermatológicamente probada; Hidratación de hasta 20 horas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330316_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501056330316_1_1.jpg",
+      "pagina": "https://www.fahorro.com/crema-clarant-b3-nml-gsa-200-g-tarro.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1634,
+      "fecha": "2026-09-29",
+      "lado_util": 1513
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/co/p/crema-clarant-b3-grasa-200-gr.html/07501056330316",
+  "fuentes": [
+    "https://www.ponds.com/co/p/crema-clarant-b3-grasa-200-gr.html/07501056330316",
+    "https://www.fahorro.com/crema-clarant-b3-nml-gsa-200-g-tarro.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ingredientes tomados del sitio Pond's de Colombia (mismo GTIN 07501056330316); la lista completa puede variar en el empaque de México. La página de Colombia dice 'Vitamina B4' por error; la ficha mexicana y los ingredientes indican B3 (niacinamida).",
+    "notas_imagenes": "1 foto de frente (tienda, Farmacias del Ahorro, 1600 px). La imagen del sitio oficial (assets.unileversolutions.com) devolvió 403.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

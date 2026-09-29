@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SARIDON C100 TABS JUNIO 27 GRATIS 1 ALKA DEFENCE NOVIEMBRE 27 80",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Saridon Paracetamol Cafeína 500 mg/50 mg 100 Comprimidos",
+  "descripcion": "Descripción:\nSaridon es un analgésico y antipirético de Bayer que combina paracetamol con cafeína. Se presenta en caja con 100 comprimidos, cada uno con 500 mg de paracetamol y 50 mg de cafeína. Se utiliza para el alivio del dolor de cabeza, dolor muscular, dolor menstrual y dolor dental, y para reducir la fiebre.\n\nCaracterísticas:\n- Combinación de paracetamol (analgésico y antipirético) y cafeína.\n- La cafeína potencia el efecto analgésico del paracetamol.\n- Concentraciones: paracetamol 500 mg y cafeína 50 mg por comprimido.\n- Presentación de 100 comprimidos, práctica para el hogar.\n\nComposición:\nCada comprimido contiene 500 mg de paracetamol y 50 mg de cafeína.\n\nModo de uso:\nVía oral. Tome los comprimidos con un poco de agua y en la dosis que indica el empaque; no exceda la dosis recomendada ni lo use por tiempo prolongado sin supervisión médica.\n\nPresentación:\nCaja con 100 comprimidos de 500 mg/50 mg.\n\nAdvertencias:\nNo lo use si es alérgico al paracetamol, a la cafeína o a algún componente de la fórmula. Consulte a su médico antes de usarlo si tiene enfermedades del hígado o del riñón, o si consume grandes cantidades de alcohol. No lo combine con otros medicamentos que contengan paracetamol. Tenga en cuenta la cafeína que consume en otros productos. No se recomienda en menores de 12 años sin supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Saridon",
+    "fabricante": "Bayer",
+    "linea": "Saridon",
+    "presentacion": "Caja con 100 comprimidos",
+    "contenido_neto": 100,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 100,
+    "principio_activo": "Paracetamol / Cafeína",
+    "concentracion": "500 mg / 50 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: comprimido; Grupo terapéutico: analgésico y antipirético; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008409534_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__ab406a6a-56e7-4a57-b2ad-cb1a063ae693_1200x1200.jpg?v=1744689530",
+      "pagina": "https://wecarepharma.mx/products/saridon-500mg-50mg-con-100-comprimidos-paracetamol-cafeina",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1240,
+      "fecha": "2026-09-29",
+      "lado_util": 1149
+    },
+    {
+      "archivo": "7501008409534_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.probemedic.mx/media/catalog/product/2/7/2793_1.jpg",
+      "pagina": "https://www.probemedic.mx/saridon-500-mg-100-comprimidos.html",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 557,
+      "fecha": "2026-09-29",
+      "lado_util": 516
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/saridon-500mg-50mg-con-100-comprimidos-paracetamol-cafeina",
+    "https://www.probemedic.mx/saridon-500-mg-100-comprimidos.html",
+    "https://vitau.mx/saridon-500mg50mg-caja-con-100-comprimidos-12675"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Identificado por nombre y por el empaque (Saridon Paracetamol y Cafeína, caja con 100 comprimidos, Bayer); ninguna ficha consultada mostró el GTIN completo. El nombre del sistema incluye una promoción con un producto Alka Defence gratis y caducidades; se ignoraron y no forman parte de esta ficha. La composición 500 mg/50 mg proviene de varias fichas de farmacia. Una ficha indica receta, pero se considera venta libre en México.",
+    "notas_imagenes": "2 fotos del empaque (tienda, 1240 y 557 px): vista frontal y vista angular.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

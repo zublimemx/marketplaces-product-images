@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "ELEVIT 2 OMEGAS 28CAPS BAYER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Elevit 2-Omegas Suplemento con DHA Omega 3 28 Cápsulas",
+  "descripcion": "Descripción:\nElevit 2-Omegas es un suplemento alimenticio de Bayer con DHA (omega 3), ácido fólico, hierro, vitaminas y minerales. Cada caja contiene 28 cápsulas de 1.12 g, para 28 días de uso con una cápsula al día.\n\nCaracterísticas:\n- Aporta DHA (omega 3) y EPA junto con vitaminas y minerales.\n- Contiene ácido fólico y hierro.\n- Una cápsula al día.\n- Presentación de 28 cápsulas.\n\nComposición:\nInformación por cápsula (1.12 g), según la ficha del fabricante:\n- Ácidos grasos omega 3: DHA 200 mg y EPA 40 mg.\n- Vitaminas: A 800 µg, D3 10 µg, E 10 mg, C 70 mg, B2 2.4 mg, niacina 17 mg, B6 4 mg, ácido fólico 360 µg, B12 2.2 µg y biotina 30 µg.\n- Minerales: hierro 20 mg, zinc 15 mg, yodo 100 µg, magnesio 60 mg, cobre 1,000 µg, molibdeno 50 µg, selenio 30 µg y cromo 30 µg.\n\nModo de uso:\nTomar una cápsula al día, por la mañana, acompañada de alimentos.\n\nPresentación:\nCaja con 28 cápsulas de 1.12 g.\n\nAdvertencias:\nEste producto no es un medicamento. Consulte a su médico antes de usarlo, en especial si está embarazada, planea un embarazo o está en tratamiento médico. No exceda la dosis recomendada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Elevit",
+    "fabricante": "Bayer de México",
+    "linea": "Elevit 2-Omegas",
+    "presentacion": "Caja con 28 cápsulas",
+    "contenido_neto": 28,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 28,
+    "via_administracion": "Oral",
+    "otros": "Suplemento alimenticio con DHA (omega 3), ácido fólico, hierro, vitaminas y minerales; Peso de cada cápsula: 1.12 g; Dosis: 1 cápsula al día"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501008499177_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501008499177_2_1.jpg",
+      "pagina": "https://www.fahorro.com/elevit-2-omegas-28-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1481,
+      "fecha": "2026-09-29",
+      "lado_util": 1372
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/elevit-2-omegas-capsulas/22/101/77431/14",
+    "https://www.sanborns.com.mx/producto/280076/elevit-2-omegas-caps-bli-28-mx",
+    "https://www.farmatodo.com.mx/elevit-2-omegas-caja-c-28-capsulas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Las cantidades por cápsula provienen de la ficha de Bayer en un directorio de medicamentos y deben cotejarse con la tabla nutrimental del empaque antes de publicarlas. Se dejó fuera cualquier afirmación de salud que no esté en el empaque.",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 1481 px). La foto encontrada en una farmacia en línea mostraba el costado con la tabla nutrimental y se descartó; las demás fotos eran idénticas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

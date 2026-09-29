@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS REJUVE ARRUG 100 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Rejuveness Antiarrugas 100 g",
+  "descripcion": "Descripción:\nPond's Rejuveness es una crema facial antiarrugas que actúa de dentro hacia afuera para lograr una piel más firme y joven. Ayuda a reducir y a prevenir la aparición de arrugas con una fórmula desarrollada por el Pond's Institute. Presentación en frasco de 100 g.\n\nBeneficios:\n- Reduce y previene la aparición de arrugas.\n- Proporciona firmeza a la piel.\n- Ayuda a una piel más firme y joven.\n\nIngredientes clave:\nÁcido láctico, colágeno hidrolizado, aceite de semilla de borraja, glicerina y acetato de tocoferilo (vitamina E).\n\nModo de uso:\nAplique en el rostro y el cuello diariamente después de limpiarlos.\n\nPresentación:\nFrasco de 100 g.\n\nAdvertencias:\n- Puede sentir una leve sensación de cosquilleo o enrojecimiento de la piel; es normal y es señal de que el producto está actuando. Si persiste, suspenda su uso.\n- Uso externo. Evite el contacto con los ojos.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Rejuveness",
+    "variante": "Crema contra arrugas",
+    "presentacion": "Frasco con 100 g",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Crema facial antiarrugas; Con ácido láctico, colágeno hidrolizado y vitamina E; Aplicación en rostro y cuello; Formato de venta: frasco individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330491_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.megamaxi.com/wp-content/uploads/2024/12/7501056330491-1-9.jpg",
+      "pagina": "https://www.megamaxi.com/shop/belleza/cuidado-facial-belleza/cremas-antiarrugas-y-antiedad-cuidado-facial-belleza/crema-facial-rejuveness-dia-ponds-100-g/",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 883,
+      "fecha": "2026-09-29",
+      "lado_util": 818
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/co/p/crema-rejuveness-100g.html/07501056330491",
+  "fuentes": [
+    "https://www.ponds.com/co/p/crema-rejuveness-100g.html/07501056330491",
+    "https://www.megamaxi.com/shop/belleza/cuidado-facial-belleza/cremas-antiarrugas-y-antiedad-cuidado-facial-belleza/crema-facial-rejuveness-dia-ponds-100-g/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501056330491 confirmado en las páginas oficiales de Pond's de otros países (Colombia, Perú) y en tiendas; no se encontró la página mexicana, así que ingredientes y advertencias vienen de la ficha oficial de esos países. Verificar contra el empaque mexicano. Fabricante (Unilever) deducido de la marca.",
+    "notas_imagenes": "1 foto de frente (tienda de Ecuador, 883 px) del frasco Pond's Rejuveness 100 g. Se descartaron la contraetiqueta y una foto con banner de texto.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE ICECHI E-FRIO SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Ice Chill Aerosol 150 ml",
+  "descripcion": "Descripción:\nDesodorante en aerosol para hombre Axe Ice Chill de 150 ml. Ofrece una sensación de frescura intensa con una fragancia de menta y lima y protección de larga duración, de hasta 48 horas. Su efecto frío ayuda a sentirse 6 °C más fresco, ideal para acompañar la rutina diaria de higiene personal.\n\nBeneficios:\n- Fragancia de menta frozen y lima con efecto frío\n- Protección y frescura de hasta 48 horas\n- Sensación de sentirse 6 °C más fresco\n- Práctico formato aerosol de 150 ml\n\nModo de uso:\nAgite antes de usar y rocíe sobre la piel.\n\nPresentación:\nEnvase aerosol con 150 ml.\n\nAdvertencias:\nContenido a presión. Inflamable: no lo use cerca de flamas ni lo exponga al calor. No perfore ni incinere el envase. Uso externo; evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Ice Chill",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta frozen y lima",
+    "genero": "Hombre",
+    "otros": "Tipo de producto: desodorante corporal en aerosol; Duración: hasta 48 horas; Efecto frío"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306213906_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506306213906_7.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-ice-chill-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1622,
+      "fecha": "2026-09-29",
+      "lado_util": 1502
+    },
+    {
+      "archivo": "7506306213906_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506306213906_1.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-axe-ice-chill-hombre-150-ml-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1533,
+      "fecha": "2026-09-29",
+      "lado_util": 1420
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-axe-ice-chill-hombre-150-ml-aerosol.html",
+    "https://www.tudrogueriavirtual.com/desodorante-axe-aerosol--ice-chill-frasco-x-150-ml-7506306213906/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Sin ingredientes publicados. El modo de uso y las advertencias son las estándar de un aerosol, no leídas de una etiqueta específica. El sitio oficial de Axe devolvió 403. El nombre 'E-FRIO' del sistema equivale a 'efecto frío'.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): dos versiones del empaque Ice Chill 150 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

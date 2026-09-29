@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "FICONAX 1G C 30 TABS METFORMINA 1G PISA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ficonax Metformina 1 g 30 Tabletas Recubiertas",
+  "descripcion": "Descripción:\nFiconax es un antidiabético oral de Laboratorios PiSA cuyo principio activo es la metformina, en tabletas recubiertas de 1 g. Se presenta en caja con 30 tabletas para administración por vía oral.\n\nBeneficios:\n- Antidiabético oral a base de metformina\n- Indicado en la diabetes mellitus tipo 2 que cursa con obesidad exógena, cuando no hay respuesta adecuada a la restricción calórica, el ejercicio o los hipoglucemiantes orales\n- Tabletas recubiertas de 1 g\n- Caja con 30 tabletas\n\nComposición:\nCada tableta contiene metformina 1 g.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga siempre sus indicaciones y las del empaque.\n\nPresentación:\nCaja con 30 tabletas recubiertas de 1 g.\n\nAdvertencias:\nSu venta requiere receta médica. No se automedique. Es un medicamento de uso crónico que requiere vigilancia médica; no modifique ni suspenda la dosis sin consultar a su médico. Ante cualquier duda, consulte a su médico o solicite orientación a su químico farmacéutico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ficonax",
+    "fabricante": "PiSA",
+    "presentacion": "Caja con 30 tabletas recubiertas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Metformina",
+    "concentracion": "1 g por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: tableta recubierta; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125101069_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20220429_348511.jpg",
+      "pagina": "https://www.benavides.com.mx/ficonax-1-g-tabletas-1x30",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/ficonax-1-g-tabletas-1x30",
+    "https://www.fahorro.com/ficonax-1-g-oral-30-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una ficha de tienda marca la condición de venta como 'receta no obligatoria' pero el propio texto indica 'su venta requiere prescripción médica'; se tomó como con receta.",
+    "notas_imagenes": "1 foto de frente a la caja (Ficonax metformina 1 g, 30 tabletas recubiertas), origen tienda, 756 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

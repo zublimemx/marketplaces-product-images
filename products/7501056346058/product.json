@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS CLAR B3 FPS15 T100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 Antimanchas FPS 15 100 g",
+  "descripcion": "Descripción:\nCrema facial antimanchas Pond's Clarant B3 con factor de protección solar 15 (FPS 15) y vitamina B3 (niacinamida), en tarro de 100 g. Es una crema de uso diario formulada por el Pond's Institute que combina cuidado de la piel con protección solar y ayuda a restablecer el tono natural de la piel.\n\nBeneficios:\n- Ayuda a restablecer el tono natural de la piel y a lograr un tono más uniforme.\n- Con niacinamida (vitamina B3), ingrediente de la línea Clarant B3.\n- Incluye factor de protección solar 15.\n- Presentación de 100 g para uso diario, de día y de noche.\n\nModo de uso:\nAplique sobre el rostro y el cuello limpios, después de la limpieza, por la mañana y por la noche.\n\nIngredientes:\nAgua, metoxicinamato de etilhexilo, ciclopentasiloxano, butil metoxidibenzoilmetano, niacinamida, dióxido de titanio, entre otros filtros UV y agentes acondicionadores. Consulte la lista completa en el empaque.\n\nPresentación:\nTarro con 100 g.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece irritación o enrojecimiento y consulte a su médico.\n- Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Antimanchas FPS 15",
+    "presentacion": "Tarro",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Factor de protección solar: FPS 15; Ingrediente destacado: niacinamida (vitamina B3); Uso: día y noche; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056346058_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056346058.jpg",
+      "pagina": "https://www.delsol.com.mx/crema-facial-ponds-crema-clarant-b3-fps-15-100-gr",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 954,
+      "fecha": "2026-09-29",
+      "lado_util": 884
+    },
+    {
+      "archivo": "7501056346058_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/326900/326900_02.webp?v=3038388d",
+      "pagina": "https://www.heb.com.mx/ponds-crema-facial-clarant-b3-spf-15-100-gr-393229/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 569,
+      "fecha": "2026-09-29",
+      "lado_util": 527
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/crema-antimanchas-clarant-b3-15fps-100g.html/07501056346058",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/crema-antimanchas-clarant-b3-15fps-100g.html/07501056346058",
+    "https://www.heb.com.mx/ponds-crema-facial-clarant-b3-spf-15-100-gr-393229/p",
+    "https://www.delsol.com.mx/crema-facial-ponds-crema-clarant-b3-fps-15-100-gr"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501056346058 confirmado en la página oficial de Pond's México (100 g, FPS 15) y en fichas de tienda. La lista de ingredientes de la página oficial está resumida; se dejó parcial y se remite al empaque.",
+    "notas_imagenes": "2 fotos (tienda): frente del tarro (Del Sol 954 px) y reverso con etiqueta (H-E-B 569 px). La página oficial bloqueó la descarga; se descartaron un banner promocional y una imagen de textura de la crema. La segunda foto es de menos de 800 px.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

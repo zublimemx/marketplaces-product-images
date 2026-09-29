@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ROCAINOL CREMA 45 GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Rocainol Bálsamo Salicilato de Metilo y Mentol 45 g",
+  "descripcion": "Descripción:\nRocainol Bálsamo es un producto de uso tópico con salicilato de metilo y mentol, en tubo de 45 g. Su empaque lo presenta para aliviar dolores musculares, reumáticos y torceduras. Es un analgésico antiinflamatorio de aplicación externa que se usa como auxiliar en el dolor reumático, las molestias de espalda, las lesiones y los esguinces.\n\nBeneficios:\n- Alivia dolores musculares, reumáticos y torceduras, según el empaque.\n- Con salicilato de metilo y mentol.\n- Aplicación tópica directa sobre la zona adolorida.\n- Tubo de 45 g fácil de llevar.\n\nComposición:\nSalicilato de metilo y mentol. Consulte la fórmula completa en el empaque.\n\nModo de uso:\nUso externo. Aplique una pequeña cantidad sobre la zona afectada y frote suavemente hasta que se absorba. Repita según se indique en el empaque. Lávese las manos después de aplicarlo.\n\nPresentación:\nTubo con 45 g de bálsamo.\n\nAdvertencias:\n- Solo para uso externo; no se ingiere.\n- Evite el contacto con los ojos, las mucosas y la piel lastimada o irritada.\n- No lo aplique bajo vendajes apretados ni con fuentes de calor.\n- Si es alérgico a la aspirina o a los salicilatos, no lo use.\n- Si las molestias persisten, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Rocainol",
+    "linea": "Rocainol",
+    "variante": "Bálsamo",
+    "presentacion": "Tubo",
+    "contenido_neto": 45,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salicilato de metilo y mentol",
+    "via_administracion": "Tópica",
+    "otros": "Grupo terapéutico: analgésico y antiinflamatorio tópico; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "354312625018_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/imagenes-sanborns-ii/1200/354312625018.jpg",
+      "pagina": "https://www.claroshop.com/producto/489393/rocainol-balsamo-45-g",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1058,
+      "fecha": "2026-09-29",
+      "lado_util": 980
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/balsamo-rocainol-45g-3038464/p",
+    "https://www.claroshop.com/producto/489393/rocainol-balsamo-45-g",
+    "https://farmasuper.com.mx/en/shop/354312625018-rocainol-balsamo-45-g-10707"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 354312625018 (UPC de 12 dígitos) confirmado en ficha de farmacia como Rocainol Bálsamo 45 g; el nombre del sistema dice \"CREMA\" pero las tiendas y el empaque lo venden como bálsamo/ungüento. Composición (salicilato de metilo y mentol) tomada de una ficha de tienda; no se encontró fabricante ni cantidades por gramo. Las advertencias y el modo de uso son los habituales de un bálsamo tópico; verificar en el empaque.",
+    "notas_imagenes": "1 foto de frente del tubo con su caja (tienda: Claro Shop 1058 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

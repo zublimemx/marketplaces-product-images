@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "BREDELIN 750MG TAB C7",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Bredelin Levofloxacino 750 mg 7 Tabletas",
+  "descripcion": "Descripción:\nBredelin 750 mg es un antibiótico del grupo de las fluoroquinolonas a base de levofloxacino, en tabletas de 750 mg, de Laboratorios Senosiain. Se prescribe para el tratamiento de infecciones causadas por bacterias sensibles, entre ellas infecciones respiratorias y de las vías urinarias, siempre por indicación médica.\n\nComposición:\nCada tableta contiene levofloxacino (como hemihidrato) 750 mg.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento las determina el médico según el tipo de infección; complete el tratamiento aunque los síntomas mejoren. Tome las tabletas con un vaso de agua.\n\nPresentación:\nCaja con 7 tabletas de 750 mg.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico al levofloxacino o a otras quinolonas.\n- Suspenda su uso y consulte a su médico si presenta dolor o inflamación en tendones, o reacciones alérgicas.\n- Consulte a su médico si está embarazada o en lactancia, si es epiléptico o si toma otros medicamentos.\n- Conservar a una temperatura entre 15 y 30 °C.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bredelin",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Bredelin",
+    "presentacion": "Caja con 7 tabletas",
+    "contenido_neto": 7,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 7,
+    "principio_activo": "Levofloxacino",
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "400M2006SSAIV",
+    "otros": "Grupo terapéutico: antibiótico (fluoroquinolona); Venta con receta médica; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701650_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701650_3.jpg",
+      "pagina": "https://www.fahorro.com/bredelin-750-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1597,
+      "fecha": "2026-09-29",
+      "lado_util": 1479
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/5976-bredelin-750-mg-caja-con-tabletas-levofloxacino-laboratorio-senosiain-rx2-7501314701650.html",
+    "https://www.fahorro.com/bredelin-750-mg-oral-7-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de farmacia (Bredelin 750 mg, 7 tabletas, Senosiain). Las fichas solo dan indicación general (infecciones respiratorias y urinarias); las advertencias son las generales de las fluoroquinolonas. Categoría igual a la de Bredelin 500 mg.",
+    "notas_imagenes": "1 foto de frente de la caja (tienda: Farmacias del Ahorro 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

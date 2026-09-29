@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAMPONES TAMPAX PEARL SUPER PLUS C8ABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tampones Tampax Pearl Super Plus 8 Piezas",
+  "descripcion": "Descripción:\nTampones internos Tampax Pearl con absorbencia Super Plus, pensados para los días de flujo abundante. Cada caja contiene 8 tampones con aplicador de plástico, de la marca Tampax.\n\nCaracterísticas:\n- Absorbencia Super Plus, para flujo abundante.\n- Aplicador de plástico que facilita la colocación.\n- Cordón de retiro.\n- Presentación individual de 8 tampones.\n- Uso interno, discreto y cómodo.\n\nModo de uso:\nLávese las manos antes de usarlo. Siga las instrucciones ilustradas que vienen en el interior de la caja para introducir el tampón con ayuda del aplicador. Para retirarlo, jale suavemente el cordón. Lávese las manos después de usarlo.\n\nPresentación:\nCaja con 8 tampones con aplicador.\n\nAdvertencias:\nUtilice la absorbencia mínima necesaria para su flujo y cambie el tampón cada 4 a 8 horas. El uso de tampones se asocia con el síndrome de choque tóxico, una enfermedad poco frecuente pero grave. Si presenta fiebre alta repentina, vómito, diarrea, mareo, dolor muscular o erupciones parecidas a una quemadura de sol, retire el tampón y acuda de inmediato al médico. Lea las instrucciones del empaque. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Tampax",
+    "fabricante": "Procter & Gamble",
+    "linea": "Pearl",
+    "variante": "Super Plus",
+    "presentacion": "Caja con 8 tampones",
+    "contenido_neto": 8,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 8,
+    "genero": "Mujer",
+    "otros": "Absorbencia: Super Plus (flujo abundante); Con aplicador de plástico; Uso: interno"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187666",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Tampones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435253536_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://e-comm-pub-prod.s3.amazonaws.com/img-comp/7500435253536_01.jpg",
+      "pagina": "https://www.circulodelasalud.mx/producto/tampones-tampax-pearl-s-plus-c-8-n/",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1217,
+      "fecha": "2026-09-29",
+      "lado_util": 1127
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.circulodelasalud.mx/producto/tampones-tampax-pearl-s-plus-c-8-n/",
+    "https://www.farmaciasguadalajara.com/higiene-y-belleza/tampones/tampon-tampax-pearl-super-plus--8-pzas.-1448250.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados por el empaque (Tampax Pearl Super Plus, 8 absorbentes internos) y por la imagen de la ficha asociada al GTIN. Las fichas consultadas traen muy poco texto; la descripción se limita a lo visible en el empaque y a advertencias estándar de tampones. El fabricante es el titular de la marca Tampax (Procter & Gamble).",
+    "notas_imagenes": "1 foto de frente al empaque (tienda, 1217 px). La foto de otra tienda correspondía a Tampax Pearl Super y se descartó.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

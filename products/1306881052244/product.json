@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "DEXCLOR C 12 TAB DEXAMETASONA CLORFENIRAMINA MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dexclor Dexametasona Clorfenamina 12 Tabletas",
+  "descripcion": "Descripción:\nDexclor son tabletas que combinan dexametasona y maleato de clorfenamina (clorfeniramina), con acción antialérgica y desinflamante. Según la ficha comercial están indicadas para el tratamiento sintomático de la rinoconjuntivitis alérgica (estacional y perenne), urticaria y angioedema, dermatitis atópica y de contacto, picaduras de insectos, dermografismo y reacciones medicamentosas.\n\nBeneficios:\n- Combina un corticosteroide (dexametasona) con un antihistamínico (clorfenamina)\n- Alivio sintomático de cuadros alérgicos de nariz, ojos y piel\n- Presentación en tabletas de administración oral\n\nComposición:\nDexametasona y maleato de clorfenamina (clorfeniramina) por tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique el médico.\n\nPresentación:\nCaja con 12 tabletas.\n\nAdvertencias:\nContiene un corticosteroide, por lo que debe usarse únicamente bajo indicación y supervisión médica. No exceda la dosis indicada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dexclor",
+    "presentacion": "Tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Dexametasona; Maleato de clorfenamina (clorfeniramina)",
+    "via_administracion": "Oral",
+    "otros": "Antialérgico y desinflamante; caja con 12 tabletas; concentración por tableta no confirmada"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +30,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.rappi.com.mx/p/dexclor-tabletas-dexametasonaclorfe-2808119",
+    "https://www.rappi.com.mx/p/dexametasonamaleato-de-clorfenirami-2354535"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El código 1306881052244 no es un GTIN estándar; solo aparece como código de producto en un resultado de búsqueda de una farmacia (Dexametasona/Clorfenamina C/12 tab, Dexclor) cuya página no cargó. No se confirmaron la concentración por tableta, el laboratorio ni la condición de venta; los corticosteroides orales suelen requerir receta, revisar antes de publicar.",
+    "notas_imagenes": "Sin fotos: las páginas con el producto no traían imagen del empaque (Rappi) o no cargaron (error de conexión segura).",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

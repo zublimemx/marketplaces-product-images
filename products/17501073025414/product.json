@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PLASTIPACK 3ML C100 NEGRA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringa BD Plastipak 3 ml 22G x 32 mm Caja 100 Piezas",
+  "descripcion": "Descripción:\nJeringas desechables BD Plastipak de 3 ml con aguja calibre 22G x 32 mm (aguja negra), en caja con 100 piezas. Son jeringas estériles de un solo uso para la aplicación de inyecciones y para aspirar líquidos de viales, ampolletas y otras fuentes, de uso frecuente en clínicas, consultorios y botiquines.\n\nCaracterísticas:\n- Diseño de 3 piezas con émbolo de sello sin látex que evita fugas y funciona como indicador de contenido.\n- Cilindro transparente que permite ver el medicamento.\n- Escala en negritas para una dosificación precisa.\n- Lubricación con silicona para que el émbolo se deslice con suavidad.\n- Estériles y de un solo uso.\n- El látex de caucho natural no forma parte de la formulación del material.\n\nPresentación:\nCaja con 100 jeringas de 3 ml con aguja 22G x 32 mm.\n\nAdvertencias:\n- Producto estéril de un solo uso: no lo reutilice.\n- No lo use si el empaque individual está dañado o abierto.\n- Deseche la jeringa usada en un contenedor para residuos punzocortantes.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "BD",
+    "fabricante": "Becton Dickinson",
+    "linea": "Plastipak",
+    "variante": "3 ml aguja 22G x 32 mm negra",
+    "presentacion": "Caja con 100 jeringas",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "otros": "Capacidad: 3 ml; Aguja: calibre 22G x 32 mm; Estéril, desechable y de un solo uso; Diseño de 3 piezas sin látex en el sello del émbolo; Formato de venta: caja con 100 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "17501073025414_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://productos.supromed.mx/wp-content/uploads/JERINGA-PLASTIPAK-3-ML-22X32-Cont.100-BD.jpg",
+      "pagina": "https://productos.supromed.mx/product/jeringa-plastipak-3-ml-22x32-contiene-100-piezas-bd/",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 864,
+      "fecha": "2026-09-29",
+      "lado_util": 453
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://productos.supromed.mx/product/jeringa-plastipak-3-ml-22x32-contiene-100-piezas-bd/",
+    "https://www.bd.com/es-es/products-and-solutions/products/product-families/bd-plastipak-3-piece-syringe",
+    "https://www.farmacia24siete.com/pedir/categoria/material-de-curacion/CABZWRbTLHaNCTBBW/p/Pwq8nNH3hGndWjF4D/plastipak-jeringa-negra-3ml-22x32mm-7501073025417"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 17501073025414 es un GTIN-14 (indicador 1) de la caja con 100 piezas; el código de la pieza suelta, según una farmacia, es 7501073025417 (jeringa negra 3 ml 22x32 mm). Se identificó por nombre y calibre ('negra' = aguja 22G x 32 mm). No se encontró el GTIN de caja en ninguna ficha ni la página oficial de BD México; los datos técnicos vienen de la ficha global de la familia Plastipak.",
+    "notas_imagenes": "1 foto (tienda, 864 px, original de 800 px) de la caja corrugada BD Plastipak; corresponde a la presentación de 100 piezas.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

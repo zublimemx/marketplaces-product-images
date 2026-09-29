@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD LADYS S POWFRESH STICK 45",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Lady Speed Stick Powder Fresh Barra 45 g",
+  "descripcion": "Descripción:\nDesodorante antitranspirante en barra para mujer Lady Speed Stick Powder Fresh 24/7, con fragancia Powder Fresh. Está formulado para dejar las axilas secas y protegidas, con protección de hasta 48 horas contra el sudor y el mal olor. El empaque lo describe como ultra seco y protegido.\n\nBeneficios:\n- Protección hasta por 48 horas contra el sudor y el mal olor.\n- Tecnología Control-Tech activable por el calor del cuerpo.\n- Mantiene las axilas frescas y secas durante el día.\n- Formato en barra de aplicación precisa y práctica.\n- Fragancia Powder Fresh.\n\nIngredientes:\nContiene tetraclorhidrex de aluminio y zirconio con glicina (Aluminum Zirconium Tetrachlorohydrex GLY) como activo antitranspirante, emolientes para el cuidado de la piel y fragancia.\n\nModo de uso:\nAplique sobre las axilas limpias y secas.\n\nPresentación:\nBarra de 45 g.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Lady Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "24/7",
+    "variante": "Powder Fresh",
+    "presentacion": "Barra",
+    "contenido_neto": 45,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "sabor_aroma": "Powder Fresh",
+    "otros": "Tipo: antitranspirante en barra; Protección: hasta 48 horas; Tecnología Control-Tech"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546060460_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw0f7f303e/images/7509546060460/7509546060460_1.jpg",
+      "pagina": "https://www.dax.com.mx/producto/lady-speed-stick-desodorante-barra-powder-fresh-45g-7509546060460.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "fecha": "2026-09-29",
+      "lado_util": 1200
+    },
+    {
+      "archivo": "7509546060460_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://storage.googleapis.com/rec-productos/7509546060460.jpg",
+      "pagina": "https://www.dax.com.mx/producto/lady-speed-stick-desodorante-barra-powder-fresh-45g-7509546060460.html",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 629,
+      "fecha": "2026-09-29",
+      "lado_util": 583
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.dax.com.mx/producto/lady-speed-stick-desodorante-barra-powder-fresh-45g-7509546060460.html",
+    "https://www.smrey.com/p/desodorante-barra-lady-speed-stick-powder-fresh-45gr-7509546060460"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema (LADYS S POWFRESH) corresponde a Lady Speed Stick Powder Fresh; el modo de uso y las advertencias son generales, no se encontraron textos de etiqueta.",
+    "notas_imagenes": "2 fotos de tienda (dax 1200 px y smrey 720 px) de frente del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

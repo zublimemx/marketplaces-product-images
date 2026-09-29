@@ -4,29 +4,55 @@
   "linea": "Mark",
   "nombre_sistema": "JALOMA SUPER PUNCH 250ML FIJADOR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fijador de Cabello Jaloma Super Punck 250 ml",
+  "descripcion": "Descripción:\nFijador de cabello en spray Jaloma Super Punck de 250 ml, con megafijación. Está diseñado para realzar peinados casuales o deportivos con mayor intensidad, durabilidad y brillo. Su frasco con atomizador permite aplicarlo de forma práctica sobre el cabello para mantener el peinado en su lugar.\n\nBeneficios:\n- Mayor intensidad de fijación en el peinado\n- Peinado de larga duración\n- Efecto brillante\n- Ideal para looks casuales o deportivos\n\nModo de uso:\nAplique sobre el cabello húmedo. Reparta el producto y acomode con los dedos, peine o cepillo antes de dejar secar de forma natural.\n\nPresentación:\nFrasco atomizador con 250 ml.",
+  "ficha": {
+    "marca": "Jaloma",
+    "linea": "Super Punck",
+    "variante": "Megafijación",
+    "presentacion": "Spray (frasco atomizador)",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Tipo de producto: fijador de cabello en spray; Uso: peinados casuales o deportivos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19504353"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "759684901409_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://jaloma.com.mx/wp-content/uploads/2025/03/190140_1000X1432.jpg",
+      "pagina": "https://jaloma.com.mx/product/fijador-de-cabello-super-punck-250-ml/",
+      "ancho_original": 1000,
+      "alto_original": 1432,
+      "lado_final": 1327,
+      "fecha": "2026-09-29",
+      "lado_util": 1229
+    }
+  ],
+  "url_oficial": "https://jaloma.com.mx/product/fijador-de-cabello-super-punck-250-ml/",
+  "fuentes": [
+    "https://jaloma.com.mx/product/fijador-de-cabello-super-punck-250-ml/",
+    "https://www.mercadolibre.com.mx/fijador-de-cabello-super-punck-250-ml-jaloma/p/MLM19504353"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El nombre del sistema dice 'Super Punch' pero la marca lo escribe 'Super Punck'. El sitio oficial no publica ingredientes ni GTIN; el GTIN solo apareció en un listado mayorista (260 ml x24), por eso se identificó por nombre. catalogo_ml corresponde al fijador Super Punck 250 ml de Jaloma; verificar el GTIN al publicar.",
+    "notas_imagenes": "1 foto de frente del sitio oficial de Jaloma (1000 px). No hay más ángulos publicados.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

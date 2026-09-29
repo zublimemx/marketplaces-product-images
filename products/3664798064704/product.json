@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PHARMATON COMPLETE KIDS JRB CON LISINA + VIT Y MIN SB FRUTAS 100ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pharmaton Complete Kids Jarabe Sabor Frutas 100 ml",
+  "descripcion": "Descripción:\nPharmaton Complete Kids es un suplemento alimenticio en jarabe con lisina, vitaminas y minerales, con sabor a frutas, formulado para niños mayores de 4 años. Aporta lisina, cinco vitaminas (B2, B3, B6, D y E) y minerales como calcio y yodo para complementar la alimentación diaria. Se presenta en frasco de 100 ml, de Sanofi-Aventis de México.\n\nCaracterísticas:\n- Con lisina\n- Con vitaminas B2, B3, B6, D y E\n- Con minerales (calcio y yodo)\n- Sabor a frutas\n- Jarabe listo para tomar, contenido de 100 ml\n\nComposición:\nClorhidrato de lisina, lactato de calcio, vitaminas B2, B3, B6, D y E, yodo. Otros ingredientes: sorbitol, carboximetilcelulosa sódica, saborizantes y conservadores.\n\nModo de uso:\nNiños mayores de 4 años: 15 ml de jarabe al día, de preferencia por la mañana.\n\nPresentación:\nCaja con frasco de 100 ml de jarabe.\n\nAdvertencias:\nEste producto no es un medicamento. No sustituye una dieta variada. Su consumo excesivo puede tener efecto laxante. No lo consuma si es alérgico a alguno de sus componentes. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pharmaton",
+    "fabricante": "Sanofi-Aventis de México",
+    "linea": "Complete Kids",
+    "variante": "Sabor a frutas",
+    "presentacion": "Jarabe",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Niños mayores de 4 años",
+    "sabor_aroma": "Frutas",
+    "otros": "Tipo de producto: suplemento alimenticio; Con lisina, vitaminas B2, B3, B6, D y E, calcio y yodo; Porción diaria: 15 ml"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798064704_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3664798064704_1_1.jpg",
+      "pagina": "https://www.fahorro.com/complete-kids-jarabe-100-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1557,
+      "fecha": "2026-09-29",
+      "lado_util": 1442
+    },
+    {
+      "archivo": "3664798064704_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/3/6/3664798064704_2_1.jpg",
+      "pagina": "https://www.fahorro.com/complete-kids-jarabe-100-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1495,
+      "fecha": "2026-09-29",
+      "lado_util": 1385
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/complete-kids-jarabe/3037/101/81777/94",
+    "https://www.fahorro.com/complete-kids-jarabe-100-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Composición y dosis del PLM (ficha de la línea, con presentaciones de 100 y 200 ml). El calcio y el yodo se toman de la composición del PLM. Existe un catálogo ML solo para la presentación de 200 ml, que no coincide.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1500 px): frente de la caja de 100 ml con lateral y frente sin lateral. Se descartó una foto de 200 ml y una imagen promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }

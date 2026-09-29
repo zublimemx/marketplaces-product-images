@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SYSTANE HIDRATACION SP 10ML MARZO 28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Systane Hidratación SP Gotas Oftálmicas Lubricantes 10 ml",
+  "descripcion": "Descripción:\nSystane Hidratación SP son gotas oftálmicas lubricantes de Alcon sin conservadores, formuladas para brindar alivio de larga duración del ojo seco. Su fórmula de hidratación prolongada combina ácido hialurónico con HP-Guar para ayudar a mantener la humedad de la superficie del ojo.\n\nBeneficios:\n- Alivio de larga duración de los síntomas del ojo seco e irritado.\n- Lubrica la superficie ocular y ayuda a retener la película lagrimal.\n- Fórmula de hidratación prolongada con ácido hialurónico.\n- Sin conservadores; compatible con lentes de contacto blandos, según el fabricante.\n\nComposición:\nHialuronato de sodio, polietilenglicol 400, propilenglicol e hidroxipropil-guar, entre otros ingredientes.\n\nModo de uso:\nAplique 1 o 2 gotas en el ojo afectado y parpadee. Puede usarse tantas veces como sea necesario durante el día.\n\nPresentación:\nFrasco con 10 ml.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Si presenta molestias persistentes, lagrimeo excesivo, cambios en la visión o enrojecimiento, suspenda su uso y consulte a un especialista.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Systane",
+    "fabricante": "Alcon",
+    "linea": "Hidratación",
+    "variante": "SP (sin conservadores)",
+    "presentacion": "Frasco con 10 ml",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hialuronato de sodio, polietilenglicol 400 y propilenglicol",
+    "via_administracion": "Oftálmica",
+    "otros": "Gotas lubricantes para ojo seco; Con ácido hialurónico e HP-Guar; Sin conservadores; Formato de venta: caja con 1 frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "300651510577_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/3/0300651510577.jpeg",
+      "pagina": "https://www.fahorro.com/systane-hidratacion-sp-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1188,
+      "fecha": "2026-09-29",
+      "lado_util": 1100
+    },
+    {
+      "archivo": "300651510577_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/3/0300651510577_2.jpeg",
+      "pagina": "https://www.fahorro.com/systane-hidratacion-sp-10-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1192,
+      "fecha": "2026-09-29",
+      "lado_util": 1104
+    }
+  ],
+  "url_oficial": "https://systane.myalcon.com/es/products/systane-hydration-preservative-free/",
+  "fuentes": [
+    "https://www.fahorro.com/systane-hidratacion-sp-10-ml.html",
+    "https://systane.myalcon.com/es/products/systane-hydration-preservative-free/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 300651510577 (UPC de 12 dígitos) confirmado por la foto y ficha de la farmacia (código 0300651510577). El detalle de composición y modo de uso viene de la página global/España de Systane Hidratación sin conservantes; la ficha mexicana coincide en los ingredientes principales. Verificar contra el empaque mexicano. El nombre del sistema trae 'MARZO 28' (caducidad), ignorada.",
+    "notas_imagenes": "2 fotos de frente y en ángulo (tienda, 1188 y 1192 px) de la caja Systane Hidratación SP 10 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 5
   }
 }
