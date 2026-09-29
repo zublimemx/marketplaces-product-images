@@ -22,7 +22,7 @@ def api(method, path, data=None):
     cmd = ["curl", "-sS", "-X", method, "-H", f"Authorization: Bearer {token}", "-H", "Accept: application/vnd.github+json",
            "-H", "X-GitHub-Api-Version: 2022-11-28", f"https://api.github.com/repos/{REPO}{path}"]
     if data is not None:
-        cmd += ["-d", json.dumps(data)]
+        cmd += ["-H", "Content-Type: application/json", "-d", json.dumps(data)]
     r = subprocess.run(cmd, capture_output=True, text=True)
     try:
         return json.loads(r.stdout)
