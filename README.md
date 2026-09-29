@@ -1,40 +1,49 @@
 # marketplaces-product-images
 
-Base de datos de productos para publicar en marketplaces (Mercado Libre, Amazon, Shopify y Odoo). Guarda imágenes, descripciones y fichas técnicas; los precios y existencias no se guardan aquí porque cambian a diario y este repositorio se hace público durante las importaciones.
+Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en marketplaces: Mercado Libre (en curso), Odoo, Shopify y Amazon. Guarda por GTIN la ficha, la descripción, la ficha técnica, las categorías por marketplace y las fotos. Los precios, existencias y ventas no se guardan aquí porque el repositorio se hace público durante las importaciones.
+
+**Si eres un agente de IA (Claude, Codex u otro), empieza por `AGENTS.md`.**
+
+## Documentación
+
+| Archivo | Para qué |
+|---|---|
+| `AGENTS.md` / `CLAUDE.md` | Guía para agentes |
+| `PENDIENTES.md` | Pendientes abiertos y próximas tareas |
+| `PROGRESO.md` | Avance de fichas y fotos por sesión |
+| `docs/CONTEXTO.md` | Antecedentes, decisiones del dueño e historial |
+| `docs/REGLAS_NEGOCIO.md` | Reglas de publicación, contenido, fotos y precio |
+| `docs/CONTRATOS.md` | Formato de product.json, lotes, resultados, insumos y layout |
+| `docs/PROCEDIMIENTO_SESION.md` | Cómo correr una sesión y publicar cambios por PR |
+| `docs/agentes/` | Instrucciones para subagentes de investigación y de fotos |
+| `schema/` | JSON Schema de product.json y de resultados |
 
 ## Estructura
 
 ```
-products/<GTIN>/product.json     Ficha del producto (título, descripción, ficha técnica, categorías por marketplace, fuentes)
-products/<GTIN>/images/          Fotos del producto: <GTIN>_1.jpg, <GTIN>_2.jpg, ...
-config/mercadolibre.json         Valores fijos de publicación y reglas de precio de Mercado Libre
-reference/mercadolibre/          Árbol de categorías hoja publicables de Mercado Libre México
+products/<GTIN>/product.json     Ficha del producto
+products/<GTIN>/images/          Fotos <GTIN>_1.jpg, <GTIN>_2.jpg, ...
+config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance
+data/prioridad.csv               Orden de trabajo por ventas (sin montos)
+reference/mercadolibre/          Árbol de categorías MLM
+scripts/preparar_insumos.py      Genera insumos/precios_existencias.csv desde los Excel del ERP
+scripts/seleccionar_lote.py      Arma los lotes de una sesión
+scripts/pagina_imagenes.py       Lista las fotos de producto de una página web
+scripts/imagenes.py              Descarga, valida, recorta y registra fotos
+scripts/integrar_resultados.py   Integra los resultados de una sesión a product.json
+scripts/validar.py               Valida product.json y resultados contra los esquemas
+scripts/progreso.py              Escribe PROGRESO.md
 scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Libre
-scripts/imagenes.py              Descarga, valida (mínimo 500 px), recorta y guarda fotos; las registra en product.json
-scripts/pagina_imagenes.py       Lista las fotos de producto que aparecen en una página web
-scripts/progreso.py              Calcula el avance y escribe PROGRESO.md
-PROGRESO.md                      Avance de fichas y fotos por sesión
-schema/product.md                Descripción de cada campo de product.json
+scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
 ```
 
-## URL de una imagen
+## URL de una foto
 
-`https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products/<GTIN>/images/<GTIN>_1.jpg`
-
-Solo funciona mientras el repositorio es público.
+`https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products/<GTIN>/images/<GTIN>_1.jpg` (solo mientras el repositorio es público).
 
 ## Generar el layout de Mercado Libre
 
 ```
-python scripts/build_mercadolibre.py --precios precios_existencias.csv --salida layout_mercadolibre.xlsx
+python scripts/preparar_insumos.py --ventas <ventas.xlsx> --farma <catalogo_farma.xlsx> --mark <catalogo_mark.xlsx>
+python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx
 ```
-
-`precios_existencias.csv` lleva las columnas `gtin,precio,stock,linea,nombre,nota_cruce` (precio con impuestos incluidos) y se genera desde el ERP; no se versiona.
-
-## Estado de investigación
-
-`investigacion.estado` en cada producto:
-
-- `verificado`: producto confirmado en internet (por código de barras o por nombre y presentación).
-- `sin_verificar`: datos deducidos del nombre; hay que investigarlo antes de publicar.
-- `pendiente`: aún sin investigar.
