@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO MID-N SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Stefano Midnight Aerosol para Caballero 113 g",
+  "descripcion": "Descripción:\nStefano Midnight es un desodorante en aerosol para caballero, en presentación de 159 ml (113 g). Forma parte de la línea original de Stefano y ofrece una fragancia masculina para acompañar el día a día, ayudando a controlar el olor corporal.\n\nCaracterísticas:\n- Desodorante en aerosol para hombre\n- Fragancia Midnight\n- Contenido: 159 ml (113 g)\n\nModo de uso:\nRocíe sobre las axilas limpias y secas, manteniendo el envase a unos 15 cm de distancia.\n\nPresentación:\nAerosol de 159 ml (113 g).\n\nAdvertencias:\nEnvase presurizado e inflamable. Manténgase alejado del fuego y del calor; no perfore ni incinere el envase. Uso externo; evite el contacto con los ojos y no lo aplique sobre piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "variante": "Midnight",
+    "presentacion": "Aerosol",
+    "contenido_neto": 159,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Midnight",
+    "genero": "Hombre",
+    "otros": "Peso neto: 113 g; Formato: aerosol"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546073781_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546073781-1.jpeg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-midnight-113gr-aero-ocean",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1938,
+      "fecha": "2026-09-29",
+      "lado_util": 1795
+    },
+    {
+      "archivo": "7509546073781_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/planogram__1__26aa14cb-b39a-40e8-9e3b-ab2565710cd7.jpg?v=1734649422&width=2401",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-midnight-113gr-aero-ocean",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1853
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/stefano-midnight-aerosol-caballero-113-g-1-unidad/MXYZ_7509546073781.html",
+    "https://www.delsol.com.mx/desodorante-stefano-midnight-113gr-aero-ocean",
+    "https://www.surtitienda.mx/desodorante-stefano-aerosol-midn-113-g-stefano-7509546073781/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se interpretó 'MID-N' como Midnight (coincide con el empaque). No se encontró ficha del fabricante con beneficios; la descripción es breve y neutral. Fabricante inferido del prefijo del GTIN.",
+    "notas_imagenes": "2 fotos de tienda (aerosol de frente, 1938 y 2000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

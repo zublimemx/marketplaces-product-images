@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT ORAL-B GDE 60 SVE",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Oral-B Indicator Suave 60 1 Pieza",
+  "descripcion": "Descripción:\nCepillo de dientes manual Oral-B Indicator, suave con las encías gracias a sus cerdas de puntas redondeadas. Limpia los dientes y ayuda a mantener la salud bucal en la rutina diaria. Sus cerdas azules Indicator se decoloran hasta la mitad para señalar cuándo conviene reemplazar el cepillo.\n\nCaracterísticas:\n- Cerdas suaves (Suave 60) con puntas redondeadas, amables con las encías.\n- Cerdas azules Indicator que se decoloran gradualmente para avisar el momento de cambiar el cepillo.\n- Cabezal de tamaño grande y mango de diseño clásico.\n- Presentación individual, 1 cepillo en blíster.\n\nModo de uso:\nCepille dientes y encías con movimientos suaves, después de cada comida o al menos dos veces al día, cuidando de llegar a todas las superficies. Enjuague el cepillo después de usarlo y déjelo secar al aire.\n\nPresentación:\n1 cepillo dental manual Oral-B Indicator, Suave 60, en empaque blíster.\n\nAdvertencias:\nCambie el cepillo cuando las cerdas azules se hayan decolorado hasta la mitad. Es de uso personal; no lo comparta. Si las encías sangran o se irritan de forma persistente, consulte a su dentista.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Indicator",
+    "variante": "Suave 60",
+    "presentacion": "1 cepillo dental manual en blíster",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Dureza de cerdas: suave; Cerdas Indicator que se decoloran; Cepillo manual; Tamaño 60"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086494286_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501086494286.webp",
+      "pagina": "https://wecarepharma.mx/products/cepillo-dental-oral-b-grande-suave-60",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 711,
+      "fecha": "2026-09-29",
+      "lado_util": 659
+    }
+  ],
+  "url_oficial": "https://www.oralb.com.mx/es-mx/productos/cepillo-dental-oral-b-indicator",
+  "fuentes": [
+    "https://www.oralb.com.mx/es-mx/productos/cepillo-dental-oral-b-indicator",
+    "https://www.emeritafarmacias.com/producto/cepillo-d-oral-b-60-ad-nd/",
+    "https://www.mdsc.com.mx/en/shop/7501086494286-cepillo-dental-oral-b-indicator-suave-60-blister-c-1-pza-na-335240"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "'GDE 60 SVE' del sistema se interpretó como cepillo Oral-B grande 60 suave (en tiendas aparece como Clean Indicator Suave 60, 1 pieza). El sitio oficial muestra el modelo Indicator con presentaciones de 2 y 3 piezas; aquí se describe la pieza individual.",
+    "notas_imagenes": "1 foto de tienda (Emerita Farmacias), cepillo individual en blíster, 1000 px. Se borraron dos fotos chicas de tiendas con empaque antiguo y la imagen oficial de Oral-B, que mostraba un paquete de 2 piezas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "PRIKUL 75MG CAP C28",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Prikul Pregabalina 75 mg 28 Cápsulas",
+  "descripcion": "Descripción:\nPrikul es un medicamento de Asofarma cuyo principio activo es la pregabalina en cápsulas de 75 mg, de administración oral. La pregabalina es un antiepiléptico que también se utiliza en el manejo del dolor de origen neuropático y de la ansiedad.\n\nIndicaciones:\n- Dolor neuropático.\n- Coadyuvante en el tratamiento de las crisis parciales, con o sin generalización secundaria, en adultos.\n- Trastorno de ansiedad generalizada en adultos.\n\nModo de uso:\nLa dosis y la duración del tratamiento las establece el médico según cada caso. Las cápsulas se toman por vía oral, sin abrir ni masticar, salvo indicación distinta del médico.\n\nPresentación:\nCaja con 28 cápsulas de 75 mg. Vía de administración: oral.\n\nAdvertencias:\nVenta con receta médica. No suspenda el tratamiento ni modifique la dosis sin consultar a su médico. Puede causar somnolencia o mareo; tenga precaución al conducir o manejar maquinaria. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Prikul",
+    "fabricante": "Asofarma",
+    "presentacion": "Caja con 28 cápsulas",
+    "contenido_neto": 28,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Pregabalina",
+    "concentracion": "75 mg por cápsula",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: cápsulas; Antiepiléptico; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7841141003726_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7841141003726_1.jpg",
+      "pagina": "https://www.fahorro.com/prikul-75-mg-28-capsulas.html",
+      "ancho_original": 1232,
+      "alto_original": 816,
+      "lado_final": 1000,
+      "fecha": "2026-09-29",
+      "lado_util": 926
+    },
+    {
+      "archivo": "7841141003726_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7002980/7841141003726_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/prikul-75-mg-caja-c-28-capsulas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/prikul-75-mg-caja-c-28-capsulas/p",
+    "https://www.fahorro.com/prikul-75-mg-28-capsulas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se abrió el prospecto oficial; las advertencias de somnolencia y suspensión gradual son las habituales de pregabalina y deben verificarse en el instructivo.",
+    "notas_imagenes": "2 fotos de tienda (CDN de Farmacias del Ahorro y farmacia en línea), 1,000 y 974 px, caja de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

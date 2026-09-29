@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SOL CS 100ML PISA 50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Solución Cloruro de Sodio 0.9% Pisa 100 ml",
+  "descripcion": "Descripción:\nSolución CS de Laboratorios PISA, con cloruro de sodio al 0.9%, en envase de plástico de 100 ml (formato mini oval). Es una solución que contiene iones de sodio y cloruro en agua, con la misma osmolaridad que el líquido extracelular del organismo.\n\nIndicaciones:\nSirve para restaurar el equilibrio electrolítico en casos de deshidratación por pérdida de volumen, como en la gastroenteritis. Se clasifica como solución intravenosa y su uso corresponde a personal de salud o a la indicación de un médico.\n\nComposición:\nCloruro de sodio 0.9% en agua.\n\nPresentación:\nEnvase de plástico de 100 ml, formato mini oval.\n\nAdvertencias:\nProducto para administración intravenosa bajo supervisión médica. No lo utilice si el envase está dañado o la solución presenta partículas o cambio de color. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pisa",
+    "fabricante": "Laboratorios PISA",
+    "variante": "Solución CS mini oval",
+    "presentacion": "Envase de plástico",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cloruro de sodio",
+    "concentracion": "0.9%",
+    "via_administracion": "Intravenosa",
+    "otros": "Forma farmacéutica: solución inyectable; Envase mini oval de 100 ml; Uso bajo supervisión médica"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457891",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Soluciones Fisiológicas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125115479_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6998991/7501125115479_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/solucion-salina-cloruro-de-sodio-0-9-mini-oval-pisa-botella-c-100-ml/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7501125115479_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6998992/7501125115479_02.jpg",
+      "pagina": "https://www.farmatodo.com.mx/solucion-salina-cloruro-de-sodio-0-9-mini-oval-pisa-botella-c-100-ml/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/solucion-salina-cloruro-de-sodio-0-9-mini-oval-pisa-botella-c-100-ml/p",
+    "https://www.farmaciasguadalajara.com/sueros/soluciones-intravenosas/solucion-cloruro-de-sodio-0.9---100-ml.-1296191.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema termina en 50, dato que no se pudo explicar; las fichas de tienda coinciden en 100 ml al 0.9%. Se marca receta como Revisar porque es una solución intravenosa de uso médico. No se encontró registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea), 756 px: frente del envase con etiqueta y parte posterior. Se descartó un acercamiento a la escala del envase.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

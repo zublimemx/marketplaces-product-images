@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "JBN GRISI NEUTRO 150 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jabón en Barra Grisi Neutro 150 g",
+  "descripcion": "Descripción:\nJabón de tocador en barra Grisi Neutro de 150 g, pensado para la limpieza diaria del cuerpo. Su fórmula hipoalergénica, cercana al pH de la piel, limpia con suavidad y está dermatológicamente probada, por lo que es una opción práctica para el aseo diario de toda la familia. Es una de las barras clásicas de la marca Grisi, en su versión Neutro.\n\nCaracterísticas:\n- Fórmula hipoalergénica.\n- Fórmula cercana al pH de la piel.\n- Dermatológicamente probado para su uso diario.\n- Recomendado por dermatólogos.\n- Barra de 150 g, de buen tamaño para el baño o el lavabo.\n\nModo de uso:\nMoje la barra y frótela entre las manos o directamente sobre la piel húmeda hasta formar espuma. Masajee el cuerpo con suavidad, evitando el contacto con los ojos, y enjuague con abundante agua. Después de cada uso deje la barra en un jabonero con drenaje, en un lugar seco y ventilado, para que dure más tiempo.\n\nPresentación:\nUna barra de jabón de tocador de 150 g.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con agua abundante. Si observa alguna reacción desfavorable, suspenda su uso y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Grisi",
+    "fabricante": "Grisi",
+    "linea": "Neutro",
+    "variante": "Neutro",
+    "presentacion": "Barra individual de 150 g",
+    "contenido_neto": 150,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Hipoalergénico; Fórmula cercana al pH de la piel; Recomendado por dermatólogos; Uso externo; Formato de venta: 1 barra"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189051",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Jabones > En Barra",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022105207_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501022105207.png?format=jpeg&bg-color=255,255,255",
+      "pagina": "https://www.fahorro.com/jabon-grisi-neutro-150-g-barra.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1468,
+      "fecha": "2026-09-29",
+      "lado_util": 1360
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/jabon-neutro-grisi-barra-150g",
+    "https://www.fahorro.com/jabon-grisi-neutro-150-g-barra.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro), frente de la barra, 1600 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,69 @@
   "linea": "Mark",
   "nombre_sistema": "MASC FRUCTIS CAB DEBIL BANAN350ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Mascarilla Garnier Fructis Hair Food Banana 350 ml",
+  "descripcion": "Descripción:\nGarnier Fructis Hair Food Banana es una mascarilla capilar de 350 ml formulada para el cabello débil. Combina el aroma frutal del plátano con una fórmula vegana que aporta cuidado y suavidad al cabello. Es un producto multiusos: se puede utilizar como crema para peinar, como tratamiento o como acondicionador, según la rutina de cada persona.\n\nCaracterísticas:\n- Fórmula vegana.\n- 98% de ingredientes de origen natural.\n- Sin siliconas, sin parabenos y sin colorantes artificiales.\n- Fórmula biodegradable y no probada en animales (cruelty free).\n- Pensada para cabello débil.\n- Tres usos en un solo producto: crema para peinar, tratamiento y acondicionador.\n\nModo de uso:\nDespués del shampoo, aplique la cantidad necesaria de mascarilla de medios a puntas, distribuya con los dedos y deje actuar aproximadamente 1 minuto. Enjuague con abundante agua. También puede usarla como crema para peinar o como acondicionador, según su rutina de cuidado.\n\nPresentación:\nFrasco con 350 ml de mascarilla capilar.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos; si ocurre, enjuague con agua abundante. Suspenda su uso si aparece irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Garnier",
+    "fabricante": "Garnier (L'Oréal)",
+    "linea": "Fructis Hair Food",
+    "variante": "Banana",
+    "presentacion": "Frasco de 350 ml",
+    "contenido_neto": 350,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Banana (plátano)",
+    "tipo_piel_cabello": "Cabello débil",
+    "otros": "Mascarilla 3 en 1: crema para peinar, tratamiento y acondicionador; Fórmula vegana; 98% ingredientes de origen natural; Sin siliconas, parabenos ni colorantes artificiales; Cruelty free"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM171894",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tratamientos para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21732161"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7509552828078_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dwc1afdf1c/images/7509552828078/7509552828078_1.jpg",
+      "pagina": "https://www.delsol.com.mx/mascarilla-para-el-cabello-fructis-hair-fod-banana-garnier",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 842,
+      "fecha": "2026-09-29",
+      "lado_util": 780
+    },
+    {
+      "archivo": "7509552828078_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw797dea86/images/7509552828078/7509552828078_2.jpg",
+      "pagina": "https://www.delsol.com.mx/mascarilla-para-el-cabello-fructis-hair-fod-banana-garnier",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 822,
+      "fecha": "2026-09-29",
+      "lado_util": 762
+    }
+  ],
+  "url_oficial": "https://www.garnier.com.mx/fructis/hair-food/banana",
+  "fuentes": [
+    "https://www.garnier.com.mx/fructis/hair-food/banana",
+    "https://www.dax.com.mx/producto/garnier-fructis-mascarilla-hair-food-banana-350-ml-7509552828078.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El catálogo MLM21732161 coincide por nombre, pero no se pudo abrir para confirmarlo.",
+    "notas_imagenes": "2 fotos de tienda (Dax), frente del frasco con el empaque vigente, unos 1200 px. Se borró una foto con empaque anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

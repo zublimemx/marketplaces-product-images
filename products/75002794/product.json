@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "SH PALMOL OPT 2EN1 INT 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Palmolive Optims 2 en 1 Extra Intensivo 200 ml",
+  "descripcion": "Descripción:\nShampoo con acondicionador 2 en 1 Palmolive Optims, en su versión Nivel 4 Extra Intensivo con Vital Keratina. Limpia el cabello y lo acondiciona en un solo paso para ayudar a repararlo de manera intensa y dejarlo suave y con brillo. Presentación de 200 ml, práctica para el uso diario.\n\nBeneficios:\n- Fórmula 2 en 1: limpia y acondiciona en un solo paso.\n- Nivel 4 Extra Intensivo, pensado para reparar el cabello de manera intensa.\n- Con Vital Keratina.\n- Deja el cabello suave y con brillo.\n- Ahorra tiempo en la rutina de cuidado capilar.\n\nModo de uso:\nAplique sobre el cabello mojado, masajee suavemente el cuero cabelludo y a lo largo del cabello hasta formar espuma, y enjuague con abundante agua. Repita si es necesario.\n\nPresentación:\nFrasco con 200 ml de shampoo con acondicionador.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Optims",
+    "variante": "2 en 1 Extra Intensivo Nivel 4",
+    "presentacion": "Shampoo con acondicionador",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Con Vital Keratina; Nivel 4 Extra Intensivo; Fórmula 2 en 1"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "75002794_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75002794_1_2.jpg",
+      "pagina": "https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-200-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-200-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 8 dígitos (EAN-8) confirmado en tiendas; el modo de uso y las advertencias son generales de shampoo, no se pudo abrir la ficha oficial de la marca.",
+    "notas_imagenes": "1 foto(s): 75002794_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

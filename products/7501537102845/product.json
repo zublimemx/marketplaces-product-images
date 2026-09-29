@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "NEDICLON 100MG C 20 TABS DICLOFENACO BRULUART",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Nediclon Diclofenaco 100 mg 20 Tabletas Lib. Prolongada",
+  "descripcion": "Descripción:\nNediclon es un medicamento en tabletas de liberación prolongada cuyo principio activo es el diclofenaco sódico en concentración de 100 mg. Pertenece al grupo de los antiinflamatorios no esteroideos (AINE) y es elaborado por Laboratorios Bruluart. La caja contiene 20 tabletas para administración oral. Según la información del medicamento, se emplea en procesos inflamatorios y dolorosos osteoarticulares, como artritis reumatoide, osteoartritis y espondilitis anquilosante, así como en cuadros de dolor agudo, entre ellos el dolor posoperatorio, el cólico renal y el dolor menstrual.\n\nComposición:\nCada tableta de liberación prolongada contiene 100 mg de diclofenaco sódico.\n\nModo de uso:\nVía oral. Trague la tableta entera, sin masticarla ni partirla, con un poco de agua. La dosis y la duración del tratamiento las determina su médico.\n\nPresentación:\nCaja con 20 tabletas de liberación prolongada de 100 mg.\n\nAdvertencias:\nNo debe usarse en personas con hipersensibilidad al diclofenaco, úlcera péptica activa, sangrado gastrointestinal, insuficiencia hepática o renal grave, ni durante el tercer trimestre del embarazo. Use con precaución si tiene enfermedad cardiovascular, hipertensión, asma o problemas gastrointestinales. En tratamientos prolongados se recomienda vigilar la función renal y hepática. Evite tomarlo junto con otros antiinflamatorios o anticoagulantes sin supervisión médica. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nediclon",
+    "fabricante": "Laboratorios Bruluart",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Diclofenaco sódico",
+    "concentracion": "100 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Antiinflamatorio no esteroideo; Liberación prolongada; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501537102845_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://club.presalud.com/web/image/product.product/26736/image_1920?unique=45f8247",
+      "pagina": "https://club.presalud.com/shop/7501537102845-nediclon-diclofenaco-liberacion-prolongada-100-mg-20-tabletas-generico-bruluart-26736",
+      "ancho_original": 1500,
+      "alto_original": 1000,
+      "lado_final": 1000,
+      "fecha": "2026-09-29",
+      "lado_util": 926
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/nediclon-diclofenaco-tabletas-lp-100mg-con-20",
+    "https://club.presalud.com/shop/7501537102845-nediclon-diclofenaco-liberacion-prolongada-100-mg-20-tabletas-generico-bruluart-26736"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos tiendas. La condición de venta con receta se tomó de una ficha de farmacia y del tipo de producto (diclofenaco de liberación prolongada de 100 mg). El modo de uso de tragar la tableta entera es el habitual de las tabletas de liberación prolongada.",
+    "notas_imagenes": "1 foto de tienda (Presalud) recortada a cuadrado, 1000 px: caja de Nediclon 100 mg con 20 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -5,16 +5,16 @@
   "nombre_sistema": "CINTAPORE PIEL 2 5CM 9 2METROS C12",
   "nombres_sistema_alternos": [],
   "titulo": "Cinta Micropore Cintapore Piel 2.5 cm x 9.2 m 12 Rollos",
-  "descripcion": "Descripción:\nCinta adhesiva microporosa color piel de la marca Cintapore, en rollos de 2.5 cm (1 pulgada) de ancho por 9.2 metros de largo. Se vende en caja con 12 rollos. Es una cinta de uso médico y de botiquín, que se emplea para fijar gasas, apósitos y vendajes sobre la piel.\n\nCaracterísticas:\n- Cinta microporosa en color piel, discreta sobre la piel.\n- Ancho de 2.5 cm (1 pulgada) y largo de 9.2 m por rollo.\n- Caja con 12 rollos, práctica para consultorios, botiquines y uso en casa.\n- Se corta con la mano, sin necesidad de tijeras.\n\nModo de uso:\nLimpie y seque la piel antes de colocar la cinta. Corte el largo necesario y pegue sobre el apósito o la gasa que desea fijar, evitando estirar la cinta al aplicarla. Retírela con suavidad.\n\nPresentación:\nCaja con 12 rollos de 2.5 cm x 9.2 m.\n\nAdvertencias:\nUso externo. No la aplique sobre heridas abiertas ni sobre piel irritada o dañada. Suspenda su uso si aparece enrojecimiento, comezón o irritación. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nCinta adhesiva microporosa color piel de la marca Cintapore, en caja con 12 rollos de 2.5 cm (1 pulgada) de ancho por 9.2 m de largo cada uno. Se utiliza para fijar apósitos, gasas y vendajes sobre la piel, y su color piel la hace discreta al aplicarla. Es un producto de curación práctico para consultorios, botiquines y uso en el hogar.\n\nCaracterísticas:\n- Cinta microporosa que permite la transpiración de la piel.\n- Color piel, discreta al aplicarla.\n- Ancho de 2.5 cm (1 pulgada) y largo de 9.2 m por rollo.\n- Caja con 12 rollos.\n\nModo de uso:\nLimpie y seque la piel antes de aplicar la cinta. Corte el largo necesario, colóquelo sobre el apósito o la gasa y presione suavemente para fijarlo. Para retirarla, hágalo despacio y en paralelo a la piel para evitar molestias.\n\nPresentación:\nCaja con 12 rollos de 2.5 cm x 9.2 m.\n\nAdvertencias:\n- Uso externo. No la aplique sobre heridas abiertas ni sobre piel dañada o irritada.\n- Suspenda su uso si aparece enrojecimiento, comezón o irritación en la piel.\n- Manténgala fuera del alcance de los niños.",
   "ficha": {
     "marca": "Cintapore",
-    "linea": "Cinta microporosa",
+    "linea": "Micropore",
     "variante": "Color piel",
     "presentacion": "Caja con 12 rollos",
-    "contenido_neto": 9.2,
-    "unidad_contenido": "m",
+    "contenido_neto": 12,
+    "unidad_contenido": "rollos",
     "unidades_por_envase": 12,
-    "otros": "Ancho: 2.5 cm (1 pulgada); Largo por rollo: 9.2 m; Color: piel; Formato de venta: caja con 12 rollos"
+    "otros": "Ancho: 2.5 cm (1 pulgada); Largo por rollo: 9.2 m; Color: Piel; Formato de venta: Caja con 12 rollos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,15 +31,15 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://www.amazon.com.mx/cinta-micropore-pulgada-piezas-cintapore/dp/B089X8FMBJ"
+    "https://farmaciasanjorge.com/products/28106"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo abrir ninguna ficha de Cintapore: las únicas coincidencias eran de Mercado Libre y Amazon (bloqueadas). La identificación se basa en el nombre del sistema y en un título de listado que coincide (Cintapore color piel, 1 pulgada, caja con 12). El GTIN no se confirmó. La descripción es genérica de cinta microporosa; no hay datos del fabricante. La categoría es la más cercana disponible (Vendas), no existe una categoría específica de cinta médica en la lista.",
-    "notas_imagenes": "Sin fotos: la marca no aparece en fichas de farmacias accesibles y la única foto de ficha de otra marca (3M Micropore) no corresponde al producto.",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se encontró ninguna ficha de Cintapore con el GTIN; los resultados fueron cintas micropore de 3M y listados de Mercado Libre y Amazon (bloqueados). La identificación y las medidas salen del nombre del sistema; la descripción es genérica de cinta microporosa color piel, tomada de un listado de Micropore de otra marca. Verificar con el empaque.",
+    "notas_imagenes": "Sin fotos: las únicas imágenes accesibles son de Micropore de 3M, que no es la marca del producto; Amazon y Mercado Libre bloquean el acceso.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

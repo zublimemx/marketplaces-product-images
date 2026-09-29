@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "ULSEN 20MG CAPS C 14 1 1 OMEPRAZOL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ulsen Omeprazol 20 mg 28 Cápsulas Duo Pack",
+  "descripcion": "Descripción:\nUlsen contiene omeprazol, un inhibidor de la bomba de protones que reduce la producción de ácido en el estómago. Esta presentación Duo Pack incluye dos cajas de 14 cápsulas de 20 mg cada una (1+1), para un total de 28 cápsulas.\nEstá indicado en el tratamiento de la úlcera péptica gástrica y duodenal, la esofagitis por reflujo y la gastritis; en la curación y prevención de la gastritis medicamentosa asociada al uso de antiinflamatorios no esteroideos (AINE); en la erradicación de Helicobacter pylori como parte del esquema que indique el médico; y en el síndrome de Zollinger-Ellison y otros estados de hipersecreción de ácido en los que se requiera un bloqueador de la bomba de protones.\n\nComposición:\nCada cápsula contiene omeprazol 20 mg. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. La dosis habitual en adultos es de 20 mg al día, por la mañana. El tratamiento se continúa hasta la cicatrización, que ocurre aproximadamente en 2 a 4 semanas en las úlceras duodenales y en 4 a 8 semanas en las úlceras gástricas y en la esofagitis por reflujo. La dosis y la duración las determina el médico.\n\nPresentación:\nDuo Pack con 28 cápsulas de 20 mg (dos cajas con 14 cápsulas).\n\nAdvertencias:\nNo lo use si es alérgico al omeprazol o a los componentes de la fórmula. No se administre junto con clopidogrel, porque la combinación reduce el efecto antiagregante de este último. El omeprazol puede modificar el efecto de medicamentos como diazepam, warfarina y fenitoína, y disminuye la absorción de ketoconazol e itraconazol. Durante la lactancia su uso queda a criterio del médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ulsen",
+    "fabricante": "Laboratorios Senosiain",
+    "linea": "Ulsen",
+    "variante": "Duo Pack 1+1",
+    "presentacion": "Duo Pack con 28 cápsulas (2 cajas de 14)",
+    "contenido_neto": 28,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Omeprazol",
+    "concentracion": "20 mg por cápsula",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "039M91 SSA VI",
+    "otros": "Forma farmacéutica: cápsula; Inhibidor de la bomba de protones"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704880_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501314704880_19e9ab47-2d8c-4ca7-8f98-d88bb22453f9.jpg?v=1701390105&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/9235",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 703,
+      "fecha": "2026-09-29",
+      "lado_util": 651
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/ulsen-capsulas/168/59/10248/14",
+    "https://wecarepharma.mx/en/products/ulsen-20mg-con-28-duo-pack-capsulas-omeprazol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las cápsulas de Ulsen tienen registro SSA VI (venta sin receta en farmacia), pero la ficha del laboratorio incluye la leyenda 'Su venta requiere receta médica' y algunas tiendas lo venden con receta; se marcó 'Revisar'. Presentación 1+1 = 28 cápsulas (el nombre del sistema dice 'C 14 1+1').",
+    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge), frente de la caja, 1000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

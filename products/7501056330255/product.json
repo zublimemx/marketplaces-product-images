@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA CLARANT B3 NML/SCA 50 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 Piel Normal a Seca 50 g",
+  "descripcion": "Descripción:\nCrema aclaradora facial Pond's Clarant B3 para piel normal a seca, en tarro de 50 g. Su fórmula, creada por el Pond's Institute, aclara y humecta gradualmente la piel y no deja sensación grasosa.\n\nBeneficios:\n- Aclara y humecta gradualmente la piel durante 20 horas.\n- Ayuda a lograr un tono uniforme y sin manchas.\n- Textura que no deja sensación grasosa.\n- Formulada para piel normal a seca (el empaque más reciente la indica para piel balanceada a seca).\n\nCaracterísticas:\n- Crema facial aclaradora y antimanchas de la línea Clarant B3.\n- Tarro de 50 g de crema, fácil de llevar y de usar.\n- Marca Pond's, formulada por el Pond's Institute.\n\nPresentación:\nTarro de 50 g de crema facial.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos; si ocurre, enjuague con agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Crema aclaradora",
+    "presentacion": "Tarro",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel normal a seca",
+    "otros": "Crema facial aclaradora y antimanchas; Hidratación durante 20 horas; Textura no grasosa; Formulado por el Pond's Institute"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330255_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6997157/7501056330255_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/ponds-crema-clarant-b3-balanceada-a-seca-50-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    },
+    {
+      "archivo": "7501056330255_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501056330255_1_1.jpg",
+      "pagina": "https://www.fahorro.com/crema-clarant-b3-50-g-tarro.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1639,
+      "fecha": "2026-09-29",
+      "lado_util": 1518
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/crema-clarant-b3-50-g-tarro.html",
+    "https://www.farmatodo.com.mx/ponds-crema-clarant-b3-balanceada-a-seca-50-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El empaque cambió de piel normal a seca a piel balanceada a seca bajo el mismo GTIN. No se encontraron ingredientes ni modo de uso; el fabricante Unilever se tomó del campo de marca de una tienda.",
+    "notas_imagenes": "2 fotos de tienda (farmacia en línea y CDN de Farmacias del Ahorro), 972 y 1,639 px: empaque anterior (normal a seca) y empaque nuevo (balanceada a seca).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

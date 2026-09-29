@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "JBN LIQ GRISI NEUTRO 450ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jabón Líquido Corporal Grisi Neutro Hipoalergénico 450 ml",
+  "descripcion": "Descripción:\nJabón líquido corporal Grisi Neutro, con fórmula hipoalergénica y pH cercano al de la piel, ideal para la piel sensible. Es un gel de baño de uso diario que limpia suavemente sin resecar y deja la piel suave y humectada. Presentación de 450 ml.\n\nBeneficios:\n- Fórmula hipoalergénica con pH cercano al de la piel, ideal para piel sensible.\n- Brinda suavidad y humectación al instante.\n- Espuma rica y cremosa que limpia suavemente sin resecar.\n- Formulado con ingredientes de origen natural.\n- Apto para el uso diario en todo el cuerpo.\n\nModo de uso:\nAplique una pequeña cantidad sobre la piel húmeda o una esponja, masajee hasta formar espuma y enjuague con abundante agua.\n\nPresentación:\nFrasco con 450 ml de jabón líquido corporal.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Grisi",
+    "linea": "Neutro",
+    "variante": "Neutro hipoalergénico",
+    "presentacion": "Jabón líquido corporal",
+    "contenido_neto": 450,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel sensible",
+    "otros": "Hipoalergénico; Shower gel; pH cercano al de la piel"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189050",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Jabones > Líquido",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "037836050282_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/3/037836050282.png?format=jpeg",
+      "pagina": "https://www.fahorro.com/jbn-grisi-neutro-shower-gel-liquido-450-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1632,
+      "fecha": "2026-09-29",
+      "lado_util": 1512
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/jabon-liquido-corporal-grisi-neutro-hipoalergenico-450-ml/00003783605028",
+    "https://www.fahorro.com/jbn-grisi-neutro-shower-gel-liquido-450-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos (con 0 inicial). Modo de uso y advertencias generales de jabón líquido; no aparecen en las fuentes.",
+    "notas_imagenes": "1 foto(s): 037836050282_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

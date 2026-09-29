@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS REJUVE ARRUG 400 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Rejuveness Antiarrugas 400 g",
+  "descripcion": "Descripción:\nCrema facial antiarrugas Pond's Rejuveness de día, en frasco de 400 g. Su fórmula con colágeno+ y vitamina E activa la firmeza de la piel y ayuda a reducir la aparición de arrugas. Fomenta el proceso de renovación celular al eliminar con delicadeza las células superficiales y actúa en profundidad para fortalecer la estructura de soporte de la piel, lo que suaviza las líneas de expresión.\n\nBeneficios:\n- Activa la firmeza de la piel.\n- Ayuda a reducir la aparición de arrugas y a suavizar las líneas de expresión.\n- Con colágeno+ y vitamina E; la vitamina E ayuda a calmar la piel y a mejorar la uniformidad del tono.\n- Textura en crema para rostro y cuello.\n\nIngredientes:\nEntre los principales: agua, ácido láctico, glicerina, alcohol cetílico, acetato de tocoferol (vitamina E), colágeno hidrolizado, filtro solar (ethylhexyl methoxycinnamate), aceite de onagra y dimeticona, entre otros. Consulte la lista completa en el empaque.\n\nModo de uso:\nAplique en cara y cuello, después de limpiarlos, en la mañana. Antes de usarla por primera vez, haga una prueba en la zona del cuello cercana al rostro o en el dorso de la mano.\n\nPresentación:\nFrasco de 400 g.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece irritación y consulte a su médico si persiste.\n- Manténgala fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Pond's",
+    "linea": "Rejuveness",
+    "variante": "Antiarrugas de día",
+    "presentacion": "Frasco de crema facial",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Con colágeno+ y vitamina E; Uso: cara y cuello, por la mañana; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056330569_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/wp-content/uploads/2021/07/7501056330569.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-facial-ponds-rejuveness-400-gr",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 669,
+      "fecha": "2026-09-29",
+      "lado_util": 620
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/crema-antiarrugas-rejuveness-de-dia.html/07501056330569",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/crema-antiarrugas-rejuveness-de-dia.html/07501056330569",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/crema-facial-ponds-rejuveness-400-gr"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página oficial de Pond's México tiene el GTIN en su dirección (Crema Antiarrugas Rejuveness de Día, tamaños de 100, 200 y 400 g); la ficha de 400 g y la foto son de una tienda. Otras tiendas sugieren uso en la mañana y en la noche, pero la página oficial dice solo por la mañana.",
+    "notas_imagenes": "1 foto de tienda con el frente del frasco de 400 g (800 px originales); la página oficial bloquea la descarga automática.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

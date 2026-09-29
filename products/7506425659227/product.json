@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM HONEYKEEPER MIEL C/72PZASN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Bebé The Honeykeeper Miel 72 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé The Honeykeeper con suave aroma a miel, en paquete de 72 piezas con tapa. Están hechas con tela biodegradable y una fórmula hipoalergénica y dermatológicamente probada, pensada para la piel delicada y sensible del bebé.\n\nBeneficios:\n- Hipoalergénicas y dermatológicamente probadas\n- Tela resistente y biodegradable\n- Formuladas con ingredientes de origen natural\n- Libres de parabenos y de alcohol\n- Libres de crueldad animal\n- Suave aroma a miel\n- Paquete con tapa que ayuda a conservar la humedad de las toallitas\n\nComposición:\nContienen ingredientes de origen natural como aloe vera (sábila) y glicerina, con extracto de manzanilla. Sin parabenos ni alcohol.\n\nModo de uso:\nAbra la tapa, extraiga una toallita y límpie suavemente la zona deseada en cada cambio de pañal o cuando sea necesario. Deseche la toallita en el bote de basura; no la tire al inodoro. Cierre bien la tapa después de cada uso.\n\nPresentación:\nPaquete con 72 toallitas húmedas. Marca The Honeykeeper, aroma miel.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños y no deje al bebé sin supervisión durante el cambio de pañal.",
+  "ficha": {
+    "marca": "The Honeykeeper",
+    "fabricante": "Kimberly-Clark",
+    "linea": "The Honeykeeper",
+    "variante": "Miel",
+    "presentacion": "Paquete con 72 toallitas con tapa",
+    "contenido_neto": 72,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel sensible",
+    "sabor_aroma": "Miel",
+    "otros": "Hipoalergénicas y dermatológicamente probadas; Tela biodegradable; Sin parabenos ni alcohol; Libres de crueldad animal; Ingredientes de origen natural: aloe vera, glicerina y manzanilla"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425659227_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750642565922L.jpg",
+      "pagina": "https://www.walmart.com.mx/ip/toallitas-humedas-honey-keeper-72-piezas/00750642565922",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1003,
+      "fecha": "2026-09-29",
+      "lado_util": 929
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/toallitas-humedas-honey-keeper-72-piezas/00750642565922",
+    "https://www.klyns.mx/toallitas-humedas-honeykeeper-72-piezas/p",
+    "https://www.chedraui.com.mx/toallitas-humedas-the-honey-keeper-miel-72-piezas-3849545/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Identificado por el código de la tienda (coincide con el GTIN) y por la foto del empaque con la leyenda 72. El fabricante Kimberly-Clark viene de una sola tienda. El modo de uso y las advertencias son genéricos de toallitas húmedas.",
+    "notas_imagenes": "1 foto de frente al paquete (1003 px) de la ficha de Walmart. Se descartaron 3 gráficos informativos de la marca (íconos de beneficios) por no ser fotos del producto.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

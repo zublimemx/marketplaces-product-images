@@ -4,14 +4,21 @@
   "linea": "Mark",
   "nombre_sistema": "PADS SUALGODON FACIAL REDON C/100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pads Sualgodón Faciales Redondos de Algodón 100 Piezas",
+  "descripcion": "Descripción:\nPads faciales redondos Sualgodón, elaborados con algodón 100%, en bolsa con 100 piezas. Su formato redondo se adapta a las curvas del rostro y son ideales para la limpieza diaria y para aplicar productos de cuidado facial.\n\nCaracterísticas:\n- Algodón 100%.\n- Formato redondo, suaves y absorbentes.\n- Bolsa con 100 piezas.\n- Útiles para retirar el maquillaje y las impurezas del rostro.\n- Sirven para aplicar tónicos, lociones y desmaquillantes.\n\nModo de uso:\nHumedezca el pad con su producto favorito y aplíquelo suavemente sobre el rostro con movimientos circulares. Use un pad nuevo en cada aplicación para evitar transferir impurezas.\n\nPresentación:\nBolsa con 100 pads redondos de algodón.\n\nAdvertencias:\nUso externo exclusivamente. Suspenda su empleo en caso de irritación. Manténgase en un lugar fresco y seco, fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Sualgodón",
+    "presentacion": "Bolsa de pads redondos",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "otros": "Material: algodón 100%; Formato: redondo facial; Uso: limpieza facial y desmaquillado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM419423",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Algodones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +26,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501048623068_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501048623068.png?v=1706130255&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/38472",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 397
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/38472",
+    "https://prixz.com/c/jaloma-pads-desmaquillantes-sualgodon-con-100-piezas/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmacias San Jorge y Prixz. Las tiendas atribuyen la marca a Jaloma o a De Gasa; se dejó solo la marca Sualgodón que aparece en el empaque. La foto es de 500 px (la de mayor tamaño disponible).",
+    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge), 500 px: bolsa frontal de Sualgodón pads faciales redondos con 100 piezas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

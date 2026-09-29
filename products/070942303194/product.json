@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "HILO DENT GUM C/CERAS MTA 129P",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hilo Dental GUM Encerado Sabor Menta 129 m",
+  "descripcion": "Descripción:\nHilo dental GUM encerado con sabor a menta, en presentación económica de 129 metros (141 yardas). Ayuda a eliminar la placa y los restos de comida de entre los dientes y por debajo de la línea de las encías, zonas a las que el cepillo dental no puede llegar. Su recubrimiento de cera natural mejora el agarre y hace que el hilo se deslice con facilidad entre los dientes.\n\nBeneficios:\n- Sabor a menta refrescante.\n- Recubrimiento de cera natural para un mejor agarre y deslizamiento.\n- Eficaz para eliminar placa y restos de comida.\n- Su uso diario complementa el cepillado y ayuda a prevenir caries y problemas de las encías.\n- Gran cantidad de hilo en un dispensador práctico, para un uso prolongado.\n\nModo de uso:\nUse el hilo todos los días como complemento del cepillado. Deslícelo suavemente entre los dientes y por debajo de la línea de la encía, sin forzarlo, y utilice un tramo limpio para cada espacio.\n\nPresentación:\nDispensador con 129 m (141 yardas) de hilo dental encerado sabor menta.",
+  "ficha": {
+    "marca": "GUM",
+    "fabricante": "Sunstar",
+    "linea": "Dental Floss",
+    "variante": "Encerado",
+    "presentacion": "Hilo dental",
+    "contenido_neto": 129,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Material: hilo encerado con cera natural; Longitud: 129 m (141 yardas)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM180913",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Hilos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "070942303194_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.sunstargum.com/adobe/dynamicmedia/deliver/dm-aid--61a340d7-36fd-4f62-b9de-cddb566c7eda/1916lt-product-packaging-floss-finewaxed-mint-front-129m.jpg?quality=85&preferwebp=true&width=1600",
+      "pagina": "https://www.sunstargum.com/mx-es/productos/hilos-dentales/gum-fino-hilo-dental-menta.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1574,
+      "fecha": "2026-09-29",
+      "lado_util": 1458
+    }
+  ],
+  "url_oficial": "https://www.sunstargum.com/mx-es/productos/hilos-dentales/gum-fino-hilo-dental-menta.html",
+  "fuentes": [
+    "https://www.sunstargum.com/mx-es/productos/hilos-dentales/gum-fino-hilo-dental-menta.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto(s): 070942303194_1.jpg (del fabricante, sunstargum.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

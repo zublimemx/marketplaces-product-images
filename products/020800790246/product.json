@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "METAMUCIL PVO 504G NATURAL AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Metamucil Fibra en Polvo Sabor Natural 504 g 72 Dosis",
+  "descripcion": "Descripción:\nMetamucil Natural en polvo es una fibra de origen natural elaborada con cáscara de semilla de Plantago psyllium. Se disuelve en agua o jugo y es un auxiliar en el tratamiento del estreñimiento, sin estimulantes químicos. Este bote de 504 g rinde 72 dosis y tiene sabor natural.\n\nBeneficios:\n- Auxiliar en el tratamiento del estreñimiento y para regularizar el tránsito intestinal.\n- Auxiliar para disminuir los niveles de colesterol, acompañado de ejercicio regular y una dieta baja en grasas saturadas y colesterol.\n- Fibra de origen natural.\n\nIngredientes:\nSemilla (cáscara) de Plantago psyllium.\n\nModo de uso:\nMayores de 12 años: 1 cucharada (5.8 g) disuelta en un vaso de agua o jugo natural, hasta tres veces al día. Niños de 6 a 12 años: media dosis de adulto (2.9 g) en 240 ml de agua o jugo natural, hasta 3 veces al día. Si es la primera vez que lo toma, inicie con 1 dosis diaria y aumente de forma gradual hasta 3 dosis diarias si lo requiere.\n\nPresentación:\nBote con 504 g de polvo, 72 dosis, sabor natural.\n\nAdvertencias:\nNo lo use si es alérgico o hipersensible a algún componente de la fórmula. Durante el embarazo o la lactancia úselo solo bajo vigilancia médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Metamucil",
+    "fabricante": "Procter & Gamble",
+    "linea": "Metamucil",
+    "variante": "Natural",
+    "presentacion": "Bote con 504 g",
+    "contenido_neto": 504,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Plantago psyllium (cáscara de semilla)",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Natural",
+    "otros": "Dosis por envase: 72; Formato: polvo para disolver"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM26029094"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "020800790246_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/61xNVhntAEL._AC_SL1200_.jpg",
+      "pagina": "https://www.amazon.com.mx/Metamucil-Polvo-Natural-504-Gr/dp/B074SZZR1S",
+      "ancho_original": 752,
+      "alto_original": 1012,
+      "lado_final": 1088,
+      "fecha": "2026-09-29",
+      "lado_util": 1008
+    },
+    {
+      "archivo": "020800790246_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/41CkyUYqGkL.jpg",
+      "pagina": "https://www.amazon.com.mx/Metamucil-Polvo-Natural-504-Gr/dp/B074SZZR1S",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 419
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Metamucil-Polvo-Natural-504-Gr/dp/B074SZZR1S",
+    "https://sucreenlinea.com/0161600-metamucil-natural-504-grs.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se ignoró la caducidad del nombre del sistema (agosto 27). Las fuentes dan la dosis de 5.8 g por cucharada; otra presentación instantánea con azúcar indica 12 g, no aplicada aquí.",
+    "notas_imagenes": "2 fotos de tienda (Amazon): bote de 504 g, 72 dosis, sabor natural, con cuchara medidora. Se descartaron fotos publicitarias y una del bote de 210 g.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

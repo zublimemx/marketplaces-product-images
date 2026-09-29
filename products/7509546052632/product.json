@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT COLGATE TA+C D T ACC 75ML OCT26",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Colgate Triple Acción con Crema Dental 75 ml",
+  "descripcion": "Descripción:\nPaquete Colgate Triple Acción que reúne un cepillo dental y una crema dental de 75 ml. El cepillo permite una limpieza profunda de dientes, mejillas y lengua desde la primera cepillada; remueve la placa bacteriana, lo que ayuda a refrescar el aliento, y sus cerdas suaves y su diseño adaptable a los dientes ayudan a retirar el sarro y las partículas de alimento. La crema dental Triple Acción ayuda a conseguir dientes más blancos, protección anticaries y aliento fresco.\n\nBeneficios:\n- Limpieza profunda de dientes, mejillas y lengua.\n- Combate gérmenes y bacterias y elimina restos de alimento.\n- Triple protección al cepillarte: protección anticaries, dientes más blancos y aliento fresco.\n- Cerdas suaves con diseño que se adapta a los dientes.\n\nModo de uso:\nCepille los dientes durante al menos 2 minutos. Cambie el cepillo cada 3 meses.\n\nPresentación:\nCepillo dental más crema dental Triple Acción de 75 ml.\n\nAdvertencias:\nUso externo. No trague la crema dental. Manténgase fuera del alcance de los niños. Deje de usar y consulte a un dentista si aparece irritación.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Triple Acción",
+    "variante": "Cepillo dental con crema dental",
+    "presentacion": "Cepillo dental más crema dental de 75 ml",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Incluye cepillo dental y crema dental Triple Acción; Beneficios de la crema: protección anticaries, dientes más blancos y aliento fresco"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Colgate-Cepillo-Dental-75-ml/dp/B06XPHPZWP"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN no se confirmó en ninguna ficha; se identificó por el nombre (cepillo Colgate Triple Acción con crema dental de 75 ml). La ficha de Amazon habla de un paquete de 2 piezas, presentación que puede diferir. Se ignoró la caducidad del nombre del sistema (oct 26).",
+    "notas_imagenes": "Sin fotos válidas: la foto del paquete (Amazon B06XPHPZWP) trae la leyenda promocional 'crema dental gratis' y las demás muestran solo la caja de crema dental o gráficos con texto. Si se acepta la leyenda, esa foto de Amazon es la única del paquete completo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

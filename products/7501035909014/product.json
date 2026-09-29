@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO SPAZIO STICK 60G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante en Barra Stefano Spazio para Hombre 60 g",
+  "descripcion": "Descripción:\nDesodorante en barra Stefano Spazio para hombre, en presentación de 60 g. Cuenta con una fórmula especial que previene los malos olores provocados por el sudor al hacer ejercicio o durante las actividades del día a día, y mantiene la piel fresca y cuidada.\n\nBeneficios:\n- Protección efectiva contra el mal olor.\n- Fragancia fougère acuosa verde, elaborada a base de menta y limón, con una mezcla de madera de roble y cedro y aromas naturales de sándalo.\n- Presentación en barra de 60 g, práctica para llevar a todas partes.\n- Base de agarre perfecto en los laterales para una aplicación cómoda.\n- Práctico mecanismo giratorio para dosificar la cantidad necesaria.\n\nPresentación:\nBarra de 60 g.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. No lo aplique sobre piel irritada o lastimada. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Stefano",
+    "linea": "Spazio",
+    "variante": "Original",
+    "presentacion": "Barra",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fougère acuosa verde con menta, limón, roble, cedro y sándalo",
+    "genero": "Hombre",
+    "otros": "Formato: desodorante en barra (stick); Mecanismo giratorio; Base con agarre lateral"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035909014_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7501035909014-1.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-spazio-barra-60gr",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1080,
+      "fecha": "2026-09-29",
+      "lado_util": 1000
+    },
+    {
+      "archivo": "7501035909014_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501035909014-2.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-spazio-barra-60gr",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1954,
+      "fecha": "2026-09-29",
+      "lado_util": 1810
+    },
+    {
+      "archivo": "7501035909014_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501035909014-3.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-stefano-spazio-barra-60gr",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1944,
+      "fecha": "2026-09-29",
+      "lado_util": 1800
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/desodorante-en-barra-stefano-spazio-60g-3086660/p",
+    "https://www.walmart.com.mx/ip/desodorante-hombre-stefano-spazio-antitranspirante-en-barra-60-g/00750103590901"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lo llama antitranspirante, pero la etiqueta del frasco dice desodorante en barra para hombre; se respetó la etiqueta. No se encontró lista de ingredientes.",
+    "notas_imagenes": "3 fotos de tienda departamental (frente y dos ángulos), de 1,080 a 1,954 px. Se descartó una copia de frente con banda de texto.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

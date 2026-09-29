@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SENSIBIT XP 30 MG C20 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sensibit XP Loratadina Ambroxol 5 mg/30 mg 20 Tabletas",
+  "descripcion": "Descripción:\nSensibit XP es un medicamento de Laboratorios Liomont que combina loratadina, un antihistamínico, con ambroxol, un mucolítico. Según su empaque, alivia el resfriado y la tos con flemas: la loratadina bloquea los receptores H1 de la histamina y ayuda con estornudos y comezón, mientras que el ambroxol fluidifica las secreciones bronquiales y facilita su expulsión. Presentación de 20 tabletas.\n\nComposición:\nCada tableta contiene 5 mg de loratadina y 30 mg de ambroxol.\n\nModo de uso:\nVía oral. La dosis y la frecuencia deben ser las indicadas por su médico o en el instructivo del empaque; no exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas de 5 mg/30 mg.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a alguno de los componentes, úlcera péptica activa o insuficiencia hepática grave. No se recomienda durante el embarazo ni la lactancia sin indicación médica. Precaución en enfermedades del hígado o del riñón y con otros medicamentos. Conservar a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sensibit",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "XP",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Loratadina y ambroxol",
+    "concentracion": "5 mg/30 mg",
+    "via_administracion": "Oral",
+    "otros": "Antihistamínico y mucolítico; Caja con 20 tabletas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299308073_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299308073_4.jpg",
+      "pagina": "https://www.fahorro.com/sensibit-xp-30-mg-oral-20-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1623,
+      "fecha": "2026-09-29",
+      "lado_util": 1503
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/sensibit-xp-5mg-30mg-con-20-tabletas-loratadina-ambroxol",
+    "https://www.fahorro.com/sensibit-xp-30-mg-oral-20-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La condición de venta (con o sin receta) de la combinación loratadina/ambroxol no se confirmó en las fuentes; revisar la leyenda del empaque. Dosis no aparece en las fuentes.",
+    "notas_imagenes": "1 foto(s): 7501299308073_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

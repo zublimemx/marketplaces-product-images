@@ -4,29 +4,83 @@
   "linea": "Farma",
   "nombre_sistema": "AMOXICLAV 250MG SUSP SEPTIEMBRE 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Amoxiclav 250 mg/62.5 mg por 5 ml Suspensión 75 ml",
+  "descripcion": "Descripción:\nAmoxiclav es un antibiótico en polvo para preparar suspensión oral que combina amoxicilina, una penicilina semisintética de amplio espectro, con ácido clavulánico, un inhibidor de las betalactamasas. El ácido clavulánico protege a la amoxicilina de las enzimas que producen algunas bacterias, por lo que el medicamento es activo contra gérmenes resistentes a la amoxicilina sola.\nEstá indicado, en adultos y niños, en infecciones bacterianas causadas por cepas productoras de betalactamasas, como sinusitis bacteriana aguda, otitis media aguda, amigdalitis, exacerbaciones agudas de bronquitis crónica, neumonía adquirida en la comunidad, cistitis, pielonefritis e infecciones de piel y tejidos blandos.\n\nComposición:\nCada 5 ml de suspensión reconstituida contienen amoxicilina 250 mg y ácido clavulánico 62.5 mg. Polvo para suspensión oral.\n\nModo de uso:\nVía oral. Prepare la suspensión con agua siguiendo el instructivo del empaque y agite bien antes de cada toma. La dosis, la frecuencia y la duración del tratamiento las indica el médico según el peso y la edad del paciente; complete siempre el tratamiento indicado.\n\nPresentación:\nCaja con frasco de polvo para preparar 75 ml de suspensión oral (250 mg/62.5 mg por cada 5 ml).\n\nAdvertencias:\nAntibiótico de venta con receta médica. No lo use si es alérgico a las penicilinas, a las cefalosporinas o a alguno de los componentes de la fórmula. No lo use para tratar infecciones virales como gripe o resfriado. Su empleo durante el embarazo y la lactancia debe evaluarse con el médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Amoxiclav",
+    "fabricante": "Laboratorios Pisa",
+    "linea": "Amoxiclav",
+    "presentacion": "Frasco de polvo para 75 ml de suspensión oral",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amoxicilina y ácido clavulánico",
+    "concentracion": "250 mg / 62.5 mg por cada 5 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños y adultos",
+    "registro_sanitario": "241M95 SSA",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; Antibiótico; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125109485_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/a/m/amoxiclav-250-mg-oral-75-ml-susp-9485_2.jpg",
+      "pagina": "https://www.fahorro.com/amoxiclav-250-mg-suspension-oral-75-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 963,
+      "fecha": "2026-09-29",
+      "lado_util": 892
+    },
+    {
+      "archivo": "7501125109485_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20220429_183067.jpg",
+      "pagina": "https://www.fahorro.com/amoxiclav-250-mg-suspension-oral-75-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 756,
+      "fecha": "2026-09-29",
+      "lado_util": 700
+    },
+    {
+      "archivo": "7501125109485_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmacialapaz.com.mx/cdn/shop/files/7501125109485_6c5a54fa-b218-4e70-af74-c395f9302103.jpg?v=1774375110&width=1920",
+      "pagina": "https://www.fahorro.com/amoxiclav-250-mg-suspension-oral-75-ml.html",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 619,
+      "fecha": "2026-09-29",
+      "lado_util": 574
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1143662/amoxiclav-suspension-250-mg-62-5-mg-5-ml",
+    "https://www.benavides.com.mx/amoxiclav-250-mg-acido-clavulanico-amoxicilina-75-ml-suspension",
+    "https://www.walmart.com.mx/ip/amoxiclav-amoxicilina-250-mg-acido-clavulanico-62-5-mg-5-ml-suspension-polvo-para-75-ml/00750112510948"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema no trae volumen; los 75 ml se toman de las fichas de tienda que coinciden con este GTIN.",
+    "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro 1200 px, Benavides 1000 px, Farmacia La Paz 700 px); se descartó una duplicada.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PASTA LASSAR 110 TBO ANDROMACO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pasta Lassar Andrómaco Óxido de Zinc 25% Tubo 110 g",
+  "descripcion": "Descripción:\nPasta Lassar de Laboratorios Andrómaco es un producto dermatológico de uso externo a base de óxido de zinc al 25%, presentado en tubo de 110 g. Su etiqueta indica que brinda alivio del ardor y la comezón en irritaciones leves de la piel.\n\nBeneficios:\n- Alivio del ardor y de la comezón en irritaciones leves de la piel.\n- Indicada en quemaduras superficiales, heridas leves, piquetes de insectos y rozaduras.\n- Producto de venta libre, sin necesidad de receta.\n\nCaracterísticas:\n- Pasta de uso tópico con óxido de zinc como ingrediente activo.\n- Tubo de 110 g, práctico para aplicarla directamente sobre la zona afectada.\n- Marca Andrómaco, presentación en caja con un tubo.\n\nComposición:\nÓxido de zinc 25%.\n\nPresentación:\nCaja con un tubo de 110 g. Uso externo (tópico).\n\nAdvertencias:\nSolo para uso externo. No la aplique en heridas profundas ni en quemaduras extensas; en esos casos acuda al médico. Suspenda su uso si aparece irritación o si la molestia persiste. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Andrómaco",
+    "fabricante": "Laboratorios Andrómaco",
+    "variante": "Óxido de zinc 25%",
+    "presentacion": "Tubo",
+    "contenido_neto": 110,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc",
+    "concentracion": "25%",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: pasta; Uso externo; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501289511469_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501289511469_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1639,
+      "fecha": "2026-09-29",
+      "lado_util": 1518
+    },
+    {
+      "archivo": "7501289511469_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6996051/7501289511469_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/andromaco-pasta-lassar-tubo-c-110-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.mdsc.com.mx/en/shop/7501289511469-pasta-de-lassar-andromaco-oxido-de-zinc-25-tubo-110-g-437906",
+    "https://www.farmatodo.com.mx/andromaco-pasta-lassar-tubo-c-110-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Excipientes no confirmados en las fuentes; solo se declara óxido de zinc al 25%.",
+    "notas_imagenes": "2 fotos de tienda (CDN de Farmacias del Ahorro y farmacia en línea), 974 y 1,639 px, frente de la caja del tubo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

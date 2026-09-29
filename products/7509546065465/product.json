@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT COLGATE 360 BLACK 2X1",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Colgate 360 Black Suave 2 Piezas",
+  "descripcion": "Descripción:\nCepillo dental Colgate 360° Black en paquete con 2 piezas (2x1), con cerdas suaves. Su diseño 360° está pensado para una limpieza profunda de los dientes y el cuidado de la lengua, facilitando el cepillado sin lastimar las encías.\n\nCaracterísticas:\n- Cerdas suaves que cuidan las encías\n- Cerdas interdentales y cerdas pulidoras de goma\n- Punta limpiadora para los dientes traseros\n- Limpiador de lengua en la parte posterior de la cabeza\n- Cabeza compacta para llegar a todas las áreas de la boca\n- Paquete con 2 cepillos\n\nModo de uso:\nCepille sus dientes después de cada comida y limpie la lengua con el limpiador del cepillo. Reemplácelo cada 3 meses o antes si las cerdas se desgastan.\n\nPresentación:\nPaquete con 2 cepillos dentales.\n\nAdvertencias:\nManténgase fuera del alcance de los niños pequeños. Suspenda su uso si nota sangrado o molestias persistentes en las encías y consulte a su dentista.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "360°",
+    "variante": "Black",
+    "presentacion": "Paquete con 2 cepillos dentales",
+    "contenido_neto": 2,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 2,
+    "otros": "Dureza: suave; Incluye limpiador de lengua; Formato: 2x1"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546065465_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546065465_1.jpg",
+      "pagina": "https://www.fahorro.com/cepillo-dental-colgate-360-black-suve-2x1.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1553,
+      "fecha": "2026-09-29",
+      "lado_util": 1438
+    },
+    {
+      "archivo": "7509546065465_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546065465-1.jpg",
+      "pagina": "https://www.fahorro.com/cepillo-dental-colgate-360-black-suve-2x1.html",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cepillo-dental-colgate-360-black-suve-2x1.html",
+    "https://www.delsol.com.mx/cepillo-dental-colgate-360%C2%B0-black-2-pzas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las características vienen de la ficha de tienda y de la imagen informativa de la marca. El modo de uso es la recomendación general de cuidado dental.",
+    "notas_imagenes": "2 fotos de tienda (empaque 360 Black 2x1 de frente, 1553 y 2000 px). Se borraron una foto de otra versión (360 carbón) y una infografía.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

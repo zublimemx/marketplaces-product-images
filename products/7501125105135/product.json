@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "AMK 500MG INY C 1 AMIKACINA PISA 262",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "A.M.K. Amikacina 500 mg/2 ml Solución Inyectable",
+  "descripcion": "Descripción:\nA.M.K. es una solución inyectable de amikacina, un antibiótico aminoglucósido de Laboratorios PiSA, presentada en ampolleta de 2 ml con 500 mg de amikacina. Se emplea en infecciones causadas por bacterias sensibles, principalmente gramnegativas y algunas grampositivas, como las de vías respiratorias bajas, tejidos blandos, huesos y articulaciones, vías genitourinarias e intraabdominales. Su uso requiere indicación y seguimiento médico.\n\nComposición:\nCada ampolleta contiene sulfato de amikacina equivalente a 500 mg de amikacina, en vehículo cbp 2 ml.\n\nModo de uso:\nVía intramuscular o intravenosa, según indicación médica. En pacientes con función renal normal, la dosis habitual es de 15 mg/kg de peso al día dividida en 2 dosis iguales durante 7 a 10 días; la dosis y la duración las determina el médico.\n\nPresentación:\nCaja con 1 ampolleta de 2 ml de solución inyectable (500 mg/2 ml).\n\nAdvertencias:\nNo se use en caso de hipersensibilidad a la amikacina u otros aminoglucósidos. Puede provocar alteraciones del equilibrio, sordera o daño renal; evite el uso simultáneo con otros medicamentos que dañen el oído o el riñón. No se recomienda durante el embarazo ni la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "A.M.K.",
+    "fabricante": "Laboratorios PiSA",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amikacina (sulfato de amikacina)",
+    "concentracion": "500 mg/2 ml",
+    "via_administracion": "Intramuscular o intravenosa",
+    "registro_sanitario": "249M87 SSA IV",
+    "otros": "Ampolleta de 2 ml; Antibiótico aminoglucósido"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125105135_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125105135.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1342,
+      "fecha": "2026-09-29",
+      "lado_util": 1243
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/amikacina.solucion.inyectable/10/101/43537/162"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos clínicos y registro de la ficha PLM de amikacina solución inyectable 500 mg/2 ml (Laboratorios Pisa); la página oficial de PiSA no abrió.",
+    "notas_imagenes": "1 foto(s): 7501125105135_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

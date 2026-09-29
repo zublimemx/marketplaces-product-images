@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "NEUROCER ACIDO GLUTAMICO NEURO-CEREBRAL C/30 MEDICAM",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Neurocer Ácido Glutámico Vitaminas 30 Grageas",
+  "descripcion": "Descripción:\nNeurocer es un producto en grageas a base de ácido glutámico combinado con complejo B y otras vitaminas, presentado como revitalizante neuro-cerebral. Se comercializa en caja con 30 grageas.\n\nComposición:\nContiene ácido glutámico, complejo B y vitaminas. Las fuentes consultadas no detallan las cantidades de cada componente; consulte la información impresa en el empaque.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico antes de usarlo. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neurocer",
+    "linea": "Neurocer",
+    "variante": "Ácido glutámico con complejo B y vitaminas",
+    "presentacion": "Caja con 30 grageas",
+    "contenido_neto": 30,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Ácido glutámico, complejo B y vitaminas",
+    "otros": "Formato: grageas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://mayoreofarmaceutico.com.mx/productos/1306881057034/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "gtin",
+    "notas": "Solo se encontraron títulos de listados (NEUROCER GRAG 30 con el mismo GTIN; ácido glutámico, complejo B y vitaminas). Las páginas de detalle no cargaron (404) o están bloqueadas por el proxy, así que no hay composición, laboratorio ni indicaciones confiables. Verificar con el empaque.",
+    "notas_imagenes": "Sin fotos: no se pudo abrir ninguna ficha con imagen del producto (páginas caídas o bloqueadas).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

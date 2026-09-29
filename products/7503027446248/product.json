@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "DIVELGEL 100 300MG C16CAP BROMURO DE PINAVERIO DIMETICONA PROGELA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Divelgel Pinaverio 100 mg Dimeticona 300 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nDivelgel es un medicamento en cápsulas que combina bromuro de pinaverio y simeticona (dimeticona). Su triple mecanismo de acción es antiespasmódico, regulador del tránsito intestinal y antiflatulento. El bromuro de pinaverio actúa de forma local sobre el músculo liso del intestino: bloquea la entrada de calcio a las células y reduce las contracciones, mientras que la dimeticona ayuda a disminuir los gases.\nEstá indicado en el síndrome de intestino irritable con dolor o malestar abdominal asociado a cambios en la frecuencia o consistencia de las evacuaciones (predominio de estreñimiento, de diarrea o alternante), colon irritable, colitis nerviosa y colopatías funcionales, así como en disfunciones intestinales inespecíficas y en padecimientos funcionales con meteorismo, como la distensión abdominal funcional.\n\nFórmula:\nCada cápsula contiene bromuro de pinaverio 100 mg y simeticona (equivalente a dimeticona) 300 mg. Excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Una cápsula dos veces al día, de 10 a 15 minutos antes del desayuno y de la comida. En casos severos o de difícil control, el médico puede indicar una cápsula tres veces al día.\n\nPresentación:\nCaja con blíster con 16 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a los componentes de la fórmula ni si tiene úlcera péptica gastrointestinal. Contiene colorantes rojo No. 6 y amarillo No. 5, que pueden producir reacciones alérgicas. Durante el embarazo y la lactancia su uso queda a criterio del médico. Consérvese la caja bien cerrada a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Divelgel",
+    "fabricante": "Progela",
+    "linea": "Divelgel",
+    "presentacion": "Caja con blíster con 16 cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Bromuro de pinaverio y simeticona (dimeticona)",
+    "concentracion": "100 mg / 300 mg por cápsula",
+    "via_administracion": "Oral",
+    "registro_sanitario": "155M2020 SSA VI",
+    "otros": "Forma farmacéutica: cápsula; Antiespasmódico y antiflatulento; Contiene colorantes rojo 6 y amarillo 5"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7503027446248_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Divelgel_2.jpg?v=1780325920",
+      "pagina": "https://sanorim.mx/products/divelgel-bromuro-de-pinaverio-dimeticona-100-mg-300-mg-con-16-capsulas",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1148,
+      "fecha": "2026-09-29",
+      "lado_util": 1062
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/divelgel.capsulas/2776/101/77595/14",
+    "https://sanorim.mx/products/divelgel-bromuro-de-pinaverio-dimeticona-100-mg-300-mg-con-16-capsulas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro SSA VI (venta sin receta); se marcó 'No'.",
+    "notas_imagenes": "1 foto de tienda (Sanorim), frente de la caja, 1200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

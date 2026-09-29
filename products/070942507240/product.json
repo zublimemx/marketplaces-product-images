@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CERA DENT GUM P/ORTODON MENT",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cera para Ortodoncia GUM Orthodontic Sabor Menta",
+  "descripcion": "Descripción:\nGUM Orthodontic es una cera para ortodoncia sabor menta, pre-cortada y lista para usar, diseñada para prevenir y aliviar las molestias que pueden causar los brackets y otros aparatos de ortodoncia. Se adhiere a los brackets, alambres, ganchos, tubos y ligaduras para crear una barrera protectora entre el aparato y las mejillas, labios y encías.\n\nCaracterísticas:\n- Sabor menta\n- Cera transparente que se integra con los dientes de forma discreta\n- Fórmula con vitamina E y aloe vera\n- Barras pre-cortadas, fáciles de usar\n- Estuche práctico para llevar a todas partes\n\nPresentación:\nEstuche con 5 barras de cera pre-cortadas.\n\nAdvertencias:\nUso oral externo al aparato de ortodoncia; no está destinada para ingerirse. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "GUM",
+    "fabricante": "Sunstar",
+    "linea": "Orthodontic",
+    "variante": "Cera sabor menta",
+    "presentacion": "Estuche con 5 barras de cera pre-cortadas",
+    "contenido_neto": 5,
+    "unidad_contenido": "barras",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta",
+    "otros": "Ingredientes destacados: vitamina E y aloe vera; Cera transparente pre-cortada; Estuche de viaje"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430515",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Ceras para Ortodoncia",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "070942507240_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.sunstargum.com/adobe/dynamicmedia/deliver/dm-aid--881aa009-3053-4595-b0ed-2ff39906813a/724ly-724lya-product-packaging-accessories-orthowax-mint-front-1ct.png?quality=85&preferwebp=true",
+      "pagina": "https://www.sunstargum.com/mx-es/productos/accesorios/gum-ortho-cera.html",
+      "ancho_original": 3000,
+      "alto_original": 3000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "070942507240_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/7/070942507240.jpg",
+      "pagina": "https://www.fahorro.com/cera-para-ortodoncia-con-menta.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1202,
+      "fecha": "2026-09-29",
+      "lado_util": 1113
+    }
+  ],
+  "url_oficial": "https://www.sunstargum.com/mx-es/productos/accesorios/gum-ortho-cera.html",
+  "fuentes": [
+    "https://www.sunstargum.com/mx-es/productos/accesorios/gum-ortho-cera.html",
+    "https://www.fahorro.com/cera-para-ortodoncia-con-menta.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio oficial lista el SKU 00070942507240. No se obtuvo instructivo de uso ni composición completa.",
+    "notas_imagenes": "2 fotos: 1 del sitio oficial del fabricante (2000 px) y 1 de tienda (1202 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "BELLAFEM PLENITUD CALCIO CON ISOFLAVONAS 1.266G TAB 60 EXELTIS PHARMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Bellafem Plenitud Calcio con Isoflavonas 60 Tabletas",
+  "descripcion": "Descripción:\nBellafem Plenitud es un suplemento alimenticio en tabletas formulado para acompañar a la mujer en la etapa de la menopausia y para el cuidado de los huesos. Combina isoflavonas de soya (versión Forte) con calcio, magnesio y las vitaminas D3 y K2.\n\nCaracterísticas:\n- Contiene isoflavonas de soya, calcio, magnesio, vitamina D3 y vitamina K2\n- Formulado para la etapa de la menopausia y el cuidado de los huesos\n- Presentación con 60 tabletas, peso neto de 76 g (aproximadamente 1.266 g por tableta)\n\nComposición:\nIsoflavonas de soya, calcio, magnesio, vitamina D3 y vitamina K2. Consulte la tabla nutrimental del empaque para conocer el aporte por porción.\n\nModo de uso:\nConsulte la porción diaria recomendada en el empaque.\n\nPresentación:\nCaja con 60 tabletas. Peso neto 76 g.\n\nAdvertencias:\nEste producto es un suplemento alimenticio, no es un medicamento. No exceda la dosis diaria recomendada. Consulte a su médico antes de usarlo si está embarazada, en lactancia o bajo tratamiento médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Bellafem",
+    "fabricante": "Exeltis",
+    "linea": "Plenitud",
+    "variante": "Isoflavonas Forte con calcio, magnesio y vitaminas D3 y K2",
+    "presentacion": "Caja con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "genero": "Mujer",
+    "otros": "Peso neto: 76 g; Peso por tableta: 1.266 g; Suplemento alimenticio; Ingredientes destacados: isoflavonas de soya, calcio, magnesio, vitamina D3, vitamina K2"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,65 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502235760115_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/optimized_bellafem_plenitud_frasco_con_60_tabletas_7502235760115_1.jpg?v=1772560788&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/24204",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 834,
+      "fecha": "2026-09-29",
+      "lado_util": 773
+    },
+    {
+      "archivo": "7502235760115_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/optimized_bellafem_plenitud_frasco_con_60_tabletas_7502235760115_2.jpg?v=1772560793&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/24204",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 829,
+      "fecha": "2026-09-29",
+      "lado_util": 768
+    },
+    {
+      "archivo": "7502235760115_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/optimized_bellafem_plenitud_frasco_con_60_tabletas_7502235760115_3.jpg?v=1772560798&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/24204",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 831,
+      "fecha": "2026-09-29",
+      "lado_util": 770
+    },
+    {
+      "archivo": "7502235760115_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502235760115_1.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/24204",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1685,
+      "fecha": "2026-09-29",
+      "lado_util": 1561
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/bellafem-plenitud-suplemento-alimenticio-60-tabletas.html",
+    "https://farmaciasanjorge.com/products/24204",
+    "https://www.yza.mx/bellafem-plenitud-400-mg-60-tab./MXYZ_7502235760115.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se pudo confirmar la cantidad por tableta (las fichas discrepan: una indica 800 mg de calcio, probablemente por dosis diaria), por eso la descripción remite a la tabla nutrimental. El catálogo MLM21590598 dice 'Lata' y no se pudo abrir; no se anotó.",
+    "notas_imagenes": "4 fotos de tienda (frente y vistas en ángulo de la caja, entre 829 y 1685 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

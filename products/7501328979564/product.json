@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "PLAQUENIL 200MG C 20 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Plaquenil Hidroxicloroquina 200 mg 20 Tabletas",
+  "descripcion": "Descripción:\nPlaquenil es un medicamento de Sanofi cuyo principio activo es la hidroxicloroquina, un antimalárico con acción sobre la respuesta inmunitaria e inflamatoria. Está indicado en el tratamiento de la artritis reumatoide, el lupus eritematoso sistémico y en la profilaxis y el tratamiento del paludismo (malaria), siempre bajo indicación y vigilancia médica. La caja contiene 20 tabletas de 200 mg.\n\nComposición:\nCada tableta contiene 200 mg de hidroxicloroquina.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las establece el médico según la enfermedad; tome las tabletas exactamente como se le indique.\n\nPresentación:\nCaja con 20 tabletas de 200 mg.\n\nAdvertencias:\nNo se use en caso de alergia a la hidroxicloroquina, o a algún componente de la fórmula, ni en personas con alteraciones de la retina. Con el uso prolongado se recomienda una revisión oftalmológica periódica por el riesgo de toxicidad ocular. Precaución en enfermedades del corazón, del hígado o del riñón y con medicamentos que afecten el ritmo cardiaco. Conservar a temperatura ambiente, entre 15 y 30 °C, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Plaquenil",
+    "fabricante": "Sanofi",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hidroxicloroquina",
+    "concentracion": "200 mg",
+    "via_administracion": "Oral",
+    "otros": "Antimalárico y antirreumático; Caja con 20 tabletas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501328979564_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Plaquenil-200-Mg-20-Tabletas-7501328979564-639098795423220523-1.jpg",
+      "pagina": "https://tienda.sfe.com.mx/eCommerce/item/2158/plaquenil-200-mg-20-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 673,
+      "fecha": "2026-09-29",
+      "lado_util": 624
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/plaquenil-200mg-con-20-tabletas-hidroxicloroquina",
+    "https://farmaciasanjorge.com/products/9599"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Ficha clínica de una tienda en línea (la ficha PLM no abrió); indicaciones tomadas de esa fuente. La categoría Musculoarticulares es por el uso reumatológico.",
+    "notas_imagenes": "1 foto(s): 7501328979564_1.jpg (de tienda, cdn.gdar.com.mx, 1000x1000 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

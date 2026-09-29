@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "CELESTAMINE NS JBE PED 60 ML JULIO 27 GRATIS 1 CLARITYNE SOL 60ML MARZO 27105",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Celestamine NS Solución Pediátrica 60 ml",
+  "descripcion": "Descripción:\nCelestamine NS Pediátrico es una solución oral que combina loratadina (antihistamínico) y betametasona (corticoesteroide), elaborada por Bayer. Se presenta en caja con un frasco de 60 ml con dosificador graduado. Pertenece al grupo terapéutico de las enfermedades inmunoalérgicas y es un medicamento de prescripción. Según la información del medicamento, se emplea en afecciones alérgicas y en otros cuadros inflamatorios en los que el médico considere adecuado un corticoesteroide junto con un antihistamínico. La indicación, la dosis y la duración del tratamiento deben ser definidas por el médico de acuerdo con la edad y el peso del paciente.\n\nComposición:\nCada 100 ml contienen loratadina y betametasona en las siguientes cantidades.\n- Loratadina: 100 mg\n- Betametasona: 5 mg\n\nModo de uso:\nVía oral. Utilice el dosificador graduado que viene en el empaque y siga exactamente la dosis indicada por el médico.\n\nPresentación:\nCaja con frasco de 60 ml y dosificador graduado.\n\nAdvertencias:\nNo debe usarse en personas con hipersensibilidad a la betametasona, la loratadina o a otros componentes de la fórmula, ni en presencia de infecciones sistémicas sin un tratamiento antiinfeccioso apropiado. Los corticoesteroides atraviesan la placenta, por lo que su uso durante el embarazo debe ser valorado por el médico. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Celestamine NS",
+    "fabricante": "Bayer",
+    "linea": "Celestamine NS Pediátrico",
+    "presentacion": "Solución oral con dosificador graduado",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Loratadina y betametasona",
+    "concentracion": "Loratadina 100 mg y betametasona 5 mg por 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Uso pediátrico",
+    "otros": "Requiere receta médica; Grupo terapéutico: enfermedades inmunoalérgicas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457815",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
+      "categoria_rx_sugerida": "MLM457833",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501050699990_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7c6d42e8/images/large/7501050699990_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/celestamine-ns-jarabe-pediatrico-60ml/MXYZ_7501050699990.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1550,
+      "fecha": "2026-09-29",
+      "lado_util": 1436
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/celestamine-ns-pediatrico-jarabe-100-5-mg-frasco-c-60-ml/p",
+    "https://farmaciagloria.mx/Medicamentos_de_patente/705-celestamine-ns-pediatrico-100mg-5mg-100ml-solucion-con-60-ml.html",
+    "https://www.yza.mx/celestamine-ns-jarabe-pediatrico-60ml/MXYZ_7501050699990.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema incluye una promoción (1 Clarityne solución 60 ml gratis) que se ignoró: la ficha corresponde solo a Celestamine NS pediátrico de 60 ml. Venta con receta (fracción IV). Las indicaciones son generales; conviene revisar la información para prescribir del fabricante.",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1500 px: caja frontal de Celestamine NS (loratadina, betametasona) con frasco de 60 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "PREMID SUSP OFTAMICA 10ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Premid Prednisolona Sulfacetamida Suspensión Oftálmica 10 ml",
+  "descripcion": "Descripción:\nPremid es una suspensión oftálmica (gotas para los ojos) de Laboratorios Grin que combina un corticosteroide, el acetato de prednisolona, con un antibiótico de la familia de las sulfonamidas, la sulfacetamida sódica. Está indicada para tratar procesos inflamatorios oculares acompañados de infección bacteriana por microorganismos sensibles a la sulfacetamida, en afecciones del segmento anterior del ojo como queratitis, iritis e iridociclitis, así como en quemaduras químicas o térmicas. Su venta requiere receta médica.\n\nComposición:\nCada ml de suspensión contiene:\n- Acetato de prednisolona 5 mg\n- Sulfacetamida sódica 100 mg\n- Vehículo cbp 1 ml\n\nModo de uso:\nVía oftálmica. Aplique 1 o 2 gotas en el ojo afectado de 4 a 6 veces al día, o con mayor frecuencia si es necesario según indicación del médico; conforme mejore la infección se disminuye la frecuencia de aplicación. Agite bien antes de usar. No ingerir.\n\nPresentación:\nFrasco gotero con 10 ml de suspensión oftálmica.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula\n- No se use en tuberculosis ocular, infecciones virales o por hongos, queratitis epitelial ni glaucoma de ángulo abierto\n- Los corticosteroides pueden aumentar la presión intraocular y retrasar la cicatrización; no se recomienda su uso durante el embarazo ni la lactancia\n- Conservar a no más de 30 °C, protegido de la luz y con el frasco bien cerrado\n- Deseche el frasco 30 días después de abierto\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Premid",
+    "fabricante": "Laboratorios Grin",
+    "linea": "Premid",
+    "presentacion": "Frasco gotero con 10 ml",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Acetato de prednisolona, sulfacetamida sódica",
+    "concentracion": "Prednisolona 5 mg/ml y sulfacetamida 100 mg/ml (450 mg/10 g según algunas tiendas)",
+    "via_administracion": "Oftálmica",
+    "otros": "Forma farmacéutica: suspensión oftálmica; Venta con receta médica; Desechar 30 días después de abrir"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "008400000460_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd17eea2b/images/large/8400000460_1.jpg",
+      "pagina": "https://www.yza.mx/premid-suspension-450mg10g-10ml/MXYZ_8400000460.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1183,
+      "fecha": "2026-09-29",
+      "lado_util": 1095
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/premid.suspension.oftalmica/88/101/9361/204",
+    "https://www.yza.mx/premid-suspension-450mg10g-10ml/MXYZ_8400000460.html",
+    "https://super.walmart.com.mx/ip/premid-suspension-oftalmica-10-ml/00000840000046"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN del sistema tiene 12 dígitos (008400000460); las tiendas lo publican como 8400000460 o 00000840000046. Presentación de 10 ml confirmada en PLM y tiendas. Corticosteroide con antibiótico oftálmico, venta con receta.",
+    "notas_imagenes": "1 foto de frente (frasco gotero y caja, 1183 px) de la ficha de Yza.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,57 @@
   "linea": "Farma",
   "nombre_sistema": "DESPAMEN 100 5 MG JGA PRELL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Despamen Testosterona Estradiol 100 mg/5 mg Jeringa 1 ml",
+  "descripcion": "Descripción:\nDespamen es una solución inyectable de administración intramuscular que combina testosterona (como enantato) y estradiol (como valerato) en concentración de 100 mg y 5 mg por cada 1 ml. Es elaborado por Laboratorios Carnot y se presenta en una caja con una jeringa prellenada con 1 ml y una aguja estéril desechable, en envase de burbuja.\n\nComposición:\nCada 1 ml de solución inyectable aporta las siguientes cantidades.\n- Testosterona (enantato de testosterona): 100 mg\n- Estradiol (valerato de estradiol): 5 mg\n\nCaracterísticas:\n- Solución inyectable lista para aplicarse en jeringa prellenada.\n- Incluye aguja estéril desechable.\n- Vía de administración: intramuscular.\n- Pertenece al grupo de los estrógenos y andrógenos combinados.\n\nModo de uso:\nSolo para aplicación intramuscular por personal de salud o bajo la indicación de su médico. La indicación, la dosis y la frecuencia de aplicación deben ser definidas por el médico. Consérvese a temperatura ambiente controlada, entre 15 y 30 °C.\n\nPresentación:\nCaja con 1 jeringa prellenada con 1 ml y 1 aguja estéril desechable.\n\nAdvertencias:\nMedicamento de prescripción: su venta requiere receta médica. No se automedique. Utilice el producto únicamente por vía intramuscular. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Despamen",
+    "fabricante": "Laboratorios Carnot",
+    "presentacion": "Solución inyectable en jeringa prellenada",
+    "contenido_neto": 1,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Testosterona (enantato) y estradiol (valerato)",
+    "concentracion": "100 mg / 5 mg por 1 ml",
+    "via_administracion": "Intramuscular",
+    "otros": "Incluye 1 aguja estéril desechable; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": "MLM39475151"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070903411_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw8fe7cff4/images/large/7501070903411_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/despamen-jeringa-prellenad-100mg5mg-1ml/MXYZ_7501070903411.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1407,
+      "fecha": "2026-09-29",
+      "lado_util": 1303
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos/2833-despamen-solucion-inyectable-100-mg-5-mg-caja-con-una-jeringa-prellenada-con-1-ml-7501070903411.html",
+    "https://www.yza.mx/despamen-jeringa-prellenad-100mg5mg-1ml/MXYZ_7501070903411.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto. No se encontraron indicaciones terapéuticas detalladas en fuentes abiertas, por eso la descripción se limita a la fórmula, la presentación y el modo de aplicación. Catálogo de Mercado Libre tomado de un resultado de búsqueda con la misma presentación.",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1400 px: caja frontal de Despamen (testosterona/estradiol) con 1 jeringa prellenada.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

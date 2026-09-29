@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "SENSIBIT D12 HRS C 12 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sensibit D NF Antigripal 12 Tabletas",
+  "descripcion": "Descripción:\nSensibit D NF es un medicamento de Laboratorios Liomont que combina tres principios activos para aliviar los síntomas de la gripe, el resfriado y la rinitis alérgica. El paracetamol es un analgésico y antipirético que ayuda con el dolor y la fiebre; la fenilefrina es un descongestionante nasal, y la loratadina es un antihistamínico que ayuda con los estornudos y el escurrimiento nasal. Su esquema de una toma cada 12 horas facilita el tratamiento durante el día.\nEstá indicado para el tratamiento sintomático de cuadros gripales y de resfriado, y de la rinitis alérgica con congestión nasal.\n\nFórmula:\nCada tableta contiene loratadina 2.5 mg, clorhidrato de fenilefrina 5 mg y paracetamol 500 mg por tableta.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 12 años: 2 tabletas cada 12 horas, con un poco de agua. No exceda la dosis recomendada ni prolongue el tratamiento sin consultar a su médico.\n\nPresentación:\nCaja con 12 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula, si tiene glaucoma de ángulo cerrado o hipertensión grave, ni si toma inhibidores de la monoaminooxidasa (IMAO). Tenga precaución si padece enfermedades del hígado, del riñón o del corazón. No lo combine con otros productos que contengan paracetamol. Durante el embarazo y la lactancia consulte antes a su médico. Conserve la caja en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sensibit",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Sensibit",
+    "variante": "D NF",
+    "presentacion": "Caja con 12 tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, clorhidrato de fenilefrina y loratadina",
+    "concentracion": "Paracetamol 500 mg; fenilefrina 5 mg; loratadina 2.5 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Forma farmacéutica: tableta; Antigripal con antihistamínico y descongestionante; Dosis cada 12 horas; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299307236_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw3c1697fd/images/large/7501299307236_1.jpg?sw=2000&sh=2000",
+      "pagina": "https://www.yza.mx/sensibit-d-nf-antigripal-oral-12-tabletas/MXYZ_7501299307236.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501299307236_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw18a49f8d/images/large/7501299307236_2.jpg?sw=2000&sh=2000",
+      "pagina": "https://www.yza.mx/sensibit-d-nf-antigripal-oral-12-tabletas/MXYZ_7501299307236.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7501299307236_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5b32b25e/images/large/7501299307236_3.jpg?sw=2000&sh=2000",
+      "pagina": "https://www.yza.mx/sensibit-d-nf-antigripal-oral-12-tabletas/MXYZ_7501299307236.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1851
+    }
+  ],
+  "url_oficial": "https://liomont.com.mx/es_mx/productos-de-libre-venta/",
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/sensibit-d-nf-2-5mg-5mg500mg-con-12-tabletas-loratadina-fenilefrina-paracetamol",
+    "https://www.fahorro.com/sensibit-d-nf-antigripal-oral-12-tabletas.html",
+    "https://liomont.com.mx/es_mx/productos-de-libre-venta/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Liomont lo lista entre sus productos de libre venta; se marcó 'No'.",
+    "notas_imagenes": "3 fotos de tienda (Yza), frente de la caja y vistas del empaque, 2000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

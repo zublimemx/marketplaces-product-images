@@ -4,29 +4,76 @@
   "linea": "Farma",
   "nombre_sistema": "BAUMA MUÑ RS1 HEM 6160E OMRON OFERTADO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Baumanómetro Digital de Muñeca Omron RS1 HEM-6160-E",
+  "descripcion": "Descripción:\nBaumanómetro digital automático de muñeca Omron RS1 (HEM-6160-E), un dispositivo compacto y fiable para medir la presión arterial y la frecuencia cardiaca de forma sencilla en casa o de viaje. Su tamaño permite llevarlo a cualquier sitio y es una alternativa cómoda para quienes necesitan controlar su presión con frecuencia o a quienes el brazalete tradicional les resulta pequeño o incómodo.\n\nCaracterísticas:\n- Tecnología IntelliSense: ajusta automáticamente la presión de inflado del manguito para que la medición sea cómoda y precisa.\n- Pantalla LCD de fácil lectura que muestra presión sistólica, diastólica, pulso y hora.\n- Manguito preformado de muñeca ajustable para perímetros de 13.5 a 21.5 cm.\n- Indicadores de colocación y de posición para una medición correcta.\n- Rango de medición de presión de 0 a 299 mmHg y de pulso de 40 a 180 latidos por minuto.\n- Función de memoria de la última medición y apagado automático.\n- Funciona con 2 pilas AAA (incluidas).\n\nModo de uso:\nColóquese el manguito en la muñeca, siéntese con la espalda recta y apoye el brazo a la altura del corazón, en un ambiente tranquilo y relajado. Presione el botón de inicio y permanezca quieto durante la medición.\n\nPresentación:\nUna pieza con manguito de muñeca. Peso de 85 g, con dimensiones aproximadas de 84 x 62 x 21 mm.\n\nAdvertencias:\n- No sustituye la valoración médica. Consulte a su médico para interpretar sus lecturas y no modifique su tratamiento por su cuenta.\n- Manténgalo fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Omron",
+    "fabricante": "Omron Healthcare",
+    "linea": "RS1",
+    "variante": "Muñeca, automático",
+    "presentacion": "Baumanómetro digital de muñeca",
+    "unidades_por_envase": 1,
+    "otros": "Modelo: HEM-6160-E; Tecnología IntelliSense; Manguito de muñeca de 13.5 a 21.5 cm; Rango de presión: 0 a 299 mmHg; Rango de pulso: 40 a 180 lpm; Alimentación: 2 pilas AAA incluidas; Peso: 85 g; Color: Blanco; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM190865",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Medidores de Presión > Digitales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM44593947"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4015672111097_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/20251006_OMRON_SanJorge_Imagenes_1080x1080px_RS1-HEM-6160-E_4015672111097.png?v=1760134428&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/41826",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1061,
+      "fecha": "2026-09-29",
+      "lado_util": 983
+    },
+    {
+      "archivo": "4015672111097_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.ortoweb.com/26384-large_default/tensiometro-de-muneca-omron-rs1-hem-6160-e.jpg",
+      "pagina": "https://www.ortoweb.com/tensiometro-de-muneca-omron-rs1-hem-6160-e",
+      "ancho_original": 650,
+      "alto_original": 650,
+      "lado_final": 702,
+      "fecha": "2026-09-29",
+      "lado_util": 449
+    },
+    {
+      "archivo": "4015672111097_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.ortoweb.com/26383-large_default/tensiometro-de-muneca-omron-rs1-hem-6160-e.jpg",
+      "pagina": "https://www.ortoweb.com/tensiometro-de-muneca-omron-rs1-hem-6160-e",
+      "ancho_original": 650,
+      "alto_original": 650,
+      "lado_final": 535,
+      "fecha": "2026-09-29",
+      "lado_util": 496
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.ortoweb.com/tensiometro-de-muneca-omron-rs1-hem-6160-e",
+    "https://farmaciasanjorge.com/products/41826"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 4015672111097 confirmado en una tienda de ortopedia (Omron RS1 HEM-6160-E) y en el nombre de imagen de una cadena de farmacias. Las tiendas difieren en la memoria (una tabla dice última medición; otra, 60 lecturas): se dejó memoria de la última medición, que es la de la hoja técnica con GTIN. Catálogo ML por coincidencia exacta de modelo en resultados de búsqueda (Omron 6160 E); no se pudo abrir. No se abrió la página oficial de Omron.",
+    "notas_imagenes": "3 fotos de tienda del baumanómetro Omron RS1 de frente y en ángulo (1061, 702 y 535 px de lado tras el proceso; originales de 1080 y 650 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

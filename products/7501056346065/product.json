@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CRA PONDS CLAR B3 TAR 200G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Facial Pond's Clarant B3 Antimanchas FPS 15 200 g",
+  "descripcion": "Descripción:\nLa Crema Facial Antimanchas Pond's Clarant B3 con FPS 15 contiene vitamina B3 (niacinamida) y factor de protección solar. Está formulada para ayudar a restablecer el tono natural de la piel y a lucir un tono uniforme, al tiempo que brinda protección solar. Se presenta en tarro de 200 g.\n\nBeneficios:\n- Ayuda a restablecer el tono natural de la piel.\n- Crema antimanchas para un tono más uniforme.\n- Contiene factor de protección solar 15 (FPS 15).\n- Con vitamina B3 (niacinamida).\n\nIngredientes:\nIngredientes principales según el fabricante: agua, Ethylhexyl Methoxycinnamate, Cyclopentasiloxane, Niacinamide (vitamina B3), Titanium Dioxide y Benzophenone-3, además de agentes humectantes y conservadores.\n\nModo de uso:\nAplique en la cara y el cuello, después de limpiarlos, por la mañana y por la noche.\n\nPresentación:\nTarro de 200 g.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Crema antimanchas FPS 15",
+    "presentacion": "Tarro de 200 g",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "FPS 15; Con niacinamida (vitamina B3); Uso facial día y noche"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178705",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056346065_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056346065-1.jpg?h=1400",
+      "pagina": "https://www.delsol.com.mx/crema-facial-ponds-crema-clarant-b3-fps-15-200-gr",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 981,
+      "fecha": "2026-09-29",
+      "lado_util": 909
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/crema-antimanchas-clarant-b3-15fps.html/07501056346065",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/crema-antimanchas-clarant-b3-15fps.html/07501056346065",
+    "https://www.delsol.com.mx/crema-facial-ponds-crema-clarant-b3-fps-15-200-gr"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1000 px), tarro de 200 g de frente. La imagen del sitio oficial no pudo descargarse con el script por bloqueo 403.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

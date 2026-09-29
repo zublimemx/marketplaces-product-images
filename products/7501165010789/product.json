@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ADEROGYL INF GTS 30ML 84",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aderogyl C Infantil Gotas Vitaminas A C D 30 ml",
+  "descripcion": "Descripción:\nAderogyl C Infantil es un multivitamínico en gotas de Sanofi con vitaminas A, C y D, presentado en frasco con gotero de 30 ml. Está indicado como auxiliar en la prevención y el tratamiento de la gripa y el resfriado común, en el tratamiento de las deficiencias de vitaminas A, D y C y en la prevención del raquitismo infantil.\n\nBeneficios:\n- Acción protectora y regeneradora de la mucosa respiratoria.\n- Ayuda a la fijación del calcio en los huesos.\n- Reúne vitamina A, vitamina C y vitamina D en una sola solución oral de fácil dosificación con gotero.\n\nComposición:\nCada ml contiene retinol 2.75 mg (equivalente a 5,000 U.I. de palmitato de vitamina A), ergocalciferol 0.01 mg (equivalente a 400 U.I. de vitamina D) y ácido ascórbico (vitamina C) 60 mg. Excipiente cbp 1 ml.\n\nModo de uso:\nVía oral. Administre la dosis que indique el médico con el gotero del frasco.\n\nPresentación:\nFrasco con gotero de 30 ml de solución oral.\n\nAdvertencias:\nNo se administre más de la dosis recomendada ni por periodos prolongados. Las vitaminas A y D se almacenan en el hígado y su metabolismo es lento, por lo que la sobredosis produce efectos tóxicos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aderogyl",
+    "fabricante": "Sanofi-Aventis de México",
+    "linea": "Aderogyl C",
+    "variante": "Infantil",
+    "presentacion": "Frasco con gotero de 30 ml",
+    "contenido_neto": 30,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Retinol (vitamina A), ácido ascórbico (vitamina C) y ergocalciferol (vitamina D)",
+    "concentracion": "Por ml: retinol 2.75 mg (5,000 U.I.), ergocalciferol 0.01 mg (400 U.I.), ácido ascórbico 60 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Infantil",
+    "otros": "Forma farmacéutica: solución oral en gotas; Multivitamínico A, C y D"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501165010789_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw34a6bd5c/images/large/7501165010789_1.jpg?sw=2000&sh=2000",
+      "pagina": "https://www.yza.mx/aderogyl-c-solucion-30ml/MXYZ_7501165010789.html",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1688,
+      "fecha": "2026-09-29",
+      "lado_util": 1563
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/aderogyl-c-solucion-30ml/MXYZ_7501165010789.html",
+    "https://wecarepharma.mx/products/aderogyl-c-infantil-gotas-30ml-retino-ac-ascorbico-ergocalciferol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Yza lo lista como 'venta sin receta'; otra tienda lo trata como con receta. Se marcó 'No' y se clasificó en vitaminas y suplementos por su composición (A, C y D).",
+    "notas_imagenes": "1 foto de tienda (Yza), 2000 px. Se borraron una foto con texto superpuesto y otra con empaque antiguo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

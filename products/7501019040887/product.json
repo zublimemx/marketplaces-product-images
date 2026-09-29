@@ -4,29 +4,69 @@
   "linea": "Mark",
   "nombre_sistema": "PANTY PROT SABA DIARIOS LGO C/50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pantiprotectores Saba Delicate Diarios Largos 50 Piezas",
+  "descripcion": "Descripción:\nPantiprotectores Saba Delicate Diarios Largos, en paquete con 50 piezas. Están pensados para el uso diario y para el flujo diario, con una protección suave y delicada y una tecnología de absorción que ayuda a mantener la zona íntima con sensación de frescura.\n\nCaracterísticas:\n- Formato largo para mayor cobertura\n- Protección para flujo diario\n- Superficie suave, sin irritación\n- Atrapa los olores\n- Material respirable\n- Paquete con 50 piezas\n\nModo de uso:\nRetire la película protectora de la cara adhesiva y adhiérala a la ropa interior. Cambie el protector con la frecuencia necesaria para mantener la higiene.\n\nPresentación:\nPaquete con 50 pantiprotectores diarios largos.\n\nAdvertencias:\nUso externo. Deseche el producto en la basura después de usarlo; no lo arroje al inodoro. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Saba",
+    "fabricante": "Essity Higiene y Salud México",
+    "linea": "Delicate",
+    "variante": "Diarios Largos",
+    "presentacion": "Paquete con 50 pantiprotectores",
+    "contenido_neto": 50,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 50,
+    "genero": "Mujer",
+    "otros": "Tamaño: largo; Uso: flujo diario; Material respirable"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194143",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Pantiprotectores Diarios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM28984437"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019040887_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501019040887-1.jpg",
+      "pagina": "https://www.delsol.com.mx/protectores-diarios-saba-largo-50-piezas",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1487,
+      "fecha": "2026-09-29",
+      "lado_util": 1377
+    },
+    {
+      "archivo": "7501019040887_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501019040887-0_1.jpg",
+      "pagina": "https://www.delsol.com.mx/protectores-diarios-saba-largo-50-piezas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1277,
+      "fecha": "2026-09-29",
+      "lado_util": 1174
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/saba-diarios-largo-50-ud",
+    "https://www.fahorro.com/pantiprotectores-saba-diarios-largos-50-pz.html",
+    "https://www.delsol.com.mx/protectores-diarios-saba-largo-50-piezas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El catálogo de Mercado Libre MLM28984437 aparece como 'Protectores Saba Diarios Largos 50 Piezas' en los resultados de búsqueda; no se pudo abrir para confirmarlo.",
+    "notas_imagenes": "2 fotos de tienda (dos versiones del empaque, 1487 y 1277 px); se borró una tercera casi idéntica a la segunda.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

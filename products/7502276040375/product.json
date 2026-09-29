@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "DESENFRIOL D C12 TABS 162",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desenfriol D 2 mg/5 mg/500 mg 12 Tabletas",
+  "descripcion": "Descripción:\nDesenfriol D es un antigripal en tabletas que combina clorfenamina (antihistamínico), fenilefrina (descongestionante) y paracetamol (analgésico y antipirético). Está indicado para el alivio de las molestias de la gripe, como dolor de cabeza, congestión nasal, escurrimiento nasal, dolor de garganta, fiebre, estornudos, ojos llorosos y cuerpo cortado.\n\nFórmula:\nCada tableta contiene clorfenamina 2 mg, fenilefrina 5 mg y paracetamol 500 mg.\n\nModo de uso:\nVía oral. Para adultos y niños mayores de 12 años. Siga la dosis indicada en el empaque o por su médico y no exceda la dosis recomendada.\n\nPresentación:\nCaja con 12 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Contiene paracetamol: no lo combine con otros productos que lo contengan.\n- Puede causar somnolencia; tenga precaución al conducir o manejar maquinaria.\n- Consulte a su médico antes de usarlo si tiene hipertensión, glaucoma, enfermedad del corazón, del hígado o del riñón, o si está embarazada o en lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Desenfriol D",
+    "fabricante": "Bayer",
+    "presentacion": "Caja con 12 tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Clorfenamina, fenilefrina, paracetamol",
+    "concentracion": "2 mg/5 mg/500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Forma farmacéutica: Tabletas; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502276040375_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4bcc3f66/images/large/7502276040375_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/desenfriol-12-tabs/MXYZ_7502276040375.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1041,
+      "fecha": "2026-09-29",
+      "lado_util": 962
+    },
+    {
+      "archivo": "7502276040375_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7502276040375.png?v=1726102739&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/desenfriol-d-con-12-tabletas",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 412
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/desenfriol-d-2mg-5mg-500mg-con-12-tabletas-clorfenamina-fenilefrina-paracetamol",
+    "https://www.yza.mx/desenfriol-12-tabs/MXYZ_7502276040375.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (Desenfriol D 2 mg/5 mg/500 mg, caja con 12 tabletas). Bayer como fabricante se lee en el logotipo de la caja; la ficha de composición e indicación es de una farmacia en línea (no se abrió PLM ni página oficial). Se ignoró el \"162\" del nombre del sistema.",
+    "notas_imagenes": "2 fotos de tienda con el frente de la caja Desenfriol D, 12 tabletas (1000 px y 600 px originales).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

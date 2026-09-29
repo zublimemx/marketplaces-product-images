@@ -4,29 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "SUPRADOL 10 MG C 10 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Supradol Ketorolaco 10 mg 10 Tabletas",
+  "descripcion": "Descripción:\nSupradol es un medicamento de Laboratorios Liomont cuyo principio activo es el ketorolaco trometamina en tabletas de 10 mg. Es un analgésico no narcótico de administración oral.\n\nIndicaciones:\nEstá indicado en el tratamiento del dolor leve, moderado o intenso, como el postquirúrgico, en fracturas y luxaciones, cefaleas, migrañas, odontalgias, dismenorrea, quemaduras, dolor asociado al cáncer y neuralgias, entre otros. En los casos necesarios puede asociarse con analgésicos del tipo de la morfina y la meperidina, siempre bajo indicación médica.\n\nComposición:\nCada tableta contiene ketorolaco trometamina 10 mg. Excipiente cbp una tableta.\n\nPresentación:\nCaja con 10 tabletas de 10 mg. Vía de administración: oral. Registro sanitario 026M92 SSA IV. Conservar a temperatura ambiente controlada (15 a 30 °C).\n\nAdvertencias:\nVenta con receta médica. No exceda la dosis ni la duración del tratamiento indicadas por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Supradol",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Caja con 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ketorolaco trometamina",
+    "concentracion": "10 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "026M92 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; Analgésico no narcótico; Requiere receta médica; Almacenamiento 15 a 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299306352_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7002908/7501299306352_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/supradol-10-mg-caja-c-10-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "fecha": "2026-09-29",
+      "lado_util": 902
+    },
+    {
+      "archivo": "7501299306352_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299306352_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1279,
+      "fecha": "2026-09-29",
+      "lado_util": 1185
+    },
+    {
+      "archivo": "7501299306352_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299306352_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1451,
+      "fecha": "2026-09-29",
+      "lado_util": 1344
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos/5798-supradol-10-mg-caja-con-10-tabletas-7501299306352.html",
+    "https://www.farmatodo.com.mx/supradol-10-mg-caja-c-10-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No hay categoría rx de analgésicos; se sugiere musculoarticulares con receta (ketorolaco es un antiinflamatorio no esteroideo).",
+    "notas_imagenes": "3 fotos de tienda (farmacia en línea y CDN de Farmacias del Ahorro), de 974 a 1,451 px, caja de frente. Se descartaron dos duplicadas o con fondo gris.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

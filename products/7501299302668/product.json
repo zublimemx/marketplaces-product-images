@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "INHIBITRON DUAL 20 MG C 14",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Inhibitron Dual Omeprazol 20 mg 14 Cápsulas",
+  "descripcion": "Descripción:\nInhibitron Dual es un medicamento de Laboratorios Liomont cuyo principio activo es el omeprazol, un inhibidor de la bomba de protones. Actúa bloqueando de forma específica e irreversible la enzima H+/K+-ATPasa de las células parietales del estómago, con lo que reduce la secreción de ácido clorhídrico de manera sostenida y ayuda a aliviar síntomas como acidez, ardor y dolor epigástrico.\nEstá indicado en el tratamiento de los trastornos ácido-pépticos, como la enfermedad por reflujo gastroesofágico, la gastritis, la úlcera gástrica y la úlcera duodenal, y en la prevención de las lesiones gástricas inducidas por antiinflamatorios no esteroideos (AINE).\n\nComposición:\nCada cápsula contiene omeprazol 20 mg.\n\nModo de uso:\nVía oral. Se recomienda una cápsula al día, de preferencia por la mañana y en ayunas. No suspenda el tratamiento antes de lo indicado aunque los síntomas desaparezcan; la duración del tratamiento la define el médico.\n\nPresentación:\nCaja con 14 cápsulas de 20 mg, presentación Dual.\n\nAdvertencias:\nNo lo use si es alérgico al omeprazol o a los componentes de la fórmula. No se administre junto con clopidogrel, ya que puede reducir su efecto antiagregante. Durante el embarazo y la lactancia consulte a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Inhibitron",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Inhibitron",
+    "variante": "Dual",
+    "presentacion": "Caja con 14 cápsulas",
+    "contenido_neto": 14,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Omeprazol",
+    "concentracion": "20 mg por cápsula",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: cápsula; Inhibidor de la bomba de protones; Liomont lo lista entre sus productos de libre venta"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299302668_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20251210_230782.jpg",
+      "pagina": "https://farmaciasmedina.com/detalleProducto/Inhibitron-Dual-14-C%C3%A1psulas-Caja/7501299302668",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 861,
+      "fecha": "2026-09-29",
+      "lado_util": 798
+    }
+  ],
+  "url_oficial": "https://liomont.com.mx/es_mx/productos-de-libre-venta/",
+  "fuentes": [
+    "https://www.benavides.com.mx/inhibitron-dual-20-mg-14-cpsulas",
+    "https://farmaciasmedina.com/detalleProducto/Inhibitron-Dual-14-C%C3%A1psulas-Caja/7501299302668",
+    "https://liomont.com.mx/es_mx/productos-de-libre-venta/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "Presentación ambigua: las tiendas que traen este GTIN (Medina, Farmalisto, Farmapronto) dicen caja con 14 cápsulas, igual que el nombre del sistema; otras fichas 'Dual' y la foto guardada hablan de 28 cápsulas (14+14). Verificar en el empaque físico.",
+    "notas_imagenes": "1 foto de tienda (Benavides), 1000 px; la caja se lee como 'Dual' con 28 cápsulas, por eso se anotó la duda de presentación. La imagen de Medina se rechazó por chica (240x300).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "TERNURA 2 PZS CALENTADOR+BIBERON 9oz",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Calentador de Biberones Ternura Deluxe con Biberón 9 oz",
+  "descripcion": "Descripción:\nEl set Ternura Deluxe incluye un calentador eléctrico para biberones y papillas y un biberón de cuello ancho de 9 oz. El calentador sirve para biberones de cuello ancho y de cuello normal, y se puede conectar cerca de ti para calentar biberones o papillas con comodidad.\n\nCaracterísticas:\n- Calentador para biberones de cuello ancho o normal.\n- Temperatura regulable para evitar el sobrecalentamiento.\n- Sistema de seguridad de apagado automático.\n- Incluye 1 biberón de cuello ancho Deluxe de 9 oz, libre de BPA.\n- El biberón viene en distintos colores, sujeto a disponibilidad.\n- Contenido del empaque: 2 piezas (calentador y biberón).\n- Fabricado con una combinación de materiales.\n\nModo de uso:\nSiga las instrucciones impresas en el empaque para llenar el calentador con agua, colocar el biberón o el envase con papilla y regular la temperatura. Verifique siempre la temperatura del alimento antes de dárselo al bebé.\n\nPresentación:\nCaja con 1 calentador eléctrico para biberones y papillas y 1 biberón de cuello ancho de 9 oz.\n\nAdvertencias:\nÚsese siempre bajo la supervisión de un adulto. Mantenga el aparato y el cable fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Ternura",
+    "linea": "Deluxe",
+    "variante": "Calentador con biberón de cuello ancho 9 oz",
+    "presentacion": "Set de calentador y biberón",
+    "contenido_neto": 9,
+    "unidad_contenido": "oz",
+    "unidades_por_envase": 2,
+    "otros": "Contenido: 2 piezas (calentador eléctrico y 1 biberón de cuello ancho de 9 oz); Compatible con biberones de cuello ancho y normal; Temperatura regulable; Apagado automático; Libre de BPA; Color del biberón según disponibilidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM39990",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Calentadores de Biberones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,52 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501026423109_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77914613/7501026423109_01.jpg?v=639258723915500000",
+      "pagina": "https://www.chedraui.com.mx/calentador-para-biberones-bebe-ternura-3480102/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1042,
+      "fecha": "2026-09-29",
+      "lado_util": 965
+    },
+    {
+      "archivo": "7501026423109_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77914614/7501026423109_02.jpg?v=639258723916270000",
+      "pagina": "https://www.chedraui.com.mx/calentador-para-biberones-bebe-ternura-3480102/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1041,
+      "fecha": "2026-09-29",
+      "lado_util": 964
+    },
+    {
+      "archivo": "7501026423109_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vteximg.com.br/arquivos/ids/77914615/7501026423109_03.jpg?v=639258723917070000",
+      "pagina": "https://www.chedraui.com.mx/calentador-para-biberones-bebe-ternura-3480102/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1048,
+      "fecha": "2026-09-29",
+      "lado_util": 971
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/calentador-para-biberones-bebe-ternura-3480102/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Chedraui (Calentador para Biberones Bebé Ternura con biberón). El color del biberón varía. El modo de uso y las advertencias son generales; conviene contrastarlos con el instructivo de la caja.",
+    "notas_imagenes": "3 fotos de tienda (Chedraui) a más de 1000 px: caja frontal con biberón azul, morado y verde. Se descartó un collage de colores y dos fotos de los costados con texto.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

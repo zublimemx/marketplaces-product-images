@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "SYSTANE COMPLETE 10ML JUNIO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Systane Complete Gotas Oftálmicas Lubricantes 10 ml",
+  "descripcion": "Descripción:\nSystane Complete, de Alcon, son gotas oftálmicas lubricantes para hidratar y proteger todo tipo de ojo seco. Es una emulsión blanca estéril que combina nanopartículas lipídicas con hidroxipropilguar (HP-Guar) y propilenglicol, y ayuda a restaurar y estabilizar todas las capas de la película lagrimal para un alivio óptimo del ojo seco.\n\nBeneficios:\n- Lubrica e hidrata la superficie del ojo.\n- Con nanopartículas lipídicas para una mejor cobertura de la superficie ocular.\n- Protege todas las capas de la película lagrimal.\n- Frasco gotero de 10 ml.\n\nComposición:\nPropilenglicol, hidroxipropilguar, aceite mineral, dimiristoilfosfatidilglicerol, polioxil 40 estearato, sorbitan tristearato, ácido bórico, sorbitol, edetato de disodio, Polyquad (polyquaternium-1) 0.001% como conservador y agua purificada. Puede contener ácido clorhídrico y/o hidróxido de sodio para ajustar el pH.\n\nModo de uso:\nAplique 1 o 2 gotas en el ojo y parpadee.\n\nPresentación:\nCaja con frasco gotero con 10 ml.\n\nAdvertencias:\n- Uso oftálmico. No toque el ojo ni otras superficies con la punta del gotero y cierre el frasco después de usarlo.\n- Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento, cambios en la visión o irritación que persista.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Systane",
+    "fabricante": "Alcon",
+    "linea": "Complete",
+    "variante": "Gotas oftálmicas lubricantes",
+    "presentacion": "Caja con frasco gotero",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Propilenglicol, hidroxipropilguar",
+    "via_administracion": "Oftálmica",
+    "otros": "Forma farmacéutica: Emulsión oftálmica estéril; Conservador: Polyquad (polyquaternium-1) 0.001%; Formato de venta: Caja con 1 frasco"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "300650481779_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/0/3/0300650481779_1_1.jpg",
+      "pagina": "https://www.fahorro.com/systane-complete-lubricante-ocular-gotas-10-ml.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1038,
+      "fecha": "2026-09-29",
+      "lado_util": 962
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/systane-complete-lubricante-ocular-gotas-10-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 300650481779 (UPC de 12 dígitos; se consultó como 0300650481779) confirmado en una tienda en línea (Systane Complete 10 ml, imagen con ese código). Una cadena vende también \"Systane Complete SP\", que no se pudo abrir y podría ser otra versión; se usó la ficha de Systane Complete 10 ml. Composición y uso de esa ficha; las advertencias del frasco son las generales para gotas oftálmicas. Se ignoró el lote del nombre del sistema.",
+    "notas_imagenes": "1 foto de tienda con el frente de la caja Systane Complete 10 ml (Alcon), 1000 px originales.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

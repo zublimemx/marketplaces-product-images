@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "BICOESTOL LIMON C16 TABS 72",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Broncolin Bicoestol Sabor Limón 16 Pastillas",
+  "descripcion": "Descripción:\nBroncolin Bicoestol sabor limón es un remedio herbolario en pastillas para chupar, coadyuvante en el alivio de los síntomas del resfriado común, la tos y la garganta irritada. Combina extractos de eucalipto, gordolobo y sauco con mentol, propóleo y miel, en una pastilla de sabor limón que se disuelve lentamente en la boca. La caja contiene 16 pastillas.\n\nBeneficios:\n- Coadyuvante en el alivio de los síntomas de resfriado común, tos y garganta irritada.\n- Fórmula con extractos de eucalipto, gordolobo y sauco, más mentol, propóleo y miel.\n- Pastillas orales de disolución lenta, fáciles de llevar a cualquier lugar.\n- Presentación de 16 pastillas.\n\nComposición:\nExtractos de eucalipto (Eucalyptus globulus), gordolobo (Gnaphalium oxyphyllum) y sauco (Sambucus nigra); mentol; propóleo; miel; glucosa y sacarosa. Consulte en el empaque la lista completa de ingredientes.\n\nModo de uso:\nVía oral. Deje que la pastilla se disuelva lentamente en la boca; no la mastique ni la trague entera. Siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 16 pastillas sabor limón.\n\nAdvertencias:\nContiene azúcares y miel. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. No lo use si es alérgico a alguno de sus componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Broncolin",
+    "linea": "Bicoestol",
+    "variante": "Limón",
+    "presentacion": "Pastillas",
+    "contenido_neto": 16,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Extractos de eucalipto, gordolobo y sauco; mentol; propóleo",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Limón",
+    "registro_sanitario": "003RH2016 SSA (remedio herbolario)",
+    "otros": "Remedio herbolario; Pastilla de 2.5 g; Caja con 16 pastillas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "714706910890_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/1/714706910890_3.jpg",
+      "pagina": "https://www.fahorro.com/broncolin-bicoestol-sabor-limon-16-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1434,
+      "fecha": "2026-09-29",
+      "lado_util": 1328
+    }
+  ],
+  "url_oficial": "https://broncolin.com.mx/product/bicoestol-cereza/",
+  "fuentes": [
+    "https://broncolin.com.mx/product/bicoestol-cereza/",
+    "https://www.fahorro.com/broncolin-bicoestol-sabor-limon-16-pastillas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El sitio oficial de Broncolin solo muestra la versión Cereza; la composición del sabor Limón se tomó de esa ficha (misma línea Bicoestol) y de la etiqueta del empaque. Verificar ingredientes exactos en el empaque.",
+    "notas_imagenes": "1 foto(s): 714706910890_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

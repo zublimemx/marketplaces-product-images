@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "SILICA SEDA PURE 3N1 UVA 120 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Silica Seda Pure 3 en 1 Uva Tratamiento Capilar 120 ml",
+  "descripcion": "Descripción:\nSilica Seda Pure 3 en 1 aroma uva es un reparador intensivo para el cabello de la marca Seda Pure, en presentación de 120 ml. Está pensado para nutrir el cabello, dar brillo y protegerlo del calor de planchas y secadoras.\n\nBeneficios:\n- Reparador intensivo para cabello.\n- Protege el cabello de planchas y secadoras (termoprotector).\n- Su acción reparadora nutre el cabello desde la raíz.\n- Proporciona brillo, ayuda a desenredar y a corregir las puntas.\n- Efecto anti frizz.\n- Aroma uva.\n\nCaracterísticas:\nEl empaque destaca su fórmula vitaminada con keramidas y 12 óleos, en un frasco de 120 ml con tapa dosificadora.\n\nPresentación:\nFrasco de 120 ml.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Seda Pure",
+    "linea": "Silica",
+    "variante": "3 en 1 Uva",
+    "presentacion": "Frasco",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Uva",
+    "otros": "Tratamiento reparador; Termoprotector para planchas y secadoras; Anti frizz; Con keramidas y 12 óleos; Fórmula vitaminada"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM171894",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tratamientos para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502224510035_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502224510035_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1398,
+      "fecha": "2026-09-29",
+      "lado_util": 1295
+    },
+    {
+      "archivo": "7502224510035_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7502224510035-1.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/silica-seda-pure-fruit-uva-120-ml",
+      "ancho_original": 2362,
+      "alto_original": 2362,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    },
+    {
+      "archivo": "7502224510035_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6997138/7502224510035_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/seda-pure-silica-aroma-uva-frasco-c-120-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/seda-pure-silica-aroma-uva-frasco-c-120-ml/p",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/silica-seda-pure-fruit-uva-120-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontró modo de uso ni lista de ingredientes; se omitieron. El diseño del frasco cambia entre fotos (versión anterior vitaminada y versión nueva con keramidas y anti frizz) bajo el mismo GTIN.",
+    "notas_imagenes": "3 fotos de tienda (CDN de Farmacias del Ahorro, tienda departamental y farmacia en línea), de 972 a 2,000 px. Dos son de la versión anterior del frasco y una de la nueva.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

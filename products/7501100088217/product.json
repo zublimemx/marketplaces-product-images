@@ -4,14 +4,30 @@
   "linea": "Farma",
   "nombre_sistema": "TYLENOL GOTAS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylenol Pediátrico Paracetamol Suspensión 100 mg/ml 15 ml",
+  "descripcion": "Descripción:\nTylenol Pediátrico, conocido también como Tylenol gotas, es una suspensión oral de paracetamol para bebés y niños de 0 a 2 años. Es un auxiliar en el alivio de la fiebre y de los dolores menores asociados a gripe, resfriado común, dolor de cabeza, dentición, dolor de garganta, dolor de oídos y reacciones posteriores a la vacunación. No irrita el estómago y tiene un agradable sabor a frutas.\n\nBeneficios:\n- Baja temporalmente la fiebre\n- Alivia dolores menores por gripe, resfriado, dentición y dolor de garganta o de oídos\n- Auxiliar en las molestias posteriores a la vacunación\n- No irrita el estómago\n- Sabor a frutas que facilita su administración\n- Incluye pipeta dosificadora para medir con precisión cada dosis\n\nComposición:\nCada ml contiene paracetamol 100 mg en vehículo.\n\nModo de uso:\nVía oral. Use únicamente la pipeta dosificadora incluida y administre cada 4 a 6 horas, sin exceder 5 dosis en 24 horas ni usarlo por más de 5 días sin consultar al médico. La dosis depende del peso y la edad; como referencia, la ficha del fabricante indica 0.4 ml en bebés de 3 a 4 kg (hasta 3 meses) y hasta 1.7 ml en niños de 12.1 a 15 kg (18 a 24 meses).\n\nPresentación:\nCaja con frasco de 15 ml y pipeta dosificadora. Elaborado por Kenvue.\n\nAdvertencias:\n- Una sobredosis o el uso junto con otros medicamentos que contengan paracetamol puede causar daño grave al hígado\n- Puede causar reacciones alérgicas en la piel; suspenda su uso si aparecen\n- No lo use si es alérgico al paracetamol o si hay enfermedad del hígado\n- Consulte al médico si el dolor dura más de 5 días o la fiebre más de 3 días\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylenol",
+    "fabricante": "Kenvue",
+    "linea": "Tylenol Pediátrico",
+    "variante": "Suspensión oral (gotas) sabor frutas",
+    "presentacion": "Caja con frasco de 15 ml y pipeta dosificadora",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol",
+    "concentracion": "100 mg/ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Bebés y niños de 0 a 2 años",
+    "sabor_aroma": "Frutas",
+    "registro_sanitario": "508M97 SSA VI",
+    "otros": "Forma farmacéutica: suspensión oral; Grupo terapéutico: analgésico y antipirético; Venta libre; Incluye pipeta dosificadora"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +35,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501100088217_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/1TWQYbIFHvJtwUOq7WrZf5/8ad3cb82783edc906f8b8e6cd2a5c1e9/tylenol-pediatrico-980-x-980-px-1-es-mx?w=980&fm=jpg",
+      "pagina": "https://www.tylenol.com.mx/productos/tylenol-pediatrico",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 992,
+      "fecha": "2026-09-29",
+      "lado_util": 919
+    },
+    {
+      "archivo": "7501100088217_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/xbs1pt11YhqqSjqReso59/f6f3d9ac15409b4b3a8a23381679d92d/tylenol-pediatrico-980-x-980-px-2-es-mx?w=980&fm=jpg",
+      "pagina": "https://www.tylenol.com.mx/productos/tylenol-pediatrico",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 993,
+      "fecha": "2026-09-29",
+      "lado_util": 920
+    },
+    {
+      "archivo": "7501100088217_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://images.ctfassets.net/g574hlexgjps/3WCbRjSC42fDnqLhqjEeaw/663bebecd6147613aa22c220d100a68f/tylenol-pediatrico-980-x-980-px-3-es-mx?w=980&fm=jpg",
+      "pagina": "https://www.tylenol.com.mx/productos/tylenol-pediatrico",
+      "ancho_original": 980,
+      "alto_original": 980,
+      "lado_final": 941,
+      "fecha": "2026-09-29",
+      "lado_util": 872
+    }
+  ],
+  "url_oficial": "https://www.tylenol.com.mx/productos/tylenol-pediatrico",
+  "fuentes": [
+    "https://www.tylenol.com.mx/productos/tylenol-pediatrico",
+    "https://www.tylenol.com.mx/productos/tylenol-infantil"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La búsqueda web solo devolvió páginas de Brasil. El producto se identificó en la página oficial de Tylenol México: 'Tylenol gotas' corresponde a Tylenol Pediátrico (paracetamol 100 mg/ml, frasco de 15 ml con pipeta), y las imágenes de tienda nombradas con el GTIN 7501100088217 muestran esa misma caja. No es el Tylenol Infantil de 120 ml.",
+    "notas_imagenes": "3 fotos oficiales del fabricante (caja de Tylenol Pediátrico 15 ml, 941 a 993 px) de la página de Tylenol México. Se descartó una foto de tienda con un rótulo promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

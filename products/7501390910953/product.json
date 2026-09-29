@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "HEMAMINA AD SOL C 10 AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hemamina Adulto Solución Oral 10 Ampolletas de 10 ml",
+  "descripcion": "Descripción:\nHemamina es un suplemento alimenticio en solución oral para adultos, elaborado con extracto de hígado y vitaminas del complejo B. Se presenta en una caja con 10 ampolletas de 10 ml cada una, listas para beberse, y es elaborado por Italmex.\n\nComposición:\nCada ampolleta de 10 ml contiene extracto de hígado y vitaminas del complejo B en las siguientes cantidades.\n- Vitamina B1 (tiamina): 3.29 mg\n- Vitamina B2 (riboflavina): 2.30 mg\n- Vitamina B12 (cianocobalamina): 11 µg\nContiene además agua, azúcar, etanol, sorbitol, colorante caramelo y otros excipientes.\n\nCaracterísticas:\n- Suplemento alimenticio con vitaminas del complejo B.\n- Formato en ampolletas individuales de 10 ml, prácticas para llevar.\n- Para uso en adultos.\n- Caja con 10 ampolletas, que alcanza para 10 días con la porción diaria.\n\nModo de uso:\nAdultos: abra la ampolleta y tome el contenido una vez al día. Deseche el sobrante si lo hubiera.\n\nPresentación:\nCaja con 10 ampolletas de 10 ml de solución oral.\n\nAdvertencias:\nEste producto es un suplemento alimenticio y no es un medicamento. No exceda la porción diaria recomendada. Las personas con diabetes o intolerancia a la fructosa o al sorbitol deben consultar a su médico antes de consumirlo, ya que contiene azúcar y sorbitol. Manténgase fuera del alcance de los niños. Consulte a su médico.",
+  "ficha": {
+    "marca": "Hemamina",
+    "fabricante": "Italmex",
+    "variante": "Adulto",
+    "presentacion": "Solución oral en ampolletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Extracto de hígado, tiamina, riboflavina y cianocobalamina",
+    "concentracion": "Por ampolleta de 10 ml: B1 3.29 mg; B2 2.30 mg; B12 11 µg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Suplemento alimenticio; Dosis: 1 ampolleta al día; Cada ampolleta de 10 ml"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM34703956"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390910953_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw31cc109a/images/large/7501390910953_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/hemamina-solucion-10-amp-/MXYZ_7501390910953.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1620,
+      "fecha": "2026-09-29",
+      "lado_util": 1500
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/hemamina.solucion.oral/83/101/7997/174",
+    "https://www.yza.mx/hemamina-solucion-10-amp-/MXYZ_7501390910953.html",
+    "https://www.fahorro.com/hemamina-suplemento-alimenticio-10-ampolletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmalisto y yza.mx (Hemamina solución 10 ampolletas de 10 ml). La composición vitamínica viene de la ficha PLM de Hemamina solución oral. Catálogo de Mercado Libre tomado de un resultado de búsqueda con la misma presentación; no se pudo abrir la página.",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1600 px: caja frontal de Hemamina solución oral con 10 ampolletas de 10 ml.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

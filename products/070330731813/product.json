@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "BIC SOLEIL 3 COLOR COLLECTION 12 PZS OFERTA 20%",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Rastrillos Bic Soleil Color Collection 3 Hojas 12 Piezas",
+  "descripcion": "Descripción:\nRastrillos desechables para mujer BIC Soleil de la línea Color Collection, en paquete con 12 piezas de colores surtidos. Cada rastrillo cuenta con tres hojas de acero inoxidable diseñadas para lograr un afeitado preciso y al ras, y con un mango ergonómico pensado para ofrecer un agarre cómodo durante el afeitado.\n\nCaracterísticas:\n- Tres hojas de acero inoxidable para un afeitado preciso y al ras\n- Banda lubricante que favorece el deslizamiento de las hojas sobre la piel\n- Mango ergonómico diseñado para mujer\n- Colores surtidos; el color de cada pieza puede variar\n- Rastrillo desechable, listo para usar\n\nPresentación:\nPaquete con 12 rastrillos desechables.\n\nAdvertencias:\nUso externo. Manténgase fuera del alcance de los niños. No lo use sobre piel irritada, lastimada o con heridas, y reemplace el rastrillo cuando las hojas pierdan filo o se dañen.",
+  "ficha": {
+    "marca": "BIC",
+    "fabricante": "BIC",
+    "linea": "Soleil",
+    "variante": "Color Collection",
+    "presentacion": "Paquete con 12 rastrillos desechables",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "genero": "Mujer",
+    "otros": "Hojas: 3 de acero inoxidable; Banda lubricante; Mango ergonómico; Colores surtidos; Tipo: desechable"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194011",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Rasuradoras Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +32,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/bic-rastrillo-soleil-color-collection-4-piezas.html",
+    "https://www.chedraui.com.mx/rastrillo-bic-soleil-color-collection-3-hojas-de-acero-inoxidable-4-piezas-3320337/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "Solo se encontraron fichas de la misma línea en presentaciones de 4 y 10 piezas; la presentación de 12 piezas proviene del nombre del sistema y no se confirmó el GTIN. Se ignoró 'OFERTA 20%'.",
+    "notas_imagenes": "Sin fotos: no se encontró ninguna foto de la presentación de 12 piezas (solo de 4 piezas, con otro GTIN, que se descartó). Amazon y Mercado Libre bloquean el acceso.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

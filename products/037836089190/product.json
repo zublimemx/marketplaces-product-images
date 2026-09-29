@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "SH RICITOS DE ORO DUOPACK LAV Y LECH 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Bebé Ricitos de Oro Lavanda y Lechuga 2 x 400 ml",
+  "descripcion": "Descripción:\nDuopack de shampoo para bebé Ricitos de Oro Lavanda y Lechuga, con 2 frascos de 400 ml (800 ml en total). Está formulado a base de extracto natural de lavanda, lechuga y manzanilla, especialmente para el delicado cabello del bebé, al que da brillo y sedosidad. Su aroma relajante lo hace ideal para usar antes de dormir. Es suave e hipoalergénico, por lo que se recomienda para uso diario.\n\nBeneficios:\n- Formulado con extractos naturales de lavanda, lechuga y manzanilla\n- Aroma relajante, ideal para la rutina antes de dormir\n- Da brillo y sedosidad al cabello del bebé\n- Suave e hipoalergénico, recomendado para uso diario\n- Práctico duopack que rinde más y permite tener repuesto\n\nIngredientes:\nAgua, laureth sulfato de sodio, lauramidopropil betaína, glicerina, extractos de lechuga (Lactuca sativa), lavanda (Lavandula angustifolia) y manzanilla (Chamomilla recutita), entre otros ingredientes. Consulte la lista completa en el empaque.\n\nModo de uso:\nAplique una pequeña cantidad de shampoo sobre el cabello húmedo del bebé, dé un suave masaje hasta obtener suficiente espuma y enjuague con agua tibia.\n\nPresentación:\nDuopack con 2 frascos de 400 ml cada uno (800 ml en total). Elaborado por Grisi Hnos.\n\nAdvertencias:\nUso externo. En caso de alguna reacción, suspenda su uso y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Ricitos de Oro",
+    "fabricante": "Grisi Hnos.",
+    "linea": "Ricitos de Oro Baby Shampoo",
+    "variante": "Lavanda y Lechuga, aroma relajante, duopack",
+    "presentacion": "Duopack con 2 frascos de 400 ml",
+    "contenido_neto": 800,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 2,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Cabello delicado de bebé",
+    "sabor_aroma": "Lavanda y lechuga (aroma relajante)",
+    "otros": "Formato de venta: duopack de 2 frascos de 400 ml; Hipoalergénico; Ingredientes destacados: extractos de lavanda, lechuga y manzanilla"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194228",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "037836089190_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00003783608919L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 977,
+      "fecha": "2026-09-29",
+      "lado_util": 905
+    },
+    {
+      "archivo": "037836089190_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00003783608919L2.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 972,
+      "fecha": "2026-09-29",
+      "lado_util": 900
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/shampoo-ricitos-de-oro-lavanda-y-lechuga-aroma-relajante-400-ml/00750102213301",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/shampo-lavanda-ricitos-de-oro-400-ml",
+    "https://www.heb.com.mx/ricitos-de-oro-duopack-sh--ro-manzanilla-duopack-sh--ro-manzan-400-ml-853028/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 037836089190 no apareció en texto de ninguna página. El duopack de lavanda y lechuga (2 x 400 ml, 800 ml) se identificó por el nombre y por la foto de una tienda cuyo código corresponde al GTIN. Descripción tomada de la ficha del frasco individual de 400 ml y de la etiqueta trasera del duopack (fabricante Grisi Hnos., lista de ingredientes solo parcialmente legible).",
+    "notas_imagenes": "2 fotos del duopack (frente y reverso, 972 y 977 px) de una tienda; la base del empaque trae impresa la leyenda 'Precio especial', que forma parte del empaque de venta.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

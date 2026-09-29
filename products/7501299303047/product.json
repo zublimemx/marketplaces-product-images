@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "CICLOFERON BCO 2GR CREM AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cicloferon Crema Aciclovir 5% Tubo 2 g",
+  "descripcion": "Descripción:\nCicloferon es una crema antiviral con aciclovir al 5% para el tratamiento del fuego labial, es decir, las lesiones en la piel causadas por el virus del herpes simple. Es elaborada por Laboratorios Liomont y se presenta en una caja de cartón con un tubo de 2 g, en crema sin color.\n\nBeneficios:\n- Previene la aparición del fuego labial si se aplica en los primeros síntomas.\n- Detiene la multiplicación del virus gracias a su fórmula.\n- Alivia y acelera la curación de la lesión.\n- Antiviral en crema de uso tópico.\n\nComposición:\nCada gramo de crema contiene aciclovir al 5%.\n\nModo de uso:\nUso externo. Lávese las manos y aplique una capa delgada sobre la zona afectada, aproximadamente 5 veces al día, cada 4 horas, siguiendo las indicaciones del empaque. Inicie la aplicación desde los primeros síntomas y lávese las manos después de cada aplicación.\n\nPresentación:\nCaja con 1 tubo de 2 g de crema al 5%.\n\nAdvertencias:\nSolo para uso externo en piel; evite el contacto con los ojos. Suspenda su uso y consulte a su médico si aparece irritación o si las molestias persisten. No se automedique. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cicloferon",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Crema en tubo",
+    "contenido_neto": 2,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Aciclovir",
+    "concentracion": "5%",
+    "via_administracion": "Tópica",
+    "otros": "Crema sin color; Uso externo; Caja de cartón con tubo de 2 g"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299303047_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299303047_3.jpg",
+      "pagina": "https://www.fahorro.com/cicloferon-5-crema-2-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1620,
+      "fecha": "2026-09-29",
+      "lado_util": 1500
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/crema-cicloferon-5-tubo-de-2g-3026404/p",
+    "https://www.benavides.com.mx/cicloferon-5-aciclovir-crema-para-fuegos-2-g",
+    "https://www.fahorro.com/cicloferon-5-crema-2-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Chedraui (Crema Cicloferon 5% tubo de 2 g). 'BCO' del nombre del sistema corresponde a la versión sin color (existe otra versión color piel con otro código). Se marcó sin receta porque se anuncia al público como crema para fuegos; puede revisarse.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro) a 1600 px: caja frontal de Cicloferon crema para fuegos, sin color, tubo de 2 g.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "PANOTO S JBE 200ML 20",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Panoto-S Jarabe Hedera Helix 0.7 g/100 ml 200 ml",
+  "descripcion": "Descripción:\nPanoto-S es un medicamento herbolario en jarabe elaborado con extracto seco de hoja de Hedera helix (hiedra). Se utiliza como auxiliar en procesos agudos y crónicos de enfermedades inflamatorias de las vías respiratorias superiores acompañadas de tos y aumento en la producción de moco. El empaque lo identifica como mucolítico, espasmolítico y para aliviar la tos.\n\nComposición:\nCada 100 ml contienen 0.7 g de extracto seco de hoja de Hedera helix (hiedra), con vehículo cbp 100 ml.\n\nModo de uso:\nVía oral.\n- Niños de 2 a 6 años: 2.5 ml, 3 veces al día.\n- Niños de 6 a 12 años: 5 ml, 3 veces al día.\n- Adultos y niños mayores de 12 años: de 5 ml a 7.5 ml, 3 veces al día.\nLa duración del tratamiento depende del tipo y la gravedad del cuadro clínico; en inflamaciones menores del tracto respiratorio debe durar como mínimo una semana. Para la tos, el tratamiento se mantiene de 2 a 3 días después de que los síntomas hayan disminuido.\n\nPresentación:\nCaja con un frasco de 200 ml y vaso graduado.\n\nAdvertencias:\nNo usar si es hipersensible a los componentes de la fórmula, si es intolerante a la fructosa o si se encuentra en estado de embarazo o lactancia. En caso de malestares persistentes o de aparición de insuficiencia respiratoria, fiebre o expectoración purulenta o con sangre, consulte a un médico de inmediato. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Panoto-S",
+    "linea": "Jarabe Hedera helix",
+    "presentacion": "Jarabe con vaso graduado",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hedera helix (extracto seco de hoja)",
+    "concentracion": "0.7 g por 100 ml",
+    "via_administracion": "Oral",
+    "otros": "Medicamento herbolario; Mucolítico y espasmolítico según el empaque"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "4104480706196_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwcd6b5a0e/images/large/4104480706196_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/panoto-s-200-ml---frasco-con-jarabe-hedera-helix/MXYZ_4104480706196.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1359,
+      "fecha": "2026-09-29",
+      "lado_util": 1257
+    },
+    {
+      "archivo": "4104480706196_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw10a996f4/images/large/4104480706196_2.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/panoto-s-200-ml---frasco-con-jarabe-hedera-helix/MXYZ_4104480706196.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1366,
+      "fecha": "2026-09-29",
+      "lado_util": 1265
+    },
+    {
+      "archivo": "4104480706196_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw89ca8cb1/images/large/4104480706196_7.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/panoto-s-200-ml---frasco-con-jarabe-hedera-helix/MXYZ_4104480706196.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1359,
+      "fecha": "2026-09-29",
+      "lado_util": 1259
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/panoto-s-oral-jarabe-200-ml.html",
+    "https://www.yza.mx/panoto-s-200-ml---frasco-con-jarabe-hedera-helix/MXYZ_4104480706196.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en Farmacias del Ahorro y yza.mx. La fórmula, la dosis y las advertencias se leyeron del costado del empaque fotografiado. No se identificó el laboratorio con certeza, por eso no se incluyó fabricante.",
+    "notas_imagenes": "3 fotos de tienda (yza.mx) a más de 1300 px: caja frontal, costado con fórmula y dosis, y caja en ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

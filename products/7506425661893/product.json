@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "MOVILASTIC XJ 6 C40 4",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales KleenBebé Movilastic Etapa 6 XJ Unisex 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables KleenBebé Movilastic Etapa 6, talla Extra Jumbo (XJ), unisex, en paquete de 40 piezas. Son pañales autoajustables con protección total por todos lados, pensados para bebés en movimiento, con divertidos diseños de Bluey en el empaque y en el pañal.\n\nCaracterísticas:\n- Pañal autoajustable, fácil de poner, quitar y desechar.\n- Protección por todos lados para acompañar el movimiento del bebé.\n- Etapa 6, talla Extra Jumbo (XJ), para bebés de aproximadamente 13.5 a 17 kg.\n- Unisex.\n- Paquete con 40 pañales.\n\nPresentación:\n1 paquete con 40 pañales desechables etapa 6 XJ.\n\nAdvertencias:\nDe acuerdo con lo recomendado por los pediatras, lo ideal es cambiar el pañal en cada descarga del bebé para evitar lastimar su piel. Mantenga los pañales fuera del alcance de los niños y deseche el producto usado en la basura, nunca en el inodoro.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "linea": "Movilastic",
+    "variante": "Extra Jumbo Unisex",
+    "presentacion": "Paquete de pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 6",
+    "talla": "Extra Jumbo (XJ)",
+    "genero": "Unisex",
+    "otros": "Peso del bebé: 13.5 a 17 kg; Pañal autoajustable; Diseños de Bluey"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425661893_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/332728/332728_01.webp?v=d258da15",
+      "pagina": "https://www.heb.com.mx/panales-movilastic-xjumbo-con-40-pz-683079/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 710,
+      "fecha": "2026-09-29",
+      "lado_util": 658
+    },
+    {
+      "archivo": "7506425661893_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/332728/332728_02.webp?v=c594aec3",
+      "pagina": "https://www.heb.com.mx/panales-movilastic-xjumbo-con-40-pz-683079/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 703,
+      "fecha": "2026-09-29",
+      "lado_util": 651
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/panales-movilastic-xjumbo-con-40-pz-683079/p",
+    "https://farmaciasbazar.com/productos/panal-kleen-bebe-movilastic-157355/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN aparece en la página de HEB y en la de Farmacias Bazar. El peso recomendado se tomó del empaque (13.5 a 17 kg); una tienda indica 13 a 18 kg.",
+    "notas_imagenes": "2 fotos de tienda (HEB): paquete de frente y paquete en ángulo. Se descartaron dos infografías con texto promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

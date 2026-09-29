@@ -5,13 +5,13 @@
   "nombre_sistema": "ARNICA MONTANA PAQ C 10",
   "nombres_sistema_alternos": [],
   "titulo": "Árnica Montana Paquete con 10 Piezas",
-  "descripcion": "Descripción:\nProducto a base de Arnica montana en presentación de paquete con 10 piezas. La información disponible sobre este artículo es limitada: consulte la etiqueta del empaque para conocer la forma farmacéutica, la concentración, el modo de uso y las indicaciones que declara el fabricante.\n\nPresentación:\nPaquete con 10 piezas.\n\nAdvertencias:\nConsulte la etiqueta del empaque antes de usar el producto. Si usted está embarazada o en lactancia, o si tiene alguna enfermedad o toma otros medicamentos, consulte a su médico antes de utilizarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nProducto a base de Arnica montana en presentación de paquete con 10 piezas. Arnica montana es el nombre científico de la árnica, una planta herbácea de flores amarillas de la familia de las asteráceas que se emplea desde hace mucho tiempo en productos de uso tradicional y en preparaciones homeopáticas. La información disponible sobre este artículo es limitada: consulte la etiqueta del empaque para conocer la forma farmacéutica, la concentración, el modo de uso y las indicaciones que declara el fabricante.\n\nComposición:\nArnica montana. Consulte en el empaque la concentración o dilución y los demás componentes.\n\nPresentación:\nPaquete con 10 piezas.\n\nAdvertencias:\n- Consulte la etiqueta del empaque antes de usar el producto.\n- Si usted está embarazada o en lactancia, o si tiene alguna enfermedad o toma otros medicamentos, consulte a su médico antes de utilizarlo.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Arnica Montana",
     "principio_activo": "Arnica montana",
     "presentacion": "Paquete",
     "unidades_por_envase": 10,
-    "otros": "Formato de venta: Paquete con 10 piezas"
+    "otros": "Formato de venta: Paquete con 10 piezas; Forma farmacéutica, concentración y fabricante por confirmar en el empaque"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -32,9 +32,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda con el GTIN 7501152111307 solo devolvió árnica de otras marcas (Boiron en pellets, cápsulas, gel); ninguna ficha confirma este código. Se desconocen fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional (Otros Medicamentos). Receta \"No\" por el principio activo, no por la presentación.",
-    "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada, las imágenes de árnica de otras marcas no representan este producto y los sondeos directos por GTIN dieron 404.",
+    "notas": "La búsqueda con el GTIN 7501152111307 solo devolvió árnica de otras marcas (Boiron en pellets, entre otras) y listados genéricos; ninguna ficha confirma este código y la página del distribuidor por GTIN dio 404. Se desconocen fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional (Otros Medicamentos). Receta \"No\" por el principio activo, no por la presentación.",
+    "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada y las imágenes de árnica de otras marcas no representan este producto.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

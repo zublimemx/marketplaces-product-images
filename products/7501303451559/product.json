@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "ANGELIQ T 28 1MG 2MG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Angeliq 1 mg/2 mg 28 Comprimidos Estradiol Drospirenona",
+  "descripcion": "Descripción:\nAngeliq es un medicamento de terapia hormonal de reemplazo de Bayer, en comprimidos, que combina estradiol (1 mg) y drospirenona (2 mg). De acuerdo con la información de referencia, se indica para el tratamiento de los síntomas de la menopausia, como los síntomas vasomotores y la atrofia urogenital, y para la prevención de la osteoporosis posmenopáusica.\n\nComposición:\nCada comprimido contiene estradiol (como hemihidrato) 1 mg y drospirenona 2 mg.\n\nModo de uso:\nVía oral. Se toma un comprimido una vez al día, de forma continua y sin interrupción entre una caja de 28 días y la siguiente, a criterio y bajo supervisión del médico.\n\nPresentación:\nCaja con 28 comprimidos.\n\nAdvertencias:\nMedicamento de venta con receta médica. Puede aumentar el riesgo de coágulos, cáncer de mama y accidente cerebrovascular; requiere vigilancia médica periódica, en especial de las mamas, el endometrio y la presión arterial. No debe usarse en caso de sangrado vaginal anormal sin diagnóstico, cáncer de mama sospechado o confirmado, enfermedad grave del hígado o del riñón, trombosis activa, embarazo o lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Angeliq",
+    "fabricante": "Bayer",
+    "presentacion": "Caja con 28 comprimidos",
+    "contenido_neto": 28,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 28,
+    "principio_activo": "Estradiol, Drospirenona",
+    "concentracion": "1 mg/2 mg",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Forma farmacéutica: comprimido recubierto; Terapia hormonal de reemplazo; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501303451559_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501303451559.jpg",
+      "pagina": "https://www.fahorro.com/angeliq-1-mg-2-mg-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1124,
+      "fecha": "2026-09-29",
+      "lado_util": 1041
+    },
+    {
+      "archivo": "7501303451559_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501303451559_1.jpg",
+      "pagina": "https://www.fahorro.com/angeliq-1-mg-2-mg-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1121,
+      "fecha": "2026-09-29",
+      "lado_util": 1038
+    },
+    {
+      "archivo": "7501303451559_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501303451559_2.jpg",
+      "pagina": "https://www.fahorro.com/angeliq-1-mg-2-mg-28-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 841,
+      "fecha": "2026-09-29",
+      "lado_util": 779
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/angeliq.comprimidos/22/101/6323/25",
+    "https://www.fahorro.com/angeliq-1-mg-2-mg-28-tabs.html",
+    "https://www.farmaciasguadalajara.com/medicina/hormonales/angeliq-1mg-2mg--28-comprimidos.-975940.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'T 28'; corresponde a la caja de 28 comprimidos. Registro sanitario visible en el empaque pero ilegible en la foto; no se anotó.",
+    "notas_imagenes": "3 fotos de tienda (frente, reverso con fórmula y vista en ángulo, entre 841 y 1556 px); se borró una gráfica repetida.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

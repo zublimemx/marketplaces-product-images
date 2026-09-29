@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "LOC LIMP PONDS CLARANT B3 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Loción Limpiadora Pond's Clarant B3 Desmaquillante 200 ml",
+  "descripcion": "Descripción:\nLa Loción Limpiadora Pond's Clarant B3 es un desmaquillante dual (bifásico) que combina una fase oleosa y una fase acuosa para retirar el maquillaje del rostro y de los ojos y dejar la piel limpia y libre de impurezas. Está formulada con niacinamida (vitamina B3) y es adecuada para todo tipo de piel.\n\nBeneficios:\n- Elimina todo tipo de maquillaje.\n- Apta para todos los tipos de piel.\n- Probada dermatológica y oftalmológicamente.\n- Deja la piel limpia y libre de impurezas.\n\nComposición:\nFase oleosa: Cyclopentasiloxane, Dimethicone, extracto de Gossypium Herbaceum (algodón) y Glycerin. Fase acuosa: agua, Niacinamide (vitamina B3), extracto de miel y Benzalkonium Chloride. Se enlistan los ingredientes principales según el fabricante.\n\nModo de uso:\nAgite suavemente el frasco hasta mezclar ambas fases. Aplique sobre un algodón y páselo por el rostro y los ojos hasta retirar el maquillaje y las impurezas.\n\nPresentación:\nFrasco de 200 ml.",
+  "ficha": {
+    "marca": "Pond's",
+    "fabricante": "Unilever",
+    "linea": "Clarant B3",
+    "variante": "Loción limpiadora desmaquillante dual",
+    "presentacion": "Frasco de 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Formato: loción bifásica; Probada dermatológica y oftalmológicamente"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM179203",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Limpieza Facial > Desmaquillantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501056346270_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056346270-1.jpg?h=1400",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/locion-limpiadora-clarant-b3-dual-pondss-200-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1026,
+      "fecha": "2026-09-29",
+      "lado_util": 950
+    }
+  ],
+  "url_oficial": "https://www.ponds.com/mx/p/locion-limpiadora-clarant-b3-dual.html/07501056346270",
+  "fuentes": [
+    "https://www.ponds.com/mx/p/locion-limpiadora-clarant-b3-dual.html/07501056346270",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/locion-limpiadora-clarant-b3-dual-pondss-200-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1000 px), frente del frasco de 200 ml. La imagen del sitio oficial (assets de Unilever) no pudo descargarse con el script por bloqueo 403.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

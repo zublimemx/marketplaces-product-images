@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM SUAVELASTIC PACK3 DURAZNO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas KleenBebé Suavelastic Durazno 300 Piezas",
+  "descripcion": "Descripción:\nAhorrapack de toallitas húmedas KleenBebé Suavelastic con aroma a durazno, con 3 paquetes de 100 toallitas cada uno para un total de 300 piezas. Están pensadas para mantener la piel del bebé limpia y sin irritaciones con el uso diario, con la promesa de la marca \"piel limpia = piel sana\".\n\nBeneficios:\n- Ideales para la limpieza en cada cambio de pañal\n- También sirven para limpiar manos y cara del bebé después de comer\n- Formuladas para pieles sensibles, para ayudar a evitar irritaciones\n- Textura suave y resistente para una limpieza cómoda\n- Aroma a durazno\n- Paquetes con tapa para conservar la humedad de las toallitas entre usos\n- Formato de tres paquetes que rinde más y permite tener repuesto en casa, en la pañalera o en el auto\n\nModo de uso:\nAbra la tapa, extraiga una toallita y límpie suavemente la zona deseada. Deseche la toallita en el bote de basura; no la tire al inodoro. Cierre bien la tapa después de cada uso para evitar que se sequen.\n\nPresentación:\nAhorrapack con 3 paquetes de 100 toallitas húmedas cada uno (300 piezas en total). Marca KleenBebé, línea Suavelastic, aroma a durazno.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños y no deje al bebé sin supervisión durante el cambio de pañal.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Suavelastic",
+    "variante": "Ahorrapack aroma a durazno",
+    "presentacion": "3 paquetes de 100 toallitas",
+    "contenido_neto": 300,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 3,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel sensible",
+    "sabor_aroma": "Durazno",
+    "otros": "Formato de venta: ahorrapack de 3 paquetes; Piezas por paquete: 100; Paquete con tapa"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425637621_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750642563762L.jpg",
+      "pagina": "https://www.walmart.com.mx/ip/toallas-humedas-kleenbebe-suavelastic-tripack-durazno-300-pzas/00750642563762",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 951,
+      "fecha": "2026-09-29",
+      "lado_util": 881
+    },
+    {
+      "archivo": "7506425637621_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750642563762L1.jpg",
+      "pagina": "https://www.walmart.com.mx/ip/toallas-humedas-kleenbebe-suavelastic-tripack-durazno-300-pzas/00750642563762",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 945,
+      "fecha": "2026-09-29",
+      "lado_util": 872
+    },
+    {
+      "archivo": "7506425637621_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750642563762L2.jpg",
+      "pagina": "https://www.walmart.com.mx/ip/toallas-humedas-kleenbebe-suavelastic-tripack-durazno-300-pzas/00750642563762",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 951,
+      "fecha": "2026-09-29",
+      "lado_util": 881
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/toallas-humedas-kleenbebe-suavelastic-tripack-durazno-300-pzas/00750642563762",
+    "https://alsuper.com/producto/3-pack-toallitas-humedas-445137",
+    "https://www.chedraui.com.mx/toallas-humedas-kleenbebe-suavelastic-durazno-3-pack-3879063/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Identificado por el código de la tienda, que coincide con el GTIN, y por la foto del empaque (Ahorrapack 300 toallitas, aroma a durazno). Las fichas no traen ingredientes; el modo de uso y las advertencias son genéricos de toallitas húmedas. El fabricante se dedujo de la marca KleenBebé.",
+    "notas_imagenes": "3 fotos del Ahorrapack durazno 300 toallitas (frente, tres cuartos y lateral, 945 a 951 px) de la ficha de Walmart. Se descartó una foto de otro Ahorrapack (324 toallitas, frutos verdes).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ACC 200MG C20 TABS EFER",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "ACC 200 mg Acetilcisteína 20 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nACC 200 mg son tabletas efervescentes con acetilcisteína, un expectorante para el alivio de la tos con flemas. Es útil en irritaciones menores de garganta y bronquios con aumento en la producción de mucosidad. Lo elabora Sandoz y se presenta en caja con un tubo de 20 tabletas efervescentes.\n\nComposición:\nCada tableta efervescente contiene 200 mg de acetilcisteína, con excipientes cbp.\n\nModo de uso:\nVía oral. Disuelva la tableta en un vaso de agua antes de tomarla.\n- Adultos y adolescentes de 14 años en adelante: 1 tableta de 200 mg, 3 veces al día.\n- Niños de 6 a 14 años: 1 tableta de 200 mg, 2 veces al día.\nNo lo use por más de 4 a 5 días sin consejo médico.\n\nPresentación:\nCaja con tubo de 20 tabletas efervescentes de 200 mg.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a la acetilcisteína, úlcera péptica activa ni en menores de 2 años. Contiene lactosa: no lo use si tiene intolerancia a la lactosa. Use con precaución si tiene asma bronquial o antecedentes de úlcera. Puede aumentar el volumen de las secreciones bronquiales. Pueden presentarse náuseas, vómito, diarrea, dolor abdominal o urticaria; de manera muy rara, reacciones cutáneas graves o alérgicas. Consulte a su médico si tiene problemas del hígado o del riñón. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "ACC",
+    "fabricante": "Sandoz",
+    "presentacion": "Tabletas efervescentes en tubo",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Acetilcisteína",
+    "concentracion": "200 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Expectorante; Tabletas efervescentes"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502216931220_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc4602290/images/large/7502216931220_1.jpg?sw=1500&sh=1500",
+      "pagina": "https://www.yza.mx/acc-efervescentes-200mg-20-tabs/MXYZ_7502216931220.html",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1298,
+      "fecha": "2026-09-29",
+      "lado_util": 1202
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/acc-tabletas-efervescentes/159/101/6088/218",
+    "https://www.yza.mx/acc-efervescentes-200mg-20-tabs/MXYZ_7502216931220.html",
+    "https://farmalisto.com.mx/gripe-y-tos/7572-comprar-acc-200-mg-caja-con-tubo-con-20-tabletas-efervescentes-precio-7502216931220.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en yza.mx y Farmalisto. La ficha PLM marca literatura para médicos, pero el producto se vende en farmacias como expectorante sin receta (registro con fracción VI); se marcó 'No' y puede revisarse.",
+    "notas_imagenes": "1 foto de tienda (yza.mx) a 1300 px: caja frontal de ACC 200 mg con 20 tabletas efervescentes (Sandoz).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

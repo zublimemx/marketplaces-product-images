@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT ORAL-B 40 SUAVE 2PZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Oral-B Indicator 40 Suave 2 Piezas",
+  "descripcion": "Descripción:\nCepillo dental manual Oral-B Indicator con cerdas suaves y tamaño 40, en paquete de 2 piezas. Incorpora cerdas con indicador de desgaste Control-Bac que ayudan a saber cuándo es momento de cambiar el cepillo, y un mango ergonómico para un cepillado cómodo y seguro. Es una opción práctica para el cuidado bucal diario de toda la familia.\n\nCaracterísticas:\n- Dureza suave, apta para el cepillado diario.\n- Tamaño 40.\n- Cerdas con indicador de desgaste Control-Bac para recordar cuándo reemplazar el cepillo.\n- Mango ergonómico con agarre antiderrapante.\n- Paquete con 2 cepillos.\n\nModo de uso:\nCepille los dientes al menos dos veces al día durante dos minutos, con movimientos suaves, sin ejercer demasiada presión. Cambie el cepillo cada tres meses o antes si las cerdas están desgastadas.\n\nPresentación:\nPaquete con 2 cepillos dentales; el color puede variar.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Indicator",
+    "variante": "Control-Bac 40 Suave",
+    "presentacion": "Cepillo dental manual",
+    "contenido_neto": 2,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 2,
+    "otros": "Dureza: Suave; Tamaño 40; Cerdas con indicador de desgaste; Color surtido"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435171038_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435171038.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1663,
+      "fecha": "2026-09-29",
+      "lado_util": 1541
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.klyns.mx/cep-dent-oral-b-suave-40-2x1/p",
+    "https://www.identaldepot.com/shop/7500435171038-cepillo-suave-40-c-2-oral-b-37367"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Poca información textual en las fuentes; descripción basada en la foto del empaque (Indicator, Control-Bac, suave 40) y en una ficha que confirma indicador de desgaste y 2 piezas. Mango antiderrapante y color surtido se ven en la foto.",
+    "notas_imagenes": "1 foto(s): 7500435171038_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px). Se descartó una foto con marca de agua de otra tienda y dos gráficas promocionales; queda la foto frontal del cepillo y el blíster.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

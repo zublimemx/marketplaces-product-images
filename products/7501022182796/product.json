@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "GRISI 150GR JBN BARRA NEUTRO PACK3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jabón en Barra Grisi Neutro 3 Piezas de 150 g",
+  "descripcion": "Descripción:\nPaquete con tres barras de jabón de tocador Grisi Neutro de 150 g cada una. Limpia y suaviza la piel con una fórmula diseñada para el uso diario, que limpia en profundidad sin dañar el cuerpo. Sus componentes están dermatológicamente probados y el jabón es recomendado por dermatólogos, por lo que es una opción práctica para toda la familia.\n\nCaracterísticas:\n- Fórmula hipoalergénica.\n- Fórmula cercana al pH de la piel.\n- Dermatológicamente probado para su uso diario.\n- Recomendado por dermatólogos.\n- Paquete con 3 barras de 150 g, para tener siempre a la mano.\n\nModo de uso:\nHumedezca la barra, frótela sobre la piel mojada para generar espuma, masajee suavemente el cuerpo y enjuague con abundante agua. Después del uso, deje la barra en un lugar seco para que dure más.\n\nPresentación:\nPaquete con 3 barras de jabón de 150 g cada una (450 g en total). El empaque lleva impresa la leyenda 'Pack 3 barras'.\n\nAdvertencias:\nPara uso externo. Evite el contacto con los ojos. Si observa alguna reacción desfavorable, suspenda su uso; si persiste, consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Grisi",
+    "fabricante": "Grisi",
+    "linea": "Neutro",
+    "variante": "Neutro",
+    "presentacion": "Paquete con 3 barras de 150 g",
+    "contenido_neto": 150,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 3,
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Peso total: 450 g; Hipoalergénico; Fórmula cercana al pH de la piel; Recomendado por dermatólogos; Uso externo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189051",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Jabones > En Barra",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501022182796_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501022182796-1.jpg",
+      "pagina": "https://www.delsol.com.mx/paquete-de-3-jabones-en-barra-neutro-grisi-hipoalergenico-150grs-c-u",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1051,
+      "fecha": "2026-09-29",
+      "lado_util": 974
+    },
+    {
+      "archivo": "7501022182796_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501022182796-2.jpg",
+      "pagina": "https://www.delsol.com.mx/paquete-de-3-jabones-en-barra-neutro-grisi-hipoalergenico-150grs-c-u",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1276,
+      "fecha": "2026-09-29",
+      "lado_util": 1182
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/paquete-de-3-jabones-en-barra-neutro-grisi-hipoalergenico-150grs-c-u",
+    "https://www.walmart.com.mx/ip/jabon-de-tocador-grisi-neutro-3-barras-de-150-g-c-u/00750102218279"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "2 fotos de tienda (Del Sol), 1500 px. El texto '3 a precio especial' impreso en el paquete es parte del empaque real del pack.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

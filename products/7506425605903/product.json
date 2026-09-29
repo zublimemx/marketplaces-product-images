@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "HUG PULL-UPS NINA XL C/30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Calzón Entrenador Huggies Pull-Ups Niña Talla XL 30 Piezas",
+  "descripcion": "Descripción:\nCalzones entrenadores desechables Huggies Pull-Ups para niña, talla extra grande (XL), para peques de 17 a 25 kg. Ayudan en la transición del pañal al calzoncito y vienen en un paquete con 30 piezas.\n\nBeneficios:\n- Con dibujos Aprendisec que desaparecen al mojarse, para apoyar el aprendizaje.\n- Sistema elástico que permite subir y bajar el calzón con facilidad.\n- Absorbencia Huggies para el día y la noche.\n- Laterales abre fácil para hacer cambios sin accidentes.\n- Diseño pensado para niñas, con personajes en el empaque y en el calzón (los diseños pueden variar).\n\nPresentación:\nPaquete con 30 calzones entrenadores, talla XL (extra grande), para niña.\n\nAdvertencias:\nSe recomienda cambiar el calzón en cada descarga para evitar lastimar la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "linea": "Pull-Ups",
+    "variante": "Calzón entrenador para niña",
+    "presentacion": "Paquete con 30 piezas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "edad_etapa": "Entrenamiento para dejar el pañal",
+    "talla": "XL (Extra grande), 17 a 25 kg",
+    "genero": "Niña",
+    "otros": "Calzón entrenador desechable; Dibujos Aprendisec que desaparecen al mojarse; Laterales abre fácil; Sistema elástico; Absorción día y noche; Diseños sujetos a variación"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425605903_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506425605903_1.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1440,
+      "fecha": "2026-09-29",
+      "lado_util": 1334
+    },
+    {
+      "archivo": "7506425605903_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/315758/315758_01.webp",
+      "pagina": "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nina-30-pz-711017/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 570,
+      "fecha": "2026-09-29",
+      "lado_util": 528
+    },
+    {
+      "archivo": "7506425605903_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/315758/315758_02.webp",
+      "pagina": "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nina-30-pz-711017/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 581,
+      "fecha": "2026-09-29",
+      "lado_util": 538
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nina-30-pz-711017/p",
+    "https://www.walmart.com.mx/ip/calzon-entrenador-huggies-pull-ups-talla-extra-grande-nina-30-pzas/00750642560590"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en los datos estructurados de la ficha de tienda (Pull-Ups Niña Talla XL, 30 piezas). El diseño del empaque cambia (Sofía, Minnie).",
+    "notas_imagenes": "3 fotos de tienda (CDN de Farmacias del Ahorro y HEB), de 570 a 1,440 px: frente en versión anterior, frente en versión nueva y parte posterior. Se descartó una foto de la versión para niño y dos láminas informativas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

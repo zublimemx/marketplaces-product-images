@@ -4,29 +4,82 @@
   "linea": "Farma",
   "nombre_sistema": "DEXABION DC PREINY 1 X 3 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dexabión DC Solución Inyectable Jeringa Prellenada 3 ml",
+  "descripcion": "Descripción:\nDexabión DC, de Merck, es una solución inyectable en jeringa prellenada de doble cámara con 3 ml y aguja desechable estéril. Combina dexametasona (corticosteroide antiinflamatorio) con vitaminas del complejo B (B1, B6 y B12) y lidocaína (anestésico local). La doble cámara mantiene separados los componentes hasta el momento de la aplicación. Se emplea en padecimientos inflamatorios y dolorosos, como artritis reumatoide, osteoartritis y lumbago, siempre por indicación médica.\n\nFórmula:\nCada jeringa prellenada con 3 ml contiene lo siguiente.\n- Cámara I (1 ml): clorhidrato de tiamina (vitamina B1) 100 mg y clorhidrato de piridoxina (vitamina B6) 100 mg.\n- Cámara II (2 ml): cianocobalamina (vitamina B12) 5 mg (5,000 mcg), fosfato sódico de dexametasona equivalente a 4 mg de fosfato de dexametasona y clorhidrato de lidocaína monohidratada equivalente a 30 mg de clorhidrato de lidocaína.\n\nModo de uso:\nVía intramuscular. La aplicación debe realizarla personal de salud capacitado; la dosis y la duración las determina el médico.\n\nPresentación:\nCaja con 1 jeringa prellenada de doble cámara con 3 ml y aguja desechable estéril.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No debe usarse en caso de hipersensibilidad a alguno de los componentes de la fórmula.\n- Se debe tener precaución en personas con hipertensión, diabetes, enfermedades del corazón o infecciones.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dexabión",
+    "fabricante": "Merck",
+    "linea": "DC (doble cámara)",
+    "presentacion": "Caja con 1 jeringa prellenada de doble cámara con 3 ml y aguja desechable",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexametasona (fosfato sódico), tiamina (B1), piridoxina (B6), cianocobalamina (B12), lidocaína",
+    "concentracion": "Por jeringa de 3 ml: dexametasona 4 mg, B1 100 mg, B6 100 mg, B12 5 mg, lidocaína 30 mg",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: Solución inyectable en jeringa prellenada de doble cámara; Requiere receta médica; Formato de venta: Caja con 1 jeringa"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298217673_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298217673_3.jpg",
+      "pagina": "https://www.fahorro.com/dexabion-doble-camara-jeringa-prellenada-3-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1343,
+      "fecha": "2026-09-29",
+      "lado_util": 1244
+    },
+    {
+      "archivo": "7501298217673_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/DexabionDC.jpg?v=1682484795",
+      "pagina": "https://sanorim.mx/products/dexabion-dc-caja-con-1-jeringa-pre-cargada-con-3-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 590,
+      "fecha": "2026-09-29",
+      "lado_util": 547
+    },
+    {
+      "archivo": "7501298217673_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/DexabionDC_1.jpg?v=1682484795",
+      "pagina": "https://sanorim.mx/products/dexabion-dc-caja-con-1-jeringa-pre-cargada-con-3-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 600,
+      "fecha": "2026-09-29",
+      "lado_util": 556
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/dexabion-doble-camara-jeringa-prellenada-3-ml.html",
+    "https://sanorim.mx/products/dexabion-dc-caja-con-1-jeringa-pre-cargada-con-3-ml",
+    "https://farmaciasanjorge.com/products/22037"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (caja con 1 jeringa de 3 ml, Merck). La fórmula sigue la ficha de una cadena de farmacias (que separa cámaras I y II y da las cifras en mcg, convertidas a mg) y coincide con la caja, que enumera B1, B6, B12, lidocaína y dexametasona; otra tienda lista solo dexametasona 4 mg y B12 1 mg, dato que se descartó. Las indicaciones (artritis, osteoartritis, lumbago) son de una farmacia en línea; no se abrió ficha oficial ni PLM.",
+    "notas_imagenes": "3 fotos de tienda del frente de la caja Dexabión DC (una de 1600 px y dos de 600 px, con distintos ángulos); todas corresponden a la caja con 1 jeringa.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

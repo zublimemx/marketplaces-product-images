@@ -4,14 +4,23 @@
   "linea": "Farma",
   "nombre_sistema": "TERMOMETRO DIGITAL NEUTEK",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Termómetro Digital Neutek MT-201C a Prueba de Agua",
+  "descripcion": "Descripción:\nTermómetro digital Neutek modelo MT-201C, de diseño compacto y ligero, a prueba de agua. Está fabricado con material hipoalergénico y es una opción práctica para tener en el botiquín del hogar o llevar de viaje para medir la temperatura corporal.\n\nCaracterísticas:\n- Termómetro digital con pantalla de lectura\n- Diseño compacto y ligero\n- A prueba de agua\n- Fabricado con material hipoalergénico\n- Para uso en casa y para viaje\n- Se vende en estuche individual (1 pieza)\n\nModo de uso:\nSiga las instrucciones del instructivo incluido en el empaque para colocar el termómetro y leer la temperatura.\n\nPresentación:\nCaja con 1 termómetro digital.\n\nAdvertencias:\nLimpie y desinfecte el termómetro antes y después de cada uso. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Neutek",
+    "fabricante": "Neutek",
+    "variante": "Digital contra agua",
+    "presentacion": "Caja con 1 termómetro digital",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "otros": "Modelo: MT-201C; Tipo: digital; A prueba de agua; Material hipoalergénico; Uso: casa y viaje"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178505",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Termómetros Digitales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "6939663900072_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/9/6939663900072.jpg",
+      "pagina": "https://www.fahorro.com/neutek-termometro-digital-contra-agua-modelo-mt-201c.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1634,
+      "fecha": "2026-09-29",
+      "lado_util": 1513
+    },
+    {
+      "archivo": "6939663900072_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/9/6939663900072_01.jpg",
+      "pagina": "https://www.fahorro.com/neutek-termometro-digital-contra-agua-modelo-mt-201c.html",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 649,
+      "fecha": "2026-09-29",
+      "lado_util": 601
+    },
+    {
+      "archivo": "6939663900072_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/9/6939663900072_2.jpg",
+      "pagina": "https://www.fahorro.com/neutek-termometro-digital-contra-agua-modelo-mt-201c.html",
+      "ancho_original": 700,
+      "alto_original": 700,
+      "lado_final": 659,
+      "fecha": "2026-09-29",
+      "lado_util": 611
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/neutek-termometro-digital-contra-agua-modelo-mt-201c.html",
+    "https://farmalisto.com.mx/termometros-medicos/11511-comprar-neuteck-termometro-digital-caja-con-1-pieza-botiquin-precio-6939663900072.html",
+    "https://sanorim.mx/products/termometro-digital-neutek"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fichas no publican rango, precisión ni tipo de batería; no se anotaron.",
+    "notas_imagenes": "3 fotos de tienda (caja de frente y termómetro, entre 649 y 1634 px). Se borró una foto chica del reverso de la caja.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

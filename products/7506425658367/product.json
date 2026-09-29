@@ -5,7 +5,7 @@
   "nombre_sistema": "HUGG SUPR UNISEX ET6 + TAS HUM SUPR C80 C/5",
   "nombres_sistema_alternos": [],
   "titulo": "Pañales Huggies Supreme Unisex Etapa 6 con Toallitas",
-  "descripcion": "Descripción:\nPaquete combinado de pañales desechables Huggies Supreme Unisex Etapa 6 con toallitas húmedas Huggies Supreme de 80 piezas por paquete. Huggies Supreme, de Kimberly-Clark, es la línea premium de la marca y está pensada para brindar protección superior a la delicada piel del bebé. Se presenta como clínica y dermatológicamente probada y con certificación Dermatest de cinco estrellas.\n\nCaracterísticas:\n- Pañal unisex, apto para niño o niña, Etapa 6 (de 13.5 kg en adelante, según el fabricante).\n- Canales de absorción que distribuyen el líquido de manera uniforme.\n- Barreras antifugas alrededor de las piernas para un ajuste seguro.\n- Diseño ergonómico pensado para bebés activos.\n- Indicador de humedad que avisa cuándo es momento de cambiar el pañal.\n- Toallitas húmedas Huggies Supreme de 80 piezas por paquete para limpiar con suavidad la piel del bebé en cada cambio.\n\nModo de uso:\nPañal: colóquelo por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca. Toallitas: úselas para la limpieza de la piel del bebé en cada cambio de pañal.\n\nPresentación:\nPaquete combinado de pañales Huggies Supreme Unisex Etapa 6 y toallitas húmedas Huggies Supreme de 80 piezas por paquete. La cantidad exacta de pañales y de paquetes de toallitas debe confirmarse en el empaque.\n\nAdvertencias:\n- Uso externo. Evite el contacto de las toallitas con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- No arroje pañales ni toallitas al inodoro.\n- Mantenga los productos y las bolsas de plástico fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nPaquete combinado de pañales desechables Huggies Supreme Unisex Etapa 6 con toallitas húmedas Huggies Supreme de 80 piezas por paquete. Huggies Supreme es la línea premium de Huggies, de Kimberly-Clark, pensada para dar protección superior a la delicada piel del bebé. Los pañales están clínica y dermatológicamente probados bajo control pediátrico y cuentan con la certificación Dermatest de 5 estrellas.\n\nCaracterísticas:\n- Pañal unisex para niño o niña, Etapa 6, para bebés de más de 13.5 kg.\n- Canales de absorción y núcleo absorbente de alta capacidad que distribuyen el líquido de manera uniforme y ayudan a evitar fugas.\n- Cintas elásticas y cintura flexible para un ajuste cómodo que acompaña los movimientos del bebé.\n- Materiales hipoalergénicos que cuidan la piel sensible.\n- Sistema de respiración que permite la circulación de aire.\n- Indicador de humedad que cambia de color para avisar cuándo es momento de cambiar el pañal.\n- Toallitas húmedas Supreme de 80 piezas por paquete para limpiar con suavidad la piel del bebé en cada cambio.\n\nModo de uso:\nPañal: colóquelo por debajo del bebé, ajuste las cintas a la cintura sin apretar y cámbielo con frecuencia para mantener la piel limpia y seca. Toallitas: úselas para limpiar la piel del bebé en cada cambio de pañal.\n\nPresentación:\nPaquete combinado de pañales Huggies Supreme Unisex Etapa 6 y toallitas húmedas Huggies Supreme de 80 piezas por paquete. Consulte en el empaque la cantidad de pañales y de paquetes de toallitas que incluye.\n\nAdvertencias:\n- Uso externo. Evite el contacto de las toallitas con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- No arroje pañales ni toallitas al inodoro.\n- Mantenga los productos y las bolsas de plástico fuera del alcance de los niños.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
@@ -13,9 +13,9 @@
     "variante": "Unisex con toallitas húmedas Supreme",
     "presentacion": "Paquete combinado de pañales y toallitas húmedas",
     "edad_etapa": "Etapa 6",
-    "talla": "Etapa 6",
+    "talla": "Etapa 6 (más de 13.5 kg)",
     "genero": "Unisex",
-    "otros": "Incluye toallitas húmedas Supreme de 80 piezas por paquete; Rango de peso Etapa 6: 13.5 kg en adelante; Cantidad de pañales y de paquetes de toallitas por confirmar en el empaque; Formato de venta: Paquete combinado"
+    "otros": "Incluye toallitas húmedas Supreme de 80 piezas por paquete; Rango de peso: más de 13.5 kg; Cantidad de pañales y de paquetes de toallitas por confirmar en el empaque; Formato de venta: Paquete combinado"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -33,15 +33,16 @@
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
     "https://www.huggies.com.mx/productos/huggies-supreme/",
-    "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds"
+    "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
+    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-80-pz.html"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "nombre",
-    "notas": "La búsqueda con el GTIN no devolvió una ficha del paquete combinado exacto; resultados solo de pañales Supreme Etapa 6 (36 y 120 piezas) y de toallitas por separado. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 6 más toallitas Supreme de 80 piezas; \"C/5\" es ambiguo y no se sabe cuántos pañales trae. Características del pañal tomadas de la ficha de Supreme Etapa 6 de 36 piezas y de la página oficial; verificar cantidades contra el empaque antes de publicar.",
-    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las de pañales o toallitas sueltas no representan el producto vendido. La página oficial no expone imágenes sin JavaScript y Amazon bloqueó el acceso.",
+    "notas": "No apareció ninguna ficha del paquete combinado con este GTIN. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 6 más toallitas Supreme de 80 piezas; \"C/5\" es ambiguo y se desconoce cuántos pañales trae. Rango de peso confirmado en la página oficial de Huggies; características del pañal tomadas de la ficha de Supreme Etapa 6 de 36 piezas. Verificar cantidades contra el empaque antes de publicar.",
+    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las fotos de pañales o toallitas sueltas no representan el producto vendido. La página oficial rechaza la descarga automática y Amazon bloquea el acceso.",
     "fecha": "2026-09-29",
-    "sesion": 5
+    "sesion": 6
   }
 }

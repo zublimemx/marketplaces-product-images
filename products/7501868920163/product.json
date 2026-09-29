@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GEL 500ML ANTIBACTERIAL 12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gel Antibacterial Dibar Alcohol Etílico 75% 500 ml",
+  "descripcion": "Descripción:\nGel antibacterial Dibar en presentación de 500 ml con dosificador. Es un gel antiséptico transparente, de uso tópico para la higiene de manos, formulado con alcohol etílico al 75% v/v (± 5%) y enriquecido con humectantes y emolientes que favorecen su uso frecuente sin provocar irritación en la piel. Es hipoalergénico, de rápida evaporación y no requiere enjuague.\n\nCaracterísticas:\n- Gel antiséptico y germicida de uso externo para la higiene de manos.\n- Con alcohol etílico al 75% v/v (± 5%).\n- Enriquecido con humectantes y emolientes.\n- De rápida evaporación, no requiere enjuague.\n- Gel homogéneo y transparente, con olor característico a alcohol.\n\nModo de uso:\nAplique una cantidad suficiente de gel en la palma de la mano y frote ambas manos, incluidos dedos, uñas y muñecas, hasta que se seque. No requiere enjuague.\n\nPresentación:\nEnvase de 500 ml.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos; si ocurre, enjuague con abundante agua.\n- Producto inflamable: manténgalo alejado del fuego y de fuentes de calor.\n- Conserve en un lugar fresco, seco, ventilado y lejos de la luz solar directa, con el envase bien cerrado.\n- Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "variante": "Gel antibacterial",
+    "presentacion": "Envase con dosificador",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Alcohol etílico",
+    "concentracion": "75% v/v (± 5%)",
+    "via_administracion": "Cutánea (tópica)",
+    "otros": "Hipoalergénico; Rápida evaporación, no requiere enjuague; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168014",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Geles Antibacteriales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868920163_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://dcdn-us.mitiendanube.com/stores/003/292/109/products/gel-500-dibar1-71f9dd6935b0edeb3d16886696148108-640-0.webp",
+      "pagina": "https://tienda.biorent.com.mx/productos/gel-antibacterial-500ml-dibar/",
+      "ancho_original": 400,
+      "alto_original": 576,
+      "lado_final": 577,
+      "fecha": "2026-09-29",
+      "lado_util": 535
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.promexsa.com.mx/productos/gel-antibacterial-500-ml-dibar/",
+    "https://tienda.biorent.com.mx/productos/gel-antibacterial-500ml-dibar/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN 7501868920163 no aparece en ninguna página; se identificó por nombre como el gel antibacterial Dibar de 500 ml, cuya ficha (alcohol etílico al 75% ± 5%) es de un distribuidor de material de curación. Puede haber variantes de fragancia o presentación con el mismo nombre; el \"12\" al final del nombre del sistema se ignoró (por el precio no parece ser caja de 12). Verificar el envase.",
+    "notas_imagenes": "1 foto de tienda con la botella de 500 ml con dosificador de gel Dibar, de baja resolución (400x576 px originales); sin mejor fuente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

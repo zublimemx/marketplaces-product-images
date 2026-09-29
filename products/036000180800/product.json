@@ -4,14 +4,27 @@
   "linea": "Mark",
   "nombre_sistema": "HUG GOOD MED 11",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ropa Interior Huggies GoodNites Unisex Talla S/M 11 Pzas",
+  "descripcion": "Descripción:\nHuggies GoodNites es una ropa interior desechable para dormir, unisex, en talla Chico/Mediano (S/M), para niños de 4 a 8 años (aproximadamente 17 a 29 kg). El paquete trae 11 piezas y cuenta con 5 capas de protección para acompañar al niño durante toda la noche.\n\nCaracterísticas:\n- Talla S/M (Chico/Mediano), unisex, para niños de 4 a 8 años.\n- 5 capas de protección.\n- Laterales elásticos para un ajuste cómodo.\n- Cubierta discreta e impermeable.\n- Absorción máxima que retira rápidamente la humedad.\n- Barreras anti escurrimiento.\n- No contiene látex.\n\nModo de uso:\nColóquela como ropa interior antes de dormir y, para retirarla, rompa los laterales. Deséchela en la basura una vez usada, nunca en el inodoro.\n\nPresentación:\nPaquete con 11 piezas, talla S/M.\n\nAdvertencias:\nDe acuerdo con lo recomendado por los pediatras, lo ideal es hacer el cambio en cada descarga para evitar lastimar la piel. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "GoodNites",
+    "variante": "Unisex S/M",
+    "presentacion": "Ropa interior desechable para dormir",
+    "contenido_neto": 11,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 11,
+    "edad_etapa": "4 a 8 años",
+    "talla": "S/M (Chico/Mediano)",
+    "genero": "Unisex",
+    "otros": "Peso recomendado: 17 a 29 kg; 5 capas de protección; No contiene látex"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "036000180800_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://go-upc.s3.amazonaws.com/images/156453453.jpeg",
+      "pagina": "https://go-upc.com/search?q=036000180800",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 973,
+      "fecha": "2026-09-29",
+      "lado_util": 901
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://go-upc.com/search?q=036000180800"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN de 12 dígitos (036000180800) coincide con Huggies GoodNites Chico/Mediano de 11 piezas en una base de códigos de barras; el nombre del sistema (HUG GOOD MED 11) concuerda. No se pudo abrir la ficha de una farmacia mexicana; el modo de uso es el habitual de este tipo de producto.",
+    "notas_imagenes": "1 foto (base de códigos de barras go-upc): paquete frontal de GoodNites S/M unisex con 11 unidades, 1000 px. Se descartó una foto de farmacia con insignia promocional.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

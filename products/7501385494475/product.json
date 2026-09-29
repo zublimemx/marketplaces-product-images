@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "HI DEX IM100MG JULIO 27 HORMONA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Hi-Dex Hierro Solución Inyectable 100 mg/ml 3 Ampolletas",
+  "descripcion": "Descripción:\nHi-Dex es una solución inyectable de hierro (complejo de hierro dextrán) para administración intramuscular, con 100 mg de hierro elemental por mililitro. De acuerdo con la información de referencia, se indica en el tratamiento de la anemia por deficiencia de hierro cuando la vía oral no es satisfactoria o no es posible, por ejemplo en problemas de absorción intestinal, aumento del consumo de hierro o pérdidas patológicas como el sangrado menstrual abundante o la hemorragia gastrointestinal.\n\nComposición:\nCada ampolleta de 1 ml contiene complejo de hierro dextrán equivalente a 100 mg de hierro elemental.\n\nModo de uso:\nSolo para vía intramuscular, administrada por personal de salud. La dosis depende del peso y de la condición del paciente; la información de referencia indica un máximo diario de 100 mg de hierro por vía intramuscular y recomienda una dosis de prueba inicial de 25 mg para evaluar la tolerancia.\n\nPresentación:\nCaja con 3 ampolletas de 1 ml (100 mg/ml).\n\nAdvertencias:\nMedicamento de venta con receta médica. Debe aplicarse bajo supervisión médica y con equipo de emergencia disponible. No debe usarse en caso de hipersensibilidad a los complejos de hierro dextrán, anemias no causadas por deficiencia de hierro, hemocromatosis, insuficiencia hepática o renal, ni junto con hierro por vía oral. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hi-Dex",
+    "fabricante": "Laboratorios Hormona",
+    "presentacion": "Caja con 3 ampolletas de 1 ml",
+    "contenido_neto": 3,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Hierro (complejo de hierro dextrán)",
+    "concentracion": "100 mg/ml",
+    "via_administracion": "Intramuscular",
+    "otros": "Forma farmacéutica: solución inyectable; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501385494475_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385494475.jpg",
+      "pagina": "https://www.yza.mx/hi-dex-100mg-3-amp-x-1ml/MXYZ_7501385494475.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1604,
+      "fecha": "2026-09-29",
+      "lado_util": 1486
+    },
+    {
+      "archivo": "7501385494475_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501385494475_2.jpg",
+      "pagina": "https://www.yza.mx/hi-dex-100mg-3-amp-x-1ml/MXYZ_7501385494475.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1410,
+      "fecha": "2026-09-29",
+      "lado_util": 1306
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/hidex.solucion.inyectable/160/101/77852/162",
+    "https://www.yza.mx/hi-dex-100mg-3-amp-x-1ml/MXYZ_7501385494475.html",
+    "https://farmaciasanisidro.mx/producto/hi-dex-a-3-1ml/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Hay dos versiones de empaque (Hormona y Sanfer) y PLM nombra otro laboratorio; el nombre del sistema dice HORMONA, por eso se dejó Laboratorios Hormona como fabricante. Se ignoró 'JULIO 27' (caducidad).",
+    "notas_imagenes": "2 fotos de tienda del empaque Hormona (1604 y 1410 px). Se borraron 2 fotos del empaque Sanfer para no mezclar versiones.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP 75ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Máxima Protección Anticaries 75 ml",
+  "descripcion": "Descripción:\nCrema dental con flúor Colgate Máxima Protección Anticaries, con sabor original y tecnología Calci-protect, en tubo de 75 ml. Es una pasta de uso diario formulada para ayudar a prevenir la caries, mantener fuertes los dientes y dejar una sensación de limpieza y aliento fresco.\n\nBeneficios:\n- Protección anticaries gracias a su fórmula con flúor.\n- Ayuda a fortalecer el esmalte dental.\n- Aliento fresco con rico sabor original.\n- Sensación de limpieza total desde el primer cepillado.\n- Presentación práctica de 75 ml, ideal para el hogar o para llevar de viaje.\n\nIngredientes:\nIngrediente activo: monofluorofosfato de sodio (flúor). Otros ingredientes principales: fosfato dicálcico dihidratado, glicerina, laurilsulfato de sodio, sílice hidratada, pirofosfato tetrasódico y agentes saborizantes.\n\nModo de uso:\nAplique una porción sobre un cepillo dental, cepille dientes y encías y enjuague la boca con agua. Úsese después de cada comida o como lo indique su odontólogo.\n\nPresentación:\nTubo con 75 ml de crema dental.\n\nAdvertencias:\nManténgase fuera del alcance de los niños. Los niños pequeños deben usar solo una pequeña cantidad y siempre con supervisión de un adulto para evitar que la ingieran.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "Sabor original con Calci-protect",
+    "presentacion": "Tubo",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Monofluorofosfato de sodio",
+    "sabor_aroma": "Original",
+    "otros": "Crema dental con flúor; Industria mexicana"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546009179_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/306974-1000-1000/7509546009179.jpg?v=639051524989300000",
+      "pagina": "https://www.lagranbodega.com.mx/colgate-crema-dental-mfp-75-ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1035,
+      "fecha": "2026-09-29",
+      "lado_util": 959
+    }
+  ],
+  "url_oficial": "https://www.colgate.com/es-mx/products/toothpaste/colgate-maxima-proteccion-anticaries",
+  "fuentes": [
+    "https://www.colgate.com/es-mx/products/toothpaste/colgate-maxima-proteccion-anticaries",
+    "https://www.lagranbodega.com.mx/colgate-crema-dental-mfp-75-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha y en el nombre del archivo de imagen de la tienda. Los ingredientes provienen de la ficha oficial de la línea Máxima Protección Anticaries; el modo de uso y las advertencias son las generales de una crema dental con flúor.",
+    "notas_imagenes": "1 foto de tienda (lagranbodega.com.mx): caja frontal de la crema dental, 1000 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

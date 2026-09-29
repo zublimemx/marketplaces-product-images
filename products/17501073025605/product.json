@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PLASTIPACK 10ML C100 NEGRA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Jeringa BD Plastipak 10 ml 22G x 32 mm Caja 100 Piezas",
+  "descripcion": "Descripción:\nJeringa desechable BD Plastipak de 10 ml con aguja negra 22G x 32 mm, estéril y de un solo uso. Es un insumo médico de uso general para la preparación y aplicación de medicamentos por vía intramuscular o intravenosa, y para la toma de muestras, en consultorios, farmacias, clínicas y cuidados en casa.\n\nCaracterísticas:\n- Capacidad de 10 ml con escala graduada para dosificar con precisión.\n- Aguja calibre 22G de 32 mm de largo (aguja negra).\n- Producto estéril, desechable y de un solo uso.\n- Marca BD, con amplia presencia en el sector salud.\n\nPresentación:\nCaja con 100 jeringas, cada una con su aguja.\n\nAdvertencias:\nProducto de un solo uso. No la reutilice ni la use si el empaque individual está abierto o dañado. Deseche la jeringa y la aguja en un contenedor rígido para residuos punzocortantes. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "BD",
+    "fabricante": "Becton Dickinson",
+    "linea": "Plastipak",
+    "variante": "Aguja negra 22G x 32 mm",
+    "presentacion": "Caja con 100 jeringas",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 100,
+    "otros": "Capacidad: 10 ml; Aguja: 22G x 32 mm; Estéril y desechable; Formato de venta: caja con 100 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189428",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -21,12 +31,16 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://articulo.mercadolibre.com.mx/MLM-949479266-jeringa-bd-plastipak-10-ml-22gx32mm-negra-caja-c-100-pzas-_JM"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN de 14 dígitos (1 7501073 02560 5) es un código de caja; el de la pieza sería 7501073025605. La presentación se dedujo de un listado de Mercado Libre (10 ml, 22G x 32 mm, caja con 100), no de una ficha del fabricante.",
+    "notas_imagenes": "Sin fotos: solo se encontraron imágenes de otras presentaciones (aguja 21G verde), que no corresponden a esta.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

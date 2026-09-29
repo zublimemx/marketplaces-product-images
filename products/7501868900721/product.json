@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "DIBAR GASA MONARCA C10 ATA C10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Gasas Estériles Dibar Monarca 10 x 10 cm 100 Piezas",
+  "descripcion": "Descripción:\nGasa simple estéril Monarca de Dibar, 100% algodón, para la aplicación de antisépticos y la absorción de fluidos. Mide 10 x 10 cm, con tejido 18 x 24 y 8 capas, y se presenta en paquetes individuales de 10 piezas, con 10 paquetes por presentación.\n\nCaracterísticas:\n- Gasa simple 100% algodón, estéril.\n- Medida de 10 x 10 cm.\n- Tejido 18 x 24 con 8 capas.\n- Útil para limpiar y cubrir heridas, aplicar antisépticos y absorber fluidos.\n- Presentación de 10 paquetes con 10 piezas cada uno, práctica para consultorios, clínicas y botiquines.\n\nModo de uso:\nAbra el empaque justo antes de usarlo, tome la gasa sin tocar la parte que va a estar en contacto con la zona a curar y aplique el antiséptico o cubra la zona según corresponda. Deseche la gasa después de usarla.\n\nPresentación:\n10 paquetes con 10 piezas cada uno (100 piezas), gasa de 10 x 10 cm de 8 capas.\n\nAdvertencias:\nProducto estéril de un solo uso: no lo utilice si el empaque está abierto o dañado. Para uso externo. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "fabricante": "Dibar",
+    "linea": "Monarca",
+    "variante": "Gasa simple estéril",
+    "presentacion": "10 paquetes con 10 piezas",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "otros": "Medida: 10 x 10 cm; Capas: 8; Tejido: 18 x 24; Material: 100% algodón; Estéril; Código del fabricante: GM2"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191087",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,64 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868900721_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://dibar.mx/wp-content/uploads/2025/02/gasa-s.jpg",
+      "pagina": "https://dibar.mx/product/gasas-monarca/",
+      "ancho_original": 1800,
+      "alto_original": 1350,
+      "lado_final": 1202,
+      "fecha": "2026-09-29",
+      "lado_util": 1113
+    },
+    {
+      "archivo": "7501868900721_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/10687/5263882/65ce9ed5e5978-6f12042c-66a1-42fb-93fd-660a8b4426af-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/17353343/gasa-esteril-10x10-monarca-100pz-dibar",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1518,
+      "fecha": "2026-09-29",
+      "lado_util": 1406
+    },
+    {
+      "archivo": "7501868900721_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/10687/5263882/65ce9ed952b30-ba05489a-b7a7-4f5d-a010-d668b2c3d278-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/17353343/gasa-esteril-10x10-monarca-100pz-dibar",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1407,
+      "fecha": "2026-09-29",
+      "lado_util": 1303
+    },
+    {
+      "archivo": "7501868900721_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/10687/5263882/65ce9edce336b-5aa331e0-b1e1-40ea-bba8-9f627536bce2-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/17353343/gasa-esteril-10x10-monarca-100pz-dibar",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1412,
+      "fecha": "2026-09-29",
+      "lado_util": 1306
+    }
+  ],
+  "url_oficial": "https://dibar.mx/product/gasas-monarca/",
+  "fuentes": [
+    "https://dibar.mx/product/gasas-monarca/",
+    "https://www.claroshop.com/producto/17353343/gasa-esteril-10x10-monarca-100pz-dibar"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN no apareció en las páginas consultadas; se identificó por nombre. El nombre del sistema 'C10 ATA C10' se interpretó como 10 paquetes con 10 piezas (código GM2 del fabricante); la ficha de Dibar también lista una versión exhibidor con 100 piezas.",
+    "notas_imagenes": "1 foto del fabricante (Dibar, unos 1800 px) y 3 de tienda (Claroshop, unos 1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "BICOESTOL EUCALIPTO TAB C16 72",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pastillas Broncolin Bicoestol Eucalipto 16 Piezas",
+  "descripcion": "Descripción:\nBicoestol de Broncolin es un remedio herbolario en pastillas sabor eucalipto, coadyuvante en el alivio de los síntomas del resfriado común, tos y garganta irritada. Combina extractos fluidos de plantas tradicionales con miel de abeja, propóleo y mentol en una pastilla que se disuelve lentamente en la boca.\n\nComposición:\nCada pastilla de 2.5 g contiene extractos fluidos de:\n- Hoja de Eucalyptus globulus (eucalipto) 0.0178 ml\n- Flor de Gnaphalium oxyphyllum (gordolobo) 0.0145 ml\n- Flor de Sambucus nigra (saúco) 0.0105 ml\nOtros ingredientes: miel de abeja, glucosa, sacarosa, propóleo, mentol y ácido cítrico.\n\nModo de uso:\nVía oral. Adultos y niños mayores de 6 años: 1 pastilla cada 4 horas, sin exceder 6 pastillas al día. Disuélvase lentamente en la boca; no se mastique.\n\nPresentación:\nCaja con 16 pastillas de 2.5 g, sabor eucalipto. Hecho en México por Broncolin, S.A. de C.V.\n\nAdvertencias:\n- No se administre a menores de 6 años\n- No se administre durante el embarazo o la lactancia sin supervisión médica\n- No lo use si es alérgico a los componentes de la fórmula\n- No lo use si padece enfermedades del hígado o de los riñones, inflamación gastrointestinal, enfermedad de la vesícula biliar o diabetes\n- Si las molestias persisten por más de 3 días o aparece algún efecto indeseable, consulte a su médico\n- Conservar a no más de 30 °C y en lugar seco\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Broncolin",
+    "fabricante": "Broncolin",
+    "linea": "Bicoestol",
+    "variante": "Eucalipto",
+    "presentacion": "Caja con 16 pastillas de 2.5 g",
+    "contenido_neto": 16,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Extractos fluidos de eucalipto, gordolobo y saúco",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Eucalipto",
+    "registro_sanitario": "Permiso de remedio herbolario 003RH2016 SSA",
+    "otros": "Forma farmacéutica: pastillas; Peso por pastilla: 2.5 g; Remedio herbolario; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "714706910487_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/1/714706910487_3.jpg",
+      "pagina": "https://www.fahorro.com/broncolin-bicoestol-sabor-eucalipto-16-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1423,
+      "fecha": "2026-09-29",
+      "lado_util": 1318
+    },
+    {
+      "archivo": "714706910487_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/1/714706910487_1.jpg",
+      "pagina": "https://www.fahorro.com/broncolin-bicoestol-sabor-eucalipto-16-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1423,
+      "fecha": "2026-09-29",
+      "lado_util": 1319
+    },
+    {
+      "archivo": "714706910487_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/1/714706910487_2.jpg",
+      "pagina": "https://www.fahorro.com/broncolin-bicoestol-sabor-eucalipto-16-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1242,
+      "fecha": "2026-09-29",
+      "lado_util": 1150
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/broncolin-bicoestol-sabor-eucalipto-16-pastillas.html",
+    "https://www.yza.mx/broncolin-bicoestol-eucalipto-16-past/MXYZ_714706910487.html",
+    "https://www.benavides.com.mx/broncolin-bicoestol-eucalipto-16-pastillas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tiendas y en el código de barras de la caja. La fórmula, la dosis y las advertencias se leyeron de la foto de la parte trasera del empaque. Es un remedio herbolario, no un medicamento alopático.",
+    "notas_imagenes": "3 fotos de la caja de Broncolin (frente, parte trasera con fórmula y tres cuartos; 1242 a 1423 px) de la ficha de Farmacias del Ahorro.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

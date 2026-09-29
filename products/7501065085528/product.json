@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "VOLTAREN EMULGEL 50G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Voltaren Emulgel Diclofenaco 1.16% Gel 50 g",
+  "descripcion": "Descripción:\nVoltaren Emulgel es un gel de diclofenaco al 1.16% de uso tópico, analgésico y antiinflamatorio, en tubo de 50 g. Ayuda a aliviar el dolor y la inflamación en dolor de cuello y espalda, dolores musculares y reumáticos (como artritis), inflamación ocasionada por golpes, contusiones, torceduras o esguinces, e inflamación de tendones y ligamentos.\n\nFórmula:\nDiclofenaco 1.16% en gel.\n\nModo de uso:\nUso cutáneo. Según la extensión del área afectada, aplique de 2 a 4 g de gel, frotando suavemente, de 3 a 4 veces al día. Siga correctamente el modo de empleo y no exceda la dosis recomendada. Consulte en el empaque las indicaciones para niños.\n\nPresentación:\nCaja con 1 tubo de 50 g.\n\nAdvertencias:\n- Uso externo. No lo aplique sobre heridas abiertas, mucosas ni cerca de los ojos.\n- Lávese las manos después de aplicarlo.\n- Suspenda su uso y consulte a su médico si la molestia persiste o empeora, o si aparece irritación en la piel.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Voltaren",
+    "linea": "Emulgel",
+    "presentacion": "Caja con 1 tubo de gel",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Diclofenaco",
+    "concentracion": "1.16%",
+    "via_administracion": "Cutánea (tópica)",
+    "edad_etapa": "Adultos",
+    "otros": "Forma farmacéutica: Gel; Formato de venta: Caja con 1 tubo"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501065085528_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501094911485_1_2.jpg",
+      "pagina": "https://www.fahorro.com/voltaren-emulgel-1-16-50-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "fecha": "2026-09-29",
+      "lado_util": 1600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/voltaren-emulgel-1-16-50-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de una cadena de farmacias (Voltaren Emulgel 1.16%, caja con 1 tubo de 50 g). La ficha de tienda dice \"niños mayores de 2 años\", dato dudoso que se omitió; el modo de uso se dejó con remisión al empaque. No se abrió ficha oficial ni PLM; las advertencias son las generales de un gel de diclofenaco.",
+    "notas_imagenes": "1 foto de tienda con el tubo Voltaren Emulgel 1.16% 50 g (1600 px originales). En la ficha de tienda, la foto está guardada con otro código (7501094911485) pero muestra exactamente el producto y presentación; no lleva logotipo de tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

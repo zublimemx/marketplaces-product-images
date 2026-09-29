@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "TAS SANIT U-INV B-NOC XLGA ALAS22",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallas Saba Buenas Noches Ultra Invisible con Alas 22 Pzas",
+  "descripcion": "Descripción:\nSaba Buenas Noches Ultra Invisible son toallas femeninas nocturnas con alas, ultradelgadas para darte el mayor confort a la hora de dormir. Su tecnología Absorplus brinda la absorción que se necesita durante toda la noche, para flujo abundante. El paquete contiene 22 piezas.\n\nCaracterísticas:\n- Ultradelgadas, con diseño invisible bajo la ropa.\n- Tecnología Absorplus para absorción durante toda la noche.\n- Nocturnas, con alas que ayudan a mantener la toalla en su lugar.\n- Pensadas para flujo abundante.\n- Paquete con 22 piezas.\n\nModo de uso:\nRetire el papel protector del adhesivo, pegue la toalla en la ropa interior con el lado adhesivo hacia abajo y fije las alas alrededor de la ropa interior. Cámbiela con frecuencia.\n\nPresentación:\nPaquete con 22 toallas nocturnas ultradelgadas con alas.\n\nAdvertencias:\nNo deseche la toalla en el inodoro. Manténgase en un lugar fresco y seco, fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Saba",
+    "fabricante": "Essity",
+    "linea": "Buenas Noches Ultra Invisible",
+    "variante": "Nocturna con alas",
+    "presentacion": "Paquete de toallas femeninas",
+    "contenido_neto": 22,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 22,
+    "genero": "Mujer",
+    "otros": "Ultradelgadas; Con alas; Tecnología Absorplus; Uso nocturno para flujo abundante"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187667",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Toallitas Femeninas > Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019040719_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://sabamx.vteximg.com.br/arquivos/ids/159464-1500-1500/7501019040719.png?v=639189783438700000",
+      "pagina": "https://www.saba.com.mx/comprar-productos/productos-saba/toallas-femeninas/saba-ultra-invisible-toallas-ultradelgadas-nocturnas-con-alas/",
+      "ancho_original": 1500,
+      "alto_original": 1500,
+      "lado_final": 1535,
+      "fecha": "2026-09-29",
+      "lado_util": 1423
+    }
+  ],
+  "url_oficial": "https://www.saba.com.mx/comprar-productos/productos-saba/toallas-femeninas/saba-ultra-invisible-toallas-ultradelgadas-nocturnas-con-alas/",
+  "fuentes": [
+    "https://www.saba.com.mx/comprar-productos/productos-saba/toallas-femeninas/saba-ultra-invisible-toallas-ultradelgadas-nocturnas-con-alas/",
+    "https://www.fahorro.com/toallas-sanitarias-saba-ult-noche-con-alas-22-pz.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el sitio oficial de Saba y en Farmacias del Ahorro (22 piezas). El nombre del sistema indica 'XLGA' (extralarga), pero las fichas no especifican la longitud, por eso no se incluyó. El modo de uso es el habitual de toallas con alas.",
+    "notas_imagenes": "1 foto del fabricante (Saba) a 1500 px: paquete frontal de Saba Buenas Noches Ultra Invisible con 22 piezas. Se descartó una segunda foto del sitio de la marca porque no muestra el conteo.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

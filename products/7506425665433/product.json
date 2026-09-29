@@ -4,16 +4,28 @@
   "linea": "Mark",
   "nombre_sistema": "TAS HUM HUGG BLACK LABEL C/56 C8",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Toallitas Húmedas Huggies Black Label 56 Piezas",
+  "descripcion": "Descripción:\nLas Toallitas Húmedas Huggies Black Label son toallitas para bebé creadas para el cuidado delicado de pieles sensibles. Son hipoalergénicas y están elaboradas con fibras naturales que aportan suavidad y buena absorción. Este paquete contiene 56 toallitas.\n\nBeneficios:\n- Hipoalergénicas, para pieles sensibles.\n- Libres de parabenos, alcohol y fragancia.\n- Fibras naturales con mayor absorción y mejor arrastre.\n- Mayor suavidad.\n\nPresentación:\nPaquete con 56 toallitas húmedas. También se comercializa en caja con 8 paquetes de 56 toallitas (448 piezas), presentación distinta a la de esta ficha.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Black Label",
+    "variante": "Toallitas húmedas para bebé",
+    "presentacion": "Paquete con 56 toallitas",
+    "contenido_neto": 56,
+    "unidad_contenido": "toallitas",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Piel sensible",
+    "otros": "Hipoalergénicas; Libres de parabenos, alcohol y fragancia"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM61578605"
     },
     "amazon": {},
     "shopify": {},
@@ -21,12 +33,17 @@
   },
   "imagenes": [],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Huggies-Toallitas-H%C3%BAmedas-Paquetes-toallitas/dp/B0FCZBCQLP",
+    "https://www.mercadolibre.com.mx/toallitas-humedas-huggies-black-label-c56pz/p/MLM61578605"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo abrir la ficha de catálogo (bloqueada) ni encontrar una ficha de tienda con este GTIN; la información sale de la ficha de la caja de 8 paquetes en Amazon y del título del catálogo. En el nombre del sistema 'C8' probablemente indica la caja de surtido; se tomó como paquete individual de 56 por el precio. El sitio oficial de Huggies México no lista esta toallita.",
+    "notas_imagenes": "Sin fotos válidas: las disponibles eran de la caja de 8 paquetes (448 piezas) o gráficos publicitarios, presentación distinta a la de este SKU. Acceso al catálogo de Mercado Libre bloqueado.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

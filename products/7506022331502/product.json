@@ -4,29 +4,68 @@
   "linea": "Farma",
   "nombre_sistema": "DIFLOSENSI 10MG C28 TAB DAPAGLIFLOZINA JAYOR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Diflosensi Dapagliflozina 10 mg 28 Tabletas",
+  "descripcion": "Descripción:\nDiflosensi es un medicamento en tabletas de uso oral cuyo principio activo es la dapagliflozina (como propanodiol) en concentración de 10 mg por tableta, de Laboratorios Jayor. La dapagliflozina es un inhibidor selectivo del cotransportador sodio-glucosa tipo 2 (SGLT2), que reduce la reabsorción de glucosa en el riñón.\n\nIndicaciones:\nSegún la información del principio activo, se utiliza en el tratamiento de la diabetes mellitus tipo 2 y de la insuficiencia cardíaca, siempre bajo indicación y vigilancia médica.\n\nPresentación:\nCaja con 28 tabletas de 10 mg, para administración oral una vez al día según la indicación del médico. Fórmula: cada tableta contiene dapagliflozina propanodiol equivalente a 10 mg de dapagliflozina.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad conocida al principio activo, cetoacidosis diabética o enfermedad renal grave. No se recomienda durante el embarazo ni la lactancia. Puede causar mareo, por lo que se debe tener precaución al conducir. Requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Diflosensi",
+    "fabricante": "Laboratorios Jayor",
+    "presentacion": "Caja con 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dapagliflozina (como propanodiol)",
+    "concentracion": "10 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Requiere receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506022331502_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Dapaglifozina.jpg?v=1779896959",
+      "pagina": "https://sanorim.mx/products/diflosensi-dapagliflozina-10-mg-caja-con-28-tabletas",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1117,
+      "fecha": "2026-09-29",
+      "lado_util": 1035
+    },
+    {
+      "archivo": "7506022331502_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://acdn-us.mitiendanube.com/stores/002/215/068/products/302d37ce-c8fd-47a8-95ec-91819ba835eb-d6ca5bc1c5880143f117655724161040-1024-1024.webp",
+      "pagina": "https://www.farmamedical.com.mx/productos/7506022331502/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 648,
+      "fecha": "2026-09-29",
+      "lado_util": 600
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://heka.mx/catalogo/medicamentos/grupo-5-endocrinologia-y-metabolismo/dapagliflozina-tableta-cada-tableta-contiene-dapagliflozina-propanodiol-equivalente-a-10-mg-de-dapagliflozina-envase-con-28-tabletas/",
+    "https://sanorim.mx/products/diflosensi-dapagliflozina-10-mg-caja-con-28-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las indicaciones provienen de la ficha del principio activo (dapagliflozina 10 mg), no de un prospecto propio de Diflosensi. No se confirmó texto oficial del laboratorio. Categoría rx elegida por ser antidiabético (digestivo y metabólico).",
+    "notas_imagenes": "2 fotos de tienda: render del frente de la caja (1,117 px, farmacia en línea) y caja de frente (648 px). Se descartaron tres imágenes: cara posterior, tira del frente y una caja de ketorolaco que no corresponde.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

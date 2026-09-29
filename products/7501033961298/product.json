@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ULCODERMA 0.6UI/0.01G UNG 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ulcoderma Ungüento Colagenasa Cloranfenicol 30 g",
+  "descripcion": "Descripción:\nUlcoderma es un ungüento tópico de Smith+Nephew que combina clostridiopeptidasa A (colagenasa) y cloranfenicol. Su empaque indica una concentración de 0.6 UI de colagenasa y 0.01 g de cloranfenicol. Se presenta en tubo de aluminio con 30 g de ungüento.\n\nBeneficios:\nLas fichas de farmacia lo describen como un producto para el cuidado de lesiones de la piel, entre ellas:\n- Limpieza de tejido dañado o infectado en úlceras cutáneas, varicosas, de origen diabético o por presión.\n- Quemaduras de segundo y tercer grado.\n- Heridas quirúrgicas o postraumáticas que se hayan reabierto.\n\nComposición:\nClostridiopeptidasa A (colagenasa) 0.6 UI y cloranfenicol 0.01 g, en base de ungüento.\n\nModo de uso:\nUso tópico sobre la lesión. La frecuencia y la duración las define su médico.\n\nPresentación:\nCaja de cartón con tubo de aluminio con 30 g de ungüento.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ulcoderma",
+    "fabricante": "Smith+Nephew",
+    "linea": "Ulcoderma",
+    "presentacion": "Caja con tubo de 30 g",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clostridiopeptidasa A (colagenasa) y cloranfenicol",
+    "concentracion": "0.6 UI/0.01 g",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: ungüento"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033961298_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033961298.jpg",
+      "pagina": "https://www.fahorro.com/ulcoderma-ung-30-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1512,
+      "fecha": "2026-09-29",
+      "lado_util": 1400
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/ulcoderma-unguento-tubo-c-30-gr/p",
+    "https://farmaciasmedina.com/detalleProducto/Ulcoderma-30-G-Unguento-Tubo/7501033961298",
+    "https://www.fahorro.com/ulcoderma-ung-30-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No hay información para prescribir (PLM no lo lista); las indicaciones vienen de fichas de farmacia. Farmacias del Ahorro indica que no requiere receta, pero contiene un antibiótico (cloranfenicol), por lo que se marcó 'Revisar'. Sin dosis oficial.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja del ungüento de frente con la leyenda de colagenasa y cloranfenicol.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

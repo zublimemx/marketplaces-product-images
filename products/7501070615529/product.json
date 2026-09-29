@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "DAFLON 450 50MG C60TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Daflon 450 mg/50 mg 60 Tabletas Diosmina Hesperidina",
+  "descripcion": "Descripción:\nDaflon es un medicamento venoactivo en tabletas cuyo principio activo es una fracción flavonoica purificada y micronizada. Cada tableta contiene 450 mg de diosmina y 50 mg de hesperidina (500 mg de fracción flavonoica). De acuerdo con la información de referencia del medicamento, se emplea en el tratamiento de la insuficiencia venosa, incluyendo várices, edema de las piernas y secuelas postrombóticas, y de las hemorroides.\n\nComposición:\nCada tableta contiene fracción flavonoica purificada y micronizada 500 mg, equivalente a diosmina 450 mg y hesperidina 50 mg.\n\nModo de uso:\nVía oral. La dosis descrita en la información de referencia para adultos en insuficiencia venosa es de 2 tabletas al día; en una crisis hemorroidal aguda el médico puede indicar una dosis mayor durante pocos días. La dosis y la duración del tratamiento las define el médico.\n\nPresentación:\nCaja con 60 tabletas de 450 mg/50 mg. Vía de administración oral.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a los principios activos o a los excipientes, ni durante la lactancia. No se recomienda en menores de 18 años. Por precaución, evite su uso durante el embarazo. Medicamento de venta con receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Daflon",
+    "fabricante": "Sanfer",
+    "presentacion": "Caja con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Diosmina, Hesperidina",
+    "concentracion": "450 mg/50 mg",
+    "via_administracion": "Oral",
+    "otros": "Fracción flavonoica purificada y micronizada 500 mg por tableta; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070615529_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20230731_1042065.jpg",
+      "pagina": "https://benavides.com.mx/daflon-60-tabletas.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 798
+    },
+    {
+      "archivo": "7501070615529_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501070615529_3.jpg",
+      "pagina": "https://benavides.com.mx/daflon-60-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1324,
+      "fecha": "2026-09-29",
+      "lado_util": 1227
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/daflon-tabletas/160/101/7107/210",
+    "https://benavides.com.mx/daflon-60-tabletas.html",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/35743-daflon-450-mg50-mg-diosminahesperidina-60-tabletas-sanfer-7501070615529.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La fuente de referencia (PLM) muestra otro titular de registro; el empaque de la foto es Sanfer. La ficha oficial del fabricante no se consultó.",
+    "notas_imagenes": "2 fotos de tienda (frente del empaque, 862 y 1324 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

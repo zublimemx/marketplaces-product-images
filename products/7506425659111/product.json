@@ -4,29 +4,59 @@
   "linea": "Mark",
   "nombre_sistema": "MOVILASTIC XXJUMB C/40",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañales Kleenbebé Movilastic Extra Jumbo Etapa 6 40 Piezas",
+  "descripcion": "Descripción:\nKleenbebé Movilastic es un pañal desechable autoajustable para bebé, diseñado para adaptarse a la pancita y acompañar cada movimiento durante el día. Esta presentación corresponde a la talla Extra Jumbo (etapa 6) y contiene 40 piezas, con la calidad de Kimberly-Clark.\n\nCaracterísticas:\n- Sistema autoajustable con laterales elásticos que se adapta a la cintura y a las piernas del bebé sin apretar.\n- Libertad de movimiento para bebés activos, con un ajuste que ayuda a que el pañal se mantenga en su lugar durante todo el día.\n- Núcleo absorbente de varias capas para retener los líquidos y mantener la piel seca.\n- Capa interna suave en contacto con la piel del bebé.\n- Uso unisex, para niño y para niña.\n\nModo de uso:\nColoque el pañal con la parte del frente hacia el abdomen del bebé, ajuste las cintas adhesivas a la cintura y verifique que quede cómodo, sin apretar. Cámbielo con frecuencia y limpie bien la zona del pañal en cada cambio.\n\nPresentación:\nPaquete con 40 pañales desechables, talla Extra Jumbo (XXG), etapa 6, unisex.\n\nAdvertencias:\nManténgase fuera del alcance de los niños. Si el bebé presenta irritación en la piel, suspenda el uso y consulte a su pediatra. Higiene es salud.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Movilastic",
+    "variante": "Autoajustable",
+    "presentacion": "Paquete con 40 pañales",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 6",
+    "talla": "Extra Jumbo (XXG)",
+    "genero": "Unisex",
+    "otros": "Pañal desechable autoajustable; Formato de venta: paquete de 40 piezas"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM37253729"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425659111_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20241128_1040420.jpg",
+      "pagina": "https://www.benavides.com.mx/kleenbebe-movilastic-panales-unisex-autoajustables-talla-extra-jumbo-etapa-6-40-uds",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "fecha": "2026-09-29",
+      "lado_util": 799
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/kleenbebe-movilastic-panales-unisex-autoajustables-talla-extra-jumbo-etapa-6-40-uds",
+    "https://www.fahorro.com/pa-al-kleen-bebe-movilastic-extra-jumbo-40-pz.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "El GTIN no apareció en las fichas consultadas; se identificó por nombre. 'XXJUMB' se interpretó como Extra Jumbo (XXG, etapa 6); existe otra ficha 'Jumbo etapa 5' de 40 piezas con otro código. El catálogo MLM37253729 coincide por título pero no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda (Benavides), frente del paquete, 1000 px. Se borró una copia más chica y duplicada de la misma imagen.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

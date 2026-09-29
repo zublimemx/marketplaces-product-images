@@ -4,29 +4,57 @@
   "linea": "Mark",
   "nombre_sistema": "CRA LUBRIDERM P NORMAL 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Lubriderm Piel Normal 400 ml",
+  "descripcion": "Descripción:\nCrema corporal Lubriderm para piel normal a seca, en botella de 400 ml. Ayuda a mantener la humectación de la piel y a restaurarla, dejándola visiblemente saludable en solo 1 día. Su fórmula ligera con glicerina y emolientes se absorbe rápido y no deja sensación grasosa, por lo que es práctica para usar todos los días. Es un producto de laboratorio Johnson & Johnson, recomendado por dermatólogos.\n\nBeneficios:\n- Humecta la piel normal a seca.\n- Ayuda a restaurar la piel dejándola visiblemente saludable.\n- Fórmula ligera con glicerina y emolientes, de rápida absorción.\n- Sin sensación grasosa.\n- Presentación de 400 ml.\n\nModo de uso:\nAplique sobre la piel limpia y seca, en todo el cuerpo, y extienda con un suave masaje hasta su completa absorción. Úsela a diario o cuantas veces sea necesario.\n\nPresentación:\nBotella de 400 ml.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece irritación y consulte a su médico si persiste.\n- Manténgala fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Lubriderm",
+    "fabricante": "Johnson & Johnson",
+    "linea": "Humectación Diaria",
+    "variante": "Piel normal",
+    "presentacion": "Botella",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel normal a seca",
+    "otros": "Con glicerina y emolientes; Rápida absorción; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17331875"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7702031244509_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7702031244509.jpg",
+      "pagina": "https://www.fahorro.com/lubriderm-crema-corporal-humectacion-diaria-400-ml.html",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 596,
+      "fecha": "2026-09-29",
+      "lado_util": 553
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/lubriderm-crema-corporal-humectacion-diaria-400-ml.html",
+    "https://www.claroshop.com/producto/16984794/crema-corporal-lubriderm-piel-normal-400-ml"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en dos tiendas en línea (Lubriderm 400 ml; una lo llama Piel Normal y otra Humectación Diaria, el nombre actual del envase). Los beneficios salen del texto del envase visible en la foto y de las fichas de tienda; las tiendas difieren en la duración de la humectación (24 h o 48 h), por lo que se omitió. Catálogo ML por coincidencia exacta de nombre en resultados de búsqueda (\"Crema Corporal Lubriderm Piel Normal 400 ml\"); no se pudo abrir.",
+    "notas_imagenes": "1 foto de tienda con el frente de la botella Lubriderm Humectación Diaria 400 ml (600 px originales); el envase actual ya no dice Piel Normal.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "FEMISAN CREMA VAGINAL 400 MG",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Femisan Crema Vaginal Ketoconazol Clindamicina 30 g",
+  "descripcion": "Descripción:\nFemisan es una crema vaginal que combina dos principios activos: clindamicina, un antibiótico, y ketoconazol, un antimicótico. Al actuar de forma tópica sobre la mucosa vaginal, ataca tanto a las bacterias como a los hongos que originan las infecciones vaginales más comunes.\nEstá indicado en el tratamiento de la vaginosis bacteriana causada por Gardnerella vaginalis, Mobiluncus spp y otras bacterias anaerobias, en la vaginitis mixta (bacteriana y candidiásica) y en la candidiasis vaginal. También está indicado como preventivo de la ruptura prematura de membranas en mujeres embarazadas con vaginosis, siempre bajo vigilancia médica.\n\nFórmula:\nCada 100 g de crema vaginal contienen fosfato de clindamicina equivalente a 2 g de clindamicina y ketoconazol 8 g. Excipiente cbp 100 g. Cada aplicador con 5 g de crema contiene 100 mg de clindamicina y 400 mg de ketoconazol.\n\nModo de uso:\nVía vaginal. Se aplica el contenido de un aplicador (5 g de crema) en la profundidad de la vagina, una vez al día, de preferencia por la noche al acostarse, durante 6 días consecutivos.\n\nPresentación:\nCaja con un tubo de 30 g de crema vaginal y 6 aplicadores desechables.\n\nAdvertencias:\nSu venta requiere receta médica. Solo para uso vaginal. No lo use si tiene antecedentes de hipersensibilidad a los componentes de la fórmula. En personas susceptibles puede causar resequedad de la mucosa vaginal, irritación vulvar y comezón, que desaparecen al suspender el tratamiento. Complete el tratamiento indicado por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Femisan",
+    "linea": "Femisan",
+    "variante": "Crema vaginal 6 D",
+    "presentacion": "Caja con tubo de 30 g y 6 aplicadores desechables",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clindamicina (como fosfato) y ketoconazol",
+    "concentracion": "Por aplicador de 5 g: clindamicina 100 mg y ketoconazol 400 mg",
+    "via_administracion": "Vaginal",
+    "otros": "Forma farmacéutica: crema vaginal; Incluye 6 aplicadores desechables; Tratamiento de 6 días; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123014705_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/5297262/65f25cf94f633-a82ab6fe-75b5-45d6-a667-0eb4537a181c-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/17397460/femisan-crema-vaginal-400mg-100mg-5g-caja-con-tubo-con-30g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1171,
+      "fecha": "2026-09-29",
+      "lado_util": 1085
+    },
+    {
+      "archivo": "7501123014705_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/12248/5297262/65f25cfc3419d-21fca757-4585-46ef-9ae5-b57132ce8018-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/17397460/femisan-crema-vaginal-400mg-100mg-5g-caja-con-tubo-con-30g",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1016,
+      "fecha": "2026-09-29",
+      "lado_util": 941
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/femisan.crema.vaginal/66/101/54065/43",
+    "https://www.claroshop.com/producto/17397460/femisan-crema-vaginal-400mg-100mg-5g-caja-con-tubo-con-30g"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice '400 mg': corresponde al ketoconazol de cada aplicador de 5 g.",
+    "notas_imagenes": "2 fotos de tienda (Claroshop), frente de la caja, de 1016 a 1171 px. Se borró una foto con texto superpuesto.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

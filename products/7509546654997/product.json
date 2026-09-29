@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "MOUSSE CAPRICE FINAL TOUCH 200 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Espuma Modeladora Caprice Final Touch 200 g",
+  "descripcion": "Descripción:\nEspuma modeladora Caprice Final Touch, un mousse para peinar que ayuda a dar forma y a lograr un peinado espectacular en todo momento. Se aplica a lo largo del cabello para modelarlo y darle el acabado final que buscas. Presentación en aerosol de 200 g.\n\nCaracterísticas:\n- Espuma modeladora para peinar y dar forma al cabello.\n- Acabado final para lucir un peinado espectacular todo el día.\n- Textura de mousse que se distribuye fácilmente.\n- Envase de aerosol con 200 g de producto.\n\nModo de uso:\nAgite el envase antes de usar. Dispense una porción de espuma en la palma de la mano, distribúyala a lo largo del cabello y peine o modele al gusto.\n\nPresentación:\nEnvase aerosol con 200 g.\n\nAdvertencias:\nContenido a presión. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. No lo rocíe cerca de una flama ni de fuentes de calor, y no perfore ni queme el envase, aun vacío. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Caprice",
+    "linea": "Final Touch",
+    "variante": "Espuma modeladora",
+    "presentacion": "Mousse en aerosol",
+    "contenido_neto": 200,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Espuma modeladora para peinar; Envase aerosol"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546654997_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/planogram__1__d4c02ca2-e048-4f38-9529-e7bc87b33d48.jpg?v=1734644761&width=2401",
+      "pagina": "https://farmaciasanjorge.com/products/38603",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "fecha": "2026-09-29",
+      "lado_util": 1852
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/espuma-para-peinar-caprice-final-touch-200g-3659832/p",
+    "https://farmaciasanjorge.com/products/38603"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes traen poco texto (sin ingredientes ni modo de uso); modo de uso y advertencias son generales de mousse en aerosol.",
+    "notas_imagenes": "1 foto(s): 7509546654997_1.jpg (de tienda, farmaciasanjorge.com, 2401x2401 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

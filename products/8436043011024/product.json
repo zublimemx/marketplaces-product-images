@@ -4,29 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "PLENAFEM C30 LIOMONT",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Plenafem Suplemento Alimenticio 30 Cápsulas Liomont",
+  "descripcion": "Descripción:\nPlenafem es un suplemento alimenticio en cápsulas de Laboratorios Liomont, formulado con vitaminas, minerales, ácido fólico, luteína y ácidos grasos omega 3 (DHA y EPA). Puede ser consumido por mujeres antes y durante el embarazo y en el periodo de lactancia, y ayuda a cubrir sus necesidades nutricionales en esas etapas.\n\nCaracterísticas:\n- Aporta 250 mg de DHA y 50 mg de EPA por cápsula.\n- Contiene ácido fólico y vitaminas del complejo B, además de vitamina C y vitamina E.\n- Incluye minerales como hierro, zinc, yodo, selenio, cobre, manganeso y cromo.\n- Con luteína y zeaxantina.\n- Una sola cápsula al día.\n\nComposición por cápsula (979.8 mg):\nDHA 250 mg; EPA 50 mg; vitamina C 40 mg; vitamina E 12 mg; niacina (B3) 16 mg; ácido pantoténico (B5) 6 mg; vitamina B1 1.468 mg; vitamina B2 1.707 mg; vitamina B6 1.4 mg; ácido fólico 0.4 mg; biotina 0.076 mg; vitamina B12 0.0025 mg; además de cromo, selenio, yodo, cobre, manganeso, zinc, hierro, luteína y zeaxantina.\n\nModo de uso:\nTomar una cápsula al día por vía oral.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo exceda la dosis recomendada. Conservar por debajo de 25 °C. Mantener fuera del alcance de los niños. Este producto no es un medicamento.",
+  "ficha": {
+    "marca": "Plenafem",
+    "fabricante": "Laboratorios Liomont",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 1,
+    "principio_activo": "DHA, EPA, vitaminas, minerales, ácido fólico, luteína y zeaxantina",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Suplemento alimenticio; Dosis: 1 cápsula al día; Uso: mujeres antes y durante el embarazo y en lactancia; Peso por cápsula: 979.8 mg; Fabricado por Laboratorios Liconsa (España) para Liomont"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19699742"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "8436043011024_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/8436043011024.jpg?v=1726108685",
+      "pagina": "https://farmaciaherrera.com.mx/products/plena-fem-sup-alim-con-30-capsulas",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "fecha": "2026-09-29",
+      "lado_util": 1090
+    },
+    {
+      "archivo": "8436043011024_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8436043011024_2.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1680,
+      "fecha": "2026-09-29",
+      "lado_util": 1556
+    },
+    {
+      "archivo": "8436043011024_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/8/4/8436043011024_3.jpg",
+      "pagina": "https://www.fahorro.com/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1667,
+      "fecha": "2026-09-29",
+      "lado_util": 1543
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/plenafem.capsulas/103/101/67742/14",
+    "https://www.farmatodo.com.mx/plenafem-suplemento-alimenticio-caja-c-30-capsulas/p",
+    "https://farmaciaherrera.com.mx/products/plena-fem-sup-alim-con-30-capsulas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Catálogo ML MLM19699742 (Plenafem 30 cápsulas) visto en resultados de búsqueda, no se pudo abrir.",
+    "notas_imagenes": "3 fotos de tienda (farmacia en línea y CDN de Farmacias del Ahorro), de 1,177 a 1,680 px, frente y ángulo del empaque. Se descartó una copia de 544 px.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

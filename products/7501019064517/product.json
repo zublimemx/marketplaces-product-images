@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "TENA CALZ PANTS NOCT CH-M C/10",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "TENA Pants Nocturno Chico/Mediano 10 Calzones Adultos",
+  "descripcion": "Descripción:\nTENA Pants Nocturno es una ropa interior desechable tipo calzón, unisex, para adultos con incontinencia urinaria, diseñada especialmente para el descanso de la noche. Esta presentación es talla Chico/Mediano (cintura de 80 a 110 cm) y trae 10 piezas por paquete.\n\nBeneficios:\n- Diseño único para estar acostado, que ayuda a tener protección y descanso por más horas.\n- Absorción súper abundante (10 de 10 en la escala de absorción TENA); el empaque indica que absorbe hasta 80% más, con mayor cobertura de absorción.\n- Doble barrera anti escurrimiento reforzada.\n- Sistema ProSkin que cuida y protege la piel, con tela ultra suave, dermatológicamente probada y con salvia y té blanco.\n- Materiales respirables.\n- Pensado para personas activas.\n\nCaracterísticas:\nAjuste tipo calzón, fácil de poner y quitar, para hombres y mujeres.\n\nPresentación:\nPaquete con 10 calzones desechables, talla Chico/Mediano (CH/M), línea Pants Nocturno.\n\nAdvertencias:\nProducto de un solo uso. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "TENA",
+    "linea": "Pants Nocturno",
+    "variante": "Calzón desechable nocturno",
+    "presentacion": "Paquete con 10 piezas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "talla": "Chico/Mediano (cintura 80 a 110 cm)",
+    "genero": "Unisex",
+    "otros": "Absorbencia: súper abundante (10 de 10 escala TENA); Uso nocturno; Doble barrera anti escurrimiento; Materiales respirables; Sistema ProSkin con salvia y té blanco; Dermatológicamente probado; Producto desechable",
+    "fabricante": "Essity"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501019064517_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/305012-1000-1000/7501019064517.jpg",
+      "pagina": "https://www.lagranbodega.com.mx/ropa-interior-tena-pants-nocturno-mediano-10-pieza/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1034,
+      "fecha": "2026-09-29",
+      "lado_util": 958
+    }
+  ],
+  "url_oficial": "https://www.tena.com.mx/tena-pants-nocturno/p",
+  "fuentes": [
+    "https://www.tena.com.mx/tena-pants-nocturno/p",
+    "https://farmaciasanjorge.com/products/42789",
+    "https://www.lagranbodega.com.mx/ropa-interior-tena-pants-nocturno-mediano-10-pieza/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página del fabricante lista Pants Nocturno en talla mediana; el GTIN se confirmó en una tienda como Chico/Mediano de 10 piezas. No se encontró el rango de cintura.",
+    "notas_imagenes": "1 foto de tienda (supermercado en línea), 1,034 px, paquete de frente. Otra tienda solo tenía una imagen genérica y se omitió.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

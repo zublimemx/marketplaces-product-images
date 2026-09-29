@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "CRA LUBRIDERM REP INTENS 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Corporal Lubriderm Reparación Intensiva 200 ml",
+  "descripcion": "Descripción:\nCrema corporal Lubriderm Reparación Intensiva, la marca recomendada por dermatólogos, formulada para restaurar la piel severamente deshidratada, áspera y extra seca. Su fórmula con karité y minerales esenciales presentes en una piel sana ayuda a que la piel retenga la humedad y recupere su suavidad, con resultados que se ven y se sienten durante todo el día. Es una crema hipoalergénica y dermatológicamente probada.\n\nBeneficios:\n- Ayuda a la piel áspera, seca y deshidratada a restaurarse y retener la humedad\n- Fórmula con karité (shea butter) de liberación continua para una hidratación intensiva\n- Contiene minerales esenciales (cobre, zinc y magnesio) que ayudan a reparar y proteger la barrera de la piel\n- Piel que se ve y se siente más suave durante todo el día\n- Fórmula hipoalergénica y dermatológicamente probada\n- Formato de 200 ml práctico para uso diario\n\nModo de uso:\nAplique diariamente en todo el cuerpo, masajeando con movimientos circulares hasta su completa absorción.\n\nPresentación:\nFrasco con 200 ml de crema corporal. Marca Lubriderm, línea Reparación Intensiva.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Si se presenta una reacción desfavorable, suspenda su uso y consulte a su médico si persiste. Manténgase fuera del alcance de los niños. Conservar en un lugar fresco, protegido de la luz solar directa.",
+  "ficha": {
+    "marca": "Lubriderm",
+    "fabricante": "Kenvue",
+    "linea": "Reparación Intensiva",
+    "variante": "Crema corporal para piel muy seca",
+    "presentacion": "Frasco de 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Piel áspera, deshidratada y extra seca",
+    "otros": "Formato: crema corporal; Ingredientes destacados: karité, cobre, zinc y magnesio; Hipoalergénica y dermatológicamente probada; Recomendada por dermatólogos"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7702035870384_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwec6bcff1/images/large/7702035870384_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/lubriderm-intensiva-crema-reparacion-200ml/MXYZ_7702035870384.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 885,
+      "fecha": "2026-09-29",
+      "lado_util": 820
+    },
+    {
+      "archivo": "7702035870384_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/284424-1000-1000/7702035870384.jpg?v=637699151929370000",
+      "pagina": "https://www.yza.mx/lubriderm-intensiva-crema-reparacion-200ml/MXYZ_7702035870384.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 935,
+      "fecha": "2026-09-29",
+      "lado_util": 866
+    }
+  ],
+  "url_oficial": "https://www.lubriderm.com.mx/productos/reparacion-intensiva",
+  "fuentes": [
+    "https://www.lubriderm.com.mx/productos/reparacion-intensiva",
+    "https://www.yza.mx/lubriderm-intensiva-crema-reparacion-200ml/MXYZ_7702035870384.html",
+    "https://www.walmart.com.mx/ip/crema-corporal-lubriderm-reparacion-intensiva-200-ml/00770203587038"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7702035870384 confirmado como el frasco de 200 ml en tiendas y aparece entre los códigos de las imágenes de la página oficial. Los datos generales vienen de la página oficial (que muestra la versión más reciente con pro-ceramidas y fotos de 400 ml) y de fichas de tienda de 200 ml; la lista de ingredientes INCI no se incluyó porque el empaque de 200 ml de las fotos es de un diseño anterior. El fabricante Kenvue se dedujo de la marca.",
+    "notas_imagenes": "2 fotos de frente del frasco de 200 ml de tiendas (885 y 935 px), con dos diseños de etiqueta anteriores al nuevo empaque con pro-ceramidas. Se descartaron 2 gráficos informativos de la página oficial (íconos y foto de estilo de vida).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

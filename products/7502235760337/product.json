@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "INOFOLIC HP SUP ALIM C60 EXELTIS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Inofolic HP Myo-inositol Alfa-lactoalbúmina 60 Cápsulas",
+  "descripcion": "Descripción:\nInofolic HP es un suplemento alimenticio de Exeltis a base de myo-inositol, alfa-lactoalbúmina y L-metilfolato, en cápsulas. Puede ser consumido por mujeres en edad reproductiva; la alfa-lactoalbúmina ayuda a la absorción de los demás componentes.\n\nCaracterísticas:\n- Suplemento alimenticio, no es un medicamento.\n- Cada porción de 2 cápsulas aporta 1200 mg de myo-inositol, 400 mcg de folato y 32.32 mg de alfa-lactoalbúmina.\n- Sin gluten.\n- Contenido neto: 98.82 g; peso de cada cápsula: 1.647 g.\n\nIngredientes:\nMyo-inositol, alfa-lactoalbúmina y L-metilfolato (folato).\n\nModo de uso:\nTomar dos cápsulas al día.\n\nPresentación:\nCaja con 60 cápsulas.\n\nAdvertencias:\nEste producto no es un medicamento. Manténgase fuera del alcance de los niños. Consérvese a no más de 25 °C y alejado de la luz. Consulte a su médico o nutriólogo antes de consumirlo, sobre todo si está embarazada o en periodo de lactancia.",
+  "ficha": {
+    "marca": "Inofolic",
+    "fabricante": "Exeltis",
+    "linea": "HP",
+    "presentacion": "Caja con 60 cápsulas",
+    "contenido_neto": 60,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Myo-inositol, alfa-lactoalbúmina y L-metilfolato",
+    "concentracion": "Por 2 cápsulas: 1200 mg de myo-inositol, 400 mcg de folato y 32.32 mg de alfa-lactoalbúmina",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Contenido neto: 98.82 g; Peso de la cápsula: 1.647 g; Sin gluten; Suplemento alimenticio"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502235760337_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb7a78490/images/large/7502235760337_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/inofolic-hp-60-cap./MXYZ_7502235760337.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 789,
+      "fecha": "2026-09-29",
+      "lado_util": 730
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Inofolic-Suplemento-Alimenticio-Myo-inositol-alfa-Lactoalb%C3%BAmina/dp/B09VM4NN89",
+    "https://www.yza.mx/inofolic-hp-60-cap./MXYZ_7502235760337.html",
+    "https://www.farmatodo.com.mx/inofolic-hp-suplemento-alimenticio-caja-c-60-capsulas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha de Amazon menciona ácido fólico, mientras que la caja indica L-metilfolato; se usó lo de la caja. Otras tiendas dan 98.4 g de contenido neto; se usó el dato de la caja (98.82 g).",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA, 1000 px), caja de frente con contenido neto y peso de la cápsula.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

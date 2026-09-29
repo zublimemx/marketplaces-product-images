@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "PARAMIX 500 MG C 6 BLIST",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Paramix Nitazoxanida 500 mg 6 Tabletas",
+  "descripcion": "Descripción:\nParamix es un antiparasitario de amplio espectro cuyo principio activo es la nitazoxanida, en tabletas de 500 mg. Se indica para el tratamiento de parasitosis intestinales, entre ellas amibiasis, giardiasis, helmintiasis variadas, ascariasis, estrongiloidiasis y fasciolosis, así como tricomoniasis vaginal. Es elaborado por Laboratorios Liomont.\n\nComposición:\nCada tableta contiene nitazoxanida 500 mg. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Dosis habitual en adultos según la ficha del medicamento, siempre bajo indicación médica:\n- Amibiasis, giardiasis y helmintiasis: una tableta de 500 mg dos veces al día durante 3 días\n- Fasciolosis: una tableta de 500 mg dos veces al día durante 7 días\n- Tricomoniasis: una tableta de 500 mg dos veces al día durante 3 días\n\nPresentación:\nCaja con 6 tabletas de 500 mg en envase de burbuja (blíster).\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula\n- No se administre a menores de 2 años\n- No se use durante el embarazo ni la lactancia\n- Puede causar somnolencia; tenga precaución al conducir o manejar maquinaria\n- Puede producir coloración amarillenta transitoria de la orina y de la esclerótica de los ojos\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Paramix",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Paramix",
+    "presentacion": "Caja con 6 tabletas en blíster",
+    "contenido_neto": 6,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Nitazoxanida",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas (algunas tiendas las listan como grageas); Grupo terapéutico: antiparasitario; Envase: blíster"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
+      "categoria_rx_sugerida": "MLM457835",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299307380_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307380_1.jpg",
+      "pagina": "https://www.fahorro.com/paramix-500-mg-oral-6-grageas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1647,
+      "fecha": "2026-09-29",
+      "lado_util": 1525
+    },
+    {
+      "archivo": "7501299307380_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307380_2.jpg",
+      "pagina": "https://www.fahorro.com/paramix-500-mg-oral-6-grageas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1650,
+      "fecha": "2026-09-29",
+      "lado_util": 1528
+    },
+    {
+      "archivo": "7501299307380_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307380_3.jpg",
+      "pagina": "https://www.fahorro.com/paramix-500-mg-oral-6-grageas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1651,
+      "fecha": "2026-09-29",
+      "lado_util": 1529
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://medicamentosplm.com/home/productos/paramix-grageas/103/101/9196/77",
+    "https://www.fahorro.com/paramix-500-mg-oral-6-grageas.html",
+    "https://farmalisto.com.mx/antiparasitarios-con-receta/5822-paramix-500-mg-caja-con-6-grageas-7501299307380.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501299307380 confirmado en varias tiendas y en PLM. No vi la leyenda de receta en el empaque; se marcó 'Sí' porque una tienda lo clasifica como antiparasitario con receta. Conviene revisarlo.",
+    "notas_imagenes": "3 fotos de frente y de tres cuartos del empaque, de la ficha de Farmacias del Ahorro (1647 a 1651 px), todas correctas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

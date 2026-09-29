@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "AC JOHNSONS BABY 200ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aceite para Bebé Johnson's Baby Original 200 ml",
+  "descripcion": "Descripción:\nEl Aceite Johnson's Baby Original tiene una fórmula suave que retiene 10 veces más la hidratación natural de la piel del bebé* y es ideal para masajear y relajar a tu pequeño, dejando una delicada hidratación. Está diseñado para formar una barrera protectora que hidrata la piel.\n*Cuando se aplica en piel húmeda frente a una loción hidratante aplicada en piel seca.\n\nBeneficios:\n- Hidrata y ayuda a proteger la piel del bebé.\n- Fórmula suave, dermatológicamente probada.\n- Libre de parabenos, colorantes y ftalatos.\n- Ideal para dar masajes al bebé.\n\nModo de uso:\nAplique una pequeña cantidad sobre la piel del bebé y masajee suavemente. Para mejores resultados, aplíquelo sobre la piel húmeda después del baño.\n\nPresentación:\nBotella de 200 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Johnson's Baby",
+    "fabricante": "Johnson & Johnson",
+    "linea": "Original",
+    "variante": "Aceite para bebé",
+    "presentacion": "Botella de 200 ml",
+    "contenido_neto": 200,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Libre de parabenos, colorantes y ftalatos; Dermatológicamente probado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM193807",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891010031053_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/41+08y0dfuL._AC_SL1000_.jpg",
+      "pagina": "https://www.amazon.com.mx/Johnsons-Baby-Aceite-Original-200ml/dp/B0054EU63I",
+      "ancho_original": 316,
+      "alto_original": 726,
+      "lado_final": 779,
+      "fecha": "2026-09-29",
+      "lado_util": 722
+    },
+    {
+      "archivo": "7891010031053_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://m.media-amazon.com/images/I/41fvkkuk2dL._AC_SL1000_.jpg",
+      "pagina": "https://www.amazon.com.mx/Johnsons-Baby-Aceite-Original-200ml/dp/B0054EU63I",
+      "ancho_original": 318,
+      "alto_original": 731,
+      "lado_final": 785,
+      "fecha": "2026-09-29",
+      "lado_util": 727
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.amazon.com.mx/Johnsons-Baby-Aceite-Original-200ml/dp/B0054EU63I",
+    "https://farmaciasanjorge.com/products/12505",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/aceite-original-johnsons-baby"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La nota de uso sobre piel húmeda se tomó de la ficha de Amazon; el número de modelo de esa ficha coincide con el GTIN. No se encontró el sitio oficial de la marca en México.",
+    "notas_imagenes": "2 fotos de tienda (Amazon): frente y reverso de la botella de 200 ml. Se descartaron una imagen compuesta con panel amarillo y una foto publicitaria.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

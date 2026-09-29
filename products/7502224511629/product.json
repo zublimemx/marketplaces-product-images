@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SILICA SHINE SIL 3/1 UVA 120 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sílica Capilar Sily Silica Shine 3 en 1 Uva 120 ml",
+  "descripcion": "Descripción:\nSily Silica Shine 3 en 1 con aroma a uva es una sílica capilar líquida de la línea de cuidado del cabello de Seda Pure, en frasco de 120 ml. En el empaque se presenta como una fusión natural que da extra brillo al cabello y lo protege de los rayos UV.\n\nCaracterísticas:\n- Sílica para el cabello en presentación de aceite, formato 3 en 1.\n- Extra brillo.\n- Protección UV.\n- Aroma a uva.\n- Frasco de 120 ml.\n\nModo de uso:\nDistribuya unas gotas en las palmas de las manos y aplíquelas sobre el cabello húmedo o seco, de medios a puntas, sin enjuagar. Ajuste la cantidad según el largo y el tipo de cabello.\n\nPresentación:\nFrasco con 120 ml.\n\nAdvertencias:\nUso externo exclusivamente. Evite el contacto con los ojos; en caso de contacto, enjuague con agua abundante. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Sily",
+    "fabricante": "Seda Pure",
+    "linea": "Silica Shine 3 en 1",
+    "variante": "Extra brillo con protección UV",
+    "presentacion": "Frasco",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Uva",
+    "otros": "Formato: aceite; Uso: sin enjuague"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM171894",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tratamientos para el Cabello",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502224511629_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750222451162L.jpg",
+      "pagina": "https://super.walmart.com.mx/ip/silica-shine-sily-3-en-1-uva-120-ml/00750222451162",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 954,
+      "fecha": "2026-09-29",
+      "lado_util": 884
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://cedismed.com/producto/silica-shine-sily-3-1-uva/",
+    "https://super.walmart.com.mx/ip/silica-shine-sily-3-en-1-uva-120-ml/00750222451162"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Cedismed (Silica Shine Sily 3/1 Uva, 120 ml, laboratorio Seda Pure) y en el identificador de la ficha de Walmart. Hay poca información pública: la descripción se basa en la etiqueta del frasco; el modo de uso y las advertencias son los generales de una sílica capilar.",
+    "notas_imagenes": "1 foto de tienda (imagen del catálogo de Walmart México) a 1000 px: frasco frontal de Sily Silica. Se descartó una imagen de 'imagen no disponible'.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

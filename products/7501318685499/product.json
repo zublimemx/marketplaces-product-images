@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "XARELTO 10MG C30 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Xarelto Rivaroxabán 10 mg 30 Comprimidos",
+  "descripcion": "Descripción:\nXarelto es un medicamento de Bayer cuyo principio activo es rivaroxabán, un anticoagulante oral que inhibe de forma directa el factor Xa de la coagulación y reduce la formación de trombina, con lo que ayuda a prevenir la formación de coágulos. La presentación de 10 mg se emplea, bajo indicación médica, en la prevención de eventos tromboembólicos y en la prevención de coágulos tras cirugía de reemplazo articular, y forma parte del tratamiento de la trombosis venosa profunda y la embolia pulmonar. Caja con 30 comprimidos.\n\nComposición:\nCada comprimido contiene 10 mg de rivaroxabán micronizado. Los excipientes incluyen, entre otros, lactosa monohidratada, celulosa microcristalina, croscarmelosa sódica y estearato de magnesio.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las establece el médico según la indicación; no suspenda ni modifique la dosis sin consultarlo.\n\nPresentación:\nCaja con 30 comprimidos de 10 mg.\n\nAdvertencias:\nNo se use en caso de hipersensibilidad al rivaroxabán, hemorragia activa clínicamente significativa, trastornos hemorrágicos ni junto con otros anticoagulantes. Se recomienda evaluar la función renal antes de iniciar el tratamiento y precaución en antecedentes de úlcera péptica o hipertensión no controlada. Informe a su médico o dentista que toma un anticoagulante antes de cualquier procedimiento. Conservar en su envase original, protegido de la luz y la humedad, a no más de 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Xarelto",
+    "fabricante": "Bayer",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 30,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 1,
+    "principio_activo": "Rivaroxabán",
+    "concentracion": "10 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "357M2008 SSA IV",
+    "otros": "Anticoagulante oral, inhibidor directo del factor Xa; Caja con 30 comprimidos"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318685499_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501318685499.jpg",
+      "pagina": "https://www.fahorro.com/xarelto-10-mg-oral-30-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1572,
+      "fecha": "2026-09-29",
+      "lado_util": 1456
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/products/xarelto-10mg-con-30-comprimidos-rivaroxaban",
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/12224-xarelto-10-mg-rivaroxaban-30-comprimidos-bayer-rx.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Indicaciones y contraindicaciones de una ficha de tienda en línea; el registro sanitario de otra tienda. Verificar contra la ficha oficial de Bayer antes de publicar.",
+    "notas_imagenes": "1 foto(s): 7501318685499_1.jpg (de tienda, production-media.fahorro.com, 1600x1600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

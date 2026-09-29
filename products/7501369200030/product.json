@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "VINO DE CUASIA HIGIA 400ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Vino de Cuasia Genciana y Colombo Higia 400 ml",
+  "descripcion": "Descripción:\nVino de Cuasia, Genciana y Colombo de Laboratorios Higia es un elixir herbolario elaborado con cuasia, genciana y colombo en una base de vino. Se presenta en frasco de 400 ml y su etiqueta lo indica como estimulante del apetito y auxiliar en desórdenes digestivos.\n\nBeneficios:\n- Estimulante del apetito.\n- Auxiliar en desórdenes digestivos acompañados de diarreas.\n- Coadyuvante en las infecciones gastrointestinales causadas por parásitos.\n\nComposición:\n- Cuasia (Quassia amara L.)\n- Colombo (Jateorhiza palmata)\n- Genciana (Gentiana lutea)\n- Vino como base del elixir\n\nModo de uso:\nTómese en la dosis que indique la etiqueta del envase o su médico.\n\nPresentación:\nFrasco de 400 ml de elixir para administración oral, de Laboratorios Higia. Producto de venta libre (registro 12342 D.S.P. VI).\n\nAdvertencias:\nContiene vino como base. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Higia",
+    "fabricante": "Laboratorios Higia",
+    "variante": "Cuasia, genciana y colombo",
+    "presentacion": "Frasco",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cuasia, genciana y colombo",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: elixir; Base de vino; Producto herbolario",
+    "registro_sanitario": "12342 D.S.P. VI"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501369200030_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501369200030_6656bab6-d5b2-41ef-9221-540e16a73c2f.jpg?v=1726159539",
+      "pagina": "https://farmaciaherrera.com.mx/products/vino-cuasia-colombo-400-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 997,
+      "fecha": "2026-09-29",
+      "lado_util": 924
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.sanborns.com.mx/producto/192089/vino-de-cuasia-genciana-y-colombo-400-ml",
+    "https://farmaciaherrera.com.mx/products/vino-cuasia-colombo-400-ml",
+    "https://www.mdsc.com.mx/en/shop/7501369200030-vino-de-cuasia-genciana-y-colombo-elixir-fco-400-ml-na-339820"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunas tiendas lo listan como suplemento alimenticio; la etiqueta trae indicaciones digestivas, por eso se clasificó en digestivos. No se encontró la dosis ni el porcentaje de alcohol en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (farmacia en línea), 997 px, frasco de frente con la etiqueta legible.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

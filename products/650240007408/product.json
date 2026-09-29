@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "SILKA MEDIC 15 GR GEL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Silka Medic Gel Antimicótico Terbinafina 1% 15 g",
+  "descripcion": "Descripción:\nSilka Medic Gel es un antimicótico tópico a base de clorhidrato de terbinafina al 1% para el tratamiento del pie de atleta (tinea pedis) y de las infecciones micóticas de la piel ubicadas en ingle (tinea cruris), manos, tórax y axilas. Su empaque señala que elimina el pie de atleta en 7 días y que empieza a aliviar la comezón, la sudoración y el mal olor desde el primer día.\n\nBeneficios:\n- Cubre infecciones de la piel causadas por dermatofitos como Trichophyton rubrum, T. mentagrophytes, T. verrucosum, T. violaceum, Microsporum canis y Epidermophyton floccosum.\n- También actúa contra levaduras como Candida albicans y contra la pitiriasis versicolor.\n- En gel, para uso externo.\n\nFórmula:\nCada 100 g contienen clorhidrato de terbinafina 1 g y vehículo cbp 100 g.\n\nModo de uso:\nAplique una o dos veces al día sobre la zona afectada y el área circundante; en el pie de atleta, ponga especial atención entre los dedos. La duración habitual es de 1 semana para tinea corporis, cruris y pedis y candidiasis cutánea, y de 2 semanas para pitiriasis versicolor. Si no hay mejoría en dos semanas, debe revisarse el diagnóstico.\n\nPresentación:\nCaja con tubo de 15 g. Conservar el tubo bien tapado, en lugar seco y a no más de 30 °C.\n\nAdvertencias:\nSolo para uso externo; evite el contacto con los ojos y las mucosas y, si ocurre, lave con abundante agua. Suspenda el tratamiento si aparece irritación severa. No lo use si es alérgico a la terbinafina o a algún componente. No se recomienda en embarazo o lactancia salvo indicación médica, y su seguridad no está establecida en menores de 2 años. Evite la exposición prolongada al sol de las zonas tratadas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Silka Medic",
+    "fabricante": "Genomma Lab",
+    "linea": "Silka Medic",
+    "variante": "Gel antimicótico",
+    "presentacion": "Caja con tubo de 15 g",
+    "contenido_neto": 15,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clorhidrato de terbinafina",
+    "concentracion": "1 g/100 g (1%)",
+    "via_administracion": "Tópica",
+    "otros": "Forma farmacéutica: gel; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240007408_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240007408_5.jpg",
+      "pagina": "https://www.fahorro.com/silka-medic-gel-antimicotico-15-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1559,
+      "fecha": "2026-09-29",
+      "lado_util": 1444
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/silka-medic-gel-antimicotico-15-g.html",
+    "https://www.medicamentosplm.com/Home/productos/silkamedic/63/101/12400/66",
+    "https://www.amazon.com.mx/Silka-Medic-Antimic%C3%B3tico-30-gr/dp/B074KGBGP8"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El fabricante (Genomma Lab) se dedujo del registro de PLM; el nombre comercial en algunas fuentes aparece como Silkamedic.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja de 15 g de frente. Se descartó otra foto por estar recortada y mostrar un diseño anterior.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

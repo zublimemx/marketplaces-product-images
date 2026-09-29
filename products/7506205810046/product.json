@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "ENFAMIL CONFORT PREMIUM 800G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fórmula Infantil Enfamil Premium Confort Etapa 1 800 g",
+  "descripcion": "Descripción:\nEnfamil Premium Confort es una fórmula infantil especializada para lactantes de 0 a 12 meses (etapa 1) con necesidades especiales de nutrición. Contiene proteína parcialmente digerida (hidrolizada) y es baja en lactosa, pensada para ofrecer confort digestivo en bebés sensibles.\n\nBeneficios:\n- Proteína parcialmente hidrolizada de fácil digestión\n- Reducida en lactosa\n- Enriquecida con DHA, ARA, zinc, hierro, colina y MFGM (membrana del glóbulo de grasa de la leche)\n- Mezcla prebiótica para apoyar el bienestar digestivo\n- Fórmula de inicio para bebés de 0 a 12 meses\n\nComposición:\nAporte aproximado por 100 g de polvo:\n- Energía: 515 kcal\n- Proteínas: 11.7 g\n- Carbohidratos disponibles: 54 g\n- Azúcares totales: 28 g\n- Sodio: 200 mg\n\nModo de uso:\nLa porción sugerida es de 4.4 g de polvo (una medida) por cada 30 ml de agua previamente hervida y tibia. Prepare cada toma al momento y deseche lo que sobre. Siga siempre las instrucciones de preparación y las cantidades indicadas en la etiqueta o por su pediatra.\n\nPresentación:\nLata de 800 g de fórmula en polvo.\n\nAdvertencias:\nLa leche materna es el mejor alimento para los bebés. Consulte a su médico sobre el uso de este producto.",
+  "ficha": {
+    "marca": "Enfamil",
+    "fabricante": "Mead Johnson",
+    "linea": "Premium Confort (Pro Select Confort Pro)",
+    "variante": "Etapa 1, fórmula especializada baja en lactosa con proteína parcialmente hidrolizada",
+    "presentacion": "Lata de 800 g en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Etapa 1 (0 a 12 meses)",
+    "otros": "Formato: fórmula en polvo; Ingredientes destacados: proteína parcialmente hidrolizada, DHA, ARA, MFGM, zinc, hierro, colina; Reducida en lactosa; Porción sugerida: 4.4 g en 30 ml de agua"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506205810046_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1f1ccf7c/images/large/7506205810046_1.jpg",
+      "pagina": "https://yza.mx/enfamil-confort-800g/MXYZ_7506205810046.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 942,
+      "fecha": "2026-09-29",
+      "lado_util": 873
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://yza.mx/enfamil-confort-800g/MXYZ_7506205810046.html",
+    "https://www.fahorro.com/enfamil-premium-confort-etapa-1-formula-infantil-especializada-para-lactantes-de-0-a-12-meses-lata-de-800-gr.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la ficha de Yza (Enfamil Confort 0 a 12 meses, 800 g). No se pudo abrir la página oficial de Enfamil. Los datos nutrimentales son de esa ficha y pueden variar según el lote o el empaque vigente.",
+    "notas_imagenes": "1 foto de frente al empaque (942 px) de la ficha de Yza, nombrada con el GTIN; muestra la lata actual 'Premium Pro Select Confort Pro'.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

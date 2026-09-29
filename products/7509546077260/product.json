@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO COS MEN SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Stefano Cosmo Men en Spray 113 g",
+  "descripcion": "Descripción:\nEl Desodorante Stefano Cosmo Men en spray es un desodorante en aerosol para hombre que ayuda a combatir el mal olor y a mantener la sensación de frescura durante el día. Tiene un aroma fresco y masculino y se presenta en lata de 113 g, práctica para llevar y aplicar.\n\nCaracterísticas:\n- Desodorante en aerosol (spray) para hombre.\n- Aroma fresco y masculino, variante Cosmo.\n- Contenido de 113 g.\n\nModo de uso:\nAgite el envase antes de usar y aplique sobre las axilas limpias y secas. Repita la aplicación las veces que sea necesario durante el día.\n\nPresentación:\nAerosol de 113 g.",
+  "ficha": {
+    "marca": "Stefano",
+    "linea": "Stefano",
+    "variante": "Cosmo Men",
+    "presentacion": "Aerosol de 113 g",
+    "contenido_neto": 113,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresco masculino (Cosmo)",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol (spray)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546077260_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7509546077260.jpg?v=1704413421&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/32952",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "fecha": "2026-09-29",
+      "lado_util": 365
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasanjorge.com/products/32952"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN solo se vio en una ficha de tienda (Desodorante Stefano Cosmo Men Spray 113 g); se interpretó 'COS MEN' como 'Cosmo Men'. Faltan datos de ingredientes, fabricante y advertencias, y la descripción de esa ficha es genérica, por lo que la descripción es breve.",
+    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge, 500 px), lata Stefano Cosmo de frente; resolución baja pero es la única encontrada.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

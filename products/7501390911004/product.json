@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL G CRA 30G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Italdermol G Crema Triticum Vulgare Gentamicina 30 g",
+  "descripcion": "Descripción:\nItaldermol G es una crema tópica de Italmex que combina el extracto acuoso de Triticum vulgare, orientado a estimular la epitelización y la cicatrización de la piel, con gentamicina, un antibiótico para heridas con infección o sospecha de ella.\n\nBeneficios:\nIndicada en heridas de la piel que requieren estimulación de los procesos de epitelización y cicatrización y que cursan con infección o sospecha de la misma, entre ellas:\n- Abrasiones y escoriaciones.\n- Quemaduras.\n- Heridas quirúrgicas dehiscentes o con cicatrización retardada.\n\nFórmula:\nCada 100 g de crema contienen extracto acuoso de Triticum vulgare 15 g, sulfato de gentamicina equivalente a 100 mg de gentamicina y excipiente cbp 100 g.\n\nModo de uso:\nUso tópico. Después de desbridar y limpiar la herida, aplique una capa delgada de crema dos veces al día y cubra con una gasa estéril. La duración se define según la respuesta clínica y puede llegar hasta 28 días.\n\nPresentación:\nCaja con tubo de 30 g. Descarte el producto 4 semanas después de abierto el envase.\n\nAdvertencias:\nSu venta requiere receta médica. No se use durante el embarazo y la lactancia. No ingerible ni para uso oftálmico. Está contraindicada en hipersensibilidad a algún componente y no debe sustituir el tratamiento específico de heridas y quemaduras complicadas. El uso prolongado puede causar dermatitis o crecimiento de microorganismos oportunistas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "fabricante": "Italmex",
+    "linea": "Italdermol G",
+    "presentacion": "Caja con tubo de 30 g",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Extracto acuoso de Triticum vulgare y gentamicina",
+    "concentracion": "Triticum vulgare 15 g y gentamicina 0.1 g por 100 g",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "279M2009 SSA IV",
+    "otros": "Forma farmacéutica: crema; Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
+      "catalogo_id": "MLM45287614"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390911004_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw43197308/images/large/7501390911004_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/italdermol-crema-tubo-15g0.1g100g-30g/MXYZ_7501390911004.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1010,
+      "fecha": "2026-09-29",
+      "lado_util": 936
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/italdermol.g/83/101/33610/36",
+    "https://www.yza.mx/italdermol-crema-tubo-15g0.1g100g-30g/MXYZ_7501390911004.html",
+    "https://www.fahorro.com/italdermol-g-cicatrizante-30-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Farmacias del Ahorro indica que no requiere receta, pero la información para prescribir de PLM señala que su venta requiere receta médica; se tomó esta última.",
+    "notas_imagenes": "1 foto de tienda (Farmacias YZA, 1000 px), caja con tubo de 30 g de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

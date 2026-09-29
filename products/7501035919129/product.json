@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH PALMOL OPT EXT INT 400 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Palmolive Optims Extra Intensivo 2 en 1 400 ml",
+  "descripcion": "Descripción:\nShampoo 2 en 1 Palmolive Optims Acondicionamiento Extra Intensivo (nivel 4), que combina limpieza y acondicionamiento en una sola aplicación. Está formulado con keratina vital y pensado para el cabello seco o maltratado por la resequedad, que necesita una hidratación más profunda en cada lavado.\n\nBeneficios:\n- Limpia y acondiciona el cabello en un solo paso\n- Formulado con keratina vital\n- Ayuda a que el cabello luzca más radiante y fuerte\n- Ayuda a contrarrestar los daños causados por la resequedad\n- Aroma de larga duración\n- Práctica presentación de 400 ml para varios lavados\n\nModo de uso:\nAplique una cantidad suficiente sobre el cabello mojado, masajee suavemente el cuero cabelludo y las puntas hasta generar espuma y enjuague con abundante agua. Repita si es necesario.\n\nPresentación:\nBotella de 400 ml. Marca Palmolive, línea Optims, elaborado por Colgate-Palmolive.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Palmolive",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Optims",
+    "variante": "Acondicionamiento Extra Intensivo 2 en 1 (Nivel 4)",
+    "presentacion": "Botella de 400 ml",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello seco o dañado",
+    "otros": "Formato: shampoo con acondicionador 2 en 1; Ingrediente destacado: keratina vital"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035919129_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035919129_4.jpg",
+      "pagina": "https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-400-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1571,
+      "fecha": "2026-09-29",
+      "lado_util": 1455
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-400-ml.html",
+    "https://grupofarmapronto.com/producto/palmolive-optims-2en1-acondicionamiento-extra-intensivo-400-ml-shampoo/",
+    "https://www.farmatodo.com.mx/palmolive-optims-shampoo-2-en-1-extra-intensivo-botella-c-400-ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en tres tiendas (400 ml). Las fichas de tienda traen poca información; el modo de uso y las advertencias son genéricos de shampoo. No se abrió la página oficial de la marca.",
+    "notas_imagenes": "1 foto de frente al empaque (1571 px) tomada de la ficha de Farmacias del Ahorro, nombrada con el GTIN; el frasco muestra la leyenda 'Nueva imagen' propia del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

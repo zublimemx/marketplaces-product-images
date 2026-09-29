@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "ALIN DEPOT 4MG AMP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alin Depot Dexametasona 4 mg/ml Inyectable 2 ml",
+  "descripcion": "Descripción:\nAlin Depot es una suspensión inyectable de dexametasona, un corticosteroide de acción prolongada, elaborada por Laboratorios Chinoin. Cada mililitro contiene 4 mg de dexametasona en forma de 21-isonicotinato de dexametasona, y cada frasco ámpula de 2 ml aporta el equivalente a 8 mg de dexametasona. Es un medicamento de uso médico que debe indicarse y administrarse bajo supervisión de un profesional de la salud.\n\nComposición:\nEl frasco ámpula contiene 21-isonicotinato de dexametasona equivalente a 8 mg de dexametasona, con vehículo cbp 2 ml (concentración de 4 mg/ml).\n\nModo de uso:\nVía de administración intramuscular. No se administre por vía intravenosa. Agítese antes de usarse. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 1 frasco ámpula de suspensión inyectable de 2 ml (4 mg/ml).\n\nAdvertencias:\nUso exclusivo por vía intramuscular; no debe aplicarse por vía intravenosa. No se use si es alérgico a la dexametasona o a algún componente de la fórmula. Los corticosteroides requieren seguimiento médico, en especial en tratamientos prolongados, embarazo o lactancia. Informe a su médico si padece otras enfermedades o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alin",
+    "fabricante": "Chinoin",
+    "linea": "Depot",
+    "presentacion": "Suspensión inyectable",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexametasona (21-isonicotinato de dexametasona)",
+    "concentracion": "4 mg/ml",
+    "via_administracion": "Intramuscular",
+    "otros": "Frasco ámpula de 2 ml; Equivale a 8 mg de dexametasona por frasco; Corticosteroide de acción prolongada"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088505157_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/AlinDepot_1.jpg?v=1687739102",
+      "pagina": "https://sanorim.mx/products/alin-depot-dexametasona-4-mg-ml-caja-con-1-ampolleta-inyectable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 565,
+      "fecha": "2026-09-29",
+      "lado_util": 524
+    },
+    {
+      "archivo": "7501088505157_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/AlinDepot.jpg?v=1687739103",
+      "pagina": "https://sanorim.mx/products/alin-depot-dexametasona-4-mg-ml-caja-con-1-ampolleta-inyectable",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 543,
+      "fecha": "2026-09-29",
+      "lado_util": 503
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/alin-depot-suspension-4mg2ml-1-iny/MXYZ_7501088505157.html",
+    "https://grupofarmapronto.com/producto/alin-depot-4mg-c-2-ml-solucion-inyectable-2/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fórmula y vía de administración leídas del empaque en las fotos; las fuentes web no traen indicaciones detalladas, por eso la descripción no las incluye. Algunas tiendas lo listan sin receta; por ser corticosteroide inyectable se marcó receta Sí.",
+    "notas_imagenes": "2 foto(s): 7501088505157_1.jpg (de tienda, sanorim.mx, 600x600 px); 7501088505157_2.jpg (de tienda, sanorim.mx, 600x600 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

@@ -4,29 +4,73 @@
   "linea": "Farma",
   "nombre_sistema": "ZIVATA-DUO DUTASTERIDA/TAMSULOSINA 0.5MG/0.4MG C 30 CAP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Zivata-Duo Dutasterida Tamsulosina 0.5/0.4 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nZivata-Duo es un medicamento en cápsulas que combina dutasterida (inhibidor de la 5-alfa reductasa) y tamsulosina (bloqueador alfa) en una sola cápsula. Se usa en hombres para tratar y prevenir la progresión de la hiperplasia prostática benigna (HPB): ayuda a aliviar los síntomas, a reducir el volumen de la próstata, a mejorar la velocidad de flujo urinario y a disminuir el riesgo de retención urinaria aguda y la necesidad de cirugía relacionada con la HPB.\n\nFórmula:\nCada cápsula contiene dutasterida 0.5 mg y clorhidrato de tamsulosina 0.4 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico. Para que la tamsulosina se absorba de manera uniforme, se recomienda tomarla siempre aproximadamente 30 minutos después de la misma comida cada día.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No lo use si es alérgico a la dutasterida, a la tamsulosina o a cualquier componente de la fórmula.\n- Puede afectar el estado de alerta; tenga precaución al conducir vehículos u operar maquinaria.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Zivata-Duo",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Zivata",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Dutasterida, tamsulosina (clorhidrato)",
+    "concentracion": "0.5 mg/0.4 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "genero": "Hombre",
+    "registro_sanitario": "025M2021 SSA IV",
+    "otros": "Forma farmacéutica: Cápsulas; Requiere receta médica; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300421821_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6fc63bc0/images/large/7501300421821_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/zivata-duo-0.5mg0.4mg-30-caps/MXYZ_7501300421821.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 854,
+      "fecha": "2026-09-29",
+      "lado_util": 790
+    },
+    {
+      "archivo": "7501300421821_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw086b09d9/images/large/7501300421821_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/zivata-duo-0.5mg0.4mg-30-caps/MXYZ_7501300421821.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 775,
+      "fecha": "2026-09-29",
+      "lado_util": 714
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/zivataduo_capsulas/170/101/77425/14",
+    "https://www.benavides.com.mx/1048127-0-5-mg-0-4-mg-dutasterida-tamsulosina",
+    "https://www.yza.mx/zivata-duo-0.5mg0.4mg-30-caps/MXYZ_7501300421821.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la dirección y en los nombres de imagen de una farmacia en línea (caja con 30 cápsulas 0.5 mg/0.4 mg). Composición, indicación, fabricante (Siegfried Rhein) y registro sanitario tomados de PLM. Zivata-Duo es una combinación en una sola cápsula, no dos medicamentos.",
+    "notas_imagenes": "2 fotos de tienda (frente y costado de la caja Zivata-Duo, 30 cápsulas), 1000 px originales.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

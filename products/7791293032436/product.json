@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD REXONA WOM POW-DRY SPY 150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Antitranspirante Rexona Women Powder Dry Aerosol 150 ml",
+  "descripcion": "Descripción:\nRexona Powder Dry es un antitranspirante en aerosol para mujer que ofrece doble protección contra el sudor y el mal olor. Su fórmula de secado rápido deja una sensación seca y fresca, y su tecnología se activa con el movimiento para brindar protección instantánea. Presentación de 150 ml.\n\nBeneficios:\n- Protección de 72 horas contra el sudor y el mal olor.\n- Doble protección contra el sudor y el mal olor.\n- Protección seca y fresca con fórmula de secado rápido.\n- Protección activada por el movimiento.\n- Aerosol práctico de 150 ml, con fragancia Powder Dry.\n\nIngredientes:\nButano, isobutano, propano, ciclopentasiloxano, clorohidrato de aluminio sesqui, fragancia (limoneno, linalool, citronelol, entre otros componentes aromáticos).\n\nModo de uso:\nAgite antes de usar. Aplique solamente en las axilas, a no menos de 15 cm de distancia de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nUso exclusivo en las axilas. Producto inflamable: manténgase alejado del fuego y de fuentes de calor, y no perfore ni queme el envase, aun vacío. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Women Powder Dry",
+    "variante": "Powder Dry",
+    "presentacion": "Aerosol",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "sabor_aroma": "Powder Dry",
+    "otros": "Protección: 72 horas; Antitranspirante en aerosol; Activado por el movimiento"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7791293032436_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7791293032436_1_1.jpg",
+      "pagina": "https://www.fahorro.com/antitranspirante-rexona-women-powder-dry-en-aerosol-para-mujer-150-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1624,
+      "fecha": "2026-09-29",
+      "lado_util": 1504
+    }
+  ],
+  "url_oficial": "https://www.rexona.com/mx/p/antitranspirante-rexona-r-powder-dry-en-aerosol-para-mujer-150-ml.html/07791293032436",
+  "fuentes": [
+    "https://www.rexona.com/mx/p/antitranspirante-rexona-r-powder-dry-en-aerosol-para-mujer-150-ml.html/07791293032436",
+    "https://www.fahorro.com/antitranspirante-rexona-women-powder-dry-en-aerosol-para-mujer-150-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en la página oficial de Rexona México. La ficha oficial no detalla advertencias; las incluidas son las generales de un aerosol (los ingredientes son gases inflamables).",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro) a 1600 px: aerosol frontal de Rexona Powder Dry 72 h. No se obtuvo foto del sitio oficial porque carga por JavaScript.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

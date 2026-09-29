@@ -4,29 +4,94 @@
   "linea": "Farma",
   "nombre_sistema": "EVOCS 111 500 MG C 7 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Evocs III Levofloxacino 500 mg 7 Tabletas",
+  "descripcion": "Descripción:\nEvocs III es un antibiótico de la familia de las quinolonas cuyo principio activo es el levofloxacino, en tabletas de 500 mg. Se utiliza para tratar infecciones causadas por bacterias sensibles al medicamento, entre ellas infecciones de las vías respiratorias como sinusitis y neumonía, de la piel y los tejidos blandos, y de las vías urinarias. Es elaborado por Laboratorios Liomont y su venta requiere receta médica.\n\nComposición:\nCada tableta contiene levofloxacino hemihidratado equivalente a 500 mg de levofloxacino. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico según el tipo de infección; en adultos con función renal normal la ficha del medicamento contempla una toma cada 24 horas. No suspenda ni modifique el tratamiento por su cuenta.\n\nPresentación:\nCaja con 7 tabletas de 500 mg.\n\nAdvertencias:\n- No lo use si es alérgico al levofloxacino o a otras quinolonas\n- No se recomienda en menores de 18 años\n- No se use durante el embarazo ni la lactancia\n- No lo use si padece epilepsia o ha tenido problemas de tendones con quinolonas; puede causar tendinitis o ruptura de tendón\n- Puede afectar el sistema nervioso central y prolongar el intervalo QT del corazón; suspenda su uso y acuda al médico ante cualquier síntoma inesperado\n- Evite la exposición excesiva al sol durante el tratamiento\n\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Evocs",
+    "fabricante": "Laboratorios Liomont",
+    "linea": "Evocs III",
+    "presentacion": "Caja con 7 tabletas",
+    "contenido_neto": 7,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 7,
+    "principio_activo": "Levofloxacino",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "318M2008 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antibiótico (quinolona); Venta con receta médica"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299307687_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307687_2.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-500-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1636,
+      "fecha": "2026-09-29",
+      "lado_util": 1515
+    },
+    {
+      "archivo": "7501299307687_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307687_3.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-500-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1656,
+      "fecha": "2026-09-29",
+      "lado_util": 1534
+    },
+    {
+      "archivo": "7501299307687_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307687_4.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-500-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1627,
+      "fecha": "2026-09-29",
+      "lado_util": 1507
+    },
+    {
+      "archivo": "7501299307687_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501299307687_1.jpg",
+      "pagina": "https://www.fahorro.com/evocs-iii-500-mg-oral-7-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1415,
+      "fecha": "2026-09-29",
+      "lado_util": 1311
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/evocs.iii.tabletas/103/101/33568/210",
+    "https://www.fahorro.com/evocs-iii-500-mg-oral-7-tabletas.html",
+    "https://farmaciasmedina.com/detalleProducto/Evocs-Iii-7-Tabletas-Caja/7501299307687"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501299307687 confirmado en varias tiendas y en la caja (7 tabletas de 500 mg). Datos clínicos de PLM (que cubre las presentaciones de 500 y 750 mg de Evocs III). El nombre del sistema escribe 'EVOCS 111'; se interpretó como Evocs III. Antibiótico de venta con receta.",
+    "notas_imagenes": "4 fotos de la caja de Evocs III 500 mg (frente, tres cuartos y con la fórmula al reverso; 1415 a 1656 px) de la ficha de Farmacias del Ahorro, todas correctas.",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }

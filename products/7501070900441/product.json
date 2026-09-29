@@ -4,29 +4,81 @@
   "linea": "Farma",
   "nombre_sistema": "FLUXEDAN 5 12 MG JBE 225 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Fluxedan Jarabe Bromhexina Oxeladina 225 ml",
+  "descripcion": "Descripción:\nFluxedan es un jarabe que combina clorhidrato de bromhexina y citrato de oxeladina, formulado para el manejo de la tos. La bromhexina es un mucolítico que ayuda a fluidificar las secreciones bronquiales y la oxeladina es un antitusivo que ayuda a calmar la tos. Se presenta en frasco de 225 ml con medida dosificadora.\n\nComposición:\nCada 100 ml de jarabe contiene:\n- Clorhidrato de bromhexina 60 mg\n- Citrato de oxeladina 120 mg\n- Vehículo cbp 100 ml\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser indicadas por el médico según la edad y la condición del paciente. Utilice la medida dosificadora que viene en el empaque.\n\nPresentación:\nCaja con frasco de 225 ml y medida dosificadora.\n\nAdvertencias:\nMedicamento de venta con receta médica; no se automedique. Almacénelo entre 15 y 30 °C. No lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fluxedan",
+    "fabricante": "Carnot Laboratorios",
+    "presentacion": "Frasco de 225 ml con medida dosificadora",
+    "contenido_neto": 225,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Bromhexina, Oxeladina",
+    "concentracion": "60 mg/120 mg por 100 ml",
+    "via_administracion": "Oral",
+    "registro_sanitario": "74547 SSA IV",
+    "otros": "Forma farmacéutica: jarabe; Venta con receta médica; Almacenar entre 15 y 30 °C"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501070900441_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501070900441.jpg?v=1703112721&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/5429",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 511,
+      "fecha": "2026-09-29",
+      "lado_util": 474
+    },
+    {
+      "archivo": "7501070900441_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/f/l/fluxedan-6-12-mg-oral-225-ml-jbe-0441_2.jpg",
+      "pagina": "https://farmaciasanjorge.com/products/5429",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1620,
+      "fecha": "2026-09-29",
+      "lado_util": 1500
+    },
+    {
+      "archivo": "7501070900441_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwc900637f/images/large/7501070900441_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://farmaciasanjorge.com/products/5429",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 781,
+      "fecha": "2026-09-29",
+      "lado_util": 724
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-gripe-y-tos-con-receta/2816-fluxedan-jarabe-6-mg-12-mg-caja-con-frasco-con-225-ml-7501070900441.html",
+    "https://www.fahorro.com/fluxedan-6-mg-12-mg-jarabe-225-ml.html",
+    "https://farmaciasanjorge.com/products/5429"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice '5 12 MG'; las tiendas lo listan como 5/12 mg o 6/12 mg por dosis y el empaque indica 60 mg y 120 mg por 100 ml. No se abrió PLM; las indicaciones se redactaron de forma general por el tipo de fármaco.",
+    "notas_imagenes": "3 fotos de tienda (frente del empaque de jarabe, entre 511 y 1620 px).",
+    "fecha": "2026-09-29",
+    "sesion": 6
   }
 }
