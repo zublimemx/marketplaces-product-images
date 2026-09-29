@@ -1,0 +1,41 @@
+{
+  "gtin": "7501125118289",
+  "sku": "7501125118289",
+  "linea": "Farma",
+  "nombre_sistema": "FLUONING 750MG T7",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fluoning 750 mg 7 Tabletas",
+  "descripcion": "Descripción:\nFluoning 750 mg en presentación de 7 tabletas.\n\nPresentación:\nCaja con 7 tabletas de 750 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fluoning",
+    "presentacion": "tabletas",
+    "contenido_neto": 7,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 7,
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo. Por la concentración y las 7 tabletas podría ser un antibiótico (posiblemente levofloxacino 750 mg), pero no está confirmado; si lo es, receta Sí, categoría Antiinfecciosos Venta Libre (MLM457823) y rx MLM457827. El GTIN comparte prefijo con Vitafusin de PiSA, lo que sugiere que también es de PiSA (no confirmado).",
+    "fecha": "2026-09-29"
+  }
+}

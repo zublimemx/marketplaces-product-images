@@ -1,0 +1,40 @@
+{
+  "gtin": "7501868901131",
+  "sku": "7501868901131",
+  "linea": "Farma",
+  "nombre_sistema": "ALCO A 1LT C12 PZAS DIBAR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Alcohol Dibar 1 l Caja con 12 Piezas",
+  "descripcion": "Descripción:\nAlcohol de la marca Dibar en botella de 1 litro, presentado en caja con 12 piezas. Producto de uso externo.\n\nPresentación:\nCaja con 12 botellas de 1 litro cada una.\n\nAdvertencias:\nSolo para uso externo; no se ingiera. Producto inflamable: manténgase alejado del fuego, chispas y fuentes de calor. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "botella",
+    "contenido_neto": 1,
+    "unidad_contenido": "l",
+    "unidades_por_envase": 12,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Caja con 12 piezas; Uso: Externo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM458019",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcoholes Líquidos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). Se interpretó C12 PZAS como caja con 12 botellas de 1 litro, porque el precio (unos 34 pesos por litro) es consistente con eso. Se desconoce el tipo de alcohol (ALCO A: antiséptico 70%, etílico desnaturalizado 96%, etc.); si es etílico, la categoría equivalente es MLM191698.",
+    "fecha": "2026-09-29"
+  }
+}

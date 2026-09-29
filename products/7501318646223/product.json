@@ -1,0 +1,44 @@
+{
+  "gtin": "7501318646223",
+  "sku": "7501318646223",
+  "linea": "Farma",
+  "nombre_sistema": "CANESTEN V OVULOS C/3",
+  "nombres_sistema_alternos": [],
+  "titulo": "Canesten V Clotrimazol 3 Óvulos Vaginales",
+  "descripcion": "Descripción:\nCanesten V de Bayer es un antimicótico vaginal cuyo principio activo es el clotrimazol, en óvulos para aplicar por vía vaginal. Se utiliza para el tratamiento de la candidiasis vaginal (infección por hongos), cuyos síntomas incluyen comezón, ardor y flujo.\n\nModo de uso:\nVía vaginal. Introduzca el óvulo lo más profundo posible en la vagina, de preferencia por la noche al acostarse, durante el número de días indicado en el empaque o por su médico.\n\nPresentación:\nCaja con 3 óvulos vaginales.\n\nAdvertencias:\nNo lo use si es alérgica al clotrimazol o a alguno de los componentes. Durante el embarazo consulte a su médico antes de usarlo. Suspenda su uso si aparece irritación intensa. Si los síntomas no mejoran o reaparecen, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Canesten",
+    "fabricante": "Bayer",
+    "linea": "Canesten V",
+    "presentacion": "óvulos vaginales",
+    "contenido_neto": 3,
+    "unidad_contenido": "óvulos",
+    "unidades_por_envase": 3,
+    "principio_activo": "Clotrimazol",
+    "via_administracion": "Vaginal",
+    "genero": "Mujer",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. No se conoce la concentración por óvulo de esta presentación de 3 (no se puso en la ficha ni en el título); confirmarla. Categoría alternativa equivalente: Antimicóticos (MLM194690).",
+    "fecha": "2026-09-29"
+  }
+}

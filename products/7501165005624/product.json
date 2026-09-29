@@ -1,0 +1,47 @@
+{
+  "gtin": "7501165005624",
+  "sku": "7501165005624",
+  "linea": "Farma",
+  "nombre_sistema": "NEUROFLAX 20 4MG C3 AMP SEPTIEMBRE 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neuroflax Cobamamida Tiocolchicósido 20/4 mg 3 Ampolletas",
+  "descripcion": "Descripción:\nNeuroflax 20 mg/4 mg es un medicamento inyectable de laboratorios Sanfer que combina cobamamida, una forma activa de la vitamina B12, con tiocolchicósido, un relajante muscular. Se clasifica entre los medicamentos empleados en el manejo del dolor de tipo reumático, neurológico y traumatológico, y debe ser indicado por un médico. La caja incluye las ampolletas de solución inyectable junto con su diluyente.\n\nComposición:\n- Cobamamida 20 mg\n- Tiocolchicósido 4 mg\nConsulte el empaque para conocer el resto de los componentes de la fórmula y del diluyente.\n\nModo de uso:\nVía intramuscular. Prepare la solución con el diluyente que se incluye en la caja, conforme al instructivo. La preparación y la aplicación deben realizarlas personal de salud capacitado, con la dosis y la duración que indique el médico.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable con su diluyente.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- Informe a su médico si está embarazada, planea un embarazo o está en periodo de lactancia.\n- Informe a su médico si tiene epilepsia o antecedentes de convulsiones.\n- Su uso debe ser indicado y supervisado por un médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neuroflax",
+    "fabricante": "Sanfer",
+    "variante": "20 mg/4 mg",
+    "presentacion": "Solución inyectable en ampolletas con diluyente",
+    "contenido_neto": 3,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Cobamamida / Tiocolchicósido",
+    "concentracion": "20 mg/4 mg",
+    "via_administracion": "Intramuscular",
+    "otros": "Incluye diluyente; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmalisto.com.mx/osteoporosis/4923-neuroflax-20mg4ml-caja-x-3-ampulas-3-ampolletas-con-diluyente-7501165005624.html",
+    "https://farmaciasmedina.com/detalleProducto/Neuroflax-Inyecci%C3%B3n-3-Soluci%C3%B3n-Frasco-%C3%81mpula/7501165005624"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (20 mg/4 mg, caja con 3). La ficha de la farmacia trae datos contradictorios (composición equivocada), por eso se usó el nombre comercial de las fichas (cobamamida/tiocolchicósido) y se omitió el registro sanitario. Clasificado como con receta. Falta confirmar si el envase son frascos ámpula con ampolletas de diluyente.",
+    "fecha": "2026-09-29"
+  }
+}

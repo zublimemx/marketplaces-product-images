@@ -1,0 +1,47 @@
+{
+  "gtin": "7506425604388",
+  "sku": "7506425604388",
+  "linea": "Mark",
+  "nombre_sistema": "HU CONF NINA E6 C40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies UltraConfort Niña Etapa 6 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies UltraConfort Niña Etapa 6, de Kimberly-Clark, combinan un corte anatómico de mayor cobertura con un material ultra flexible que se adapta mejor al cuerpo de la bebé. Están pensados para niñas de más de 13.5 kg y cuentan con núcleo absorbente reforzado ubicado al centro.\n\nCaracterísticas:\n- Nuevo corte con mayor cobertura y material ultra flexible que se adapta al cuerpo.\n- Cintas Confort Flex en forma de V con 4 puntos de sujeción y cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado, central para niñas.\n- Cubierta interna con poros ultra absorbentes.\n- Indicador de humedad e indicador de cambio de etapa.\n- Probados dermatológicamente, con certificación Dermatest.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, con la parte delantera hacia arriba, y sujete las cintas a la altura de la cintura sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 40 pañales desechables Etapa 6 para niña.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "UltraConfort",
+    "variante": "Niña Etapa 6",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 6",
+    "talla": "Etapa 6",
+    "genero": "Niñas",
+    "otros": "Peso del bebé: más de 13.5 kg; Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF = Huggies UltraConfort) y por el GTIN hermano 7506425604364 (Niño Etapa 6), confirmado en el lote 1. La página oficial no lista pesos; el de más de 13.5 kg viene del lote 1 (Amazon y tiendas). Las 40 piezas salen del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501300422750",
+  "sku": "7501300422750",
+  "linea": "Farma",
+  "nombre_sistema": "DORIXINA FTE 250MG C20 CLONIXINATO DE LISINA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dorixina Forte Clonixinato de Lisina 250 mg 20 Tabletas",
+  "descripcion": "Descripción:\nDorixina Forte contiene clonixinato de lisina 250 mg por tableta. Es un analgésico y antiinflamatorio no esteroideo (AINE) utilizado para aliviar el dolor de leve a moderado, como dolor muscular, de cabeza, dental, de espalda o menstrual, y las molestias asociadas a inflamación.\n\nComposición:\nCada tableta contiene clonixinato de lisina 250 mg.\n\nModo de uso:\nVía oral. Tome la dosis indicada en el empaque o la que indique su médico, con un vaso de agua, preferentemente después de los alimentos.\n\nPresentación:\nCaja con 20 tabletas de 250 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la clonixina, a la aspirina o a otros antiinflamatorios, ni en caso de úlcera gástrica. Evite su uso durante el embarazo y la lactancia sin indicación médica. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dorixina",
+    "linea": "Forte",
+    "presentacion": "tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Clonixinato de lisina",
+    "concentracion": "250 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); el principio activo y la concentración vienen del propio nombre del sistema y el resto del conocimiento general de la marca. Confirmar fabricante, forma farmacéutica (tabletas o comprimidos) y si es de venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

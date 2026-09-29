@@ -1,0 +1,37 @@
+{
+  "gtin": "736085405422",
+  "sku": "736085405422",
+  "linea": "Farma",
+  "nombre_sistema": "SPLASH TEARS SOL OFTALMICA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Splash Tears Solución Oftálmica",
+  "descripcion": "Descripción:\nSplash Tears es una solución oftálmica (gotas para los ojos). Consulte en el empaque la composición, las indicaciones, el contenido y el modo de aplicación.\n\nPresentación:\nSolución oftálmica en frasco gotero.\n\nAdvertencias:\n- Para uso oftálmico. No toque la punta del gotero con los ojos ni con otras superficies.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Splash Tears",
+    "presentacion": "Solución oftálmica",
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Solo se deduce del nombre que es una solución oftálmica. Se desconocen el contenido en ml, el principio activo y el fabricante. El GTIN de 12 dígitos no se probó con un 0 al inicio. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

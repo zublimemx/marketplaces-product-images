@@ -1,0 +1,47 @@
+{
+  "gtin": "650240017094",
+  "sku": "650240017094",
+  "linea": "Farma",
+  "nombre_sistema": "XL3 XTRA C 12",
+  "nombres_sistema_alternos": [],
+  "titulo": "Xl-3 Xtra Alivio De Gripa Y Tos 12 Cápsulas",
+  "descripcion": "Descripción:\nXL-3 Xtra es un medicamento en cápsulas de Genomma Lab que combina cuatro ingredientes activos para aliviar los síntomas de la gripa y la tos. Su fórmula reúne un analgésico y antipirético (paracetamol), un antihistamínico (clorfenamina), un descongestionante nasal (fenilefrina) y un antitusivo (dextrometorfano).\n\nComposición:\nCada cápsula contiene:\n- Paracetamol 250 mg\n- Clorfenamina 2 mg\n- Fenilefrina 5 mg\n- Dextrometorfano 10 mg\n\nModo de uso:\nVía oral. Ingiera las cápsulas con agua, en la dosis y con la frecuencia que indique el instructivo del empaque o su médico.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\n- No exceda la dosis recomendada.\n- Contiene paracetamol: evite combinarlo con otros medicamentos que también lo contengan.\n- Puede causar somnolencia; evite conducir o manejar maquinaria mientras lo use.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "XL-3",
+    "fabricante": "Genomma Lab",
+    "variante": "Xtra",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, clorfenamina, fenilefrina y dextrometorfano",
+    "concentracion": "Paracetamol 250 mg; clorfenamina 2 mg; fenilefrina 5 mg; dextrometorfano 10 mg (por cápsula)",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad; Indicación: gripa y tos"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://curitek.com/producto/xl3-xtra-12-capsulas-clorfenamina-fenilefrina-dextrometorfano-paracetamol/",
+    "https://farmaciasmedina.com/detalleProducto/Xl-3-Xtra-Alivia-Sintomas-De-Gripa-Y-Tos/650240017094"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (SKU 650240017094, caja con 12 cápsulas). Composición y fabricante tomados de la ficha de curitek.com. La dosis, el registro sanitario y las advertencias no venían en la ficha; las advertencias son generales de los ingredientes: verificar contra el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

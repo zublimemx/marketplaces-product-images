@@ -1,0 +1,40 @@
+{
+  "gtin": "650240010538",
+  "sku": "650240010538",
+  "linea": "Farma",
+  "nombre_sistema": "NEXT C 10 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Next C Tabletas Caja con 10 Piezas",
+  "descripcion": "Descripción:\nNext C es un producto de la línea Next en presentación de tabletas, en caja con 10 piezas. Consulte en el empaque su fórmula, indicaciones y dosis recomendada.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Next",
+    "variante": "Next C",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea: se agotó el límite de búsquedas web de la sesión (200/200). Solo se dedujo del nombre. No se confirmó la fórmula (podría ser antigripal o vitamina C); la categoría Antigripales es tentativa y la descripción es mínima. Repetir con búsqueda por GTIN.",
+    "fecha": "2026-09-29"
+  }
+}

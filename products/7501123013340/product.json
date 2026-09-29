@@ -1,0 +1,49 @@
+{
+  "gtin": "7501123013340",
+  "sku": "7501123013340",
+  "linea": "Farma",
+  "nombre_sistema": "BEDOYECTA CAPS C 30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bedoyecta Complejo B Ácido Fólico Vitamina C 30 Cápsulas",
+  "descripcion": "Descripción:\nBedoyecta Cápsulas, de Laboratorios Grossman, es un multivitamínico en cápsulas de gelatina blanda que reúne vitaminas del complejo B, ácido fólico, vitamina C y rutina. La presentación en gelatina blanda está pensada para una mejor absorción.\n\nBeneficios:\n- Ayuda a obtener la energía necesaria para las actividades del día y un buen rendimiento.\n- Cubre deficiencias de vitaminas del complejo B, ácido fólico y vitamina C.\n- Según su ficha, se utiliza en la prevención y el tratamiento de las deficiencias de las vitaminas que contiene, incluso en situaciones de mayor requerimiento como diabetes, alcoholismo o actividad física intensa.\n- Se indica también como apoyo en neuropatías nutricionales, alcohólicas y diabéticas, dolor de espalda, ciática y calambres musculares.\n\nComposición:\nVitamina B1 (tiamina), vitamina B2 (riboflavina), vitamina B6 (piridoxina), vitamina B12 (cianocobalamina), ácido fólico, vitamina C (ácido ascórbico) y rutina. Las cantidades por cápsula se indican en la etiqueta del producto.\n\nModo de uso:\nVía oral. Tome las cápsulas según lo indicado en el empaque o por su médico.\n\nPresentación:\nCaja con 30 cápsulas de gelatina blanda.\n\nAdvertencias:\nNo exceda la dosis indicada. Si está embarazada, en lactancia o toma otros multivitamínicos o medicamentos, consulte a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bedoyecta",
+    "fabricante": "Laboratorios Grossman",
+    "linea": "Cápsulas",
+    "variante": "Complejo B, ácido fólico, vitamina C y rutina",
+    "presentacion": "Cápsulas de gelatina blanda",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Complejo B, ácido fólico, vitamina C y rutina",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Tipo de suplemento: Multivitamínico; Formato de venta: Caja"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM21470460"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.bedoyecta.com.mx/productos/bedoyecta-caps/",
+  "fuentes": [
+    "https://www.bedoyecta.com.mx/productos/bedoyecta-caps/",
+    "https://www.actuamed.com.mx/amp/otc/bedoy-31914.htm",
+    "https://farmaciasmedina.com/detalleProducto/Bedoyecta-Oral/7501123013340"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "No se encontraron cantidades por cápsula en una fuente confiable, por eso no se incluyen. Se clasificó como suplemento (multivitamínico de libre venta, Actuamed lo marca OTC). No confundir con Bedoyecta Tri inyectable (ítem 1), que es otro producto.",
+    "fecha": "2026-09-29"
+  }
+}

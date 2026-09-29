@@ -1,0 +1,40 @@
+{
+  "gtin": "7501871720644",
+  "sku": "7501871720644",
+  "linea": "Farma",
+  "nombre_sistema": "TREXEN DUO OVULOS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Trexen Duo Óvulos Vaginales",
+  "descripcion": "Descripción:\nTrexen Duo es un medicamento de uso ginecológico en presentación de óvulos vaginales, de la marca Trexen. Los óvulos se aplican directamente en la vagina y están pensados para uso local.\n\nModo de uso:\nLávese las manos, retire el óvulo de su envoltura e introdúzcalo profundamente en la vagina, de preferencia por la noche y en posición acostada. La dosis y la duración del tratamiento deben ser indicadas por su médico; complete el tratamiento aunque los síntomas desaparezcan.\n\nPresentación:\nCaja con óvulos vaginales. El número de piezas y la composición se indican en el empaque.\n\nAdvertencias:\nUso exclusivo por vía vaginal. No se ingiera. Revise en el empaque la composición, las indicaciones y las contraindicaciones. Consulte a su médico si está embarazada o en periodo de lactancia, o si presenta irritación, ardor o sangrado. Conservar a temperatura ambiente, en un lugar fresco y seco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Trexen",
+    "linea": "Duo",
+    "presentacion": "Óvulos vaginales",
+    "via_administracion": "Vaginal",
+    "edad_etapa": "Adultos",
+    "genero": "Mujer",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (TREXEN DUO OVULOS). No se pudieron confirmar los principios activos, el número de óvulos ni el fabricante; completar con el empaque o el proveedor. Los óvulos vaginales combinados suelen requerir receta; revisar. Producto sin existencia en el sistema (stock 0).",
+    "fecha": "2026-09-29"
+  }
+}

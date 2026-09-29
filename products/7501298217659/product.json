@@ -1,0 +1,51 @@
+{
+  "gtin": "7501298217659",
+  "sku": "7501298217659",
+  "linea": "Farma",
+  "nombre_sistema": "DOLO NEUROBION DC C3AMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dolo-Neurobión DC Solución Inyectable 3 Jeringas 3 ml",
+  "descripcion": "Descripción:\nDolo-Neurobión DC, de Merck, es una solución inyectable en jeringa prellenada de doble cámara de 3 ml. Combina el antiinflamatorio diclofenaco sódico con las vitaminas B1, B6 y B12 y el anestésico local lidocaína; las dos cámaras se mezclan justo antes de la aplicación.\n\nBeneficios:\n- Según su ficha, se utiliza para el alivio del dolor y la inflamación en lumbalgias, cervicalgias, braquialgias y radiculitis.\n- Se indica en neuropatías periféricas de diversas causas, como la neuropatía diabética.\n- Presentación de doble cámara que separa los componentes hasta el momento de su uso.\n\nComposición:\nContenido de cada jeringa:\n- Diclofenaco sódico 75 mg\n- Vitamina B12 (cianocobalamina) 1 mg\n- Vitamina B1 (tiamina) 100 mg\n- Vitamina B6 (piridoxina) 100 mg\n- Lidocaína (clorhidrato) 20 mg\n\nModo de uso:\nVía intramuscular, aplicada por personal de salud. Antes de la aplicación se mezclan las soluciones de las dos cámaras. La dosis indicada en la ficha es una jeringa prellenada una vez al día; la duración del tratamiento debe ser determinada por el médico.\n\nPresentación:\nCaja con 3 jeringas prellenadas de doble cámara de 3 ml y agujas desechables.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a los componentes, úlcera péptica, sensibilidad a la aspirina o a otros antiinflamatorios, trastornos de la sangre ni insuficiencia hepática. No se administre durante el embarazo ni la lactancia ni a menores de 12 años. Precaución en insuficiencia renal, hipertensión no controlada y tratamiento con levodopa. Puede causar náusea, vómito, mareo, dolor de cabeza y, rara vez, hemorragia gastroduodenal. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Neurobión",
+    "fabricante": "Merck",
+    "linea": "DC",
+    "variante": "Doble cámara",
+    "presentacion": "Solución inyectable en jeringa prellenada de doble cámara",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 3,
+    "principio_activo": "Diclofenaco, lidocaína y vitaminas B1, B6 y B12",
+    "concentracion": "Diclofenaco 75 mg, vitamina B1 100 mg, vitamina B6 100 mg, vitamina B12 1 mg, lidocaína 20 mg por jeringa",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "79717 SSA",
+    "otros": "Incluye agujas desechables: Sí; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Doble-Camara-Inyeccion-3-Solucion-Jeringa-Prellenada/7501298217659",
+    "https://www.vademecum.es/mexico/medicamento/1387779/dolo-neurobion-dc-solucion-inyectable",
+    "https://farmalisto.com.mx/analgesicos/5642-dolo-neurobion-dc-caja-con-3-jeringas-prellenadas-doble-camara-con-3-ml-7501298217659.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Medicamento con receta. En ML hay varios catálogos equivalentes (MLM47560729, MLM40172155, MLM52121009) y no se pudo saber cuál es el principal, por eso catalogo_ml queda vacío. El registro 79717 SSA sale de la ficha de Vademecum para la solución inyectable; confirmar en el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

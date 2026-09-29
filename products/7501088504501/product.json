@@ -1,0 +1,50 @@
+{
+  "gtin": "7501088504501",
+  "sku": "7501088504501",
+  "linea": "Farma",
+  "nombre_sistema": "METEOSPASMYL C 20 CAP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Meteospasmyl Alverina Simeticona 60/300 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nMeteospasmyl es un medicamento en cápsulas de Mayoly Spindler que combina citrato de alverina (60 mg) y simeticona (300 mg). Está indicado para el tratamiento sintomático del síndrome de intestino irritable y de los trastornos dispépticos con dolor y distensión abdominal, meteorismo, náuseas, eructos y flatulencia.\n\nBeneficios:\n- La alverina es un antiespasmódico que ayuda a relajar el músculo del tubo digestivo y a aliviar el dolor abdominal tipo cólico.\n- La simeticona es un antiflatulento que ayuda a disminuir la acumulación de gases y la distensión.\n- Dos principios activos complementarios en una sola cápsula.\n\nComposición:\nCada cápsula contiene: citrato de alverina 60 mg; simeticona 300 mg.\n\nModo de uso:\nVía oral. Adultos: 1 cápsula 3 veces al día, antes de los alimentos, o según lo indique su médico.\n\nPresentación:\nCaja con 20 cápsulas en envase de burbuja.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use en caso de obstrucción intestinal o íleo paralítico, insuficiencia hepática o renal, ni si es alérgico a alguno de sus componentes. No debe usarse en menores de 12 años ni durante el embarazo y la lactancia. Puede causar náusea, dolor de cabeza, comezón, urticaria o mareo; ante una reacción alérgica suspéndalo y acuda con su médico. La simeticona puede disminuir la eficacia de la levotiroxina. Conserve a temperatura ambiente, entre 15 y 30 °C. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Meteospasmyl",
+    "fabricante": "Mayoly Spindler",
+    "variante": "Alverina 60 mg / Simeticona 300 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Citrato de alverina y simeticona",
+    "concentracion": "60 mg/300 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "046M2002 SSA IV",
+    "otros": "Uso: Intestino irritable, gases y distensión abdominal"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/meteospasmyl.capsulas/92/101/8629/14",
+    "https://farmalisto.com.mx/gastroenterologia/3214-meteospasmyl-caja-con-20-capsulas-7501088504501.html",
+    "https://www.actuamed.com.mx/marca/25550"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM indica que su venta requiere receta médica (registro SSA IV) y actuamed lo marca RX; una farmacia en línea lo muestra sin receta.",
+    "fecha": "2026-09-29"
+  }
+}

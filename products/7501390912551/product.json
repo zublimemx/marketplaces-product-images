@@ -1,0 +1,40 @@
+{
+  "gtin": "7501390912551",
+  "sku": "7501390912551",
+  "linea": "Farma",
+  "nombre_sistema": "CHOLAL MOD SOL C 10 AMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cholal Mod Solución 10 Ampolletas",
+  "descripcion": "Descripción:\nCholal Mod es un medicamento de la marca Cholal en presentación de solución, caja con 10 ampolletas. La composición exacta, la vía de administración y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución\n- Caja con 10 ampolletas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cholal",
+    "variante": "Mod",
+    "presentacion": "Solución",
+    "contenido_neto": 10,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 10,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, vía (oral o inyectable) y fabricante sin confirmar. La categoría Digestivos es una inferencia; verificar (alternativa: Otros Medicamentos MLM194677).",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314705573",
+  "sku": "7501314705573",
+  "linea": "Farma",
+  "nombre_sistema": "LURMIVI 500/312.5/37.5MG TAB C4",
+  "nombres_sistema_alternos": [],
+  "titulo": "Lurmivi 500/312.5/37.5 mg 4 Tabletas",
+  "descripcion": "Descripción:\nLurmivi es un medicamento de la marca Lurmivi en tabletas, con una combinación de tres componentes cuya concentración es de 500 mg, 312.5 mg y 37.5 mg por tableta. Esta presentación es una caja con 4 tabletas para administración oral. Los principios activos, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Siga la dosis, la frecuencia y la duración que indique el instructivo o su médico.\n\nPresentación:\nCaja con 4 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lurmivi",
+    "concentracion": "500/312.5/37.5 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 4,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 4,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo identificar la combinación ni el grupo terapéutico; se usó 'Otros Medicamentos'. Verificar principios activos, categoría y si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

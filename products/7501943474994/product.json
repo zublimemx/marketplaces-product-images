@@ -1,0 +1,45 @@
+{
+  "gtin": "7501943474994",
+  "sku": "7501943474994",
+  "linea": "Mark",
+  "nombre_sistema": "DIAPRO CONFOR AD MED C/10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales para Adulto Diapro Confor Mediano 10 Piezas",
+  "descripcion": "Descripción:\nDiapro Confor son pañales desechables para adulto, pensados para la protección en casos de incontinencia, en talla mediana. Cada paquete contiene 10 piezas y están diseñados para ofrecer comodidad y contención de líquidos en el uso diario.\n\nCaracterísticas:\n- Pañal desechable para adulto, talla Mediana.\n- Paquete con 10 piezas.\n- Ajuste con cintas para una colocación cómoda y segura.\n- Pensado para uso de personas adultas con incontinencia urinaria, con movilidad reducida o en reposo prolongado.\n\nModo de uso:\nColoque el pañal entre las piernas, ajuste las cintas de la parte trasera a la delantera hasta lograr un ajuste cómodo y seguro, sin apretar. Cámbielo con la frecuencia necesaria y realice el aseo de la piel en cada cambio. Consulte en el empaque la tabla de tallas para elegir la medida adecuada según la cintura y la cadera.\n\nPresentación:\nPaquete con 10 pañales desechables talla Mediana.\n\nAdvertencias:\nDeseche el pañal usado en la basura y no lo arroje al inodoro. Mantenga la piel limpia y seca para prevenir irritaciones y suspenda el uso si aparece enrojecimiento o molestia. Consulte a su médico si la incontinencia es reciente o persistente.",
+  "ficha": {
+    "marca": "Diapro",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Confor",
+    "variante": "Pañal para adulto",
+    "presentacion": "Paquete",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "edad_etapa": "Adultos",
+    "talla": "Mediana",
+    "genero": "Unisex",
+    "otros": "Tipo: Desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (DIAPRO CONFOR AD MED C/10, AD = adulto, MED = mediano) y conocimiento general. Fabricante inferido por el prefijo del GTIN 7501943; no se incluyó el rango de cintura de la talla ni el nivel de absorción por no poder confirmarlos.",
+    "fecha": "2026-09-29"
+  }
+}

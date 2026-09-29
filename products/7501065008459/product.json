@@ -1,0 +1,50 @@
+{
+  "gtin": "7501065008459",
+  "sku": "7501065008459",
+  "linea": "Farma",
+  "nombre_sistema": "THERAFLU TD ROJO C10 SABOR LIMON PARAC FENILEF 650 / 10MG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Theraflu Td Sabor Limón Paracetamol Fenilefrina 10 Sobres",
+  "descripcion": "Descripción:\nTheraflu TD es un antigripal en granulado con sabor limón, de GlaxoSmithKline, que se prepara disolviéndolo en agua caliente. Cada sobre combina paracetamol, analgésico y antipirético, con fenilefrina, descongestionante nasal, para aliviar los síntomas del resfriado común y la gripe. Se presenta en caja con 10 sobres de dosis individual.\n\nBeneficios:\n- Combina dos principios activos en un solo sobre: paracetamol para el dolor y la fiebre, y fenilefrina para la congestión nasal.\n- Granulado sabor limón que se disuelve en agua.\n- Sobres individuales, fáciles de llevar y de dosificar.\n\nComposición:\nCada sobre contiene:\n- Paracetamol 650 mg\n- Fenilefrina 10 mg\n\nModo de uso:\nVía oral. Disuelva el contenido de un sobre en un vaso con agua caliente y bébalo. Respete la dosis y el intervalo entre tomas que indica el empaque o su médico, y no exceda la cantidad recomendada.\n\nPresentación:\nCaja con 10 sobres de granulado sabor limón.\n\nAdvertencias:\nNo lo utilice si es alérgico al paracetamol, a la fenilefrina o a algún componente de la fórmula. No consuma bebidas alcohólicas durante el tratamiento, ya que el exceso de paracetamol puede dañar el hígado. No use al mismo tiempo otros productos que contengan paracetamol. No se recomienda durante el embarazo ni la lactancia sin supervisión médica. En caso de sobredosis acuda de inmediato a un servicio médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Theraflu",
+    "fabricante": "GlaxoSmithKline",
+    "linea": "TD",
+    "variante": "Granulado sabor limón 650 mg/10 mg",
+    "presentacion": "Granulado en sobres",
+    "contenido_neto": 10,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol y fenilefrina",
+    "concentracion": "650 mg/10 mg por sobre",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Limón",
+    "otros": "Forma farmacéutica: Granulado para solución oral; Formato de venta: Caja con 10 sobres"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://prixz.com/c/theraflu-td-paracetamol-fenilefrina-650-10-mg-granulado-con-10-sobres-sabor-limon/",
+    "https://www.ifarma.com.mx/producto/theraflu-td-granulado-sab-limon-650-10-mg/",
+    "https://grupofarmapronto.com/producto/theraflu-exthe-td-limon-sb-10/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias. Una de las fuentes describe la indicación como alivio de la tos, lo cual no coincide con la composición (paracetamol y fenilefrina); la descripción se redactó como antigripal. Dosis exacta no encontrada en las fuentes, verificar en el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

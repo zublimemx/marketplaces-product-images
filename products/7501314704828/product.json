@@ -1,0 +1,42 @@
+{
+  "gtin": "7501314704828",
+  "sku": "7501314704828",
+  "linea": "Farma",
+  "nombre_sistema": "ULSEN PCS 40MG CAP C 14 OMEPRAZOL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ulsen Omeprazol 40 mg 14 Cápsulas",
+  "descripcion": "Descripción:\nUlsen es un medicamento cuyo principio activo es omeprazol, un inhibidor de la bomba de protones, en presentación de cápsulas de 40 mg, caja con 14 piezas.\n\nComposición:\n- Omeprazol 40 mg por cápsula\n\nPresentación:\n- Cápsulas de administración oral\n- Caja con 14 cápsulas\n\nAdvertencias:\nUtilice el medicamento únicamente según la indicación de su médico, en la dosis y el tiempo que determine. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ulsen",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 14,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Omeprazol",
+    "concentracion": "40 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Datos tomados del nombre del sistema (omeprazol 40 mg, C14); GTIN sin verificar. Significado de PCS en el nombre no aclarado. Fabricante sin identificar. Verificar si omeprazol 40 mg requiere receta (alternativa Rx: MLM457828).",
+    "fecha": "2026-09-29"
+  }
+}

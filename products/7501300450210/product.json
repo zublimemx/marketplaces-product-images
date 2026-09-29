@@ -1,0 +1,46 @@
+{
+  "gtin": "7501300450210",
+  "sku": "7501300450210",
+  "linea": "Farma",
+  "nombre_sistema": "BACTRIM F 800 160MG C15T 216",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bactrim F 800 mg/160 mg 15 Tabletas",
+  "descripcion": "Descripción:\nBactrim F es un medicamento antibacteriano en tabletas que combina dos principios activos, sulfametoxazol y trimetoprima, en concentración de 800 mg/160 mg por tableta. Esta combinación actúa contra bacterias sensibles y se emplea en el tratamiento de infecciones bacterianas que el médico determine según el tipo de infección y la sensibilidad del microorganismo. La letra F identifica la presentación forte, con mayor contenido de principio activo por tableta.\n\nComposición:\n- Sulfametoxazol 800 mg\n- Trimetoprima 160 mg\nCada tableta contiene los dos principios activos; consulte el empaque para conocer los excipientes.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento deben ser las que indique el médico. Se recomienda ingerir las tabletas con un vaso de agua y completar el tratamiento indicado aunque los síntomas mejoren, para evitar que las bacterias sobrevivan y se vuelvan resistentes.\n\nPresentación:\nCaja con 15 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico a las sulfonamidas, a la trimetoprima o a cualquiera de los componentes de la fórmula.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si padece enfermedad del hígado o de los riñones.\n- Suspenda su uso y consulte a su médico si aparecen erupciones en la piel u otras reacciones inesperadas.\n- Su uso debe ser indicado y supervisado por un médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bactrim",
+    "variante": "F (forte) 800 mg/160 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 15,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Sulfametoxazol / Trimetoprima",
+    "concentracion": "800 mg/160 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: Tabletas; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Bactrim-F-15-Tabletas-Caja/7501300450210",
+    "https://farmalisto.com.mx/inicio/160716-bactrim-f-800-160-mg-15-tabletas-rx2-7501300450210.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (caja con 15 tabletas, 800/160 mg). No se pudo abrir la ficha detallada (WebFetch rechazado con 429), por lo que la descripción se redactó con datos generales del principio activo; fabricante no confirmado y omitido.",
+    "fecha": "2026-09-29"
+  }
+}

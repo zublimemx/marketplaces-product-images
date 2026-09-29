@@ -1,0 +1,32 @@
+{
+  "gtin": "383017678630",
+  "sku": "383017678630",
+  "linea": "Farma",
+  "nombre_sistema": "BD JGA ULTRA-FINE INSUL 0.5ML/50UI 31GX6MM C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

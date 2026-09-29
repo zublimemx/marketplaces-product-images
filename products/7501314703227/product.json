@@ -1,0 +1,43 @@
+{
+  "gtin": "7501314703227",
+  "sku": "7501314703227",
+  "linea": "Farma",
+  "nombre_sistema": "SIES 200MG CAPS C20 HIDROSMINA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sies Hidrosmina 200 mg 20 Cápsulas",
+  "descripcion": "Descripción:\nSies es un medicamento en cápsulas cuyo principio activo es la hidrosmina en concentración de 200 mg, en caja con 20 cápsulas. La hidrosmina pertenece al grupo de los medicamentos vasculoprotectores que se emplean en trastornos de la circulación venosa; la dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nComposición:\nHidrosmina 200 mg por cápsula.\n\nModo de uso:\nVía oral. Tome las cápsulas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico.\n\nPresentación:\nCaja con 20 cápsulas de 200 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la hidrosmina o a algún componente de la fórmula. Si está embarazada o en periodo de lactancia, consulte a su médico antes de usarlo. Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sies",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Hidrosmina",
+    "concentracion": "200 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (200 mg, 20 cápsulas, hidrosmina); sin fuentes. Se desconoce el fabricante y la clasificación de venta (receta). Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

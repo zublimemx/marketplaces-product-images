@@ -1,0 +1,47 @@
+{
+  "gtin": "7501314701711",
+  "sku": "7501314701711",
+  "linea": "Farma",
+  "nombre_sistema": "FOSFOCIL 1G INY ADULTO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fosfocil Fosfomicina 1 g Solución Inyectable Adulto",
+  "descripcion": "Descripción:\nFosfocil Adulto es un antibiótico inyectable cuyo principio activo es la fosfomicina, que se administra por vía intramuscular. Se presenta como solución inyectable de 1 g en 4 ml y su uso está indicado en infecciones causadas por bacterias sensibles a la fosfomicina, siempre bajo prescripción y supervisión médica.\n\nComposición:\nFosfomicina 1 g por dosis, en presentación de frasco ámpula con ampolleta.\n\nModo de uso:\nVía intramuscular. Debe ser aplicado por personal de salud calificado, con la dosis y la duración del tratamiento que indique el médico.\n\nPresentación:\nCaja con 1 dosis inyectable de 1 g.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin prescripción médica ni suspenda el tratamiento antes de lo indicado.\n- No lo use si es alérgico a la fosfomicina.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si tiene problemas de los riñones.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fosfocil",
+    "variante": "IM Adulto",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 1,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Fosfomicina",
+    "concentracion": "1 g/4 ml",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Fosfocil-Im-Inyeccion-1-Solucion-Ampolleta/7501314701711",
+    "https://farmaciasanisidro.mx/producto/fosfocil-im-amp-1gr/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Fosfocil IM 1 g/4 ml, caja con 1. No se pudo leer la ficha de Farmalisto (WebFetch rechazado con 429), por eso la descripción es general y no trae fabricante ni indicaciones específicas del laboratorio.",
+    "fecha": "2026-09-29"
+  }
+}

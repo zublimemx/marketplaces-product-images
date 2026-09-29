@@ -1,0 +1,42 @@
+{
+  "gtin": "7501033956317",
+  "sku": "7501033956317",
+  "linea": "Farma",
+  "nombre_sistema": "PEDIASURE 237ML CHOCOLATE MAYO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "PediaSure Sabor Chocolate 237 ml",
+  "descripcion": "Descripción:\nPediaSure es un complemento alimenticio líquido de Abbott, listo para beber, diseñado para niños. Esta presentación es una botella de 237 ml con sabor chocolate.\n\nBeneficios:\n- Contiene proteínas, vitaminas y minerales como complemento de la alimentación de los niños.\n- Formato individual, listo para tomar, sin preparación.\n- Sabor chocolate.\n\nModo de uso:\nAgite antes de abrir. Puede servirse frío. Consuma según la recomendación de su pediatra o nutriólogo. Una vez abierto, manténgalo en refrigeración y consúmalo en el plazo indicado en el empaque.\n\nPresentación:\nBotella individual de 237 ml, sabor chocolate.\n\nAdvertencias:\nEs un complemento alimenticio y no sustituye una alimentación variada y equilibrada. No es apto para personas con galactosemia ni con alergia a la proteína de la leche. No se administre por vía parenteral. Consulte a su pediatra ante cualquier duda.",
+  "ficha": {
+    "marca": "PediaSure",
+    "fabricante": "Abbott",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Niños",
+    "sabor_aroma": "Chocolate",
+    "genero": "Niños"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Identificación por nombre y conocimiento general de la marca; no se verificó el rango de edad exacto ni el envase (botella o tetra pak) en la ficha oficial. Se usó MLM438195 igual que Ensure en otros lotes.",
+    "fecha": "2026-09-29"
+  }
+}

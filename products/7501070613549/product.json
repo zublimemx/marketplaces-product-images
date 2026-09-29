@@ -1,0 +1,50 @@
+{
+  "gtin": "7501070613549",
+  "sku": "7501070613549",
+  "linea": "Farma",
+  "nombre_sistema": "AMOXIL SUSP 250MG 5M",
+  "nombres_sistema_alternos": [],
+  "titulo": "Amoxil Amoxicilina Suspensión 250 mg/5 ml 75 ml",
+  "descripcion": "Descripción:\nAmoxil es un antibiótico de amplio espectro de GlaxoSmithKline, en polvo para preparar suspensión oral, que contiene amoxicilina (como trihidrato) 250 mg por cada 5 ml. Esta presentación pediátrica facilita administrar la dosis indicada por el médico.\n\nBeneficios:\nDe acuerdo con su ficha, está indicado en infecciones causadas por bacterias sensibles a la amoxicilina, entre ellas:\n- Infecciones de las vías respiratorias y del oído, nariz y garganta.\n- Infecciones gastrointestinales y genitourinarias.\n- Infecciones de la piel y de los tejidos blandos.\n- Abscesos dentales.\n\nComposición:\nCada 5 ml de suspensión reconstituida contienen: amoxicilina trihidratada equivalente a 250 mg de amoxicilina; vehículo cbp 5 ml.\n\nModo de uso:\nVía oral exclusivamente. Prepare la suspensión siguiendo las instrucciones del empaque y agite antes de cada toma. En niños menores de 40 kg, la dosis habitual es de 125 mg 3 veces al día, que puede aumentarse a 250 mg 3 veces al día en infecciones más graves; la dosis debe ser indicada por el médico. Una vez preparada, la suspensión se conserva 7 días a no más de 30 °C. Complete el tratamiento indicado.\n\nPresentación:\nFrasco con polvo para preparar 75 ml de suspensión.\n\nAdvertencias:\nSu venta requiere receta médica. No debe usarse en personas con antecedentes de alergia a penicilinas, cefalosporinas u otros antibióticos betalactámicos, pues pueden ocurrir reacciones alérgicas graves. Evítelo en mononucleosis infecciosa. Puede causar diarrea, náusea y erupciones en la piel; si la diarrea es intensa, consulte a su médico. Requiere ajuste de dosis en insuficiencia renal. Puede interactuar con probenecid, alopurinol y anticoagulantes, y reducir la eficacia de los anticonceptivos orales. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Amoxil",
+    "fabricante": "GlaxoSmithKline",
+    "variante": "Suspensión pediátrica 250 mg/5 ml",
+    "presentacion": "Polvo para suspensión oral",
+    "contenido_neto": 75,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amoxicilina",
+    "concentracion": "250 mg/5 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Pediátrico",
+    "registro_sanitario": "78609 SSA IV",
+    "otros": "Venta con receta médica; Tipo: Antibiótico (penicilina)"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/amoxil.suspension/64/101/6284/194",
+    "https://farmaciasmedina.com/detalleProducto/Amoxil-Pediatrica-75-Ml-Suspension-Frasco-Dosificador/7501070613549",
+    "https://www.actuamed.com.mx/marca/31999"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Antibiótico que requiere receta. El nombre del sistema dice 250MG 5M; el GTIN corresponde a la presentación de 75 ml.",
+    "fecha": "2026-09-29"
+  }
+}

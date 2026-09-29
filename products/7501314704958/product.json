@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314704958",
+  "sku": "7501314704958",
+  "linea": "Farma",
+  "nombre_sistema": "LACTULAX JBE 125 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Lactulax Lactulosa Jarabe 125 ml",
+  "descripcion": "Descripción:\nLactulax en jarabe, presentación de 125 ml. Por su nombre corresponde a un producto a base de lactulosa, de uso digestivo. Consulte en el empaque la concentración, las indicaciones y la dosis.\n\nComposición:\nLactulosa. Consulte la concentración en el empaque.\n\nModo de uso:\nVía oral. Administre la dosis indicada en el empaque o por su médico, con un dosificador adecuado. No exceda la dosis recomendada ni lo use por tiempo prolongado sin indicación médica.\n\nPresentación:\nFrasco con 125 ml de jarabe.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lactulax",
+    "presentacion": "Jarabe",
+    "contenido_neto": 125,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Lactulosa",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El principio activo lactulosa se dedujo del nombre de la marca por conocimiento general y no está confirmado. Se desconocen fabricante y concentración; receta_mx es una suposición. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

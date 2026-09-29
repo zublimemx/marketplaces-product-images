@@ -1,0 +1,51 @@
+{
+  "gtin": "650240039706",
+  "sku": "650240039706",
+  "linea": "Farma",
+  "nombre_sistema": "MEDICASP SH 130ML C2",
+  "nombres_sistema_alternos": [],
+  "titulo": "Shampoo Medicasp Anticaspa Ketoconazol 1% 130 ml Duopack",
+  "descripcion": "Descripción:\nMedicasp es un shampoo medicado con ketoconazol al 1% de Genomma Lab, indicado como auxiliar en el tratamiento y la prevención de la caspa (pitiriasis capitis) causada por el hongo Pityrosporum ovale. Esta presentación Duopack incluye 2 frascos de 130 ml, para contar con un frasco de repuesto y dar continuidad al esquema de uso.\n\nBeneficios:\n- Ayuda a eliminar el hongo asociado con la caspa.\n- Ayuda a reducir la comezón, la irritación, el enrojecimiento y la descamación del cuero cabelludo.\n- Su esquema de uso combina una fase de tratamiento diario con una fase de mantenimiento para prevenir que la caspa reaparezca.\n- Se aplica de forma práctica en la ducha, como un shampoo convencional.\n\nComposición:\nCada 100 ml contienen: ketoconazol 1.0 g; vehículo cbp 100 ml.\n\nModo de uso:\nAplique sobre el cabello húmedo, dé un masaje en el cuero cabelludo y distribuya el producto de manera uniforme. Déjelo actuar de 4 a 5 minutos y enjuague con abundante agua. Uso diario durante 3 semanas y, después, 2 veces por semana como prevención, o según indique su médico. Producto de uso externo.\n\nPresentación:\nDuopack con 2 frascos de shampoo de 130 ml cada uno (260 ml en total).\n\nAdvertencias:\nNo lo use si es alérgico al ketoconazol o a cualquier componente de la fórmula, ni sobre piel escoriada, lastimada o con heridas abiertas. Evite el contacto con los ojos. Suspenda su uso si aparece irritación, ardor o comezón intensa. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Medicasp",
+    "fabricante": "Genomma Lab Internacional",
+    "linea": "Medicasp",
+    "variante": "Shampoo anticaspa de uso diario",
+    "presentacion": "Shampoo medicado en frasco (Duopack)",
+    "contenido_neto": 130,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 2,
+    "principio_activo": "Ketoconazol",
+    "concentracion": "1%",
+    "via_administracion": "Tópica (cuero cabelludo)",
+    "genero": "Unisex",
+    "tipo_piel_cabello": "Cabello con caspa",
+    "otros": "Formato de venta: Duopack (2 frascos de 130 ml); Uso: Anticaspa"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://medicasp1.com/",
+  "fuentes": [
+    "https://www.benavides.com.mx/medicasp-shampoo-auxiliar-en-la-eliminacion-de-la-caspa-130-ml",
+    "https://www.medicamentosplm.com/Home/productos/medicasp.shampoo.shampoo/63/101/46574/143",
+    "https://medicasp1.com/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde al Duopack (2 frascos de 130 ml). Los datos de ingrediente y modo de uso vienen de la ficha del frasco individual de 130 ml. Se clasificó como medicamento de venta libre por el ketoconazol; como alternativa podría ir en Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores (MLM430117).",
+    "fecha": "2026-09-29"
+  }
+}

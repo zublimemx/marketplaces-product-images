@@ -1,0 +1,44 @@
+{
+  "gtin": "7501008433553",
+  "sku": "7501008433553",
+  "linea": "Farma",
+  "nombre_sistema": "CAFIASPIRINA FORTE C 24 TABS 40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cafiaspirina Forte Aspirina y Cafeína 24 Tabletas",
+  "descripcion": "Descripción:\nCafiaspirina Forte es un medicamento de Bayer en tabletas que combina ácido acetilsalicílico y cafeína. Se presenta en caja con 24 tabletas. Consulte en el empaque la cantidad de cada componente por tableta, las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\n- Ácido acetilsalicílico\n- Cafeína\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a la aspirina o a otros antiinflamatorios. Puede causar molestias gástricas. No se administre a niños ni adolescentes con fiebre o infecciones virales sin indicación médica. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cafiaspirina",
+    "fabricante": "Bayer",
+    "variante": "Forte",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Producto identificado por nombre y conocimiento previo (Cafiaspirina Forte, Bayer, prefijo GTIN 7501008). No se confirmaron las miligramos de cada componente, por eso no aparece la concentración. El 40 final del nombre se ignoró. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

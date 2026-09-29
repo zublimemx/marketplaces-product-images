@@ -1,0 +1,40 @@
+{
+  "gtin": "7502276040405",
+  "sku": "7502276040405",
+  "linea": "Farma",
+  "nombre_sistema": "DESENFRIOLITO PLUS C24 TBS MASTIC 162",
+  "nombres_sistema_alternos": [],
+  "titulo": "Desenfriolito Plus 24 Tabletas Masticables",
+  "descripcion": "Descripción:\nDesenfriolito Plus es un medicamento de la línea Desenfriolito, para los síntomas del resfriado. Se presenta en tabletas masticables, en caja con 24 piezas.\n\nPresentación:\nCaja con 24 tabletas masticables.\n\nAdvertencias:\nConsulte la fórmula, las indicaciones, la edad recomendada y la dosis en el empaque. No exceda la dosis indicada ni lo use junto con otros productos para el resfriado sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Desenfriolito",
+    "linea": "Plus",
+    "presentacion": "Tabletas masticables",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Solo se dedujo del nombre (Desenfriolito = línea para resfriado; TBS MASTIC = tabletas masticables). No se confirmó la fórmula, la edad ni el fabricante. Descripción mínima.",
+    "fecha": "2026-09-29"
+  }
+}

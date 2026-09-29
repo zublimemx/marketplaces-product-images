@@ -1,0 +1,43 @@
+{
+  "gtin": "7506425608867",
+  "sku": "7506425608867",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUGGIES SUPREME 2PACK C/80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Huggies Supreme 2 Pack 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Huggies Supreme para bebé, en presentación de 2 paquetes con 80 piezas. La línea Supreme de Huggies está enfocada en ofrecer suavidad superior y cuidado superior para la delicada piel del bebé, según el fabricante.\n\nPresentación:\nPresentación doble de toallitas húmedas, con 80 piezas. Consulte el empaque para confirmar el contenido de cada paquete.\n\nAdvertencias:\n- Uso externo. Evite el contacto con los ojos.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- Mantenga el producto fuera del alcance de los niños. No arroje las toallitas al inodoro.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "presentacion": "Toallitas húmedas",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "otros": "Formato de venta: Paquete doble (2 pack)"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/linea-supreme/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/linea-supreme/",
+    "https://www.huggies.com.mx/productos/huggies-toallitas-humedas/"
+  ],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). El nombre del sistema es ambiguo: no se sabe si son 2 paquetes de 80 piezas o 80 piezas en total; el precio de referencia sugiere un solo paquete de 80, verificar antes de publicar. La página oficial confirma la línea Supreme con toallitas pero no detalla ingredientes de esta versión.",
+    "fecha": "2026-09-29"
+  }
+}

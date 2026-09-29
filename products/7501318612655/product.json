@@ -1,0 +1,50 @@
+{
+  "gtin": "7501318612655",
+  "sku": "7501318612655",
+  "linea": "Farma",
+  "nombre_sistema": "ASPIRINA PROTEC C 28 TABS 240",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aspirina Protect 100 mg 28 Tabletas",
+  "descripcion": "Descripción:\nAspirina Protect 100 mg es un medicamento de Bayer en tabletas de liberación retardada (gastrorresistentes), con 100 mg de ácido acetilsalicílico por tableta. Su cubierta está diseñada para resistir el ácido del estómago, por lo que la tableta se libera más adelante en el tubo digestivo.\n\nBeneficios:\n- Actúa sobre la agregación de las plaquetas y ayuda a prevenir la formación de coágulos de sangre.\n- Según su ficha, se utiliza para reducir el riesgo de mortalidad y morbilidad en el infarto agudo de miocardio y en la prevención secundaria de infarto y de evento vascular cerebral.\n- También se indica en ataque isquémico transitorio, angina de pecho e inestable y en la prevención de tromboembolia después de procedimientos vasculares.\n- Presentación de dosis baja (100 mg) para uso cardiovascular bajo indicación médica.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 100 mg, con excipientes cbp.\n\nModo de uso:\nVía oral. Las tabletas gastrorresistentes se toman antes de los alimentos, con abundante líquido. La dosis y la duración del tratamiento dependen de la condición a tratar y deben ser indicadas por el médico.\n\nPresentación:\nCaja con 28 tabletas de liberación retardada de 100 mg.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad al ácido acetilsalicílico o a los salicilatos, asma inducida por salicilatos, úlcera gastroduodenal activa, trastornos hemorrágicos, insuficiencia renal, hepática o cardíaca graves, uso con metotrexato a dosis de 15 mg por semana o más, ni durante el tercer trimestre del embarazo. Puede aumentar el riesgo de sangrado y de lesiones gastrointestinales; tenga precaución si toma anticoagulantes. No se administre a niños o adolescentes con infecciones virales por el riesgo de síndrome de Reye. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer",
+    "linea": "Protect",
+    "variante": "100 mg liberación retardada",
+    "presentacion": "Tabletas de liberación retardada",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja; Liberación: Retardada"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
+      "catalogo_id": "MLM39473264"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/aspirina_protect_tabletas/22/101/6401/210",
+    "https://www.fahorro.com/aspirina-protect-100-mg-con-28-tabletas.html",
+    "https://grupofarmapronto.com/producto/aspirina-protec-100-mg-c-28-tabletas-2/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Corregido: PLM México indica que su venta requiere receta médica (Actuamed también la clasifica como con receta). Categoría venta libre asignada por instrucción del dueño; la equivalente con receta es MLM457825. Bayer México no tiene página pública del producto localizada.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501033956331",
+  "sku": "7501033956331",
+  "linea": "Farma",
+  "nombre_sistema": "PEDIASURE 237ML FRESA",
+  "nombres_sistema_alternos": [],
+  "titulo": "PediaSure Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nPediaSure es un suplemento alimenticio líquido de Abbott diseñado para niños, listo para beber, en sabor fresa. Se presenta en envase individual de 237 ml.\n\nCaracterísticas:\n- Marca: PediaSure\n- Sabor: fresa\n- Formato listo para beber\n- Contenido: 237 ml\n\nPresentación:\nEnvase individual de 237 ml.\n\nAdvertencias:\nEste producto es un complemento alimenticio y no sustituye una alimentación variada y equilibrada. No es apto como única fuente de alimentación salvo indicación médica. Consulte a su pediatra o nutriólogo antes de incluirlo en la dieta del niño. Consérvese según las instrucciones del empaque.",
+  "ficha": {
+    "marca": "PediaSure",
+    "fabricante": "Abbott",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresa",
+    "edad_etapa": "Niños",
+    "genero": "Niños",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre; rango de edad, tipo de envase e ingredientes sin verificar. Se usó Suplementos Alimenticios (MLM438195) y no Leche para Bebés (MLM189058) porque PediaSure es para niños mayores de un año; revisar si el dueño prefiere la segunda.",
+    "fecha": "2026-09-29"
+  }
+}

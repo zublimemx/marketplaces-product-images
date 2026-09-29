@@ -1,0 +1,49 @@
+{
+  "gtin": "1306881054187",
+  "sku": "1306881054187",
+  "linea": "Farma",
+  "nombre_sistema": "SEMPLEX BN P 1AMP 10ML COMPLEJO B MEDICAM",
+  "nombres_sistema_alternos": [],
+  "titulo": "Semplex B.N.P. Complejo B Solución Inyectable 10 ml",
+  "descripcion": "Descripción:\nSemplex B.N.P. es una solución inyectable de vitaminas del complejo B en presentación de 10 ml, para uso intramuscular o intravenoso. Su aplicación corresponde a personal de salud calificado.\n\nBeneficios:\n- Se utiliza como apoyo en estados de deficiencia vitamínica.\n- Sirve como coadyuvante en procesos metabólicos y del sistema nervioso.\n- Aporta en una sola aplicación varias vitaminas del grupo B.\n\nComposición:\nComplejo B inyectable que incluye vitamina B1 (tiamina), vitamina B2 (riboflavina), vitamina B6 (piridoxina) y nicotinamida (niacinamida), entre otros componentes. Las cantidades por ampolleta se indican en la etiqueta del producto.\n\nModo de uso:\nVía intramuscular o intravenosa, aplicada por personal de salud calificado. La dosis, la frecuencia y la vía de administración deben ser indicadas por un médico de acuerdo con las necesidades de cada paciente.\n\nPresentación:\nUna ampolleta o frasco con 10 ml de solución inyectable.\n\nAdvertencias:\nProducto de uso médico que debe aplicarse bajo supervisión médica; no se recomienda la automedicación. No lo use si es alérgico a alguno de sus componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Semplex",
+    "fabricante": "Medicam",
+    "linea": "B.N.P.",
+    "variante": "Complejo B inyectable",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Tiamina, riboflavina, piridoxina y nicotinamida (complejo B)",
+    "via_administracion": "Intramuscular o intravenosa",
+    "edad_etapa": "Adultos",
+    "otros": "Tipo de suplemento: Complejo B; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.santoniofarmacias.com/product-page/semplex-complejo-b-iv",
+    "https://cedismed.com/producto/semplex-b-n-p/",
+    "https://fielfarmacias.com.mx/cuidado-de-la-salud/335-semplex-bnp-complejo-b-inyectable-c-1-frasco-1306881054187.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 1306881054187 es un código interno de distribuidor que varias farmacias usan para Semplex-B.N.P. de 10 ml. No hay ficha oficial: laboratorio (Medicam), composición completa y cantidades salen de fuentes secundarias, por lo que no se incluyen concentraciones. Una fuente menciona un quinto componente de 15 mg que no se identificó. Se dejó en Suplementos Alimenticios por ser solo vitaminas; si ML lo rechaza por ser inyectable, probar Otros Medicamentos (MLM194677). No se pudo confirmar si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

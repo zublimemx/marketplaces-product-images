@@ -1,0 +1,41 @@
+{
+  "gtin": "7506425658954",
+  "sku": "7506425658954",
+  "linea": "Mark",
+  "nombre_sistema": "HUGG SUPR UNISEX ET3 + TAS HUM SUPR C80 C/5",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 3 con Toallitas",
+  "descripcion": "Descripción:\nPaquete combinado de pañales desechables Huggies Supreme Unisex Etapa 3 con toallitas húmedas Huggies Supreme de 80 piezas. Consulte en el empaque el número exacto de pañales incluidos y la talla o rango de peso recomendado.\n\nPresentación:\nPaquete combinado: pañales Huggies Supreme Unisex Etapa 3 y toallitas húmedas de 80 piezas.\n\nAdvertencias:\n- No arroje pañales ni toallitas al inodoro.\n- Mantenga los productos y su empaque fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "variante": "Unisex",
+    "presentacion": "Paquete combinado de pañales y toallitas húmedas",
+    "edad_etapa": "Etapa 3",
+    "genero": "Unisex",
+    "otros": "Incluye toallitas húmedas: 80 piezas; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Es un paquete combinado (pañales Etapa 3 más toallitas de 80 piezas) según el nombre del sistema. No se pudo determinar el número de pañales: el C/5 del nombre es ambiguo. No se incluyó cantidad en el título. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

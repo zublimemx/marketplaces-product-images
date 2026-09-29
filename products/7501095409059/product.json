@@ -1,0 +1,42 @@
+{
+  "gtin": "7501095409059",
+  "sku": "7501095409059",
+  "linea": "Farma",
+  "nombre_sistema": "GRANEODIN B M LIMON C24",
+  "nombres_sistema_alternos": [],
+  "titulo": "Graneodin B Pastillas Sabor Limón 24 Piezas",
+  "descripcion": "Descripción:\nGraneodin B es una presentación en pastillas para la garganta con sabor limón, en caja con 24 pastillas. Está pensada para usarse disolviendo lentamente la pastilla en la boca.\n\nModo de uso:\nDisuelva lentamente una pastilla en la boca, sin masticarla ni tragarla entera. Respete el intervalo y el número máximo de pastillas por día que indica el empaque o su médico.\n\nPresentación:\nCaja con 24 pastillas sabor limón.\n\nAdvertencias:\nRevise en el empaque la composición, las indicaciones y las contraindicaciones antes de usarlo. No lo use si es alérgico a alguno de los componentes. Suspenda su uso y consulte a su médico si los síntomas empeoran o duran más de unos días, o si se acompañan de fiebre alta. No se recomienda en niños pequeños por el riesgo de atragantamiento. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Graneodin",
+    "linea": "B",
+    "presentacion": "Pastillas",
+    "contenido_neto": 24,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral",
+    "sabor_aroma": "Limón",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (GRANEODIN B M LIMON C24) y conocimiento general. No se confirmó la composición ni el fabricante, por eso se omiten. La M del nombre podría ser Miel (Miel Limón) o Menta; confirmar el sabor exacto en el empaque. Se asume que son pastillas para la garganta.",
+    "fecha": "2026-09-29"
+  }
+}

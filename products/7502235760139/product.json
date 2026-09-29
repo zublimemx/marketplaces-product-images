@@ -1,0 +1,39 @@
+{
+  "gtin": "7502235760139",
+  "sku": "7502235760139",
+  "linea": "Farma",
+  "nombre_sistema": "REGENESIS MAX C 30 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Regenesis Max 30 Tabletas",
+  "descripcion": "Descripción:\nRegenesis Max en tabletas, presentación con 30 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos o suplementos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Regenesis",
+    "variante": "Max",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Producto no identificado: se desconoce si es suplemento o medicamento, su composición y su fabricante. La categoría de suplementos es provisional; requiere búsqueda por GTIN antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

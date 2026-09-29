@@ -1,0 +1,32 @@
+{
+  "gtin": "20041333666420",
+  "sku": "20041333666420",
+  "linea": "Mark",
+  "nombre_sistema": "PILA DURACELL ALK AA C/6",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

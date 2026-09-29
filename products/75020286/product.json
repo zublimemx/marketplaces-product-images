@@ -1,0 +1,39 @@
+{
+  "gtin": "75020286",
+  "sku": "75020286",
+  "linea": "Farma",
+  "nombre_sistema": "SIMILAXOL C 50 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Similaxol 50 Tabletas",
+  "descripcion": "Descripción:\nSimilaxol en presentación de caja con 50 tabletas. Producto de la línea de farmacia; consulte en el empaque la composición, las indicaciones y la dosis.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Similaxol",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título, ficha y categoría se deducen solo del nombre del sistema (Similaxol, caja con 50 tabletas). Se desconoce el principio activo, por eso se usó Otros Medicamentos y receta_mx Revisar. El GTIN es un EAN-8. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

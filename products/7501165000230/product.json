@@ -1,0 +1,42 @@
+{
+  "gtin": "7501165000230",
+  "sku": "7501165000230",
+  "linea": "Farma",
+  "nombre_sistema": "NEO MELUBRINA TAB 500MG C10 330",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neo-Melubrina Metamizol Sódico 500 mg 10 Tabletas",
+  "descripcion": "Descripción:\nNeo-Melubrina en tabletas de 500 mg es un medicamento cuyo principio activo es el metamizol sódico, un analgésico y antipirético que se emplea para aliviar el dolor y reducir la fiebre. Se presenta en caja con 10 tabletas.\n\nComposición:\nMetamizol sódico 500 mg por tableta. Consulte el empaque para conocer los excipientes.\n\nModo de uso:\nVía oral. Ingiera las tabletas con agua y siga la dosis que indique su médico o el instructivo del empaque. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\n- No lo use si es alérgico al metamizol, a otras pirazolonas o a la aspirina.\n- Suspenda su uso y consulte a su médico si presenta fiebre persistente, dolor de garganta, llagas en la boca o reacciones en la piel.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si tiene enfermedad del hígado, de los riñones o de la sangre.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neo-Melubrina",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Metamizol sódico",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). El principio activo (metamizol sódico) se dedujo de la marca conocida, sin confirmarlo en una fuente; falta confirmar laboratorio y registro sanitario. Receta por revisar.",
+    "fecha": "2026-09-29"
+  }
+}

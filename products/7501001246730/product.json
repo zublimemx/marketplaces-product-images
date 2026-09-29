@@ -1,0 +1,40 @@
+{
+  "gtin": "7501001246730",
+  "sku": "7501001246730",
+  "linea": "Farma",
+  "nombre_sistema": "VAPORUB EXH C 12 LATAS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vick Vaporub Ungüento Tópico Exhibidor 12 Latas",
+  "descripcion": "Descripción:\nVick VapoRub es un ungüento de uso tópico de Procter & Gamble, conocido por su aroma mentolado, que contiene entre sus componentes alcanfor, mentol y aceite de eucalipto. Esta presentación es un exhibidor con 12 latas, pensada para quien necesita varias piezas del producto.\n\nModo de uso:\nUso externo. Aplique una cantidad pequeña sobre la zona indicada en el empaque, en la dosis y con la frecuencia que ahí se señalan. Lávese las manos después de aplicarlo. Verifique en el empaque las indicaciones de uso específicas del producto.\n\nPresentación:\nExhibidor con 12 latas de ungüento.\n\nAdvertencias:\nSolo para uso externo. No lo ingiera. No lo aplique en heridas, en piel irritada ni cerca de los ojos o las mucosas. No lo caliente ni lo use en bebidas o vaporizadores a menos que el empaque lo indique. No lo utilice en niños pequeños sin indicación médica. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "VapoRub",
+    "presentacion": "Ungüento tópico en lata",
+    "unidades_por_envase": 12,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Exhibidor con 12 latas"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se conoce el contenido de cada lata (el nombre no lo indica); no se incluyó contenido neto. Fabricante P&G inferido por el prefijo del GTIN (7501001, igual que Vick 44). Componentes y advertencias redactados de forma general. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

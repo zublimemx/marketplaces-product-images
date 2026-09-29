@@ -1,0 +1,41 @@
+{
+  "gtin": "7501070903695",
+  "sku": "7501070903695",
+  "linea": "Farma",
+  "nombre_sistema": "LIBERTRIM SII 200 75 C 24 COMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Libertrim SII 200/75 24 Comprimidos",
+  "descripcion": "Descripción:\nLibertrim SII 200/75 es un medicamento de la marca Libertrim, presentado en caja con 24 comprimidos. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 24 comprimidos.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Libertrim",
+    "variante": "SII 200/75",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 24,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral",
+    "otros": "Dosis según nombre del sistema: 200 / 75 (unidades por confirmar)"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). La marca Libertrim corresponde por conocimiento general a trimebutina (digestivo, de ahí la categoría), y 'SII' podría referirse a síndrome de intestino irritable, pero no se confirmó ni el segundo componente ni las dosis (200/75). Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

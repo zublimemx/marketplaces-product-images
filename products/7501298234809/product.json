@@ -1,0 +1,43 @@
+{
+  "gtin": "7501298234809",
+  "sku": "7501298234809",
+  "linea": "Farma",
+  "nombre_sistema": "EUTIROX 25MCG T50 AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Eutirox Levotiroxina 25 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Esta presentación contiene 50 tabletas de 25 mcg, la concentración más baja de la línea, que permite ajustes graduales de dosis bajo supervisión médica.\n\nBeneficios:\n- Repone la hormona tiroidea cuando la glándula tiroides no produce la cantidad necesaria (hipotiroidismo).\n- Puede indicarse en otras alteraciones de la tiroides, según determine su médico.\n\nComposición:\nCada tableta contiene levotiroxina sódica 25 mcg.\n\nModo de uso:\nPor vía oral, en una sola toma al día, en ayunas y de preferencia media hora antes del desayuno, con un poco de agua. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 50 tabletas de 25 mcg.\n\nAdvertencias:\nNo suspenda ni modifique la dosis sin indicación médica. Informe a su médico si tiene problemas del corazón, está embarazada o en lactancia, o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eutirox",
+    "fabricante": "Merck",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "principio_activo": "Levotiroxina sódica",
+    "concentracion": "25 mcg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Eutirox 25 mcg; no verificados contra el GTIN ni la ficha oficial. Medicamento con receta; según el dueño se publica como venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

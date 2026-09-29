@@ -1,0 +1,39 @@
+{
+  "gtin": "7501125106231",
+  "sku": "7501125106231",
+  "linea": "Farma",
+  "nombre_sistema": "CEFAXONA IM 1GR 56 PISA ENERO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cefaxona Ceftriaxona 1 g Solución Inyectable",
+  "descripcion": "Descripción:\nCefaxona es una solución inyectable de ceftriaxona de 1 g para administración por vía intramuscular, del laboratorio PiSA. La ceftriaxona es un antibiótico de la familia de las cefalosporinas.\n\nComposición:\nCeftriaxona 1 g por envase. Consulte en el empaque los demás componentes y el diluyente incluido.\n\nModo de uso:\nAplicación intramuscular por personal de salud, con la dosis y duración que indique el médico.\n\nPresentación:\nCaja con solución inyectable de 1 g para uso intramuscular.\n\nAdvertencias:\nSu venta requiere receta médica y su aplicación debe realizarla personal de salud. No debe usarse en caso de alergia a cefalosporinas o penicilinas sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cefaxona",
+    "fabricante": "PiSA",
+    "presentacion": "Solución inyectable",
+    "principio_activo": "Ceftriaxona",
+    "concentracion": "1 g",
+    "via_administracion": "Intramuscular"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados del nombre (IM 1 g, PiSA). El número 56 del nombre se ignoró (posible lote o código). Los antibióticos requieren receta en México; se sugiere la categoría Rx aunque el dueño pidió publicar como venta libre. Falta confirmar si incluye diluyente y el número de piezas.",
+    "fecha": "2026-09-29"
+  }
+}

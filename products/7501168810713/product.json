@@ -1,0 +1,43 @@
+{
+  "gtin": "7501168810713",
+  "sku": "7501168810713",
+  "linea": "Farma",
+  "nombre_sistema": "SALOFALK 500 MG C 40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Salofalk Mesalazina 500 mg 40 Tabletas",
+  "descripcion": "Descripción:\nSalofalk es un medicamento cuyo principio activo es la mesalazina (mesalamina), un antiinflamatorio intestinal que actúa localmente en el colon. Esta presentación contiene 40 tabletas de 500 mg.\n\nBeneficios:\n- Se emplea en enfermedades inflamatorias del intestino, como la colitis ulcerosa.\n- Su acción es principalmente local, en la pared intestinal.\n\nComposición:\nCada tableta contiene mesalazina 500 mg.\n\nModo de uso:\nPor vía oral, tragando las tabletas enteras con líquido, sin masticarlas. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 40 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a los salicilatos o a la mesalazina. Informe a su médico si tiene problemas de riñón o de hígado, o si toma otros medicamentos. No suspenda el tratamiento sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Salofalk",
+    "fabricante": "Dr. Falk Pharma",
+    "presentacion": "Tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "principio_activo": "Mesalazina (mesalamina)",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de la marca, no verificados contra la ficha ni el GTIN. Confirmar forma farmacéutica (tabletas gastrorresistentes vs. otra), fabricante/distribuidor en México y número de piezas. Medicamento con receta según el catálogo del dueño se publica como venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

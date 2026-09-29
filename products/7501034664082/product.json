@@ -1,0 +1,42 @@
+{
+  "gtin": "7501034664082",
+  "sku": "7501034664082",
+  "linea": "Farma",
+  "nombre_sistema": "JARDIANZ DUO 12 5 1000MG TAB C60",
+  "nombres_sistema_alternos": [],
+  "titulo": "Jardianz Duo 12.5 mg/1000 mg 60 Tabletas",
+  "descripcion": "Descripción:\nJardianz Duo es un medicamento en tabletas de la marca Jardianz, en la presentación de 12.5 mg y 1000 mg, con caja de 60 tabletas. Es un medicamento de prescripción para adultos con diabetes mellitus tipo 2. La composición y el registro sanitario deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Jardianz",
+    "variante": "Duo",
+    "presentacion": "Tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "concentracion": "12.5 mg/1000 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Por conocimiento general Jardianz Duo sería empagliflozina + metformina (Boehringer Ingelheim) para diabetes tipo 2, pero no se confirmó, por eso no se pusieron el principio activo ni el fabricante. Se interpretó '12 5 1000MG' como 12.5 mg/1000 mg. Medicamento de prescripción. Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

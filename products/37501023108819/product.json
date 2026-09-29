@@ -1,0 +1,32 @@
+{
+  "gtin": "37501023108819",
+  "sku": "37501023108819",
+  "linea": "Farma",
+  "nombre_sistema": "NEXCARE TRANSPORE 2 5 CM X9 1M",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

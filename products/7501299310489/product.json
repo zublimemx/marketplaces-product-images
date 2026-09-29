@@ -1,0 +1,41 @@
+{
+  "gtin": "7501299310489",
+  "sku": "7501299310489",
+  "linea": "Farma",
+  "nombre_sistema": "INHIBITRON TWIT 40 40 1 100 C 30 CAP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Inhibitron Twin 30 Cápsulas",
+  "descripcion": "Descripción:\nInhibitron Twin es un medicamento de la marca Inhibitron en presentación de cápsulas, caja con 30 piezas. La composición exacta, la concentración y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Cápsulas\n- Caja con 30 cápsulas\n\nAdvertencias:\nEste medicamento debe utilizarse según lo indicado por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Inhibitron",
+    "variante": "Twin",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "otros": "Denominación en el sistema: INHIBITRON TWIT 40 40 1 100 C 30 CAP; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). No se pudo descifrar el 40 40 1 100 del nombre (posible combinación de componentes); principio activo y fabricante sin confirmar. Categoría Digestivos inferida (probable inhibidor de bomba de protones). Posible receta si contiene omeprazol 40 mg; verificar.",
+    "fecha": "2026-09-29"
+  }
+}

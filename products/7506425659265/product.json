@@ -1,0 +1,42 @@
+{
+  "gtin": "7506425659265",
+  "sku": "7506425659265",
+  "linea": "Mark",
+  "nombre_sistema": "ABSOR XXJ 7 C/40 4",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Absorsec Etapa 7 XXJ 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables para bebé Absorsec en Etapa 7, talla XXJ (extra extra jumbo), en paquete con 40 piezas.\n\nPresentación:\nPaquete con 40 pañales desechables Etapa 7 XXJ.\n\nAdvertencias:\nCambie el pañal con frecuencia. Deseche el pañal usado en la basura, no en el inodoro. Mantenga el producto y su empaque fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Absorsec",
+    "variante": "Etapa 7 XXJ",
+    "presentacion": "pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 7",
+    "talla": "XXJ",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema. La marca Absorsec se infiere de la abreviatura ABSOR y hay que confirmarla, igual que el rango de peso de la Etapa 7 XXJ (no se incluyó en la descripción).",
+    "fecha": "2026-09-29"
+  }
+}

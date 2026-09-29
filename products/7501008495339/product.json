@@ -1,0 +1,51 @@
+{
+  "gtin": "7501008495339",
+  "sku": "7501008495339",
+  "linea": "Farma",
+  "nombre_sistema": "TABCIN 500 MG EXH 60 36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tabcin 500 mg Antigripal 60 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nTabcin 500 es un antigripal en tabletas efervescentes de Bayer que combina ácido acetilsalicílico (500 mg), fenilefrina (8 mg) y clorfenamina (2 mg) por tableta. Está indicado para el alivio de los síntomas del resfriado común y la gripe.\n\nBeneficios:\n- Alivia fiebre, dolor de cabeza y dolores del cuerpo gracias a la acción analgésica y antipirética del ácido acetilsalicílico.\n- La fenilefrina actúa como descongestionante nasal.\n- La clorfenamina, un antihistamínico, ayuda con la secreción nasal, los estornudos y el lagrimeo.\n- Su acción combinada puede durar hasta 8 horas, según el fabricante.\n- Formato efervescente que se disuelve en agua.\n\nComposición:\nCada tableta efervescente contiene: ácido acetilsalicílico 500 mg; bitartrato de fenilefrina 8 mg; maleato de clorfenamina 2 mg.\n\nModo de uso:\nVía oral. Adultos y mayores de 12 años: disuelva 1 a 2 tabletas en un vaso con agua cada 6 a 8 horas, sin exceder 8 tabletas en 24 horas.\n\nPresentación:\nExhibidor con 60 tabletas efervescentes.\n\nAdvertencias:\nNo es para menores de 12 años. Puede causar somnolencia; no conduzca ni opere maquinaria. No lo use si es alérgico a sus componentes. Consulte a su médico antes de usarlo si tiene hipertensión, gastritis o úlcera péptica, enfermedad del hígado, diabetes, problemas de tiroides o asma, o si está embarazada o en lactancia. No lo combine con otros productos que contengan ácido acetilsalicílico. Si los síntomas persisten, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tabcin",
+    "fabricante": "Bayer",
+    "linea": "Tabcin 500",
+    "variante": "Antigripal efervescente",
+    "presentacion": "Tabletas efervescentes",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Ácido acetilsalicílico, fenilefrina y clorfenamina",
+    "concentracion": "500 mg/8 mg/2 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y mayores de 12 años",
+    "registro_sanitario": "0119M80 SSA",
+    "otros": "Formato de venta: Exhibidor con 60 tabletas; Uso: Gripe y resfriado"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.tabcin.com.mx/medicamentos-para-el-resfriado/tabcin-500",
+  "fuentes": [
+    "https://www.tabcin.com.mx/medicamentos-para-el-resfriado/tabcin-500",
+    "https://grupofarmapronto.com/producto/tabcin-500mg-c-60-tabletas-efervescentes/",
+    "https://prixz.com/c/tabcin-60-tabletas-efervescentes-500-8-2-mg/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Los números finales del nombre del sistema (60 36) se interpretaron como 60 tabletas y un código interno. Un sitio de farmacia lo etiqueta como receta (fracción IV), pero otras fuentes lo marcan como venta libre (OTC); se tomó como venta libre. El sabor no se especifica en las fuentes.",
+    "fecha": "2026-09-29"
+  }
+}

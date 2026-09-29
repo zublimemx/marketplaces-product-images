@@ -1,0 +1,47 @@
+{
+  "gtin": "7509546061665",
+  "sku": "7509546061665",
+  "linea": "Mark",
+  "nombre_sistema": "DESOD SPEED S XTREM INTEN GEL 85G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Desodorante Speed Stick Xtreme Intense Gel 85 g",
+  "descripcion": "Descripción:\nDesodorante antitranspirante en gel para hombre Speed Stick 24/7 Xtreme Intense, en presentación de 85 g. Está formulado para ayudar a controlar el sudor y el mal olor durante el día y la noche, con una fórmula que brinda hasta 48 horas de protección extra efectiva.\n\nCaracterísticas:\n- Antitranspirante en gel para hombre, de la marca Speed Stick.\n- Protección de hasta 48 horas contra el sudor y el mal olor.\n- Fórmula con Sistema Control Tech, según la ficha del producto.\n- Sensación seca y protegida durante el día.\n- Barra de gel con tornillo que permite dosificar la cantidad de producto que se desea aplicar.\n- Formato de 85 g, práctico para uso diario en casa, gimnasio o viaje.\n\nModo de uso:\nGire el tornillo de la base hasta que salga la barra de gel y aplique sobre las axilas limpias y secas. Deje secar unos instantes antes de vestirse. Vuelva a bajar la barra y cierre bien el envase después de cada uso.\n\nPresentación:\nBarra de gel de 85 g.\n\nAdvertencias:\nProducto de uso externo. No lo aplique sobre piel irritada o lastimada. Evite el contacto con los ojos. Suspenda su uso si aparece enrojecimiento o irritación. Manténgalo fuera del alcance de los niños y guárdelo bien cerrado en un lugar fresco.",
+  "ficha": {
+    "marca": "Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Speed Stick 24/7",
+    "variante": "Xtreme Intense",
+    "presentacion": "Barra de gel con tornillo",
+    "contenido_neto": 85,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "otros": "Tipo: Antitranspirante en gel; Protección: 48 horas; Modo de aplicación: Barra con tornillo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://speedstick.com/es-mx/products/speed-stick-xtreme-intense-gel",
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-gel-xtreme-intense-85gr",
+    "https://speedstick.com/es-mx/products/speed-stick-xtreme-intense-gel",
+    "https://www.amazon.com.mx/Men-Speed-Stick-Antitranspirantee-Intense/dp/B07HH4ZVW4"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las páginas de las tiendas traen poco detalle; la descripción se basó en el título de la publicación de Amazon México y en la página general de la marca. Fragancia no confirmada.",
+    "fecha": "2026-09-29"
+  }
+}

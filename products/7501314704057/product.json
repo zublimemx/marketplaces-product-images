@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314704057",
+  "sku": "7501314704057",
+  "linea": "Farma",
+  "nombre_sistema": "UNIVAL SUSP 1GR 230ML SUCRALFATO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Unival Sucralfato 1 g Suspensión Oral 230 ml",
+  "descripcion": "Descripción:\nUnival es una suspensión oral cuyo principio activo es el sucralfato, en presentación de frasco de 230 ml.\n\nComposición:\nSucralfato 1 g. Consulte en el empaque el volumen al que corresponde esta cantidad y los demás componentes.\n\nModo de uso:\nAgite bien antes de usar. Administre por vía oral siguiendo la dosis indicada en el empaque o por su médico.\n\nPresentación:\nFrasco con 230 ml de suspensión oral.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si padece insuficiencia renal, está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Unival",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 230,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Sucralfato",
+    "concentracion": "1 g",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados literalmente del nombre del sistema (sucralfato 1 g, 230 ml). Falta confirmar fabricante, concentración por 5 ml y si en México se vende con receta (revisar PLM); si requiere receta, la categoría Rx equivalente sería MLM457828.",
+    "fecha": "2026-09-29"
+  }
+}

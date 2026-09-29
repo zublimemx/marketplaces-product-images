@@ -1,0 +1,50 @@
+{
+  "gtin": "7501001116187",
+  "sku": "7501001116187",
+  "linea": "Farma",
+  "nombre_sistema": "VICK 44 AD INF 120 ML ROJO JUNIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Jarabe Vick 44 Todo Tipo de Tos Cereza 120 ml",
+  "descripcion": "Descripción:\nVick 44 Jarabe Todo Tipo de Tos es un jarabe con sabor cereza de Procter & Gamble México que combina dextrometorfano, un antitusivo, con guaifenesina, un expectorante. Está indicado para la tos seca y con flemas: ayuda a calmar la tos, favorece la expulsión de las flemas y protege la garganta. Se presenta en frasco de 120 ml y tiene indicaciones de dosis para adultos y para niños.\n\nBeneficios:\n- Formulado para tos seca y con flemas.\n- Contiene un antitusivo y un expectorante que ayuda a expulsar las flemas.\n- Sabor cereza.\n- Frasco de 120 ml.\n\nComposición:\nDextrometorfano y guaifenesina en jarabe sabor cereza.\n\nModo de uso:\nVía oral. Tome la dosis que indica el empaque para adultos o para niños según su edad. No exceda la dosis recomendada y consulte a su médico si la tos persiste.\n\nPresentación:\nFrasco con 120 ml de jarabe sabor cereza.\n\nAdvertencias:\nNo lo utilice si es alérgico al dextrometorfano, a la guaifenesina o a algún componente de la fórmula. No se recomienda durante el embarazo ni la lactancia sin supervisión médica. Si la tos dura más de una semana o se acompaña de fiebre, erupción cutánea o dolor de cabeza persistente, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "Vick 44",
+    "variante": "Todo tipo de tos, adultos e infantil",
+    "presentacion": "Jarabe",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dextrometorfano y guaifenesina",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños",
+    "sabor_aroma": "Cereza",
+    "otros": "Forma farmacéutica: Jarabe; Formato de venta: Frasco de 120 ml"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmasmart.com/vick-44-jbe-todo-tipo-tos-120ml",
+    "https://grupofarmapronto.com/producto/vick-44-ad-inf-t-t-jbe-120-ml/",
+    "https://farmaciagloria.mx/Respiratorios/4129-vick-44-jarabe-todo-tipo-de-tos-sabor-cereza-con-120-ml.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (Vick 44 Jarabe Todo Tipo de Tos sabor cereza 120 ml). Las fuentes no dan una concentración por dosis consistente, por eso no se incluyó. Dosis para adultos y niños no encontrada en las fuentes, verificar en el empaque. La página de Farmacia Gloria solo se vio como resultado de búsqueda.",
+    "fecha": "2026-09-29"
+  }
+}

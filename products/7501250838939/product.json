@@ -1,0 +1,40 @@
+{
+  "gtin": "7501250838939",
+  "sku": "7501250838939",
+  "linea": "Farma",
+  "nombre_sistema": "VASCULFLOW 250/225/25MG C30 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vasculflow 250 mg/225 mg/25 mg 30 Tabletas",
+  "descripcion": "Descripción:\nVasculflow en presentación de caja con 30 tabletas, con una concentración de 250/225/25 mg. Producto de la línea de farmacia; consulte en el empaque la composición, las indicaciones y la dosis.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vasculflow",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "concentracion": "250/225/25 mg",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. La categoría Cardiovasculares es una suposición por el nombre (Vascul...); se desconocen los principios activos de la combinación 250/225/25 mg. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

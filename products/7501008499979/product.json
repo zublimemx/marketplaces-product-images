@@ -1,0 +1,40 @@
+{
+  "gtin": "7501008499979",
+  "sku": "7501008499979",
+  "linea": "Farma",
+  "nombre_sistema": "FLANAX 550MG 10TAB + 2TAB GTS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flanax Naproxeno Sódico 550 mg Tabletas",
+  "descripcion": "Descripción:\nFlanax de Bayer contiene naproxeno sódico 550 mg por tableta. Es un analgésico y antiinflamatorio no esteroideo (AINE) que se emplea para aliviar el dolor de leve a moderado y la inflamación, como el dolor de cabeza, muscular, articular, dental o menstrual.\n\nBeneficios:\n- Alivia el dolor y reduce la inflamación.\n- Tabletas de 550 mg de uso oral.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg.\n\nModo de uso:\nVía oral. Tome la dosis indicada en el empaque o la que su médico le recomiende, preferentemente con alimentos y un vaso de agua. No exceda la dosis máxima.\n\nPresentación:\nCaja con tabletas de 550 mg.\n\nAdvertencias:\nNo lo use en caso de alergia al naproxeno, a la aspirina o a otros antiinflamatorios, ni si tiene úlcera o sangrado gástrico. Evite su uso durante el embarazo y la lactancia sin indicación médica. Puede causar molestias gástricas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flanax",
+    "fabricante": "Bayer",
+    "presentacion": "tabletas",
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. El nombre indica 10 tabletas + 2 adicionales (probable presentación promocional de 12 tabletas); no se puso el número en el título hasta confirmarlo. Verificar si la venta de 550 mg es libre o con receta.",
+    "fecha": "2026-09-29"
+  }
+}

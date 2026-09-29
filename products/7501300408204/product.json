@@ -1,0 +1,40 @@
+{
+  "gtin": "7501300408204",
+  "sku": "7501300408204",
+  "linea": "Farma",
+  "nombre_sistema": "PLIDAN COMPUESTO C20 TAB 432",
+  "nombres_sistema_alternos": [],
+  "titulo": "Plidan Compuesto 20 Tabletas",
+  "descripcion": "Descripción:\nPlidan Compuesto es un medicamento en tabletas de la línea Plidan. Esta presentación es una caja con 20 tabletas.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nConsulte la composición, las indicaciones, la dosis y las contraindicaciones en el empaque. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Plidan",
+    "variante": "Compuesto",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se pudo determinar la fórmula, el grupo terapéutico ni el fabricante; por eso se usó Otros Medicamentos. Descripción mínima. Repetir con búsqueda por GTIN.",
+    "fecha": "2026-09-29"
+  }
+}

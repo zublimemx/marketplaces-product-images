@@ -1,0 +1,43 @@
+{
+  "gtin": "7501070615123",
+  "sku": "7501070615123",
+  "linea": "Farma",
+  "nombre_sistema": "PRANOSINE 500MG C20 TABS MARZO 29 SANFER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pranosine Inosina Pranobex 500 mg 20 Tabletas",
+  "descripcion": "Descripción:\nPranosine 500 mg es un medicamento en tabletas de Sanfer cuyo principio activo es la inosina pranobex, una sustancia con acción inmunomoduladora y actividad antiviral. Esta presentación incluye 20 tabletas de 500 mg para administración oral. Las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nComposición:\nCada tableta contiene inosina pranobex 500 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con un vaso de agua, en la dosis, la frecuencia y la duración que indique su médico o el instructivo.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la inosina pranobex o a cualquier componente de la fórmula. No lo use si tiene antecedentes de gota o niveles elevados de ácido úrico sin consultar antes a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pranosine",
+    "fabricante": "Sanfer",
+    "principio_activo": "Inosina pranobex",
+    "concentracion": "500 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457815",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre y el laboratorio (Sanfer); no se verificó receta (probable que requiera receta; si es así, categoría Rx MLM457833) ni las indicaciones oficiales.",
+    "fecha": "2026-09-29"
+  }
+}

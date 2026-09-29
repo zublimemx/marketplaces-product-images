@@ -1,0 +1,40 @@
+{
+  "gtin": "7501089804082",
+  "sku": "7501089804082",
+  "linea": "Farma",
+  "nombre_sistema": "RECOVERON GRAN 12G SOB C10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Recoveron Gran 12 g 10 Sobres",
+  "descripcion": "Descripción:\nRecoveron Gran de la marca Recoveron, en sobres de 12 g. Presentación en caja con 10 sobres.\n\nPresentación:\nCaja con 10 sobres de 12 g cada uno.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Recoveron",
+    "variante": "Gran",
+    "presentacion": "sobres",
+    "contenido_neto": 12,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 10,
+    "otros": "Contenido por sobre: 12 g; Sobres por caja: 10; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar composición, forma (polvo o granulado), indicaciones ni fabricante. Categoría genérica por confirmar (podría ser suplemento o medicamento).",
+    "fecha": "2026-09-29"
+  }
+}

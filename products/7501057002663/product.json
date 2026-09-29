@@ -1,0 +1,41 @@
+{
+  "gtin": "7501057002663",
+  "sku": "7501057002663",
+  "linea": "Farma",
+  "nombre_sistema": "LOMOTIL 2 MG C 8 TABS 72",
+  "nombres_sistema_alternos": [],
+  "titulo": "Lomotil 2 mg 8 Tabletas",
+  "descripcion": "Descripción:\nLomotil es un medicamento de uso oral en tabletas de 2 mg, del grupo de los antidiarreicos. Esta presentación es una caja con 8 tabletas.\n\nPresentación:\nCaja con 8 tabletas de 2 mg.\n\nAdvertencias:\nConsulte la fórmula completa, las indicaciones y la dosis en el empaque. Si la diarrea persiste, se acompaña de fiebre o sangre en las evacuaciones, suspenda su uso y acuda al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lomotil",
+    "presentacion": "Tabletas",
+    "contenido_neto": 8,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 8,
+    "concentracion": "2 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó el principio activo (podría ser loperamida o difenoxilato, y de ello depende si requiere receta) ni el fabricante; por eso se omitieron. El grupo antidiarreico se dedujo de la marca. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

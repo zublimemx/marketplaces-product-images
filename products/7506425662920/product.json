@@ -1,0 +1,46 @@
+{
+  "gtin": "7506425662920",
+  "sku": "7506425662920",
+  "linea": "Mark",
+  "nombre_sistema": "HUGG ULT CON ET 7 NIÑO C40 5",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Ultra Confort Niño Etapa 7 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Ultra Confort para niño, Etapa 7, en paquete con 40 piezas. Están pensados para ofrecer comodidad, ajuste y protección al bebé, con un diseño anatómico que brinda mayor cobertura y flexibilidad, según el fabricante.\n\nCaracterísticas:\n- Diseño anatómico con mayor cobertura y flexibilidad, adaptado al cuerpo del bebé.\n- Cintas Confort Flex V-Shape con cuatro puntos de sujeción para un ajuste seguro.\n- Cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado al frente en la versión para niño.\n- Cubierta interna con poros ultra absorbentes e indicador de humedad.\n- Indicador de cambio de etapa.\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 7, versión para niño.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Ultra Confort",
+    "variante": "Niño",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 7",
+    "genero": "Niños",
+    "otros": "Tipo de pañal: Desechable"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). La página oficial de Ultra Confort lista etapas RN a 6, y solo la línea Supreme llega a Etapa 7; hay que confirmar si es Ultra Confort Etapa 7 o si la etapa del nombre del sistema es otra. El 5 al final del nombre se ignoró. Contenido de 40 piezas no verificado.",
+    "fecha": "2026-09-29"
+  }
+}

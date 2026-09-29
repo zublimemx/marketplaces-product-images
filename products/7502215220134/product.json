@@ -1,0 +1,40 @@
+{
+  "gtin": "7502215220134",
+  "sku": "7502215220134",
+  "linea": "Farma",
+  "nombre_sistema": "BIOCORD SUSP INGER C 5 AMP 168",
+  "nombres_sistema_alternos": [],
+  "titulo": "Biocord Suspensión Ingerible 5 Ampolletas",
+  "descripcion": "Descripción:\nBiocord es un producto en suspensión ingerible, presentado en ampolletas, en caja con 5 ampolletas. Se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nCaja con 5 ampolletas de suspensión ingerible.\n\nModo de uso:\nVía oral. Agite antes de usar y siga la dosis indicada en el empaque o por su médico.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biocord",
+    "presentacion": "Ampolletas de suspensión ingerible",
+    "contenido_neto": 5,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 5,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (Biocord, suspensión ingerible, 5 ampolletas). No se conoce la composición ni el uso ni el fabricante. Categoría y receta provisionales. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "gtin": "7501300408556",
+  "sku": "7501300408556",
+  "linea": "Farma",
+  "nombre_sistema": "DORIXINA RELAX C 20 COMP 336",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dorixina Relax 125 mg/5 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nDorixina Relax es un medicamento de Siegfried Rhein que combina clonixinato de lisina, un analgésico y antiinflamatorio, con clorhidrato de ciclobenzaprina, un relajante muscular. Se usa para el alivio del dolor musculoesquelético asociado a contracturas musculares, bajo indicación médica.\n\nComposición:\nCada comprimido contiene clonixinato de lisina 125 mg y clorhidrato de ciclobenzaprina 5 mg.\n\nModo de uso:\nVía oral. Tome los comprimidos con un poco de agua, en la dosis y durante el tiempo que indique su médico.\n\nPresentación:\nCaja con 20 comprimidos. Almacénese a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- Puede causar somnolencia y mareo; evite conducir u operar maquinaria y no consuma bebidas alcohólicas durante el tratamiento.\n- No lo use si es alérgico a alguno de sus componentes o a otros antiinflamatorios no esteroideos.\n- Consulte a su médico antes de usarlo si tiene úlcera o problemas gástricos, del corazón, del hígado o de los riñones, o si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dorixina",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Relax",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Clonixinato de lisina, ciclobenzaprina clorhidrato",
+    "concentracion": "125 mg / 5 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "180M2006SSAIV",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos/5925-dorixina-relax-125-5mg-caja-con-20-comprimidos-7501300408556.html",
+    "https://www.farmaciasespecializadas.com/dorixina-relax-125-5mg-com-caj-c-20.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (125/5 mg, 20 comprimidos). La ficha de Farmalisto escribe la concentración como 12.5/5, pero el nombre comercial y otras farmacias indican 125 mg/5 mg; se usó 125/5. Requiere receta según esa ficha. Registro sanitario tomado de esa misma página.",
+    "fecha": "2026-09-29"
+  }
+}

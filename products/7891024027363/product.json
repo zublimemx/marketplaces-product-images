@@ -1,0 +1,42 @@
+{
+  "gtin": "7891024027363",
+  "sku": "7891024027363",
+  "linea": "Mark",
+  "nombre_sistema": "ENJ BUC PLAX ICE INFINITY 60ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Enjuague Bucal Colgate Plax Ice Infinity 60 ml",
+  "descripcion": "Descripción:\nEnjuague bucal de la línea Plax de Colgate, versión Ice Infinity, en presentación de 60 ml. Es un formato práctico para llevar y usar durante el día. Consulte el empaque para conocer sus ingredientes, beneficios y modo de uso.\n\nPresentación:\nFrasco de 60 ml.\n\nModo de uso:\nDespués del cepillado, enjuague la boca con la cantidad indicada en la etiqueta durante el tiempo señalado y escupa. No enjuague con agua después de usarlo.\n\nAdvertencias:\nProducto de uso oral externo: no lo trague. Manténgase fuera del alcance de los niños; en caso de ingestión accidental, busque atención médica. Evite el contacto con los ojos. Lea las indicaciones de la etiqueta del empaque.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Plax",
+    "variante": "Ice Infinity",
+    "presentacion": "Enjuague bucal",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad; Tamaño: Viaje"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (enjuague bucal Plax Ice Infinity, 60 ml); Plax es marca de Colgate-Palmolive y el prefijo 789102 corresponde a Colgate-Palmolive Brasil, por lo que el producto probablemente es de importación. No se verificó el sabor, si contiene alcohol ni los ingredientes. El modo de uso es genérico de enjuagues bucales. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

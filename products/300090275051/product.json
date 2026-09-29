@@ -1,0 +1,50 @@
+{
+  "gtin": "300090275051",
+  "sku": "300090275051",
+  "linea": "Farma",
+  "nombre_sistema": "DEPO PROVERA 150 MG FA 1 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Depo-Provera Medroxiprogesterona 150 mg/ml Inyectable 1 ml",
+  "descripcion": "Descripción:\nDepo-Provera 150 mg/ml es un anticonceptivo hormonal inyectable de Pfizer. Contiene acetato de medroxiprogesterona en suspensión inyectable y se aplica una vez cada tres meses (13 semanas) para prevenir el embarazo. Es un método de solo progestágeno, es decir, no contiene estrógenos.\n\nBeneficios:\n- Método anticonceptivo de acción prolongada con una aplicación cada tres meses\n- No requiere tomar una pastilla diaria\n- No contiene estrógenos\n\nComposición:\nAcetato de medroxiprogesterona 150 mg por cada ml de suspensión inyectable.\n\nModo de uso:\nVía intramuscular. Debe ser aplicado exclusivamente por personal de salud capacitado, siguiendo el esquema y las indicaciones del médico. Agite el producto vigorosamente antes de aplicarlo.\n\nPresentación:\nCaja con 1 unidad de 1 ml de suspensión inyectable (150 mg/ml).\n\nAdvertencias:\nNo protege contra infecciones de transmisión sexual, incluido el VIH. Puede modificar el patrón de sangrado menstrual. El uso prolongado se ha asociado con disminución de la densidad mineral ósea. No debe usarse durante el embarazo ni en caso de sangrado vaginal sin diagnóstico, cáncer de mama o enfermedad hepática grave. Conservar a temperatura ambiente controlada (15 a 30 °C). Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Depo-Provera",
+    "fabricante": "Pfizer",
+    "presentacion": "Suspensión inyectable",
+    "contenido_neto": 1,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Acetato de medroxiprogesterona",
+    "concentracion": "150 mg/ml",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "genero": "Mujer",
+    "registro_sanitario": "59742SSAIV",
+    "otros": "Tipo: Anticonceptivo hormonal inyectable; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/anticonceptivos/3996-depo-provera-150-mg-caja-con-1-jeringa-prellenada-con-1-ml-300090275051.html",
+    "https://farmaciasmedina.com/detalleProducto/Depo-provera-Inyeccion-1-Ml-Suspension-Jeringa-Prellenada/300090275051",
+    "https://curitek.com/producto/depo-provera-medroxiprogesterona/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (Pfizer). El sistema dice frasco ámpula, pero las fichas con este GTIN lo describen como jeringa prellenada de 1 ml; el título no menciona el envase. Una tienda lo lista como vía subcutánea y con otro fabricante; se usó vía intramuscular (indicación habitual del Depo-Provera 150 mg/ml). El registro sanitario viene de una sola tienda: verificar en el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

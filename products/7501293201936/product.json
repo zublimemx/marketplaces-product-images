@@ -1,0 +1,46 @@
+{
+  "gtin": "7501293201936",
+  "sku": "7501293201936",
+  "linea": "Farma",
+  "nombre_sistema": "HISTOFIL 4000 UI FRASCO TABC60",
+  "nombres_sistema_alternos": [],
+  "titulo": "Histofil Colecalciferol 4000 UI 60 Tabletas",
+  "descripcion": "Descripción:\nHistofil 4000 UI es un medicamento en tabletas cuyo principio activo es el colecalciferol (vitamina D3), a razón de 4000 UI por tableta. Está indicado en casos de deficiencia de vitamina D. Se presenta en frasco con 60 tabletas para administración oral.\n\nComposición:\n- Colecalciferol (vitamina D3): 4000 UI por tableta.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y durante el tiempo que le indique su médico o el instructivo del empaque.\n\nPresentación:\nFrasco con 60 tabletas.\n\nAdvertencias:\n- No exceda la dosis indicada; el uso prolongado de vitamina D en dosis altas debe estar supervisado por un médico.\n- Consulte a su médico antes de usarlo si está embarazada o en lactancia, si toma otros suplementos con vitamina D o calcio, o si tiene enfermedad renal.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histofil",
+    "presentacion": "Tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Colecalciferol (vitamina D3)",
+    "concentracion": "4000 UI",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad; Envase: frasco"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://prixz.com/c/histofil-4000-ui-oral-60-tabletas/",
+    "https://farmaciasmedina.com/detalleProducto/Histofil-Oral-60-Tableta-Frasco/7501293201936"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (Histofil 4000 UI, frasco con 60 tabletas). La ficha de farmalisto no se pudo leer (límite de tasa), así que fabricante y registro sanitario quedan sin dato. Se publica en Suplementos Alimenticios por instrucción del dueño, aunque figura como medicamento. Marcado 'Revisar' en receta porque no se verificó su condición de venta. La edad 'Adultos' se dedujo, no se leyó en la ficha.",
+    "fecha": "2026-09-29"
+  }
+}

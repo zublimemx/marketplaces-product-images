@@ -1,0 +1,39 @@
+{
+  "gtin": "650240052545",
+  "sku": "650240052545",
+  "linea": "Farma",
+  "nombre_sistema": "XL3 C10 ANTIGRIPAL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Antigripal XL-3 10 Piezas",
+  "descripcion": "Descripción:\nXL-3 Antigripal es un medicamento de la marca XL-3 para el tratamiento sintomático del resfriado y la gripe, presentado en caja con 10 piezas. La composición exacta y la dosis deben consultarse en el empaque del producto.\n\nPresentación:\n- Caja con 10 piezas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "XL-3",
+    "variante": "Antigripal",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). El GTIN tiene 12 dígitos y no se pudo probar con 0 inicial. Forma farmacéutica (tabletas o cápsulas), principios activos y fabricante sin confirmar; por eso el título usa piezas.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "gtin": "7501385410000",
+  "sku": "7501385410000",
+  "linea": "Farma",
+  "nombre_sistema": "CUERPO AMARILLO SOL INY C6 HORMONA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cuerpo Amarillo Solución Inyectable Caja con 6",
+  "descripcion": "Descripción:\nCuerpo Amarillo es un medicamento hormonal de administración inyectable, en solución. Esta presentación es una caja con 6 piezas. Su aplicación debe realizarla personal de salud y bajo indicación médica.\n\nPresentación:\nCaja con 6 piezas de solución inyectable.\n\nAdvertencias:\nConsulte la fórmula completa, las indicaciones y la dosis en el empaque. No utilice este medicamento sin supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cuerpo Amarillo",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 6,
+    "via_administracion": "Inyectable"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Por el nombre parece una hormona del cuerpo lúteo (posiblemente progesterona), pero no se confirmó principio activo, concentración, volumen por ampolleta ni fabricante; se omitieron. Los inyectables hormonales normalmente requieren receta. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

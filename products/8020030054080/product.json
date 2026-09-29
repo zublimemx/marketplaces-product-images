@@ -1,0 +1,44 @@
+{
+  "gtin": "8020030054080",
+  "sku": "8020030054080",
+  "linea": "Farma",
+  "nombre_sistema": "FLONORM TAB 550MG C14",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flonorm Rifaximina 550 mg 14 Tabletas",
+  "descripcion": "Descripción:\nFlonorm es un medicamento antibiótico en tabletas de 550 mg cuyo principio activo es la rifaximina. Se presenta en caja con 14 tabletas y es de la marca de Alfasigma. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\nCada tableta contiene 550 mg de rifaximina.\n\nPresentación:\nCaja con 14 tabletas de 550 mg.\n\nAdvertencias:\nSu venta normalmente requiere receta médica. No lo use sin indicación médica ni suspenda el tratamiento por su cuenta. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flonorm",
+    "fabricante": "Alfasigma",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Rifaximina",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "genero": "Unisex",
+    "otros": "Venta con receta médica; Tipo: Antibiótico"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Principio activo (rifaximina) y fabricante (Alfasigma; el prefijo GTIN 8020030 coincide con otro producto Alfasigma del catálogo) deducidos de conocimiento previo, sin confirmar en fuente. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501165010673",
+  "sku": "7501165010673",
+  "linea": "Farma",
+  "nombre_sistema": "HISTIACIL FAM AD FRESA 140ML 42",
+  "nombres_sistema_alternos": [],
+  "titulo": "Histiacil Jarabe Familiar Adulto Fresa 140 ml",
+  "descripcion": "Descripción:\nHistiacil en presentación familiar para adulto, jarabe sabor fresa en frasco de 140 ml.\n\nPresentación:\nFrasco con 140 ml de jarabe sabor fresa.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histiacil",
+    "variante": "Familiar Adulto",
+    "presentacion": "jarabe",
+    "contenido_neto": 140,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Fresa",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar principio activo, indicaciones ni fabricante. Se interpretó FAM AD como Familiar Adulto. La categoría respiratoria es una suposición (podría ser Antigripales, MLM194695); el 42 al final se tomó como lote.",
+    "fecha": "2026-09-29"
+  }
+}

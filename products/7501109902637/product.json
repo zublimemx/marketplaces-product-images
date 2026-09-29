@@ -1,0 +1,51 @@
+{
+  "gtin": "7501109902637",
+  "sku": "7501109902637",
+  "linea": "Farma",
+  "nombre_sistema": "MOTRIN GTAS PEDIA MARZO 28 54",
+  "nombres_sistema_alternos": [],
+  "titulo": "Motrin Pediátrico Ibuprofeno 40 mg/ml Gotas 15 ml",
+  "descripcion": "Descripción:\nMotrin Pediátrico es una suspensión oral en gotas cuyo principio activo es el ibuprofeno, un antiinflamatorio no esteroideo con acción analgésica y antipirética. Está pensado para bebés y niños pequeños (de 6 a 24 meses según una de las fichas consultadas) y se utiliza para el alivio de la fiebre, el dolor y la inflamación. Tiene sabor fresa-frambuesa y se presenta en frasco de 15 ml.\n\nComposición:\n- Ibuprofeno 40 mg por ml.\n- Forma farmacéutica: suspensión oral (gotas).\n\nModo de uso:\nVía oral. Agite el frasco antes de usar y administre la dosis según el peso y la edad del niño, como indica el instructivo o su pediatra. Utilice el dosificador que se indique en el instructivo.\n\nPresentación:\nFrasco con 15 ml, sabor fresa-frambuesa.\n\nAdvertencias:\n- No exceda la dosis indicada ni la administre por más tiempo del recomendado sin consultar al médico.\n- Consulte al pediatra si la fiebre persiste o empeora.\n- Conserve a una temperatura entre 15 °C y 30 °C.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Motrin",
+    "fabricante": "Janssen",
+    "linea": "Pediátrico",
+    "presentacion": "Suspensión oral en gotas",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "40 mg/ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "6 a 24 meses",
+    "sabor_aroma": "Fresa-frambuesa",
+    "genero": "Niños",
+    "registro_sanitario": "630M98SSAVI",
+    "otros": "Formato de venta: Unidad; Temperatura de conservación: 15 a 30 °C"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3764-motrin-pediatrico-40-mg-1-ml-caja-con-frasco-con-15-ml-sabor-fresa-frambuesa-7501109902637.html",
+    "https://curitek.com/producto/motrin-pediatrico-ibuprofeno/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (frasco de 15 ml, sabor fresa-frambuesa; la página de farmalisto lo marca como de libre venta). El registro sanitario viene de esa página, cuya vigencia mostrada vencía en 2021: verificar el vigente. La edad de 6 a 24 meses sale del título de otra ficha (curitek) y no se leyó en el empaque. El fabricante puede figurar hoy como Kenvue en lugar de Janssen.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "gtin": "7502009740763",
+  "sku": "7502009740763",
+  "linea": "Farma",
+  "nombre_sistema": "CLAMOXIN 12H 875 125MG C10 TBS AMOXI ACLAV MAVER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Clamoxin 12h Amoxicilina 875/125 mg 10 Tabletas",
+  "descripcion": "Descripción:\nClamoxin 12 h es un antibiótico en tabletas de Laboratorios Maver que combina amoxicilina (875 mg) con ácido clavulánico (125 mg). La combinación del ácido clavulánico protege a la amoxicilina de algunas enzimas de las bacterias. Se presenta en caja con 10 tabletas y su uso debe ser indicado por un médico.\n\nComposición:\nCada tableta contiene:\n- Amoxicilina 875 mg\n- Ácido clavulánico 125 mg\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nEs un antibiótico que requiere receta médica. No lo utilice si es alérgico a las penicilinas, a otros antibióticos betalactámicos o a algún componente de la fórmula. No lo use por su cuenta ni para infecciones virales como la gripe o el resfriado. Puede causar molestias digestivas como diarrea o náusea. Informe a su médico si tiene enfermedad del hígado o del riñón, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Clamoxin",
+    "fabricante": "Laboratorios Maver",
+    "linea": "12 h",
+    "variante": "Tabletas 875 mg/125 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Amoxicilina y ácido clavulánico",
+    "concentracion": "875 mg/125 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 10 tabletas"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principios activos, concentración, piezas y laboratorio (Maver) salen del nombre del sistema. Los antibióticos requieren receta en México; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

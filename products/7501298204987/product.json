@@ -1,0 +1,44 @@
+{
+  "gtin": "7501298204987",
+  "sku": "7501298204987",
+  "linea": "Farma",
+  "nombre_sistema": "CONCOR 2.5MG GRAG C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Concor Bisoprolol 2.5 mg 30 Grageas",
+  "descripcion": "Descripción:\nConcor es un medicamento en grageas de Merck cuyo principio activo es el bisoprolol, un betabloqueador cardioselectivo. Esta presentación contiene 2.5 mg por gragea y se presenta en caja con 30 grageas. Su uso y su dosis deben ser indicados por un médico.\n\nComposición:\nCada gragea contiene bisoprolol (fumarato) 2.5 mg.\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y las instrucciones del empaque. No suspenda el tratamiento de forma repentina sin indicación médica.\n\nPresentación:\nCaja con 30 grageas de 2.5 mg.\n\nAdvertencias:\nEs un medicamento que requiere receta médica. No lo utilice si es alérgico al bisoprolol o a algún componente de la fórmula. Informe a su médico si tiene problemas del corazón, asma o enfermedad pulmonar, diabetes, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Puede causar mareo o cansancio; tenga precaución al conducir. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Concor",
+    "fabricante": "Merck",
+    "variante": "Grageas 2.5 mg",
+    "presentacion": "Grageas",
+    "contenido_neto": 30,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Bisoprolol",
+    "concentracion": "2.5 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 30 grageas"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (bisoprolol) y fabricante (Merck) tomados de conocimiento general de la marca y del prefijo del GTIN; concentración y piezas salen del nombre. Requiere receta; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

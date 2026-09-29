@@ -1,0 +1,44 @@
+{
+  "gtin": "7501125124075",
+  "sku": "7501125124075",
+  "linea": "Farma",
+  "nombre_sistema": "CIPROBAC C14 500MG CIPROFLOXACINO PISA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ciprobac Ciprofloxacino 500 mg 14 Tabletas",
+  "descripcion": "Descripción:\nCiprobac es un antibiótico cuyo principio activo es el ciprofloxacino, una fluoroquinolona de amplio espectro. Se presenta en tabletas de 500 mg, en caja con 14 tabletas, y es elaborado por Laboratorios PiSA.\n\nBeneficios:\n- Según su información de prescripción, se utiliza para tratar infecciones causadas por bacterias sensibles al ciprofloxacino, como infecciones de vías urinarias, respiratorias, de la piel y tejidos blandos, gastrointestinales y de huesos y articulaciones.\n- Su uso debe basarse en la indicación del médico y, cuando sea posible, en el diagnóstico de la infección.\n\nComposición:\nCada tableta contiene ciprofloxacino 500 mg.\n\nModo de uso:\nVía oral. Tome las tabletas enteras con abundante agua, en la dosis y durante el tiempo que indique su médico. Complete el tratamiento aunque los síntomas desaparezcan y no lo suspenda por su cuenta. Evite tomarlo al mismo tiempo que antiácidos, hierro, calcio o lácteos solos.\n\nPresentación:\nCaja con 14 tabletas de 500 mg.\n\nAdvertencias:\nLas fluoroquinolonas pueden causar tendinitis y ruptura de tendón, neuropatía periférica y efectos en el sistema nervioso central; suspenda el tratamiento y consulte a su médico si presenta dolor, inflamación en los tendones, hormigueo o alteraciones del estado de ánimo. Evite la exposición prolongada al sol. No lo use si es alérgico a las quinolonas, ni durante el embarazo o la lactancia, salvo indicación médica. Los antibióticos solo deben usarse con receta médica; su uso inadecuado favorece la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ciprobac",
+    "fabricante": "Laboratorios PiSA",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Ciprofloxacino",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (CIPROBAC C14 500MG CIPROFLOXACINO PISA) y conocimiento general. Las indicaciones y advertencias son las habituales del ciprofloxacino, no de la ficha específica de Ciprobac; confirmar contra el instructivo. Los antibióticos requieren receta en México.",
+    "fecha": "2026-09-29"
+  }
+}

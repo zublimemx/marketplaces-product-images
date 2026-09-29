@@ -1,0 +1,51 @@
+{
+  "gtin": "7501034692184",
+  "sku": "7501034692184",
+  "linea": "Farma",
+  "nombre_sistema": "JARDIANZ DPP 25 5MG C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Jardianz DPP 25 mg/5 mg 30 Tabletas",
+  "descripcion": "Descripción:\nJardianz DPP 25 mg/5 mg es un medicamento de Boehringer Ingelheim que combina en una sola tableta dos antidiabéticos orales: empagliflozina (inhibidor del cotransportador sodio-glucosa 2, SGLT2) y linagliptina (inhibidor de la enzima DPP-4).\n\nBeneficios:\n- Indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para el control de la glucosa en sangre.\n- Se utiliza cuando el control con metformina o sulfonilureas más uno de los componentes no es suficiente, o en pacientes que ya reciben ambos principios activos por separado.\n- Dos mecanismos de acción complementarios en una sola tableta.\n\nComposición:\nCada tableta contiene empagliflozina 25 mg y linagliptina 5 mg.\n\nModo de uso:\nVía oral. La tableta se traga entera con agua, con o sin alimentos, aproximadamente a la misma hora cada día. La dosis y los ajustes (por ejemplo, según la función renal) deben ser determinados por el médico.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo debe usarse en diabetes tipo 1, enfermedad renal terminal o diálisis, ni en caso de hipersensibilidad a sus componentes. Existe riesgo de cetoacidosis diabética (suspender el tratamiento si se sospecha), infecciones urinarias y genitales y pancreatitis, y mayor riesgo de hipoglucemia si se usa con sulfonilureas o insulina. Se recomienda vigilar la función renal. Evite su uso durante el embarazo y la lactancia. No se recomienda en insuficiencia hepática grave. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Jardianz",
+    "fabricante": "Boehringer Ingelheim",
+    "linea": "DPP",
+    "variante": "25 mg/5 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Empagliflozina y linagliptina",
+    "concentracion": "25 mg/5 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "512M2016 SSA IV",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": "MLM40172306"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/18976-jardianz-dpp-25-mg5-mg-30-tabletas-empagliflozinalinagliptina-boehringer-7501034692184.html",
+    "https://www.vademecum.es/mexico/medicamento/1455824/jardianz-dpp-tableta-25-mg-5-mg",
+    "https://farmaciaherrera.com.mx/products/jardianz-dpp-25-5-mg-con-30-tabletas"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Medicamento con receta (antidiabético). Categoría venta libre asignada por instrucción del dueño; el antidiabético se ubicó en Digestivos y Metabólicos por ser la subcategoría metabólica disponible. Boehringer no tiene ficha pública en MX localizada.",
+    "fecha": "2026-09-29"
+  }
+}

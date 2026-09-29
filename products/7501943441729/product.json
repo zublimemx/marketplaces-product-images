@@ -1,0 +1,48 @@
+{
+  "gtin": "7501943441729",
+  "sku": "7501943441729",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP UNISEX E3 C/36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 3 36 Piezas",
+  "descripcion": "Descripción:\nPañales desechables para bebé Huggies Supreme, versión unisex, Etapa 3, en paquete con 36 piezas. Pertenecen a la línea Supreme de Huggies y son aptos tanto para niño como para niña.\n\nCaracterísticas:\n- Marca: Huggies\n- Línea: Supreme\n- Etapa 3\n- Uso unisex (niño o niña)\n- Contenido: 36 pañales desechables por paquete\n\nModo de uso:\n- Coloque el pañal por debajo del bebé y ajuste las cintas adhesivas a la altura de la cintura, cuidando que quede cómodo y sin apretar.\n- Cambie el pañal con frecuencia para mantener la piel del bebé limpia y seca.\n- Después de usarlo, enróllelo, ciérrelo con las cintas y deséchelo en la basura.\n\nPresentación:\nPaquete con 36 pañales desechables Huggies Supreme Unisex Etapa 3.\n\nAdvertencias:\n- No arroje el pañal al inodoro.\n- Mantenga los pañales y su empaque fuera del alcance de los niños y no deje al bebé sin supervisión durante el cambio.\n- Consulte en el empaque el rango de peso recomendado para esta etapa.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "variante": "Unisex",
+    "presentacion": "Paquete de pañales desechables",
+    "contenido_neto": 36,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 36,
+    "edad_etapa": "Etapa 3",
+    "genero": "Unisex",
+    "otros": "Tipo de pañal: Desechable; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Huggies-Supreme-Panales-Unisex-Etapa-3/7501943441729",
+    "https://www.emeritafarmacias.com/producto/huggies-panal-supreme-nino-e-3-c36/",
+    "https://www.sears.com.mx/producto/811792/huggies-supreme-nino-e3-1-paquete-36-panales"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (36 piezas, Etapa 3). Algunas fichas lo titulan Niño y otras Unisex; se respetó Unisex del nombre del sistema. Las fuentes no traen ficha técnica detallada, por eso la descripción es general.",
+    "fecha": "2026-09-29"
+  }
+}

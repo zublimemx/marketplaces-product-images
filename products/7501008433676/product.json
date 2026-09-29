@@ -1,0 +1,42 @@
+{
+  "gtin": "7501008433676",
+  "sku": "7501008433676",
+  "linea": "Farma",
+  "nombre_sistema": "CAFIASPIRINA 40TAB JULIO 27 OFERTADO 120",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cafiaspirina Bayer 40 Tabletas",
+  "descripcion": "Descripción:\nCafiaspirina, de Bayer, es un analgésico de venta libre en tabletas que combina ácido acetilsalicílico y cafeína.\n\nComposición:\nÁcido acetilsalicílico y cafeína. Consulte en el empaque las cantidades por tableta y los demás componentes.\n\nPresentación:\nCaja con 40 tabletas.\n\nAdvertencias:\nNo debe administrarse a niños ni adolescentes con fiebre o infecciones virales sin indicación médica. Consulte a su médico antes de usarlo si es alérgico a la aspirina, si toma anticoagulantes, si tiene úlcera o problemas de sangrado, o si está embarazada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cafiaspirina",
+    "fabricante": "Bayer",
+    "presentacion": "Tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Cafiaspirina, Bayer). No se confirmó que la caja de 40 tabletas sea presentación de exhibidor (p. ej. 20 sobres de 2 tabletas). Concentración probable 500 mg de ácido acetilsalicílico y 40 mg de cafeína, pendiente de verificar; por eso no se incluyó en la ficha.",
+    "fecha": "2026-09-29"
+  }
+}

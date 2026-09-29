@@ -1,0 +1,42 @@
+{
+  "gtin": "7501314701827",
+  "sku": "7501314701827",
+  "linea": "Farma",
+  "nombre_sistema": "CIPROFLOX 500MG C12 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ciproflox Ciprofloxacino 500 mg 12 Cápsulas",
+  "descripcion": "Descripción:\nCiproflox 500 mg es un medicamento antibacteriano cuyo principio activo es el ciprofloxacino, un antibiótico de la familia de las quinolonas, en presentación de 12 cápsulas de 500 mg. Su uso debe ser indicado por un médico, quien determinará el tipo de infección a tratar, la dosis y la duración del tratamiento.\n\nComposición:\nCiprofloxacino 500 mg por unidad. Consulte el empaque para conocer los excipientes.\n\nModo de uso:\nVía oral. Tome la dosis y la duración que indique su médico, con un vaso de agua, y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\n- No lo use si es alérgico al ciprofloxacino o a otras quinolonas.\n- Suspenda su uso y consulte a su médico si presenta dolor o inflamación en los tendones, erupciones en la piel u otras reacciones inesperadas.\n- Informe a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ciproflox",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Ciprofloxacino",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). El principio activo (ciprofloxacino) se dedujo del nombre; falta confirmar si la forma farmacéutica es cápsula o tableta, el laboratorio y el registro sanitario. Los antibióticos requieren receta en México.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "3594450170071",
+  "sku": "3594450170071",
+  "linea": "Farma",
+  "nombre_sistema": "DAFLON 1000 SUSP C30 SOBRES",
+  "nombres_sistema_alternos": [],
+  "titulo": "Daflon 1000 mg Suspensión Oral 30 Sobres",
+  "descripcion": "Descripción:\nDaflon 1000 mg en suspensión oral es un medicamento de Servier que contiene una fracción flavonoide purificada y micronizada (diosmina y hesperidina), utilizada como venotónico en problemas de la circulación venosa de las piernas y en molestias hemorroidales. Se presenta en caja con 30 sobres de suspensión oral.\n\nComposición:\n- Fracción flavonoide purificada micronizada (diosmina y hesperidina): 1000 mg por sobre.\n\nModo de uso:\nVía oral. Tome el contenido del sobre en la dosis que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 30 sobres de suspensión oral.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Daflon",
+    "fabricante": "Servier",
+    "presentacion": "Suspensión oral en sobres",
+    "contenido_neto": 30,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 30,
+    "principio_activo": "Fracción flavonoide purificada micronizada (diosmina y hesperidina)",
+    "concentracion": "1000 mg por sobre",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (Servier, fracción flavonoide 1000 mg por sobre). No se confirmó GTIN, registro sanitario ni condición de venta (por eso 'Revisar').",
+    "fecha": "2026-09-29"
+  }
+}

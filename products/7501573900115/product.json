@@ -1,0 +1,32 @@
+{
+  "gtin": "7501573900115",
+  "sku": "7501573900115",
+  "linea": "Farma",
+  "nombre_sistema": "BIOMESINA COMP 10 250MG C 10 TABS BUTILHIO METAMIZ BIOMEP",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

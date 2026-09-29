@@ -1,0 +1,40 @@
+{
+  "gtin": "736085400830",
+  "sku": "736085400830",
+  "linea": "Farma",
+  "nombre_sistema": "TRAZIDEX OFT SOL GTS 5ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Trazidex Solución Oftálmica Gotas 5 ml",
+  "descripcion": "Descripción:\nTrazidex es una solución oftálmica estéril en gotas de la marca Trazidex, para aplicarse directamente en los ojos. Se presenta en frasco gotero de 5 ml. La composición, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oftálmica. Lávese las manos antes de aplicar, incline la cabeza hacia atrás y deposite las gotas en el saco conjuntival sin tocar el ojo ni los párpados con la punta del gotero. Use la dosis y la duración que indique su médico o el instructivo. Cierre bien el frasco después de cada uso.\n\nPresentación:\nFrasco gotero con 5 ml de solución oftálmica.\n\nAdvertencias:\nUso exclusivamente oftálmico. No lo use si es alérgico a alguno de los componentes de la fórmula. Si se usan lentes de contacto, consulte en el instructivo si debe retirarlos antes de aplicar. No comparta el frasco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Trazidex",
+    "presentacion": "Solución oftálmica en gotas",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Frasco gotero"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se confirmó la composición (posible combinación de antibiótico y corticosteroide; si es así, requiere receta y la categoría Rx sería MLM457829). GTIN de 12 dígitos (UPC) sin verificar.",
+    "fecha": "2026-09-29"
+  }
+}

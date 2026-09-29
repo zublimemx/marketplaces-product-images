@@ -1,0 +1,42 @@
+{
+  "gtin": "7509546054032",
+  "sku": "7509546054032",
+  "linea": "Mark",
+  "nombre_sistema": "C D COLGATE LUMINOUS WHITE22",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pasta Dental Colgate Luminous White 22 ml",
+  "descripcion": "Descripción:\nColgate Luminous White es una pasta dental blanqueadora de Colgate-Palmolive, formulada para ayudar a remover las manchas superficiales de los dientes y contribuir a una sonrisa más blanca con el cepillado diario. Se presenta en tubo de 22 ml, práctico para llevar en el bolso, el escritorio o de viaje.\n\nBeneficios:\n- Ayuda a remover manchas superficiales y a mantener los dientes más blancos.\n- Sabor fresco para una sensación de limpieza al cepillarse.\n- Tamaño compacto, ideal para viaje o para probar el producto.\n\nModo de uso:\nColoque una pequeña cantidad de pasta sobre el cepillo y cepille todos los dientes durante al menos dos minutos, al menos dos veces al día, de preferencia después de cada comida. Enjuague la boca con agua al terminar.\n\nPresentación:\nTubo con 22 ml de pasta dental.\n\nAdvertencias:\nNo se degluta. Mantenga fuera del alcance de los niños y supervise el cepillado de los niños pequeños. Si ocurre irritación en la boca, suspenda su uso y consulte a su dentista.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Luminous White",
+    "variante": "Pasta dental blanqueadora",
+    "presentacion": "Pasta dental (crema)",
+    "contenido_neto": 22,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Función: Blanqueadora; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y la página de Colgate México no se pudo consultar. Identificación por el nombre y conocimiento general (el prefijo 7509546 es de Colgate-Palmolive). El 22 del nombre se interpretó como 22 ml (tubo chico); confirmar contenido, variante exacta (Luminous White Advanced, Brilliant, etc.) y sabor en el empaque. El sabor fresco es una suposición típica de la marca; quitar si no aplica.",
+    "fecha": "2026-09-29"
+  }
+}

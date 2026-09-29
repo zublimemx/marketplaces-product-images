@@ -1,0 +1,38 @@
+{
+  "gtin": "75004996",
+  "sku": "75004996",
+  "linea": "Farma",
+  "nombre_sistema": "ESPAVEN PED GTS 138",
+  "nombres_sistema_alternos": [],
+  "titulo": "Espaven Pediátrico Gotas Orales",
+  "descripcion": "Descripción:\nEspaven Pediátrico en gotas es un medicamento de la marca Espaven, de administración oral, pensado para uso en niños y presentado en frasco con gotero. La información del contenido y de la composición debe confirmarse con el empaque antes de publicar.\n\nPresentación:\nFrasco con gotas orales pediátricas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Espaven",
+    "linea": "Pediátrico",
+    "presentacion": "Gotas orales",
+    "via_administracion": "Oral",
+    "edad_etapa": "Pediátrico"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El GTIN es un EAN-8 (75004996). Por conocimiento general Espaven Pediátrico sería un antiflatulento a base de simeticona (por eso la categoría de digestivos), pero no se confirmó principio activo, concentración, volumen (probablemente 30 ml) ni fabricante. Los números al final del nombre del sistema parecen existencias, no contenido. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

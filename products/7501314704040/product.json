@@ -1,0 +1,42 @@
+{
+  "gtin": "7501314704040",
+  "sku": "7501314704040",
+  "linea": "Farma",
+  "nombre_sistema": "UNIVAL 1GR TAB C 40 SUCRALFATO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Unival Sucralfato 1 g 40 Tabletas",
+  "descripcion": "Descripción:\nUnival 1 g es un medicamento en tabletas cuyo principio activo es el sucralfato, un protector de la mucosa gástrica que forma una capa sobre la úlcera o la zona irritada del estómago y del duodeno. Esta presentación incluye 40 tabletas de 1 g para administración oral.\n\nComposición:\nCada tableta contiene sucralfato 1 g.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis, el horario y la duración que indique su médico o el instructivo, generalmente con el estómago vacío. Espacie su toma de otros medicamentos según lo indique el instructivo.\n\nPresentación:\nCaja con 40 tabletas de 1 g.\n\nAdvertencias:\nNo lo use si es alérgico al sucralfato. Consulte a su médico si tiene enfermedad de los riñones. Puede causar estreñimiento en algunas personas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Unival",
+    "principio_activo": "Sucralfato",
+    "concentracion": "1 g",
+    "presentacion": "Tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Principio activo y concentración tomados del nombre del sistema (sucralfato 1 g); no se verificó fabricante, receta ni ficha oficial.",
+    "fecha": "2026-09-29"
+  }
+}

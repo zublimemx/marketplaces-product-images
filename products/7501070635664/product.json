@@ -1,0 +1,44 @@
+{
+  "gtin": "7501070635664",
+  "sku": "7501070635664",
+  "linea": "Farma",
+  "nombre_sistema": "VONTROL 25 MG T C25 SANFER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vontrol Difenidol 25 mg 25 Tabletas",
+  "descripcion": "Descripción:\nVontrol es un medicamento de Laboratorios Sanfer cuyo principio activo es el clorhidrato de difenidol, un antivertiginoso y antiemético. Se presenta en tabletas de 25 mg, en caja con 25 tabletas.\n\nBeneficios:\n- Según su información de prescripción, se utiliza en el tratamiento de las náuseas y el vómito y en el control del vértigo de origen vestibular.\n- Presentación de 25 tabletas de 25 mg, de administración oral.\n\nComposición:\nCada tableta contiene clorhidrato de difenidol 25 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con un poco de agua, en la dosis y con la frecuencia que indique su médico. No exceda la dosis máxima diaria indicada.\n\nPresentación:\nCaja con 25 tabletas de 25 mg.\n\nAdvertencias:\nPuede causar somnolencia, mareo y resequedad de la boca; evite conducir o manejar maquinaria durante el tratamiento y no consuma alcohol. No lo use si es alérgico al difenidol. Consulte a su médico si está embarazada o en periodo de lactancia, si tiene glaucoma o problemas de próstata, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vontrol",
+    "fabricante": "Laboratorios Sanfer",
+    "presentacion": "Tabletas",
+    "contenido_neto": 25,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 25,
+    "principio_activo": "Clorhidrato de difenidol",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (VONTROL 25 MG T C25 SANFER) y conocimiento general (Vontrol = difenidol, con confianza moderada). Confirmar principio activo, indicaciones y si requiere receta con el empaque o el PLM. Categoría Digestivos por su uso como antiemético; también podría ir en Sistema Nervioso Venta Libre (MLM457812) por el uso en vértigo.",
+    "fecha": "2026-09-29"
+  }
+}

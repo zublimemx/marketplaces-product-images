@@ -1,0 +1,49 @@
+{
+  "gtin": "7509546029139",
+  "sku": "7509546029139",
+  "linea": "Mark",
+  "nombre_sistema": "DESOD SPEED S 24/7COOL-NIG STIK 85G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Desodorante Speed Stick 24/7 Xtreme Night Gel 85 g",
+  "descripcion": "Descripción:\nDesodorante antitranspirante en gel para hombre Speed Stick 24/7 Xtreme Night (Cool Night), en presentación de 85 g. Te ayuda a mantenerte protegido contra el sudor y el mal olor, con una agradable sensación de frescura.\n\nCaracterísticas:\n- Antitranspirante en gel para hombre, de la marca Speed Stick.\n- Protección de hasta 48 horas contra el sudor y el mal olor con fórmula Xtreme Bloc.\n- Sensación ultra seca y protegida.\n- Fragancia fresca Cool Night de mayor intensidad.\n- Barra de gel con tornillo que permite dosificar la cantidad de producto que se desea aplicar.\n- Formato de 85 g, práctico para uso diario en casa, gimnasio o viaje.\n\nModo de uso:\nGire el tornillo de la base hasta que salga la barra de gel y aplique sobre las axilas limpias y secas. Deje secar unos instantes antes de vestirse. Vuelva a bajar la barra y cierre bien el envase después de cada uso.\n\nPresentación:\nBarra de gel de 85 g.\n\nAdvertencias:\nProducto de uso externo. No lo aplique sobre piel irritada o lastimada. Evite el contacto con los ojos. Suspenda su uso si aparece enrojecimiento o irritación. Manténgalo fuera del alcance de los niños y guárdelo bien cerrado en un lugar fresco.",
+  "ficha": {
+    "marca": "Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Speed Stick 24/7",
+    "variante": "Xtreme Night (Cool Night)",
+    "presentacion": "Barra de gel con tornillo",
+    "contenido_neto": 85,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Cool Night",
+    "genero": "Hombre",
+    "registro_sanitario": "NSOC96997-19C",
+    "otros": "Tipo: Antitranspirante en gel; Protección: 48 horas; Modo de aplicación: Barra con tornillo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.speedstick.com/es-mx/products/speed-stick-xtreme-night-gel",
+  "fuentes": [
+    "https://www.speedstick.com/es-mx/products/speed-stick-xtreme-night-gel",
+    "https://www.farmaciasmedicity.com/speed-stick-247-deo-gel-c-night-85-g/p",
+    "https://www.amazon.com.mx/Men-Speed-Stick-Antitranspirante-Caballero/dp/B0101915DU"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En las tiendas el producto aparece como Xtreme Night, Cool Night o C-Night (mismo GTIN). La ficha oficial de la marca tiene poco detalle publicado; las 48 horas y Xtreme Bloc vienen del título de la publicación de Amazon México.",
+    "fecha": "2026-09-29"
+  }
+}

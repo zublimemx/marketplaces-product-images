@@ -1,0 +1,45 @@
+{
+  "gtin": "7501019064449",
+  "sku": "7501019064449",
+  "linea": "Mark",
+  "nombre_sistema": "TENA PANTS MAXI PROTEC GDE 6X13",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales para Adulto Tena Pants Maxi Protec Grande 13 Piezas",
+  "descripcion": "Descripción:\nPañales tipo pantaloncillo (ropa interior desechable) para adulto TENA Pants Maxi Protec, talla grande, en presentación de 13 piezas. Están pensados para personas con incontinencia y ofrecen un nivel de protección alto, según su nombre comercial. Consulte en el empaque la tabla de tallas, el contenido y las instrucciones de uso del fabricante.\n\nCaracterísticas:\n- Formato tipo pants, se colocan como ropa interior.\n- Línea Maxi Protec.\n- Talla grande.\n- Paquete con 13 piezas.\n\nPresentación:\nPaquete con 13 piezas.",
+  "ficha": {
+    "marca": "Tena",
+    "fabricante": "Essity",
+    "linea": "Pants Maxi Protec",
+    "variante": "Pants",
+    "presentacion": "Paquete",
+    "contenido_neto": 13,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 13,
+    "talla": "Grande",
+    "genero": "Unisex",
+    "edad_etapa": "Adultos",
+    "otros": "Formato: Pants (ropa interior desechable); Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El 6X13 del nombre puede ser una caja con 6 paquetes de 13 piezas (78 piezas) o un paquete de 13; se asumió un paquete de 13 piezas por el precio de referencia. Fabricante (Essity) tomado de conocimiento previo de la marca. Confirmar contenido, talla y si es unisex antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

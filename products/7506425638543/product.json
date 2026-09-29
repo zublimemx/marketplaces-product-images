@@ -1,0 +1,40 @@
+{
+  "gtin": "7506425638543",
+  "sku": "7506425638543",
+  "linea": "Mark",
+  "nombre_sistema": "TAS DIAPRO HUM C/MZNILLA C/49",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Diapro con Manzanilla 49 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas de la marca Diapro con manzanilla, para la limpieza e higiene de la piel del bebé durante el cambio de pañal y en otros momentos del día. Cada paquete incluye 49 toallitas.\n\nCaracterísticas:\n- Toallitas húmedas con extracto de manzanilla.\n- Suaves para uso diario en la piel del bebé.\n- Paquete con 49 piezas.\n\nModo de uso:\nSaque una toallita, limpie suavemente la zona deseada y deseche la toallita en la basura, nunca en el inodoro. Cierre bien el empaque después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 49 toallitas húmedas.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece enrojecimiento o irritación en la piel y consulte a su pediatra.",
+  "ficha": {
+    "marca": "Diapro",
+    "variante": "Con manzanilla",
+    "presentacion": "Paquete de toallitas húmedas",
+    "contenido_neto": 49,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 49,
+    "otros": "Aroma/Ingrediente: Manzanilla; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo confirmar la marca Diapro ni su fabricante; datos tomados del nombre ('TAS DIAPRO HUM C/MZNILLA C/49'). Verificar si es para bebé o de uso general.",
+    "fecha": "2026-09-29"
+  }
+}

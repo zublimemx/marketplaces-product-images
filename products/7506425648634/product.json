@@ -1,0 +1,42 @@
+{
+  "gtin": "7506425648634",
+  "sku": "7506425648634",
+  "linea": "Mark",
+  "nombre_sistema": "SUAVE R-N E1 C/20",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Suave Recién Nacido Etapa 1 20 Piezas",
+  "descripcion": "Descripción:\nPañales desechables de la marca Suave para bebé recién nacido, en Etapa 1 y presentación de 20 piezas. Son pañales de uso diario con núcleo absorbente y cintas ajustables para mantener el pañal en su lugar.\n\nPresentación:\nPaquete con 20 pañales desechables.\n\nAdvertencias:\nSeleccione la etapa según el peso y la talla de su bebé, que se indican en el empaque. Cambie el pañal con frecuencia para mantener la piel limpia y seca. Mantenga las bolsas de plástico lejos del alcance de los niños.",
+  "ficha": {
+    "marca": "Suave",
+    "variante": "Recién nacido",
+    "presentacion": "Paquete de pañales desechables",
+    "contenido_neto": 20,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 20,
+    "edad_etapa": "Etapa 1 (recién nacido)",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (SUAVE R-N E1 C/20; R-N interpretado como recién nacido). El GTIN comparte prefijo con Huggies (7506425), probablemente Kimberly-Clark, pero no se verificó. Confirmar marca, línea y género.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "3662042003240",
+  "sku": "3662042003240",
+  "linea": "Farma",
+  "nombre_sistema": "HYABAK 0 15 SOL OFT 10ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Hyabak Solución Oftálmica Hialuronato 0.15% 10 ml",
+  "descripcion": "Descripción:\nHyabak, de Laboratoires Théa, es una solución oftálmica lubricante e hidratante con hialuronato de sodio al 0.15 %, para aliviar la sensación de resequedad e incomodidad en los ojos. Se presenta en frasco multidosis de 10 ml y está formulada sin conservadores.\n\nBeneficios:\n- El hialuronato de sodio ayuda a lubricar e hidratar la superficie del ojo.\n- Fórmula sin conservadores, pensada para uso frecuente.\n- Frasco de 10 ml con sistema de goteo multidosis.\n\nComposición:\nHialuronato de sodio 0.15 % en solución oftálmica estéril.\n\nModo de uso:\nVía oftálmica. Aplique una gota en cada ojo las veces que sea necesario o según la indicación de su especialista. Evite tocar la punta del frasco con los dedos, con el ojo o con cualquier superficie, y cierre el frasco después de cada uso. Si usa lentes de contacto, consulte a su oftalmólogo antes de aplicarlo.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el envase está dañado o abierto antes de su primer uso. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hyabak",
+    "fabricante": "Laboratoires Théa",
+    "presentacion": "Solución oftálmica (gotas)",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Hialuronato de sodio",
+    "concentracion": "0.15 %",
+    "via_administracion": "Oftálmica",
+    "otros": "Sin conservadores: Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre del sistema (Hyabak 0.15 %, 10 ml) y conocimiento general de la línea Théa. La afirmación de que es sin conservadores viene de conocimiento general, confirmar en el empaque. Puede estar registrado como dispositivo médico y no como medicamento; revisar con la política de ML para oftálmicos. Registro sanitario pendiente.",
+    "fecha": "2026-09-29"
+  }
+}

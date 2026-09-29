@@ -1,0 +1,40 @@
+{
+  "gtin": "7501124103248",
+  "sku": "7501124103248",
+  "linea": "Farma",
+  "nombre_sistema": "PRAMIGEL SUSP 180 ML AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pramigel Suspensión Oral 180 ml",
+  "descripcion": "Descripción:\nPramigel en suspensión oral, presentación de 180 ml. Es un medicamento de uso oral en forma líquida; consulte en el empaque la composición completa, las indicaciones y la dosis.\n\nModo de uso:\nAgite bien el frasco antes de usar. Administre por vía oral en la dosis indicada en el empaque o por su médico.\n\nPresentación:\nFrasco con 180 ml de suspensión oral.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pramigel",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 180,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, la forma (suspensión) y el volumen. No se conoce con certeza el principio activo ni el grupo terapéutico; la categoría Digestivos Venta Libre es una suposición y debe confirmarse. Descripción deliberadamente neutral. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

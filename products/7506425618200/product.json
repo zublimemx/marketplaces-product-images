@@ -1,0 +1,40 @@
+{
+  "gtin": "7506425618200",
+  "sku": "7506425618200",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUM KBBS VITAE 70 10 C80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas para Bebé Vitae 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé de la línea Vitae, en presentación de 80 piezas. Están pensadas para la limpieza e higiene del bebé en el cambio de pañal y en el aseo diario.\n\nPresentación:\n- Toallitas húmedas desechables\n- Contenido: 80 piezas\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Si presenta irritación, suspenda su uso y consulte a su médico. No arroje las toallitas al inodoro. Mantenga el empaque cerrado después de cada uso para conservar la humedad.",
+  "ficha": {
+    "linea": "Vitae",
+    "presentacion": "Paquete",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "edad_etapa": "Bebés",
+    "otros": "Formato de venta: Unidad; Denominación en el sistema: TAS HUM KBBS VITAE 70 10 C80"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). No se identificó la marca: KBBS podría ser una abreviatura de Kleenbebé u otra; por eso el título y la ficha no incluyen marca. Se interpretó 70 10 C80 como 70 piezas más 10 adicionales, total 80 (sin confirmar). Ingredientes y fabricante desconocidos.",
+    "fecha": "2026-09-29"
+  }
+}

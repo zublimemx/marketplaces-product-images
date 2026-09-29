@@ -1,0 +1,42 @@
+{
+  "gtin": "1306881052206",
+  "sku": "1306881052206",
+  "linea": "Farma",
+  "nombre_sistema": "SCARPETT K C20 TABS BETAMETA KETOROLACO MEDICAM 330",
+  "nombres_sistema_alternos": [],
+  "titulo": "Scarpett K Betametasona Ketorolaco 20 Tabletas",
+  "descripcion": "Descripción:\nScarpett K es un medicamento en tabletas que combina betametasona, un corticoide con acción antiinflamatoria, y ketorolaco, un antiinflamatorio no esteroideo con acción analgésica. Su uso es bajo prescripción y supervisión médica, y por lo general de corta duración, según indique el médico.\n\nComposición:\nContiene betametasona y ketorolaco. Consulte las concentraciones por tableta en el empaque.\n\nModo de uso:\nVía oral. Tome las tabletas con alimentos y un vaso de agua, en la dosis y durante el tiempo que indique su médico. No exceda la duración del tratamiento indicada.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\n- El ketorolaco puede causar molestias o sangrado gastrointestinal y afectar los riñones; suspenda su uso y consulte a su médico si presenta dolor de estómago intenso o heces oscuras.\n- No lo use si es alérgico a alguno de sus componentes o a otros antiinflamatorios, ni durante el embarazo o la lactancia.\n- Los corticoides pueden elevar la glucosa y la presión arterial; informe a su médico si tiene diabetes, hipertensión o infecciones.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Scarpett K",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Betametasona, ketorolaco",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. El GTIN 1306881052206 no parece un código GS1 real (parece código interno), así que no sirve para búsqueda. Datos deducidos del nombre del sistema (SCARPETT K C20 TABS BETAMETA KETOROLACO MEDICAM). No se conocen concentraciones ni fabricante (MEDICAM podría ser el laboratorio). Verificar antes de publicar; combinación con ketorolaco y corticoide normalmente requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

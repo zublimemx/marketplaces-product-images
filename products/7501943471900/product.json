@@ -1,0 +1,39 @@
+{
+  "gtin": "7501943471900",
+  "sku": "7501943471900",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUM ABSORSEC C/120",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Absorsec 120 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Absorsec para la limpieza e higiene diaria. Esta presentación es un paquete con 120 piezas.\n\nPresentación:\nPaquete con 120 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación en la piel. No arroje las toallitas al inodoro. Mantenga el empaque bien cerrado para conservar la humedad. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Absorsec",
+    "presentacion": "Paquete de toallitas húmedas",
+    "contenido_neto": 120,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 120,
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). TAS HUM ABSORSEC C/120 se interpretó como toallitas húmedas Absorsec con 120 piezas; se asumió uso en bebé (precio muy bajo), pero podría ser de uso general (MLM191653). No se confirmaron ingredientes ni fragancia.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gtin": "7501300408136",
+  "sku": "7501300408136",
+  "linea": "Farma",
+  "nombre_sistema": "AMPLIRON DUO 875 C14 JULIO 27 140",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ampliron Duo 875 mg 14 Tabletas",
+  "descripcion": "Descripción:\nAmpliron Duo 875 es un medicamento antibiótico en tabletas, en presentación de 14 tabletas. Por su nombre, corresponde a la combinación de amoxicilina con ácido clavulánico (875 mg/125 mg). Su prescripción, dosis y duración del tratamiento corresponden al médico.\n\nComposición:\nAmoxicilina 875 mg y ácido clavulánico 125 mg por tableta.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y con la frecuencia indicadas por su médico, preferentemente al inicio de los alimentos, y complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 tabletas.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. No lo use si es alérgico a las penicilinas o a alguno de los componentes. El uso inadecuado de antibióticos puede favorecer la resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ampliron",
+    "variante": "Duo",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Amoxicilina y ácido clavulánico",
+    "concentracion": "875 mg / 125 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión antes de llegar a este producto. Datos deducidos del nombre del sistema y de conocimiento general; sin fuentes. La composición amoxicilina/ácido clavulánico 875/125 mg se infirió de Duo 875 y no está confirmada. Falta fabricante. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

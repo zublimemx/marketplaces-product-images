@@ -1,0 +1,32 @@
+{
+  "gtin": "7502009746055",
+  "sku": "7502009746055",
+  "linea": "Farma",
+  "nombre_sistema": "CLAMOXIN 12H 875 125MG C14T AMOXICILINA AC CLAV",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

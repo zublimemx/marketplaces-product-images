@@ -1,0 +1,42 @@
+{
+  "gtin": "7502003389524",
+  "sku": "7502003389524",
+  "linea": "Farma",
+  "nombre_sistema": "GESTAGENO 200MG C15 CAPS AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Gestágeno Progesterona 200 mg 15 Cápsulas",
+  "descripcion": "Descripción:\nGestágeno es un medicamento en cápsulas de 200 mg cuyo principio activo es la progesterona, hormona del grupo de los progestágenos. Se presenta en caja con 15 cápsulas. Su uso debe ser indicado y supervisado por un médico, quien determina la dosis, la vía de administración y la duración del tratamiento.\n\nComposición:\nCada cápsula contiene 200 mg de progesterona.\n\nPresentación:\nCaja con 15 cápsulas de 200 mg.\n\nAdvertencias:\nEs un medicamento hormonal que normalmente se vende con receta médica. No lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Gestágeno",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 15,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Progesterona",
+    "concentracion": "200 mg",
+    "genero": "Mujer",
+    "otros": "Venta con receta médica; Tipo: Hormona (progestágeno)"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El principio activo (progesterona 200 mg) se dedujo del nombre y de conocimiento previo de la marca; no se confirmó GTIN, fabricante, vía de administración ni registro sanitario. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

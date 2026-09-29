@@ -1,0 +1,41 @@
+{
+  "gtin": "8020030053502",
+  "sku": "8020030053502",
+  "linea": "Farma",
+  "nombre_sistema": "FLONORM 400MG TAB C14 AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flonorm 400 mg 14 Tabletas",
+  "descripcion": "Descripción:\nFlonorm es un medicamento en tabletas de 400 mg, caja con 14 piezas. La composición exacta, las indicaciones y la dosis deben consultarse en el empaque del producto o con su médico.\n\nPresentación:\n- Tabletas\n- Concentración: 400 mg\n- Caja con 14 tabletas\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente según la indicación médica, en la dosis y el tiempo que su médico determine. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flonorm",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "concentracion": "400 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo no confirmado: por conocimiento previo podría ser rifaximina 400 mg (antibiótico; en ese caso requiere receta y iría en MLM457827); verificar antes de publicar. Fabricante no identificado (GTIN de origen italiano, prefijo 802003).",
+    "fecha": "2026-09-29"
+  }
+}

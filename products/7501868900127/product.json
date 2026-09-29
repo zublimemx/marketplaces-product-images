@@ -1,0 +1,37 @@
+{
+  "gtin": "7501868900127",
+  "sku": "7501868900127",
+  "linea": "Farma",
+  "nombre_sistema": "DIBAR GASA 10 ATA 10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Gasa Dibar Atado con 10 Piezas",
+  "descripcion": "Descripción:\nGasa de la marca Dibar, material de curación presentado en atado de 10 piezas. Consulte las medidas y demás características en el empaque del producto.\n\nPresentación:\nAtado con 10 piezas.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Atado",
+    "unidades_por_envase": 10,
+    "otros": "Formato de venta: Atado"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191087",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. El nombre del sistema (GASA 10 ATA 10) es ambiguo: no se sabe si el primer 10 es medida (p. ej. 10 x 10 cm) o si el segundo 10 es el número de piezas por atado; se asumió atado de 10 piezas. Confirmar medida, tipo (simple, estéril) y contenido.",
+    "fecha": "2026-09-29"
+  }
+}

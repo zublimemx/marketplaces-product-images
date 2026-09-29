@@ -1,0 +1,41 @@
+{
+  "gtin": "7501017366316",
+  "sku": "7501017366316",
+  "linea": "Mark",
+  "nombre_sistema": "SUAVE JUM E5 C/14",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Desechables Suave Jumbo Etapa 5 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables de la marca Suave, talla Jumbo, Etapa 5, en paquete con 14 piezas. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.\n\nCaracterísticas:\n- Marca: Suave.\n- Talla: Jumbo.\n- Etapa: 5.\n- Contenido: 14 pañales desechables.\n\nPresentación:\nPaquete con 14 pañales.",
+  "ficha": {
+    "marca": "Suave",
+    "presentacion": "Paquete",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 14,
+    "edad_etapa": "Etapa 5",
+    "talla": "Jumbo",
+    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Se usó el nombre del sistema (SUAVE JUM E5 C/14): JUM se interpretó como Jumbo y E5 como Etapa 5 (por analogía con las instrucciones). La marca podría ser más larga (p. ej. Suavelastic u otra); confirmar marca completa, fabricante y línea. El GTIN comparte prefijo con el producto 169.",
+    "fecha": "2026-09-29"
+  }
+}

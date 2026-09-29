@@ -1,0 +1,38 @@
+{
+  "gtin": "650240001314",
+  "sku": "650240001314",
+  "linea": "Farma",
+  "nombre_sistema": "NIKZON C90 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Nikzon 90 Tabletas",
+  "descripcion": "Descripción:\nNikzon en presentación de 90 tabletas.\n\nPresentación:\nEnvase con 90 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nikzon",
+    "presentacion": "tabletas",
+    "contenido_neto": 90,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 90
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); el producto no se pudo identificar (GTIN de 12 dígitos, no se buscó tampoco con 0 al inicio). No se conocen fabricante, composición ni si es suplemento o medicamento; la categoría de suplementos es provisional.",
+    "fecha": "2026-09-29"
+  }
+}

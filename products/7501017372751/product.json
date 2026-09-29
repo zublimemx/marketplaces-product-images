@@ -1,0 +1,40 @@
+{
+  "gtin": "7501017372751",
+  "sku": "7501017372751",
+  "linea": "Mark",
+  "nombre_sistema": "ABSOR GDE C/40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Desechables Absor Grande 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables de la marca Absor, talla Grande, en paquete con 40 piezas. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.\n\nCaracterísticas:\n- Marca: Absor.\n- Talla: Grande.\n- Contenido: 40 pañales desechables.\n\nPresentación:\nPaquete con 40 pañales.",
+  "ficha": {
+    "marca": "Absor",
+    "presentacion": "Paquete",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "talla": "Grande",
+    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Se usó el nombre literal del sistema (ABSOR GDE C/40); la marca podría ser Absorsec u otra y GDE se interpretó como Grande. Se asumió pañal de bebé (línea Mark, precio por pieza bajo); no se descarta que sea otro producto absorbente. Falta confirmar marca completa, fabricante y talla/etapa.",
+    "fecha": "2026-09-29"
+  }
+}

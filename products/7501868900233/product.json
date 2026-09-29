@@ -1,0 +1,44 @@
+{
+  "gtin": "7501868900233",
+  "sku": "7501868900233",
+  "linea": "Farma",
+  "nombre_sistema": "ALCO R 500ML C24 PZAS DIBAR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Alcohol Etílico Dibar 96° 500 ml Caja 24 Piezas",
+  "descripcion": "Descripción:\nAlcohol etílico de 96° GL sin desnaturalizar, marca Dibar, en frasco de 500 ml. Se ofrece en caja con 24 piezas, práctica para consultorios, farmacias, negocios y hogares que consumen este producto con frecuencia. Se clasifica como desinfectante y su uso es externo.\n\nCaracterísticas:\n- Graduación alcohólica de 96° GL.\n- Sin desnaturalizar.\n- Frasco de 500 ml por pieza.\n- Caja con 24 piezas, 12 litros en total.\n\nPresentación:\nCaja con 24 frascos de 500 ml cada uno.\n\nAdvertencias:\nProducto de uso externo. Es inflamable: manténgase alejado del fuego, las chispas y las fuentes de calor. No lo ingiera. Evite el contacto con los ojos y con las mucosas; si ocurre, enjuague con abundante agua. Mantenga el frasco bien cerrado en un lugar fresco y ventilado. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "fabricante": "Dibar",
+    "variante": "Alcohol etílico 96° GL sin desnaturalizar",
+    "presentacion": "Líquido en frasco",
+    "contenido_neto": 500,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 24,
+    "concentracion": "96° GL",
+    "otros": "Graduación alcohólica: 96° GL; Uso: Externo; Formato de venta: Caja con 24 frascos de 500 ml"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191698",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmasuper.com.mx/en_US/shop/product/7501868900233-alcohol-etilico-96o-gl-sin-desnaturalizar-rojo-500-ml-dibar-10823?category=56"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde al frasco individual de Alcohol Etílico 96° GL sin desnaturalizar de 500 ml, Dibar. La caja con 24 piezas se infiere del nombre del sistema (C24 PZAS) y del precio; confirmar el contenido de la caja. Ficha del fabricante no encontrada; advertencias redactadas de forma general para alcohol etílico.",
+    "fecha": "2026-09-29"
+  }
+}

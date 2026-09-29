@@ -1,0 +1,43 @@
+{
+  "gtin": "7501300450227",
+  "sku": "7501300450227",
+  "linea": "Farma",
+  "nombre_sistema": "BACTRIM SUSP 200 40MG 100ML AGOSTO 27 70",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bactrim Suspensión Sulfametoxazol Trimetoprima 100 ml",
+  "descripcion": "Descripción:\nBactrim Suspensión es un antibiótico de uso oral que combina sulfametoxazol y trimetoprima en una concentración de 200 mg y 40 mg, respectivamente, por cada 5 ml de suspensión. Se presenta en frasco de 100 ml y su indicación y dosis las determina el médico según el tipo de infección y el peso o la edad del paciente.\n\nPresentación:\nFrasco con 100 ml de suspensión oral.\n\nModo de uso:\nVía oral. Agite bien el frasco antes de cada toma y use el dosificador del empaque. Complete el tratamiento indicado por el médico aunque los síntomas mejoren.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No se automedique: el uso incorrecto de los antibióticos favorece la resistencia bacteriana. No lo use si es alérgico a las sulfonamidas o a la trimetoprima. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bactrim",
+    "variante": "Suspensión 200/40 mg por 5 ml",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Sulfametoxazol y trimetoprima",
+    "concentracion": "200 mg/40 mg por 5 ml",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Bactrim = sulfametoxazol/trimetoprima; la suspensión de 200/40 mg por 5 ml y 100 ml es la presentación habitual, de conocimiento general). El fabricante no se confirmó (el prefijo 7501300 lo comparten productos de Siegfried Rhein en el sistema). 'AGOSTO 27' y '70' del nombre se ignoraron como caducidad y código. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

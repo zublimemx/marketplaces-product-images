@@ -1,0 +1,46 @@
+{
+  "gtin": "7501298213569",
+  "sku": "7501298213569",
+  "linea": "Farma",
+  "nombre_sistema": "DABEX XR 750 MG C 30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dabex XR Metformina 750 mg 30 Tabletas Liberación Prolongada",
+  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es la metformina clorhidrato, en tabletas de liberación prolongada de 750 mg. Es un antidiabético oral que se utiliza, bajo indicación médica, como apoyo en el control de la glucosa en personas con diabetes mellitus tipo 2, junto con dieta y actividad física.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 750 mg.\n\nModo de uso:\nVía oral. Las tabletas de liberación prolongada deben tragarse enteras, sin partirlas ni masticarlas, y generalmente se toman con alimentos. La dosis y la frecuencia las determina el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la metformina ni si tiene problemas graves de los riñones o del hígado, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dabex",
+    "fabricante": "Merck",
+    "linea": "XR",
+    "variante": "Liberación prolongada 750 mg",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Metformina clorhidrato",
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Dabex XR = metformina de liberación prolongada de Merck, de conocimiento general). Es la presentación de 30 tabletas; el producto 209 del mismo lote es la de 60 tabletas con otro GTIN. La descripción es general y no se cotejó con la ficha oficial; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501298206455",
+  "sku": "7501298206455",
+  "linea": "Farma",
+  "nombre_sistema": "DABEX XR 500MG T30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dabex XR Metformina 500 mg 30 Tabletas",
+  "descripcion": "Descripción:\nDabex XR es un medicamento de Merck cuyo principio activo es el clorhidrato de metformina, en tabletas de liberación prolongada de 500 mg. Esta presentación contiene 30 tabletas.\n\nBeneficios:\n- Antidiabético oral, indicado como complemento de la dieta y el ejercicio en personas con diabetes mellitus tipo 2.\n- Su liberación prolongada permite una toma al día.\n\nComposición:\nCada tableta de liberación prolongada contiene clorhidrato de metformina 500 mg.\n\nModo de uso:\nPor vía oral, con los alimentos, de preferencia durante la cena. Trague la tableta entera, sin masticarla ni partirla. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada de 500 mg.\n\nAdvertencias:\nNo lo use si tiene problemas graves de riñón o de hígado, o si es alérgico a la metformina. Existe riesgo de acidosis láctica. Informe a su médico antes de estudios con medio de contraste y evite el consumo excesivo de alcohol. No suspenda ni modifique el tratamiento sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dabex XR",
+    "fabricante": "Merck",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Clorhidrato de metformina",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Dabex XR 500 mg; no verificados contra el GTIN ni la ficha oficial. Medicamento con receta; según el dueño se publica como venta libre. Categoría Digestivos Venta Libre elegida por ser la que agrupa los medicamentos metabólicos.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "gtin": "7503027446279",
+  "sku": "7503027446279",
+  "linea": "Farma",
+  "nombre_sistema": "GELUBRIN 600MG C10 CAPS IBUPROFENO PROGELA 280",
+  "nombres_sistema_alternos": [],
+  "titulo": "Gelubrin 600 mg Ibuprofeno 10 Cápsulas",
+  "descripcion": "Descripción:\nGelubrin 600 es un medicamento en cápsulas de gelatina blanda que contiene 600 mg de ibuprofeno, un antiinflamatorio no esteroideo (AINE) con acción analgésica y antipirética. Su contenido líquido hidrofílico facilita una absorción rápida.\n\nBeneficios:\nDe acuerdo con su ficha, está indicado para el alivio de:\n- Dolor de cabeza tensional y migraña.\n- Dolor dental y dolor menstrual (dismenorrea).\n- Dolor muscular, lumbalgia, traumatismos y esguinces.\n- Padecimientos reumatológicos y osteoarticulares.\n- Dolor perioperatorio y síntomas de resfriado e influenza.\n- Fiebre.\n\nComposición:\nCada cápsula contiene: ibuprofeno 600 mg; excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral, con suficiente líquido. Adultos y niños mayores de 12 años: 1 cápsula (600 mg) cada 4, 6 u 8 horas según la intensidad del dolor, sin exceder 3.2 g al día. Para el dolor menstrual, se inicia 2 a 3 días antes de la menstruación, 1 cápsula cada 6 a 8 horas, o según indique su médico.\n\nPresentación:\nCaja con 10 cápsulas blandas de 600 mg en blíster.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico al ibuprofeno u otros AINE, si tiene úlcera péptica activa, insuficiencia cardiaca, hepática o renal grave, en menores de 12 años ni durante el último trimestre del embarazo. Consulte a su médico si tiene lupus, hipertensión, asma o enfermedad renal o ácido péptica. El uso prolongado y la edad mayor de 60 años aumentan el riesgo de sangrado gastrointestinal. Puede interactuar con litio, anticoagulantes, otros AINE, diuréticos y ácido acetilsalicílico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Gelubrin",
+    "fabricante": "Progela",
+    "linea": "Gelubrin 600",
+    "variante": "Ibuprofeno 600 mg",
+    "presentacion": "Cápsulas blandas (gel)",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "600 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "079M2022 SSA IV",
+    "otros": "Venta con receta médica; Tipo: Antiinflamatorio y analgésico"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/gelubrin-600-capsulas/2776/101/58029/14",
+    "https://farmaciasmedina.com/detalleProducto/Gelubrin-600-Mg-Caps-C-10/7503027446279"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM indica que su venta requiere receta médica (SSA IV). En el sistema aparece como genérico Progela.",
+    "fecha": "2026-09-29"
+  }
+}

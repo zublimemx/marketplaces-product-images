@@ -1,0 +1,46 @@
+{
+  "gtin": "7501065008473",
+  "sku": "7501065008473",
+  "linea": "Farma",
+  "nombre_sistema": "THERAFLU VERDE C10 SBS RESFRIADO SEVERO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Theraflu Resfriado Severo Sabor Limón 10 Sobres",
+  "descripcion": "Descripción:\nTheraflu Resfriado Severo en sobres, sabor limón, es un té instantáneo para preparar con agua caliente, que ayuda a aliviar los síntomas del resfriado y la gripe: congestión nasal, dolor de garganta, dolor de cabeza, dolores musculares y fiebre. Se presenta en caja con 10 sobres.\n\nBeneficios:\n- Alivio de varios síntomas del resfriado y la gripe en una sola preparación.\n- Se toma caliente, en forma de té, fácil de preparar en casa o en el trabajo.\n- Sabor limón.\n\nModo de uso:\nVía oral. Disuelva el contenido de un sobre en una taza de agua caliente, mezcle bien y tome la bebida mientras esté tibia. Respete la dosis y el intervalo indicados en el empaque y no exceda la dosis recomendada.\n\nPresentación:\nCaja con 10 sobres.\n\nAdvertencias:\nNo se use en el embarazo ni en la lactancia. No exceder la dosis recomendada. No usar en niños menores de 12 años. Si los síntomas persisten por más de unos días o se acompañan de fiebre alta, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Theraflu",
+    "variante": "Resfriado Severo",
+    "presentacion": "Sobres (polvo para preparar bebida caliente)",
+    "contenido_neto": 10,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 10,
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "sabor_aroma": "Limón",
+    "registro_sanitario": "318M94 SSA VI",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.theraflu.com.mx/",
+  "fuentes": [
+    "https://www.theraflu.com.mx/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Theraflu México muestra Theraflu Resfriado Severo sobres verde/limón, pero en caja de 6 sobres; los 10 sobres salen del nombre del sistema. El sitio no lista principios activos ni dosis, por eso no aparecen: agregarlos desde el empaque. El registro 318M94 SSA VI viene del sitio y podría corresponder a la caja de 6.",
+    "fecha": "2026-09-29"
+  }
+}

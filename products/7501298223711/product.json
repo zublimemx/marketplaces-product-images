@@ -1,0 +1,44 @@
+{
+  "gtin": "7501298223711",
+  "sku": "7501298223711",
+  "linea": "Farma",
+  "nombre_sistema": "DOLO NEUROBION TAB C 10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dolo-Neurobión Diclofenaco Vitaminas B1 B6 B12 10 Tabletas",
+  "descripcion": "Descripción:\nDolo-Neurobión, de Merck, es un medicamento en tabletas que combina el antiinflamatorio y analgésico diclofenaco con vitaminas del complejo B: B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina). Se presenta en caja con 10 tabletas para administración por vía oral.\n\nBeneficios:\n- Combina un antiinflamatorio no esteroideo con vitaminas B1, B6 y B12 en una sola tableta.\n- Se utiliza para el alivio del dolor y la inflamación; las indicaciones aprobadas se detallan en el instructivo del empaque.\n- Presentación de 10 tabletas, práctica para tratamientos cortos.\n\nComposición:\nCada tableta contiene diclofenaco sódico y las vitaminas B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina).\n\nModo de uso:\nVía oral. Tome las tabletas con un vaso de agua, de preferencia con alimentos, y respete la dosis y la duración indicadas por su médico o en el instructivo del empaque. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios no esteroideos, ni si tiene úlcera o sangrado del estómago o del intestino. Puede causar molestias gástricas, náusea, mareo o dolor de cabeza. Evite su uso durante el embarazo y la lactancia, salvo indicación médica. Precaución en personas con enfermedad del corazón, del hígado o del riñón, o con hipertensión. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Neurobión",
+    "fabricante": "Merck",
+    "variante": "Tabletas",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Diclofenaco y vitaminas B1, B6 y B12",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y la página de Neurobión México no lista Dolo-Neurobión. Identificación por el nombre y conocimiento general. Faltan las concentraciones por tableta y el registro sanitario: tomarlos del empaque. Falta confirmar si la tableta se vende con receta (el inyectable DC sí); si resulta con receta, usar MLM457826.",
+    "fecha": "2026-09-29"
+  }
+}

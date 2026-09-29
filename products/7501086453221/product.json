@@ -1,0 +1,47 @@
+{
+  "gtin": "7501086453221",
+  "sku": "7501086453221",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "ORAL B ENJBUC GINGIVITIS 350ML",
+  "nombres_sistema_alternos": [
+    "ENJ BUC ORAL-B GING 350ML"
+  ],
+  "titulo": "Enjuague Bucal Oral-B Gingivitis Menta Fresca 350 ml",
+  "descripcion": "Descripción:\nEnjuague bucal Oral-B Gingivitis con sabor menta fresca, de Procter & Gamble. Forma parte de la línea de cuidado bucal Oral-B y está pensado para complementar el cepillado y el uso de hilo dental dentro de una rutina de cuidado de las encías. Se presenta en frasco de 350 ml.\n\nCaracterísticas:\n- Enjuague bucal líquido de la línea Oral-B Gingivitis.\n- Sabor menta fresca.\n- Frasco de 350 ml.\n- Uso complementario al cepillado y al hilo dental.\n\nModo de uso:\nEnjuague la boca con la cantidad indicada en el empaque durante el tiempo señalado por el fabricante y escupa. No lo trague. Úselo después del cepillado o según las instrucciones de la etiqueta.\n\nPresentación:\nFrasco de 350 ml.\n\nAdvertencias:\n- Uso bucal; no se ingiera.\n- Los niños pequeños deben usarlo con supervisión de un adulto para evitar que lo traguen.\n- Consulte a su dentista si presenta irritación o si el sangrado de encías persiste.\n- Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "variante": "Gingivitis",
+    "presentacion": "Enjuague bucal líquido",
+    "contenido_neto": 350,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Menta fresca",
+    "otros": "Formato de venta: Unidad; Uso: cuidado de encías"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasanisidro.mx/producto/cuidado-personal/higiene-bucal/oral-b-enj-bucal-gingivitis-350ml/",
+    "https://www.delsol.com.mx/enjuague-oral-b-gingivitis-350-ml"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (Oral-B Gingivitis, menta fresca, 350 ml). No se pudo leer la ficha completa (WebFetch rechazado por límite de tasa), por eso la descripción no incluye ingredientes activos ni el modo de uso exacto del fabricante: agregar desde el empaque o el sitio de Oral-B.",
+    "fecha": "2026-09-29"
+  }
+}

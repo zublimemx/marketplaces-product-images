@@ -1,0 +1,44 @@
+{
+  "gtin": "7501299305751",
+  "sku": "7501299305751",
+  "linea": "Farma",
+  "nombre_sistema": "INHIBITRON TWIT 20 1100MG CAPS 30N",
+  "nombres_sistema_alternos": [],
+  "titulo": "Inhibitron Twist Omeprazol 20 mg Bicarbonato 30 Cápsulas",
+  "descripcion": "Descripción:\nInhibitron Twist es un medicamento en cápsulas que combina omeprazol de 20 mg con bicarbonato de sodio de 1,100 mg, en presentación de 30 cápsulas. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento.\n\nComposición:\n- Omeprazol 20 mg\n- Bicarbonato de sodio 1,100 mg\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nContiene sodio; consulte a su médico si sigue una dieta baja en sodio o tiene algún padecimiento del corazón o de los riñones. No lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Inhibitron",
+    "linea": "Twist",
+    "variante": "Twist 20 mg/1,100 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Omeprazol y bicarbonato de sodio",
+    "concentracion": "20 mg/1,100 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). La composición (omeprazol 20 mg + bicarbonato de sodio 1,100 mg) se dedujo de la abreviatura TWIT 20 1100MG y de conocimiento previo; no se confirmó. Si resulta con receta, usar MLM457828 (Digestivos con Receta). Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

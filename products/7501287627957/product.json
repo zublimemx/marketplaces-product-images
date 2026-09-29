@@ -1,0 +1,43 @@
+{
+  "gtin": "7501287627957",
+  "sku": "7501287627957",
+  "linea": "Farma",
+  "nombre_sistema": "DALACIN C 300MG C 16CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dalacin C Clindamicina 300 mg 16 Cápsulas",
+  "descripcion": "Descripción:\nDalacin C es un antibiótico de Pfizer cuyo principio activo es la clindamicina, en cápsulas de 300 mg. Pertenece al grupo de las lincosamidas y se utiliza para tratar infecciones causadas por bacterias sensibles a la clindamicina, siempre bajo indicación y supervisión médica.\n\nComposición:\nCada cápsula contiene clindamicina (como clorhidrato) 300 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 16 cápsulas de 300 mg.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. No lo use si es alérgico a la clindamicina o a la lincomicina. Si presenta diarrea intensa, con sangre o persistente, suspenda su uso y consulte a su médico de inmediato. El uso indebido de antibióticos puede generar resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dalacin C",
+    "fabricante": "Pfizer",
+    "presentacion": "cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Clindamicina",
+    "concentracion": "300 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Antibiótico: en México requiere receta médica.",
+    "fecha": "2026-09-29"
+  }
+}

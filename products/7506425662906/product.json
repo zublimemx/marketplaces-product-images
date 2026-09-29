@@ -1,0 +1,44 @@
+{
+  "gtin": "7506425662906",
+  "sku": "7506425662906",
+  "linea": "Mark",
+  "nombre_sistema": "HUGG ULT CON ET 7 NIÑA C40 5",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Ultra Confort Niña Etapa 7 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies de la línea Ultra Confort, diseñados para niñas, en Etapa 7 y presentación de 40 piezas. Son pañales para bebé con núcleo absorbente, cintas ajustables y elásticos en la cintura y las piernas que ayudan a mantener el pañal en su lugar.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\nSeleccione la etapa según el peso y la talla de su bebé, que se indican en el empaque. Cambie el pañal con frecuencia para mantener la piel limpia y seca. Mantenga las bolsas de plástico lejos del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Ultra Confort",
+    "variante": "Niña",
+    "presentacion": "Paquete de pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 7",
+    "genero": "Niñas",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "La búsqueda por GTIN devolvió resultados no relacionados y no se pudo hacer búsqueda por nombre (presupuesto de WebSearch de la sesión agotado). Datos deducidos del nombre del sistema (HUGG ULT CON ET 7 NIÑA C40; el 5 final se tomó como código interno). Verificar que exista Etapa 7 en Ultra Confort Niña de 40 piezas, y el rango de peso.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gtin": "7501019064432",
+  "sku": "7501019064432",
+  "linea": "Mark",
+  "nombre_sistema": "CALZON TENA PANTS MAXIPRO CH-M C/13",
+  "nombres_sistema_alternos": [],
+  "titulo": "Calzón Tena Pants Maxipro Chico-Mediano 13 Piezas",
+  "descripcion": "Descripción:\nTena Pants Maxipro es un calzón absorbente desechable para adultos con incontinencia urinaria, de la marca Tena. Tiene forma de ropa interior, por lo que se coloca y se retira de manera práctica, y ofrece protección para el uso diario o nocturno. Esta presentación viene en talla Chico-Mediano (CH-M) con 13 piezas.\n\nCaracterísticas:\n- Diseño tipo ropa interior, de ajuste cómodo y discreto.\n- Núcleo absorbente para retener la humedad y ayudar a proteger la piel.\n- Talla Chico-Mediano (CH-M).\n- Producto desechable de un solo uso.\n\nModo de uso:\nColóquelo como una prenda interior, ajustándolo a la cintura y a las piernas. Cámbielo cuando esté saturado o con la frecuencia que requiera cada persona. Para retirarlo, puede romper los costados y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 13 piezas talla Chico-Mediano.\n\nAdvertencias:\nProducto de un solo uso. Si presenta irritación o enrojecimiento de la piel, suspenda su uso y consulte a su médico. Consulte en el empaque la tabla de tallas y de cintura recomendada.",
+  "ficha": {
+    "marca": "Tena",
+    "linea": "Pants Maxipro",
+    "variante": "Calzón desechable",
+    "presentacion": "Paquete",
+    "contenido_neto": 13,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 13,
+    "edad_etapa": "Adultos",
+    "talla": "Chico-Mediano",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete; Tipo: Calzón desechable para incontinencia"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (Tena Pants Maxi Pro, talla Chico-Mediano, 13 piezas); no se confirmó el GTIN ni se verificó el fabricante (se omitió).",
+    "fecha": "2026-09-29"
+  }
+}

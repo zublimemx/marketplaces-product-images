@@ -1,0 +1,40 @@
+{
+  "gtin": "736085400489",
+  "sku": "736085400489",
+  "linea": "Farma",
+  "nombre_sistema": "SOPHIPREN OFT GTS 5ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sophipren Gotas Oftálmicas 5 ml",
+  "descripcion": "Descripción:\nSophipren es un medicamento oftálmico en gotas, de uso exclusivo en los ojos, que se presenta en frasco gotero con 5 ml. Su uso debe ser indicado por un médico.\n\nModo de uso:\nUso oftálmico. Aplique las gotas en el ojo afectado en la dosis y con la frecuencia que indique su médico o el empaque. Evite tocar la punta del gotero con los ojos o con los dedos y cierre bien el frasco después de cada aplicación. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nFrasco gotero con 5 ml.\n\nAdvertencias:\nSolo para uso oftálmico. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Si presenta ardor, dolor, cambios en la visión o cualquier reacción adversa, suspenda su uso y consulte a su médico. Informe a su médico si usa otros medicamentos oftálmicos, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sophipren",
+    "presentacion": "Gotas oftálmicas",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Frasco gotero de 5 ml"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó el principio activo (posiblemente un corticoide oftálmico de Laboratorios Sophia, dato sin verificar) ni la concentración; por eso se omitieron. Si se confirma que es un corticoide, requiere receta y la categoría rx sería MLM457829. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

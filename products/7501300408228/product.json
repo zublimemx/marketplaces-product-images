@@ -1,0 +1,41 @@
+{
+  "gtin": "7501300408228",
+  "sku": "7501300408228",
+  "linea": "Farma",
+  "nombre_sistema": "FURACIN POM 85GR AGOSTO 27 100",
+  "nombres_sistema_alternos": [],
+  "titulo": "Furacin Pomada Nitrofurazona 85 g",
+  "descripcion": "Descripción:\nFuracin es una pomada de uso tópico cuyo principio activo es la nitrofurazona, un antimicrobiano local. Se presenta en envase de 85 g y se aplica sobre la piel. Consulte la etiqueta del empaque para conocer sus indicaciones, la concentración y el modo de uso.\n\nPresentación:\nPomada de 85 g.\n\nModo de uso:\nUso externo. Aplique sobre la zona a tratar de la forma que indique el empaque o su médico.\n\nAdvertencias:\nSolo para uso externo. No la use si es alérgico a la nitrofurazona o a cualquier componente de la fórmula. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Furacin",
+    "presentacion": "Pomada",
+    "contenido_neto": 85,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Nitrofurazona",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Furacin = nitrofurazona en pomada, de conocimiento general). No se confirmó la concentración (normalmente 0.2 %), el fabricante ni si su venta requiere receta; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

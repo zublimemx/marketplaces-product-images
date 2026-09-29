@@ -1,0 +1,49 @@
+{
+  "gtin": "7501943444942",
+  "sku": "7501943444942",
+  "linea": "Mark",
+  "nombre_sistema": "SUAVE GDE E4 C/44",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales KleenBebé Suavelastic Etapa 4 Grande 44 Piezas",
+  "descripcion": "Descripción:\nLos pañales KleenBebé Suavelastic Max Etapa 4 (Grande), de Kimberly-Clark, están pensados para mantener seco al bebé por mucho más tiempo. Combinan tecnología Blockgel de alta absorción, ajuste con cuatro puntos de sujeción y una fórmula suave con ingredientes como manzanilla, aloe vera y vitamina E. Versión unisex para bebés de de 9 a 12 kg.\n\nCaracterísticas:\n- Maxi sequedad: tecnología Blockgel y centro absorbente de alto desempeño para mantener seco al bebé por más tiempo.\n- Maxi ajuste: cuatro puntos de sujeción que ayudan a que el pañal no se caiga ni se deforme, con orejas elásticas ajustables y barreras laterales suaves.\n- Maxi cuidado: fórmula Vitta E Plus con vitamina E, aloe vera y manzanilla, y óxido de zinc que ayuda a prevenir la irritación.\n- Bolsillo trasero que ayuda a evitar fugas cuando el bebé está acostado.\n- Dermatológicamente certificados.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, lleve la parte delantera hacia arriba y sujete las cintas a la altura de la cintura, sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 44 pañales desechables Etapa 4 (Grande).\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Suavelastic",
+    "variante": "Max Etapa 4 Grande",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 44,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 44,
+    "edad_etapa": "Etapa 4",
+    "talla": "Grande",
+    "genero": "Unisex",
+    "otros": "Peso del bebé: 9 a 12 kg; Con óxido de zinc: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM42012939"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+  "fuentes": [
+    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+    "https://www.yza.mx/kleenbebe-suavelastic-max-grande-44-pza/MXYZ_7501943444942.html",
+    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-etapa-4-unisex-44-piezas/p/MLM42012939"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN 7501943444942 se confirma con 44 piezas en una farmacia en línea, en Chedraui y en el catálogo ML (coincide con el C/44 del sistema); algunas tiendas lo listan con 40 piezas, probablemente por un empaque anterior.",
+    "fecha": "2026-09-29"
+  }
+}

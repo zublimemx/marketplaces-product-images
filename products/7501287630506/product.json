@@ -1,0 +1,47 @@
+{
+  "gtin": "7501287630506",
+  "sku": "7501287630506",
+  "linea": "Farma",
+  "nombre_sistema": "TERRAMICINA TROCIS 125 MG C 24 117",
+  "nombres_sistema_alternos": [],
+  "titulo": "Terramicina Oxitetraciclina 125 mg 24 Trociscos",
+  "descripcion": "Descripción:\nTerramicina trociscos es un antibiótico de la familia de las tetraciclinas cuyo principio activo es la oxitetraciclina. Se presenta en trociscos (pastillas para disolver en la boca) de 125 mg y es un medicamento de Pfizer. Su uso está indicado para infecciones causadas por bacterias sensibles a la oxitetraciclina, siempre bajo indicación médica.\n\nComposición:\nCada trocisco contiene oxitetraciclina 125 mg.\n\nModo de uso:\nVía oral. Deje que el trocisco se disuelva lentamente en la boca, conforme a la dosis y la duración que indique su médico. Complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 24 trociscos.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin indicación médica ni suspenda el tratamiento antes de lo indicado.\n- Las tetraciclinas no se recomiendan durante el embarazo, la lactancia ni en niños pequeños, porque pueden afectar los dientes y los huesos en desarrollo.\n- No lo use si es alérgico a las tetraciclinas.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Terramicina",
+    "fabricante": "Pfizer",
+    "variante": "Trociscos",
+    "presentacion": "Trociscos",
+    "contenido_neto": 24,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Oxitetraciclina",
+    "concentracion": "125 mg",
+    "via_administracion": "Oral (disolver en la boca)",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Terramicina-24-Pastilla-Caja/7501287630506",
+    "http://www.digit-eyes.com/upcCode/7501287630506.html?l=es"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado por títulos de varias farmacias (Terramicina 125 mg, 24 pastillas/trociscos; una la marca como antibiótico con receta). No se pudo leer la ficha completa (WebFetch rechazado con 429), por lo que la descripción es general y no incluye la indicación específica del fabricante. Fabricante Pfizer según el título de una farmacia en línea.",
+    "fecha": "2026-09-29"
+  }
+}

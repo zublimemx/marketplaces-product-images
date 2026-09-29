@@ -1,0 +1,40 @@
+{
+  "gtin": "650240017100",
+  "sku": "650240017100",
+  "linea": "Farma",
+  "nombre_sistema": "XL3 VR C 24 TABL",
+  "nombres_sistema_alternos": [],
+  "titulo": "XL-3 VR 24 Tabletas",
+  "descripcion": "Descripción:\nXL-3 VR en tabletas, presentación con 24 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece hipertensión u otra enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "XL-3",
+    "variante": "VR",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. No se sabe qué significa VR (variante exacta de XL-3) ni su composición ni fabricante (probablemente Genomma Lab, sin confirmar). Se asumió antigripal de venta libre por ser la línea XL-3. El GTIN tiene 12 dígitos y no se probó con 0 inicial.",
+    "fecha": "2026-09-29"
+  }
+}

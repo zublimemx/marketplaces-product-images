@@ -1,0 +1,43 @@
+{
+  "gtin": "7501098610032",
+  "sku": "7501098610032",
+  "linea": "Farma",
+  "nombre_sistema": "XIGDUO XR 5 1000MG TAB C28",
+  "nombres_sistema_alternos": [],
+  "titulo": "Xigduo XR Dapagliflozina/Metformina 5/1000 mg 28 Tabletas",
+  "descripcion": "Descripción:\nXigduo XR es un medicamento de AstraZeneca en tabletas de liberación prolongada que combina dapagliflozina y metformina. Se emplea junto con dieta y ejercicio en adultos con diabetes mellitus tipo 2. Esta presentación contiene 5 mg de dapagliflozina y 1000 mg de metformina por tableta, en caja con 28 tabletas.\n\nComposición:\n- Dapagliflozina 5 mg\n- Metformina de liberación prolongada 1000 mg\n\nModo de uso:\nVía oral. Siga la dosis que le indique su médico. Las tabletas de liberación prolongada se tragan enteras, sin partir ni masticar.\n\nPresentación:\nCaja con 28 tabletas de liberación prolongada.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Xigduo XR",
+    "fabricante": "AstraZeneca",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Dapagliflozina y metformina",
+    "concentracion": "5 mg/1000 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos deducidos del nombre y del conocimiento general de la marca (dapagliflozina 5 mg + metformina XR 1000 mg, AstraZeneca). Medicamento de prescripción. Confirmar GTIN, registro sanitario y contenido antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

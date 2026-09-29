@@ -1,0 +1,44 @@
+{
+  "gtin": "7501070615277",
+  "sku": "7501070615277",
+  "linea": "Farma",
+  "nombre_sistema": "DAFLON 500M C 20 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Daflon 500 mg 20 Tabletas Diosmina Hesperidina",
+  "descripcion": "Descripción:\nDaflon 500 mg es un medicamento del laboratorio Servier en tabletas, a base de fracción flavonoide purificada micronizada compuesta por diosmina y hesperidina.\n\nComposición:\nFracción flavonoide purificada micronizada 500 mg por tableta (diosmina e hesperidina). Consulte en el empaque los demás componentes.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Daflon",
+    "fabricante": "Servier",
+    "variante": "500 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Diosmina e hesperidina (fracción flavonoide purificada micronizada)",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Daflon 500 mg, Servier, 20 tabletas). Falta confirmar si en México se vende con receta (revisar PLM); si requiere receta, la categoría Rx equivalente sería MLM457830. Composición por conocimiento general (450 mg diosmina + 50 mg hesperidina), sin verificar en fuente.",
+    "fecha": "2026-09-29"
+  }
+}

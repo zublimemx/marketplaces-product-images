@@ -1,0 +1,45 @@
+{
+  "gtin": "7501298234700",
+  "sku": "7501298234700",
+  "linea": "Farma",
+  "nombre_sistema": "EUTIROX 75 C 50 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Eutirox Levotiroxina Sódica 75 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética, en tabletas de 75 mcg. Se utiliza, bajo indicación médica, en el tratamiento de alteraciones de la glándula tiroides como el hipotiroidismo.\n\nPresentación:\nCaja con 50 tabletas de 75 mcg.\n\nModo de uso:\nVía oral. Generalmente se toma en una sola toma al día, en ayunas y con un poco de agua, o como indique el médico. La dosis la determina el médico y no debe modificarse sin su indicación.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico a la levotiroxina o a algún componente de la fórmula. Informe a su médico si tiene problemas del corazón, está embarazada o toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eutirox",
+    "fabricante": "Merck",
+    "variante": "75 mcg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "principio_activo": "Levotiroxina sódica",
+    "concentracion": "75 mcg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Eutirox = levotiroxina sódica de Merck, de conocimiento general; el prefijo de GTIN 7501298 lo comparten productos Merck del sistema). La unidad de 75 se interpretó como mcg (así se manejan sus dosis) y no se cotejó con el empaque. Descripción general no cotejada con la ficha oficial; verificar antes de publicar. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

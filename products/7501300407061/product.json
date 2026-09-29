@@ -1,0 +1,39 @@
+{
+  "gtin": "7501300407061",
+  "sku": "7501300407061",
+  "linea": "Farma",
+  "nombre_sistema": "FEBRAX SUSP 100ML MARZO 27 72",
+  "nombres_sistema_alternos": [],
+  "titulo": "Febrax Suspensión 100 ml",
+  "descripcion": "Descripción:\nFebrax es un medicamento de la marca del mismo nombre en presentación de suspensión, frasco con 100 ml. La información detallada de composición e indicaciones debe consultarse en el empaque del producto.\n\nPresentación:\n- Suspensión\n- Contenido: 100 ml\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Febrax",
+    "presentacion": "Suspensión",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, concentración y fabricante no confirmados; la categoría Analgésicos es una inferencia por el nombre (probable antipirético). Verificar y ampliar la descripción con la ficha del fabricante.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "gtin": "7501300407160",
+  "sku": "7501300407160",
+  "linea": "Farma",
+  "nombre_sistema": "VODELAN 500 100 MG C 14 336",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vodelan 500 mg/100 mg 14 Tabletas",
+  "descripcion": "Descripción:\nVodelan es un medicamento de Siegfried que combina en una misma tableta un antibiótico (ciprofloxacino, 500 mg) y un analgésico urinario (fenazopiridina, 100 mg). Se usa en infecciones de las vías urinarias causadas por bacterias sensibles, para combatir la infección y aliviar molestias como el ardor y el dolor al orinar, bajo prescripción médica.\n\nComposición:\nCada tableta contiene ciprofloxacino 500 mg y fenazopiridina 100 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con un vaso de agua, en la dosis y durante el tiempo que indique su médico. Complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 14 tabletas.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin prescripción médica.\n- La fenazopiridina puede teñir la orina de color naranja o rojizo y manchar la ropa o los lentes de contacto.\n- El ciprofloxacino puede causar dolor o inflamación en los tendones y mareo; suspenda su uso y consulte a su médico si aparecen.\n- No lo use durante el embarazo o la lactancia, ni en menores de edad, salvo indicación médica.\n- Evite tomarlo junto con lácteos, antiácidos o suplementos de hierro o calcio.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vodelan",
+    "fabricante": "Siegfried",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Ciprofloxacino, fenazopiridina",
+    "concentracion": "500 mg / 100 mg por tableta",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/vodelan-500-100mg-tab-caj-c-14.html",
+    "https://farmaciasmedina.com/detalleProducto/Vodelan-14-Tableta-Caja/7501300407160"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (ciprofloxacino 500 mg + fenazopiridina 100 mg, 14 tabletas, receta obligatoria según la farmacia). La ficha solo trae composición, fabricante y contenido; indicación y advertencias son generales de la combinación.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501008427330",
+  "sku": "7501008427330",
+  "linea": "Farma",
+  "nombre_sistema": "BEPANTHEN 100GR POM 50",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bepanthen Pomada Dexpantenol 100 g",
+  "descripcion": "Descripción:\nBepanthen es una pomada de uso tópico de Bayer cuyo componente activo es el dexpantenol, precursor de la vitamina B5. Se presenta en tubo con 100 g. Es una pomada de uso externo para el cuidado de la piel.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona de piel limpia y seca, las veces que indique el empaque o su médico. Lávese las manos antes y después de la aplicación. Verifique en el empaque las indicaciones específicas del producto.\n\nPresentación:\nTubo con 100 g de pomada.\n\nAdvertencias:\nSolo para uso externo. No lo utilice si es alérgico al dexpantenol o a algún componente de la fórmula. Evite el contacto con los ojos. Si la irritación persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bepanthen",
+    "fabricante": "Bayer",
+    "presentacion": "Pomada",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexpantenol",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Tubo de 100 g"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (dexpantenol) y fabricante (Bayer) tomados de conocimiento general de la marca; no se confirmó la concentración ni si el tubo de 100 g es la presentación exacta. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gtin": "7501095467264",
+  "sku": "7501095467264",
+  "linea": "Farma",
+  "nombre_sistema": "SAL DE UVAS EXHIBIDOR C 50 SOBRES",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sal de Uvas Picot Antiácido 50 Sobres",
+  "descripcion": "Descripción:\nSal de Uvas Picot es un antiácido efervescente en polvo que se presenta en sobres individuales. Se disuelve en agua y ayuda a aliviar la acidez estomacal, las agruras y la indigestión ocasional. Esta presentación es un exhibidor con 50 sobres.\n\nModo de uso:\nDisuelva el contenido de un sobre en un vaso con agua y bébalo de inmediato, mientras hace efervescencia, o siga la indicación del empaque.\n\nPresentación:\nExhibidor con 50 sobres.\n\nAdvertencias:\nContiene sodio; si sigue una dieta baja en sodio o tiene hipertensión o problemas renales, consulte a su médico antes de usarlo. No lo use por periodos prolongados. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Picot",
+    "linea": "Sal de Uvas",
+    "presentacion": "sobres",
+    "contenido_neto": 50,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 50,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Exhibidor con 50 sobres"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). La marca Picot se infiere de SAL DE UVAS (el nombre del sistema no la menciona); confirmarla, así como el fabricante, la composición y el peso por sobre.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501088505003",
+  "sku": "7501088505003",
+  "linea": "Farma",
+  "nombre_sistema": "ALIN 8MG C 1 AMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Alin 8 mg Solución Inyectable 1 Ampolleta",
+  "descripcion": "Descripción:\nAlin 8 mg es un medicamento inyectable en ampolleta, de aplicación por personal de salud, que pertenece al grupo de los corticoesteroides de uso sistémico. Se presenta en caja con 1 ampolleta y su uso debe ser indicado por un médico.\n\nModo de uso:\nAplicación inyectable por personal de salud, en la dosis, la vía y la frecuencia que indique el médico. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 1 ampolleta de 8 mg.\n\nAdvertencias:\nEs un medicamento inyectable que requiere receta médica y que debe ser aplicado por personal de salud. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si tiene diabetes, hipertensión, infecciones activas, úlcera gástrica, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alin",
+    "variante": "8 mg",
+    "presentacion": "Solución inyectable en ampolleta",
+    "contenido_neto": 1,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexametasona",
+    "concentracion": "8 mg",
+    "via_administracion": "Inyectable",
+    "otros": "Formato de venta: Caja con 1 ampolleta"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). El principio activo (dexametasona) se tomó de conocimiento general de la marca Alin y no está confirmado; por eso no aparece en el título ni en la descripción. No se confirmó el volumen de la ampolleta (posiblemente 2 ml) ni el fabricante. Requiere receta; el dueño indicó publicar como venta libre. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gtin": "7509546068343",
+  "sku": "7509546068343",
+  "linea": "Mark",
+  "nombre_sistema": "FIJ CAPRICE BIOTINA SPY 316 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fijador en Spray Caprice Biotina 316 ml",
+  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante Biotina, en presentación de 316 ml. Se utiliza para mantener el peinado en su lugar y forma parte de la línea de fijadores de la marca. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nCaracterísticas:\n- Formato spray.\n- Variante con biotina.\n- Presentación de 316 ml.\n\nPresentación:\nEnvase en spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Caprice",
+    "fabricante": "Colgate-Palmolive",
+    "variante": "Spray fijador Biotina",
+    "presentacion": "Spray",
+    "contenido_neto": 316,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El fabricante se dedujo por el prefijo GTIN 7509546 (mismo de otros productos Colgate-Palmolive del catálogo) y no está confirmado. Se desconoce el nivel de fijación y qué otros ingredientes lleva la variante Biotina. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

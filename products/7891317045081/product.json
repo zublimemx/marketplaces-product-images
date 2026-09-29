@@ -1,0 +1,42 @@
+{
+  "gtin": "7891317045081",
+  "sku": "7891317045081",
+  "linea": "Farma",
+  "nombre_sistema": "DACTIL OB PIPERIDOLATO 100MG C30 EUROFARMA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dactil OB Piperidolato 100 mg Caja con 30",
+  "descripcion": "Descripción:\nDactil OB es un medicamento de Eurofarma cuyo principio activo es el piperidolato, de acción antiespasmódica. Esta presentación contiene 30 piezas de 100 mg.\n\nComposición:\nPiperidolato 100 mg por pieza.\n\nPresentación:\nCaja con 30 piezas de 100 mg.\n\nAdvertencias:\nConsulte las indicaciones, la dosis y las contraindicaciones en el empaque. No exceda la dosis recomendada. Informe a su médico si está embarazada o en lactancia, o si tiene glaucoma o problemas para orinar. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dactil OB",
+    "fabricante": "Eurofarma",
+    "presentacion": "Caja con 30 piezas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Piperidolato",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Principio activo, concentración, piezas y fabricante vienen del nombre del sistema; no se confirmó la forma farmacéutica (tabletas o grageas), la vía ni las indicaciones exactas (uso ginecológico/obstétrico según el sufijo OB). Categoría tentativa. Verificar si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

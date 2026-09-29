@@ -1,0 +1,39 @@
+{
+  "gtin": "7501871721214",
+  "sku": "7501871721214",
+  "linea": "Farma",
+  "nombre_sistema": "NOVOVARTALON C 30 SOBRES",
+  "nombres_sistema_alternos": [],
+  "titulo": "Novovartalon 30 Sobres",
+  "descripcion": "Descripción:\nNovovartalon en presentación de caja con 30 sobres. Consulte el empaque del producto para conocer su composición, modo de uso y advertencias.\n\nPresentación:\nCaja con 30 sobres.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Novovartalon",
+    "presentacion": "Sobres",
+    "contenido_neto": 30,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 30,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). No se identificó el producto, su composición ni si es medicamento o suplemento; la categoría Otros Medicamentos es provisional y podría corresponder a Suplementos Alimenticios (MLM438195).",
+    "fecha": "2026-09-29"
+  }
+}

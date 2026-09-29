@@ -1,0 +1,40 @@
+{
+  "gtin": "7501871720620",
+  "sku": "7501871720620",
+  "linea": "Farma",
+  "nombre_sistema": "GESLUTIN 200MG PERLAS 15",
+  "nombres_sistema_alternos": [],
+  "titulo": "Geslutin 200 mg 15 Perlas",
+  "descripcion": "Descripción:\nGeslutin 200 mg en presentación de 15 perlas (cápsulas blandas). Producto de la línea de farmacia; consulte en el empaque la composición, las indicaciones, la vía de administración y la dosis.\n\nPresentación:\nCaja con 15 perlas de 200 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Geslutin",
+    "presentacion": "Perlas (cápsulas blandas)",
+    "contenido_neto": 15,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 15,
+    "concentracion": "200 mg",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. Por el nombre probablemente sea progesterona micronizada de 200 mg (medicamento hormonal con receta, Rx sugerida MLM457834), pero no se confirmó; por eso no se incluyó el principio activo. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

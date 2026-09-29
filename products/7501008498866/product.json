@@ -1,0 +1,45 @@
+{
+  "gtin": "7501008498866",
+  "sku": "7501008498866",
+  "linea": "Farma",
+  "nombre_sistema": "FLANAX 550MG C6 TABS 105",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flanax Naproxeno Sódico 550 mg 6 Tabletas",
+  "descripcion": "Descripción:\nFlanax 550 mg es un medicamento de Bayer en tabletas cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo (AINE). Se presenta en caja con 6 tabletas. Consulte en el empaque las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\nCada tableta contiene 550 mg de naproxeno sódico.\n\nPresentación:\nCaja con 6 tabletas de 550 mg.\n\nAdvertencias:\nLos antiinflamatorios no esteroideos pueden causar molestias gástricas. No lo use si es alérgico al naproxeno, a la aspirina o a otros antiinflamatorios, ni durante el embarazo o la lactancia sin indicación médica. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flanax",
+    "fabricante": "Bayer",
+    "variante": "550 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 6,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Producto identificado por nombre y conocimiento previo (Flanax, Bayer, prefijo GTIN 7501008); no se confirmó el GTIN ni la presentación de 6 tabletas. No se confirmó si la presentación de 550 mg se vende sin receta en México. Si requiere receta, usar MLM457826 (Musculoarticulares con Receta). El 105 final del nombre se ignoró.",
+    "fecha": "2026-09-29"
+  }
+}

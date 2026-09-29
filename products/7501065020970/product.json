@@ -1,0 +1,48 @@
+{
+  "gtin": "7501065020970",
+  "sku": "7501065020970",
+  "linea": "Farma",
+  "nombre_sistema": "PROCTO-GLYVENOL SUPOSITORIOS C5 TRIBENOSIDO/LIDOCAINA 400MG/40MG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Procto-Glyvenol Tribenósido Lidocaína 5 Supositorios",
+  "descripcion": "Descripción:\nProcto-Glyvenol es un medicamento en supositorios de administración rectal que combina 400 mg de tribenósido y 40 mg de lidocaína por supositorio. Está indicado para el tratamiento local de las hemorroides internas.\n\nBeneficios:\n- La lidocaína es un anestésico local que ayuda a aliviar el dolor y la comezón en la zona.\n- El tribenósido actúa de manera local sobre la inflamación asociada a las hemorroides.\n- Su presentación en supositorio permite aplicar el tratamiento directamente en la zona afectada.\n\nComposición:\nCada supositorio contiene: tribenósido 400 mg; lidocaína 40 mg; excipiente cbp 1 supositorio.\n\nModo de uso:\nVía rectal. Se administra 1 supositorio por la mañana y otro por la noche hasta que disminuyan los síntomas agudos; después, la dosis puede reducirse a 1 supositorio al día, hasta por una semana, o según lo indique su médico.\n\nPresentación:\nCaja con 5 supositorios.\n\nAdvertencias:\nNo lo use si es alérgico al tribenósido, a la lidocaína o a cualquier componente de la fórmula. Úselo con precaución si tiene daño hepático severo; no hay experiencia clínica en niños. Evítelo durante el primer trimestre del embarazo; puede usarse a partir del cuarto mes y durante la lactancia sin exceder la dosis recomendada. En raras ocasiones puede causar ardor, comezón, sarpullido o urticaria. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Procto-Glyvenol",
+    "fabricante": "Novartis Farmacéutica",
+    "variante": "Supositorios 400 mg/40 mg",
+    "presentacion": "Supositorios",
+    "contenido_neto": 5,
+    "unidad_contenido": "supositorios",
+    "unidades_por_envase": 5,
+    "principio_activo": "Tribenósido y lidocaína",
+    "concentracion": "400 mg/40 mg por supositorio",
+    "via_administracion": "Rectal",
+    "otros": "Uso: Hemorroides internas"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/procto-glyvenol-supositorios/122/101/9407/193",
+    "https://prixz.com/c/procto-glyvenol-con-5-supositorios/",
+    "https://wecarepharma.mx/products/proctoglyvenol-400mg-con-5-supositorios"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las fuentes discrepan sobre la receta: su registro es SSA VI y actuamed lo lista como venta libre (OTC), pero algunos sitios de farmacia lo marcan con receta; conviene confirmarlo. Un sitio menciona 5 mg de lidocaína, pero PLM y el nombre del sistema indican 40 mg. Registro citado como 77464 o 77465 según la fuente, por eso no se incluye. Categoría alterna por ATC: Cardiovasculares Venta Libre (MLM457817).",
+    "fecha": "2026-09-29"
+  }
+}

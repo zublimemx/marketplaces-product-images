@@ -1,0 +1,41 @@
+{
+  "gtin": "7501122963028",
+  "sku": "7501122963028",
+  "linea": "Farma",
+  "nombre_sistema": "ESPAVEN ENZI C 50 GRAG 156",
+  "nombres_sistema_alternos": [],
+  "titulo": "Espaven Enzimático 50 Grageas",
+  "descripcion": "Descripción:\nEspaven Enzimático en grageas, presentación de 50 grageas. Es un producto de uso digestivo de la marca Espaven; consulte la fórmula completa, las indicaciones y la dosis en el empaque.\n\nPresentación:\nCaja con 50 grageas.\n\nModo de uso:\nVía oral. Tome las grageas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico. No exceda la dosis recomendada.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Espaven",
+    "variante": "Enzimático",
+    "presentacion": "Grageas",
+    "contenido_neto": 50,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 50,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, la variante y las 50 grageas (el 156 final se ignoró). Se desconocen fabricante y composición; receta_mx es una suposición. Descripción deliberadamente neutral. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

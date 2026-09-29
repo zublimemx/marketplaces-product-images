@@ -1,0 +1,51 @@
+{
+  "gtin": "7501058623195",
+  "sku": "7501058623195",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "NAN 2 400 GR JUNIO 27",
+  "nombres_sistema_alternos": [
+    "NAN 2 OPTIPRO LCONFORT 400 G"
+  ],
+  "titulo": "Fórmula Infantil Nan Optipro 2 Lata 400 g",
+  "descripcion": "Descripción:\nNAN Optipro 2 (presentada por Nestlé México como NAN 2 Optimal Pro) es una fórmula infantil en polvo para lactantes de 6 a 12 meses. Está elaborada con proteína de suero de leche OPTIPRO y enriquecida con HMO 2'FL, DHA, el probiótico Limosilactobacillus reuteri y hierro.\n\nBeneficios:\n- Contiene proteína de suero de leche desmineralizado OPTIPRO.\n- Incluye el oligosacárido de leche humana HMO 2'FL (2'-fucosilactosa) y DHA de aceite de pescado.\n- Contiene el probiótico Limosilactobacillus reuteri.\n- Fórmula adicionada con hierro, zinc, vitaminas A, C, D, E, K y del complejo B, y otros minerales.\n- Aporte por cada 100 kcal: 2 g de proteína, 4.8 g de grasa total y 12.2 g de carbohidratos.\n\nIngredientes:\nProteína de suero de leche de vaca desmineralizado OPTIPRO (26.84 %), lactosa, leche descremada, aceites vegetales (oleína de palma, palmiste, canola y maíz), citrato tricálcico, lecitina de soya, sales minerales, HMO (0.22 %) [2'-fucosilactosa], aceite de pescado (0.15 %) [DHA], cultivos probióticos de Limosilactobacillus reuteri (0.03 %), vitaminas y minerales.\nContiene: leche, soya y aceite de pescado.\n\nModo de uso:\nIndicada para lactantes de 6 a 12 meses. Prepárese siguiendo estrictamente las instrucciones de preparación y conservación de la etiqueta, con agua segura y utensilios limpios.\n\nPresentación:\nLata con 400 g de fórmula en polvo.\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé y debe continuarse el mayor tiempo posible. El uso de este producto debe hacerse bajo la orientación de un profesional de la salud. Contiene leche, soya y aceite de pescado. Una preparación o un almacenamiento incorrectos pueden ser perjudiciales para la salud del bebé.",
+  "ficha": {
+    "marca": "Nan",
+    "fabricante": "Nestlé",
+    "linea": "Optipro",
+    "variante": "Etapa 2",
+    "presentacion": "Lata en polvo",
+    "contenido_neto": 400,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "6 a 12 meses",
+    "sabor_aroma": "Sin sabor",
+    "genero": "Unisex",
+    "otros": "Etapa: 2; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM9155552"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
+  "fuentes": [
+    "https://www.nestlefamilynes.com.mx/producto/nan-2-optimal-pro",
+    "https://grupofarmapronto.com/producto/nan-2-optipro-400-g-2/",
+    "https://www.farmalisto.com.mx/etapa-2/18782-comprar-nan-2-optipro-lata-con-polvo-de-400-g-formula-infantil-precio.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El 'JUNIO 27' del nombre es caducidad y se ignoró. Nestlé México ya nombra la línea Optimal Pro; en ML se usa Optipro.",
+    "fecha": "2026-09-29"
+  }
+}

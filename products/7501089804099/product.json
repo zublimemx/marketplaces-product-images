@@ -1,0 +1,41 @@
+{
+  "gtin": "7501089804099",
+  "sku": "7501089804099",
+  "linea": "Farma",
+  "nombre_sistema": "AUTRIN 600 MG C 36 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Autrin 600 mg 36 Tabletas",
+  "descripcion": "Descripción:\nAutrin 600 mg es un producto en tabletas en presentación de caja con 36 piezas. Consulte la composición, la indicación específica y la dosis recomendada en el empaque o con su médico.\n\nPresentación:\nCaja con 36 tabletas de 600 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia, o si toma otros medicamentos.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Autrin",
+    "presentacion": "Tabletas",
+    "contenido_neto": 36,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 36,
+    "concentracion": "600 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. No se confirmó qué es Autrin 600 mg (posible hematínico o suplemento de hierro, sin verificar), por lo que no se declaró principio activo ni fabricante. La categoría Para la Sangre Venta Libre es tentativa; si resulta suplemento alimenticio, usar MLM438195. Descripción mínima y neutral.",
+    "fecha": "2026-09-29"
+  }
+}

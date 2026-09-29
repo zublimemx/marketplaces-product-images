@@ -1,0 +1,53 @@
+{
+  "gtin": "7501109902866",
+  "sku": "7501109902866",
+  "linea": "Farma",
+  "nombre_sistema": "MOTRIN INF SUSP 20MG 1ML FEBRERO 28 30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Motrin Infantil Ibuprofeno 20 mg/ml Suspensión 120 ml",
+  "descripcion": "Descripción:\nMotrin Infantil es una suspensión oral de ibuprofeno para niños de 2 a 12 años. Cada 100 ml contienen 2 g de ibuprofeno (20 mg por ml). Está libre de alcohol y tiene sabor a frutas.\n\nBeneficios:\n- Ayuda a reducir la fiebre en niños.\n- Alivia temporalmente el dolor leve a moderado asociado a resfriado, gripe, dolor de garganta, dolor de cabeza y dolor de muelas.\n- Según la marca, actúa en aproximadamente 15 minutos y sus efectos duran hasta 8 horas.\n- Incluye vasito dosificador y pipeta para medir la dosis.\n\nComposición:\nIbuprofeno 2 g por cada 100 ml de suspensión (20 mg/ml), en vehículo cbp.\n\nModo de uso:\nVía oral. Agite bien antes de cada uso y utilice únicamente el dosificador incluido. Se administra una toma cada 6 a 8 horas, sin exceder 4 tomas en 24 horas. La dosis se determina de preferencia por el peso del niño:\n- 10 a 15 kg (2 a 3 años): 5 ml\n- 16 a 21 kg (4 a 5 años): 7.5 ml\n- 21.5 a 26.5 kg (6 a 8 años): 10 ml\n- 27 a 32 kg (9 a 10 años): 12.5 ml\n- 32.5 a 43 kg (11 a 12 años): 15 ml\nNo lo use por más de 5 días sin consultar al médico.\n\nPresentación:\nCaja con un frasco de 120 ml, con vasito dosificador y pipeta. Conservar a temperatura ambiente controlada, entre 15 y 30 grados centígrados.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad al ibuprofeno, a la aspirina o a otros antiinflamatorios, úlcera péptica activa o hemorragia gastrointestinal, ni insuficiencia renal o hepática grave. Puede causar reacciones alérgicas graves y sangrado estomacal, sobre todo con uso prolongado o dosis mayores; los antiinflamatorios pueden aumentar el riesgo cardiovascular. Consulte al médico si el niño tiene úlceras, enfermedad renal o cardíaca, o toma anticoagulantes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Motrin",
+    "fabricante": "Janssen-Cilag de México",
+    "linea": "Infantil",
+    "variante": "Suspensión 2 g/100 ml",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ibuprofeno",
+    "concentracion": "20 mg/ml (2 g/100 ml)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños de 2 a 12 años",
+    "sabor_aroma": "Frutas",
+    "genero": "Niños",
+    "registro_sanitario": "630M98 SSA VI",
+    "otros": "Formato de venta: Caja con frasco"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM39455417"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.motrin.com.mx/productos/motrin-infantil",
+  "fuentes": [
+    "https://www.motrin.com.mx/productos/motrin-infantil",
+    "https://www.vademecum.es/mexico/medicamento/1139286/motrin-suspension-infantil",
+    "https://www.mercadolibre.com.mx/motrin-suspension-infantil-1-frasco-120-ml/p/MLM39455417"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde al frasco de 120 ml (2 g/100 ml); el 'FEBRERO 28 30' del nombre es caducidad/lote y se ignoró. Una tienda lista el sabor como fresa-frambuesa y otra como frutas; se usó 'frutas' (sitio oficial: sabor frutas). La marca hoy puede figurar bajo Kenvue; el registro sanitario corresponde a Janssen-Cilag de México.",
+    "fecha": "2026-09-29"
+  }
+}

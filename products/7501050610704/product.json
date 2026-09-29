@@ -1,0 +1,48 @@
+{
+  "gtin": "7501050610704",
+  "sku": "7501050610704",
+  "linea": "Farma",
+  "nombre_sistema": "DIPROSPAN HYPAK",
+  "nombres_sistema_alternos": [],
+  "titulo": "Diprospan Hypak Betametasona Inyectable 1 Jeringa 1 ml",
+  "descripcion": "Descripción:\nDiprospan Hypak es una suspensión inyectable de betametasona, un corticosteroide con acción antiinflamatoria, en jeringa prellenada de 1 ml. Se utiliza en afecciones que responden a la terapia con corticosteroides, por ejemplo alteraciones osteomusculares y articulares, alérgicas y dermatológicas, siempre bajo indicación médica.\n\nComposición:\nCada ml de suspensión contiene:\n- Betametasona (como dipropionato) 5 mg\n- Betametasona (como fosfato sódico) 2 mg\n\nModo de uso:\nVía inyectable (intramuscular, intraarticular o intralesional, según lo determine el médico). Debe ser aplicado únicamente por personal de salud capacitado, en la dosis y el esquema que indique su médico. Agite la jeringa antes de aplicar.\n\nPresentación:\nCaja con 1 jeringa prellenada Hypak de 1 ml. Conservar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- No lo use si es alérgico a la betametasona o a otros corticosteroides.\n- No lo aplique por cuenta propia ni por vía intravenosa.\n- Los corticosteroides requieren vigilancia médica, sobre todo en personas con diabetes, hipertensión o infecciones.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Diprospan",
+    "linea": "Hypak",
+    "presentacion": "Suspensión inyectable en jeringa prellenada",
+    "contenido_neto": 1,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Betametasona (dipropionato y fosfato sódico)",
+    "concentracion": "5 mg/2 mg por ml",
+    "via_administracion": "Inyectable (intramuscular, intraarticular, intralesional)",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Diprospan-Hypak-Inyeccion-1-Suspension-Jeringa-Prellenada/7501050610704",
+    "https://www.farmaciasespecializadas.com/diprospan-hypak-5-2mg-jgp-1ml-caj-c-1.html",
+    "https://farmalisto.com.mx/endocrinologia/1929-diprospan-05-mg-20-mg-caja-con-1-jeringa-prellenada-con-1-ml-hypac-7501050610704.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (1 jeringa prellenada de 1 ml). La lectura de una de las farmacias devolvió una composición incoherente (clonixinato/hioscina) que se descartó; la composición betametasona 5 mg/2 mg por ml se tomó del listado que indica 5/2 mg y del conocimiento general del producto, y conviene verificarla contra el empaque. Es inyectable con receta; se publica en venta libre por instrucción del dueño. Se omitió el fabricante por falta de fuente confiable.",
+    "fecha": "2026-09-29"
+  }
+}

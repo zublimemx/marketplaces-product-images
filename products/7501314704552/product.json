@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314704552",
+  "sku": "7501314704552",
+  "linea": "Farma",
+  "nombre_sistema": "MICCIL 1MG COMP C 20",
+  "nombres_sistema_alternos": [],
+  "titulo": "Miccil 1 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nMiccil 1 mg en presentación de 20 comprimidos.\n\nPresentación:\nCaja con 20 comprimidos de 1 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Miccil",
+    "presentacion": "comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 20,
+    "concentracion": "1 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo, el grupo terapéutico ni el fabricante. Categoría genérica (Otros Medicamentos) y receta por confirmar.",
+    "fecha": "2026-09-29"
+  }
+}

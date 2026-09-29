@@ -1,0 +1,50 @@
+{
+  "gtin": "7501088509766",
+  "sku": "7501088509766",
+  "linea": "Farma",
+  "nombre_sistema": "ANTIFLUDES JR JBE 60ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Antiflu-Des Jr Jarabe Infantil 60 ml",
+  "descripcion": "Descripción:\nAntiflu-Des Jr es un medicamento de uso pediátrico en presentación líquida (frasco de 60 ml) que combina amantadina, clorfenamina y paracetamol. Se emplea para el alivio de los síntomas de la gripe y el resfriado en niños, como fiebre, dolor de cabeza y malestar general, congestión nasal, estornudos y escurrimiento nasal. Es un producto del laboratorio Chinoin.\n\nBeneficios:\n- Reúne en un solo producto un antiviral, un antihistamínico y un analgésico-antipirético\n- Ayuda a controlar varios síntomas de la gripe al mismo tiempo\n- Presentación líquida de fácil administración para niños\n\nComposición:\n- Amantadina: 500 mg por cada 100 ml\n- Clorfenamina: 20 mg por cada 100 ml\n- Paracetamol: 3 g por cada 100 ml (30 mg/ml)\n\nModo de uso:\nVía oral. La dosis depende de la edad y el peso del niño; siga la dosificación indicada en el empaque o por su médico y use un dosificador adecuado para medirla. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nFrasco con 60 ml de solución oral.\n\nAdvertencias:\nNo se administre junto con otros medicamentos que contengan paracetamol. La clorfenamina puede causar somnolencia. No lo use si el niño es alérgico a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Antiflu-Des",
+    "fabricante": "Chinoin",
+    "linea": "Jr",
+    "variante": "Infantil",
+    "presentacion": "Jarabe (solución oral)",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Amantadina, clorfenamina y paracetamol",
+    "concentracion": "500 mg / 20 mg / 3 g por cada 100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasespecializadas.com/antiflu-des-jr-500-20-30mg-ml-sol-c-60ml.html",
+    "https://farmaciasmedina.com/detalleProducto?producto=7501088509766",
+    "https://farmasmart.com/antiflu-des-jr-1-sol-0-50-02-3-g-60-ml"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (fabricante Chinoin). Las tiendas lo llaman jarabe, solución o suspensión. La concentración se interpretó de dos fichas (0.50/0.02/3 g por 60 ml en una; 500/20/30 mg/ml en otra) como 500 mg, 20 mg y 3 g por 100 ml; verificar en el empaque. Una tienda pide receta, pero suele venderse sin ella: revisar la clasificación.",
+    "fecha": "2026-09-29"
+  }
+}

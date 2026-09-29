@@ -1,0 +1,40 @@
+{
+  "gtin": "7501943474895",
+  "sku": "7501943474895",
+  "linea": "Mark",
+  "nombre_sistema": "DIAPRO PRED GEL ADC-10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales para Adulto Diapro Gel 10 Piezas",
+  "descripcion": "Descripción:\nPañales desechables para adulto de la marca Diapro, con núcleo absorbente con gel, diseñados para el manejo de la incontinencia urinaria. Ayudan a retener la humedad y a mantener la piel más seca. Se presentan en paquete con 10 piezas.\n\nCaracterísticas:\n- Núcleo absorbente con gel que retiene la humedad.\n- Producto desechable de un solo uso.\n- Paquete de 10 piezas, práctico para llevar o para probar el producto.\n\nModo de uso:\nColoque el pañal según las indicaciones del empaque, ajustándolo de forma cómoda al cuerpo sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio, para cuidar la piel.\n\nPresentación:\nPaquete con 10 pañales desechables para adulto.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Si aparece irritación o enrojecimiento en la piel, suspenda su uso y consulte a su médico. Verifique que la talla corresponda al usuario. Mantenga el empaque fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Diapro",
+    "presentacion": "Pañales desechables para adulto",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Producto dudoso: DIAPRO PRED GEL ADC-10 se interpretó como pañal para adulto con gel, 10 piezas (ADC probablemente sea adulto chico o similar, sin confirmar). El prefijo 7501943 es de Kimberly-Clark, pero no se localizó la línea Diapro. Se omitieron talla, fabricante y variante. Revisar antes de publicar; si resulta otro formato (p. ej. pañal para bebé), cambiar categoría a MLM178488.",
+    "fecha": "2026-09-29"
+  }
+}

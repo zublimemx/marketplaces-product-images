@@ -1,0 +1,37 @@
+{
+  "gtin": "7501070635596",
+  "sku": "7501070635596",
+  "linea": "Farma",
+  "nombre_sistema": "AS COR SOL 24ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "As Cor Solución 24 ml",
+  "descripcion": "Descripción:\nAs Cor en solución, presentación de 24 ml. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nEnvase con 24 ml de solución.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "As Cor",
+    "presentacion": "Solución",
+    "contenido_neto": 24,
+    "unidad_contenido": "ml"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Producto no identificado con certeza (podría escribirse Ascor); no se conoce principio activo, fabricante ni uso, por eso la categoría es Otros Medicamentos. Requiere búsqueda por GTIN antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

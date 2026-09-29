@@ -1,0 +1,50 @@
+{
+  "gtin": "3662042004100",
+  "sku": "3662042004100",
+  "linea": "Farma",
+  "nombre_sistema": "ZADITEN OFT GTS 0.025% 5ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Zaditen Ofta Ketotifeno 0.025% Gotas Oftálmicas 5 ml",
+  "descripcion": "Descripción:\nZaditen Ofta es una solución oftálmica en gotas de Laboratorios Théa que contiene ketotifeno al 0.025%, un antihistamínico de uso ocular. Se presenta en frasco gotero con 5 ml.\n\nBeneficios:\n- Actúa bloqueando los receptores de histamina en el ojo.\n- Indicado para el tratamiento sintomático de la conjuntivitis alérgica, con alivio de molestias como enrojecimiento, comezón y lagrimeo.\n- Frasco gotero de 5 ml para aplicación directa en el ojo.\n\nComposición:\nKetotifeno 0.025% en solución oftálmica.\n\nModo de uso:\nUso oftálmico. Aplique las gotas en el saco conjuntival del ojo afectado dos veces al día, o según lo indique su médico. La duración del tratamiento depende de la intensidad de los síntomas y debe definirla el médico. Evite tocar la punta del gotero con los ojos o con los dedos y cierre bien el frasco después de cada aplicación.\n\nPresentación:\nFrasco gotero con 5 ml de solución oftálmica.\n\nAdvertencias:\nNo lo utilice si es alérgico al ketotifeno o a algún componente de la fórmula. Puede causar irritación, ardor o comezón ocular. Consulte a su médico antes de usarlo durante el embarazo o la lactancia. No sustituye una valoración médica si los síntomas persisten. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Zaditen",
+    "fabricante": "Laboratorios Théa",
+    "linea": "Ofta",
+    "variante": "Solución oftálmica 0.025%",
+    "presentacion": "Gotas oftálmicas",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ketotifeno",
+    "concentracion": "0.025%",
+    "via_administracion": "Oftálmica",
+    "registro_sanitario": "304M98 SSA IV",
+    "otros": "Forma farmacéutica: Solución oftálmica; Formato de venta: Frasco gotero de 5 ml"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://prixz.com/c/zaditen-0-025-oftalmico-5-ml-gotas-2/",
+    "https://farmaciasmedina.com/detalleProducto/Zaditen-Oftalmica-5-Ml-Solucion-Gotero/3662042004100",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/18197-zaditen-ofta-025-5ml-ketotifeno-thea-3662042004100.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado. Una de las fuentes lo lista como fracción IV (con receta); el dueño indicó publicar como venta libre. Registro sanitario tomado de una sola fuente. La página de Farmalisto no pudo leerse (límite de solicitudes); solo se usó el título del resultado de búsqueda.",
+    "fecha": "2026-09-29"
+  }
+}

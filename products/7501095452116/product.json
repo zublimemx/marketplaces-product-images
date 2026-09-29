@@ -1,0 +1,43 @@
+{
+  "gtin": "7501095452116",
+  "sku": "7501095452116",
+  "linea": "Farma",
+  "nombre_sistema": "TEMPRA 500MG C10 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tempra Paracetamol 500 mg 10 Tabletas",
+  "descripcion": "Descripción:\nTempra 500 mg es un medicamento en tabletas cuyo principio activo es el paracetamol, un analgésico y antipirético de uso oral. Se presenta en caja con 10 tabletas de 500 mg y se utiliza para aliviar el dolor y bajar la fiebre, de acuerdo con las indicaciones de su empaque.\n\nComposición:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Siga la dosis y el intervalo entre tomas que indica el empaque o su médico, y no exceda la cantidad máxima diaria recomendada.\n\nPresentación:\nCaja con 10 tabletas de 500 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico al paracetamol o a algún componente de la fórmula. No use al mismo tiempo otros productos que contengan paracetamol. No consuma bebidas alcohólicas durante el tratamiento. Un exceso de paracetamol puede dañar el hígado; en caso de sobredosis acuda de inmediato a un servicio médico. Si el dolor persiste más de cinco días o la fiebre más de tres, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tempra",
+    "variante": "500 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Paracetamol",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 10 tabletas"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principio activo (paracetamol) de conocimiento general de la marca Tempra; concentración y piezas salen del nombre. No se confirmó el fabricante ni las indicaciones exactas del empaque. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

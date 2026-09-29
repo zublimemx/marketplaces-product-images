@@ -1,0 +1,40 @@
+{
+  "gtin": "7501124103279",
+  "sku": "7501124103279",
+  "linea": "Farma",
+  "nombre_sistema": "PRAMIGEL 10 200 50 MG C 20 COMPR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pramigel 10/200/50 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nPramigel es un medicamento en comprimidos, caja con 20 piezas, cuya concentración según la denominación del producto es 10/200/50 mg (tres componentes). La composición exacta, las indicaciones y la dosis deben consultarse en el empaque del producto.\n\nPresentación:\n- Comprimidos\n- Caja con 20 comprimidos\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pramigel",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 20,
+    "concentracion": "10/200/50 mg",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto no identificado: se desconocen principios activos, grupo terapéutico y fabricante. Se usó Otros Medicamentos como categoría provisional; reasignar al identificar el producto.",
+    "fecha": "2026-09-29"
+  }
+}

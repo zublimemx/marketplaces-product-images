@@ -1,0 +1,41 @@
+{
+  "gtin": "7501300408402",
+  "sku": "7501300408402",
+  "linea": "Farma",
+  "nombre_sistema": "AMPLIRON 750MG C 12 COMP MAYO 27 420",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ampliron 750 mg 12 Comprimidos",
+  "descripcion": "Descripción:\nAmpliron 750 mg en presentación de 12 comprimidos.\n\nPresentación:\nCaja con 12 comprimidos de 750 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ampliron",
+    "presentacion": "comprimidos",
+    "contenido_neto": 12,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 12,
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo, el grupo terapéutico ni el fabricante. Categoría genérica y receta por confirmar (el nombre sugiere posible antibiótico, sin confirmar). El MAYO 27 y el 420 del nombre se ignoraron como caducidad y lote.",
+    "fecha": "2026-09-29"
+  }
+}

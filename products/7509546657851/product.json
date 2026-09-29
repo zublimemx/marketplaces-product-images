@@ -1,0 +1,42 @@
+{
+  "gtin": "7509546657851",
+  "sku": "7509546657851",
+  "linea": "Mark",
+  "nombre_sistema": "CEP DENT COLGATE PREM-CLEAN C/6",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cepillo Dental Colgate Premier Clean 6 Piezas",
+  "descripcion": "Descripción:\nCepillo dental manual Colgate Premier Clean, de la marca Colgate, diseñado para la higiene bucal diaria y para ayudar a remover la placa dentobacteriana de dientes y encías. Esta presentación incluye 6 cepillos, una opción práctica para toda la familia o para mantener repuestos disponibles.\n\nCaracterísticas:\n- Cepillo dental manual para uso diario.\n- Cabezal y cerdas diseñados para limpiar la superficie de los dientes.\n- Mango de agarre cómodo.\n- Presentación de 6 piezas.\n\nModo de uso:\nUse el cepillo con la pasta dental de su preferencia al menos dos veces al día, con movimientos suaves que cubran todas las superficies de los dientes, y cepille también la lengua. Enjuague el cepillo después de cada uso y déjelo secar al aire.\n\nPresentación:\nPaquete con 6 cepillos dentales.\n\nAdvertencias:\nCambie el cepillo cada tres meses o antes si las cerdas se desgastan. Cada cepillo es de uso personal. Si sangran las encías de forma persistente, consulte a su dentista.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Premier Clean",
+    "presentacion": "Cepillo manual",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 6,
+    "genero": "Unisex",
+    "otros": "Tipo: Manual; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre (Colgate Premier Clean, 6 piezas); no se confirmó dureza de cerdas ni el tipo de empaque (paquete de 6 piezas), que conviene verificar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gtin": "7501057005848",
+  "sku": "7501057005848",
+  "linea": "Farma",
+  "nombre_sistema": "CALADRYL CLEAR LOC 180ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Caladryl Clear Loción 180 ml",
+  "descripcion": "Descripción:\nCaladryl Clear es una loción de uso tópico de la marca Caladryl, en presentación transparente. Esta presentación es un frasco de 180 ml. Es un producto de uso externo para el cuidado de la piel irritada.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nModo de uso:\nAgite antes de usar y aplique sobre la zona afectada de la piel, según las indicaciones del empaque.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos y las mucosas, y no lo aplique sobre heridas abiertas. Consulte la composición y las indicaciones en el empaque. Suspenda su uso y consulte al médico si la irritación aumenta o persiste. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Caladryl",
+    "linea": "Clear",
+    "variante": "Clear",
+    "presentacion": "Loción",
+    "contenido_neto": 180,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmaron el principio activo, las indicaciones (probablemente comezón por picaduras o irritaciones) ni el fabricante; por eso la descripción es genérica. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

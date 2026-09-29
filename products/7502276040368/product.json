@@ -1,0 +1,41 @@
+{
+  "gtin": "7502276040368",
+  "sku": "7502276040368",
+  "linea": "Farma",
+  "nombre_sistema": "DESENFRIOL D C30 TABS 162",
+  "nombres_sistema_alternos": [],
+  "titulo": "Desenfriol D 30 Tabletas",
+  "descripcion": "Descripción:\nDesenfriol D es un medicamento en tabletas de administración oral que pertenece a la línea de antigripales Desenfriol. Se comercializa en caja con 30 tabletas.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Desenfriol",
+    "variante": "D",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 30 tabletas"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200) antes de llegar a este producto. Datos deducidos del nombre del sistema; se omitieron principio activo, concentración y fabricante por no estar verificados. El número 162 al final del nombre se ignoró. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

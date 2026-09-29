@@ -1,0 +1,45 @@
+{
+  "gtin": "7501159526029",
+  "sku": "7501159526029",
+  "linea": "Farma",
+  "nombre_sistema": "EUCALIPTINE AMP C 10 100MG DICIEMBRE 26",
+  "nombres_sistema_alternos": [],
+  "titulo": "Eucaliptine Guayacol 100 mg 10 Ampolletas de 1 ml",
+  "descripcion": "Descripción:\nEucaliptine es una solución inyectable presentada en ampolletas de 1 ml, con guayacol como principio activo en concentración de 100 mg por ml. Se vende en caja con 10 ampolletas. Es un medicamento de uso inyectable que debe ser indicado por un médico y aplicado por personal de salud capacitado, de acuerdo con la indicación médica.\n\nComposición:\nCada ampolleta de 1 ml contiene guayacol 100 mg. Consulte el empaque para conocer el resto de los componentes de la fórmula.\n\nModo de uso:\nVía inyectable. La dosis, la vía de aplicación y la duración del tratamiento deben ser las que indique el médico. La aplicación debe realizarla personal capacitado, con material estéril y desechable.\n\nPresentación:\nCaja con 10 ampolletas de 1 ml cada una.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- Informe a su médico si está embarazada o en periodo de lactancia.\n- Revise que la ampolleta esté íntegra y que la solución no presente partículas antes de aplicarla.\n- Consulte a su médico ante cualquier reacción inesperada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eucaliptine",
+    "presentacion": "Solución inyectable en ampolletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Guayacol",
+    "concentracion": "100 mg/ml",
+    "via_administracion": "Inyectable",
+    "otros": "Volumen por ampolleta: 1 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasanisidro.mx/producto/eucaliptine-1ml-amp-c-10/",
+    "https://mexipharmacy.mx/esp/item/549/71/eucaliptine-guayacol-100mg-1ml-10-amps"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (10 ampolletas de 1 ml, guayacol 100 mg). Las fichas consultadas no detallan indicaciones, fabricante ni vía exacta, por eso la descripción es breve; la categoría Respiratorios se infiere de la marca y del guayacol, verificar. Receta por revisar (inyectable).",
+    "fecha": "2026-09-29"
+  }
+}

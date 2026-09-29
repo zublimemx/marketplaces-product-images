@@ -1,0 +1,43 @@
+{
+  "gtin": "7891317019815",
+  "sku": "7891317019815",
+  "linea": "Farma",
+  "nombre_sistema": "VENALOT DEPOT 180 30MG CJA C30 TABL EUROFARMA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Venalot Depot 180 mg/30 mg 30 Tabletas",
+  "descripcion": "Descripción:\nVenalot Depot es un medicamento de Eurofarma en tabletas, en presentación de 180 mg y 30 mg por tableta y caja con 30 piezas. Pertenece al grupo de los medicamentos de uso vascular, empleados para molestias de la circulación venosa de las piernas. Consulte la indicación específica y la dosis en el empaque o con su médico.\n\nComposición:\nEl nombre del producto indica 180 mg y 30 mg por tableta; consulte los principios activos y sus concentraciones en el empaque.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Venalot",
+    "fabricante": "Eurofarma",
+    "linea": "Depot",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "concentracion": "180 mg / 30 mg",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. El GTIN tiene prefijo de Brasil (789), consistente con Eurofarma. No se confirmaron los principios activos (probablemente troxerutina y cumarina) ni la indicación, por eso la ficha no los declara. Confirmar si requiere receta en México.",
+    "fecha": "2026-09-29"
+  }
+}

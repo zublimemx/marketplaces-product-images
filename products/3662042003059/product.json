@@ -1,0 +1,44 @@
+{
+  "gtin": "3662042003059",
+  "sku": "3662042003059",
+  "linea": "Farma",
+  "nombre_sistema": "THEALOZ DUO 10ML TREALOSA 3 HIALURONATO 0 15 AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Thealoz Duo Gotas Oftálmicas Trehalosa Hialuronato 10 ml",
+  "descripcion": "Descripción:\nThealoz Duo, de Laboratoires Théa, es una solución oftálmica lubricante que combina trehalosa al 3 % e hialuronato de sodio al 0.15 %. Está pensada para el cuidado de los ojos secos o con sensación de incomodidad por resequedad. Se presenta en frasco de 10 ml.\n\nBeneficios:\n- La trehalosa ayuda a proteger las células de la superficie ocular frente a la desecación.\n- El hialuronato de sodio aporta lubricación e hidratación a la superficie del ojo.\n- Fórmula sin conservadores, en frasco multidosis de 10 ml.\n\nComposición:\n- Trehalosa 3 %\n- Hialuronato de sodio 0.15 %\n\nModo de uso:\nVía oftálmica. Aplique una gota en cada ojo las veces que sea necesario o según la indicación de su especialista. Evite tocar la punta del frasco con los dedos, con el ojo o con cualquier superficie, y cierre el frasco después de cada uso. Si usa lentes de contacto, consulte a su oftalmólogo antes de aplicarlo.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el envase está dañado o abierto antes de su primer uso. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Thealoz",
+    "fabricante": "Laboratoires Théa",
+    "variante": "Duo",
+    "presentacion": "Solución oftálmica (gotas)",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Trehalosa e hialuronato de sodio",
+    "concentracion": "Trehalosa 3 %; hialuronato de sodio 0.15 %",
+    "via_administracion": "Oftálmica",
+    "otros": "Sin conservadores: Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre del sistema (trehalosa 3 % e hialuronato 0.15 %, 10 ml) y conocimiento general de la línea Théa. La afirmación de que es sin conservadores viene de conocimiento general, confirmar en el empaque. Puede estar registrado como dispositivo médico y no como medicamento; revisar con la política de ML para oftálmicos. Registro sanitario pendiente.",
+    "fecha": "2026-09-29"
+  }
+}

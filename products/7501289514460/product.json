@@ -1,0 +1,41 @@
+{
+  "gtin": "7501289514460",
+  "sku": "7501289514460",
+  "linea": "Farma",
+  "nombre_sistema": "INDAFLEX CRA 2 5% 40G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Indaflex Crema 2.5% 40 g",
+  "descripcion": "Descripción:\nIndaflex es una crema de uso tópico de la línea de farmacia, en presentación de 40 g con una concentración de 2.5 %. Esta ficha se elaboró con los datos del nombre del producto; la composición completa, las indicaciones y el modo de aplicación deben consultarse en el empaque original y en el instructivo del fabricante.\n\nPresentación:\nEnvase con 40 g de crema al 2.5 %.\n\nAdvertencias:\nUso externo. No la aplique sobre heridas abiertas ni mucosas y evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Indaflex",
+    "presentacion": "Crema",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "concentracion": "2.5 %",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se identificó el principio activo; la categoría Musculoarticulares es una suposición por el nombre (podría ser Analgésicos o Dermatológicos). Se leyó CRA 2 5% como crema al 2.5 %. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

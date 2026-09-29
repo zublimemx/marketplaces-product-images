@@ -1,0 +1,42 @@
+{
+  "gtin": "7501314704743",
+  "sku": "7501314704743",
+  "linea": "Farma",
+  "nombre_sistema": "UNAMOL SUSP 1MG 60ML CISAPRIDA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Unamol Cisaprida Suspensión 1 mg 60 ml",
+  "descripcion": "Descripción:\nUnamol es un medicamento en suspensión oral cuyo principio activo es cisaprida, con concentración de 1 mg según la denominación del producto. Se presenta en frasco con 60 ml de suspensión.\n\nPresentación:\n- Suspensión oral\n- Contenido: 60 ml\n- Concentración indicada: 1 mg\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente bajo indicación médica y en la dosis que su médico determine. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Unamol",
+    "presentacion": "Suspensión oral",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cisaprida",
+    "concentracion": "1 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el presupuesto de WebSearch de la sesión estaba agotado (200/200). Datos deducidos del nombre del sistema y conocimiento previo, sin verificar. Cisaprida normalmente requiere receta en México (verificar). La concentración 1 mg probablemente es por ml; confirmar en la ficha del fabricante. Fabricante no identificado.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "gtin": "7503008821101",
+  "sku": "7503008821101",
+  "linea": "Farma",
+  "nombre_sistema": "ESTERICIDE SOL 60ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Estericide Solución 60 ml",
+  "descripcion": "Descripción:\nEstericide es una solución presentada en frasco de 60 ml, que se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nFrasco con 60 ml de solución.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Estericide",
+    "presentacion": "Solución",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (marca, solución, 60 ml). No se conoce con certeza la composición ni el uso (probablemente un antiséptico o desinfectante tópico); la categoría es provisional y la descripción es deliberadamente neutral. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

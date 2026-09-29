@@ -1,0 +1,51 @@
+{
+  "gtin": "7501058623317",
+  "sku": "7501058623317",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "NAN 1 800GR OPTIPRO",
+  "nombres_sistema_alternos": [
+    "NAN 1 OPTIPRO 0-6 M 800G"
+  ],
+  "titulo": "Fórmula Infantil Nan Optipro 1 Lata 800 g",
+  "descripcion": "Descripción:\nNAN Optipro 1 (presentada por Nestlé México como NAN 1 Optimal Pro) es una fórmula infantil de inicio en polvo para bebés de 0 a 6 meses. Está elaborada con proteína de suero de leche OPTIPRO y enriquecida con HMO 2'FL, DHA y ARA, el probiótico Limosilactobacillus reuteri y hierro.\n\nBeneficios:\n- Contiene proteína OPTIPRO, DHA y ARA (ácidos grasos omega 3 y omega 6).\n- Incluye el oligosacárido de leche humana HMO 2'FL (2'-fucosilactosa).\n- Contiene el probiótico Limosilactobacillus reuteri.\n- Fórmula adicionada con hierro, vitaminas y minerales.\n- Aporte por cada 100 kcal: 1.85 g de proteína, 5.26 g de grasa total y 11.29 g de carbohidratos.\n\nIngredientes:\nProteína de suero de leche de vaca desmineralizado OPTIPRO (43.87 %), aceites vegetales (oleína de palma, palmiste, canola, maíz y girasol alto oleico), lactosa, minerales, vitaminas, cultivos probióticos de Limosilactobacillus reuteri, HMO (2'-fucosilactosa), DHA y ARA.\nContiene: leche, soya y aceite de pescado.\n\nModo de uso:\nIndicada para bebés de 0 a 6 meses. Prepárese siguiendo estrictamente las instrucciones de preparación y conservación de la etiqueta, con agua segura y utensilios limpios.\n\nPresentación:\nLata con 800 g de fórmula en polvo.\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé y debe continuarse el mayor tiempo posible. El uso de este producto debe hacerse bajo la orientación de un profesional de la salud. Contiene leche, soya y aceite de pescado. Una preparación o un almacenamiento incorrectos pueden ser perjudiciales para la salud del bebé.",
+  "ficha": {
+    "marca": "Nan",
+    "fabricante": "Nestlé",
+    "linea": "Optipro",
+    "variante": "Etapa 1",
+    "presentacion": "Lata en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "0 a 6 meses",
+    "sabor_aroma": "Sin sabor",
+    "genero": "Unisex",
+    "otros": "Etapa: 1; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Con hierro: Sí; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM28528415"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
+  "fuentes": [
+    "https://www.nestlefamilynes.com.mx/producto/nan-1-optimal-pro",
+    "https://grupofarmapronto.com/producto/nan-1-optipro-800-g-2/",
+    "https://www.mercadolibre.com.mx/nan-optipro-1-leche-infantil-en-polvo-lata-800gr/p/MLM28528415"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Existen otras fichas de catálogo ML muy parecidas para NAN Optipro 1 800 g (p. ej. MLM9758511); se anotó MLM28528415 por coincidir el título. Nestlé México ya nombra la línea Optimal Pro; en ML se usa Optipro.",
+    "fecha": "2026-09-29"
+  }
+}

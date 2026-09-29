@@ -1,0 +1,42 @@
+{
+  "gtin": "7501871720590",
+  "sku": "7501871720590",
+  "linea": "Farma",
+  "nombre_sistema": "VARTALON COMP C30 SOBRES LIMON 1500 1200MG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vartalon Comp 1500 mg/1200 mg 30 Sobres Sabor Limón",
+  "descripcion": "Descripción:\nVartalon Comp es un producto en sobres sabor limón, presentado en caja con 30 sobres, con una composición de 1500 mg y 1200 mg por sobre. Se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer sus componentes, indicaciones y modo de uso.\n\nPresentación:\nCaja con 30 sobres sabor limón.\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre según las instrucciones del empaque o las que indique su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vartalon",
+    "variante": "Comp",
+    "presentacion": "Sobres",
+    "contenido_neto": 30,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "sabor_aroma": "Limón",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Los datos salen del nombre del sistema (Vartalon Comp, caja con 30 sobres, sabor limón, 1500 y 1200 mg). Por las dosis parece una combinación de glucosamina 1500 mg y condroitina 1200 mg (uso articular), pero no se confirmó, por eso no se puso el principio activo ni indicaciones. Tampoco se sabe si es medicamento o suplemento alimenticio: si es suplemento, la categoría correcta sería MLM438195 (Suplementos Alimenticios) en lugar de Musculoarticulares Venta Libre. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

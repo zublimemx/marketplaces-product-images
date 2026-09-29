@@ -1,0 +1,42 @@
+{
+  "gtin": "7501033956294",
+  "sku": "7501033956294",
+  "linea": "Farma",
+  "nombre_sistema": "PEDIASURE 237ML VAINILLA MAYO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "PediaSure Vainilla Bebida Nutricional 237 ml",
+  "descripcion": "Descripción:\nPediaSure es una fórmula nutricional líquida de Abbott, lista para beber, diseñada para niños de 1 a 10 años. Aporta proteínas, grasas, carbohidratos, vitaminas y minerales y puede utilizarse como complemento de la alimentación del niño, según la recomendación de su pediatra. Esta presentación es de sabor vainilla en envase de 237 ml.\n\nCaracterísticas:\n- Fórmula líquida lista para beber, sin necesidad de preparación.\n- Sabor vainilla.\n- Envase individual de 237 ml.\n- Para niños de 1 a 10 años.\n\nModo de uso:\nAgite bien antes de abrir. Sírvalo frío para mejorar su sabor. Una vez abierto, manténgalo en refrigeración y consúmalo en el tiempo indicado en el empaque. La cantidad diaria debe ser la que recomiende su pediatra o nutriólogo.\n\nPresentación:\nEnvase individual de 237 ml, sabor vainilla.\n\nAdvertencias:\nNo es apto para menores de 1 año ni para personas con galactosemia. No debe usarse como única fuente de alimentación salvo indicación médica. Consulte a su pediatra ante cualquier duda.",
+  "ficha": {
+    "marca": "PediaSure",
+    "fabricante": "Abbott",
+    "presentacion": "Bebida lista para beber",
+    "sabor_aroma": "Vainilla",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "1 a 10 años",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (PediaSure vainilla 237 ml); no se verificó el tipo de envase (botella o lata) ni las advertencias en la etiqueta mexicana. La categoría MLM189058 ('Leche para Bebés') es la que indica la regla para fórmulas lácteas, aunque PediaSure es para niños de 1 a 10 años.",
+    "fecha": "2026-09-29"
+  }
+}

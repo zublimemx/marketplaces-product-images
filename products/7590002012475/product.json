@@ -1,0 +1,46 @@
+{
+  "gtin": "7590002012475",
+  "sku": "7590002012475",
+  "linea": "Farma",
+  "nombre_sistema": "VAPORUB 100GR TARRO 48",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ungüento Vicks VapoRub 100 g Tarro",
+  "descripcion": "Descripción:\nVicks VapoRub es un ungüento tópico de uso externo que combina alcanfor, mentol y aceite de eucalipto. Está indicado para el alivio de los síntomas de la congestión nasal, la tos y los dolores musculares. Su aroma mentolado se percibe al aplicarlo sobre el pecho, la garganta o la espalda.\n\nComposición:\nIngredientes activos: alcanfor, mentol y aceite de eucalipto.\n\nModo de uso:\nPara uso externo únicamente. Aplique una capa sobre el pecho, la garganta o la espalda, frote suavemente y, si lo desea, cubra con una prenda holgada. Repita según lo indicado en el empaque.\n\nPresentación:\nTarro de 100 g.\n\nAdvertencias:\n- Solo para uso externo; no lo ingiera.\n- No lo aplique en heridas, piel irritada, cerca de los ojos ni dentro de las fosas nasales.\n- No caliente el producto ni lo use en menores de 2 años sin indicación médica.\n- Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vicks",
+    "fabricante": "Procter & Gamble",
+    "linea": "VapoRub",
+    "presentacion": "Ungüento",
+    "contenido_neto": 100,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Alcanfor, mentol, aceite de eucalipto",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad; Envase: Tarro"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.sanborns.com.mx/producto/19399/vick-vaporub-unguento-100-g",
+    "https://www.farmaciasespecializadas.com/vick-vaporub-ung-bot-c-100gr.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (Vick VapoRub ungüento 100 g); el prefijo 759 corresponde a Venezuela pero cadenas mexicanas lo listan con ese mismo código. La ficha de la tienda solo confirma ingredientes activos, uso y contenido; modo de uso y advertencias son las generales de la marca, verificar con el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

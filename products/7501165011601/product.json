@@ -1,0 +1,49 @@
+{
+  "gtin": "7501165011601",
+  "sku": "7501165011601",
+  "linea": "Farma",
+  "nombre_sistema": "BUSCAPINA COMP C36 10 250MG 128",
+  "nombres_sistema_alternos": [],
+  "titulo": "Buscapina Compositum 10 mg/250 mg 36 Tabletas",
+  "descripcion": "Descripción:\nBuscapina Compositum es un medicamento en tabletas que combina un antiespasmódico (butilhioscina) con un analgésico (metamizol sódico). Está pensado para el manejo del malestar del aparato digestivo con dolor tipo cólico o espasmo.\n\nComposición:\nCada tableta contiene:\n- Butilhioscina (hioscina) 10 mg\n- Metamizol sódico 250 mg\n\nModo de uso:\nVía oral. Tome la dosis que le indique su médico o la que señale el instructivo del empaque, sin exceder la cantidad recomendada.\n\nPresentación:\nCaja con 36 tabletas. Conservar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- No lo use si es alérgico al metamizol, a la butilhioscina o a alguno de los componentes de la fórmula.\n- No exceda la dosis indicada ni prolongue su uso sin supervisión médica.\n- Mujeres embarazadas o en periodo de lactancia deben consultar a su médico antes de usarlo.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Buscapina",
+    "fabricante": "Sanofi",
+    "linea": "Compositum",
+    "presentacion": "Tabletas",
+    "contenido_neto": 36,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 36,
+    "principio_activo": "Butilhioscina y metamizol sódico",
+    "concentracion": "10 mg/250 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "52046 SSA IV",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/antiacidos-y-malestar-estomacal-con-receta/82567-precio-buscapina-compositum-con-hioscina-10-mg-metamizol-sodico-250-mg-36-tabletas-7501165011601.html",
+    "https://farmaciasmedina.com/detalleProducto/Buscapina-Compositum-36-Tabletas-Caja/7501165011601"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 36 tabletas confirmados. La ficha de la farmacia indica dispensación con fórmula médica simple (fracción IV); se publica en venta libre por instrucción del dueño, pero conviene revisar el riesgo. El 128 del nombre del sistema es un código, no una cantidad.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7500462746605",
+  "sku": "7500462746605",
+  "linea": "Farma",
+  "nombre_sistema": "AJOLOTIUS JBE MIEL 250ML VDE 40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ajolotius Jarabe Miel 250 ml",
+  "descripcion": "Descripción:\nAjolotius es un jarabe con miel de administración oral que se presenta en frasco de 250 ml. No se pudo confirmar su fabricante, su composición completa ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nFrasco con 250 ml de jarabe con miel.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. No se recomienda en menores de un año por contener miel. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ajolotius",
+    "variante": "Miel",
+    "presentacion": "Jarabe",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "sabor_aroma": "Miel",
+    "otros": "Formato de venta: Frasco de 250 ml"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó qué es Ajolotius (se asumió jarabe para la tos o garganta con miel por el nombre y el precio bajo), ni su fabricante o composición; la categoría Respiratorios Venta Libre es provisional. VDE 40 al final del nombre se ignoró. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

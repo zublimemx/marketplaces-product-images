@@ -1,0 +1,40 @@
+{
+  "gtin": "7501123011711",
+  "sku": "7501123011711",
+  "linea": "Farma",
+  "nombre_sistema": "FITOESTIMULINA GASAS C 10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fitoestimulinas Gasas 10 Piezas",
+  "descripcion": "Descripción:\nFitoestimulinas Gasas es un producto de uso externo de la marca Fitoestimulinas, presentado en gasas individuales que se aplican directamente sobre la piel en la zona que indique la etiqueta o el médico.\n\nPresentación:\nCaja con 10 gasas.\n\nAdvertencias:\nSolo para uso externo. No aplicar en los ojos ni en mucosas. Suspenda su uso si aparece irritación o si la lesión empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fitoestimulinas",
+    "presentacion": "gasas",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad; Uso: Externo"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191087",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200), no se buscó ni el GTIN ni el nombre; datos deducidos del nombre del sistema y del conocimiento general de la marca. Parece una gasa medicada (posible medicamento): confirmar composición, fabricante y si va mejor en Dermatológicos Venta Libre (MLM457819) que en Gasas.",
+    "fecha": "2026-09-29"
+  }
+}

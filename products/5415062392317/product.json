@@ -1,0 +1,40 @@
+{
+  "gtin": "5415062392317",
+  "sku": "5415062392317",
+  "linea": "Farma",
+  "nombre_sistema": "TERRAMICINA UNGUENTO 10 G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Terramicina Ungüento 10 g",
+  "descripcion": "Descripción:\nTerramicina en presentación de ungüento, tubo de 10 g. Consulte en el empaque la composición, las indicaciones y el modo de aplicación.\n\nPresentación:\nUngüento, tubo de 10 g.\n\nAdvertencias:\n- Producto de uso externo.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Terramicina",
+    "presentacion": "Ungüento",
+    "contenido_neto": 10,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. No se confirmó si es ungüento dérmico u oftálmico ni su composición (la marca Terramicina se asocia a la oxitetraciclina, un antibiótico), por eso receta_mx es Revisar y la categoría dermatológica es una suposición. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

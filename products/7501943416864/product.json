@@ -1,0 +1,47 @@
+{
+  "gtin": "7501943416864",
+  "sku": "7501943416864",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP UNISEX E1 C/40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 1 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Supreme Unisex Etapa 1, en presentación de 40 piezas. Pertenecen a la línea Supreme de Huggies y están pensados para niños y niñas por igual, con el objetivo de brindar suavidad, absorción y protección a la piel del bebé durante el día y la noche.\n\nCaracterísticas:\n- Pañal desechable unisex, apto para niños y niñas.\n- Etapa 1; consulte el rango de peso recomendado en el empaque.\n- Núcleo absorbente, cintura elástica y cintas ajustables para un mejor ajuste.\n- Presentación de 40 piezas por paquete.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\nSeleccione la etapa según el peso de su bebé. Cambie el pañal con frecuencia para mantener la piel limpia y seca. No arroje el pañal al inodoro y mantenga las bolsas de plástico lejos del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "variante": "Unisex",
+    "presentacion": "Paquete de pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 1",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Huggies_Supreme_Panales_Unisex_Etapa_1/7501943416864",
+    "https://grupofarmapronto.com/producto/huggies-supreme-etapa-1-unisex-c-40-panales/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Huggies Supreme Unisex Etapa 1. Las fuentes mezclan 38 y 40 piezas con el mismo GTIN; se usó 40 según el nombre del sistema (C/40) y dos farmacias. No se leyó la ficha con el rango de peso (WebFetch rechazado con 429), por eso no se indica.",
+    "fecha": "2026-09-29"
+  }
+}

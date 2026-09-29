@@ -1,0 +1,48 @@
+{
+  "gtin": "7501086301393",
+  "sku": "7501086301393",
+  "linea": "Farma",
+  "nombre_sistema": "CETOLAN 630MG C100 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cetolan Alfa Cetoanálogos de Aminoácidos 630 mg 100 Tabletas",
+  "descripcion": "Descripción:\nCetolan 630 mg es un medicamento de uso oral de la marca Cetolan, cuyo principio activo son los alfa cetoanálogos de aminoácidos. Según las fichas de las farmacias que lo comercializan, se ubica en el área de nefrología y urología y se presenta en tabletas de 630 mg.\n\nCaracterísticas:\n- Principio activo: alfa cetoanálogos de aminoácidos, 630 mg por tableta.\n- Uso por vía oral.\n- Favorece el apego del paciente al tratamiento, según la ficha de la farmacia.\n- Formato de 100 tabletas por caja.\n\nModo de uso:\nVía oral. La dosis es la que indique el médico; su uso debe hacerse bajo supervisión médica.\n\nPresentación:\nCaja de cartón con 100 tabletas de 630 mg.\n\nAdvertencias:\nLéase el instructivo anexo. Evite la automedicación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cetolan",
+    "fabricante": "Columbia",
+    "variante": "630 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 100,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 100,
+    "principio_activo": "Alfa cetoanálogos de aminoácidos",
+    "concentracion": "630 mg",
+    "via_administracion": "Oral",
+    "otros": "Uso: Nefrología y urología; Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/cetolan-630mg-tab-caj-c-100.html",
+    "https://www.farmalisto.com.mx/nefrologia-y-urologia/3173-cetolan-630-mg-caja-con-100-tabletas-7501086301393.html",
+    "https://farmaciasmedina.com/detalleProducto/Cetolan-100-Tabletas-Caja/7501086301393"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias en línea (aparece en la URL de Farmalisto y de Farmacias Medina) con caja de 100 tabletas de 630 mg. La ficha detallada sale de la página de Farmacias Especializadas; la página de Farmalisto no abrió (404) y solo se usó el resultado de búsqueda. No se encontró registro sanitario ni catálogo ML exacto. Existen otros productos Cetolan (973 mg grageas, Cetolan III sobres) que son distintos. Si en México requiere receta no se pudo confirmar: revisar el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

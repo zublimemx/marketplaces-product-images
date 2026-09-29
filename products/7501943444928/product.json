@@ -1,0 +1,47 @@
+{
+  "gtin": "7501943444928",
+  "sku": "7501943444928",
+  "linea": "Mark",
+  "nombre_sistema": "SUAVE MED E3 C/44",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales KleenBebé Suavelastic Etapa 3 Mediano 44 Piezas",
+  "descripcion": "Descripción:\nLos pañales KleenBebé Suavelastic Max Etapa 3 (Mediano), de Kimberly-Clark, están diseñados para ofrecer más sequedad, cuidado y ajuste al bebé. Su versión unisex está pensada para bebés de 7 a 10 kg.\n\nCaracterísticas:\n- Maxi sequedad: tecnología Blockgel 4D que ayuda a mantener al bebé seco por más tiempo.\n- Maxi cuidado: mayor suavidad gracias a la fórmula Vitta E Plus, con óxido de zinc para ayudar a proteger la piel.\n- Maxi ajuste: 4 puntos de sujeción para que el pañal no se cuelgue ni se deforme.\n- Bolsita en la parte trasera que ayuda a evitar escurrimientos cuando el bebé está acostado.\n- Cuentan con certificación dermatológica.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, con la parte delantera hacia arriba, y sujete las cintas a la altura de la cintura sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 44 pañales desechables Etapa 3 (Mediano).\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "KleenBebé",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Suavelastic",
+    "variante": "Max Etapa 3 Mediano",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 44,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 44,
+    "edad_etapa": "Etapa 3",
+    "talla": "Mediano",
+    "genero": "Unisex",
+    "otros": "Peso del bebé: 7 a 10 kg; Con óxido de zinc: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn",
+  "fuentes": [
+    "https://www.kleenbebe.com/Productos/Suavelastic/Panales/Etapa-1-Rn"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE MED E3 = Suavelastic Etapa 3 Mediano; prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos de la página oficial; las 44 piezas salen del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

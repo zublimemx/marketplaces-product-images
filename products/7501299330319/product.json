@@ -1,0 +1,42 @@
+{
+  "gtin": "7501299330319",
+  "sku": "7501299330319",
+  "linea": "Farma",
+  "nombre_sistema": "FOSFONAT 150MG TAB 1",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fosfonat 150 mg 1 Tableta",
+  "descripcion": "Descripción:\nFosfonat 150 mg es un medicamento de uso oral, comercializado bajo la marca Fosfonat, en presentación de tabletas de 150 mg. Esta caja contiene 1 tableta.\n\nPresentación:\nCaja con 1 tableta de 150 mg.\n\nModo de uso:\nTome la tableta por vía oral, con un vaso de agua natural, en la dosis y con la frecuencia que indique su médico. Siga con precisión las instrucciones de administración del empaque y del instructivo, incluida la posición y los alimentos que deben evitarse antes y después de tomarla.\n\nAdvertencias:\nAntes de usarlo revise en el empaque y en el instructivo la sustancia activa, las indicaciones, las contraindicaciones y las reacciones adversas. Informe a su médico si es alérgico a alguno de los componentes, si está embarazada o en periodo de lactancia, si tiene problemas del esófago, del estómago o de los riñones, o si toma otros medicamentos. Conservar en un lugar fresco y seco, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fosfonat",
+    "presentacion": "Tabletas",
+    "contenido_neto": 1,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "concentracion": "150 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (FOSFONAT 150MG TAB 1). No se pudo confirmar el principio activo ni el fabricante; el nombre y la tableta única de 150 mg sugieren un bisfosfonato de toma mensual (por ejemplo ibandronato o risedronato) para osteoporosis, lo que implicaría receta; sin confirmar, por eso se omiten activo e indicaciones. Si se confirma, cambiar a receta Sí y categoría rx Musculoarticulares con Receta (MLM457826).",
+    "fecha": "2026-09-29"
+  }
+}

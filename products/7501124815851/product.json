@@ -1,0 +1,43 @@
+{
+  "gtin": "7501124815851",
+  "sku": "7501124815851",
+  "linea": "Farma",
+  "nombre_sistema": "EXFORGE HCT 5 160 12 5 T28 OCTUBRE 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Exforge HCT 5/160/12.5 mg 28 Tabletas",
+  "descripcion": "Descripción:\nExforge HCT es un medicamento antihipertensivo de Novartis que combina tres principios activos: amlodipino, valsartán e hidroclorotiazida. Se presenta en caja con 28 tabletas recubiertas de administración oral.\n\nComposición:\n- Amlodipino 5 mg\n- Valsartán 160 mg\n- Hidroclorotiazida 12.5 mg\n\nPresentación:\nCaja con 28 tabletas.\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente bajo prescripción y seguimiento médico. No lo suspenda ni modifique la dosis sin indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Exforge HCT",
+    "fabricante": "Novartis",
+    "presentacion": "Tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Amlodipino, valsartán e hidroclorotiazida",
+    "concentracion": "5 mg/160 mg/12.5 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Identificación por el nombre del sistema (T28, 5/160/12.5) y conocimiento previo; GTIN sin verificar. Fabricante Novartis inferido. Descripción basada solo en lo seguro; falta ficha oficial.",
+    "fecha": "2026-09-29"
+  }
+}

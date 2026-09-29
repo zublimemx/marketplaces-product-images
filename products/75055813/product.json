@@ -1,0 +1,43 @@
+{
+  "gtin": "75055813",
+  "sku": "75055813",
+  "linea": "Farma",
+  "nombre_sistema": "LATANOPROST SOL 0.05MG FRC 3ML PHARMACOS EXAKTA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Latanoprost Solución Oftálmica 0.05 mg/ml 3 ml Exakta",
+  "descripcion": "Descripción:\nLatanoprost solución oftálmica de Pharmacos Exakta, en frasco de 3 ml con 0.05 mg de latanoprost por ml (50 µg/ml, equivalente a 0.005%). Es un análogo de prostaglandina que reduce la presión intraocular elevada y se indica en glaucoma de ángulo abierto e hipertensión ocular, bajo prescripción y seguimiento del oftalmólogo.\n\nComposición:\nCada ml contiene latanoprost 0.05 mg (50 µg).\n\nModo de uso:\nVía oftálmica. Se aplica habitualmente una gota en el ojo o los ojos afectados una vez al día, de preferencia por la noche, o según lo indique su médico. Si usa lentes de contacto, retírelos antes de aplicar y espere 15 minutos para volver a colocarlos.\n\nPresentación:\nFrasco gotero con 3 ml de solución oftálmica.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. Puede modificar gradualmente el color del iris y de la piel del párpado, y aumentar el crecimiento de las pestañas. Evite tocar la punta del gotero. Si utiliza otros medicamentos oftálmicos, espere al menos 5 minutos entre aplicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Latanoprost",
+    "fabricante": "Pharmacos Exakta",
+    "presentacion": "solución oftálmica",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Latanoprost",
+    "concentracion": "0.05 mg/ml",
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y de la información general del latanoprost. El GTIN de 8 dígitos (75055813) no se buscó y puede estar truncado o ser un código interno. Se supuso que 0.05 mg es por ml (concentración habitual, 0.005%); confirmar en la etiqueta.",
+    "fecha": "2026-09-29"
+  }
+}

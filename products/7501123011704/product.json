@@ -1,0 +1,40 @@
+{
+  "gtin": "7501123011704",
+  "sku": "7501123011704",
+  "linea": "Farma",
+  "nombre_sistema": "FITOESTIMULINA CRA C 30G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fitoestimulina Crema 30 g",
+  "descripcion": "Descripción:\nFitoestimulina es una crema de uso tópico que se presenta en tubo con 30 g. No se pudo confirmar su fabricante, su composición ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nUso tópico. Aplique sobre la zona de piel limpia y seca, en la cantidad y con la frecuencia que indique el empaque o su médico. Lávese las manos antes y después de la aplicación. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nSolo para uso externo. No lo utilice si es alérgico a alguno de los componentes de la fórmula. Evite el contacto con los ojos. Si presenta irritación o la molestia persiste o empeora, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fitoestimulina",
+    "presentacion": "Crema",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Tubo de 30 g"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmó el fabricante, la composición ni si es crema dermatológica o de otro uso (por ejemplo ginecológico); la categoría Dermatológicos Venta Libre es provisional. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

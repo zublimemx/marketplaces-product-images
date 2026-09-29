@@ -1,0 +1,48 @@
+{
+  "gtin": "7501314702770",
+  "sku": "7501314702770",
+  "linea": "Farma",
+  "nombre_sistema": "ARFLA 550MG TAB C15",
+  "nombres_sistema_alternos": [],
+  "titulo": "Arfla Rifaximina 550 mg 15 Tabletas",
+  "descripcion": "Descripción:\nArfla 550 mg es un medicamento de prescripción médica del área de gastroenterología cuyo principio activo es la rifaximina, un antibiótico de acción local en el tracto intestinal. Se presenta en tabletas de 550 mg y es elaborado por Laboratorio Exea. La presentación de 15 tabletas favorece la continuidad del tratamiento indicado por el médico.\n\nBeneficios:\n- Antibiótico de acción local en el intestino\n- Tabletas de 550 mg de administración oral\n- Caja con 15 tabletas para completar el tratamiento indicado\n\nComposición:\nRifaximina 550 mg por tableta.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las determina el médico; tome las tabletas completas con agua y no interrumpa el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 15 tabletas de 550 mg.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. No lo use si es alérgico a la rifaximina, a otros antibióticos de la familia de las rifamicinas o a algún componente de la fórmula. El uso inadecuado de antibióticos puede favorecer la resistencia bacteriana. Informe a su médico si tiene problemas del hígado o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Arfla",
+    "fabricante": "Exea (distribuido por Senosiain)",
+    "presentacion": "Tabletas",
+    "contenido_neto": 15,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 15,
+    "principio_activo": "Rifaximina",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/arfla-550-mg-caj-tab-c-15.html",
+    "https://www.klyns.mx/arfla-550-mg-c-15-tabs/p",
+    "https://wecarepharma.mx/en/products/arfla-550mg-con-15-tabletas-rifaximina"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (rifaximina 550 mg, 15 tabletas). Las fichas leídas no detallan las indicaciones, por eso la descripción es general. La página de Farmalisto de este producto no se pudo leer (límite de solicitudes del proxy).",
+    "fecha": "2026-09-29"
+  }
+}

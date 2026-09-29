@@ -1,0 +1,51 @@
+{
+  "gtin": "7501300407023",
+  "sku": "7501300407023",
+  "linea": "Farma",
+  "nombre_sistema": "DOLAC SUBL C 4 TAB 448",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dolac Sublingual Ketorolaco 30 mg 4 Tabletas",
+  "descripcion": "Descripción:\nDolac Sublingual es un medicamento en tabletas sublinguales de Siegfried Rhein que contiene ketorolaco trometamina 30 mg, un antiinflamatorio no esteroideo (AINE) con acción analgésica. Está indicado para el tratamiento a corto plazo del dolor agudo de intensidad leve a moderada, como migraña, dolor menstrual (dismenorrea) y dolor posoperatorio. No se recomienda para dolor crónico.\n\nBeneficios:\n- Acción analgésica y antiinflamatoria en una tableta de 30 mg.\n- Presentación sublingual: la tableta se coloca debajo de la lengua, donde se disuelve.\n- Indicado para uso a corto plazo, bajo supervisión médica.\n\nComposición:\nCada tableta contiene: ketorolaco trometamina 30 mg y excipientes.\n\nModo de uso:\nVía sublingual. Dosis única de 30 mg, que puede repetirse 4 horas después, sin exceder 60 mg al día y por un máximo de 4 días; la duración total del tratamiento con ketorolaco, por cualquier vía, no debe exceder 5 días en adultos. Siga la indicación de su médico.\n\nPresentación:\nCaja con 4 tabletas sublinguales de 30 mg. Consérvela bien cerrada, a no más de 30 °C y protegida de la luz.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico al ketorolaco u otros AINE, si tiene úlcera o hemorragia gastrointestinal reciente o insuficiencia renal moderada a grave, ni durante el embarazo, sobre todo en el tercer trimestre y el parto. Consulte a su médico antes de usarlo en menores de edad. Las personas mayores tienen mayor riesgo de sangrado gastrointestinal. Puede causar úlceras, náusea, mareo, dolor de cabeza y vértigo. Use la dosis mínima efectiva y tenga precaución con anticoagulantes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolac",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Dolac Sublingual",
+    "variante": "Ketorolaco 30 mg sublingual",
+    "presentacion": "Tabletas sublinguales",
+    "contenido_neto": 4,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 4,
+    "principio_activo": "Ketorolaco trometamina",
+    "concentracion": "30 mg",
+    "via_administracion": "Sublingual",
+    "edad_etapa": "Adultos",
+    "otros": "Venta con receta médica; Tipo: Antiinflamatorio y analgésico",
+    "registro_sanitario": "216M2014 SSA"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://siegfried.com.mx/static/assets/front/drug/6d7192b7860cc5a025970932223e57bb.pdf",
+  "fuentes": [
+    "https://siegfried.com.mx/static/assets/front/drug/6d7192b7860cc5a025970932223e57bb.pdf",
+    "https://farmalisto.com.mx/analgesicos/5890-dolac-30-caja-con-4-tabletas-7501300407023.html",
+    "https://www.klyns.mx/dolac-30mg-caja-c-4-tabs-sublinguales/p"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Requiere receta médica. Indicaciones y dosis tomadas de la información para prescribir de Siegfried. Una ficha de tienda muestra por error un principio activo distinto; el resto de las fuentes confirman ketorolaco 30 mg sublingual.",
+    "fecha": "2026-09-29"
+  }
+}

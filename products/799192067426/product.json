@@ -1,0 +1,40 @@
+{
+  "gtin": "799192067426",
+  "sku": "799192067426",
+  "linea": "Farma",
+  "nombre_sistema": "ACCU-CHEK EQ INSTANT KIT COMPLETO + SOFTCLIX + INSTANT 50 TIRAS REACTIVAS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Glucómetro Accu-Chek Instant Kit Softclix 50 Tiras",
+  "descripcion": "Descripción:\nKit Accu-Chek Instant de Roche para el automonitoreo de glucosa en sangre capilar. Según el nombre del producto, reúne el medidor Accu-Chek Instant, el dispositivo de punción Softclix y 50 tiras reactivas Accu-Chek Instant.\n\nCaracterísticas:\n- Medidor de glucosa en sangre Accu-Chek Instant.\n- Dispositivo de punción Softclix.\n- 50 tiras reactivas.\n\nPresentación:\nKit completo con glucómetro, dispositivo de punción y 50 tiras reactivas. Confirme con el empaque las lancetas y demás accesorios incluidos.\n\nAdvertencias:\nLea el instructivo de uso antes de utilizarlo. Los resultados no sustituyen la valoración médica; consulte a su médico para interpretarlos.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "variante": "Instant",
+    "presentacion": "Kit",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras reactivas",
+    "otros": "Incluye: glucómetro Accu-Chek Instant, dispositivo de punción Softclix y 50 tiras reactivas; Formato de venta: Kit"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos tomados solo del nombre del sistema. No se confirmó el significado de 'EQ', las lancetas incluidas, las especificaciones del medidor ni el GTIN. Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

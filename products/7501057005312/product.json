@@ -1,0 +1,41 @@
+{
+  "gtin": "7501057005312",
+  "sku": "7501057005312",
+  "linea": "Farma",
+  "nombre_sistema": "CALADRYL S LOC 180 ML 28",
+  "nombres_sistema_alternos": [],
+  "titulo": "Caladryl S Loción 180 ml",
+  "descripcion": "Descripción:\nCaladryl S es una loción de uso tópico para aplicar sobre la piel, presentada en frasco de 180 ml. Pertenece a la línea Caladryl, de productos para el cuidado de la piel.\n\nModo de uso:\nAplique una capa delgada sobre la zona afectada de la piel limpia y seca, las veces que indique el empaque o su médico. Lávese las manos después de aplicar. Consulte en la etiqueta la frecuencia máxima de uso.\n\nPresentación:\nFrasco con 180 ml de loción.\n\nAdvertencias:\nProducto de uso externo. No se ingiera. Evite el contacto con los ojos, la boca y las mucosas, y no lo aplique sobre heridas profundas ni sobre piel lesionada de forma extensa. Suspenda su uso y consulte a su médico si los síntomas empeoran, persisten o aparece irritación. Revise en el empaque los componentes y las indicaciones antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Caladryl",
+    "variante": "S",
+    "presentacion": "Loción",
+    "contenido_neto": 180,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad; Uso: Externo"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema y conocimiento general. No se confirmó qué significa la S de Caladryl S ni la composición exacta (se omiten principio activo e indicaciones); completar con la ficha del fabricante. Se asume venta libre por ser una loción tópica de la marca Caladryl.",
+    "fecha": "2026-09-29"
+  }
+}

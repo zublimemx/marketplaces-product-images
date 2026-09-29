@@ -1,0 +1,41 @@
+{
+  "gtin": "7501328979502",
+  "sku": "7501328979502",
+  "linea": "Farma",
+  "nombre_sistema": "HISTIACIL NF AD JBE 150ML AGOSTO 27 42",
+  "nombres_sistema_alternos": [],
+  "titulo": "Histiacil NF Adultos Jarabe 150 ml",
+  "descripcion": "Descripción:\nHistiacil NF es un medicamento en jarabe para adultos, de la línea Histiacil. Esta presentación es un frasco de 150 ml.\n\nPresentación:\nFrasco con 150 ml de jarabe.\n\nAdvertencias:\nConsulte la composición, las indicaciones y la dosis en el empaque. Utilice el dosificador o la medida indicada. Si los síntomas persisten o empeoran, suspenda su uso y consulte al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Histiacil",
+    "variante": "NF Adultos",
+    "presentacion": "Jarabe",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la fórmula, las indicaciones ni el fabricante; la categoría Respiratorios Venta Libre es tentativa. Descripción mínima.",
+    "fecha": "2026-09-29"
+  }
+}

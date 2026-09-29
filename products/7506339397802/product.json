@@ -1,0 +1,42 @@
+{
+  "gtin": "7506339397802",
+  "sku": "7506339397802",
+  "linea": "Farma",
+  "nombre_sistema": "CLEARBLUE PLUS PBA EMBARAZO C1",
+  "nombres_sistema_alternos": [],
+  "titulo": "Prueba de Embarazo Clearblue Plus 1 Prueba",
+  "descripcion": "Descripción:\nClearblue Plus es una prueba de embarazo de uso en casa que detecta en la orina la hormona hCG, que se produce durante el embarazo. Se presenta en empaque individual con una prueba.\n\nModo de uso:\nLa prueba se realiza con una muestra de orina. Siga paso a paso las instrucciones del instructivo incluido en el empaque y lea el resultado en el tiempo que ahí se indica.\n\nPresentación:\nEmpaque con 1 prueba de embarazo.\n\nAdvertencias:\nProducto de uso diagnóstico in vitro, para uso externo. No lo reutilice. No lo utilice después de la fecha de caducidad del empaque. Conserve la prueba en su envoltura hasta el momento de usarla. Ante cualquier duda sobre el resultado, consulte a su médico para confirmarlo. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Clearblue",
+    "fabricante": "SPD Swiss Precision Diagnostics",
+    "linea": "Plus",
+    "presentacion": "Prueba de embarazo",
+    "contenido_neto": 1,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "otros": "Tipo de prueba: Embarazo; Uso: En casa; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194260",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Descripción general basada en el nombre y en conocimiento general de las pruebas de embarazo; no se confirmó si es la versión de lectura analógica o digital, el tiempo de lectura ni la sensibilidad. Fabricante (SPD) tomado de conocimiento general. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

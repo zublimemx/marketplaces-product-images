@@ -1,0 +1,40 @@
+{
+  "gtin": "7501417007666",
+  "sku": "7501417007666",
+  "linea": "Farma",
+  "nombre_sistema": "MAGNESIA COYOACAN 7GR C 3 CUBOS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Magnesia Coyoacán Carbonato de Magnesio 7 g 3 Cubos",
+  "descripcion": "Descripción:\nMagnesia Coyoacán en presentación de 3 cubos de 7 g cada uno. Es un producto de la línea de farmacia que se comercializa en cubos de magnesia; consulte en el empaque la composición, las indicaciones y la forma de uso.\n\nPresentación:\nEmpaque con 3 cubos de 7 g cada uno.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Coyoacán",
+    "presentacion": "Cubos",
+    "contenido_neto": 7,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 3,
+    "principio_activo": "Carbonato de magnesio",
+    "otros": "Contenido: 3 cubos de 7 g; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se confirmó el producto: la búsqueda por GTIN solo devolvió un listado dudoso de carbonato de magnesio de 7 g (3 piezas), y ya no fue posible buscar por nombre porque se agotó el límite de WebSearch de la sesión. El principio activo (carbonato de magnesio) y la categoría se infieren del nombre; verificar contra el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

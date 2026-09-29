@@ -1,0 +1,42 @@
+{
+  "gtin": "7501095452147",
+  "sku": "7501095452147",
+  "linea": "Farma",
+  "nombre_sistema": "TEMPRA 500MG C20 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tempra Paracetamol 500 mg 20 Tabletas",
+  "descripcion": "Descripción:\nTempra 500 mg es un medicamento en tabletas cuyo principio activo es el paracetamol (acetaminofén), un analgésico y antipirético. Se utiliza para el alivio del dolor de leve a moderado y para reducir la fiebre. Esta presentación incluye 20 tabletas de 500 mg para administración oral.\n\nComposición:\nCada tableta contiene paracetamol 500 mg.\n\nModo de uso:\nVía oral. Tome las tabletas con un poco de agua, en la dosis y con el intervalo que indique el empaque o su médico. No exceda la dosis máxima diaria recomendada.\n\nPresentación:\nCaja con 20 tabletas de 500 mg.\n\nAdvertencias:\nNo use otros productos que contengan paracetamol al mismo tiempo. Una dosis mayor a la recomendada puede causar daño al hígado. No lo use si es alérgico al paracetamol. Si el dolor persiste por más de unos días o la fiebre no cede, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tempra",
+    "principio_activo": "Paracetamol (acetaminofén)",
+    "concentracion": "500 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (Tempra 500 mg, 20 tabletas); no se verificó fabricante ni ficha oficial (se omitió).",
+    "fecha": "2026-09-29"
+  }
+}

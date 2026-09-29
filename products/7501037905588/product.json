@@ -1,0 +1,45 @@
+{
+  "gtin": "7501037905588",
+  "sku": "7501037905588",
+  "linea": "Farma",
+  "nombre_sistema": "COMBIVENT RESPIMAT 1 68 8 77 MG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Combivent Respimat Ipratropio Salbutamol 1 Cartucho",
+  "descripcion": "Descripción:\nCombivent Respimat es un medicamento de Boehringer Ingelheim en solución para inhalación que combina bromuro de ipratropio y salbutamol (como sulfato). Se administra con el inhalador Respimat, que genera una nube fina de solución, y es un broncodilatador que se utiliza, bajo indicación médica, en enfermedades respiratorias obstructivas como la enfermedad pulmonar obstructiva crónica (EPOC).\n\nPresentación:\nEnvase con 1 cartucho de solución para inhalación para uso con el inhalador Respimat. La composición por cartucho indicada en el sistema es de 1.68 mg y 8.77 mg de los principios activos.\n\nModo de uso:\nVía inhalada. Siga las instrucciones del instructivo para preparar el inhalador antes del primer uso y respete la dosis indicada por su médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. Puede causar temblor, palpitaciones o boca seca. Informe a su médico si tiene glaucoma, problemas del corazón, de la tiroides o si está embarazada. Evite el contacto de la solución con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Combivent",
+    "fabricante": "Boehringer Ingelheim",
+    "linea": "Respimat",
+    "presentacion": "Solución para inhalación en cartucho",
+    "contenido_neto": 1,
+    "unidad_contenido": "cartuchos",
+    "unidades_por_envase": 1,
+    "principio_activo": "Bromuro de ipratropio y sulfato de salbutamol",
+    "concentracion": "1.68 mg / 8.77 mg por cartucho",
+    "via_administracion": "Inhalada",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Combivent Respimat = ipratropio + salbutamol de Boehringer Ingelheim, de conocimiento general; el prefijo 7501037 lo comparte Micardis Duo del mismo lote). Las cifras 1.68 mg y 8.77 mg vienen del nombre del sistema ('1 68 8 77 MG') y se asignaron en ese orden a ipratropio y salbutamol sin confirmarlo; verificar en el empaque. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gtin": "7501943466562",
+  "sku": "7501943466562",
+  "linea": "Mark",
+  "nombre_sistema": "DIAPRO PANTS GDE C/10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales para Adulto Diapro Pants Grande 10 Piezas",
+  "descripcion": "Descripción:\nPañales tipo pantaloncillo (ropa interior desechable) para adulto de la marca Diapro, talla grande, en presentación de 10 piezas. Están pensados para personas con incontinencia; antes de comprar revise la talla adecuada y consulte en el empaque la tabla de tallas, el contenido y las instrucciones de uso del fabricante.\n\nCaracterísticas:\n- Formato tipo pants, se colocan como ropa interior.\n- Talla grande.\n- Paquete con 10 piezas.\n- Se presenta como producto de uso personal y de un solo uso.\n\nPresentación:\nPaquete con 10 piezas.",
+  "ficha": {
+    "marca": "Diapro",
+    "fabricante": "Kimberly-Clark de México",
+    "variante": "Pants",
+    "presentacion": "Paquete",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "talla": "Grande",
+    "genero": "Unisex",
+    "edad_etapa": "Adultos",
+    "otros": "Formato: Pants (ropa interior desechable); Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El fabricante se dedujo por el prefijo GTIN 7501943 (mismo de Huggies y KleenBebé del catálogo) y no está confirmado. No se verificó el rango de cintura de la talla Grande ni si es unisex. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

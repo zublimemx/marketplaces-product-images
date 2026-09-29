@@ -1,0 +1,40 @@
+{
+  "gtin": "7501165003040",
+  "sku": "7501165003040",
+  "linea": "Farma",
+  "nombre_sistema": "ADEROGYL C5 AMP ING 15 VIT A D C JUNIO 27 200",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aderogyl 15 Vitaminas 5 Ampolletas",
+  "descripcion": "Descripción:\nAderogyl 15 es un producto vitamínico de la marca Aderogyl que se presenta en ampolletas. Esta presentación incluye una caja con 5 ampolletas. La composición vitamínica exacta por ampolleta, la vía de administración, las indicaciones y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nUse el producto en la dosis y con la frecuencia que indique su médico o el instructivo.\n\nPresentación:\nCaja con 5 ampolletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aderogyl",
+    "variante": "15",
+    "presentacion": "Ampolletas",
+    "contenido_neto": 5,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 5,
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. En el nombre del sistema aparece 'AMP ING 15 VIT A D C'; no se pudo confirmar si la vía es oral o inyectable ni si las vitaminas son A, D y C. Se omitió composición y vía. Categoría según la regla de vitaminas (MLM438195); si es inyectable, considerar 'Otros Medicamentos'.",
+    "fecha": "2026-09-29"
+  }
+}

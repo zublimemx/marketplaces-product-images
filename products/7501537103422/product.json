@@ -1,0 +1,42 @@
+{
+  "gtin": "7501537103422",
+  "sku": "7501537103422",
+  "linea": "Farma",
+  "nombre_sistema": "TRIBEDOCE DX COMPLEJO B/LIDOCAINA/DEXAMETA SOL INYC C/3 AMP BRULUART",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tribedoce DX Complejo B Lidocaína Dexametasona 3 Ampolletas",
+  "descripcion": "Descripción:\nTribedoce DX es un medicamento inyectable de Laboratorios Bruluart que, según su denominación, combina complejo B, lidocaína y dexametasona. Se presenta en solución inyectable, caja con 3 ampolletas.\n\nPresentación:\n- Solución inyectable\n- Caja con 3 ampolletas\n\nAdvertencias:\nEste medicamento contiene un corticoesteroide y debe aplicarse únicamente bajo indicación y supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tribedoce",
+    "fabricante": "Bruluart",
+    "variante": "DX",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 3,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Complejo B, lidocaína y dexametasona",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Datos tomados del nombre del sistema. Dosis de cada componente, vía y volumen por ampolleta sin confirmar. Categoría inferida (neuritis/neuralgias); podría ir también en Musculoarticulares. El título mide 59 caracteres.",
+    "fecha": "2026-09-29"
+  }
+}

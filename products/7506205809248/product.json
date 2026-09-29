@@ -1,0 +1,45 @@
+{
+  "gtin": "7506205809248",
+  "sku": "7506205809248",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "ENFAGROW PREMIUM 3 800 GR JUNIO 27 6",
+  "nombres_sistema_alternos": [
+    "ENFAGROW 3 PREMIUM MFGM 800 G"
+  ],
+  "titulo": "Fórmula Infantil Enfagrow Premium 3 Lata 800 g",
+  "descripcion": "Descripción:\nEnfagrow Premium 3 es una fórmula láctea en polvo de la marca Enfagrow, de Mead Johnson, diseñada para acompañar la alimentación de niños a partir del primer año de vida, como complemento de una dieta variada y equilibrada. Esta presentación es una lata de 800 g.\n\nCaracterísticas:\n- Etapa 3 de la línea Premium de Enfagrow, para niños en crecimiento a partir de 1 año.\n- Incluye MFGM (membrana del glóbulo de grasa de la leche), un componente presente de forma natural en la leche.\n- Lata de 800 g de fórmula en polvo.\n\nModo de uso:\nPrepare el producto exactamente como se indica en la tabla de preparación del empaque, con agua previamente hervida y enfriada, y con utensilios limpios. Use únicamente la cuchara medidora incluida y nivele cada medida. Consuma el producto recién preparado y deseche lo que sobre. Después de abrir, cierre bien la lata, guárdela en un lugar fresco y seco, y consúmala en el tiempo indicado en la etiqueta.\n\nPresentación:\nLata con 800 g de fórmula en polvo.\n\nAdvertencias:\nNo es adecuado para menores de 12 meses ni sustituye a la leche materna en lactantes. Prepare siempre con higiene estricta y no altere las proporciones de agua y polvo. Contiene leche. Consulte a su pediatra sobre la alimentación de su hijo.",
+  "ficha": {
+    "marca": "Enfagrow",
+    "fabricante": "Mead Johnson",
+    "linea": "Premium",
+    "variante": "Etapa 3 con MFGM",
+    "presentacion": "Lata en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "1 a 3 años",
+    "otros": "Formato de venta: Unidad; Etapa: 3"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (ENFAGROW PREMIUM 3 800 GR; otro registro del sistema con el mismo GTIN dice ENFAGROW 3 PREMIUM MFGM 800 G) y conocimiento general. Confirmar el rango de edad (1 a 3 años) y la composición (DHA, prebióticos, etc.) en la ficha del fabricante antes de publicar. El GTIN aparece duplicado en el maestro (ids 303 y 948).",
+    "fecha": "2026-09-29"
+  }
+}

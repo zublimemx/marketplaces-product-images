@@ -1,0 +1,48 @@
+{
+  "gtin": "7501058623294",
+  "sku": "7501058623294",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "NAN 3 800G OPTIMAL PRO 12 AGOSTO 27",
+  "nombres_sistema_alternos": [
+    "NAN 3 OPTIPRO 1-3 ANO 800G"
+  ],
+  "titulo": "Fórmula Infantil Nan Optipro 3 Lata 800 g",
+  "descripcion": "Descripción:\nNAN Optipro 3 (presentada por Nestlé México como NAN 3 Optimal Pro) es una fórmula en polvo para niños a partir de 1 año de edad. Está elaborada con proteína de suero de leche Optipro y contiene HMO 2'FL, DHA y el probiótico Limosilactobacillus reuteri.\n\nBeneficios:\n- Combinación de HMO, proteína Optipro y probiótico que, según el fabricante, puede ayudar a promover una buena digestión.\n- Contiene DHA de aceite de pescado.\n- Con vitaminas A, B1, B2, B3, B5, B6, B9, B12, C, D3, E y K1, y minerales como calcio, fósforo, hierro, magnesio, zinc, potasio, yodo, cobre, selenio y manganeso.\n- Aporte por cada 100 kcal: 2.5 g de proteínas, 4.34 g de grasas totales, 12.7 g de hidratos de carbono, 90.2 mg de calcio y 7.17 mg de DHA.\n\nIngredientes:\nProteína de suero de leche desmineralizado Optipro, leche descremada, maltodextrina, aceites vegetales, citrato de calcio, lactosa, lecitina de soya, fosfato de potasio, aceite de pescado (DHA 0.24 %), HMO 2'-O-fucosil lactosa (0.18 %), cultivos probióticos de Limosilactobacillus reuteri (0.04 %), vitaminas, minerales y otros componentes nutritivos.\nContiene: leche, soya y aceite de pescado.\n\nModo de uso:\nIndicada a partir de 1 año de edad. Prepárese siguiendo estrictamente las instrucciones de preparación y conservación de la etiqueta, con agua segura y utensilios limpios.\n\nPresentación:\nLata con 800 g de fórmula en polvo.\n\nAdvertencias:\nContiene leche, soya y aceite de pescado. El uso de este producto debe hacerse bajo la orientación de un profesional de la salud. Una preparación o un almacenamiento incorrectos pueden ser perjudiciales para la salud.",
+  "ficha": {
+    "marca": "Nan",
+    "fabricante": "Nestlé",
+    "linea": "Optipro",
+    "variante": "Etapa 3",
+    "presentacion": "Lata en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "A partir de 1 año",
+    "genero": "Unisex",
+    "otros": "Etapa: 3; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nan-3-optimal-pro",
+  "fuentes": [
+    "https://www.nestlefamilynes.com.mx/producto/nan-3-optimal-pro"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Nestlé, que confirma NAN 3 Optimal Pro en presentación de 800 g; el GTIN 7501058623294 es consecutivo a los NAN Optipro 1 y 2 confirmados en el lote 1. Nestlé México ya nombra la línea Optimal Pro; en ML los vendedores usan Optipro.",
+    "fecha": "2026-09-29"
+  }
+}

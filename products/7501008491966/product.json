@@ -1,0 +1,43 @@
+{
+  "gtin": "7501008491966",
+  "sku": "7501008491966",
+  "linea": "Farma",
+  "nombre_sistema": "ASPIRINA 500MG C40 TABS 120",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aspirina Bayer 500 mg 40 Tabletas",
+  "descripcion": "Descripción:\nAspirina es un medicamento de Bayer cuyo principio activo es el ácido acetilsalicílico. Esta presentación contiene 40 tabletas de 500 mg, de uso oral.\n\nBeneficios:\n- Analgésico: alivia el dolor de cabeza, el dolor muscular y el dolor dental.\n- Antipirético: ayuda a reducir la fiebre.\n- Antiinflamatorio.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 500 mg.\n\nModo de uso:\nPor vía oral, con un vaso de agua y de preferencia después de los alimentos. La dosis para adultos es de una a dos tabletas cada 4 a 6 horas, según la necesidad. Consulte en el empaque la dosis máxima diaria.\n\nPresentación:\nCaja con 40 tabletas de 500 mg.\n\nAdvertencias:\nPuede causar irritación gástrica. No lo use si es alérgico a los salicilatos ni en caso de úlcera o sangrado gastrointestinal. No se recomienda en menores de edad con infecciones virales por el riesgo de síndrome de Reye. Evite el consumo de alcohol durante su uso. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer",
+    "presentacion": "Tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). Datos de conocimiento general de Aspirina 500 mg; no se verificó contra el GTIN. Confirmar la dosis del modo de uso en el empaque antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

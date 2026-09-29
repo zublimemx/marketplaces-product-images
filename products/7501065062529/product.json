@@ -1,0 +1,45 @@
+{
+  "gtin": "7501065062529",
+  "sku": "7501065062529",
+  "linea": "Farma",
+  "nombre_sistema": "ROBAX GOLD 500 200MG C24 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Robax Gold Metocarbamol Ibuprofeno 500/200 mg 24 Tabletas",
+  "descripcion": "Descripción:\nRobax Gold es un medicamento en tabletas que combina metocarbamol de 500 mg con ibuprofeno de 200 mg, es decir, un relajante muscular junto con un antiinflamatorio no esteroideo. Se presenta en caja con 24 tabletas. Consulte en el empaque las indicaciones, la dosis y la duración recomendadas.\n\nComposición:\n- Metocarbamol 500 mg\n- Ibuprofeno 200 mg\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nPuede causar somnolencia y molestias gástricas; evite manejar o usar maquinaria si le produce sueño. No lo use si es alérgico al ibuprofeno, a la aspirina o a otros antiinflamatorios. No exceda la dosis recomendada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Robax",
+    "linea": "Gold",
+    "variante": "Gold 500/200 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Metocarbamol e ibuprofeno",
+    "concentracion": "500 mg/200 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). La composición (metocarbamol 500 mg + ibuprofeno 200 mg) se dedujo de la abreviatura GOLD 500 200MG y de conocimiento previo; no se confirmó ni se identificó el fabricante. Si requiere receta, usar MLM457826. Verificar composición antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

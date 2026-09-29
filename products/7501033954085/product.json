@@ -1,0 +1,42 @@
+{
+  "gtin": "7501033954085",
+  "sku": "7501033954085",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE 237ML VAINILLA MAYO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ensure Suplemento Alimenticio Vainilla 237 ml",
+  "descripcion": "Descripción:\nEnsure es un suplemento alimenticio líquido de Abbott, sabor vainilla, que se utiliza como complemento de la alimentación. Se presenta listo para beber en presentación individual de 237 ml.\n\nCaracterísticas:\n- Suplemento alimenticio líquido.\n- Sabor vainilla.\n- Presentación individual de 237 ml.\n\nPresentación:\nUna pieza de 237 ml, lista para beber.\n\nAdvertencias:\n- No es un alimento de uso exclusivo; se recomienda consultar a su médico o nutriólogo sobre su consumo dentro de su plan de alimentación.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "presentacion": "Bebida líquida",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Vainilla",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (Abbott). No se confirmó el tipo de envase (lata o botella), la variante (Original u otra), la fórmula ni el GTIN. 'MAYO 27' es caducidad y se ignoró.",
+    "fecha": "2026-09-29"
+  }
+}

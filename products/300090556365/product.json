@@ -1,0 +1,44 @@
+{
+  "gtin": "300090556365",
+  "sku": "300090556365",
+  "linea": "Farma",
+  "nombre_sistema": "LINCOCIN 600MG 2ML C 6AMP ADULTO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Lincocin Lincomicina 600 mg/2 ml 6 Ampolletas",
+  "descripcion": "Descripción:\nLincocin es un antibiótico de Pfizer cuyo principio activo es la lincomicina, en solución inyectable de 600 mg por 2 ml para adultos. Está indicado en infecciones causadas por bacterias sensibles a la lincomicina, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada ampolleta de 2 ml contiene lincomicina (como clorhidrato) 600 mg.\n\nModo de uso:\nVía intramuscular o intravenosa, administrada por personal de salud. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 6 ampolletas de 2 ml.\n\nAdvertencias:\nMedicamento de uso bajo prescripción médica. No lo use si es alérgico a la lincomicina o a la clindamicina. Si presenta diarrea intensa, con sangre o persistente, suspenda su uso y consulte a su médico de inmediato. El uso indebido de antibióticos puede generar resistencia bacteriana. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lincocin",
+    "fabricante": "Pfizer",
+    "presentacion": "solución inyectable en ampolletas",
+    "contenido_neto": 6,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Lincomicina",
+    "concentracion": "600 mg/2 ml",
+    "via_administracion": "Intramuscular o intravenosa",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Antibiótico inyectable: en México requiere receta médica.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "020800790253",
+  "sku": "020800790253",
+  "linea": "Farma",
+  "nombre_sistema": "METAMUCIL POLVO 170 GR NARANJA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Metamucil Psyllium en Polvo Sabor Naranja 170 g",
+  "descripcion": "Descripción:\nMetamucil en polvo sabor naranja es un suplemento de fibra soluble a base de psyllium (cáscara de Plantago ovata) de Procter & Gamble, en envase de 170 g. Se mezcla con agua u otra bebida y ayuda a mantener la regularidad intestinal.\n\nBeneficios:\n- Aporta fibra soluble de psyllium.\n- Ayuda a la regularidad intestinal.\n- Sabor naranja.\n\nComposición:\nPsyllium (cáscara de Plantago ovata) como ingrediente principal. Consulte la etiqueta del envase para la lista completa de ingredientes.\n\nModo de uso:\nMezcle la dosis indicada en el empaque con un vaso de agua u otro líquido, agite y beba de inmediato. Tome siempre con suficiente líquido.\n\nPresentación:\nEnvase con 170 g de polvo sabor naranja.\n\nAdvertencias:\nTomar este producto sin suficiente líquido puede causar que se hinche y bloquee la garganta o el esófago. Si presenta dolor en el pecho, vómito o dificultad para tragar o respirar después de tomarlo, busque atención médica de inmediato. Si tiene dificultad para tragar, obstrucción intestinal o dolor abdominal intenso, consulte a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Metamucil",
+    "fabricante": "Procter & Gamble",
+    "presentacion": "polvo",
+    "contenido_neto": 170,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Psyllium (cáscara de Plantago ovata)",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Naranja",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Confirmar si la versión es con azúcar o sin azúcar, la lista completa de ingredientes y si conviene publicarlo en Suplementos Alimenticios (MLM438195) en lugar de Digestivos.",
+    "fecha": "2026-09-29"
+  }
+}

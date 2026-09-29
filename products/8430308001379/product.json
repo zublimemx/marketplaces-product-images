@@ -1,0 +1,49 @@
+{
+  "gtin": "8430308001379",
+  "sku": "8430308001379",
+  "linea": "Farma",
+  "nombre_sistema": "DIMOFLAX 0.5/200MG C45 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dimoflax Cleboprida Simeticona 0.5/200 mg 45 Cápsulas",
+  "descripcion": "Descripción:\nDimoflax es un medicamento en cápsulas que combina cleboprida (0.5 mg) y simeticona (200 mg). De acuerdo con su ficha, está indicado en los procesos digestivos que cursan con aerofagia, meteorismo y flatulencia, como la dispepsia, la digestión lenta y el síndrome de intestino irritable, y también como preventivo del meteorismo durante exploraciones radiológicas.\n\nBeneficios:\n- La cleboprida es un procinético que favorece la motilidad y el vaciamiento del tubo digestivo.\n- La simeticona es un antiflatulento que ayuda a disminuir la acumulación de gases.\n- La combinación está orientada a las molestias por gases, distensión y presión abdominal.\n\nComposición:\nCada cápsula contiene: malato ácido de cleboprida equivalente a 0.5 mg de cleboprida; simeticona 200 mg; excipientes cbp 1 cápsula.\n\nModo de uso:\nVía oral. Adultos: 1 cápsula 3 veces al día, inmediatamente antes de cada comida, o según lo indique su médico.\n\nPresentación:\nCaja con 45 cápsulas.\n\nAdvertencias:\nSu venta requiere receta médica. No debe usarse en caso de hipersensibilidad a los componentes, hemorragia, obstrucción o perforación gastrointestinal, epilepsia, enfermedad de Parkinson o trastornos extrapiramidales, ni durante el embarazo. Puede causar somnolencia; evite conducir o manejar maquinaria. Dosis mayores a las indicadas aumentan el riesgo de reacciones extrapiramidales. Consulte a su médico si tiene insuficiencia hepática o renal severa y antes de combinarlo con alcohol, tranquilizantes u otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dimoflax",
+    "fabricante": "Grünenthal de México (titular: Almirall)",
+    "variante": "Cleboprida 0.5 mg / Simeticona 200 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 45,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 45,
+    "principio_activo": "Cleboprida y simeticona",
+    "concentracion": "0.5 mg/200 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "413M2003 SSA IV",
+    "otros": "Venta con receta médica; Uso: Gases, flatulencia y distensión abdominal"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/dimoflax.capsulas/67/101/62569/14",
+    "https://www.klyns.mx/dimoflax-0-5-200mg-c-45-caps/p",
+    "https://farmaciaherrera.com.mx/products/dimoflax-con-45-caps"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Las farmacias listan el laboratorio como Almirall o Grünenthal; PLM indica titular Almirall e importador Grünenthal de México. Requiere receta según PLM (SSA IV).",
+    "fecha": "2026-09-29"
+  }
+}

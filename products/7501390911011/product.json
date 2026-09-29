@@ -1,0 +1,40 @@
+{
+  "gtin": "7501390911011",
+  "sku": "7501390911011",
+  "linea": "Farma",
+  "nombre_sistema": "ITALDERMOL CRA 10G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Italdermol Crema 10 g",
+  "descripcion": "Descripción:\nItaldermol es una crema de uso tópico para aplicar sobre la piel, comercializada bajo la marca Italdermol. Esta presentación es un tubo de 10 g.\n\nModo de uso:\nAplique una capa delgada sobre la zona afectada de la piel limpia y seca, en la cantidad y con la frecuencia que indique su médico o el empaque. Lávese las manos después de aplicar, salvo que las manos sean la zona tratada.\n\nPresentación:\nTubo con 10 g de crema.\n\nAdvertencias:\nProducto de uso externo. No se ingiera. Evite el contacto con los ojos, la boca y las mucosas. Suspenda su uso y consulte a su médico si aparece irritación, enrojecimiento o si los síntomas empeoran o persisten. Revise en el empaque la composición, las indicaciones y las contraindicaciones antes de usarlo, y no lo use si es alérgico a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "presentacion": "Crema",
+    "contenido_neto": 10,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad; Uso: Externo"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (ITALDERMOL CRA 10G). No se pudo confirmar composición, indicaciones ni fabricante; el precio alto para 10 g sugiere un activo específico (posible receta). Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

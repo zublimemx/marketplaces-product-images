@@ -1,0 +1,42 @@
+{
+  "gtin": "7501092793052",
+  "sku": "7501092793052",
+  "linea": "Farma",
+  "nombre_sistema": "RIOPAN GEL C 10 SOB 36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Riopan Gel Magaldrato 10 Sobres",
+  "descripcion": "Descripción:\nRiopan Gel en presentación de caja con 10 sobres. Su principio activo es el magaldrato, un antiácido. Consulte en el empaque la concentración, las indicaciones, la dosis y el modo de uso.\n\nPresentación:\nCaja con 10 sobres de gel oral.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Riopan",
+    "variante": "Gel",
+    "presentacion": "Gel oral en sobres",
+    "contenido_neto": 10,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 10,
+    "principio_activo": "Magaldrato",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca (Riopan Gel = magaldrato). No se incluyó la concentración por sobre ni el fabricante. El 36 del nombre es un código. Requiere verificar.",
+    "fecha": "2026-09-29"
+  }
+}

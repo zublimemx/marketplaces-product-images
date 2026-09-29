@@ -1,0 +1,49 @@
+{
+  "gtin": "7501943454743",
+  "sku": "7501943454743",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUM HUGG CUIDADO HIDRAT C/80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Huggies Cuidado Hidratante 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas para bebé Huggies Cuidado Hidratante (también conocidas como Natural Care) en empaque de 80 piezas. Están diseñadas para la limpieza suave de la piel delicada del bebé en cada cambio de pañal y en la higiene diaria.\n\nCaracterísticas:\n- Textura suave, tipo algodón\n- Sin aroma\n- Con aloe y vitamina E para ayudar a mantener la piel humectada\n- Empaque con 80 toallitas\n\nModo de uso:\n- Tome una toallita y limpie con suavidad la zona a higienizar.\n- Use las toallitas que sean necesarias en cada cambio de pañal.\n- Cierre bien el empaque después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\n- Producto de uso externo.\n- No arroje las toallitas al inodoro.\n- Evite el contacto con los ojos; si esto ocurre, enjuague con agua.\n- Mantenga el empaque fuera del alcance de los niños y no deje al bebé sin supervisión.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Cuidado Hidratante",
+    "variante": "Natural Care sin aroma",
+    "presentacion": "Paquete de toallitas húmedas",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "edad_etapa": "Bebés",
+    "sabor_aroma": "Sin aroma",
+    "genero": "Unisex",
+    "tipo_piel_cabello": "Piel delicada del bebé",
+    "otros": "Con aloe y vitamina E; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/toallitas/13295-comprar-huggies-natural-care-toallitas-humedas-empaque-con-80-toallas-bebe-precio-7501943454743.html",
+    "https://farmaciasmedina.com/detalleProducto/Huggies-Toallitas-H%C3%BAmedas-Cuidado-Hidratante/7501943454743"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con 80 piezas. Una farmacia lo nombra Natural Care sin aroma y otras Cuidado Hidratante; es el mismo GTIN. Las fuentes no traen lista de ingredientes ni modo de uso, por eso esas secciones son generales.",
+    "fecha": "2026-09-29"
+  }
+}

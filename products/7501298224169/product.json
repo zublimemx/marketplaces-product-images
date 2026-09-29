@@ -1,0 +1,49 @@
+{
+  "gtin": "7501298224169",
+  "sku": "7501298224169",
+  "linea": "Farma",
+  "nombre_sistema": "GAVINDO N CAP C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Gavindo N Gabapentina Tiamina Cianocobalamina 30 Cápsulas",
+  "descripcion": "Descripción:\nGavindo N es un medicamento en cápsulas de Merck que combina gabapentina con dos vitaminas del complejo B, tiamina (vitamina B1) y cianocobalamina (vitamina B12). Pertenece al grupo de medicamentos del sistema nervioso y su uso debe ser indicado por un médico. Se presenta en caja con 30 cápsulas.\n\nComposición:\nCada cápsula contiene:\n- Gabapentina 300 mg\n- Tiamina 100 mg\n- Cianocobalamina 0.200 mg\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento deben ser determinadas por el médico; siga la indicación de su receta y las instrucciones del empaque.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nEs un medicamento que requiere receta médica para su adquisición. No lo utilice si es alérgico a la gabapentina, a la tiamina, a la cianocobalamina o a algún componente de la fórmula. No suspenda el tratamiento de forma repentina sin indicación de su médico. Puede causar somnolencia o mareo; tenga precaución al conducir o manejar maquinaria. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Gavindo",
+    "fabricante": "Merck",
+    "linea": "N",
+    "variante": "Cápsulas 300 mg/100 mg/0.200 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Gabapentina, tiamina y cianocobalamina",
+    "concentracion": "300 mg/100 mg/0.200 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: Cápsula; Formato de venta: Caja con 30 cápsulas"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://curitek.com/producto/gavindo-n-gabapentina-tiamina-cianocobalamina/",
+    "https://www.farmaciasespecializadas.com/gavindo-n-300-100-0-200-mg-caj-cap-c-30.html",
+    "https://farmaciasmedina.com/detalleProducto/Gavindo-N-30-Capsulas-Caja/7501298224169"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado. Las fuentes consultadas no traen las indicaciones aprobadas ni la posología; la descripción se limita a composición y advertencias generales. Requiere receta en México; el dueño indicó publicar como venta libre. Revisar el fabricante (una fuente dice Merck y otra P&G).",
+    "fecha": "2026-09-29"
+  }
+}

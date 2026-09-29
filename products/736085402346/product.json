@@ -1,0 +1,42 @@
+{
+  "gtin": "736085402346",
+  "sku": "736085402346",
+  "linea": "Farma",
+  "nombre_sistema": "GAAP OFTENO GTS 3ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Gaap Ofteno Gotas Oftálmicas 3 ml",
+  "descripcion": "Descripción:\nGaap Ofteno es un medicamento oftálmico de la línea Ofteno de Laboratorios Sophia, en presentación de gotas. Esta presentación es un frasco de 3 ml.\n\nPresentación:\nFrasco gotero de 3 ml.\n\nAdvertencias:\nProducto de uso oftálmico. No toque la punta del gotero con los ojos ni con otras superficies para evitar contaminarlo. Consulte la composición, las indicaciones y la dosis en el empaque. Suspenda su uso y consulte al médico si aparece irritación, enrojecimiento o alteraciones de la visión. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ofteno",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Ofteno",
+    "variante": "Gaap",
+    "presentacion": "Gotas oftálmicas",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó el principio activo ni la concentración; podría ser un medicamento con receta (por ejemplo, para glaucoma). Sophia se dedujo de la marca Ofteno. Descripción mínima.",
+    "fecha": "2026-09-29"
+  }
+}

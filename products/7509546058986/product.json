@@ -1,0 +1,41 @@
+{
+  "gtin": "7509546058986",
+  "sku": "7509546058986",
+  "linea": "Mark",
+  "nombre_sistema": "FIJ CAPRICE NAT KIW-LAV SPY 316ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fijador para Cabello Caprice Natural Kiwi-Lavanda 316 ml",
+  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, variante Natural con aroma kiwi-lavanda, en presentación de 316 ml. Está pensado para dar fijación y ayudar a mantener el peinado durante el día.\n\nCaracterísticas:\n- Formato spray de fácil aplicación\n- Aroma kiwi-lavanda\n- Envase de 316 ml\n\nModo de uso:\nAgite el envase, sostenga el spray a unos 20 a 30 cm del cabello ya peinado y aplique de manera uniforme. Repita si desea mayor fijación.\n\nPresentación:\nEnvase spray de 316 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. No lo use sobre la piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Caprice",
+    "variante": "Natural",
+    "presentacion": "Spray",
+    "contenido_neto": 316,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Kiwi-Lavanda",
+    "otros": "Tipo: Fijador para el cabello; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos deducidos del nombre (FIJ = fijador, NAT KIW-LAV = Natural kiwi-lavanda, SPY = spray). Se desconoce el fabricante y el nivel de fijación. Modo de uso y advertencias son generales de fijadores en spray. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

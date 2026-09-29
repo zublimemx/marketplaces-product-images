@@ -1,0 +1,44 @@
+{
+  "gtin": "7501035908246",
+  "sku": "7501035908246",
+  "linea": "Mark",
+  "nombre_sistema": "AC MENNEN 100 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aceite para Bebé Mennen Baby Magic 100 ml",
+  "descripcion": "Descripción:\nAceite para bebé Mennen Baby Magic en presentación de 100 ml. Es un producto de la marca Mennen, de la línea de cuidado del bebé de Colgate-Palmolive, pensado para el aseo y el cuidado de la piel del bebé. Consulte en el empaque la fórmula completa, el modo de uso y las advertencias del fabricante.\n\nPresentación:\nFrasco de 100 ml.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si observa irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Mennen",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Baby Magic",
+    "variante": "Aceite para bebé",
+    "presentacion": "Frasco",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Bebés",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM193807",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Se interpretó AC como aceite y la marca como Mennen Baby Magic (Colgate-Palmolive), sin confirmarlo; podría ser otro producto Mennen. Misma familia que los productos 278 (200 ml) y 300 (50 ml). Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

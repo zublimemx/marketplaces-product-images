@@ -1,0 +1,42 @@
+{
+  "gtin": "7502001166066",
+  "sku": "7502001166066",
+  "linea": "Farma",
+  "nombre_sistema": "BARMICIL 40G SONS BETAMETASONA GENTAMICINA CLOTRIMAZOL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Barmicil Betametasona Gentamicina Clotrimazol 40 g",
+  "descripcion": "Descripción:\nBarmicil es un medicamento de uso tópico que combina betametasona (corticosteroide), gentamicina (antibiótico) y clotrimazol (antimicótico), en presentación de 40 g. Su uso, dosis y duración deben ser indicados por el médico. Consulte en el empaque las concentraciones y las indicaciones.\n\nComposición:\nBetametasona, gentamicina y clotrimazol. Consulte la concentración de cada componente en el empaque.\n\nModo de uso:\nUso externo. Aplique una capa delgada sobre la zona afectada limpia y seca, en la frecuencia y por el tiempo que indique su médico. No lo use por más tiempo del indicado.\n\nPresentación:\nEnvase con 40 g.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. Solo para uso externo; evite el contacto con los ojos y las mucosas. No lo use si es alérgico a alguno de los componentes. Suspenda su uso y consulte a su médico si aparece irritación o si la lesión no mejora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Barmicil",
+    "fabricante": "Sons",
+    "presentacion": "Tópica (crema o ungüento por confirmar)",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Betametasona, gentamicina y clotrimazol",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Principios activos y 40 g salen del nombre del sistema; SONS se tomó como laboratorio sin confirmar. No se sabe si es crema o ungüento (por eso no aparece en el título) ni las concentraciones. receta_mx = Sí por combinar corticosteroide con antibiótico, pendiente de confirmar. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

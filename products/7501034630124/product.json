@@ -1,0 +1,48 @@
+{
+  "gtin": "7501034630124",
+  "sku": "7501034630124",
+  "linea": "Farma",
+  "nombre_sistema": "JARDIANZ DUO 12 5 850MG TAB C60",
+  "nombres_sistema_alternos": [],
+  "titulo": "Jardianz Duo 12.5 mg/850 mg 60 Tabletas",
+  "descripcion": "Descripción:\nJardianz Duo 12.5 mg/850 mg es un medicamento de Boehringer Ingelheim que combina en una sola tableta dos antidiabéticos orales: empagliflozina, un inhibidor del cotransportador sodio-glucosa 2 (SGLT2), y metformina, una biguanida. Se presenta en caja con 60 tabletas.\n\nBeneficios:\n- Indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para el control de la glucosa en sangre, cuando el tratamiento con ambos principios activos es apropiado.\n- Dos mecanismos de acción complementarios en una sola tableta.\n- Presentación de 60 tabletas para un mes de tratamiento con dos tomas al día, según indicación médica.\n\nComposición:\nCada tableta contiene empagliflozina 12.5 mg y clorhidrato de metformina 850 mg.\n\nModo de uso:\nVía oral. Tome las tabletas enteras con agua y con los alimentos, en la frecuencia indicada por su médico. La dosis y los ajustes (por ejemplo, según la función renal) deben ser determinados por el médico.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. No debe usarse en diabetes tipo 1, cetoacidosis diabética, enfermedad renal grave o diálisis, ni en caso de hipersensibilidad a sus componentes. La metformina puede causar acidosis láctica, una complicación poco frecuente pero grave; evite el consumo excesivo de alcohol. Pueden presentarse infecciones urinarias y genitales, deshidratación y molestias gastrointestinales; con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Consulte a su médico antes de un estudio con medio de contraste o una cirugía. Evite su uso durante el embarazo y la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Jardianz",
+    "fabricante": "Boehringer Ingelheim",
+    "linea": "Duo",
+    "variante": "12.5 mg/850 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Empagliflozina y metformina",
+    "concentracion": "12.5 mg/850 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Venta con receta médica; Uso: Diabetes mellitus tipo 2; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://storeboehringer.com/jardianz",
+  "fuentes": [
+    "https://storeboehringer.com/jardianz"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). La tienda de Boehringer confirma Jardianz Duo 12.5 mg/850 mg en presentaciones de 30 y 60 tabletas y que exige receta válida, pero no muestra composición ni advertencias: la composición (empagliflozina y metformina) y las advertencias son las de la combinación empagliflozina/metformina, confirmar con el instructivo. Registro sanitario pendiente. Categoría de venta libre por instrucción del dueño; se eligió Digestivos y Metabólicos igual que otros Jardianz del lote 1.",
+    "fecha": "2026-09-29"
+  }
+}

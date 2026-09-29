@@ -1,0 +1,42 @@
+{
+  "gtin": "7501088508998",
+  "sku": "7501088508998",
+  "linea": "Farma",
+  "nombre_sistema": "NEURALIN RELIEF C 20 TAB",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neuralin Relief 20 Tabletas",
+  "descripcion": "Descripción:\nNeuralin Relief en presentación de 20 tabletas, de la línea Neuralin del laboratorio Chinoin. Es un medicamento de uso oral; consulte en el empaque su composición, indicaciones y dosis.\n\nModo de uso:\nVía oral. Tome las tabletas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neuralin",
+    "fabricante": "Chinoin",
+    "variante": "Relief",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, la variante y las 20 tabletas. El fabricante Chinoin se infirió del prefijo del GTIN (7501088), el mismo del Antiflu-Des Jr de este lote. Se desconocen composición y grupo terapéutico; la categoría Sistema Nervioso Venta Libre es una suposición. Descripción deliberadamente neutral. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

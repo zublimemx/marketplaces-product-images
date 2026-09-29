@@ -1,0 +1,48 @@
+{
+  "gtin": "7501058714312",
+  "sku": "7501058714312",
+  "linea": "Farma",
+  "nombre_sistema": "TEMPRA GOTAS 30ML 96",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tempra Gotas Pediátricas Paracetamol 100 mg/ml 30 ml",
+  "descripcion": "Descripción:\nTempra Gotas es una solución pediátrica de paracetamol para uso oral, con gotero, indicada para bebés y niños de 0 a 36 meses. Es un analgésico y antipirético que se emplea para reducir la fiebre y aliviar dolores leves, como dolor de cabeza, dolores articulares y molestias asociadas al resfriado común.\n\nComposición:\n- Paracetamol 100 mg por cada ml (10 g por cada 100 ml)\n- Equivalencia: 20 gotas equivalen a 100 mg de paracetamol\n\nModo de uso:\nVía oral. Use el gotero incluido en el empaque. La dosis depende de la edad y del peso del niño; siga las indicaciones del instructivo o las de su pediatra y no exceda la dosis recomendada.\n\nPresentación:\nCaja con frasco de 30 ml con gotero. Conservar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- No lo use si el niño es alérgico al paracetamol o a algún componente de la fórmula.\n- No administre otros medicamentos que contengan paracetamol al mismo tiempo.\n- Si la fiebre o el dolor persisten, acuda con su médico.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tempra",
+    "fabricante": "Reckitt Benckiser",
+    "linea": "Pediátrico",
+    "presentacion": "Solución en gotas",
+    "contenido_neto": 30,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol",
+    "concentracion": "100 mg/ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "0 a 36 meses",
+    "otros": "Incluye gotero; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://phemedica.com.mx/product/tempra-solucion-pediatrica-0-36-meses-paracetamol-100-mg-1-ml-fco-30-ml-reckitt-benckiser/",
+    "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 30 ml confirmados. El 96 del nombre del sistema es un código. Una farmacia menciona sabor uva, no confirmado en otra fuente, por eso no se incluyó.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7503007704597",
+  "sku": "7503007704597",
+  "linea": "Farma",
+  "nombre_sistema": "HIDRASEC 100MG CAPS9",
+  "nombres_sistema_alternos": [],
+  "titulo": "Hidrasec Racecadotrilo 100 mg 9 Cápsulas",
+  "descripcion": "Descripción:\nHidrasec es un medicamento cuyo principio activo es el racecadotrilo, en presentación de cápsulas de 100 mg.\n\nComposición:\nRacecadotrilo 100 mg por cápsula. Consulte en el empaque los demás componentes.\n\nPresentación:\nCaja con 9 cápsulas de 100 mg.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece alguna enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hidrasec",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 9,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 9,
+    "principio_activo": "Racecadotrilo",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Hidrasec = racecadotrilo; 100 mg es presentación para adultos). No se confirmó fabricante ni si en México requiere receta; revisar en PLM. Si requiere receta, la categoría Rx equivalente sería MLM457828.",
+    "fecha": "2026-09-29"
+  }
+}

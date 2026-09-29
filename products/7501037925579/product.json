@@ -1,0 +1,48 @@
+{
+  "gtin": "7501037925579",
+  "sku": "7501037925579",
+  "linea": "Farma",
+  "nombre_sistema": "TRAYENTA 5MG T30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Trayenta Linagliptina 5 mg 30 Tabletas",
+  "descripcion": "Descripción:\nTrayenta contiene linagliptina, un inhibidor de la enzima DPP-4 que se usa en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para ayudar a controlar los niveles de glucosa en sangre. Puede utilizarse solo o en combinación con otros medicamentos para la diabetes, según lo determine el médico. Es un medicamento de Boehringer Ingelheim.\n\nComposición:\nCada tableta contiene linagliptina 5 mg.\n\nModo de uso:\nVía oral. La dosis habitual es una tableta de 5 mg una vez al día, con o sin alimentos, o como lo indique su médico.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\n- No es un tratamiento para la diabetes tipo 1 ni para la cetoacidosis diabética.\n- Suspenda su uso y consulte a su médico si presenta dolor abdominal intenso y persistente, o ampollas en la piel.\n- Si se usa junto con insulina o sulfonilureas puede aumentar el riesgo de hipoglucemia.\n- No lo use si es alérgico a la linagliptina.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Trayenta",
+    "fabricante": "Boehringer Ingelheim",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Linagliptina",
+    "concentracion": "5 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "159M2011SSAIV",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-para-diabetes/1738-precio-trayenta-5mg-30-tabletas-linagliptina-7501037925579.html",
+    "https://www.farmaciasespecializadas.com/trayenta-5mg-tab-caj-c-30.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados (linagliptina 5 mg, 30 tabletas, requiere receta). Registro sanitario tomado de una farmacia en línea. La categoría de venta libre más cercana para antidiabéticos es Digestivos Venta Libre (dominio digestivo y metabólico). Indicación, dosis y advertencias redactadas con información general de la ficha de linagliptina; la página de la farmacia no las traía.",
+    "fecha": "2026-09-29"
+  }
+}

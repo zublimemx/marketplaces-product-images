@@ -1,0 +1,34 @@
+{
+  "gtin": "37501023108895",
+  "sku": "37501023108895",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "NEXCARE PIEL 2 5CM C12",
+  "nombres_sistema_alternos": [
+    "NEXCARE MICROPORE 2 5CM C12 PIEL"
+  ],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

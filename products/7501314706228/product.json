@@ -1,0 +1,40 @@
+{
+  "gtin": "7501314706228",
+  "sku": "7501314706228",
+  "linea": "Farma",
+  "nombre_sistema": "VITERNUM JBE 140 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Viternum Jarabe 140 ml",
+  "descripcion": "Descripción:\nViternum en presentación de jarabe, frasco de 140 ml. Consulte en el empaque la composición, las indicaciones y el modo de uso.\n\nPresentación:\nFrasco con 140 ml de jarabe.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Viternum",
+    "presentacion": "Jarabe",
+    "contenido_neto": 140,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema (jarabe de 140 ml). Se desconoce la composición; la categoría de suplementos es una suposición por el nombre y podría ser un medicamento. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

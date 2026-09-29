@@ -1,0 +1,43 @@
+{
+  "gtin": "7501007532363",
+  "sku": "7501007532363",
+  "linea": "Farma",
+  "nombre_sistema": "DRAMAMINE 24 TABS 72",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dramamine Dimenhidrinato 50 mg 24 Tabletas",
+  "descripcion": "Descripción:\nDramamine es un medicamento de uso oral en tabletas cuyo principio activo es el dimenhidrinato, un antihistamínico con acción antiemética. Se utiliza para la prevención y el alivio de las náuseas, el vómito y el mareo asociados al movimiento, como en viajes en auto, barco o avión.\n\nPresentación:\nCaja con 24 tabletas de 50 mg.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia indicadas en el empaque o por su médico. Cuando se use para prevenir el mareo en viaje, se toma antes de iniciar el trayecto.\n\nAdvertencias:\nPuede causar somnolencia; evite conducir o manejar maquinaria después de tomarlo y no lo combine con alcohol ni con otros medicamentos que causen sueño. No lo use si es alérgico al dimenhidrinato. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dramamine",
+    "variante": "Tabletas 50 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Dimenhidrinato",
+    "concentracion": "50 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Identificado por el nombre comercial (Dramamine = dimenhidrinato en tabletas); la concentración de 50 mg y el fabricante son de conocimiento general y no se verificaron, y el nombre del sistema solo dice 24 tabletas. Categoría elegida (Digestivos Venta Libre) por su acción antiemética; también podría ir en Sistema Nervioso Venta Libre. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

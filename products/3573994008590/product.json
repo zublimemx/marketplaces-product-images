@@ -1,0 +1,40 @@
+{
+  "gtin": "3573994008590",
+  "sku": "3573994008590",
+  "linea": "Farma",
+  "nombre_sistema": "FABROVEN C 30 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fabroven 30 Cápsulas",
+  "descripcion": "Descripción:\nFabroven es un medicamento en cápsulas de administración oral que se comercializa en caja con 30 cápsulas. No se pudo confirmar su principio activo, su fabricante ni su indicación, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fabroven",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 30 cápsulas"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo, el fabricante ni el grupo terapéutico; la categoría Otros Medicamentos es provisional y debe cambiarse cuando se identifique. El GTIN de 13 dígitos con prefijo 357 (Francia) sugiere producto importado. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501943454873",
+  "sku": "7501943454873",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUGG HUM LAVANDA C/80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Huggies Lavanda 80 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Huggies con aroma a lavanda para la limpieza de la piel del bebé en cada cambio de pañal, en paquete con 80 piezas.\n\nBeneficios:\n- Limpian de forma práctica durante el cambio de pañal.\n- Aroma a lavanda.\n- Presentación de 80 toallitas.\n\nModo de uso:\nExtraiga una toallita y limpie suavemente la zona; cierre bien el empaque después de cada uso para conservar la humedad.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. No las deseche en el inodoro. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "presentacion": "toallitas húmedas",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "edad_etapa": "Bebés",
+    "sabor_aroma": "Lavanda",
+    "otros": "Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema. Confirmar la línea exacta de Huggies (por ejemplo Natural Care) y las características de la fórmula, que no se incluyeron en la descripción.",
+    "fecha": "2026-09-29"
+  }
+}

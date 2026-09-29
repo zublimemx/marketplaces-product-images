@@ -1,0 +1,41 @@
+{
+  "gtin": "8020030095076",
+  "sku": "8020030095076",
+  "linea": "Farma",
+  "nombre_sistema": "ESOXX-ONE 10ML STICK C20",
+  "nombres_sistema_alternos": [],
+  "titulo": "Esoxx One Sticks 10 ml 20 Piezas",
+  "descripcion": "Descripción:\nEsoxx One en presentación de 20 sticks monodosis de 10 ml, de administración oral, de la línea Esoxx One. Es un producto de uso digestivo; consulte en el empaque su composición, indicaciones y modo de empleo.\n\nPresentación:\nCaja con 20 sticks de 10 ml cada uno.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia indicadas en el empaque o por su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Esoxx",
+    "linea": "Esoxx One",
+    "presentacion": "Sticks monodosis",
+    "contenido_neto": 20,
+    "unidad_contenido": "sticks",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral",
+    "otros": "Contenido por stick: 10 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Solo se dedujo del nombre la marca, los 20 sticks y los 10 ml. El GTIN 802 indica origen italiano. Es probable que sea un dispositivo médico y no un medicamento (por eso receta_mx = No aplica), pero no está confirmado. Se omitieron fabricante y composición. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

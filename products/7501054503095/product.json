@@ -1,0 +1,48 @@
+{
+  "gtin": "7501054503095",
+  "sku": "7501054503095",
+  "linea": "Mark",
+  "nombre_sistema": "CRA NIVEA SDA TARRO 100 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Crema Hidratante Nivea Creme Tarro 100 ml",
+  "descripcion": "Descripción:\nNIVEA Creme es la crema hidratante multiusos clásica de NIVEA, en su tarro de 100 ml. Brinda una protección intensiva a la piel y puede aplicarse en el cuerpo, las manos, el rostro y los pies, e incluso para desmaquillar.\n\nBeneficios:\n- Hidrata la piel y ayuda a mantenerla suave y flexible.\n- Cuidado intensivo para las zonas secas de la piel.\n- Fórmula universal, apta para todo tipo de piel y para toda la familia.\n- Multiusos: un solo producto para rostro, manos, cuerpo y pies.\n- Enriquecida con Eucerit, pantenol y glicerina.\n\nIngredientes:\nAqua, Paraffinum Liquidum, Cera Microcristallina, Glycerin, Lanolin Alcohol (Eucerit), Paraffin, Panthenol, Magnesium Sulfate, Decyl Oleate, Octyldodecanol, Aluminum Stearates, Citric Acid, Magnesium Stearate, Methylchloroisothiazolinone, Methylisothiazolinone, Parfum.\n\nModo de uso:\nAplique la cantidad necesaria sobre la piel limpia del cuerpo, las manos, el rostro o los pies y extienda con un ligero masaje, cuantas veces lo requiera.\n\nPresentación:\nTarro de 100 ml.\n\nAdvertencias:\nProducto de uso externo. Evite aplicarlo sobre piel irritada y evite el contacto con los ojos. Contiene lanolina y fragancia; no lo use si es alérgico a alguno de sus ingredientes y suspenda su uso si aparece irritación. Manténgalo fuera del alcance de los niños y conserve el tarro bien cerrado.",
+  "ficha": {
+    "marca": "Nivea",
+    "fabricante": "Beiersdorf",
+    "linea": "Creme",
+    "variante": "Crema multiusos",
+    "presentacion": "Crema en tarro",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "genero": "Unisex",
+    "tipo_piel_cabello": "Todo tipo de piel",
+    "otros": "Uso: Rostro, manos y cuerpo; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.nivea.com.mx/productos/nivea-creme-tarro-vidrio-400-ml-75010545002160060.html",
+  "fuentes": [
+    "https://www.nivea.com.mx/productos/nivea-creme-tarro-vidrio-400-ml-75010545002160060.html",
+    "https://www.caretobeauty.com/us/nivea-cream-100ml/",
+    "https://www.farmaciasmedicity.com/nivea-crema-100-ml/p"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La ficha oficial de NIVEA México consultada es la del tarro de 400 ml (misma línea Creme); la lista de ingredientes se tomó de ahí. El GTIN también aparece en tiendas de Colombia como Nivea Creme 100 ml.",
+    "fecha": "2026-09-29"
+  }
+}

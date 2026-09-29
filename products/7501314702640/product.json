@@ -1,0 +1,39 @@
+{
+  "gtin": "7501314702640",
+  "sku": "7501314702640",
+  "linea": "Farma",
+  "nombre_sistema": "FLUMIL GOTAS 25 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flumil Gotas 25 ml",
+  "descripcion": "Descripción:\nFlumil en gotas, presentación de 25 ml. Consulte la composición, las indicaciones, la dosis y el modo de uso en el empaque del producto.\n\nPresentación:\nFrasco con 25 ml de solución en gotas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo en niños, si está embarazada o en periodo de lactancia, o si padece alguna enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flumil",
+    "presentacion": "Gotas",
+    "contenido_neto": 25,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Se supone que es un mucolítico de la marca Flumil (posible acetilcisteína), pero no se confirmó el principio activo, la concentración ni el fabricante; por eso no se incluyeron en la ficha. Categoría respiratoria provisional.",
+    "fecha": "2026-09-29"
+  }
+}

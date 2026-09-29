@@ -1,0 +1,43 @@
+{
+  "gtin": "7501943454811",
+  "sku": "7501943454811",
+  "linea": "Mark",
+  "nombre_sistema": "TAS HUM HUGG CUIDADO PURO C/80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Huggies Cuidado Puro 80 Piezas",
+  "descripcion": "Descripción:\nLas toallitas húmedas Huggies Cuidado Puro están pensadas para la limpieza suave de la piel del bebé durante el cambio de pañal y en el aseo diario de manos y cara. Vienen en un paquete práctico con 80 toallitas para tener a la mano en casa, en la pañalera o de viaje.\n\nCaracterísticas:\n- Toallitas húmedas para bebé de la marca Huggies, línea Cuidado Puro.\n- Presentación de 80 toallitas por paquete.\n- Diseñadas para una limpieza delicada de la piel del bebé.\n- Prácticas para el cambio de pañal, el aseo de manos y cara, y limpiezas rápidas fuera de casa.\n\nModo de uso:\nExtraiga una toallita del paquete, limpie suavemente la zona deseada y deséchela en el bote de basura. Cierre bien el paquete después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 80 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. No arroje las toallitas al inodoro. Evite el contacto con los ojos. Suspenda su uso si observa irritación en la piel. Mantenga fuera del alcance de los niños y no deje al bebé solo durante el cambio de pañal.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Cuidado Puro",
+    "presentacion": "Toallitas húmedas",
+    "contenido_neto": 80,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 80,
+    "edad_etapa": "Bebés",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete; Uso: Externo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (TAS HUM HUGG CUIDADO PURO C/80) y conocimiento general. Descripción genérica de toallitas para bebé; no se incluyeron datos de fórmula (porcentaje de agua, ingredientes) por no poder confirmarlos. Fabricante inferido por el prefijo del GTIN 7501943.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "gtin": "7501008498880",
+  "sku": "7501008498880",
+  "linea": "Farma",
+  "nombre_sistema": "FLANAX 550 C30TAB",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flanax 550 mg Naproxeno Sódico 30 Tabletas",
+  "descripcion": "Descripción:\nFlanax 550 mg, de Bayer, es un medicamento en tabletas cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo con acción analgésica. Se presenta en caja con 30 tabletas para administración por vía oral.\n\nBeneficios:\n- Alivio del dolor y la inflamación.\n- Se utiliza en dolores de espalda y contracturas musculares, dolor muscular, lesiones deportivas, dolores articulares y molestias menstruales.\n- Tabletas de 550 mg en presentación de 30 piezas.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg.\n\nModo de uso:\nVía oral. Tome la tableta con un vaso de agua, de preferencia con alimentos, y respete la dosis y la duración indicadas en el empaque o por su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 30 tabletas de 550 mg.\n\nAdvertencias:\nNo lo use si es alérgico al naproxeno, a la aspirina o a otros antiinflamatorios no esteroideos, ni si tiene úlcera o sangrado del estómago o del intestino. Puede causar molestias gástricas, náusea, mareo o dolor de cabeza. Evite su uso durante el embarazo y la lactancia, salvo indicación médica. Precaución en personas con hipertensión o con enfermedad del corazón, del hígado o del riñón. Si persisten las molestias, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flanax",
+    "fabricante": "Bayer",
+    "variante": "550 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.flanax.com.mx/",
+  "fuentes": [
+    "https://www.flanax.com.mx/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Flanax confirma naproxeno sódico 550 mg y sus usos; las 30 tabletas salen del nombre del sistema. El sitio no aclara si requiere receta (el naproxeno de 550 mg suele venderse con receta); si resulta con receta, usar MLM457826 (Musculoarticulares con Receta). Advertencias basadas en las habituales del naproxeno, confirmar con el instructivo.",
+    "fecha": "2026-09-29"
+  }
+}

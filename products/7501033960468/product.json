@@ -1,0 +1,43 @@
+{
+  "gtin": "7501033960468",
+  "sku": "7501033960468",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE ADV 237ML CHOCOLATE 16",
+  "nombres_sistema_alternos": [],
+  "titulo": "Suplemento Ensure Advance Chocolate 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance es un suplemento alimenticio líquido de Abbott, listo para beber, en sabor chocolate. Está formulado como una fuente de nutrición completa y balanceada que aporta proteína, vitaminas y minerales, y puede consumirse como complemento de la alimentación diaria o como parte de una dieta indicada por un profesional de la salud. Esta presentación es de 237 ml.\n\nCaracterísticas:\n- Bebida nutricional lista para tomar, sabor chocolate.\n- Aporta proteínas, vitaminas y minerales para complementar la dieta.\n- Presentación individual de 237 ml.\n\nModo de uso:\nAgite bien antes de abrir. Puede tomarse frío, como colación o como complemento de sus comidas, en la cantidad que le recomiende su médico o nutriólogo. Una vez abierto, consérvelo en refrigeración y consúmalo en el plazo indicado en la etiqueta.\n\nPresentación:\nEnvase individual de 237 ml, sabor chocolate.\n\nAdvertencias:\nNo es apto para personas con galactosemia. Contiene leche. No es adecuado como única fuente de alimento, ni para menores de un año, ni para uso parenteral. Consulte a su médico o nutriólogo antes de consumirlo si tiene una condición médica, como diabetes o enfermedad renal. Almacene el producto en un lugar fresco y seco, alejado de la luz solar.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "linea": "Advance",
+    "presentacion": "Bebida lista para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Chocolate",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad; Contiene leche: Sí"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (ENSURE ADV 237ML CHOCOLATE 16; el 16 parece ser caducidad o lote) y conocimiento general. Fabricante inferido por el prefijo del GTIN 7501033. Se omitieron datos nutrimentales (HMB, gramos de proteína, vitaminas) por no poder confirmarlos con la ficha de Abbott; completar antes de publicar. Confirmar si el envase es botella o lata.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "gtin": "7501314701773",
+  "sku": "7501314701773",
+  "linea": "Farma",
+  "nombre_sistema": "FOSFOCIL GU 3G C1 SOBRE",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fosfocil GU Fosfomicina 3 g 1 Sobre",
+  "descripcion": "Descripción:\nFosfocil GU es un antibiótico en sobre de dosis única cuyo principio activo es la fosfomicina (3 g). La sigla GU hace referencia a su uso en infecciones del aparato genitourinario, en particular de las vías urinarias, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada sobre contiene fosfomicina 3 g.\n\nModo de uso:\nVía oral. Disuelva el contenido del sobre en agua, según las instrucciones del empaque o de su médico, y tómelo de inmediato.\n\nPresentación:\nCaja con 1 sobre.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin prescripción médica.\n- No lo use si es alérgico a la fosfomicina.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si tiene problemas de los riñones.\n- Si los síntomas no mejoran en unos días, consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fosfocil",
+    "variante": "GU",
+    "presentacion": "Sobre",
+    "contenido_neto": 1,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 1,
+    "principio_activo": "Fosfomicina",
+    "concentracion": "3 g",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (FOSFOCIL GU 3G C1 SOBRE). El GTIN sigue la misma secuencia y prefijo que Fosfocil IM (...711) y Fosfocil 500 mg (...766), ambos confirmados, lo que apoya que sea la misma marca. No se declaró la sal de la fosfomicina (probablemente trometamol) ni el fabricante.",
+    "fecha": "2026-09-29"
+  }
+}

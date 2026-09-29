@@ -1,0 +1,45 @@
+{
+  "gtin": "7501943442405",
+  "sku": "7501943442405",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP PREMATURO C/30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Prematuro 30 Piezas",
+  "descripcion": "Descripción:\nHuggies Supreme Prematuro son pañales desechables de la línea Supreme, diseñados para bebés prematuros, con un tamaño pequeño que se ajusta a su cuerpo delicado. Cada paquete contiene 30 pañales.\n\nCaracterísticas:\n- Talla Prematuro, pensada para bebés nacidos antes de tiempo o de bajo peso.\n- Línea Supreme de Huggies, para el cuidado de la piel del bebé.\n- Paquete con 30 pañales desechables.\n- Ajuste cómodo con cintas ajustables.\n\nModo de uso:\nColoque el pañal por debajo del bebé, súbalo por delante y ajuste las cintas a cada lado para asegurarlo sin apretar. Cambie el pañal con frecuencia y limpie la piel del bebé en cada cambio. Para una mayor comodidad, doble el borde delantero hacia afuera si el ombligo del bebé aún no ha cicatrizado.\n\nPresentación:\nPaquete con 30 pañales desechables talla Prematuro.\n\nAdvertencias:\nDeseche el pañal usado en la basura y no lo arroje al inodoro. Mantenga las bolsas y los empaques de plástico fuera del alcance de los niños para evitar riesgo de asfixia. No deje al bebé sin supervisión durante el cambio. Consulte a su pediatra sobre el cuidado de bebés prematuros.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Supreme",
+    "variante": "Prematuro",
+    "presentacion": "Paquete",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "edad_etapa": "Prematuro",
+    "talla": "Prematuro",
+    "genero": "Unisex",
+    "otros": "Tipo: Desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema (HU SUP PREMATURO C/30) y conocimiento general. No se incluyó el rango de peso de la talla Prematuro por no poder confirmarlo. Fabricante inferido por el prefijo del GTIN 7501943.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "gtin": "7501318649071",
+  "sku": "7501318649071",
+  "linea": "Farma",
+  "nombre_sistema": "BAYCUTEN CREMA 30 G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Baycuten Crema Clotrimazol Dexametasona 30 g",
+  "descripcion": "Descripción:\nBaycuten es una crema de uso tópico de Bayer que combina clotrimazol al 1% y acetato de dexametasona. El clotrimazol es un antimicótico de amplio espectro que actúa contra dermatofitos, levaduras, mohos y otros hongos; la dexametasona ejerce un efecto antiinflamatorio, antipruriginoso y antialérgico.\n\nBeneficios:\n- Indicada en distintos tipos de eccema (de contacto, atópico, seborreico, micótico, microbiano y numular), con o sin infección secundaria por hongos o bacterias.\n- Combina en una sola crema la acción antimicótica y la antiinflamatoria.\n- Su presentación en tubo de 30 g facilita la aplicación localizada.\n\nComposición:\nCada 100 g de crema contienen: clotrimazol 1.00 g; acetato de dexametasona equivalente a 0.04 g de dexametasona; excipiente cbp 100 g.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona afectada, con un ligero masaje, dos veces al día (mañana y noche), después de limpiar y secar el área. Continúe el tratamiento cinco días después de que desaparezcan los síntomas o según indique su médico.\n\nPresentación:\nCaja con 1 tubo con 30 g de crema.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use en caso de hipersensibilidad a sus componentes, infecciones sistémicas (sífilis, tuberculosis, varicela), infecciones virales de la piel como herpes simple, rosácea o dermatitis perioral. En eccema atópico evite cubrir la zona con vendajes oclusivos. Suspender el tratamiento antes de tiempo puede provocar reacciones de rebote. Rara vez puede causar irritación, acné por esteroide, telangiectasias, exceso de vello, atrofia o estrías. Durante el embarazo y la lactancia úselo solo si su médico lo indica, por periodos cortos y en áreas limitadas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Baycuten",
+    "fabricante": "Bayer de México",
+    "variante": "Crema clotrimazol/dexametasona",
+    "presentacion": "Crema en tubo",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol y dexametasona",
+    "concentracion": "Clotrimazol 1 g y dexametasona 0.04 g por cada 100 g",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "153M80 SSA IV",
+    "otros": "Venta con receta médica; Tipo: Antimicótico con corticoide"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/baycuten.crema/22/101/6521/36",
+    "https://farmaciasmedina.com/detalleProducto/Baycuten-30-G-Crema-Tubo/7501318649071",
+    "https://farmalisto.com.mx/medicamentos-dermatologicos-con-receta/10437-comprar-baycuten-crema-caja-con-tubo-con-30-g-antimicotico-precio-7501318649071.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Requiere receta médica (contiene corticoide). Alternativa de categoría venta libre: Antimicóticos (MLM194690).",
+    "fecha": "2026-09-29"
+  }
+}

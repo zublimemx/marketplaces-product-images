@@ -1,0 +1,37 @@
+{
+  "gtin": "7501298281407",
+  "sku": "7501298281407",
+  "linea": "Farma",
+  "nombre_sistema": "SEDALMERCK EXHIBIDOR CON 200",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sedalmerck Exhibidor Con 200 Piezas",
+  "descripcion": "Descripción:\nSedalmerck es un medicamento de la marca Merck, presentado aquí en caja exhibidor con 200 piezas. La composición, las indicaciones, el modo de uso y el tipo de pieza (tabletas o sobres) deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja exhibidor con 200 piezas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sedalmerck",
+    "fabricante": "Merck",
+    "unidades_por_envase": 200,
+    "otros": "Formato de venta: Caja exhibidor con 200 piezas"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Se asume analgésico por el nombre y fabricante Merck por el nombre y el prefijo del GTIN (igual que Eutirox), pero no se confirmó la composición ni qué contiene el exhibidor (posibles sobres de dosis única). Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

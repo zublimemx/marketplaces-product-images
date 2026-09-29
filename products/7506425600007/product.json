@@ -1,0 +1,47 @@
+{
+  "gtin": "7506425600007",
+  "sku": "7506425600007",
+  "linea": "Mark",
+  "nombre_sistema": "HU CONF UNI RN/E1 C44",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies UltraConfort Unisex Recién Nacido 44 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies UltraConfort Unisex Recién Nacido (Etapa 1), de Kimberly-Clark, combinan un corte anatómico de mayor cobertura con un material ultra flexible que se adapta mejor al cuerpo del bebé desde los primeros días de vida.\n\nCaracterísticas:\n- Nuevo corte con mayor cobertura y material ultra flexible que se adapta al cuerpo.\n- Cintas Confort Flex en forma de V con 4 puntos de sujeción y cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado.\n- Cubierta interna con poros ultra absorbentes.\n- Indicador de humedad e indicador de cambio de etapa.\n- Probados dermatológicamente, con certificación Dermatest.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, con la parte delantera hacia arriba, y sujete las cintas a la altura de la cintura sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 44 pañales desechables Etapa 1 (Recién Nacido), unisex.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "UltraConfort",
+    "variante": "Unisex Recién Nacido Etapa 1",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 44,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 44,
+    "edad_etapa": "Etapa 1",
+    "talla": "Recién Nacido",
+    "genero": "Unisex",
+    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Este GTIN (7506425600007) no sigue la serie 750642560434x de los otros UltraConfort del lote, así que la línea (UltraConfort vs. otra de Huggies) y las 44 piezas quedan por confirmar en el empaque. HU CONF UNI RN/E1 se interpretó como Huggies UltraConfort Unisex Recién Nacido Etapa 1. La página oficial lista la etapa RN/1 pero no pesos ni piezas.",
+    "fecha": "2026-09-29"
+  }
+}

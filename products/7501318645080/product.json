@@ -1,0 +1,44 @@
+{
+  "gtin": "7501318645080",
+  "sku": "7501318645080",
+  "linea": "Farma",
+  "nombre_sistema": "CANESTEN V CRA 20 GR 40 AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Canesten V Crema Vaginal Clotrimazol 20 g",
+  "descripcion": "Descripción:\nCanesten V en presentación de crema vaginal, tubo de 20 g. Su principio activo es el clotrimazol, un antimicótico. Consulte en el empaque la concentración, las indicaciones, la dosis y el modo de aplicación.\n\nPresentación:\nCrema vaginal, tubo de 20 g.\n\nAdvertencias:\n- Producto de uso vaginal.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Canesten",
+    "linea": "V",
+    "presentacion": "Crema vaginal",
+    "contenido_neto": 20,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol",
+    "via_administracion": "Vaginal",
+    "edad_etapa": "Adultos",
+    "genero": "Mujer",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca (Canesten V = clotrimazol vaginal). No se confirmó la concentración ni si incluye aplicadores. Se ignoraron el 40 y la fecha de caducidad del nombre. Alternativa de categoría: Antimicóticos (MLM194690). Requiere verificar.",
+    "fecha": "2026-09-29"
+  }
+}

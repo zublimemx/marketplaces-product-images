@@ -1,0 +1,42 @@
+{
+  "gtin": "7501008433515",
+  "sku": "7501008433515",
+  "linea": "Farma",
+  "nombre_sistema": "CAFIASPIRINA C100 TABS 80",
+  "nombres_sistema_alternos": [],
+  "titulo": "Cafiaspirina Bayer 100 Tabletas",
+  "descripcion": "Descripción:\nCafiaspirina es un analgésico de Bayer en tabletas que combina ácido acetilsalicílico y cafeína. Se utiliza para el alivio del dolor de cabeza y otros dolores leves a moderados. Esta presentación es la caja con 100 tabletas.\n\nComposición:\n- Ácido acetilsalicílico\n- Cafeína\n\nModo de uso:\nVía oral. Ingiera las tabletas con agua, en la dosis que indique el instructivo del empaque o su médico.\n\nPresentación:\nCaja con 100 tabletas.\n\nAdvertencias:\n- No exceda la dosis recomendada.\n- No se recomienda en menores de edad con fiebre o infecciones virales sin indicación médica.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Cafiaspirina",
+    "fabricante": "Bayer",
+    "presentacion": "Tabletas",
+    "contenido_neto": 100,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 100,
+    "principio_activo": "Ácido acetilsalicílico y cafeína",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por conocimiento general de la marca (ácido acetilsalicílico con cafeína, Bayer). Falta confirmar la concentración (habitualmente 500 mg/40 mg) y si la caja de 100 es exhibidor de sobres o tabletas sueltas. El número 80 al final del nombre parece ser existencia, no contenido.",
+    "fecha": "2026-09-29"
+  }
+}

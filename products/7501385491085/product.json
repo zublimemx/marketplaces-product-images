@@ -1,0 +1,49 @@
+{
+  "gtin": "7501385491085",
+  "sku": "7501385491085",
+  "linea": "Farma",
+  "nombre_sistema": "DANZEN 10MG C20 TABS HORMONA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Danzen Serratiopeptidasa 10 mg 20 Tabletas",
+  "descripcion": "Descripción:\nDanzen es un medicamento de Laboratorios Hormona cuyo principio activo es la serratiopeptidasa, una enzima con acción antiinflamatoria. Se utiliza en el manejo del dolor y la inflamación (edema) asociados a golpes, hematomas y procesos infecciosos, siempre bajo supervisión médica.\n\nBeneficios:\n- Acción antiinflamatoria de tipo enzimático\n- Ayuda a disminuir la inflamación y la hinchazón asociadas a traumatismos y hematomas\n- Tabletas de 10 mg de administración oral\n\nComposición:\nSerratiopeptidasa 10 mg por tableta.\n\nModo de uso:\nVía oral. Siga la dosis y la duración del tratamiento indicadas por su médico y tome las tabletas con un poco de agua. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 20 tabletas de 10 mg.\n\nAdvertencias:\nNo lo use si es alérgico a la serratiopeptidasa o a algún componente de la fórmula. Si tiene problemas de coagulación o toma medicamentos anticoagulantes, consulte a su médico antes de usarlo. Suspenda su uso y consulte a su médico si presenta reacciones alérgicas. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Danzen",
+    "fabricante": "Laboratorios Hormona",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Serratiopeptidasa",
+    "concentracion": "10 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "76248SSAIV",
+    "otros": "Tipo: Antiinflamatorio; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM455222",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinflamatorios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos/6455-danzen-10-mg-caja-con-20-tabletas-7501385491085.html",
+    "https://farmaciasmedina.com/detalleProducto/Danzen-20-Tableta-Caja/7501385491085",
+    "https://curitek.com/producto/danzen-serratiopeptidasa/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (10 mg, 20 tabletas; algunas lo listan como grageas). Una tienda lo clasifica como medicamento con receta y su URL lo pone en analgésicos; por eso receta_mx queda en Revisar. El registro sanitario viene de una sola tienda: verificar en el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

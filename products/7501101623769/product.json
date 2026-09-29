@@ -1,0 +1,36 @@
+{
+  "gtin": "7501101623769",
+  "sku": "7501101623769",
+  "linea": "Farma",
+  "nombre_sistema": "TIAMINAL B12 50000 UI",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiaminal B12 50000 UI",
+  "descripcion": "Descripción:\nTiaminal B12 en presentación de 50000 UI. Consulte el empaque del producto para conocer su composición, forma farmacéutica, modo de uso y advertencias.\n\nPresentación:\nPresentación de 50000 UI. Consulte el empaque para conocer el contenido.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tiaminal B12",
+    "concentracion": "50000 UI",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). No se identificó la forma farmacéutica (tabletas, cápsulas o inyectable), el número de piezas ni la composición; la categoría Suplementos Alimenticios es provisional. Datos deducidos solo del nombre.",
+    "fecha": "2026-09-29"
+  }
+}

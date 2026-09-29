@@ -1,0 +1,39 @@
+{
+  "gtin": "7501300409669",
+  "sku": "7501300409669",
+  "linea": "Farma",
+  "nombre_sistema": "CEFTREX 1 GR IM SOL INY AGOSTO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ceftrex Ceftriaxona 1 g Solución Inyectable Intramuscular",
+  "descripcion": "Descripción:\nCeftrex 1 g es un antibiótico en solución inyectable para aplicación por vía intramuscular. Su principio activo es la ceftriaxona, una cefalosporina de uso médico. Es un medicamento que en México se vende con receta médica y debe ser aplicado por personal de salud.\n\nPresentación:\nCaja con 1 g de ceftriaxona en solución inyectable para vía intramuscular. Consulte el empaque para conocer los componentes incluidos en la caja.\n\nModo de uso:\nVía intramuscular, aplicada por personal de salud. La dosis y la duración del tratamiento las determina el médico.\n\nAdvertencias:\nAntibiótico de venta con receta médica. No se automedique: el uso incorrecto de los antibióticos favorece la resistencia bacteriana. No lo use si es alérgico a las cefalosporinas o a las penicilinas sin consultar antes a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ceftrex",
+    "presentacion": "Solución inyectable",
+    "principio_activo": "Ceftriaxona",
+    "concentracion": "1 g",
+    "via_administracion": "Intramuscular",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). El principio activo (ceftriaxona) se dedujo del nombre comercial, la dosis de 1 g y la vía IM; confirmar con el empaque antes de publicar. El GTIN comparte prefijo (7501300) con otros productos de Siegfried Rhein del sistema, pero el fabricante no se confirmó. Contenido de la caja (vial y diluyente) sin verificar. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

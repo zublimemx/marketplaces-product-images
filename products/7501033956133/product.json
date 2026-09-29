@@ -1,0 +1,41 @@
+{
+  "gtin": "7501033956133",
+  "sku": "7501033956133",
+  "linea": "Farma",
+  "nombre_sistema": "GLUCERNA 237ML CHTE JUNIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Glucerna Abbott Chocolate Suplemento Líquido 237 ml",
+  "descripcion": "Descripción:\nGlucerna de Abbott es un suplemento alimenticio líquido listo para beber, sabor chocolate, en presentación individual de 237 ml. Es una fórmula nutricional pensada para personas con diabetes.\n\nPresentación:\nEnvase individual con 237 ml, sabor chocolate.\n\nAdvertencias:\nConsulte la información nutrimental, los ingredientes y las advertencias del empaque. Si tiene diabetes u otra condición médica, consulte a su médico o nutriólogo antes de consumirlo.",
+  "ficha": {
+    "marca": "Glucerna",
+    "fabricante": "Abbott",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Chocolate",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por el nombre (Glucerna 237 ml chocolate, Abbott); falta confirmar variante exacta y tipo de envase. El texto sobre personas con diabetes es la posición conocida de la marca, pero debe cotejarse con la etiqueta antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

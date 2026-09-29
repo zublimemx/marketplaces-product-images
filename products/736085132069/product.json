@@ -1,0 +1,47 @@
+{
+  "gtin": "736085132069",
+  "sku": "736085132069",
+  "linea": "Farma",
+  "nombre_sistema": "NAZIL OFTENO GTS 15 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Nazil Ofteno Nafazolina 1 mg/ml Gotas Oftálmicas 15 ml",
+  "descripcion": "Descripción:\nNazil Ofteno es una solución oftálmica en gotas de Laboratorios Sophia, de la línea Ofteno. Su principio activo es la nafazolina, un vasoconstrictor de uso local que se emplea como descongestivo ocular para el enrojecimiento y la irritación leve de los ojos. Se presenta en frasco gotero de 15 ml.\n\nComposición:\n- Principio activo: nafazolina, 1 mg por ml.\n- Forma farmacéutica: solución oftálmica.\n\nModo de uso:\nVía oftálmica. Lávese las manos antes de aplicar, incline la cabeza hacia atrás y aplique las gotas indicadas sin tocar el ojo ni los párpados con la punta del gotero. Cierre bien el frasco después de cada uso y siga la dosis indicada en el instructivo o por su médico.\n\nPresentación:\nFrasco gotero con 15 ml de solución oftálmica.\n\nAdvertencias:\n- Suspenda su uso y consulte a su médico si la molestia persiste, empeora o aparece dolor ocular o cambios en la visión.\n- No use el producto si el frasco está abierto o dañado, ni comparta el frasco con otras personas.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nazil",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Ofteno",
+    "presentacion": "Solución oftálmica en gotas",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Nafazolina",
+    "concentracion": "1 mg/ml",
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad; Forma farmacéutica: Solución oftálmica"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmasmart.com/nazil-ofteno-gotas-15-ml",
+    "https://farmaciasmedina.com/detalleProducto/Nazil-Ofteno/736085132069"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (frasco de 15 ml). Fabricante, principio activo y contenido tomados de la ficha de farmasmart.com; la concentración se interpreta como 1 mg/ml (la ficha la muestra como '1 mg' para el frasco). Las indicaciones, el modo de uso y las advertencias se redactaron con información general de la nafazolina oftálmica porque la ficha consultada no las traía: verificar contra el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

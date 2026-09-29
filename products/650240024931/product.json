@@ -1,0 +1,39 @@
+{
+  "gtin": "650240024931",
+  "sku": "650240024931",
+  "linea": "Farma",
+  "nombre_sistema": "NIKZON C40 TABS MASTIC",
+  "nombres_sistema_alternos": [],
+  "titulo": "Nikzon 40 Tabletas Masticables",
+  "descripcion": "Descripción:\nNikzon en presentación de 40 tabletas masticables, producto de la línea de farmacia. Esta ficha se elaboró a partir del nombre del producto; la composición, la dosis recomendada y las advertencias del fabricante deben consultarse en el empaque original.\n\nPresentación:\nEnvase con 40 tabletas masticables.\n\nAdvertencias:\nNo exceda la dosis recomendada. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o bajo tratamiento médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nikzon",
+    "presentacion": "Tabletas masticables",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se sabe qué contiene Nikzon ni si es suplemento o medicamento; la categoría Suplementos Alimenticios es una suposición. Se interpretó MASTIC como masticables. GTIN de 12 dígitos (prefijo 650240, igual que Bio Electro del mismo lote). Investigar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

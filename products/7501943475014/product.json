@@ -1,0 +1,48 @@
+{
+  "gtin": "7501943475014",
+  "sku": "7501943475014",
+  "linea": "Mark",
+  "nombre_sistema": "DIAPRO CONF MANZGDE/10",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Adulto Diapro Confort Manzanilla Grande 10 Piezas",
+  "descripcion": "Descripción:\nDiapro Confort con Manzanilla es un pañal desechable para adulto diseñado para el manejo de la incontinencia, en talla Grande. Se presenta en paquete de 10 piezas y está pensado para brindar comodidad y protección en el uso diario de personas adultas.\n\nCaracterísticas:\n- Línea Confort, con manzanilla\n- Talla Grande\n- Desechable, para personas adultas con incontinencia\n- Paquete con 10 piezas\n\nModo de uso:\nElija la talla según las medidas de cintura y cadera indicadas en el empaque. Coloque el pañal ajustándolo a la cintura y a las piernas para lograr un buen sello. Cámbielo cuando esté húmedo o sucio y deséchelo en la basura, no en el inodoro.\n\nPresentación:\nPaquete con 10 pañales para adulto, talla Grande.\n\nAdvertencias:\nProducto desechable de un solo uso. No lo tire al inodoro. Cambie el pañal con frecuencia y mantenga limpia y seca la piel. Consulte a su médico si presenta irritaciones persistentes. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Diapro",
+    "linea": "Confort",
+    "variante": "Con manzanilla",
+    "presentacion": "Paquete de pañales",
+    "contenido_neto": 10,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 10,
+    "talla": "Grande",
+    "genero": "Unisex",
+    "edad_etapa": "Adultos",
+    "otros": "Tipo: Pañal desechable para incontinencia; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194512",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.emeritafarmacias.com/producto/diapro-conf-panal-gde-c-manza-c-10/",
+    "https://prixz.com/c/panal-diapro-confort-talla-grande-para-adulto-10-piezas-2/",
+    "https://articulo.mercadolibre.com.mx/MLM-1999367449-diapro-confort-con-manzanilla-panal-para-adulto-talla-grand-_JM"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas como Diapro Confort con manzanilla, talla Grande, 10 piezas. Algunas fichas lo nombran Diapro Básico o Anatómicos con el mismo GTIN; se usó el nombre que coincide con el sistema. No se encontró ficha del fabricante, por lo que no hay más detalles del producto (por ejemplo, tipo de cierre).",
+    "fecha": "2026-09-29"
+  }
+}

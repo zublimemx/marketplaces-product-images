@@ -1,0 +1,45 @@
+{
+  "gtin": "7501314701766",
+  "sku": "7501314701766",
+  "linea": "Farma",
+  "nombre_sistema": "FOSFOCIL C12 CAP 500MG JULIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fosfocil Fosfomicina 500 mg 12 Cápsulas",
+  "descripcion": "Descripción:\nFosfocil 500 mg es un antibiótico en cápsulas cuyo principio activo es la fosfomicina. Su uso está indicado para infecciones causadas por bacterias sensibles a la fosfomicina, siempre bajo prescripción y supervisión médica.\n\nComposición:\nCada cápsula contiene fosfomicina 500 mg.\n\nModo de uso:\nVía oral. Tome las cápsulas con un poco de agua, en la dosis y durante el tiempo que indique su médico. Complete el tratamiento aunque los síntomas mejoren.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\n- Es un antibiótico: no lo use sin prescripción médica ni suspenda el tratamiento antes de lo indicado.\n- No lo use si es alérgico a la fosfomicina.\n- Puede causar molestias digestivas como náuseas o diarrea; si la diarrea es intensa o persistente, consulte a su médico.\n- Informe a su médico si está embarazada o en periodo de lactancia, o si tiene problemas de los riñones.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Fosfocil",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Fosfomicina",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Fosfocil-12-Capsulas-Caja/7501314701766",
+    "https://www.farmaciasespecializadas.com/fosfocil-500mg-cap-caj-c-12.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (Fosfocil 500 mg, 12 cápsulas; una la marca como antibiótico con receta). Solo se vieron títulos de las fichas, por lo que no hay fabricante ni indicación específica; descripción general.",
+    "fecha": "2026-09-29"
+  }
+}

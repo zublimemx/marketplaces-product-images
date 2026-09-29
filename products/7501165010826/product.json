@@ -1,0 +1,46 @@
+{
+  "gtin": "7501165010826",
+  "sku": "7501165010826",
+  "linea": "Farma",
+  "nombre_sistema": "ENTEROGERMINA 4 BILLO C10 64",
+  "nombres_sistema_alternos": [],
+  "titulo": "Enterogermina Bacillus Clausii 4 Billones 10 Ampolletas",
+  "descripcion": "Descripción:\nEnterogermina es una suspensión oral de Sanofi que contiene esporas de Bacillus clausii, un probiótico. Se usa como coadyuvante para el equilibrio de la flora bacteriana intestinal, por ejemplo cuando se altera durante o después del tratamiento con antibióticos o en episodios de diarrea, con orientación de su médico. Cada ampolleta bebible de 5 ml aporta 4 billones (4 mil millones) de esporas.\n\nComposición:\nCada ampolleta de 5 ml contiene 4 billones de UFC de esporas de Bacillus clausii en suspensión.\n\nModo de uso:\nVía oral. Agite la ampolleta antes de usarla y tome su contenido directamente o diluido en un poco de agua, en la dosis que indique el empaque o su médico.\n\nPresentación:\nCaja con 10 ampolletas de 5 ml.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de sus componentes.\n- Si la diarrea persiste, o presenta fiebre, sangre en las heces o signos de deshidratación, acuda a su médico.\n- Personas con el sistema inmune debilitado deben consultar a su médico antes de usarlo.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Enterogermina",
+    "fabricante": "Sanofi",
+    "presentacion": "Suspensión oral en ampolletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Bacillus clausii",
+    "concentracion": "4 billones de UFC/5 ml",
+    "via_administracion": "Oral",
+    "otros": "Volumen por ampolleta: 5 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Enterogermina-Suspension-5ml/7501165010826",
+    "https://www.farmaciasespecializadas.com/enterogermina-4-billones-ufc-amp-caj-c-10.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias (4 billones UFC, 10 ampolletas de 5 ml). No se pudo leer la ficha de Farmalisto (WebFetch rechazado con 429); indicaciones y advertencias son generales del producto, verificar con el empaque. Clasificación sin receta según conocimiento general, no se vio en fuente.",
+    "fecha": "2026-09-29"
+  }
+}

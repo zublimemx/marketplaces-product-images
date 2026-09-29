@@ -1,0 +1,43 @@
+{
+  "gtin": "7501298234601",
+  "sku": "7501298234601",
+  "linea": "Farma",
+  "nombre_sistema": "EUTIROX 100 MG C 50 TABS 90",
+  "nombres_sistema_alternos": [],
+  "titulo": "Eutirox Levotiroxina 100 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck en tabletas cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Se utiliza como tratamiento de reemplazo hormonal cuando la glándula tiroides no produce suficiente hormona, por indicación y bajo seguimiento médico. Esta presentación es de 100 mcg por tableta, en caja con 50 tabletas.\n\nComposición:\n- Levotiroxina sódica 100 mcg por tableta.\n\nModo de uso:\nVía oral. La dosis la determina y ajusta su médico según sus estudios de laboratorio; no la modifique por su cuenta. Siga las indicaciones del instructivo del empaque.\n\nPresentación:\nCaja con 50 tabletas de 100 mcg.\n\nAdvertencias:\n- No suspenda ni cambie la dosis sin indicación médica.\n- Informe a su médico sobre cualquier otro medicamento o suplemento que utilice.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eutirox",
+    "fabricante": "Merck",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "principio_activo": "Levotiroxina sódica",
+    "concentracion": "100 mcg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El nombre del sistema dice '100 MG', pero la presentación de Eutirox 100 es de 100 microgramos (mcg); se usó mcg. Datos por conocimiento general de la marca (levotiroxina, Merck). El número 90 al final del nombre parece ser existencia. Confirmar GTIN, contenido y registro sanitario antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

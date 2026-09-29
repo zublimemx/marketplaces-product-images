@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314701513",
+  "sku": "7501314701513",
+  "linea": "Farma",
+  "nombre_sistema": "ACELER CO CRA 2% 15GR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aceler Co Crema 2% 15 g",
+  "descripcion": "Descripción:\nAceler Co crema al 2%, de uso tópico, en tubo de 15 g.\n\nPresentación:\nTubo con 15 g de crema al 2%.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aceler Co",
+    "presentacion": "crema",
+    "contenido_neto": 15,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "concentracion": "2%",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudo identificar el principio activo ni el fabricante. La categoría dermatológica se supone por ser una crema; el nombre Aceler Co puede estar incompleto.",
+    "fecha": "2026-09-29"
+  }
+}

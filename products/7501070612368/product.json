@@ -1,0 +1,39 @@
+{
+  "gtin": "7501070612368",
+  "sku": "7501070612368",
+  "linea": "Farma",
+  "nombre_sistema": "TREDA C20 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Treda 20 Tabletas",
+  "descripcion": "Descripción:\nTreda en presentación de caja con 20 tabletas. Medicamento de administración oral. Consulte el empaque del producto para conocer su composición, indicaciones, dosis y advertencias.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Treda",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado: 200 de 200). No se identificó el principio activo ni el laboratorio; la categoría Otros Medicamentos es provisional y hay que reasignarla al confirmar el producto. Datos deducidos solo del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7501001258030",
+  "sku": "7501001258030",
+  "linea": "Farma",
+  "nombre_sistema": "PEPTO BISMOL C24 TABS ORIGINAL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pepto-Bismol Original 24 Tabletas",
+  "descripcion": "Descripción:\nPepto-Bismol Original es un medicamento de Procter & Gamble cuyo principio activo es el subsalicilato de bismuto, en presentación de tabletas, caja con 24 piezas.\n\nPresentación:\n- Tabletas de administración oral\n- Caja con 24 tabletas\n\nAdvertencias:\nContiene un derivado del ácido salicílico; consulte a su médico antes de usarlo si es alérgico a la aspirina o a los salicilatos. Puede oscurecer de forma temporal la lengua o las heces. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "variante": "Original",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Subsalicilato de bismuto",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre y conocimiento previo; concentración por tableta (probablemente 262 mg) y si son masticables sin verificar. Fabricante Procter & Gamble inferido por la marca.",
+    "fecha": "2026-09-29"
+  }
+}

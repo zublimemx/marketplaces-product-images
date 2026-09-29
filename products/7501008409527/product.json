@@ -1,0 +1,45 @@
+{
+  "gtin": "7501008409527",
+  "sku": "7501008409527",
+  "linea": "Farma",
+  "nombre_sistema": "REDOXON 1 NJA 10 TABS 200",
+  "nombres_sistema_alternos": [],
+  "titulo": "Redoxon Vitamina C 1 g Naranja 10 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nRedoxon Naranja de Bayer son tabletas efervescentes de vitamina C (1 g) con sabor naranja, que se disuelven en agua para preparar una bebida. Es un suplemento alimenticio a base de vitamina C.\n\nBeneficios:\n- Aporta vitamina C, nutriente antioxidante.\n- Tabletas efervescentes de fácil preparación.\n- Sabor naranja.\n\nModo de uso:\nDisuelva una tableta en un vaso con agua y tómela cuando termine la efervescencia, o siga la dosis indicada en el empaque.\n\nPresentación:\nEnvase con 10 tabletas efervescentes sabor naranja.\n\nAdvertencias:\nNo exceda la dosis recomendada. Si está embarazada, en lactancia o bajo tratamiento médico, consulte a su médico antes de consumirlo. No sustituye una dieta equilibrada. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Redoxon",
+    "fabricante": "Bayer",
+    "variante": "Naranja",
+    "presentacion": "tabletas efervescentes",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Vitamina C",
+    "concentracion": "1 g",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Naranja",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. El 1 del nombre se interpretó como 1 g de vitamina C; confirmar si es Redoxon Vitamina C sola o Doble Acción (con zinc). El 200 al final se tomó como lote.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501033956140",
+  "sku": "7501033956140",
+  "linea": "Farma",
+  "nombre_sistema": "GLUCERNA 237ML FRESA C24 MAYO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Glucerna Abbott Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nGlucerna sabor fresa es un suplemento alimenticio líquido de Abbott Nutrición, en botella de 237 ml, de la línea Glucerna diseñada para personas con diabetes. Consulte en la etiqueta el modo de uso, las porciones recomendadas y la información nutrimental.\n\nCaracterísticas:\n- Sabor fresa\n- Presentación líquida lista para beber\n- Contenido: 237 ml\n\nPresentación:\nBotella de 237 ml.\n\nAdvertencias:\n- Consulte a su médico o nutriólogo antes de usarlo, sobre todo si tiene diabetes u otra condición médica.\n- No es apto para uso parenteral (inyección).\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Glucerna",
+    "fabricante": "Abbott",
+    "presentacion": "Líquido en botella",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Fresa",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por el nombre del sistema y conocimiento general de la marca. El nombre dice C24 (caja de 24) pero el precio parece de una sola botella; se dejó como unidad de 237 ml, verificar. Se ignoró la fecha de caducidad del nombre. Requiere verificar.",
+    "fecha": "2026-09-29"
+  }
+}

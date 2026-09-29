@@ -1,0 +1,50 @@
+{
+  "gtin": "3592619321609",
+  "sku": "3592619321609",
+  "linea": "Farma",
+  "nombre_sistema": "DEXERYL CREMA 500ML EMOLIENTE PIEL SECA A MUY SECA 500G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dexeryl Crema Emoliente Piel Seca a Muy Seca 500 g",
+  "descripcion": "Descripción:\nDexeryl es una crema emoliente de Pierre Fabre diseñada para pieles secas, muy secas o con tendencia atópica. Hidrata, ayuda a restaurar la barrera cutánea y a prevenir las lesiones del eccema. Es apta para toda la familia, incluidos los recién nacidos.\n\nBeneficios:\n- Hidrata la piel y forma una capa protectora que ayuda a conservar la humedad.\n- Sin perfume y sin parabenos.\n- Indicada en signos y síntomas de sequedad cutánea (xerosis), incluyendo dermatitis atópica, ictiosis, xerosis senil, xerosis del pie diabético, xerosis urémica y eritema asociado con radioterapia.\n- Su bomba dosificadora facilita aplicar la cantidad necesaria.\n\nComposición:\nGlicerol (retiene agua para hidratar), vaselina blanca y parafina líquida (acción protectora), monoestearato de glicerol, ácido esteárico, dimeticona, macrogol 600, troleamina, carbómero y agua purificada. Referencia de concentraciones: glicerina 15%, parafina líquida 8% y vaselina 2%.\n\nModo de uso:\nAplique una capa fina sobre la piel limpia y seca, de 1 a 2 veces al día o hasta 6 aplicaciones si es necesario. Lo ideal es aplicarla después del baño, con la piel ligeramente húmeda. Producto de uso externo.\n\nPresentación:\nFrasco con bomba dosificadora de 500 g.\n\nAdvertencias:\nUso externo exclusivamente. Evite el contacto con los ojos. Suspenda su uso y consulte a su médico si presenta irritación o si la resequedad no mejora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dexeryl",
+    "fabricante": "Pierre Fabre",
+    "variante": "Crema emoliente",
+    "presentacion": "Crema en frasco con bomba",
+    "contenido_neto": 500,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Glicerol, vaselina y parafina líquida",
+    "concentracion": "Glicerol 15%, parafina líquida 8%, vaselina 2%",
+    "via_administracion": "Tópica",
+    "edad_etapa": "Toda la familia, incluidos recién nacidos",
+    "tipo_piel_cabello": "Piel seca a muy seca, con tendencia atópica",
+    "otros": "Sin perfume: Sí; Sin parabenos: Sí; Uso: Corporal"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3282776432026-56354575",
+  "fuentes": [
+    "https://www.dexeryl.com/es-mx/p/crema-emoliente-dexeryl-3282776432026-56354575",
+    "https://www.medicamentosplm.com/home/productos/dexeryl-crema/133/101/36448/36",
+    "https://curitek.com/producto/dexeryl-crema-emoliente/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM lo registra como medicamento de venta libre; por eso se ubicó en Dermatológicos Venta Libre. Como alternativa cosmética podría ir en Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal (MLM178755). La URL oficial corresponde a la ficha general de Dexeryl México, que incluye la presentación de 500 g.",
+    "fecha": "2026-09-29"
+  }
+}

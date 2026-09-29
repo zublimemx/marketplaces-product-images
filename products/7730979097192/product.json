@@ -1,0 +1,48 @@
+{
+  "gtin": "7730979097192",
+  "sku": "7730979097192",
+  "linea": "Farma",
+  "nombre_sistema": "ASOFLON DUO 050MG 040MG C 30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Asoflon Duo 0.5 mg/0.4 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nAsoflon Duo es un medicamento de Asofarma que combina dos principios activos en una sola cápsula: dutasterida (0.5 mg) y tamsulosina (0.4 mg). Está indicado en hombres adultos para el tratamiento de los síntomas de la hiperplasia prostática benigna (agrandamiento de la próstata), bajo prescripción y seguimiento médico.\n\nComposición:\nCada cápsula contiene dutasterida 0.5 mg y tamsulosina 0.4 mg.\n\nModo de uso:\nVía oral. Tome la cápsula entera con un poco de agua, siempre a la misma hora del día y sin abrirla, masticarla ni triturarla, en la dosis que indique su médico.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\n- Uso exclusivo en hombres. Las mujeres, en especial las embarazadas, y los niños no deben tocar cápsulas rotas o con fugas, porque la dutasterida se absorbe a través de la piel.\n- Puede causar mareo o baja de presión al ponerse de pie; tenga precaución al conducir u operar maquinaria.\n- Informe a su médico antes de una cirugía de cataratas si toma tamsulosina.\n- No done sangre durante el tratamiento ni en los meses posteriores a suspenderlo, según indique su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Asoflon Duo",
+    "fabricante": "Asofarma",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Dutasterida, tamsulosina",
+    "concentracion": "0.5 mg / 0.4 mg por cápsula",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "genero": "Hombre",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/35730-asoflon-duo-050-mg040-mg-30-capsulas-dutasteridatamsulosina-asofarma-7730979097192.html",
+    "https://www.farmaciasespecializadas.com/asoflon-duo-0-5-0-4-mg-cap-c-30.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias mexicanas (dutasterida 0.5 mg + tamsulosina 0.4 mg, 30 cápsulas; Farmalisto lo lista dentro de medicamentos con receta). Indicación y advertencias redactadas con información general de la combinación; no se leyó la ficha completa.",
+    "fecha": "2026-09-29"
+  }
+}

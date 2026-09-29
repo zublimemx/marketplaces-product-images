@@ -1,0 +1,44 @@
+{
+  "gtin": "300090050139",
+  "sku": "300090050139",
+  "linea": "Farma",
+  "nombre_sistema": "PROVERA TABL 10MG C 10 TABL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Provera Medroxiprogesterona 10 mg 10 Tabletas",
+  "descripcion": "Descripción:\nProvera 10 mg es un medicamento hormonal en tabletas cuyo principio activo es el acetato de medroxiprogesterona, una progestina sintética. Se emplea bajo indicación médica en trastornos relacionados con el desequilibrio hormonal, como algunas alteraciones del ciclo menstrual. Esta presentación incluye 10 tabletas de 10 mg para administración oral.\n\nComposición:\nCada tableta contiene acetato de medroxiprogesterona 10 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique su médico o el instructivo del producto. Tome las tabletas todos los días a la misma hora.\n\nPresentación:\nCaja con 10 tabletas de 10 mg.\n\nAdvertencias:\nNo debe usarse durante el embarazo. No lo use si presenta sangrado vaginal sin diagnóstico, enfermedad del hígado o antecedentes de trombosis, salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Provera",
+    "fabricante": "Pfizer",
+    "principio_activo": "Acetato de medroxiprogesterona",
+    "concentracion": "10 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad segura por el nombre (Provera 10 mg, 10 tabletas); fabricante Pfizer por conocimiento previo del prefijo UPC, no verificado. Indicaciones descritas de forma general; contrastar con la ficha oficial.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "gtin": "8020030091252",
+  "sku": "8020030091252",
+  "linea": "Farma",
+  "nombre_sistema": "VESSEL DUE F 250 CAPS50",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vessel Due F 250 LRU 50 Cápsulas",
+  "descripcion": "Descripción:\nVessel Due F 250 LRU es un medicamento de Alfasigma cuyo principio activo es la sulodexida, un antitrombótico de administración oral. Cada cápsula contiene 250 LRU (unidades lipasémicas) de sulodexida.\n\nBeneficios:\n- Según su ficha, está indicado en el tratamiento de la insuficiencia venosa crónica.\n- Se utiliza en el tratamiento de las úlceras venosas crónicas.\n- Se indica en la claudicación intermitente sintomática por enfermedad arterial oclusiva periférica (estadio II).\n\nComposición:\nCada cápsula contiene sulodexida 250 LRU.\n\nModo de uso:\nVía oral. Las cápsulas deben ingerirse con líquido y separadas de las comidas. La dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 50 cápsulas.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a la sulodexida, a la heparina o a sustancias similares, ni en pacientes con enfermedad o diátesis hemorrágica. No se recomienda en menores de 18 años. Precaución si toma anticoagulantes orales, ya que puede aumentar su efecto. Evite su uso durante el embarazo y la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vessel",
+    "fabricante": "Alfasigma",
+    "linea": "Due F",
+    "variante": "250 LRU",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 50,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 50,
+    "principio_activo": "Sulodexida",
+    "concentracion": "250 LRU",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "043M99 SSA IV",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "MLM457825",
+      "catalogo_id": "MLM39474253"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/9344-vessel-due-f-250-lru-caja-con-50-capsulas-sulodexida-laboratorio-alfasigma-rx-8020030091252.html",
+    "https://www.vademecum.es/mexico/medicamento/1277977/vessel-due-f-capsulas-25-mg",
+    "https://curitek.com/producto/vessel-due-f-sulodexida/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Medicamento con receta. En algunos catálogos MX aparece como Vessel Due F 25 mg (equivale a 250 LRU); el catálogo ML MLM39474253 se titula así. Se eligió Para la Sangre por ser antitrombótico (B01AB11); Cardiovasculares Venta Libre (MLM457817) sería la alternativa.",
+    "fecha": "2026-09-29"
+  }
+}

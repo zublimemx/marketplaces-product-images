@@ -1,0 +1,39 @@
+{
+  "gtin": "7501007532387",
+  "sku": "7501007532387",
+  "linea": "Farma",
+  "nombre_sistema": "MICROLAX ENEMAS C4 72",
+  "nombres_sistema_alternos": [],
+  "titulo": "Microlax Enema Laxante 4 Piezas",
+  "descripcion": "Descripción:\nMicrolax es un microenema de uso rectal de la marca Microlax que se utiliza como laxante para el estreñimiento ocasional. Esta presentación es la caja con 4 enemas. La composición y el volumen de cada pieza deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 4 enemas.\n\nAdvertencias:\n- Solo para uso rectal.\n- Consulte a su médico si el estreñimiento persiste.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Microlax",
+    "presentacion": "Enema rectal",
+    "contenido_neto": 4,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 4,
+    "via_administracion": "Rectal"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por el nombre y conocimiento general de la marca (microenema laxante). Falta confirmar fabricante, composición y volumen por pieza. El número 72 al final del nombre parece ser existencia, no contenido.",
+    "fecha": "2026-09-29"
+  }
+}

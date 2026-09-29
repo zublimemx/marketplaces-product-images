@@ -1,0 +1,41 @@
+{
+  "gtin": "7501050603997",
+  "sku": "7501050603997",
+  "linea": "Farma",
+  "nombre_sistema": "QUADRIDERM NF CRA 30G",
+  "nombres_sistema_alternos": [],
+  "titulo": "Quadriderm NF Crema 30 g",
+  "descripcion": "Descripción:\nQuadriderm NF es una crema de uso dermatológico que combina un corticosteroide, un antibiótico y agentes antimicóticos, para su aplicación sobre la piel. Se emplea bajo indicación médica en afecciones de la piel que cursan con inflamación e infección por bacterias u hongos. Esta presentación es un tubo con 30 g de crema.\n\nModo de uso:\nProducto de uso externo. Aplique una capa delgada sobre el área afectada, limpia y seca, con la frecuencia y la duración que indique su médico o el instructivo. No exceda el tiempo de tratamiento recomendado y lávese las manos después de aplicarlo.\n\nPresentación:\nTubo con 30 g de crema.\n\nAdvertencias:\nSolo para uso externo. No debe aplicarse en los ojos ni en las mucosas. No lo use si es alérgico a alguno de los componentes de la fórmula. El uso prolongado o en grandes extensiones de piel puede causar efectos indeseables, por lo que debe usarse solo con supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Quadriderm",
+    "variante": "NF",
+    "presentacion": "Crema",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Tubo; Uso: Externo"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre (Quadriderm NF, 30 g). Se describe la combinación de corticosteroide, antibiótico y antimicóticos de forma general; no se verificó la fórmula exacta ni el fabricante (se omitieron).",
+    "fecha": "2026-09-29"
+  }
+}

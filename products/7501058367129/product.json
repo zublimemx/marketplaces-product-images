@@ -1,0 +1,48 @@
+{
+  "gtin": "7501058367129",
+  "sku": "7501058367129",
+  "linea": "Farma",
+  "nombre_sistema": "SICO NEGRO SAFETY C3",
+  "nombres_sistema_alternos": [],
+  "titulo": "Condones Sico Safety 3 Piezas",
+  "descripcion": "Descripción:\nSico Safety son condones de hule látex natural de la marca Sico, con forma anatómica y de pared recta y lisa, diseñados para una colocación fácil y segura. Ofrecen protección contra embarazos no deseados y contra infecciones de transmisión sexual cuando se usan de forma correcta y en cada relación sexual.\n\nCaracterísticas:\n- Hule látex natural, de color natural.\n- Diseño anatómico de pared recta y lisa que facilita la colocación.\n- Lubricados con silicona.\n- Probados electrónicamente para verificar su calidad.\n- Cada condón viene en su envoltura individual sellada.\n\nModo de uso:\nVerifique la fecha de caducidad y que la envoltura esté sellada. Ábrala con cuidado, sin usar los dientes ni objetos filosos. Coloque el condón antes de cualquier contacto genital, deje espacio en la punta y, al terminar, retírelo sujetándolo por la base. Úselo una sola vez y deséchelo en la basura.\n\nPresentación:\nCaja (cartera) con 3 condones.\n\nAdvertencias:\n- Use un condón nuevo en cada relación.\n- No use lubricantes a base de aceite (vaselina, aceites o cremas), porque dañan el látex.\n- No lo use si la envoltura está dañada o si el producto está caduco.\n- No es apto para personas alérgicas al látex.\n- Conserve a no más de 30 °C, en un lugar fresco y seco, lejos de la luz directa y del calor.",
+  "ficha": {
+    "marca": "Sico",
+    "fabricante": "Reckitt Benckiser",
+    "linea": "Safety",
+    "variante": "Safety",
+    "presentacion": "Caja de preservativos masculinos",
+    "contenido_neto": 3,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 3,
+    "genero": "Hombre",
+    "registro_sanitario": "2514105007D00066",
+    "otros": "Material: Hule látex natural; Lubricado: Sí (silicona); Forma: Anatómica, pared recta y lisa; Probado electrónicamente: Sí; Formato de venta: Caja con 3"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://sanorim.mx/products/sico-safety-caja-con-3-preservativos-masculinos",
+    "https://farmalisto.com.mx/condones/15656-comprar-preservativo-sico-safety-feel-car-3-precio-7501058367129.html",
+    "https://www.chedraui.com.mx/condones-de-latex-sico-safety-3-condones-3143927/p"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda lo titula Sico Safety Feel; el nombre del sistema dice Sico Negro Safety. Las fuentes no indican el ancho, por eso no se incluye. Registro tomado de la ficha de una farmacia.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "gtin": "7501008497340",
+  "sku": "7501008497340",
+  "linea": "Farma",
+  "nombre_sistema": "FLANAX 550 C 12 TABS 162",
+  "nombres_sistema_alternos": [],
+  "titulo": "Flanax Naproxeno Sódico 550 mg 12 Tabletas",
+  "descripcion": "Descripción:\nFlanax 550 mg es un medicamento en tabletas cuyo principio activo es el naproxeno sódico, un antiinflamatorio no esteroideo con acción analgésica. Está indicado para el manejo del dolor y la inflamación, por ejemplo el dolor muscular, de espalda, cuello y hombros, así como la migraña, los cólicos menstruales (dismenorrea) y otros padecimientos dolorosos o inflamatorios como la artritis reumatoide, la gota y la espondilitis anquilosante.\n\nBeneficios:\n- Desinflama y alivia el dolor intenso muscular, de espalda, cuello y hombros.\n- Concentración de 550 mg por tableta.\n- Presentación práctica de 12 tabletas.\n\nComposición:\nCada tableta contiene naproxeno sódico 550 mg.\n\nModo de uso:\nVía oral. Ingiera la tableta entera con un vaso de agua, de preferencia con alimentos. Tome la dosis que indique su médico o el instructivo del empaque y utilice la menor dosis efectiva durante el menor tiempo posible.\n\nPresentación:\nCaja con 12 tabletas. Conservar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- No lo use si es alérgico al naproxeno, a la aspirina o a otros antiinflamatorios no esteroideos.\n- Puede causar irritación o sangrado del estómago; consulte a su médico si tiene úlcera, gastritis o enfermedad del corazón, de los riñones o del hígado.\n- No lo use durante el embarazo, sobre todo en el último trimestre, ni en la lactancia sin indicación médica.\n- No exceda la dosis recomendada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Flanax",
+    "fabricante": "Bayer",
+    "variante": "550 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Naproxeno sódico",
+    "concentracion": "550 mg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "006M90SSAVI",
+    "otros": "Forma farmacéutica: Tabletas; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/1298-flanax-550-mg-caja-con-12-tabletas-7501008497340.html",
+    "https://farmaciasmedina.com/detalleProducto/Flanax-550-Mg-Desinflama-Y-Alivia-Dolor-Intenso-Muscular,-De-Espalda,-Cuello-Y-Hombros/7501008497340"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado, caja con 12 tabletas. La ficha consultada lo clasifica como venta libre (registro tomado de esa ficha). Las advertencias son las generales de los antiinflamatorios no esteroideos; verificar contra el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

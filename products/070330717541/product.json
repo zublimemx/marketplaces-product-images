@@ -1,0 +1,48 @@
+{
+  "gtin": "070330717541",
+  "sku": "070330717541",
+  "linea": "Mark",
+  "nombre_sistema": "BIC TIRA ADVANC TIRA RASTRILLO 12 PZS OFERTA 20%",
+  "nombres_sistema_alternos": [],
+  "titulo": "Rastrillos Bic Comfort 3 Advance Piel Normal 12 Piezas",
+  "descripcion": "Descripción:\nRastrillos desechables BIC Comfort 3 Advance para hombre, versión para piel normal. Combinan tres hojas de acero inoxidable con un cabezal móvil para lograr un afeitado preciso y cómodo sin necesidad de cambiar cartuchos.\n\nCaracterísticas:\n- Tres hojas de acero inoxidable para un afeitado preciso.\n- Cabezal móvil que se adapta a los contornos del rostro y el cuello.\n- Banda lubricante que ayuda a que las hojas se deslicen suavemente sobre la piel.\n- Mango ergonómico para un buen control durante el afeitado.\n- Rastrillo desechable: se usa y se reemplaza, sin mantenimiento.\n- Tira con 12 piezas, para tener repuesto y uso frecuente en casa o de viaje.\n\nModo de uso:\nHumedezca la piel con agua tibia, aplique espuma o gel de afeitar y rasure en la dirección del crecimiento del vello con movimientos suaves y sin presionar en exceso. Enjuague la hoja con agua después de cada pasada y déjelo secar en un lugar seco.\n\nPresentación:\nTira con 12 rastrillos desechables.\n\nAdvertencias:\nContiene hojas filosas: manténgalo fuera del alcance de los niños y proteja las hojas cuando no lo utilice. No comparta el rastrillo con otras personas. Deséchelo cuando la hoja pierda filo o se dañe. No lo use sobre piel irritada, con heridas o lunares elevados.",
+  "ficha": {
+    "marca": "BIC",
+    "fabricante": "BIC",
+    "linea": "Comfort 3",
+    "variante": "Advance Piel Normal",
+    "presentacion": "Rastrillo desechable",
+    "contenido_neto": 12,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 12,
+    "genero": "Hombre",
+    "tipo_piel_cabello": "Piel normal",
+    "otros": "Número de hojas: 3; Cabezal: Móvil; Tipo: Desechable; Formato de venta: Tira de 12"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194011",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Rasuradoras Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://cosmos.bluesoft.com.br/produtos/70330717541-aparelho-de-barbear-bic-comfort-3-pele-normal",
+    "https://www.fahorro.com/bic-rastrillo-comfort-3-advance-4-piezas.html",
+    "https://articulo.mercadolibre.com.mx/MLM-2669144026-rastrillo-bic-comfort-3-advance-ergonomico-hombre-12-piezas-_JM"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde al rastrillo individual BIC Comfort 3 para piel normal (catálogo de Brasil); las 12 piezas y la versión Advance se infirieron del nombre del sistema y de publicaciones de 12 piezas en México. Se ignoró la leyenda de oferta del nombre.",
+    "fecha": "2026-09-29"
+  }
+}

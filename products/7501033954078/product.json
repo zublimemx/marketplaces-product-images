@@ -1,0 +1,47 @@
+{
+  "gtin": "7501033954078",
+  "sku": "7501033954078",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE 237ML FRESA JULIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ensure Líquido Abbott Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nEnsure Líquido sabor fresa es una alimentación especializada en presentación lista para beber, de Abbott Nutrición, en botella de 237 ml. Es un suplemento alimenticio que puede consumirse a cualquier hora del día como complemento de la alimentación, según las indicaciones de la etiqueta.\n\nCaracterísticas:\n- Sabor fresa\n- Presentación líquida lista para beber\n- Aporta proteínas, grasas, carbohidratos, vitaminas y minerales\n- Libre de gluten\n- Contenido: 237 ml\n\nModo de uso:\nAgite bien antes de abrir. Consuma frío o a temperatura ambiente, en la porción y con la frecuencia que le indique su médico o nutriólogo, o la que señale la etiqueta.\n\nPresentación:\nBotella de 237 ml. Conservar a temperatura ambiente controlada, entre 15 y 30 °C. Una vez abierta, refrigere y consuma en el plazo indicado en la etiqueta.\n\nAdvertencias:\n- No es apto para uso parenteral (inyección).\n- Consulte a su médico o nutriólogo antes de usarlo si tiene alguna condición médica o sigue una dieta especial.\n- Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "linea": "Ensure Líquido",
+    "presentacion": "Líquido en botella",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Fresa",
+    "registro_sanitario": "004F2020 SSA",
+    "otros": "Libre de gluten: Sí; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmalisto.com.mx/suplementos-alimenticios/1557-comprar-ensure-liquido-frasco-con-237-ml-sabor-fresa-precio-7501033954078.html",
+    "https://farmaciasmedina.com/detalleProducto/Ensure-Alimentacion-Especializada-Liquida-Para-Cualquier-Momento-Del-Dia,-Fresa/7501033954078"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 237 ml sabor fresa confirmados. Las fuentes no traen tabla nutrimental ni ingredientes, por eso no se incluyó la sección de ingredientes; conviene agregarla desde la etiqueta. Se ignoró la caducidad del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

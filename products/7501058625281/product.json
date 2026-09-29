@@ -1,0 +1,49 @@
+{
+  "gtin": "7501058625281",
+  "sku": "7501058625281",
+  "linea": "Farma",
+  "nombre_sistema": "MATERNA C 30 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Materna Vitaminas y Minerales 30 Tabletas",
+  "descripcion": "Descripción:\nMaterna es un suplemento alimenticio de vitaminas y minerales, de Nestlé, formulado para acompañar a las mujeres durante el embarazo y la lactancia. Se presenta en frasco con 30 tabletas de administración oral.\n\nCaracterísticas:\n- Suplemento alimenticio con vitaminas y minerales en una sola tableta.\n- Contiene ácido fólico (1000 mcg), además de biotina, calcio, cromo y otros minerales.\n- Frasco con 30 tabletas.\n\nComposición:\nVitaminas y minerales, entre ellos ácido fólico 1000 mcg, biotina, calcio y cromo. Consulte la tabla nutrimental del empaque para conocer la lista completa y las cantidades por tableta.\n\nModo de uso:\nVía oral. Tome una tableta al día o como lo indique su médico o nutriólogo, de preferencia con alimentos.\n\nPresentación:\nFrasco con 30 tabletas.\n\nAdvertencias:\nEs un suplemento alimenticio; no es un medicamento y no sustituye una alimentación variada y equilibrada. No exceda la dosis recomendada. Consulte a su médico antes de usarlo si está embarazada, en periodo de lactancia o si toma otros medicamentos o suplementos. Manténgase en un lugar fresco y seco. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Materna",
+    "fabricante": "Nestlé",
+    "variante": "Vitaminas y minerales",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Vitaminas y minerales (incluye ácido fólico, biotina, calcio y cromo)",
+    "concentracion": "Ácido fólico 1000 mcg",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Tipo de suplemento: Multivitamínico; Formato de venta: Frasco con 30 tabletas"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://prixz.com/c/farmacia/vitaminas-y-minerales-suplementos-alimenticios/nutricion-vitaminas-y-minerales-suplementos-alimenticios/materna-vitaminas-y-minerales-30-tabletas-frasco-acido-folico-1000-mcg/",
+    "https://www.farmalisto.com.mx/vitaminicos-y-multivitaminicos/18797-comprar-materna-frasco-con-30-tabletas-precio-7501058625281.html",
+    "https://www.farmatodo.com.mx/materna-vitaminas-y-minerales-frasco-c-30-tabletas-v1-1/p"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación confirmados. Las fuentes consultadas no traen la tabla nutrimental completa ni el modo de uso; la dosis de una tableta al día es la habitual de la marca y debe confirmarse en el empaque. El fabricante aparece como Nestlé (Farmatodo) y como Wyeth (Farmalisto).",
+    "fecha": "2026-09-29"
+  }
+}

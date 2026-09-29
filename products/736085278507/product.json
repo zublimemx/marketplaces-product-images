@@ -1,0 +1,39 @@
+{
+  "gtin": "736085278507",
+  "sku": "736085278507",
+  "linea": "Farma",
+  "nombre_sistema": "MANZANILLA SOPHIA GOTAS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Manzanilla Sophia Gotas Oftálmicas",
+  "descripcion": "Descripción:\nManzanilla Sophia en gotas, producto de la marca Sophia. Se trata de un producto de uso oftálmico a base de manzanilla; consulte en el empaque la composición completa, las indicaciones, el contenido y el modo de empleo.\n\nModo de uso:\nUso oftálmico (gotas en el ojo). Lávese las manos antes de aplicar y evite que la punta del gotero toque el ojo, los párpados o los dedos. Aplique según las indicaciones del empaque y cierre bien el frasco después de cada uso.\n\nPresentación:\nFrasco gotero.\n\nAdvertencias:\nNo lo use si el envase está dañado. Suspenda su uso si presenta dolor, enrojecimiento intenso, cambios en la visión o irritación que empeora, y consulte a su médico. Si usa lentes de contacto, retírelos antes de aplicar. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sophia",
+    "variante": "Manzanilla",
+    "presentacion": "Gotas oftálmicas",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El nombre solo dice Manzanilla Sophia gotas; se asumió uso oftálmico por conocimiento general de la marca, pero debe confirmarse. Se desconocen contenido (ml) y composición, por eso el título no lleva volumen. El GTIN de 12 dígitos no tiene prefijo mexicano (750). Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

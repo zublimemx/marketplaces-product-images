@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314701322",
+  "sku": "7501314701322",
+  "linea": "Farma",
+  "nombre_sistema": "BIOMICS 400MG CAPS C 6 CEFIXIMA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Biomics Cefixima 400 mg 6 Cápsulas",
+  "descripcion": "Descripción:\nBiomics es un medicamento cuyo principio activo es la cefixima, un antibiótico de la familia de las cefalosporinas, en cápsulas de 400 mg.\n\nComposición:\nCefixima 400 mg por cápsula. Consulte en el empaque los demás componentes.\n\nModo de uso:\nAdministre por vía oral con la dosis y duración que indique el médico.\n\nPresentación:\nCaja con 6 cápsulas de 400 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No debe usarse en caso de alergia a cefalosporinas o penicilinas sin indicación médica. Complete el tratamiento indicado por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biomics",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 6,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Cefixima",
+    "concentracion": "400 mg",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos tomados literalmente del nombre (cefixima 400 mg, 6 cápsulas). Falta confirmar fabricante. Los antibióticos requieren receta en México; se sugiere la categoría Rx aunque el dueño pidió publicar como venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

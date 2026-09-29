@@ -1,0 +1,42 @@
+{
+  "gtin": "7509546698137",
+  "sku": "7509546698137",
+  "linea": "Mark",
+  "nombre_sistema": "C DLGATE LUMIN W COHIT BRILL 66MLN",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pasta Dental Colgate Luminous White Brillante 66 ml",
+  "descripcion": "Descripción:\nColgate Luminous White es una crema dental de la línea blanqueadora de Colgate, formulada para ayudar a remover las manchas superficiales de los dientes y a mantener su brillo con el cepillado diario. Esta presentación en tubo contiene 66 ml.\n\nBeneficios:\n- Ayuda a remover manchas superficiales en los dientes.\n- Contribuye a una sonrisa más luminosa con el uso diario.\n- Tubo de 66 ml, práctico para el hogar o para llevar de viaje.\n\nModo de uso:\nColoque sobre el cepillo dental una cantidad de crema dental del tamaño de un chícharo y cepille todos los dientes por al menos dos minutos, mínimo dos veces al día, de preferencia después de cada comida. Enjuague la boca con agua.\n\nPresentación:\nTubo con 66 ml de crema dental.\n\nAdvertencias:\nUso externo en la cavidad bucal. No se ingiera. Si se ingiere accidentalmente una cantidad mayor a la usada para cepillarse, busque ayuda médica. En niños menores de 6 años, use solo una cantidad mínima del tamaño de un chícharo y supervise el cepillado. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Luminous White",
+    "variante": "Brillante",
+    "presentacion": "Crema dental",
+    "contenido_neto": 66,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad; Función: Blanqueadora"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); nombre del sistema abreviado (C DLGATE LUMIN W COHIT BRILL 66MLN). No se logró descifrar COHIT (podría ser parte del nombre de la variante o de otra sub-línea) y se asumió Brillante por BRILL; confirmar el nombre exacto de la variante y el sabor en el empaque. Fabricante inferido por el prefijo del GTIN 7509546. Se omitieron datos de flúor y sabor por no poder confirmarlos.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "gtin": "7501059225350",
+  "sku": "7501059225350",
+  "linea": "Mark",
+  "nombre_sistema": "NIDO KINDER 800G FEB27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Leche en Polvo Nido Kinder 1+ Lata 800 g",
+  "descripcion": "Descripción:\nNido Kinder 1+ de Nestlé es un alimento en polvo a base de leche para niños de corta edad, con DHA y fortificado con vitaminas y minerales. Está formulado para niños a partir de 1 año, en su etapa de exploración y crecimiento.\n\nBeneficios:\n- Con DHA y proteína en cantidad y calidad adecuadas para niños de 1 año.\n- Vitaminas A, C y D, hierro, zinc y selenio que apoyan las defensas del organismo.\n- Calcio y vitamina D que contribuyen al desarrollo de huesos y músculos.\n- Contiene cultivos probióticos que apoyan la protección del sistema respiratorio.\n- Sin azúcar añadida.\n\nIngredientes:\nSólidos de leche, leche estandarizada, maltodextrina, mezcla de aceites vegetales, fructooligosacáridos, inulina, citrato de calcio, lecitina de soya, cultivos probióticos y 15 vitaminas y minerales.\n\nModo de uso:\nSegún la ficha del fabricante, una porción se prepara con 4 cucharadas soperas de polvo y 210 ml de agua (aproximadamente 235 ml de bebida). Siga siempre las instrucciones de preparación del empaque.\n\nPresentación:\nLata con 800 g de alimento en polvo.\n\nAdvertencias:\nContiene leche y soya. Prepare la cantidad que vaya a consumir y no guarde porciones ya preparadas. Una vez abierta la lata, manténgala bien cerrada en un lugar fresco y seco. La leche materna es el mejor alimento para el bebé durante los primeros meses de vida. No es para menores de 1 año. Ante cualquier duda sobre la alimentación del niño, consulte a su pediatra.",
+  "ficha": {
+    "marca": "Nido",
+    "fabricante": "Nestlé México",
+    "linea": "Kinder",
+    "variante": "Nido Kinder 1+",
+    "presentacion": "Lata de leche en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "A partir de 1 año",
+    "otros": "Tipo: Alimento para niños de corta edad; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.nestlefamilynes.com.mx/producto/nido-kinder-1",
+  "fuentes": [
+    "https://www.nestlefamilynes.com.mx/producto/nido-kinder-1",
+    "https://farmalisto.com.mx/comida-para-bebes/2519-nido-kinder-1-a-3-anos-lata-con-800-g-de-leche-en-polvo-7501059225350.html",
+    "https://www.fahorro.com/nido-kinder-1-alimento-para-ni-os-de-corta-edad-lata-de-800-gr.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN corresponde a la versión regular (no deslactosada) de 800 g. La ficha de Nestlé indica consumo de 1 a 2 años y probiótico L. rhamnosus, mientras que las tiendas dicen 1 a 3 años y L. reuteri; la descripción evita fijar la cepa y la edad se dejó como a partir de 1 año. La categoría MLM189058 se tomó de la regla del dueño para leches infantiles.",
+    "fecha": "2026-09-29"
+  }
+}

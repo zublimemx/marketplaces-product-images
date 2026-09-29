@@ -1,0 +1,41 @@
+{
+  "gtin": "7501537164713",
+  "sku": "7501537164713",
+  "linea": "Farma",
+  "nombre_sistema": "TRIBEDOCE COMP C 30 GRAG BRULUART",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tribedoce Compuesto 30 Grageas Brulluart",
+  "descripcion": "Descripción:\nTribedoce Compuesto es un medicamento en grageas del laboratorio Brulluart, que por su nombre corresponde a una combinación de vitaminas del complejo B. Esta presentación contiene 30 grageas.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nConsulte la composición, las indicaciones y la dosis en el empaque. No exceda la dosis recomendada y evite combinarlo con otros suplementos o multivitamínicos sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tribedoce",
+    "fabricante": "Brulluart",
+    "variante": "Compuesto",
+    "presentacion": "Grageas",
+    "contenido_neto": 30,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la composición (probable B1, B6 y B12) ni las dosis; se omitió principio activo. Categoría Sistema Nervioso Venta Libre por consistencia con Bedoyecta Tri del lote 1; alternativa MLM438195 (Suplementos Alimenticios).",
+    "fecha": "2026-09-29"
+  }
+}

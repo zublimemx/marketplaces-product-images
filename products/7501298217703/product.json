@@ -1,0 +1,46 @@
+{
+  "gtin": "7501298217703",
+  "sku": "7501298217703",
+  "linea": "Farma",
+  "nombre_sistema": "DEXABION DC INY 3 X 3 ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dexabión DC Solución Inyectable 3 Jeringas Prellenadas 3 ml",
+  "descripcion": "Descripción:\nDexabión DC es una solución inyectable de doble cámara en jeringa prellenada de 3 ml que combina dexametasona, un corticosteroide antiinflamatorio, lidocaína, un anestésico local, y vitaminas del complejo B (B1, B6 y B12). Está indicado en el manejo de neuralgias, neuritis, polineuritis, ciática, tendinitis, lumbalgias, mialgias, reumatismo articular, inflamación por traumatismos, síndromes cervical y escapulohumeral, y en el periodo pre y posoperatorio, siempre bajo prescripción médica.\n\nComposición:\n- Dexametasona\n- Lidocaína\n- Vitamina B1 (tiamina)\n- Vitamina B6 (piridoxina)\n- Vitamina B12 (cianocobalamina)\nConsulte el empaque para conocer la concentración de cada componente.\n\nModo de uso:\nVía intramuscular. Debe ser aplicado por personal de salud capacitado, conforme a la dosis y a la duración que indique el médico. No reutilice la jeringa.\n\nPresentación:\nCaja con 3 jeringas prellenadas de doble cámara, de 3 ml cada una.\n\nAdvertencias:\n- No lo use si es alérgico a la dexametasona, a la lidocaína o a alguno de los componentes de la fórmula.\n- Informe a su médico si tiene diabetes, hipertensión, infecciones, úlcera del estómago o si está embarazada o en periodo de lactancia.\n- Su uso debe ser indicado y supervisado por un médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dexabión",
+    "variante": "DC (doble cámara)",
+    "presentacion": "Solución inyectable en jeringa prellenada",
+    "contenido_neto": 3,
+    "unidad_contenido": "jeringas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Dexametasona / Lidocaína / Vitaminas B1, B6 y B12",
+    "via_administracion": "Intramuscular",
+    "registro_sanitario": "89399SSAIV",
+    "otros": "Volumen por jeringa: 3 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/osteoporosis/5645-comprar-dexabion-doble-camara-solucion-inyectable-caja-con-3-jeringas-prellenadas-con-3-ml-precio-7501298217703.html",
+    "https://farmaciasmedina.com/detalleProducto/Dexabion-3-Solucion-Jeringa-Prellenada/7501298217703"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (caja con 3 jeringas de 3 ml, doble cámara). Fabricante omitido: la ficha consultada da un nombre dudoso. Registro sanitario tomado de una sola ficha; verificar contra el empaque. Clasificado como con receta (contiene dexametasona).",
+    "fecha": "2026-09-29"
+  }
+}

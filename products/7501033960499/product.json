@@ -1,0 +1,43 @@
+{
+  "gtin": "7501033960499",
+  "sku": "7501033960499",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE ADV 237ML FRESA 16",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ensure Advance Sabor Fresa 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance es un suplemento alimenticio líquido de Abbott, listo para beber, en sabor fresa. Se presenta en envase individual de 237 ml.\n\nCaracterísticas:\n- Marca: Ensure, línea Advance\n- Sabor: fresa\n- Formato listo para beber\n- Contenido: 237 ml\n\nPresentación:\nEnvase individual de 237 ml.\n\nAdvertencias:\nEste producto es un complemento alimenticio y no sustituye una alimentación variada y equilibrada. Consulte a su médico o nutriólogo antes de incluirlo en su dieta, especialmente si tiene alguna condición médica. Consérvese según las instrucciones del empaque.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "linea": "Advance",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Fresa",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto deducido del nombre; tipo de envase (botella, lata o tetra pak), ingredientes y beneficios oficiales sin verificar. Fabricante Abbott inferido por la marca y el prefijo de GTIN (7501033, igual que el producto 345). Ampliar descripción con la ficha oficial.",
+    "fecha": "2026-09-29"
+  }
+}

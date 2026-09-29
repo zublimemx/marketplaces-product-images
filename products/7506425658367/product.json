@@ -1,0 +1,40 @@
+{
+  "gtin": "7506425658367",
+  "sku": "7506425658367",
+  "linea": "Mark",
+  "nombre_sistema": "HUGG SUPR UNISEX ET6 + TAS HUM SUPR C80 C/5",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 6 + Toallitas Húmedas",
+  "descripcion": "Descripción:\nPaquete de pañales desechables Huggies Supreme Unisex Etapa 6 que se vende junto con toallitas húmedas Huggies Supreme. Huggies Supreme es la línea de pañales de la marca pensada para el cuidado diario del bebé, y las toallitas complementan la limpieza en cada cambio.\n\nCaracterísticas:\n- Pañales desechables Huggies Supreme, versión unisex\n- Etapa 6\n- Incluye toallitas húmedas Huggies Supreme\n\nModo de uso:\nElija la etapa según el peso del bebé indicado en el empaque. Ajuste el pañal a la cintura y a las piernas con las cintas adhesivas y cámbielo con frecuencia. Para las toallitas, limpie la zona con una toallita y deséchela en la basura; no las tire al inodoro.\n\nAdvertencias:\nProductos desechables de un solo uso. No tire los pañales ni las toallitas al inodoro. No deje al bebé sin supervisión durante el cambio. Suspenda el uso de las toallitas si aparece irritación y consulte a su médico. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "variante": "Con toallitas húmedas Supreme",
+    "genero": "Unisex",
+    "edad_etapa": "Etapa 6",
+    "otros": "Incluye: Toallitas húmedas de 80 piezas (por confirmar); Formato de venta: Paquete combinado"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Del nombre se dedujo pañal Huggies Supreme Unisex Etapa 6 más toallitas Supreme C80; no se pudo interpretar el C/5 final (¿5 paquetes de toallitas? ¿5 pañales?), por eso no se indica el número de pañales ni de paquetes. El fabricante Kimberly-Clark es conocimiento general de la marca. Confirmar contenido real del paquete antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

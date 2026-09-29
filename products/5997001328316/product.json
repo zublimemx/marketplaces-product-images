@@ -1,0 +1,44 @@
+{
+  "gtin": "5997001328316",
+  "sku": "5997001328316",
+  "linea": "Farma",
+  "nombre_sistema": "EVRA ETINILESTRADIOL PARCHE C3 GEDEON RICHTER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Evra Parche Anticonceptivo Transdérmico 3 Parches",
+  "descripcion": "Descripción:\nEvra es un parche transdérmico anticonceptivo hormonal combinado que libera norelgestromina y etinilestradiol a través de la piel. Se aplica una vez por semana. Esta presentación contiene 3 parches, el equivalente a un ciclo de tres semanas de uso.\n\nComposición:\nNorelgestromina y etinilestradiol.\n\nModo de uso:\nAplique un parche nuevo cada semana durante 3 semanas seguidas, en el mismo día de la semana, sobre piel limpia, seca y sin lesiones (abdomen, glúteos, parte superior externa del brazo o parte superior del torso, evitando las mamas). Después de las 3 semanas, descanse una semana sin parche. Siga siempre las indicaciones de su médico y el instructivo.\n\nPresentación:\nCaja con 3 parches transdérmicos.\n\nAdvertencias:\nNo protege contra infecciones de transmisión sexual. El fumar aumenta el riesgo de problemas cardiovasculares con los anticonceptivos hormonales combinados. No debe usarse durante el embarazo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Evra",
+    "fabricante": "Gedeon Richter",
+    "principio_activo": "Norelgestromina y etinilestradiol",
+    "presentacion": "Parche transdérmico",
+    "contenido_neto": 3,
+    "unidad_contenido": "parches",
+    "unidades_por_envase": 3,
+    "via_administracion": "Transdérmica",
+    "genero": "Mujer",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. El GTIN con prefijo 599 (Hungría) y el nombre 'Gedeon Richter' sugieren un empaque de importación que podría no ser la versión registrada en México; verificar registro sanitario y etiquetado. Composición por conocimiento general de Evra (norelgestromina/etinilestradiol).",
+    "fecha": "2026-09-29"
+  }
+}

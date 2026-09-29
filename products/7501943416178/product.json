@@ -1,0 +1,44 @@
+{
+  "gtin": "7501943416178",
+  "sku": "7501943416178",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP UNISEX RN C/40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Recién Nacido 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Supreme unisex para bebés recién nacidos, en paquete con 40 piezas.\n\nCaracterísticas:\n- Marca: Huggies, línea Supreme.\n- Etapa: Recién Nacido.\n- Género: Unisex, para niña o niño.\n- Contenido: 40 pañales desechables.\n\nPresentación:\nPaquete con 40 pañales. Consulte en el empaque el rango de peso recomendado y las instrucciones de uso.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "presentacion": "Paquete",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Recién nacido",
+    "talla": "Recién Nacido",
+    "genero": "Unisex",
+    "otros": "Tipo de pañal: Desechable; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Nombre decodificado (HU SUP UNISEX RN C/40 = Huggies Supreme Unisex Recién Nacido, 40 pañales), muy probable pero sin confirmar por GTIN. Falta el rango de peso y el catálogo de Mercado Libre.",
+    "fecha": "2026-09-29"
+  }
+}

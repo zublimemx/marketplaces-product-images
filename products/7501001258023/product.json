@@ -1,0 +1,42 @@
+{
+  "gtin": "7501001258023",
+  "sku": "7501001258023",
+  "linea": "Farma",
+  "nombre_sistema": "PEPTO BISMOL C 100 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pepto-Bismol Subsalicilato de Bismuto 100 Tabletas",
+  "descripcion": "Descripción:\nPepto-Bismol es un medicamento de Procter & Gamble cuyo principio activo es el subsalicilato de bismuto. Se usa para el alivio sintomático de malestares digestivos ocasionales como indigestión, agruras, náuseas, sensación de pesadez estomacal y diarrea ocasional. Esta presentación es en tabletas masticables, prácticas para llevar consigo.\n\nComposición:\nEl principio activo es el subsalicilato de bismuto; consulte la concentración por tableta en el empaque.\n\nModo de uso:\nVía oral. Mastique o deje disolver la tableta en la boca, en la dosis y con la frecuencia que indique el empaque. No exceda la dosis máxima diaria.\n\nPresentación:\nEnvase con 100 tabletas.\n\nAdvertencias:\n- Contiene un derivado del ácido salicílico: no lo use si es alérgico a la aspirina u otros salicilatos, ni en niños y adolescentes con infecciones virales.\n- Puede oscurecer temporalmente la lengua y las heces; esto es normal y pasajero.\n- Consulte a su médico si tiene úlcera, sangrado gastrointestinal o toma anticoagulantes, o si la diarrea dura más de dos días.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pepto-Bismol",
+    "fabricante": "Procter & Gamble",
+    "presentacion": "Tabletas masticables",
+    "contenido_neto": 100,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 100,
+    "principio_activo": "Subsalicilato de bismuto",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (PEPTO BISMOL C 100 TABS) y conocimiento general de la marca. No se declaró concentración por tableta; confirmar que exista la presentación de 100 tabletas (es poco común) y que sean masticables.",
+    "fecha": "2026-09-29"
+  }
+}

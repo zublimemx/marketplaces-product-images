@@ -1,0 +1,41 @@
+{
+  "gtin": "7501300420916",
+  "sku": "7501300420916",
+  "linea": "Farma",
+  "nombre_sistema": "CLENDIX 300MG C 16 ABRIL 27 SIEGFRIED 252",
+  "nombres_sistema_alternos": [],
+  "titulo": "Clendix 300 mg Siegfried 16 Cápsulas",
+  "descripcion": "Descripción:\nClendix 300 mg es un medicamento del laboratorio Siegfried, presentado en caja con 16 unidades. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nCaja con 16 cápsulas de 300 mg.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Clendix",
+    "fabricante": "Siegfried",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "concentracion": "300 mg",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Por conocimiento general Clendix sería clindamicina 300 mg en cápsulas (antibiótico que en México requiere receta), pero no se confirmó, por eso no se puso el principio activo. Si se confirma, cambiar receta_mx a 'Sí' y categoria_rx_sugerida a MLM457827. Que sean cápsulas también es una deducción.",
+    "fecha": "2026-09-29"
+  }
+}

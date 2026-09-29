@@ -1,0 +1,41 @@
+{
+  "gtin": "7501298265100",
+  "sku": "7501298265100",
+  "linea": "Farma",
+  "nombre_sistema": "NEUROBION 60GRAG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neurobión Vitaminas B1 B6 B12 60 Grageas",
+  "descripcion": "Descripción:\nNeurobión es un producto a base de vitaminas del complejo B: B1 (tiamina), B6 (piridoxina) y B12 (cianocobalamina), vitaminas que participan en el funcionamiento del sistema nervioso. Se presenta en caja con 60 grageas.\n\nComposición:\n- Vitamina B1 (tiamina)\n- Vitamina B6 (piridoxina)\n- Vitamina B12 (cianocobalamina)\nConsulte el empaque para conocer la cantidad de cada vitamina.\n\nModo de uso:\nVía oral. Siga la dosis que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 60 grageas.\n\nAdvertencias:\n- No lo use si es alérgico a alguno de los componentes de la fórmula.\n- No exceda la dosis recomendada.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neurobión",
+    "presentacion": "Grageas",
+    "contenido_neto": 60,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Tiamina (B1) / Piridoxina (B6) / Cianocobalamina (B12)",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). Composición (B1, B6, B12) deducida de la marca conocida, sin confirmarla en una fuente; faltan concentraciones, fabricante y registro sanitario.",
+    "fecha": "2026-09-29"
+  }
+}

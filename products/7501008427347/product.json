@@ -1,0 +1,41 @@
+{
+  "gtin": "7501008427347",
+  "sku": "7501008427347",
+  "linea": "Farma",
+  "nombre_sistema": "BEPANTHEN 30GR 100",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bepanthen Dexpantenol Pomada 30 g",
+  "descripcion": "Descripción:\nBepanthen es una pomada de Bayer cuyo principio activo es el dexpantenol (provitamina B5). Se utiliza sobre la piel para el cuidado de zonas secas, irritadas o con pequeñas lesiones superficiales. Esta presentación es el tubo de 30 g.\n\nComposición:\n- Principio activo: dexpantenol.\n\nModo de uso:\nUso tópico. Aplique una capa delgada sobre la zona limpia y seca, las veces que indique el instructivo del empaque o su médico.\n\nPresentación:\nTubo con 30 g.\n\nAdvertencias:\n- Solo para uso externo; evite el contacto con los ojos.\n- Suspenda su uso y consulte a su médico si aparece irritación o si la lesión no mejora.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bepanthen",
+    "fabricante": "Bayer",
+    "presentacion": "Pomada",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexpantenol",
+    "via_administracion": "Tópica"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). Datos por conocimiento general de la marca (dexpantenol, Bayer). Falta confirmar la concentración (habitualmente 5%), si el producto es pomada o crema y si es la versión estándar o Bebé. El número 100 al final del nombre parece ser existencia, no contenido.",
+    "fecha": "2026-09-29"
+  }
+}

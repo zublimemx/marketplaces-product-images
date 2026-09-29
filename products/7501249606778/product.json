@@ -1,0 +1,44 @@
+{
+  "gtin": "7501249606778",
+  "sku": "7501249606778",
+  "linea": "Farma",
+  "nombre_sistema": "POSTDAY 1 CPR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Postday Levonorgestrel 1.5 mg 1 Tableta",
+  "descripcion": "Descripción:\nPostday es una pastilla anticonceptiva de emergencia de una sola toma cuyo principio activo es levonorgestrel 1.5 mg. Está indicada para la anticoncepción postcoital, es decir, después de una relación sexual sin protección o cuando el método anticonceptivo falló.\n\nBeneficios:\n- Dosis única de 1.5 mg de levonorgestrel en una sola tableta.\n- Se toma por vía oral, sin necesidad de preparación.\n- Presentación individual que facilita tenerla a la mano en caso de necesitarla.\n\nComposición:\nCada tableta contiene levonorgestrel 1.5 mg.\n\nModo de uso:\nTome la tableta lo antes posible después de la relación sexual sin protección; su eficacia es mayor mientras más pronto se tome, y se recomienda hacerlo dentro de las primeras 72 horas. Si presenta vómito poco después de tomarla, consulte a su médico sobre la necesidad de tomar otra tableta.\n\nPresentación:\nCaja con 1 tableta.\n\nAdvertencias:\nNo es un método anticonceptivo de uso regular, no protege contra infecciones de transmisión sexual y no interrumpe un embarazo ya existente; no debe usarse si hay embarazo. No lo use si es alérgica al levonorgestrel. Puede causar sangrado irregular, cambios en la fecha de la menstruación, náusea, dolor de cabeza, mareo, cansancio o dolor en las mamas. Su eficacia puede disminuir con algunos anticonvulsivos, rifampicina y la hierba de San Juan. Consulte a su médico si está en lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Postday",
+    "variante": "Pastilla anticonceptiva de emergencia 1.5 mg",
+    "presentacion": "Tableta",
+    "contenido_neto": 1,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Levonorgestrel",
+    "concentracion": "1.5 mg",
+    "via_administracion": "Oral",
+    "genero": "Mujer",
+    "otros": "Uso: Anticoncepción de emergencia; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Identificación por el nombre y conocimiento general (Postday = levonorgestrel 1.5 mg, 1 tableta). Fabricante y registro sanitario pendientes. La PAE de levonorgestrel se vende sin receta en México (mismo criterio que el levonorgestrel Prudence del lote 30); ML podría restringir esta categoría, conviene verificarlo antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

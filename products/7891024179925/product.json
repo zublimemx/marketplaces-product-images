@@ -1,0 +1,42 @@
+{
+  "gtin": "7891024179925",
+  "sku": "7891024179925",
+  "linea": "Mark",
+  "nombre_sistema": "ENJ BUC COLG PERGAR S/AL C/250",
+  "nombres_sistema_alternos": [],
+  "titulo": "Enjuague Bucal Colgate Periogard Sin Alcohol 250 ml",
+  "descripcion": "Descripción:\nEnjuague bucal Colgate Periogard sin alcohol, en presentación de 250 ml. Es un producto de Colgate-Palmolive para la higiene bucal. Consulte en el empaque la fórmula completa, el modo de uso, la frecuencia recomendada y las advertencias del fabricante.\n\nCaracterísticas:\n- Fórmula sin alcohol.\n- Presentación de 250 ml.\n\nPresentación:\nFrasco de 250 ml.\n\nAdvertencias:\nUso bucal, no lo ingiera. Manténgase fuera del alcance de los niños. Si tiene alguna condición bucal o médica, consulte a su dentista o a su médico antes de usarlo.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Periogard",
+    "variante": "Sin alcohol",
+    "presentacion": "Frasco",
+    "contenido_neto": 250,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Sin alcohol: Sí; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189205",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Se interpretó PERGAR como Periogard y S/AL como sin alcohol. El GTIN empieza con 789 (prefijo de Brasil), por lo que podría ser una presentación de importación. No se confirmó el principio activo, por eso no se menciona en la descripción. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

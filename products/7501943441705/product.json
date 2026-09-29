@@ -1,0 +1,47 @@
+{
+  "gtin": "7501943441705",
+  "sku": "7501943441705",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP UNISEX E2 C38 C/6",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 2 38 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Supreme Unisex, Etapa 2, en presentación de 38 piezas. La línea Supreme de Huggies está enfocada en ofrecer suavidad superior y cuidado superior para la delicada piel del bebé, según el fabricante.\n\nCaracterísticas:\n- Línea Supreme de Huggies, con protección superior para la delicada piel del bebé.\n- Versión unisex, para niño o niña.\n- Etapa 2 (talla Chico).\n\nPresentación:\nPaquete con 38 pañales desechables.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Supreme",
+    "variante": "Unisex",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 38,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 38,
+    "edad_etapa": "Etapa 2",
+    "talla": "Chico",
+    "genero": "Unisex",
+    "otros": "Tipo de pañal: Desechable"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/linea-supreme/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/linea-supreme/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre y por la línea Supreme de la página oficial (pañales de RN a Etapa 7); la descripción es breve porque el sitio oficial no detalla características. El C/6 del nombre no se pudo interpretar; el precio sugiere un paquete de 38 piezas.",
+    "fecha": "2026-09-29"
+  }
+}

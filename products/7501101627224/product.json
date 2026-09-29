@@ -1,0 +1,41 @@
+{
+  "gtin": "7501101627224",
+  "sku": "7501101627224",
+  "linea": "Farma",
+  "nombre_sistema": "TIAMINAL TRIV B12 C 30 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiaminal Triv B12 30 Cápsulas",
+  "descripcion": "Descripción:\nTiaminal Triv B12 es un producto en cápsulas de administración oral que aporta vitaminas del complejo B, incluida la vitamina B12, como lo indica su nombre. Se presenta en caja con 30 cápsulas.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las cantidades por cápsula, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 30 cápsulas.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. No exceda la dosis recomendada. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos o suplementos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tiaminal",
+    "variante": "Triv B12",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "via_administracion": "Oral",
+    "otros": "Tipo de suplemento: Vitaminas del complejo B; Formato de venta: Caja con 30 cápsulas"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se confirmaron las vitaminas exactas, sus cantidades ni el fabricante; se omitieron. Se asumió venta libre por ser vitaminas del complejo B; si está registrado como medicamento, publicar en la subcategoría de venta libre que corresponda. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

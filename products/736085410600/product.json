@@ -1,0 +1,39 @@
+{
+  "gtin": "736085410600",
+  "sku": "736085410600",
+  "linea": "Farma",
+  "nombre_sistema": "ZEBESTEN SOL 5ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Zebesten Solución 5 ml",
+  "descripcion": "Descripción:\nZebesten es un producto de la marca del mismo nombre en presentación de solución, frasco con 5 ml. No fue posible confirmar su composición ni sus indicaciones, que deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución\n- Contenido: 5 ml\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Zebesten",
+    "presentacion": "Solución",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Producto no identificado (principio activo, vía, grupo terapéutico y fabricante desconocidos). GTIN de 12 dígitos, no probado con 0 inicial. Categoría provisional Otros Medicamentos; reasignar al identificarlo.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "gtin": "7501089804310",
+  "sku": "7501089804310",
+  "linea": "Farma",
+  "nombre_sistema": "RECOVERON N UNG 40GR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Recoveron N Ungüento 40 g",
+  "descripcion": "Descripción:\nRecoveron N es un medicamento de uso tópico en presentación de ungüento, con 40 g de producto. Es de uso externo, para aplicarse únicamente sobre la piel.\n\nPresentación:\nUngüento, presentación de 40 g.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos y las mucosas. Consulte la fórmula completa, las indicaciones y el modo de aplicación en el empaque. Suspenda su uso y consulte al médico si aparece irritación o reacción alérgica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Recoveron",
+    "variante": "N",
+    "presentacion": "Ungüento",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó la fórmula ni el fabricante; si contiene un antibiótico podría requerir receta. Descripción mínima. Repetir con búsqueda por GTIN.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "gtin": "7501314704231",
+  "sku": "7501314704231",
+  "linea": "Farma",
+  "nombre_sistema": "FESTOMAR C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Festomar 30 Piezas",
+  "descripcion": "Descripción:\nFestomar es un producto de la línea de farmacia de Laboratorios Senosiain, en presentación de 30 piezas. Esta ficha se elaboró únicamente con los datos del nombre del producto; la composición, las indicaciones y la dosis recomendada deben consultarse en el empaque original y en el instructivo que lo acompaña.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\nNo use este producto sin conocer su composición y sus indicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Festomar",
+    "fabricante": "Laboratorios Senosiain",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). No se identificó qué es Festomar (principio activo, forma farmacéutica ni concentración); por eso va en Otros Medicamentos y con receta por revisar. El fabricante se dedujo solo del prefijo GTIN 7501314 (igual que el producto 288) y no está confirmado. Investigar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

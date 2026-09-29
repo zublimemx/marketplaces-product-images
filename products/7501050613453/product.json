@@ -1,0 +1,41 @@
+{
+  "gtin": "7501050613453",
+  "sku": "7501050613453",
+  "linea": "Farma",
+  "nombre_sistema": "AFRIN ADUL SPRAY 36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Afrin Adultos Spray Nasal",
+  "descripcion": "Descripción:\nAfrin Adultos es un descongestionante nasal en spray cuyo principio activo es la oximetazolina. Se presenta en atomizador para aplicación en la nariz y está indicado para uso en adultos.\n\nPresentación:\n- Spray nasal\n- Versión para adultos\n\nAdvertencias:\nDe uso exclusivo por vía nasal. No exceda la dosis ni la duración del tratamiento indicadas en el empaque. No lo utilice en niños. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Afrin",
+    "variante": "Adultos",
+    "presentacion": "Spray nasal",
+    "unidades_por_envase": 1,
+    "principio_activo": "Oximetazolina",
+    "via_administracion": "Nasal",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Contenido (ml) y concentración no confirmados (el 36 del nombre parece lote o caducidad y se ignoró). Fabricante no confirmado (probable Bayer). Falta ficha oficial.",
+    "fecha": "2026-09-29"
+  }
+}

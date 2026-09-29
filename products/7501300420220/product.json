@@ -1,0 +1,42 @@
+{
+  "gtin": "7501300420220",
+  "sku": "7501300420220",
+  "linea": "Farma",
+  "nombre_sistema": "DORIXINA FLAM C14 TAB 180",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dorixina Flam 14 Tabletas",
+  "descripcion": "Descripción:\nDorixina Flam es un medicamento de la familia Dorixina, en tabletas, en presentación de caja con 14 piezas. Es un producto para el manejo del dolor y la inflamación, de uso bajo indicación médica. Consulte la composición, la indicación específica y la dosis recomendada en el empaque o con su médico.\n\nPresentación:\nCaja con 14 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes o a otros antiinflamatorios. Consulte a su médico si tiene problemas del estómago, del corazón, del hígado o de los riñones, o si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dorixina",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Flam",
+    "presentacion": "Tabletas",
+    "contenido_neto": 14,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 14,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. No se confirmó la composición de Dorixina Flam, por eso no se declaró principio activo ni concentración. Fabricante Siegfried Rhein inferido por el prefijo del GTIN (7501300), igual al de Dorixina Relax y Vodelan confirmados. Descripción mínima y neutral; verificar si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

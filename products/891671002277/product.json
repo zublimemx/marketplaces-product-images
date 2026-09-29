@@ -1,0 +1,42 @@
+{
+  "gtin": "891671002277",
+  "sku": "891671002277",
+  "linea": "Farma",
+  "nombre_sistema": "NORFLEX PLUS TAB50 JULIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Norflex Plus 50 Tabletas",
+  "descripcion": "Descripción:\nNorflex Plus es un medicamento en tabletas de la marca Norflex, una marca asociada a la orfenadrina, un relajante muscular. Se presenta en caja con 50 tabletas para administración oral. La composición exacta por tableta, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Tome las tabletas en la dosis y con la frecuencia que indique el instructivo o su médico. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No lo combine con otros medicamentos sin consultar antes a su médico o farmacéutico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Norflex",
+    "linea": "Plus",
+    "principio_activo": "Orfenadrina (en combinación)",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Composición y concentración no confirmadas (Norflex Plus es una combinación; verificar componentes y registro sanitario). Del nombre 'TAB50' se asumió 50 tabletas; podría leerse 50 mg, confirmar. GTIN de 12 dígitos (UPC) sin verificar.",
+    "fecha": "2026-09-29"
+  }
+}

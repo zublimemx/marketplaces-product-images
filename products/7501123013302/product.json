@@ -1,0 +1,51 @@
+{
+  "gtin": "7501123013302",
+  "sku": "7501123013302",
+  "linea": "Farma",
+  "nombre_sistema": "BEDOYECTA TRI AMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bedoyecta Tri Solución Inyectable 5 Jeringas 2 ml",
+  "descripcion": "Descripción:\nBedoyecta Tri es una solución inyectable de Laboratorios Grossman que combina tres vitaminas: hidroxocobalamina (vitamina B12), tiamina (vitamina B1) y piridoxina (vitamina B6). Se presenta en jeringas prellenadas de vidrio de 2 ml, listas para su aplicación intramuscular por personal de salud.\n\nBeneficios:\n- Aporta en una sola aplicación vitamina B12, B1 y B6.\n- Según su ficha, se utiliza en el tratamiento de deficiencias de vitaminas del complejo B.\n- Se emplea como apoyo en neuropatías nutricionales, diabéticas y alcohólicas, así como en ciática y otras neuropatías periféricas.\n- También se indica en anemia megaloblástica por deficiencia de vitamina B12.\n- Jeringa prellenada lista para usar.\n\nComposición:\nCada jeringa de 2 ml contiene:\n- Hidroxocobalamina 10,000 mcg\n- Tiamina (clorhidrato) 100 mg\n- Piridoxina (clorhidrato) 50 mg\nVehículo cbp 2 ml. Contiene alcohol bencílico como conservador.\n\nModo de uso:\nAplicación intramuscular profunda por personal de salud. La dosis media indicada en su ficha es de una a dos jeringas por semana según la gravedad del cuadro, o una aplicación cada 2 a 4 semanas en deficiencias crónicas de vitamina B12. La dosis y la duración del tratamiento deben ser determinadas por el médico.\n\nPresentación:\nCaja con 5 jeringas prellenadas de vidrio de 2 ml y 5 agujas desechables.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a los componentes, policitemia vera, embarazo ni en recién nacidos. Puede causar erupción cutánea, náusea, vómito, neuropatía periférica y, en personas sensibles, reacciones alérgicas graves. Un exceso de vitamina B6 puede provocar neuropatía periférica; informe a su médico si consume otros multivitamínicos o suplementos. Conservar en lugar fresco. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bedoyecta",
+    "fabricante": "Laboratorios Grossman",
+    "linea": "Tri",
+    "variante": "Solución inyectable 10,000 mcg/100 mg/50 mg",
+    "presentacion": "Solución inyectable en jeringa prellenada",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 5,
+    "principio_activo": "Hidroxocobalamina, tiamina y piridoxina",
+    "concentracion": "10,000 mcg/100 mg/50 mg por 2 ml",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "84847 SSA IV",
+    "otros": "Incluye agujas desechables: 5; Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": "MLM40655899"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/bedoyecta-tri-solucion-inyectable/66/101/6530/162",
+    "https://farmaciasmedina.com/detalleProducto/Bedoyecta-5-Solucion-Jeringa-Prellenada/7501123013302",
+    "https://curitek.com/producto/bedoyecta-tri-hidroxocobalamina-tiamina-piridoxina/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice AMP, pero el GTIN corresponde a Bedoyecta Tri caja con 5 jeringas prellenadas de 2 ml (una tienda la lista como 5 ampolletas). PLM indica que su venta requiere receta médica; se sugiere categoría Rx aunque el dueño pidió publicar como venta libre. Sin página de producto en bedoyecta.com.mx.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "gtin": "7590002012468",
+  "sku": "7590002012468",
+  "linea": "Farma",
+  "nombre_sistema": "VAPORUB 50GR TARRO 96",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vick VapoRub Ungüento Tópico 50 g",
+  "descripcion": "Descripción:\nVick VapoRub es un ungüento tópico de Procter & Gamble elaborado con alcanfor, mentol y aceite de eucalipto en una base de petrolato. Se aplica sobre el pecho y el cuello para ayudar a aliviar la congestión nasal de los resfriados.\n\nBeneficios:\n- Ayuda a aliviar la congestión nasal para respirar con mayor facilidad y descansar mejor.\n- Se utiliza para el alivio temporal de la tos asociada al resfriado.\n- Puede aplicarse en la zona afectada para aliviar dolores musculares leves.\n- Aroma característico a mentol y eucalipto.\n\nComposición:\nIngredientes activos: alcanfor, mentol y aceite de eucalipto. Excipientes, entre ellos petrolato, aceite de trementina, aceite de nuez moscada, aceite de hoja de cedro y timol.\n\nModo de uso:\nUso externo. Aplique una capa gruesa sobre el pecho y el cuello y frote hasta que se absorba; puede usarse por la mañana y por la noche. Para dolores musculares, frote en la zona afectada hasta cuatro veces al día. En niños mayores de 2 años, úselo bajo la supervisión de un adulto.\n\nPresentación:\nTarro con 50 g de ungüento.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a los componentes ni en menores de 2 años (contiene alcanfor). Evite el contacto con los ojos, no lo ingiera, no lo aplique en heridas ni en piel dañada, no lo introduzca en la nariz y no lo caliente directamente ni en horno de microondas por riesgo de quemaduras. Suspenda su uso si aparece irritación. Si presenta fiebre o los síntomas persisten por más de 3 días, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "linea": "VapoRub",
+    "variante": "Ungüento tópico",
+    "presentacion": "Ungüento",
+    "contenido_neto": 50,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Alcanfor, mentol y aceite de eucalipto",
+    "via_administracion": "Tópica",
+    "edad_etapa": "Niños mayores de 2 años y adultos",
+    "sabor_aroma": "Mentol y eucalipto",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Unidad; Envase: Tarro"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM19718276"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.klyns.mx/vick-vaporub-ung-50-grs/p",
+    "https://www.fahorro.com/vick-vaporub-unguento-50-g.html",
+    "https://www.medicamentosplm.com.ec/home/productos/vick-vaporub-unguento/2866/101/67381/232"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Modo de uso y precauciones tomados de la monografía PLM (Ecuador) por no encontrar el instructivo mexicano completo en línea; conviene cotejarlos con el empaque. El GTIN tiene prefijo 759 pero corresponde al VapoRub 50 g vendido en México. No se localizó página oficial de Vicks en MX.",
+    "fecha": "2026-09-29"
+  }
+}

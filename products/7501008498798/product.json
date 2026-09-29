@@ -1,0 +1,42 @@
+{
+  "gtin": "7501008498798",
+  "sku": "7501008498798",
+  "linea": "Farma",
+  "nombre_sistema": "BEPANTHEN 30GR MULTIUSOS 100",
+  "nombres_sistema_alternos": [],
+  "titulo": "Bepanthen Bayer Multiusos 30 g",
+  "descripcion": "Descripción:\nBepanthen Multiusos, de Bayer, es un producto de uso tópico que contiene dexpantenol (provitamina B5), en presentación de 30 g.\n\nComposición:\nDexpantenol. Consulte en el empaque la concentración y los demás componentes.\n\nModo de uso:\nDe uso externo. Aplíquese sobre la piel siguiendo las indicaciones del empaque.\n\nPresentación:\nTubo con 30 g.\n\nAdvertencias:\nUso externo. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bepanthen",
+    "fabricante": "Bayer",
+    "variante": "Multiusos",
+    "presentacion": "Tubo",
+    "contenido_neto": 30,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Dexpantenol",
+    "via_administracion": "Tópica"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Bepanthen 30 g, Bayer). Falta confirmar la forma (ungüento o crema), la concentración de dexpantenol (probable 5 %) y si Multiusos es la variante correcta.",
+    "fecha": "2026-09-29"
+  }
+}

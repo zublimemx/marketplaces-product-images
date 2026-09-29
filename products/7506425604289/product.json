@@ -1,0 +1,47 @@
+{
+  "gtin": "7506425604289",
+  "sku": "7506425604289",
+  "linea": "Mark",
+  "nombre_sistema": "HU CONF NINO E4 C40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Ultra Confort Niño Etapa 4 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Ultra Confort para niño, Etapa 4, en paquete con 40 piezas. Están pensados para ofrecer comodidad, ajuste y protección al bebé, con un diseño anatómico que brinda mayor cobertura y flexibilidad, según el fabricante.\n\nCaracterísticas:\n- Diseño anatómico con mayor cobertura y flexibilidad, adaptado al cuerpo del bebé.\n- Cintas Confort Flex V-Shape con cuatro puntos de sujeción para un ajuste seguro.\n- Cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado al frente en la versión para niño.\n- Cubierta interna con poros ultra absorbentes e indicador de humedad.\n- Indicador de cambio de etapa.\n- Cuenta con certificación Dermatest®.\n\nPresentación:\nPaquete con 40 pañales desechables, Etapa 4 (talla Grande), versión para niño.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Ultra Confort",
+    "variante": "Niño",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 4",
+    "talla": "Grande",
+    "genero": "Niños",
+    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre: la abreviatura HU CONF coincide con la del GTIN 7501943433090, confirmado como Huggies Ultra Confort. Las características son las de la línea en la página oficial; contenido de 40 piezas y talla Grande no verificados contra una ficha del producto.",
+    "fecha": "2026-09-29"
+  }
+}

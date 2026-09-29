@@ -1,0 +1,42 @@
+{
+  "gtin": "7501943471962",
+  "sku": "7501943471962",
+  "linea": "Mark",
+  "nombre_sistema": "TAS SUAVE MAX C/100",
+  "nombres_sistema_alternos": [],
+  "titulo": "Toallitas Húmedas Suave Max 100 Piezas",
+  "descripcion": "Descripción:\nToallitas húmedas Suave Max, en paquete de 100 piezas, pensadas para la limpieza suave de la piel del bebé durante el cambio de pañal y en el aseo diario de manos y cara. Son prácticas para llevar en la pañalera y tener a la mano en casa.\n\nCaracterísticas:\n- Toallitas húmedas en presentación grande, con 100 piezas por paquete.\n- Diseñadas para una limpieza delicada de la piel del bebé.\n- Prácticas para el cambio de pañal y para limpiezas rápidas dentro y fuera de casa.\n\nModo de uso:\nExtraiga una toallita del paquete, limpie suavemente la zona deseada y deséchela en el bote de basura. Cierre bien el paquete después de cada uso para conservar la humedad de las toallitas.\n\nPresentación:\nPaquete con 100 toallitas húmedas.\n\nAdvertencias:\nProducto de uso externo. No arroje las toallitas al inodoro. Evite el contacto con los ojos. Suspenda su uso si observa irritación en la piel. Mantenga fuera del alcance de los niños y no deje al bebé solo durante el cambio de pañal.",
+  "ficha": {
+    "marca": "Suave Max",
+    "fabricante": "Kimberly-Clark de México",
+    "presentacion": "Toallitas húmedas",
+    "contenido_neto": 100,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 100,
+    "edad_etapa": "Bebés",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete; Uso: Externo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM187794",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); nombre del sistema ambiguo (TAS SUAVE MAX C/100). No se pudo confirmar la marca real (el nombre no incluye HUGG como el id 302) ni si son toallitas de bebé o de uso general; el fabricante Kimberly-Clark se infiere solo por el prefijo del GTIN 7501943. Verificar marca y línea antes de publicar y ajustar título y categoría si no son toallitas de bebé.",
+    "fecha": "2026-09-29"
+  }
+}

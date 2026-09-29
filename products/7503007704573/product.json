@@ -1,0 +1,43 @@
+{
+  "gtin": "7503007704573",
+  "sku": "7503007704573",
+  "linea": "Farma",
+  "nombre_sistema": "HIDRASEC 10MG GRAN SOB C18",
+  "nombres_sistema_alternos": [],
+  "titulo": "Hidrasec Racecadotrilo 10 mg 18 Sobres",
+  "descripcion": "Descripción:\nHidrasec 10 mg es un medicamento en gránulos para preparar una suspensión oral, cuyo principio activo es el racecadotrilo, un antisecretor intestinal. Se utiliza como apoyo en el tratamiento sintomático de la diarrea aguda en lactantes y niños, junto con la rehidratación oral y las medidas dietéticas que indique el médico. Esta presentación incluye 18 sobres.\n\nComposición:\nCada sobre contiene racecadotrilo 10 mg.\n\nModo de uso:\nVía oral. El contenido del sobre puede mezclarse con los alimentos, con agua o con la leche del biberón, según lo indique el instructivo. La dosis depende del peso del niño y debe ser la que señale su médico. No lo use como sustituto de la rehidratación oral.\n\nPresentación:\nCaja con 18 sobres de gránulos de 10 mg.\n\nAdvertencias:\nNo lo use si el niño es alérgico al racecadotrilo o a cualquier componente de la fórmula. Si la diarrea persiste, hay sangre en las evacuaciones o fiebre alta, acuda al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hidrasec",
+    "principio_activo": "Racecadotrilo",
+    "concentracion": "10 mg",
+    "presentacion": "Gránulos en sobres",
+    "contenido_neto": 18,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 18,
+    "via_administracion": "Oral",
+    "edad_etapa": "Lactantes y niños",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Identidad por el nombre (Hidrasec = racecadotrilo); presentación de 18 sobres tomada del nombre del sistema, sin confirmar. Verificar si requiere receta, rango de edad autorizado y fabricante.",
+    "fecha": "2026-09-29"
+  }
+}

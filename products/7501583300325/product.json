@@ -1,0 +1,50 @@
+{
+  "gtin": "7501583300325",
+  "sku": "7501583300325",
+  "linea": "Farma",
+  "nombre_sistema": "UTROGESTAN 200MG CAPS14 PROGESTERONA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Utrogestan Progesterona 200 mg 14 Cápsulas",
+  "descripcion": "Descripción:\nUtrogestan contiene progesterona micronizada 200 mg, una hormona natural que puede administrarse por vía oral o vaginal según la indicación de su médico. Es un producto de Besins Healthcare.\n\nBeneficios:\nDe acuerdo con su ficha, se emplea en:\n- Síndrome premenstrual e irregularidades del ciclo menstrual.\n- Mastopatía benigna, premenopausia y soporte hormonal en la posmenopausia.\n- Insuficiencia de la fase lútea y amenaza de aborto o de parto pretérmino.\n- Por vía vaginal: insuficiencia ovárica y apoyo de la fase lútea en ciclos de fertilización in vitro.\n\nComposición:\nCada cápsula contiene progesterona micronizada 200 mg y excipientes.\n\nModo de uso:\nVía oral, con alimentos y de preferencia por la noche; o vía vaginal, con inserción profunda, también por la noche. La dosis va de 100 a 600 mg al día según la indicación y debe ser establecida por su médico.\n\nPresentación:\nCaja con 14 cápsulas blandas de 200 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use en caso de hipersensibilidad, sangrado vaginal sin diagnóstico, cáncer de mama o genital, tromboflebitis, trastornos tromboembólicos, enfermedad hepática grave o porfiria. Úselo con precaución si tiene enfermedad del corazón, epilepsia, migraña, asma o antecedente de depresión. No es un método anticonceptivo. Puede causar alteraciones menstruales, dolor de cabeza, mareo o somnolencia. Puede interactuar con ketoconazol y con medicamentos que inducen enzimas hepáticas. No está indicado durante la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Utrogestan",
+    "fabricante": "Besins Healthcare México",
+    "variante": "Progesterona 200 mg",
+    "presentacion": "Cápsulas blandas",
+    "contenido_neto": 14,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Progesterona micronizada",
+    "concentracion": "200 mg",
+    "via_administracion": "Oral o vaginal",
+    "genero": "Mujer",
+    "registro_sanitario": "188M93 SSA IV",
+    "otros": "Venta con receta médica; Tipo: Hormona (progestágeno)"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.besins-healthcare.com.mx/products/utrogestan-prometrium-progestan",
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/utrogestan.capsulas/2848/101/64486/14",
+    "https://www.besins-healthcare.com.mx/products/utrogestan-prometrium-progestan",
+    "https://farmalisto.com.mx/endocrinologia/6836-comprar-utrogestan-200-mg-perlas-14-precio-7501583300325.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Requiere receta médica. Por grupo ATC (G03) también podría ir en Uroginecológicos Venta Libre (MLM457818) / con Receta (MLM457832). La URL de Besins es la página general de la línea de progesterona; no se abrió su contenido.",
+    "fecha": "2026-09-29"
+  }
+}

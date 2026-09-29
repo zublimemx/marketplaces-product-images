@@ -1,0 +1,49 @@
+{
+  "gtin": "7502208894779",
+  "sku": "7502208894779",
+  "linea": "Farma",
+  "nombre_sistema": "TRIBEDOCE C30 TABS 100/5 MG BRULUAGSA 288",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tribedoce Vitaminas B1 B6 B12 100/5/50 30 Tabletas",
+  "descripcion": "Descripción:\nTribedoce es un medicamento en tabletas que combina tres vitaminas del complejo B: tiamina (B1), piridoxina (B6) y cianocobalamina (B12). Está fabricado en México por Bruluagsa y se utiliza en padecimientos dolorosos de origen neurológico y muscular.\n\nBeneficios:\nDe acuerdo con su ficha, está indicado en:\n- Lumbalgias, mialgias, ciática y radiculitis.\n- Polineuritis alcohólica y polineuritis diabética.\n- Tortícolis.\n- Neuralgias herpéticas, periféricas, faciales, del trigémino e intercostales.\n\nComposición:\nCada tableta contiene: mononitrato de tiamina 100 mg; clorhidrato de piridoxina 5 mg; cianocobalamina 50 mcg; excipientes cbp 1 tableta.\n\nModo de uso:\nVía oral. 3 a 4 tabletas al día, antes de los alimentos, o según lo indique su médico.\n\nPresentación:\nCaja con 30 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use en caso de hipersensibilidad a los componentes, policitemia vera, enfermedad de Leber en etapa temprana o úlcera gastroduodenal. Si recibe levodopa sola, no exceda 5 mg diarios de piridoxina; en anemia perniciosa se requiere vitamina B12 inyectada. Puede causar náusea, vómito, erupción cutánea, enrojecimiento facial pasajero o diarrea, y en personas susceptibles reacciones alérgicas graves. Puede interactuar con levodopa, fenitoína, fenobarbital, colchicina, aminoglucósidos y alcohol. En embarazo y lactancia úselo solo bajo criterio médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tribedoce",
+    "fabricante": "Bruluagsa",
+    "variante": "Vitaminas B1, B6 y B12",
+    "presentacion": "Tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Tiamina (B1), piridoxina (B6) y cianocobalamina (B12)",
+    "concentracion": "100 mg/5 mg/50 mcg",
+    "via_administracion": "Oral",
+    "registro_sanitario": "83980 SSA VI",
+    "otros": "Uso: Vitaminas neurotrópicas (neuralgias y dolor neuropático)"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/tribedoce-tabletas/73/101/10184/210",
+    "https://www.actuamed.com.mx/marca/30628",
+    "https://prixz.com/c/tribedoce-complejo-b-con-30-tabletas/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "PLM indica que su venta requiere receta médica y actuamed lo marca RX (su registro es SSA VI). Se usó la categoría de suplementos por ser combinación de vitaminas (regla del dueño); si se trata como medicamento la alternativa es Sistema Nervioso Venta Libre (MLM457812).",
+    "fecha": "2026-09-29"
+  }
+}

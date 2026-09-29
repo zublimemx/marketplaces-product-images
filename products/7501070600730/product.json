@@ -1,0 +1,42 @@
+{
+  "gtin": "7501070600730",
+  "sku": "7501070600730",
+  "linea": "Farma",
+  "nombre_sistema": "SYNCOL MAX C12 TABS SANFER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Syncol Max 12 Tabletas",
+  "descripcion": "Descripción:\nSyncol Max es un medicamento de Laboratorios Sanfer, en presentación de tabletas, caja con 12 piezas. La composición exacta, las indicaciones y la dosis deben consultarse en el empaque del producto.\n\nPresentación:\n- Tabletas\n- Caja con 12 tabletas\n\nAdvertencias:\nUtilice el producto únicamente según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Syncol",
+    "fabricante": "Sanfer",
+    "variante": "Max",
+    "presentacion": "Tabletas",
+    "contenido_neto": 12,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 12,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo, concentración e indicaciones sin confirmar. Categoría Analgésicos provisional; podría corresponder a Musculoarticulares o Antigripales según la fórmula. El laboratorio Sanfer se tomó del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

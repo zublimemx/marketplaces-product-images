@@ -1,0 +1,39 @@
+{
+  "gtin": "7501125155758",
+  "sku": "7501125155758",
+  "linea": "Farma",
+  "nombre_sistema": "VITAFUSIN SOL INY AD MULTIVITAMINICO PISA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vitafusin Multivitamínico Inyectable Adultos Pisa",
+  "descripcion": "Descripción:\nVitafusin Adultos es una solución inyectable multivitamínica de Laboratorios PiSA, formulada para uso en adultos y administrada por personal de salud.\n\nPresentación:\nSolución inyectable multivitamínica para adultos.\n\nAdvertencias:\nAdministración parenteral por personal capacitado. No lo use si presenta alergia a alguno de los componentes. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vitafusin",
+    "fabricante": "PiSA",
+    "variante": "Adultos",
+    "presentacion": "solución inyectable",
+    "via_administracion": "Parenteral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200). Faltan composición, número de piezas y forma exacta (frasco ámpula o kit con diluyente). Se interpretó AD como Adultos. Es un inyectable: la categoría de suplementos es provisional y podría ir mejor en Otros Medicamentos (MLM194677); revisar receta.",
+    "fecha": "2026-09-29"
+  }
+}

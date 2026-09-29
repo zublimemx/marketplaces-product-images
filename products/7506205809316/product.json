@@ -1,0 +1,45 @@
+{
+  "gtin": "7506205809316",
+  "sku": "7506205809316",
+  "linea": "Farma + Mark",
+  "nombre_sistema": "ENFAMIL 1 PREMIUM 800G 0 A 12 MESES",
+  "nombres_sistema_alternos": [
+    "ENFAMIL 1 PREMIUM 0 A 6M 800G PVO"
+  ],
+  "titulo": "Fórmula Infantil Enfamil 1 Premium Lata 800 g",
+  "descripcion": "Descripción:\nEnfamil 1 Premium es una fórmula infantil en polvo de Mead Johnson para bebés desde el nacimiento, en presentación de lata de 800 g. Está indicada para la alimentación de lactantes cuando la lactancia materna no es posible o se complementa, siempre con la orientación del pediatra. El empaque la señala para bebés de 0 a 12 meses.\n\nPresentación:\nLata de 800 g de fórmula en polvo.\n\nModo de uso:\nPrepare la fórmula exactamente como indica el empaque, con agua previamente hervida y enfriada, usando la medida incluida en la lata. Use biberones y utensilios limpios y esterilizados, y deseche la fórmula que el bebé no consuma.\n\nAdvertencias:\nLa leche materna es el mejor alimento para el bebé. Consulte a su pediatra antes de usar una fórmula infantil. No se recomienda para bebés con alergia a la proteína de la leche de vaca sin indicación médica. Después de abrir, mantenga la lata bien cerrada, en un lugar fresco y seco, y consúmala en el tiempo indicado en el empaque.",
+  "ficha": {
+    "marca": "Enfamil",
+    "fabricante": "Mead Johnson",
+    "linea": "Premium",
+    "variante": "Etapa 1",
+    "presentacion": "Lata en polvo",
+    "contenido_neto": 800,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "edad_etapa": "0 a 12 meses",
+    "otros": "Formato de venta: Unidad; Tipo de leche: Fórmula infantil en polvo"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189058",
+      "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (ENFAMIL 1 PREMIUM 800G 0 A 12 MESES) y conocimiento general de la marca. No se incluyó composición ni beneficios específicos por no estar verificados. Confirmar el rango de edad de Etapa 1 (el nombre dice 0 a 12 meses; en otras fuentes suele ser 0 a 6) y la ficha oficial de Mead Johnson. El GTIN tiene prefijo 7506205 (Mead Johnson).",
+    "fecha": "2026-09-29"
+  }
+}

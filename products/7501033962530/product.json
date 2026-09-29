@@ -1,0 +1,48 @@
+{
+  "gtin": "7501033962530",
+  "sku": "7501033962530",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE ADV 237ML CAFE 16",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ensure Advance Sabor Café 237 ml",
+  "descripcion": "Descripción:\nEnsure Advance de Abbott es una bebida nutricional líquida, lista para tomar, sabor café, formulada para adultos. Su fórmula combina HMB (beta-hidroxi-beta-metilbutirato), proteína y una mezcla de vitaminas y minerales, y se presenta en una botella individual de 237 ml.\n\nBeneficios:\n- Fórmula con HMB y proteína, pensada para apoyar el cuidado del músculo, según el fabricante.\n- Aporta 28 vitaminas y minerales, entre ellos calcio y vitamina D.\n- Nutrición completa y balanceada para apoyar el sistema inmune.\n- Contiene prebióticos y una mezcla de grasas vegetales con omega 3 y 6.\n- Formato individual de 237 ml, listo para consumir y fácil de llevar.\n\nComposición:\nProteína, HMB, mezcla de grasas vegetales, prebióticos y 28 vitaminas y minerales. Consulte la etiqueta nutrimental del empaque para conocer la lista completa de ingredientes y el aporte por porción.\n\nModo de uso:\nAgite antes de abrir. Se consume directamente, sin preparación, frío o a temperatura ambiente. Consulte a su médico o nutriólogo sobre la cantidad diaria recomendada para su caso.\n\nPresentación:\nBotella individual de 237 ml, sabor café.\n\nAdvertencias:\nSuplemento alimenticio; no es un medicamento ni sustituye una alimentación variada y equilibrada. Consulte a su médico o nutriólogo antes de usarlo, sobre todo si padece alguna enfermedad o alergia alimentaria, y revise la etiqueta para conocer los alérgenos. Una vez abierto, manténgalo en refrigeración y consúmalo pronto. Conserve el producto cerrado en un lugar fresco y seco.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "linea": "Advance",
+    "variante": "Sabor café",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "Adultos",
+    "sabor_aroma": "Café",
+    "otros": "Con HMB: Sí; Formato de venta: Unidad; Formato: Líquido"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+  "fuentes": [
+    "https://www.contigo.abbott/es-do/marca/ensure/advance",
+    "https://www.contigo.abbott/es-mx/marca/ensure/ensure",
+    "https://www.klyns.mx/ensure-advance-active-cafe-237-ml/p"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Se interpretó como una pieza de 237 ml; el número 16 del nombre del sistema se ignoró (probable código o caducidad), aunque también podría indicar un paquete de 16, pero el precio corresponde a una sola pieza. Las fuentes discrepan en gramos de proteína por porción (9 g y 13 g), por eso no se citan. HMB, 28 vitaminas y minerales y sabor café vienen de Abbott y de tiendas.",
+    "fecha": "2026-09-29"
+  }
+}

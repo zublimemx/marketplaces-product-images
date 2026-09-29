@@ -1,0 +1,32 @@
+{
+  "gtin": "7501050600026",
+  "sku": "7501050600026",
+  "linea": "Farma",
+  "nombre_sistema": "CELESTAMINE NS C20 TABS 5 2 5 MG JULIO 27 GRATIS 1 CLARITYNE SOL 60ML MARZO 27 240",
+  "nombres_sistema_alternos": [],
+  "titulo": "",
+  "descripcion": "",
+  "ficha": {},
+  "receta_mx": "",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "",
+      "categoria_ruta": "",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "pendiente",
+    "confianza": "",
+    "encontrado_por": "",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

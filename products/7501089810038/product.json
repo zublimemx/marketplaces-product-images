@@ -1,0 +1,40 @@
+{
+  "gtin": "7501089810038",
+  "sku": "7501089810038",
+  "linea": "Farma",
+  "nombre_sistema": "HERKLIN 120 SHAMPO",
+  "nombres_sistema_alternos": [],
+  "titulo": "Herklin Shampoo 120 ml",
+  "descripcion": "Descripción:\nHerklin es un shampoo de uso externo de la marca Herklin, que se comercializa en farmacia, para aplicarse sobre el cabello y el cuero cabelludo. Esta presentación es un frasco de 120 ml. Las indicaciones, la composición y el modo de uso específicos se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nProducto de uso externo. Aplique sobre el cabello húmedo, distribuya con un masaje suave en el cuero cabelludo, déjelo actuar el tiempo que indique el empaque y enjuague con abundante agua. Siga las instrucciones del instructivo en cuanto a frecuencia y duración del uso.\n\nPresentación:\nFrasco con 120 ml de shampoo.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos; en caso de contacto, enjuague con abundante agua. Suspenda su uso si presenta irritación. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Herklin",
+    "presentacion": "Shampoo",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Frasco; Uso: Externo"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM432657",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Tratamientos para Piojos > Shampoos y Acondicionadores",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Se asumió, sin confirmar, que Herklin es un shampoo para piojos (por eso la categoría MLM432657); si resulta ser otro tipo de shampoo medicado, cambiar a Dermatológicos Venta Libre (MLM457819) o a Shampoos y Acondicionadores. No se confirmó composición.",
+    "fecha": "2026-09-29"
+  }
+}

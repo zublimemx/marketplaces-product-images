@@ -1,0 +1,40 @@
+{
+  "gtin": "7501298215099",
+  "sku": "7501298215099",
+  "linea": "Farma",
+  "nombre_sistema": "SEDALMERCK MAX TAB24 225",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sedalmerck Max 24 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck Max en tabletas, presentación con 24 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sedalmerck",
+    "variante": "Max",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre (Sedalmerck Max, 24 tabletas; el 225 del nombre se ignoró). No se confirmaron principios activos ni fabricante; se asumió analgésico de venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

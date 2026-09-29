@@ -1,0 +1,42 @@
+{
+  "gtin": "7501070615048",
+  "sku": "7501070615048",
+  "linea": "Farma",
+  "nombre_sistema": "PRANOSINE JBE 250MG 60ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pranosine Inosina Pranobex 250 mg Jarabe 60 ml",
+  "descripcion": "Descripción:\nPranosine es un medicamento en jarabe cuyo principio activo es la inosina pranobex, con concentración de 250 mg. Se presenta en frasco de 60 ml. Su uso debe ser indicado por un médico, quien define la dosis y la duración del tratamiento; consulte en el empaque las indicaciones y la dosificación.\n\nComposición:\nInosina pranobex 250 mg (concentración indicada en el empaque).\n\nPresentación:\nFrasco con 60 ml de jarabe.\n\nAdvertencias:\nNo lo use sin indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Pranosine",
+    "presentacion": "Jarabe",
+    "contenido_neto": 60,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Inosina pranobex",
+    "concentracion": "250 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457815",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). El principio activo (inosina pranobex) se dedujo de conocimiento previo de la marca; no se confirmó ni el fabricante ni si los 250 mg son por dosis o por 5 ml. Si requiere receta, usar MLM457833 (Inmunomoduladores con Receta). Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

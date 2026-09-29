@@ -1,0 +1,45 @@
+{
+  "gtin": "041333404486",
+  "sku": "041333404486",
+  "linea": "Mark",
+  "nombre_sistema": "PILA DURACELL ALK AAA C/4+1GTS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pilas Alcalinas Duracell AAA 1.5 V 5 Piezas",
+  "descripcion": "Descripción:\nPilas alcalinas Duracell tamaño AAA de 1.5 V en paquete 4+1, con 5 pilas en total. Son pilas primarias, es decir, desechables y no recargables, pensadas para aparatos electrónicos del hogar de consumo bajo a medio.\n\nCaracterísticas:\n- Química alcalina que entrega energía estable para dispositivos de uso diario.\n- Tamaño AAA (también llamado triple A; equivale al formato LR03 o MN2400), compatible con todos los aparatos que usan este formato.\n- Voltaje nominal de 1.5 V por pila.\n- El paquete incluye 5 pilas, una más que el formato de 4 piezas, útil para tener repuesto a la mano.\n- Se usan en controles remoto de televisión y aire acondicionado, relojes de pared, calculadoras, mouse y teclados inalámbricos, linternas pequeñas, juguetes, termómetros digitales y otros aparatos compactos.\n\nModo de uso:\nAbra el compartimento de pilas del aparato, coloque cada pila respetando la polaridad (+ y -) marcada en el equipo y cierre la tapa. Cambie todas las pilas al mismo tiempo.\n\nPresentación:\nPaquete con 5 pilas alcalinas AAA (4+1).\n\nAdvertencias:\n- Pila no recargable: no intente recargarla, desarmarla, perforarla ni exponerla al fuego o a calor excesivo.\n- No mezcle pilas nuevas con usadas, ni de distintas marcas o tipos.\n- Retire las pilas del aparato si no lo va a usar por un periodo largo, para evitar derrames.\n- Manténgalas fuera del alcance de los niños; si una pila se ingiere, acuda de inmediato a atención médica.\n- Al terminar su vida útil, deposítela en un contenedor de reciclaje de pilas y no la tire con la basura común.",
+  "ficha": {
+    "marca": "Duracell",
+    "fabricante": "Duracell",
+    "variante": "Alcalina AAA 4+1",
+    "presentacion": "Paquete de pilas",
+    "contenido_neto": 5,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 5,
+    "otros": "Tipo de pila: Alcalina; Tamaño: AAA; Voltaje: 1.5 V; Recargable: No; Modelo compatible: MN2400 (LR03); Formato de venta: Paquete 4+1"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM7552",
+      "categoria_ruta": "Electrónica, Audio y Video > Pilas y Cargadores > Pilas",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://tauber.com.mx/product/pila-alcalina-aaa-duracell-promopack-c-5-pzas-duracell-41333404486",
+    "https://diten.mx/Bateria-Alcalina-Duracell-AAA-41333404486-1-5V-Paq-41333404486",
+    "https://www.abasteo.mx/Energia/Adaptadores-Cargadores-y-Pilas/Pilas/Duracell-Pila-Alcalina-AAA-5-Piezas-abast.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado con 12 dígitos (sin cero inicial) como Duracell AAA promopack 4+1 (5 piezas). No se encontró ficha del fabricante; el voltaje y el modelo MN2400 son datos estándar de la pila alcalina AAA Duracell.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501298217611",
+  "sku": "7501298217611",
+  "linea": "Farma",
+  "nombre_sistema": "NEUROBION 100MG 10MG C 5 JGA PRELL JULIO 27",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neurobion 100 mg / 10 mg 5 Jeringas Prellenadas",
+  "descripcion": "Descripción:\nNeurobion es una marca de productos con vitaminas del complejo B. Esta presentación es una solución inyectable en jeringa prellenada, con 100 mg y 10 mg de componentes por dosis, en caja con 5 jeringas. La composición exacta por jeringa, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nProducto de administración inyectable. Debe ser aplicado por personal de salud calificado, en la dosis y con la frecuencia que indique el médico. Use cada jeringa una sola vez.\n\nPresentación:\nCaja con 5 jeringas prellenadas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. No use la jeringa si el envase está dañado o la solución presenta partículas o cambio de color. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neurobion",
+    "principio_activo": "Vitaminas del complejo B",
+    "concentracion": "100 mg / 10 mg",
+    "presentacion": "Solución inyectable en jeringa prellenada",
+    "contenido_neto": 5,
+    "unidad_contenido": "jeringas",
+    "unidades_por_envase": 5,
+    "via_administracion": "Inyectable",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se confirmó la formulación exacta de la jeringa (posiblemente vitaminas B1, B6 y B12 en dosis altas). Es un inyectable: la categoría de suplementos sigue la regla de vitaminas del dueño; considerar 'Otros Medicamentos' y verificar si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

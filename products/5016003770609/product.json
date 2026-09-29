@@ -1,0 +1,42 @@
+{
+  "gtin": "5016003770609",
+  "sku": "5016003770609",
+  "linea": "Farma",
+  "nombre_sistema": "CONTOURS PLUS 50 TIRAS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiras Reactivas Contour Plus Glucosa 50 Piezas",
+  "descripcion": "Descripción:\nLas tiras reactivas Contour Plus son tiras para la medición de glucosa en sangre capilar, de la línea Contour de Ascensia Diabetes Care. Esta caja incluye 50 tiras reactivas para el automonitoreo de la glucosa en personas con diabetes, bajo la orientación de su médico.\n\nCaracterísticas:\n- Tiras reactivas de glucosa en sangre Contour Plus, con 50 piezas.\n- Tecnología sin codificación: no es necesario introducir ni confirmar un código antes de medir.\n- Requieren una muestra pequeña de sangre obtenida de la yema del dedo.\n- Se usan con medidores de glucosa compatibles de la línea Contour; verifique la compatibilidad de su medidor en el instructivo.\n\nModo de uso:\nLávese y séquese bien las manos. Inserte una tira reactiva en el medidor compatible, obtenga una gota de sangre con el dispositivo de punción y acerque la punta de la tira a la gota hasta que el medidor indique que la muestra es suficiente. Lea el resultado en la pantalla y deseche la tira usada; cada tira es de un solo uso.\n\nPresentación:\nCaja con 50 tiras reactivas.\n\nAdvertencias:\nProducto para uso diagnóstico in vitro y de uso externo. No reutilice las tiras ni las use después de la fecha de caducidad. Mantenga los envases bien cerrados y almacénelos en un lugar fresco y seco. No cambie su tratamiento con base solo en el resultado de una medición; consulte a su médico. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Contour",
+    "fabricante": "Ascensia Diabetes Care",
+    "linea": "Contour Plus",
+    "variante": "Tiras reactivas",
+    "presentacion": "Tiras reactivas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "otros": "Tipo de muestra: Sangre capilar; Requiere codificación: No; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); identificado por el nombre del sistema y conocimiento general (el prefijo 5016003 del GTIN corresponde a Bayer/Ascensia). Verificar compatibilidad con medidores, el volumen de muestra y si la caja de 50 viene en 2 envases de 25. No se usó la categoría de Farmacia porque las tiras de glucosa se publican en Medidores de Glucosa.",
+    "fecha": "2026-09-29"
+  }
+}

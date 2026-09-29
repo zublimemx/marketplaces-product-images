@@ -1,0 +1,40 @@
+{
+  "gtin": "7501300407047",
+  "sku": "7501300407047",
+  "linea": "Farma",
+  "nombre_sistema": "FEBRAX C15 TABS 275 300MG 252",
+  "nombres_sistema_alternos": [],
+  "titulo": "Febrax 300 mg 15 Tabletas",
+  "descripcion": "Descripción:\nFebrax en presentación de caja con 15 tabletas, con 300 mg según la información del producto. Medicamento de administración oral. Consulte el empaque para conocer su composición, indicaciones, dosis y advertencias.\n\nPresentación:\nCaja con 15 tabletas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Febrax",
+    "presentacion": "Tabletas",
+    "contenido_neto": 15,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 15,
+    "concentracion": "300 mg",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). No se identificó el principio activo; el nombre del sistema trae los números 275 y 300 mg y no se sabe si describen dos componentes (por ejemplo una combinación) o si 275 es un código interno. La categoría Otros Medicamentos es provisional.",
+    "fecha": "2026-09-29"
+  }
+}

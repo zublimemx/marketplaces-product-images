@@ -1,0 +1,50 @@
+{
+  "gtin": "7501318673205",
+  "sku": "7501318673205",
+  "linea": "Farma",
+  "nombre_sistema": "ASPIRINA PROTEC 100 MG C 84 TABS 120",
+  "nombres_sistema_alternos": [],
+  "titulo": "Aspirina Protect 100 mg 84 Tabletas",
+  "descripcion": "Descripción:\nAspirina Protect 100 mg es un medicamento de Bayer cuyo principio activo es el ácido acetilsalicílico en dosis baja (100 mg). Está formulado en tabletas con cubierta entérica y se usa bajo supervisión médica en la prevención de eventos cardiovasculares; no está pensado como analgésico de uso ocasional.\n\nComposición:\nCada tableta contiene ácido acetilsalicílico 100 mg.\n\nModo de uso:\nVía oral. Use la dosis que indique su médico. Trague la tableta entera con un poco de agua, sin masticarla ni partirla, para conservar su cubierta.\n\nPresentación:\nCaja con 84 tabletas.\n\nAdvertencias:\n- Puede provocar molestias o sangrado gastrointestinal; suspenda su uso y consulte a su médico si presenta dolor de estómago intenso o heces oscuras.\n- No lo use si es alérgico al ácido acetilsalicílico u otros antiinflamatorios, ni en niños y adolescentes con infecciones virales.\n- Consulte a su médico antes de usarlo junto con anticoagulantes u otros medicamentos, y durante el embarazo o la lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aspirina",
+    "fabricante": "Bayer",
+    "linea": "Protect",
+    "variante": "Tabletas con cubierta entérica",
+    "presentacion": "Tabletas",
+    "contenido_neto": 84,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 84,
+    "principio_activo": "Ácido acetilsalicílico",
+    "concentracion": "100 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "http://tienda.bayer.com/Home/DetalleDeProducto/3501?item=aspirina-protect-100-mg-84-tabletas-&clicked=1",
+  "fuentes": [
+    "https://www.farmaciasespecializadas.com/aspirina-protect-100mg-tab-caj-c-84.html",
+    "https://farmaciasmedina.com/detalleProducto/Aspirina-Protect-84-Tabletas-Caja/7501318673205",
+    "http://tienda.bayer.com/Home/DetalleDeProducto/3501?item=aspirina-protect-100-mg-84-tabletas-&clicked=1"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias y en la tienda de Bayer (100 mg, 84 tabletas). La página de Bayer redirigía en bucle al abrirla con WebFetch, así que la descripción se redactó con datos generales del ácido acetilsalicílico 100 mg con cubierta entérica; verificar indicación exacta con el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

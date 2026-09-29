@@ -1,0 +1,41 @@
+{
+  "gtin": "7501298221823",
+  "sku": "7501298221823",
+  "linea": "Farma",
+  "nombre_sistema": "NEUROBION DC 10G C3 AMP",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neurobion DC Solución Inyectable 3 Ampolletas",
+  "descripcion": "Descripción:\nNeurobion DC es un medicamento inyectable de la línea Neurobion, en caja con 3 ampolletas. Es un producto de uso médico que se administra por vía inyectable, por lo que su aplicación debe ser realizada por personal de salud calificado y bajo indicación médica. Consulte la composición, la indicación y la dosis exactas en el empaque.\n\nPresentación:\nCaja con 3 ampolletas inyectables.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Consulte a su médico si está embarazada o en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neurobion",
+    "linea": "DC",
+    "presentacion": "Solución inyectable en ampolletas",
+    "contenido_neto": 3,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 3,
+    "via_administracion": "Inyectable",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. No se confirmó la composición de Neurobion DC ni qué significa 10G del nombre del sistema (no se incluyó en el título). Descripción mínima y neutral. Verificar composición, concentración, fabricante actual y si requiere receta antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

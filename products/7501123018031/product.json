@@ -1,0 +1,40 @@
+{
+  "gtin": "7501123018031",
+  "sku": "7501123018031",
+  "linea": "Farma",
+  "nombre_sistema": "VANTAL BUCOF SOL C360ML 62",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vantal Bucofaríngeo Solución 360 ml",
+  "descripcion": "Descripción:\nVantal Bucofaríngeo es un medicamento en solución de uso bucofaríngeo, es decir, para la boca y la garganta. Esta presentación es un frasco de 360 ml.\n\nPresentación:\nFrasco con 360 ml de solución.\n\nAdvertencias:\nProducto de uso tópico en boca y garganta. No lo degluta salvo indicación del empaque. Consulte la composición, las indicaciones y el modo de uso en el empaque. Si los síntomas persisten, suspenda su uso y consulte al médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vantal",
+    "variante": "Bucofaríngeo",
+    "presentacion": "Solución",
+    "contenido_neto": 360,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Bucofaríngea"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). BUCOF se interpretó como bucofaríngeo. No se confirmó el principio activo (posiblemente bencidamina, no verificado), la concentración ni el fabricante (el prefijo del GTIN coincide con Grossman, no confirmado). Categoría tentativa.",
+    "fecha": "2026-09-29"
+  }
+}

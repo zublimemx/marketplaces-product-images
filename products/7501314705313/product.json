@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314705313",
+  "sku": "7501314705313",
+  "linea": "Farma",
+  "nombre_sistema": "AFUNGIL 150 MG C 1 TAB 1 1",
+  "nombres_sistema_alternos": [],
+  "titulo": "Afungil 150 mg 1 Tableta",
+  "descripcion": "Descripción:\nAfungil es un medicamento de la marca del mismo nombre, de la categoría de los antimicóticos, en presentación de tabletas de 150 mg, caja con 1 tableta. La composición exacta y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Tabletas\n- Concentración: 150 mg\n- Caja con 1 tableta\n\nAdvertencias:\nEste medicamento debe utilizarse únicamente según la indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Afungil",
+    "presentacion": "Tabletas",
+    "contenido_neto": 1,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "concentracion": "150 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo no confirmado (por conocimiento previo podría ser fluconazol 150 mg, que normalmente requiere receta; en ese caso usar Rx MLM457827). La categoría Antimicóticos se dedujo del nombre. Fabricante sin identificar. Ignorado el 1 1 final del nombre.",
+    "fecha": "2026-09-29"
+  }
+}

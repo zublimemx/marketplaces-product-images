@@ -1,0 +1,41 @@
+{
+  "gtin": "7501298269009",
+  "sku": "7501298269009",
+  "linea": "Farma",
+  "nombre_sistema": "NOVOTIRAL 100 MCG 20 MCG C 50 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Novotiral 100 mcg / 20 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nNovotiral es un medicamento de la marca Novotiral en tabletas, con una combinación de dos componentes cuya concentración es de 100 mcg y 20 mcg por tableta. Esta presentación es una caja con 50 tabletas para administración oral. Los principios activos, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Siga la dosis, el horario y la duración que indique su médico o el instructivo, y no modifique el tratamiento sin consultarlo.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Novotiral",
+    "concentracion": "100 mcg / 20 mcg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo confirmar el principio activo: 100 mcg/20 mcg podría ser un anticonceptivo hormonal o una combinación de hormonas tiroideas (la caja de 50 tabletas hace más probable esto último); ambos serían hormonales, por eso la categoría MLM457813. Verificar antes de publicar; probablemente requiere receta (categoría Rx MLM457834).",
+    "fecha": "2026-09-29"
+  }
+}

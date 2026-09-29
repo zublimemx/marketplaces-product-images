@@ -1,0 +1,47 @@
+{
+  "gtin": "4015630064076",
+  "sku": "4015630064076",
+  "linea": "Farma",
+  "nombre_sistema": "ACCU CHEK C50 TIRAS ACTIVE",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiras Reactivas Accu-Chek Active 50 Piezas",
+  "descripcion": "Descripción:\nTiras reactivas Accu-Chek Active, de Roche, para medir la concentración de glucosa en sangre capilar con el medidor Accu-Chek Active (el medidor no está incluido). Están diseñadas para obtener un resultado con una gota de sangre y sin necesidad de codificar.\n\nCaracterísticas:\n- Requieren una gota de sangre de 1 a 2 µl.\n- El resultado se obtiene en aproximadamente 5 segundos cuando la sangre se aplica con la tira dentro del medidor (8 segundos si se aplica fuera).\n- Permiten agregar más sangre hasta 10 segundos después de la primera aplicación.\n- No requieren codificación: incluyen un chip negro permanente.\n- Determinación fotométrica de la glucosa.\n- Zona de dosificación con malla verde y bloques de color en la etiqueta para verificar visualmente la tira y el resultado.\n- Estables hasta la fecha indicada en el envase, incluso después de abierto.\n\nModo de uso:\n1. Inserte la tira en el medidor.\n2. Puncione el dedo con un dispositivo de punción, por ejemplo Accu-Chek Softclix (no incluido).\n3. Toque con cuidado la gota de sangre con el campo verde de la tira.\n4. Lea el resultado en el medidor.\n\nPresentación:\nEnvase con 50 tiras reactivas.\n\nAdvertencias:\nUse las tiras únicamente con el medidor compatible. Mantenga el envase bien cerrado después de retirar cada tira para conservar su calidad. Consulte el manual del medidor y a su médico para interpretar los resultados. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "linea": "Active",
+    "variante": "Tiras reactivas de glucosa",
+    "presentacion": "Tiras reactivas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "edad_etapa": "Adultos",
+    "otros": "Compatible con: medidor Accu-Chek Active; Volumen de muestra: 1 a 2 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Fotométrica; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM37784929"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-active",
+  "fuentes": [
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-active",
+    "https://farmaciasmedina.com/detalleProducto.php?name=Accu-Chek+Active+50+Tiras+Reactivas+&producto=4015630064076",
+    "https://www.mercadolibre.com.mx/accu-chek-active-50-tiras-reactivas/p/MLM37784929"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Es un insumo para diagnóstico, no un medicamento. En los CSV de categorías no hay una hoja específica para tiras reactivas de glucosa; se usó Medidores de Glucosa (la de más publicaciones). Verificar en ML si existe una categoría propia de tiras reactivas.",
+    "fecha": "2026-09-29"
+  }
+}

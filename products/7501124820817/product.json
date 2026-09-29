@@ -1,0 +1,44 @@
+{
+  "gtin": "7501124820817",
+  "sku": "7501124820817",
+  "linea": "Farma",
+  "nombre_sistema": "TRAVATAN SOL 0.004% 2.5ML TRAVOPROST NOVARTIS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Travatan Travoprost 0.004% Solución Oftálmica 2.5 ml",
+  "descripcion": "Descripción:\nTravatan es una solución oftálmica de travoprost al 0.004% (40 microgramos por ml) en frasco gotero de 2.5 ml. El travoprost es un análogo de prostaglandinas que se utiliza para disminuir la presión intraocular en pacientes con glaucoma de ángulo abierto o hipertensión ocular. Es un medicamento de prescripción médica; su dosis y duración deben ser indicadas por el oftalmólogo.\n\nComposición:\nTravoprost 0.004%.\n\nModo de uso:\nUso oftálmico (gotas en el ojo). Lávese las manos, evite tocar la punta del gotero con el ojo o con los dedos y aplique la dosis que le indique su médico. Si usa otros medicamentos oftálmicos, espere al menos cinco minutos entre cada aplicación. Si usa lentes de contacto, retírelos antes de aplicar y espere 15 minutos para volver a colocarlos.\n\nPresentación:\nFrasco gotero con 2.5 ml de solución oftálmica.\n\nAdvertencias:\nMedicamento cuya venta requiere receta médica. Puede causar cambios graduales en el color del iris y en la piel o las pestañas alrededor del ojo. Mantenga el frasco bien cerrado. Suspenda su uso y consulte a su médico si presenta enrojecimiento intenso, dolor o alteraciones en la visión. No lo use durante el embarazo salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Travatan",
+    "fabricante": "Novartis",
+    "presentacion": "Solución oftálmica",
+    "contenido_neto": 2.5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Travoprost",
+    "concentracion": "0.004%",
+    "via_administracion": "Oftálmica",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "MLM457829",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (0.004 %, 2.5 ml, travoprost, Novartis) y conocimiento general de la marca; sin fuentes. Confirmar fabricante actual (Novartis o Alcon) y advertencias con el empaque. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

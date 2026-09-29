@@ -1,0 +1,47 @@
+{
+  "gtin": "7896009490651",
+  "sku": "7896009490651",
+  "linea": "Farma",
+  "nombre_sistema": "COREGA 40G S SABOR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Adhesivo para Dentadura Corega Ultra Crema Sin Sabor 40 g",
+  "descripcion": "Descripción:\nCorega Ultra Crema es un adhesivo en crema para prótesis dentales que brinda fijación y comodidad durante el uso diario. Su fórmula ultra adhesiva ofrece retención en tres direcciones y mantiene la prótesis en su lugar hasta por 12 horas. Esta presentación es sin sabor y contiene 40 g.\n\nBeneficios:\n- Mantiene la prótesis fija durante el día\n- Ayuda a evitar que los alimentos se cuelen entre la prótesis y las encías\n- Mejora la fuerza de la mordida\n- Forma un sello protector\n- Versión sin sabor\n\nModo de uso:\nLimpie y seque bien la prótesis. Aplique la crema en tiras cortas sobre la superficie que toca la encía, sin excederse. Coloque la prótesis en la boca y presione firmemente unos segundos. Al retirarla, límpiela junto con las encías con abundante agua.\n\nPresentación:\nCaja con 1 tubo de 40 g, sin sabor.\n\nAdvertencias:\nNo use más producto del necesario. Si la prótesis deja de ajustar correctamente, o si presenta irritación, dolor o llagas en la boca, suspenda su uso y consulte a su dentista. Este producto no sustituye la revisión periódica de su prótesis. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Corega",
+    "fabricante": "GlaxoSmithKline Consumer Healthcare",
+    "linea": "Ultra",
+    "variante": "Crema adhesiva sin sabor",
+    "presentacion": "Crema",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Sin sabor",
+    "otros": "Tipo: Adhesivo para prótesis dentales; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM180914",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmasmart.com/corega-ultra-cra-40g",
+    "https://www.farmaciasmedina.com/detalleProducto/Corega-Ultra-Ultra-Crema-Adhesiva-Para-Protesis-Dentales-Sin-Sabor/7896009490651",
+    "https://cosmos.bluesoft.com.br/produtos/7896009490651-fixador-de-dentadura-creme-sem-sabor-ultra-corega-max-caixa-40g"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas mexicanas (crema sin sabor, tubo de 40 g). El GTIN también aparece en fichas de Brasil y Argentina. Las fichas leídas no traen modo de uso ni advertencias; esas secciones son generales de adhesivos para prótesis y conviene compararlas con el empaque. No existe una categoría específica de adhesivos para prótesis en el CSV; se usó Cuidado Bucal > Otros.",
+    "fecha": "2026-09-29"
+  }
+}

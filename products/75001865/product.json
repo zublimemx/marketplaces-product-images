@@ -1,0 +1,38 @@
+{
+  "gtin": "75001865",
+  "sku": "75001865",
+  "linea": "Mark",
+  "nombre_sistema": "BRILL PALMOL LIQ 115ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Brill Palmol Líquido 115 ml",
+  "descripcion": "Descripción:\nBrill Palmol es un producto de cuidado personal en presentación líquida. Esta presentación es un frasco de 115 ml.\n\nPresentación:\nFrasco con 115 ml de producto líquido.\n\nAdvertencias:\nConsulte el tipo de producto, los ingredientes y el modo de uso en la etiqueta del empaque. Evite el contacto con los ojos. Suspenda su uso si aparece irritación. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "presentacion": "Líquido",
+    "contenido_neto": 115,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Nombre en el sistema: Brill Palmol Líquido 115 ml"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM1267",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Otros",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se pudo identificar el producto (marca, tipo ni uso); el GTIN es un EAN-8 (75001865). La categoría Cuidado del Cabello > Otros es solo un supuesto (podría ser brillantina u otro producto); no se llenó marca. Requiere revisión manual completa.",
+    "fecha": "2026-09-29"
+  }
+}

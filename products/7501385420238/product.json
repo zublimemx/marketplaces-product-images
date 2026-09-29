@@ -1,0 +1,37 @@
+{
+  "gtin": "7501385420238",
+  "sku": "7501385420238",
+  "linea": "Farma",
+  "nombre_sistema": "HEMOSIN K 25MG TABS HORMONA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Hemosin K 25 mg Tabletas",
+  "descripcion": "Descripción:\nHemosin K es un medicamento en tabletas de 25 mg de administración oral. El nombre del sistema de la farmacia lo clasifica dentro del grupo de las hormonas, pero no se pudo confirmar su principio activo ni su indicación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nTabletas de 25 mg. Consulte en el empaque el número de tabletas por caja.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hemosin K",
+    "presentacion": "Tabletas",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). No se identificó el principio activo ni el número de tabletas por caja (el nombre no lo trae). El sistema lo marca como HORMONA; si se confirma, cambiar a Hormonales Venta Libre (MLM457813) y ajustar la categoría con receta. Título, descripción y ficha son provisionales. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

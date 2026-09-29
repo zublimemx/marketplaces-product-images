@@ -1,0 +1,40 @@
+{
+  "gtin": "7501092743033",
+  "sku": "7501092743033",
+  "linea": "Farma",
+  "nombre_sistema": "FERRANINA FOL C 30 GRAG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ferranina Fol 30 Grageas",
+  "descripcion": "Descripción:\nFerranina Fol es un producto de la marca Ferranina en presentación de grageas, caja con 30 piezas. La composición exacta, la dosis recomendada y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Grageas\n- Contenido: 30 grageas\n\nAdvertencias:\nUtilice el producto según lo indicado en su empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ferranina",
+    "variante": "Fol",
+    "presentacion": "Grageas",
+    "contenido_neto": 30,
+    "unidad_contenido": "grageas",
+    "unidades_por_envase": 30,
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457820",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Composición no confirmada (por el nombre parece un producto con hierro y ácido fólico); categoría inferida. Alternativa: MLM438195 si se publica como suplemento. Verificar fabricante y fórmula.",
+    "fecha": "2026-09-29"
+  }
+}

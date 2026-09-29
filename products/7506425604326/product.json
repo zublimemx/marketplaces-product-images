@@ -1,0 +1,47 @@
+{
+  "gtin": "7506425604326",
+  "sku": "7506425604326",
+  "linea": "Mark",
+  "nombre_sistema": "HU CONF NINO E5 C40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies UltraConfort Niño Etapa 5 40 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies UltraConfort Niño Etapa 5, de Kimberly-Clark, combinan un corte anatómico de mayor cobertura con un material ultra flexible que se adapta mejor al cuerpo del bebé. Cuentan con núcleo absorbente reforzado ubicado en la parte delantera, pensado para niños.\n\nCaracterísticas:\n- Nuevo corte con mayor cobertura y material ultra flexible que se adapta al cuerpo.\n- Cintas Confort Flex en forma de V con 4 puntos de sujeción y cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado, frontal para niños.\n- Cubierta interna con poros ultra absorbentes.\n- Indicador de humedad e indicador de cambio de etapa.\n- Probados dermatológicamente, con certificación Dermatest.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, con la parte delantera hacia arriba, y sujete las cintas a la altura de la cintura sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 40 pañales desechables Etapa 5 para niño.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "UltraConfort",
+    "variante": "Niño Etapa 5",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "edad_etapa": "Etapa 5",
+    "talla": "Etapa 5",
+    "genero": "Niños",
+    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF NINO E5 = Huggies UltraConfort Niño Etapa 5) y por GTIN hermano 7506425604364 confirmado en el lote 1. La página oficial no lista rangos de peso, por eso no se incluyen. Las 40 piezas salen del nombre del sistema.",
+    "fecha": "2026-09-29"
+  }
+}

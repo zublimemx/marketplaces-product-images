@@ -1,0 +1,45 @@
+{
+  "gtin": "7501001246563",
+  "sku": "7501001246563",
+  "linea": "Farma",
+  "nombre_sistema": "VAPORUB EXH C40 LATAS 12",
+  "nombres_sistema_alternos": [],
+  "titulo": "Vick Vaporub Ungüento 12 g Caja Con 40 Latas",
+  "descripcion": "Descripción:\nVick VapoRub es el ungüento de uso tópico de la marca Vick (Procter & Gamble), elaborado a base de alcanfor, mentol y aceite de eucalipto. Se utiliza de forma externa en pecho, cuello y espalda para aliviar la congestión nasal y la tos asociadas al resfriado común. Esta presentación corresponde a la caja exhibidor con 40 latas de 12 g cada una, ideal para surtir varias piezas en una sola compra.\n\nComposición:\n- Alcanfor\n- Mentol\n- Aceite de eucalipto\n\nModo de uso:\nUso externo. Aplique una capa del ungüento en el pecho, el cuello y la espalda y frote suavemente; puede cubrir con una prenda holgada. Siga las indicaciones del empaque.\n\nPresentación:\nCaja exhibidor con 40 latas de 12 g cada una.\n\nAdvertencias:\n- Solo para uso externo; no se ingiera ni se aplique en fosas nasales, heridas o piel irritada.\n- No se recomienda en menores de 2 años sin indicación médica.\n- Evite el contacto con ojos y mucosas.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Vick",
+    "fabricante": "Procter & Gamble",
+    "variante": "VapoRub",
+    "presentacion": "Ungüento en lata",
+    "contenido_neto": 12,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 40,
+    "principio_activo": "Alcanfor, mentol y aceite de eucalipto",
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Caja exhibidor con 40 latas"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://prixz.com/c/vick-vaporub-40-latas-de-12g/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "La búsqueda por GTIN devolvió publicaciones de Vick VapoRub 12 g x 40 latas, pero los fragmentos no muestran el código, así que la coincidencia se toma por nombre y presentación (exhibidor con 40 latas de 12 g). La ficha de farmalisto dio 404 y no se pudo leer. Composición, modo de uso y advertencias son los habituales de la marca, sin porcentajes: verificar contra el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

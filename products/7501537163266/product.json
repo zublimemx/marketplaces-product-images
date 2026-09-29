@@ -1,0 +1,44 @@
+{
+  "gtin": "7501537163266",
+  "sku": "7501537163266",
+  "linea": "Farma",
+  "nombre_sistema": "TRIBEDOCE COMP C3 AMP COMPLEJO B DICLOFENACO BRULUART",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tribedoce Compuesto Diclofenaco Complejo B 3 Ampolletas",
+  "descripcion": "Descripción:\nTribedoce Compuesto, de Laboratorios Bruluart, es una solución inyectable en ampolletas que combina diclofenaco, un antiinflamatorio, con vitaminas del complejo B. Se presenta en caja con 3 ampolletas para aplicación por personal de salud. Consulte el empaque para conocer la composición exacta, las indicaciones y la dosis.\n\nPresentación:\nCaja con 3 ampolletas de solución inyectable.\n\nModo de uso:\nLa aplicación debe ser realizada por personal de salud, por la vía y en la dosis que indique el médico.\n\nAdvertencias:\nMedicamento de venta con receta médica. No lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios, ni si tiene úlcera gástrica, salvo indicación de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tribedoce",
+    "fabricante": "Bruluart",
+    "variante": "Compuesto",
+    "presentacion": "Solución inyectable en ampolletas",
+    "contenido_neto": 3,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 3,
+    "principio_activo": "Diclofenaco y vitaminas del complejo B",
+    "via_administracion": "Inyectable",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "MLM457826",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Los datos salen del nombre del sistema (Tribedoce Comp, caja con 3 ampolletas, complejo B, diclofenaco, laboratorio Bruluart). No se conocen las dosis de cada componente, la vía exacta (IM) ni el registro sanitario. Se eligió la misma categoría y criterio de receta que Dolo-Neurobión DC en el lote 1 (diclofenaco + vitaminas B inyectable). Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

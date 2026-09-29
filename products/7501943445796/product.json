@@ -1,0 +1,49 @@
+{
+  "gtin": "7501943445796",
+  "sku": "7501943445796",
+  "linea": "Mark",
+  "nombre_sistema": "HU SUP UNISEX E6 C/36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Supreme Unisex Etapa 6 36 Piezas",
+  "descripcion": "Descripción:\nLos pañales Huggies Supreme Etapa 6, de Kimberly-Clark, están diseñados para proteger la delicada piel del bebé con materiales de superior suavidad. Es la línea Huggies que se presenta como única clínica y dermatológicamente probada, con certificación Dermatest de cinco estrellas. Versión unisex para bebés de más de 13.5 kg.\n\nCaracterísticas:\n- Clínica y dermatológicamente probados, con certificación Dermatest de 5 estrellas.\n- Materiales de superior suavidad que ayudan a evitar la irritación.\n- Manejo de la humedad que ayuda a mantener la piel fresca y sana.\n- Cintas ajustables para un ajuste cómodo y seguro que permite libertad de movimiento.\n- Diseños exclusivos en los pañales.\n- Unisex: para niños y niñas.\n\nModo de uso:\nAbra el pañal y colóquelo debajo del bebé, lleve la parte delantera hacia arriba y sujete las cintas a la altura de la cintura, sin apretar en exceso. Cámbielo con frecuencia, en cuanto esté húmedo o sucio.\n\nPresentación:\nPaquete con 36 pañales desechables Etapa 6.\n\nAdvertencias:\nDeseche el pañal usado en la basura, no en el inodoro. Mantenga el empaque plástico fuera del alcance de los niños. Verifique que la etapa corresponda al peso de su bebé.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark de México",
+    "linea": "Supreme",
+    "variante": "Etapa 6",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 36,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 36,
+    "edad_etapa": "Etapa 6",
+    "talla": "Etapa 6",
+    "genero": "Unisex",
+    "otros": "Peso del bebé: más de 13.5 kg; Dermatest 5 estrellas: Sí; Formato de venta: Paquete"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": "MLM17379842"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
+  "fuentes": [
+    "https://www.huggies.com.mx/productos/huggies-supreme/",
+    "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
+    "https://www.mercadolibre.com.mx/panales-huggies-supreme-etapa-6-unisex-36-piezas/p/MLM17379842"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "",
+    "fecha": "2026-09-29"
+  }
+}

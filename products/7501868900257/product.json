@@ -1,0 +1,39 @@
+{
+  "gtin": "7501868900257",
+  "sku": "7501868900257",
+  "linea": "Farma",
+  "nombre_sistema": "ALCO R 1LT C12 PZAS DIBAR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Alcohol Dibar 1 l Caja con 12 Piezas",
+  "descripcion": "Descripción:\nAlcohol de la marca Dibar en presentación de 1 litro, caja con 12 piezas. Consulte en la etiqueta el tipo de alcohol, su graduación y las indicaciones de uso.\n\nPresentación:\nCaja con 12 envases de 1 litro.\n\nAdvertencias:\nProducto inflamable, manténgase alejado del fuego y de fuentes de calor. Para uso externo, no ingerir. Evite el contacto con los ojos. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dibar",
+    "presentacion": "Líquido",
+    "contenido_neto": 1,
+    "unidad_contenido": "l",
+    "unidades_por_envase": 12,
+    "otros": "Formato de venta: Caja con 12 piezas; Piezas por caja: 12"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM458019",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcoholes Líquidos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. El nombre (ALCO R 1LT C12 PZAS DIBAR) sugiere alcohol Dibar de 1 l en caja de 12; no se confirmó el tipo (etílico, desnaturalizado, rectificado) ni la graduación. Como alternativa la categoría MLM191698 (Alcohol Etílico) si resulta ser etílico. Decidir si se publica por caja o por pieza.",
+    "fecha": "2026-09-29"
+  }
+}

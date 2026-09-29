@@ -1,0 +1,50 @@
+{
+  "gtin": "008400009418",
+  "sku": "008400009418",
+  "linea": "Farma",
+  "nombre_sistema": "RIBOTRIPSIN 18MG C30TAB",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ribotripsin 18 mg 30 Tabletas",
+  "descripcion": "Descripción:\nRibotripsin es un medicamento de Laboratorios Grin en tabletas con capa entérica. Combina las enzimas proteolíticas tripsina y quimotripsina, que ayudan a acelerar la reparación de los tejidos.\n\nBeneficios:\n- Según su ficha, alivia el edema inflamatorio.\n- Favorece la reabsorción de la sangre extravasada (moretones) y de los exudados en contusiones leves.\n- Reduce el dolor en procesos inflamatorios postraumáticos.\n- Su capa entérica protege las tabletas de la acidez del estómago.\n\nComposición:\nCada tableta contiene 18 mg de enzimas, equivalentes a tripsina 45,000 U USP y quimotripsina 9,000 U USP, con excipientes cbp.\n\nModo de uso:\nVía oral. La dosis habitual de referencia de la ficha es de dos tabletas cada 8 horas; la dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 30 tabletas con capa entérica. Conservar a temperatura ambiente no mayor a 30 grados centígrados.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a los componentes, pancreatitis aguda, síndromes hemorrágicos, insuficiencia hepática grave, insuficiencia cardíaca congestiva, hipoprotrombinemia ni antes de una cirugía próxima. No se recomienda su uso simultáneo con anticoagulantes; precaución en pacientes con úlcera gástrica. No lo consuma con bebidas alcohólicas. No se ha establecido su seguridad durante el embarazo y la lactancia. Puede causar molestias gastrointestinales leves, erupción o comezón. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ribotripsin",
+    "fabricante": "Laboratorios Grin",
+    "variante": "18 mg",
+    "presentacion": "Tabletas con capa entérica",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Tripsina y quimotripsina",
+    "concentracion": "18 mg (45,000 U USP / 9,000 U USP)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "65517 SSA IV",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM455222",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinflamatorios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/ribotripsin-tabletas-con-capa-enterica/88/101/46639/212",
+    "https://farmaciasfleming.mx/producto/ribotripsin-18-mg-c-30-tab/",
+    "https://prixz.com/c/ribotripsin-30-tabletas-18mg/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El GTIN de 12 dígitos aparece tal cual en Farmacias Fleming. Fuentes contradictorias sobre receta: PLM y Farmalisto la tratan como medicamento con receta, Farmacias Fleming indica que no requiere receta. Si se decide Rx, la categoría equivalente sería MLM457826. Sin página oficial de Grin localizada.",
+    "fecha": "2026-09-29"
+  }
+}

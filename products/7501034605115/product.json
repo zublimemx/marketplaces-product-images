@@ -1,0 +1,50 @@
+{
+  "gtin": "7501034605115",
+  "sku": "7501034605115",
+  "linea": "Farma",
+  "nombre_sistema": "JARDIANZ 25MG TAB C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Jardianz Empagliflozina 25 mg 30 Tabletas",
+  "descripcion": "Descripción:\nJardianz contiene empagliflozina 25 mg, un inhibidor selectivo del cotransportador de sodio y glucosa tipo 2 (SGLT2), de Boehringer Ingelheim. Está indicado en adultos y niños a partir de 10 años para el tratamiento de la diabetes mellitus tipo 2, en combinación con dieta y ejercicio. Su ficha también contempla su uso en adultos con insuficiencia cardiaca crónica sintomática.\n\nBeneficios:\n- Al inhibir el SGLT2 en el riñón, favorece la eliminación de glucosa por la orina.\n- Una tableta una vez al día.\n- Puede tomarse con o sin alimentos.\n\nComposición:\nCada tableta recubierta contiene empagliflozina 25 mg y excipientes.\n\nModo de uso:\nVía oral, con o sin alimentos, tragando las tabletas enteras. En diabetes tipo 2 la dosis inicial es de 10 mg al día y su médico puede aumentarla hasta 25 mg al día, con ajustes según la función renal. La dosis y la duración deben ser indicadas por su médico.\n\nPresentación:\nCaja con 30 tabletas recubiertas de 25 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la empagliflozina, ni en diabetes tipo 1, enfermedad renal terminal o diálisis. Pueden presentarse infecciones genitales o urinarias, deshidratación y, con menor frecuencia, cetoacidosis diabética; con insulina o sulfonilureas aumenta el riesgo de hipoglucemia. Debe vigilarse la función renal. Se recomienda evitarlo durante el embarazo y no usarlo durante la lactancia. No suspenda ni modifique el tratamiento sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Jardianz",
+    "fabricante": "Boehringer Ingelheim",
+    "variante": "Empagliflozina 25 mg",
+    "presentacion": "Tabletas recubiertas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Empagliflozina",
+    "concentracion": "25 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños a partir de 10 años",
+    "registro_sanitario": "212M2014 SSA",
+    "otros": "Venta con receta médica; Uso: Diabetes mellitus tipo 2"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://storeboehringer.com/jardianz/25mg-30-tabletas",
+  "fuentes": [
+    "https://storeboehringer.com/jardianz/25mg-30-tabletas",
+    "https://www.vademecum.es/mexico/medicamento/1453387/jardianz-tabletas-25-mg",
+    "https://farmalisto.com.mx/medicamentos-con-receta-medica/14533-jardianz-25-mg-30-tabletas-empagliflozina-boehringer-7501034605115.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Requiere receta médica. La categoría se eligió por grupo ATC (A10, digestivos y metabólicos); no hay una categoría de venta libre específica para antidiabéticos.",
+    "fecha": "2026-09-29"
+  }
+}

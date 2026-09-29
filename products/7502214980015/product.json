@@ -1,0 +1,48 @@
+{
+  "gtin": "7502214980015",
+  "sku": "7502214980015",
+  "linea": "Farma",
+  "nombre_sistema": "PRUDENCE C3 CLASICO 526",
+  "nombres_sistema_alternos": [],
+  "titulo": "Condones Prudence Clásico Lubricados 3 Piezas",
+  "descripcion": "Descripción:\nPrudence Clásico son condones masculinos de látex natural, lubricados, de la marca Prudence (DKT). Tienen un ligero aroma a vainilla que evita el típico olor a látex y una textura suave y sedosa. Ofrecen protección contra embarazos no deseados y contra infecciones de transmisión sexual cuando se usan de forma correcta y en cada relación sexual.\n\nCaracterísticas:\n- Látex natural.\n- Lubricados para una colocación cómoda.\n- Ligero aroma a vainilla, sin el típico olor a látex.\n- Sensación suave y sedosa.\n- Cada condón viene en su envoltura individual sellada.\n\nModo de uso:\nVerifique la fecha de caducidad y que la envoltura esté sellada. Ábrala con cuidado, sin usar los dientes ni objetos filosos. Coloque el condón antes de cualquier contacto genital, deje espacio en la punta y, al terminar, retírelo sujetándolo por la base. Úselo una sola vez y deséchelo en la basura.\n\nPresentación:\nCaja con 3 condones.\n\nAdvertencias:\n- Use un condón nuevo en cada relación.\n- No use lubricantes a base de aceite (vaselina, aceites o cremas), porque dañan el látex.\n- No lo use si la envoltura está dañada o si el producto está caduco.\n- No es apto para personas alérgicas al látex.\n- Conserve en un lugar fresco y seco, lejos de la luz directa y del calor.",
+  "ficha": {
+    "marca": "Prudence",
+    "fabricante": "DKT de México",
+    "linea": "Clásico",
+    "variante": "Clásico lubricado",
+    "presentacion": "Caja de preservativos masculinos",
+    "contenido_neto": 3,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 3,
+    "genero": "Hombre",
+    "otros": "Material: Látex natural; Lubricado: Sí; Sin olor a látex: Sí; Formato de venta: Caja con 3",
+    "sabor_aroma": "Vainilla"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://tienda.prudence.com.mx/products/clasico-3",
+  "fuentes": [
+    "https://tienda.prudence.com.mx/products/clasico-3",
+    "https://www.benavides.com.mx/prudence-clasico-condones-lubricados-de-latex-natural-3-uds",
+    "https://farmalisto.com.mx/condones/12040-comprar-prudence-clasico-caja-con-3-condones-precio-7502214980015.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema incluye un número (526) que se ignoró por ser código interno. El aroma a vainilla viene de la ficha de una cadena de farmacias; la página de Prudence destaca que no huele a látex.",
+    "fecha": "2026-09-29"
+  }
+}

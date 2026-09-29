@@ -1,0 +1,46 @@
+{
+  "gtin": "7501088509773",
+  "sku": "7501088509773",
+  "linea": "Farma",
+  "nombre_sistema": "ANTIFLUDES 24 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Antigripal Antiflu-Des 50/3/300 mg 24 Cápsulas",
+  "descripcion": "Descripción:\nAntiflu-Des es un medicamento antigripal en cápsulas que combina tres principios activos: amantadina, clorfenamina y paracetamol. Se utiliza para aliviar los síntomas de la gripe y el resfriado común, como fiebre, dolor de cabeza, dolor muscular, congestión nasal y escurrimiento nasal. Es fabricado por Chinoin.\n\nComposición:\nCada cápsula contiene:\n- Clorhidrato de amantadina 50 mg\n- Clorfenamina 3 mg\n- Paracetamol 300 mg\n\nModo de uso:\nVía oral. Tome la cápsula con un poco de agua, en la dosis y con la frecuencia que indique el empaque o su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 24 cápsulas.\n\nAdvertencias:\n- Contiene paracetamol: no lo combine con otros productos que también lo contengan y evite las bebidas alcohólicas durante el tratamiento.\n- La clorfenamina puede causar somnolencia; tenga precaución al conducir vehículos u operar maquinaria.\n- No lo use si es alérgico a alguno de sus componentes.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Antiflu-Des",
+    "fabricante": "Chinoin",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 24,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Amantadina, clorfenamina, paracetamol",
+    "concentracion": "50 mg / 3 mg / 300 mg por cápsula",
+    "via_administracion": "Oral",
+    "otros": "Uso: síntomas de gripe y resfriado; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Antiflu-des/7501088509773",
+    "https://farmaciasanisidro.mx/producto/medicamento-iva-0/antifludes-cap-c-24/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias mexicanas (24 cápsulas, 50/3/300 mg). La ficha de la farmacia solo trae composición e indicación; modo de uso y advertencias son generales, sin dosis específica.",
+    "fecha": "2026-09-29"
+  }
+}

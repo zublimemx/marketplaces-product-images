@@ -1,0 +1,41 @@
+{
+  "gtin": "7501089804327",
+  "sku": "7501089804327",
+  "linea": "Farma",
+  "nombre_sistema": "RECOVERON NC CRA40GR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Recoveron NC Crema 40 g",
+  "descripcion": "Descripción:\nRecoveron NC es una crema de uso tópico de la marca Recoveron, en tubo de 40 g.\n\nPresentación:\nTubo con 40 g de crema.\n\nAdvertencias:\nSolo para uso externo. Evite el contacto con los ojos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Recoveron",
+    "variante": "NC",
+    "presentacion": "crema",
+    "contenido_neto": 40,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "via_administracion": "Tópica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); no se pudieron confirmar composición, indicaciones ni fabricante. Se supone crema dermatológica por la presentación.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501095452505",
+  "sku": "7501095452505",
+  "linea": "Farma",
+  "nombre_sistema": "TEMPRA FTE C 24 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tempra Forte Paracetamol 24 Tabletas",
+  "descripcion": "Descripción:\nTempra Forte es un medicamento de venta libre cuyo principio activo es el paracetamol, en presentación de tabletas.\n\nComposición:\nParacetamol. Consulte en el empaque la cantidad por tableta y los demás componentes.\n\nPresentación:\nCaja con 24 tabletas.\n\nAdvertencias:\nNo exceda la dosis indicada. Consulte a su médico antes de usarlo si padece enfermedad del hígado o si consume alcohol de forma habitual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tempra",
+    "variante": "Forte",
+    "presentacion": "Tabletas",
+    "contenido_neto": 24,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Paracetamol",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por nombre (Tempra Forte, 24 tabletas); falta confirmar concentración (probablemente 650 mg), fabricante y si es la presentación para adultos.",
+    "fecha": "2026-09-29"
+  }
+}

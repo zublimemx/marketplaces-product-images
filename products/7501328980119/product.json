@@ -1,0 +1,48 @@
+{
+  "gtin": "7501328980119",
+  "sku": "7501328980119",
+  "linea": "Farma",
+  "nombre_sistema": "ENTEROGERMINA 2 BILL C 20 AMP INGERIBLES 36",
+  "nombres_sistema_alternos": [],
+  "titulo": "Enterogermina Bacillus Clausii 2 Billones 20 Ampolletas",
+  "descripcion": "Descripción:\nEnterogermina es un medicamento de Sanofi en ampolletas bebibles que contiene esporas de Bacillus clausii, un probiótico que ayuda a restablecer el equilibrio de la flora intestinal cuando se altera por diarrea, infecciones gastrointestinales o el uso de antibióticos. Además, contribuye a proteger el intestino frente a bacterias patógenas.\n\nBeneficios:\n- Ayuda a restablecer la flora intestinal alterada\n- Útil durante y después de tratamientos con antibióticos\n- Ampolletas listas para tomar, sin necesidad de preparación\n- Indicado para adultos y niños, siguiendo la dosis del empaque\n\nComposición:\nEsporas de Bacillus clausii: 2 billones por ampolleta de 5 ml (2 x 10^9 UFC).\n\nModo de uso:\nVía oral. Agite la ampolleta antes de abrirla y tome su contenido directamente o diluido en agua, sin usar líquidos calientes. Una caja de 20 ampolletas corresponde a un tratamiento completo de 10 días; siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 20 ampolletas de 5 ml cada una.\n\nAdvertencias:\nNo use la ampolleta si el envase está dañado o si el líquido presenta cambios evidentes. Si la diarrea persiste, o presenta fiebre o sangre en las heces, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Enterogermina",
+    "fabricante": "Sanofi",
+    "presentacion": "Ampolletas bebibles (suspensión oral)",
+    "contenido_neto": 20,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Esporas de Bacillus clausii",
+    "concentracion": "2 billones de esporas (2 x 10^9 UFC) por ampolleta de 5 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños",
+    "otros": "Tipo: Probiótico; Contenido por ampolleta: 5 ml; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.klyns.mx/enterogermina-c-20-amps/p",
+    "https://www.farmaciasespecializadas.com/enterogermina-20-amp-c-5-ml.html",
+    "https://grupodjes.com/product/enterogermina-20-ampolletas-2-billones-ufc/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias tiendas (Sanofi, 20 ampolletas de 5 ml). El 36 al final del nombre del sistema se ignoró. Las indicaciones y la duración de 10 días salen de la ficha de una farmacia; la forma de dilución y las advertencias son generales y conviene confirmarlas con el empaque. La equivalencia 2 x 10^9 UFC es la habitual del producto, no viene de la ficha leída.",
+    "fecha": "2026-09-29"
+  }
+}

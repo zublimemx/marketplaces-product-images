@@ -1,0 +1,44 @@
+{
+  "gtin": "7501098610025",
+  "sku": "7501098610025",
+  "linea": "Farma",
+  "nombre_sistema": "XIGDUO XR 10 1000MG C28",
+  "nombres_sistema_alternos": [],
+  "titulo": "Xigduo XR Dapagliflozina Metformina 10/1000 mg 28 Tabletas",
+  "descripcion": "Descripción:\nXigduo XR es un medicamento en tabletas de liberación prolongada que combina dapagliflozina y clorhidrato de metformina. Se utiliza en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio, siempre bajo indicación y vigilancia médica.\n\nComposición:\nCada tableta de liberación prolongada contiene dapagliflozina 10 mg y clorhidrato de metformina 1000 mg.\n\nModo de uso:\nVía oral. Tome la dosis que le indique su médico. Las tabletas de liberación prolongada deben tragarse enteras, sin partirlas ni masticarlas, generalmente con alimentos.\n\nPresentación:\nCaja con 28 tabletas de liberación prolongada.\n\nAdvertencias:\n- No lo use si es alérgico a la dapagliflozina, a la metformina o a algún componente de la fórmula.\n- Requiere control médico periódico.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Xigduo",
+    "linea": "XR",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Dapagliflozina y clorhidrato de metformina",
+    "concentracion": "10 mg/1000 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Datos por conocimiento general de la marca (Xigduo XR es dapagliflozina/metformina de liberación prolongada; el 28 y 10/1000 mg salen del nombre del sistema); no se verificaron con fuentes ni con el GTIN. Medicamento con receta; se publica en venta libre por instrucción del dueño. Requiere verificar.",
+    "fecha": "2026-09-29"
+  }
+}

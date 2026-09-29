@@ -1,0 +1,41 @@
+{
+  "gtin": "7501471800265",
+  "sku": "7501471800265",
+  "linea": "Farma",
+  "nombre_sistema": "PANCLASA C/20 CAPS FLOROGLUCINO L TRIMETILFLOROGLUCINOL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Panclasa Floroglucinol Trimetilfloroglucinol 20 Cápsulas",
+  "descripcion": "Descripción:\nPanclasa es un medicamento en cápsulas que combina floroglucinol y trimetilfloroglucinol, dos activos con acción antiespasmódica. Se presenta en caja con 20 cápsulas para administración por vía oral.\n\nBeneficios:\n- Combinación de dos antiespasmódicos en una misma cápsula.\n- Se emplea para aliviar espasmos y dolores de tipo cólico; las indicaciones exactas deben consultarse en el instructivo del empaque o con su médico.\n- Presentación de 20 cápsulas para un tratamiento de corta duración.\n\nComposición:\nCada cápsula contiene floroglucinol y trimetilfloroglucinol.\n\nModo de uso:\nVía oral. Trague las cápsulas enteras con un vaso de agua. La dosis y la duración del tratamiento deben ser las que indique su médico o el instructivo del empaque.\n\nPresentación:\nCaja con 20 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de sus componentes. Si el dolor persiste, empeora o se acompaña de fiebre, vómito o sangrado, suspenda su uso y consulte a su médico. Consulte al médico antes de usarlo durante el embarazo o la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Panclasa",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 20,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Floroglucinol y trimetilfloroglucinol",
+    "via_administracion": "Oral",
+    "otros": "Grupo: Antiespasmódicos; Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200). Los principios activos salen del nombre del sistema; el uso antiespasmódico es el de la combinación floroglucinol y trimetilfloroglucinol, sin confirmar en ficha de Panclasa. Faltan concentraciones, fabricante y registro sanitario. Falta confirmar si requiere receta; si resulta con receta, usar MLM457828 (Digestivos con Receta).",
+    "fecha": "2026-09-29"
+  }
+}

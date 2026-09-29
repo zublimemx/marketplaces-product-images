@@ -1,0 +1,46 @@
+{
+  "gtin": "7501298217635",
+  "sku": "7501298217635",
+  "linea": "Farma",
+  "nombre_sistema": "DOLO NEUROBION FTE C 1 PRELLE",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dolo-Neurobión Forte DC Inyectable Jeringa Prellenada 3 ml",
+  "descripcion": "Descripción:\nDolo-Neurobión Forte DC es una solución inyectable en jeringa prellenada de 3 ml que combina diclofenaco, un antiinflamatorio no esteroideo, con vitaminas del complejo B (B1, B6 y B12). Se utiliza para aliviar distintos tipos de dolor, como dolor de cabeza, dolor muscular y dolor de espalda de intensidad leve a moderada, y las vitaminas contribuyen a la salud del sistema nervioso y a prevenir deficiencias del complejo B. La jeringa prellenada facilita la preparación de la dosis por parte del personal de salud.\n\nBeneficios:\n- Combina un antiinflamatorio con vitaminas B1, B6 y B12 en una sola aplicación.\n- Presentación en jeringa prellenada de 3 ml, lista para usarse.\n- Formato de una jeringa por caja.\n\nComposición:\n- Diclofenaco\n- Vitamina B1 (tiamina)\n- Vitamina B6 (piridoxina)\n- Vitamina B12 (cianocobalamina)\nConsulte el empaque para conocer la concentración exacta y el resto de los componentes.\n\nModo de uso:\nVía inyectable. Debe ser aplicada por personal de salud capacitado, conforme a la dosis y a la duración que indique el médico. No reutilice la jeringa.\n\nPresentación:\nCaja con 1 jeringa prellenada de 3 ml.\n\nAdvertencias:\n- No lo use si es alérgico al diclofenaco, a la aspirina o a otros antiinflamatorios no esteroideos.\n- Consulte a su médico si tiene antecedentes de úlcera o sangrado del estómago, o enfermedad del corazón, de los riñones o del hígado.\n- No lo use durante el embarazo ni la lactancia salvo indicación médica.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Neurobión",
+    "linea": "Forte",
+    "variante": "DC",
+    "presentacion": "Solución inyectable en jeringa prellenada",
+    "contenido_neto": 3,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Diclofenaco / Vitaminas B1, B6 y B12",
+    "via_administracion": "Inyectable",
+    "otros": "Formato de venta: Unidad; Volumen por jeringa: 3 ml"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Dolo-neurobion-Forte-D-Inyecci%C3%B3n-3-Ml-Soluci%C3%B3n-Jeringa-Prellenada/7501298217635",
+    "https://www.farmaciasespecializadas.com/dolo-neurobion-forte-dc-jprell-caj-c-1x3ml.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado (caja con 1 jeringa prellenada de 3 ml). No se encontraron concentraciones, fabricante ni vía intramuscular confirmada; se omitieron. Receta por revisar (inyectable con diclofenaco).",
+    "fecha": "2026-09-29"
+  }
+}

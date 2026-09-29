@@ -1,0 +1,41 @@
+{
+  "gtin": "7501033954061",
+  "sku": "7501033954061",
+  "linea": "Farma",
+  "nombre_sistema": "ENSURE 237ML CHTE",
+  "nombres_sistema_alternos": [],
+  "titulo": "Ensure Abbott Chocolate Suplemento Líquido 237 ml",
+  "descripcion": "Descripción:\nEnsure de Abbott es un suplemento alimenticio líquido listo para beber, sabor chocolate, en presentación individual de 237 ml.\n\nPresentación:\nEnvase individual con 237 ml, sabor chocolate.\n\nAdvertencias:\nConsulte la información nutrimental, los ingredientes y las advertencias del empaque. Si tiene una condición médica o sigue una dieta especial, consulte a su médico o nutriólogo antes de consumirlo.",
+  "ficha": {
+    "marca": "Ensure",
+    "fabricante": "Abbott",
+    "presentacion": "Líquido listo para beber",
+    "contenido_neto": 237,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Chocolate",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Identificación clara por el nombre (Ensure 237 ml chocolate, Abbott); falta confirmar la variante exacta (Original, Plus, Advance) y el envase (botella o lata).",
+    "fecha": "2026-09-29"
+  }
+}

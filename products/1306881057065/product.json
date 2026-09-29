@@ -1,0 +1,40 @@
+{
+  "gtin": "1306881057065",
+  "sku": "1306881057065",
+  "linea": "Farma",
+  "nombre_sistema": "B-PRACET-KP C30 PREGABALINA KETOPROFENO VIT B1 VIT B12MEDICAM",
+  "nombres_sistema_alternos": [],
+  "titulo": "B-Pracet-KP Pregabalina Ketoprofeno Vitaminas B1 B12 30 Pzas",
+  "descripcion": "Descripción:\nB-Pracet-KP es un medicamento que, según el nombre registrado en el sistema, combina pregabalina, ketoprofeno y vitaminas B1 y B12, en presentación de 30 piezas. Consulte en el empaque la composición y concentración exactas, las indicaciones y la dosis.\n\nPresentación:\nEnvase con 30 piezas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "B-Pracet-KP",
+    "presentacion": "Envase con piezas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Pregabalina, ketoprofeno, vitamina B1 y vitamina B12",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO: se agotó el límite de WebSearch de la sesión antes de llegar a este producto. Título y ficha salen solo del nombre del sistema. El GTIN 1306881057065 no parece un código de barras comercial real (probablemente código interno). No se sabe si son tabletas o cápsulas ni las concentraciones. La pregabalina normalmente requiere receta; se publica en venta libre por instrucción del dueño. Requiere reinvestigar.",
+    "fecha": "2026-09-29"
+  }
+}

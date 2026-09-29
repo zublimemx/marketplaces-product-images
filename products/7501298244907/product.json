@@ -1,0 +1,44 @@
+{
+  "gtin": "7501298244907",
+  "sku": "7501298244907",
+  "linea": "Farma",
+  "nombre_sistema": "GLUCOVANCE 500MG 5MG C 60 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Glucovance Metformina Glibenclamida 500/5 mg 60 Tabletas",
+  "descripcion": "Descripción:\nGlucovance es un medicamento en tabletas de Merck que combina dos antidiabéticos orales, metformina (500 mg) y glibenclamida (5 mg). Su uso corresponde al manejo de la diabetes mellitus tipo 2 bajo supervisión médica. Se presenta en caja con 60 tabletas.\n\nComposición:\nCada tableta contiene:\n- Metformina (clorhidrato) 500 mg\n- Glibenclamida 5 mg\n\nModo de uso:\nVía oral. La dosis, el horario y la duración del tratamiento deben ser determinados por el médico; siga la indicación de su receta y las instrucciones del empaque.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nEs un medicamento que requiere receta médica. No lo utilice si es alérgico a la metformina, a la glibenclamida o a algún componente de la fórmula. Puede causar hipoglucemia; conozca sus síntomas y consulte a su médico ante cualquier duda. Informe a su médico si tiene enfermedad del riñón o del hígado, si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Glucovance",
+    "fabricante": "Merck",
+    "variante": "Tabletas 500 mg/5 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Metformina y glibenclamida",
+    "concentracion": "500 mg/5 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 60 tabletas"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Principios activos y concentración salen del nombre (500 mg/5 mg); fabricante Merck inferido por el prefijo del GTIN (7501298, igual que Gavindo N y Concor) y por conocimiento general. Requiere receta; el dueño indicó publicar como venta libre. Categoría de antidiabéticos elegida como digestivos/metabólicos por el dominio de catálogo. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

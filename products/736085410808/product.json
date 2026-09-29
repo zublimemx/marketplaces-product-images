@@ -1,0 +1,42 @@
+{
+  "gtin": "736085410808",
+  "sku": "736085410808",
+  "linea": "Farma",
+  "nombre_sistema": "HUMYLUB PF OFTENO 10ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Humylub PF Ofteno Solución Oftálmica 10 ml",
+  "descripcion": "Descripción:\nHumylub PF Ofteno es una solución oftálmica de Laboratorios Sophia, de la línea Ofteno, en frasco de 10 ml. Por el nombre, la sigla PF indica una presentación sin conservadores. La composición, las indicaciones y el modo de uso deben confirmarse con el empaque antes de publicar.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Humylub",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "Ofteno",
+    "variante": "PF",
+    "presentacion": "Solución oftálmica",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se investigó en internet: se agotó el límite de búsquedas web de la sesión (200/200). El fabricante Laboratorios Sophia se deduce del prefijo del GTIN (736085, el mismo de Nazil Ofteno, confirmado) y de la línea Ofteno. Se cree que es un lubricante ocular sin conservadores, pero no se confirmó el principio activo ni la concentración. Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "gtin": "7503007704658",
+  "sku": "7503007704658",
+  "linea": "Farma",
+  "nombre_sistema": "NUCLEO C M P FORTE 5 3 MG C 30 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Núcleo C.M.P. Forte 5 mg/3 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nNúcleo C.M.P. Forte es un medicamento de Ferrer en cápsulas para administración oral. Combina dos nucleótidos: citidín-5'-monofosfato disódico (CMP) y uridín-5'-trifosfato trisódico (UTP).\n\nBeneficios:\n- Según su ficha, se utiliza en el tratamiento de neuropatías periféricas de origen osteoarticular, metabólico, infeccioso o por frío.\n- Se indica también en neuralgias.\n- Aporta grupos fosfato que participan en el metabolismo de componentes de la mielina, lo que favorece la regeneración del tejido nervioso.\n\nComposición:\nCada cápsula contiene:\n- Citidín-5'-monofosfato disódico (CMP) 5 mg\n- Uridín-5'-trifosfato trisódico (UTP) 3 mg\nExcipientes cbp.\n\nModo de uso:\nVía oral. La dosis de referencia de la ficha es de 1 a 2 cápsulas dos veces al día; la dosis y la duración del tratamiento deben ser indicadas por el médico.\n\nPresentación:\nCaja con 30 cápsulas. Conservar a no más de 30 grados centígrados en envase bien cerrado.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a alguno de los componentes de la fórmula. En personas sensibles puede causar náusea, vómito y urticaria. Consulte a su médico antes de usarlo durante el embarazo o la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Núcleo C.M.P.",
+    "fabricante": "Ferrer",
+    "linea": "Forte",
+    "variante": "5 mg/3 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Citidín-5'-monofosfato disódico y uridín-5'-trifosfato trisódico",
+    "concentracion": "5 mg/3 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "83301 SSA IV",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "MLM457836",
+      "catalogo_id": "MLM42117810"
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/nucleo-cmp-forte-capsulas/1018/101/9017/14",
+    "https://farmaciasmedina.com/detalleProducto/Nucleo-Cmp-Forte-30-Capsulas-Caja/7503007704658",
+    "https://farmalisto.com.mx/sistema-nervioso-central/8251-comprar-nucleo-cmp-forte-5mg3mg-caja-con-30-capsulas-neuropatias-precio-7503007704658.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Medicamento con receta (PLM: su venta requiere receta médica). Sin página oficial en MX localizada; el fabricante es Ferrer Internacional (España), distribuido por Ferrer Therapeutics en México.",
+    "fecha": "2026-09-29"
+  }
+}

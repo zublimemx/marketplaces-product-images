@@ -1,0 +1,41 @@
+{
+  "gtin": "7501165011632",
+  "sku": "7501165011632",
+  "linea": "Farma",
+  "nombre_sistema": "BUSCAPINA COMP C20 TABS 10 250MG",
+  "nombres_sistema_alternos": [],
+  "titulo": "Buscapina Compositum 10 mg/250 mg 20 Tabletas",
+  "descripcion": "Descripción:\nBuscapina Compositum es un medicamento en tabletas que combina un antiespasmódico con un analgésico, de la marca Buscapina. Esta presentación contiene 20 tabletas con concentración de 10 mg/250 mg.\n\nPresentación:\nCaja con 20 tabletas (10 mg/250 mg).\n\nAdvertencias:\nConsulte la composición completa, las indicaciones, la dosis y las contraindicaciones en el empaque. No exceda la dosis recomendada ni lo combine con otros analgésicos sin consultar a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Buscapina",
+    "variante": "Compositum",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "concentracion": "10 mg/250 mg",
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). La concentración 10/250 mg viene del nombre del sistema. No se confirmó el segundo componente (paracetamol o metamizol) ni el fabricante (probablemente Boehringer Ingelheim), por eso se omitieron principio activo y fabricante. Verificar si requiere receta.",
+    "fecha": "2026-09-29"
+  }
+}

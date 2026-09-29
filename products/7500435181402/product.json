@@ -1,0 +1,40 @@
+{
+  "gtin": "7500435181402",
+  "sku": "7500435181402",
+  "linea": "Farma",
+  "nombre_sistema": "SEDALMERCK EXH C10 SBRS C4TAB 75",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sedalmerck 10 Sobres con 4 Tabletas",
+  "descripcion": "Descripción:\nSedalmerck en presentación de exhibidor con 10 sobres, cada uno con 4 tabletas (40 tabletas en total). Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 10 sobres de 4 tabletas cada uno.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sedalmerck",
+    "presentacion": "Sobres con tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "via_administracion": "Oral",
+    "otros": "Sobres: 10; Tabletas por sobre: 4"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Nombre decodificado: EXH = exhibidor (supuesto), C10 SBRS C4TAB = 10 sobres de 4 tabletas. No se confirmó variante exacta (Sedalmerck normal, Forte o Extra), principios activos ni fabricante. Se asumió analgésico de venta libre.",
+    "fecha": "2026-09-29"
+  }
+}

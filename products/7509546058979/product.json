@@ -1,0 +1,42 @@
+{
+  "gtin": "7509546058979",
+  "sku": "7509546058979",
+  "linea": "Mark",
+  "nombre_sistema": "FIJ CAPRICE NAT ALGA SPY 316ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Fijador Caprice Natural Alga Spray 316 ml",
+  "descripcion": "Descripción:\nFijador para el cabello en spray de la marca Caprice, línea Natural, con extracto de alga, en presentación de 316 ml. Consulte el empaque para conocer sus ingredientes, el nivel de fijación y el modo de uso.\n\nPresentación:\nEnvase con spray de 316 ml.\n\nModo de uso:\nAplique sobre el cabello seco manteniendo el envase a una distancia prudente, según las instrucciones de la etiqueta.\n\nAdvertencias:\nProducto de uso externo. Evite el contacto con los ojos; si esto ocurre, enjuague con abundante agua. Manténgase fuera del alcance de los niños. Lea las indicaciones de la etiqueta del empaque.",
+  "ficha": {
+    "marca": "Caprice",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Natural",
+    "variante": "Alga",
+    "presentacion": "Spray",
+    "contenido_neto": 316,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Ingrediente destacado: Alga; Tipo de producto: Fijador en spray; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM191692",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (FIJ = fijador, NAT = línea Natural, ALGA, SPY = spray, 316 ml). El fabricante Colgate-Palmolive se infirió porque el prefijo del GTIN (7509546) lo comparten los productos Colgate del sistema; no se verificó. No se confirmó si el ingrediente es alga o extracto de alga, ni si es aerosol o atomizador. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

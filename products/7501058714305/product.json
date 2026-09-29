@@ -1,0 +1,51 @@
+{
+  "gtin": "7501058714305",
+  "sku": "7501058714305",
+  "linea": "Farma",
+  "nombre_sistema": "TEMPRA JBE INF 3 2 100ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tempra Jarabe Infantil Paracetamol 3.2 g/100 ml 120 ml",
+  "descripcion": "Descripción:\nTempra Jarabe Infantil sabor fresa es una suspensión oral de paracetamol en presentación de 120 ml. Es un analgésico y antipirético pediátrico que se utiliza para reducir la fiebre y aliviar dolores leves, como el dolor de cabeza y los dolores generales.\n\nComposición:\nParacetamol 3.2 g por cada 100 ml (32 mg por ml).\n\nSabor:\nFresa.\n\nModo de uso:\nVía oral. La dosis depende de la edad y del peso del niño; siga las indicaciones del instructivo o las de su pediatra y no exceda la dosis recomendada. Utilice el dosificador que viene en el empaque.\n\nPresentación:\nCaja con frasco de 120 ml. Conservar a temperatura ambiente controlada, entre 15 y 30 °C.\n\nAdvertencias:\n- No lo use si el niño es alérgico al paracetamol o a algún componente de la fórmula.\n- No administre otros medicamentos que contengan paracetamol al mismo tiempo.\n- Si la fiebre o el dolor persisten, acuda con su médico.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tempra",
+    "fabricante": "Reckitt Benckiser",
+    "linea": "Infantil",
+    "presentacion": "Jarabe",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol",
+    "concentracion": "3.2 g/100 ml",
+    "via_administracion": "Oral",
+    "edad_etapa": "Niños",
+    "sabor_aroma": "Fresa",
+    "genero": "Niños",
+    "registro_sanitario": "48690SSAVI",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/3624-comprar-tempra-infantil-32-g100-ml-caja-con-frasco-con-120-ml-precio-7501058714305.html",
+    "https://www.farmaciasespecializadas.com/tempra-inf-fresa-3-2-g-100-ml-jbe-c-120-ml.html"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado: jarabe infantil sabor fresa de 120 ml. El 100ML del nombre del sistema corresponde a la concentración (3.2 g/100 ml), no al contenido; el frasco es de 120 ml.",
+    "fecha": "2026-09-29"
+  }
+}

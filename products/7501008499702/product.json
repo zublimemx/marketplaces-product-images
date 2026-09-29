@@ -1,0 +1,49 @@
+{
+  "gtin": "7501008499702",
+  "sku": "7501008499702",
+  "linea": "Farma",
+  "nombre_sistema": "TABCIN PODS NOCHE C12 CAPS OCTUBRE 27 BAYER",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tabcin Noche Bayer 325 mg / 10 mg 12 Cápsulas",
+  "descripcion": "Descripción:\nTabcin Noche es un medicamento de Bayer en cápsulas, formulado para aliviar por la noche los síntomas de la gripe y el resfriado. Combina un analgésico y antipirético (paracetamol), un antitusivo (dextrometorfano) y un descongestionante nasal (fenilefrina), de modo que ayuda a controlar varios síntomas a la vez.\n\nBeneficios:\n- Alivia la fiebre y el dolor de cabeza y de cuerpo\n- Ayuda a calmar la tos\n- Reduce la congestión nasal\n- Presentación práctica en cápsulas de uso nocturno\n\nComposición:\nParacetamol 325 mg y dextrometorfano 10 mg por cápsula, además de un descongestionante nasal (fenilefrina) y otros componentes. Consulte la fórmula completa en el empaque.\n\nModo de uso:\nVía oral. Tome las cápsulas con un vaso de agua, en la dosis y con la frecuencia que indique el empaque o su médico. No exceda la dosis recomendada.\n\nPresentación:\nCaja con 12 cápsulas.\n\nAdvertencias:\nNo lo use junto con otros productos que contengan paracetamol. Por ser un producto de uso nocturno, evite conducir u operar maquinaria después de tomarlo. Evite el consumo de alcohol durante el tratamiento. Si tiene hipertensión, problemas del corazón o del hígado, o si toma otros medicamentos, consulte a su médico antes de usarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tabcin",
+    "fabricante": "Bayer",
+    "variante": "Noche",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 12,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 12,
+    "principio_activo": "Paracetamol, dextrometorfano y fenilefrina",
+    "concentracion": "Paracetamol 325 mg; dextrometorfano 10 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Uso: Nocturno; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194695",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.klyns.mx/tabcin-noche-325-mg-10-mg-12-capsulas/p",
+    "https://www.emeritafarmacias.com/producto/TABCIN-NOCHE-325MG10MG-C-12-CAP-NV/",
+    "https://wecarepharma.mx/en/products/tabcin-noche-paracetamol-dextrometorfano-fenilefrina-capsulas-con-12"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Tabcin Noche caja con 12 cápsulas (Bayer). El nombre del sistema dice PODS, pero ninguna ficha con este GTIN usa ese término; se omitió del título. Las dosis difieren entre fuentes (325 mg / 10 mg en dos farmacias; 500 mg / 15 mg / 10 mg en otra); se usaron las de las dos farmacias. La fórmula incluye otros componentes (una ficha sugiere 6.25 mg y 5 mg): confirmar en el empaque.",
+    "fecha": "2026-09-29"
+  }
+}

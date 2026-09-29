@@ -1,0 +1,49 @@
+{
+  "gtin": "7730979094092",
+  "sku": "7730979094092",
+  "linea": "Farma",
+  "nombre_sistema": "ASOFLON LP 0 4 MG C 30 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Asoflon LP Tamsulosina 0.4 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nAsoflon LP es un medicamento en cápsulas de liberación prolongada cuyo principio activo es el clorhidrato de tamsulosina, un bloqueador alfa que se utiliza en padecimientos urológicos relacionados con el flujo urinario, como los síntomas urinarios asociados al aumento benigno de la próstata.\n\nComposición:\nCada cápsula de liberación prolongada contiene clorhidrato de tamsulosina 0.4 mg.\n\nModo de uso:\nVía oral. Tome la dosis que le indique su médico o la que señale el instructivo del empaque. Las cápsulas de liberación prolongada deben tragarse enteras, sin abrirlas ni masticarlas.\n\nPresentación:\nCaja con 30 cápsulas de liberación prolongada. Conservar a temperatura ambiente controlada.\n\nAdvertencias:\n- No lo use si es alérgico a la tamsulosina o a algún componente de la fórmula.\n- Puede causar mareo al ponerse de pie; tenga precaución al conducir u operar maquinaria.\n- Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Asoflon",
+    "fabricante": "Asofarma",
+    "linea": "LP",
+    "presentacion": "Cápsulas de liberación prolongada",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Clorhidrato de tamsulosina",
+    "concentracion": "0.4 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "241M2003SSAIV",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457832",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.farmalisto.com.mx/nefrologia-y-urologia/9128-comprar-asoflon-04-mg-caja-con-30-capsulas-Prostata-Precio-7730979094092.html",
+    "https://curitek.com/producto/asoflon-lp-tamsulosina/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN y presentación de 30 cápsulas confirmados. La farmacia lo marca como medicamento con receta; se publica en venta libre por instrucción del dueño. El fabricante y el registro sanitario provienen de una sola farmacia en línea.",
+    "fecha": "2026-09-29"
+  }
+}

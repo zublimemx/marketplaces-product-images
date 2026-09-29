@@ -1,0 +1,43 @@
+{
+  "gtin": "7501017376995",
+  "sku": "7501017376995",
+  "linea": "Mark",
+  "nombre_sistema": "SUAVE GDE E4 C/14",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Suave Grande Etapa 4 14 Piezas",
+  "descripcion": "Descripción:\nPañales desechables para bebé de la marca Suave, talla Grande (Etapa 4), diseñados para mantener al bebé seco y cómodo durante el día y la noche. Esta presentación es un paquete con 14 pañales.\n\nCaracterísticas:\n- Pañales desechables de un solo uso.\n- Talla Grande, Etapa 4.\n- Cintas ajustables para un ajuste seguro.\n- Paquete con 14 piezas.\n\nModo de uso:\nLimpie y seque la piel del bebé antes de colocar el pañal. Ajuste las cintas de modo que quede cómodo, sin apretar, y cámbielo con frecuencia o cuando esté húmedo o sucio. Después de usarlo, enróllelo y deséchelo en la basura, nunca en el inodoro.\n\nPresentación:\nPaquete con 14 pañales talla Grande, Etapa 4.\n\nAdvertencias:\nProducto de un solo uso. Mantenga fuera del alcance de los niños las bolsas de plástico. Consulte en el empaque el rango de peso recomendado para esta talla.",
+  "ficha": {
+    "marca": "Suave",
+    "variante": "Desechables",
+    "presentacion": "Paquete",
+    "contenido_neto": 14,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 14,
+    "edad_etapa": "Etapa 4",
+    "talla": "Grande",
+    "genero": "Unisex",
+    "otros": "Formato de venta: Paquete; Tipo: Pañal desechable"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Se interpretó 'SUAVE GDE E4 C/14' como pañales de bebé talla Grande, Etapa 4, 14 piezas; no se pudo confirmar la marca exacta ni el fabricante, ni el rango de peso. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

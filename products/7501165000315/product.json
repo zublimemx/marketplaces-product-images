@@ -1,0 +1,39 @@
+{
+  "gtin": "7501165000315",
+  "sku": "7501165000315",
+  "linea": "Farma",
+  "nombre_sistema": "NEO MELUBRINA JBE 84",
+  "nombres_sistema_alternos": [],
+  "titulo": "Neo-Melubrina Jarabe Metamizol Sódico",
+  "descripcion": "Descripción:\nNeo-Melubrina en jarabe, medicamento cuyo principio activo es el metamizol sódico (dipirona), con acción analgésica y antipirética. Consulte en el empaque la concentración exacta, el contenido, las indicaciones y la dosis según la edad y el peso.\n\nComposición:\nMetamizol sódico. Consulte la concentración por dosis en el empaque.\n\nModo de uso:\nVía oral. Administre la dosis indicada en el empaque o por su médico, con un dosificador adecuado. No exceda la dosis recomendada ni prolongue el tratamiento sin indicación médica.\n\nPresentación:\nFrasco con jarabe.\n\nAdvertencias:\nNo lo use si es alérgico al metamizol, a otras pirazolonas o a algún componente de la fórmula. Suspenda su uso y consulte a su médico si presenta fiebre que no cede, erupciones en la piel, dolor de garganta o cualquier reacción inusual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Neo-Melubrina",
+    "presentacion": "Jarabe",
+    "unidades_por_envase": 1,
+    "principio_activo": "Metamizol sódico",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. El principio activo (metamizol) se dedujo de la marca Neo-Melubrina por conocimiento general. El 84 del nombre no se pudo interpretar (puede ser volumen o lote), por eso no hay contenido ni concentración. Se desconoce el fabricante y la clasificación de venta. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

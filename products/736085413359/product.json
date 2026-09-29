@@ -1,0 +1,44 @@
+{
+  "gtin": "736085413359",
+  "sku": "736085413359",
+  "linea": "Farma",
+  "nombre_sistema": "LAGRICEL PF OFT 4MG ML SOL 10ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Lagricel PF Solución Oftálmica Lubricante 4 mg/ml 10 ml",
+  "descripcion": "Descripción:\nLagricel PF es una solución oftálmica estéril de Laboratorios Sophia, formulada como lubricante ocular para aliviar la resequedad y la incomodidad de los ojos. La sigla PF indica que es una fórmula sin conservadores. Se presenta en frasco de 10 ml con una concentración de 4 mg/ml.\n\nBeneficios:\n- Lubrica la superficie del ojo y ayuda a aliviar la sensación de resequedad, ardor o irritación leve.\n- Fórmula sin conservadores (PF), pensada para uso frecuente.\n- Frasco de 10 ml con gotero para una aplicación sencilla.\n\nModo de uso:\nVía oftálmica. Aplique una gota en el ojo o los ojos afectados las veces que sea necesario, o según lo indique su médico. No toque la punta del gotero con los dedos, con el ojo ni con otra superficie, y cierre bien el frasco después de cada uso. Si utiliza lentes de contacto, consulte a su oftalmólogo antes de aplicar el producto.\n\nPresentación:\nFrasco con 10 ml de solución oftálmica.\n\nAdvertencias:\nExclusivo para uso en los ojos. No lo use si el sello del envase está roto o si la solución cambia de color o presenta partículas. Suspenda su uso y consulte a su médico si aparece dolor, enrojecimiento intenso, cambios en la visión o si la molestia persiste o empeora. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lagricel",
+    "fabricante": "Laboratorios Sophia",
+    "linea": "PF",
+    "variante": "Solución oftálmica 4 mg/ml",
+    "presentacion": "Solución oftálmica (gotas)",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "concentracion": "4 mg/ml",
+    "via_administracion": "Oftálmica",
+    "otros": "Sin conservadores (PF): Sí; Uso: Lubricante ocular; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en línea: se agotó el presupuesto de WebSearch de la sesión (200/200) y el sitio de Sophia no se pudo consultar. Identificación por el nombre y conocimiento general (Lagricel = lágrima artificial de Sophia; PF = sin conservadores). No se confirmó el principio activo (4 mg/ml) por lo que no aparece en la ficha; agregarlo desde el empaque. Registro sanitario pendiente. Se eligió Para Ojos y Oídos Venta Libre en lugar de Oftálmicos por tener más publicaciones.",
+    "fecha": "2026-09-29"
+  }
+}

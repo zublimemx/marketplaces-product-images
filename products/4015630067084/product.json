@@ -1,0 +1,46 @@
+{
+  "gtin": "4015630067084",
+  "sku": "4015630067084",
+  "linea": "Farma",
+  "nombre_sistema": "ACCU CHEK C50 TIRAS INSTANT",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiras Reactivas Accu-Chek Instant 50 Piezas",
+  "descripcion": "Descripción:\nTiras reactivas Accu-Chek Instant, de Roche, para medir la glucosa en sangre capilar con el medidor Accu-Chek Instant (el medidor no está incluido). Cuentan con un borde amplio que facilita tomar la muestra y con tecnología de rápida absorción.\n\nCaracterísticas:\n- Borde amplio para facilitar la toma de la muestra y tecnología de rápida absorción.\n- Requieren solo 0.6 µl de sangre, equivalente a una gota.\n- Resultado en aproximadamente 4 segundos después de aplicar la muestra.\n- Método enzimático electroquímico, que ayuda a disminuir interferencias.\n- Se mantienen estables hasta la fecha de caducidad impresa en el tubo, incluso después de abierto, si se conservan entre 4 y 30 °C.\n\nModo de uso:\n1. Inserte la tira en el medidor Accu-Chek Instant.\n2. Puncione el dedo con un dispositivo de punción (no incluido).\n3. Acerque la gota de sangre al borde de la tira.\n4. Lea el resultado en la pantalla del medidor.\n\nPresentación:\nEnvase con 50 tiras reactivas.\n\nAdvertencias:\nUse únicamente tiras reactivas Accu-Chek Instant con el medidor Accu-Chek Instant. Cierre bien el envase después de retirar cada tira y no las use después de la fecha de caducidad. Consulte el manual del medidor y a su médico para interpretar los resultados. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "linea": "Instant",
+    "variante": "Tiras reactivas de glucosa",
+    "presentacion": "Tiras reactivas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "2120R2017 SSA",
+    "otros": "Compatible con: medidor Accu-Chek Instant; Volumen de muestra: 0.6 µl; Tiempo de resultado: 4 segundos; Tecnología: Enzimática electroquímica; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
+  "fuentes": [
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Instant (presentaciones de 25 y 50 tiras). El registro 2120R2017 SSA aparece en esa página; confirmar en el empaque. Es un insumo de diagnóstico, no un medicamento; se usó Medidores de Glucosa igual que en el lote 1.",
+    "fecha": "2026-09-29"
+  }
+}

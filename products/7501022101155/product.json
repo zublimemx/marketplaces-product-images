@@ -1,0 +1,40 @@
+{
+  "gtin": "7501022101155",
+  "sku": "7501022101155",
+  "linea": "Farma",
+  "nombre_sistema": "REUMOPHAN C20 TABS GRISI",
+  "nombres_sistema_alternos": [],
+  "titulo": "Reumophan Grisi 20 Tabletas",
+  "descripcion": "Descripción:\nReumophan, de Grisi, en tabletas, presentación con 20 piezas. Consulte la composición, las indicaciones y el modo de uso en el empaque del producto.\n\nPresentación:\nCaja con 20 tabletas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en periodo de lactancia, o si padece alguna enfermedad crónica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Reumophan",
+    "fabricante": "Grisi",
+    "presentacion": "Tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "via_administracion": "Oral"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificar en línea: se agotó el presupuesto de WebSearch de la sesión. Marca y presentación tomadas del nombre; no se confirmó la composición (principios activos) ni si requiere receta. Categoría Musculoarticulares por el tipo de producto conocido; podría cambiar a Analgésicos según la fórmula. Revisar en PLM.",
+    "fecha": "2026-09-29"
+  }
+}

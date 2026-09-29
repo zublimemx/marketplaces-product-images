@@ -1,0 +1,42 @@
+{
+  "gtin": "7503007704634",
+  "sku": "7503007704634",
+  "linea": "Farma",
+  "nombre_sistema": "SOMAZINA 500 MG C 20 COMPR",
+  "nombres_sistema_alternos": [],
+  "titulo": "Somazina 500 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nSomazina 500 mg es un medicamento en comprimidos de administración oral. Se comercializa en caja con 20 comprimidos. No se pudo confirmar su indicación aprobada, por lo que la descripción se limita a los datos de presentación.\n\nModo de uso:\nVía oral. Siga la dosis y la frecuencia que indica el empaque o su médico, y no exceda la cantidad recomendada. Verifique en el empaque la composición, las indicaciones y las precauciones del producto antes de usarlo.\n\nPresentación:\nCaja con 20 comprimidos de 500 mg.\n\nAdvertencias:\nNo lo utilice si es alérgico a alguno de los componentes de la fórmula. Informe a su médico si está embarazada, en periodo de lactancia o si toma otros medicamentos. Si presenta cualquier reacción adversa, suspenda su uso y consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Somazina",
+    "variante": "500 mg",
+    "presentacion": "Comprimidos",
+    "contenido_neto": 20,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 20,
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja con 20 comprimidos"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "NO INVESTIGADO EN LÍNEA: se agotó el límite de búsquedas web de la sesión (200/200). Se sospecha que Somazina es citicolina (grupo del sistema nervioso), dato de conocimiento general sin confirmar; por eso el principio activo no aparece en título, descripción ni ficha, y la categoría Sistema Nervioso Venta Libre es provisional. Si se confirma citicolina, revisar si requiere receta (categoría rx MLM457836). Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "gtin": "7501088507922",
+  "sku": "7501088507922",
+  "linea": "Farma",
+  "nombre_sistema": "KOPTIN 500 MG C 3 TABS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Koptin 500 mg 3 Tabletas",
+  "descripcion": "Descripción:\nKoptin es un medicamento de la marca Koptin en tabletas de 500 mg. Esta presentación es una caja con 3 tabletas para administración oral. El principio activo, las indicaciones autorizadas y la dosis se encuentran en el empaque y en el instructivo del producto.\n\nModo de uso:\nVía oral. Siga la dosis, la frecuencia y la duración que indique el instructivo o su médico. No suspenda ni modifique el tratamiento sin consultarlo.\n\nPresentación:\nCaja con 3 tabletas de 500 mg.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Koptin",
+    "concentracion": "500 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 3,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 3,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. No se pudo identificar con certeza el principio activo (un esquema de 3 tabletas de 500 mg es típico de antibióticos, pero no confirmado); por eso se usó 'Otros Medicamentos'. Si resulta antibiótico: receta Sí y categoría Rx MLM457827.",
+    "fecha": "2026-09-29"
+  }
+}

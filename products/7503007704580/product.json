@@ -1,0 +1,44 @@
+{
+  "gtin": "7503007704580",
+  "sku": "7503007704580",
+  "linea": "Farma",
+  "nombre_sistema": "HIDRASEC 30MG SOB 18",
+  "nombres_sistema_alternos": [],
+  "titulo": "Hidrasec Racecadotrilo 30 mg 18 Sobres",
+  "descripcion": "Descripción:\nHidrasec 30 mg es un medicamento en sobres cuyo principio activo es el racecadotrilo. Se presenta en caja con 18 sobres. Su uso debe ser indicado por un médico, quien define la dosis, la edad o el peso adecuados y la duración del tratamiento.\n\nComposición:\nCada sobre contiene 30 mg de racecadotrilo.\n\nPresentación:\nCaja con 18 sobres de 30 mg.\n\nAdvertencias:\nNo lo use sin indicación médica. Durante su uso es importante mantener una buena hidratación, según lo indique su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Hidrasec",
+    "fabricante": "Ferrer",
+    "variante": "30 mg",
+    "presentacion": "Sobres",
+    "contenido_neto": 18,
+    "unidad_contenido": "sobres",
+    "unidades_por_envase": 18,
+    "principio_activo": "Racecadotrilo",
+    "concentracion": "30 mg",
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: el límite de WebSearch de la sesión estaba agotado (200/200). Principio activo (racecadotrilo) tomado de conocimiento previo de la marca. El fabricante (Ferrer) se dedujo por el prefijo GTIN 7503007, el mismo de Núcleo C.M.P. Forte del lote 1, y no está confirmado. Se desconoce la edad o el peso indicado para la dosis de 30 mg. Si resulta con receta, usar MLM457828. Verificar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

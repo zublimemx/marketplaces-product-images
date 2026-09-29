@@ -1,0 +1,44 @@
+{
+  "gtin": "7501201400567",
+  "sku": "7501201400567",
+  "linea": "Farma",
+  "nombre_sistema": "REFRESH TEARS 10ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Refresh Tears Gotas Lubricantes para Ojos 10 ml",
+  "descripcion": "Descripción:\nRefresh Tears es una solución oftálmica lubricante (lágrimas artificiales) de Allergan, una compañía de AbbVie, en frasco de 10 ml. Su ingrediente activo es la carboximetilcelulosa sódica al 0.5%, que humecta y lubrica la superficie del ojo.\n\nBeneficios:\n- Ayuda a aliviar la irritación y la molestia ocasional por resequedad ocular.\n- Uso oftálmico.\n\nComposición:\nCarboximetilcelulosa sódica 0.5% (5 mg/ml).\n\nModo de uso:\nAplique una o dos gotas en el ojo o los ojos afectados cuantas veces sea necesario, o según lo indique su médico.\n\nPresentación:\nFrasco gotero con 10 ml de solución oftálmica.\n\nAdvertencias:\nNo toque la punta del gotero con el ojo ni con otra superficie. Cierre el frasco después de cada uso. No lo use si el sello de seguridad está roto. Suspenda su uso y consulte a su médico si presenta dolor ocular, cambios en la visión o enrojecimiento o irritación que persiste. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Refresh",
+    "fabricante": "Allergan (AbbVie)",
+    "linea": "Tears",
+    "presentacion": "solución oftálmica (gotas)",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Carboximetilcelulosa sódica",
+    "concentracion": "0.5%",
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: se agotó el presupuesto de WebSearch de la sesión (200/200); datos deducidos del nombre del sistema y del conocimiento general de la marca. Confirmar que el frasco de 10 ml lleve carboximetilcelulosa 0.5% y no otra variante de Refresh.",
+    "fecha": "2026-09-29"
+  }
+}

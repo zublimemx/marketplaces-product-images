@@ -1,0 +1,46 @@
+{
+  "gtin": "7501298217130",
+  "sku": "7501298217130",
+  "linea": "Farma",
+  "nombre_sistema": "DABEX XR 1000MG C30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Dabex XR Metformina 1000 mg 30 Tabletas",
+  "descripcion": "Descripción:\nDabex XR 1000 mg es un medicamento de liberación prolongada cuyo principio activo es el clorhidrato de metformina, un antidiabético oral que se usa en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio, bajo prescripción y supervisión médica. La presentación XR libera el medicamento de forma gradual, por lo que normalmente se toma una vez al día.\n\nComposición:\nCada tableta de liberación prolongada contiene metformina 1000 mg.\n\nModo de uso:\nVía oral. Trague la tableta entera con alimentos, sin partirla, masticarla ni triturarla, en la dosis que indique su médico.\n\nPresentación:\nCaja con 30 tabletas de liberación prolongada.\n\nAdvertencias:\n- No lo use si tiene enfermedad grave de los riñones o del hígado, ni en cetoacidosis diabética.\n- Suspenda su uso y consulte de inmediato a su médico si presenta vómito, dolor abdominal, respiración rápida o cansancio extremo.\n- Informe a su médico antes de estudios con medio de contraste o cirugías, y si consume alcohol con frecuencia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dabex",
+    "fabricante": "Merck",
+    "linea": "XR",
+    "variante": "Liberación prolongada",
+    "presentacion": "Tabletas de liberación prolongada",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Metformina",
+    "concentracion": "1000 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar por GTIN ni por nombre: el presupuesto de WebSearch de la sesión se agotó. Datos deducidos del nombre del sistema (DABEX XR 1000MG C30) y de conocimiento general de la marca (metformina de liberación prolongada; fabricante Merck no verificado). Verificar principio activo y contenido en el empaque o en una fuente. Categoría de venta libre más cercana para antidiabéticos: Digestivos Venta Libre (dominio digestivo y metabólico).",
+    "fecha": "2026-09-29"
+  }
+}

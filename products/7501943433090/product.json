@@ -1,0 +1,49 @@
+{
+  "gtin": "7501943433090",
+  "sku": "7501943433090",
+  "linea": "Mark",
+  "nombre_sistema": "HU CONF UNI E2 C44",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Huggies Ultra Confort Unisex Etapa 2 44 Piezas",
+  "descripcion": "Descripción:\nPañales desechables Huggies Ultra Confort Unisex, Etapa 2, en paquete con 44 piezas. Están pensados para ofrecer comodidad, ajuste y protección al bebé, con un diseño anatómico que brinda mayor cobertura y flexibilidad, según el fabricante.\n\nCaracterísticas:\n- Diseño anatómico con mayor cobertura y flexibilidad, adaptado al cuerpo del bebé.\n- Cintas Confort Flex V-Shape con cuatro puntos de sujeción para un ajuste seguro.\n- Cintura elástica más suave y flexible.\n- Núcleo absorbente reforzado y cubierta interna con poros ultra absorbentes.\n- Indicador de humedad.\n- Indicador de cambio de etapa.\n- Cuenta con certificación Dermatest®.\n\nPresentación:\nPaquete con 44 pañales desechables, Etapa 2 (talla Chico), versión unisex.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "ficha": {
+    "marca": "Huggies",
+    "fabricante": "Kimberly-Clark",
+    "linea": "Ultra Confort",
+    "variante": "Unisex",
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 44,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 44,
+    "edad_etapa": "Etapa 2",
+    "talla": "Chico",
+    "genero": "Unisex",
+    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Huggies-Ultraconfort-Panales-Unisex-Etapa-2/7501943433090",
+    "https://farmaciacoyoacan.com/products/panal-huggies-ultra-confort-unisex-etapa-2-44-piezas-2",
+    "https://www.huggies.com.mx/productos/huggies-ultraconfort/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como Huggies Ultra Confort Unisex Etapa 2. Algunas fichas lo publican con 40 piezas y otras con 44; se respetó las 44 del sistema. Características tomadas de la página oficial de Ultra Confort (no diferencia rangos de peso por etapa).",
+    "fecha": "2026-09-29"
+  }
+}

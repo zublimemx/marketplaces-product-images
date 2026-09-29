@@ -1,0 +1,50 @@
+{
+  "gtin": "7501298214375",
+  "sku": "7501298214375",
+  "linea": "Farma",
+  "nombre_sistema": "DENVAR 400MG C6 CAPS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Denvar Cefixima 400 mg 6 Cápsulas",
+  "descripcion": "Descripción:\nDenvar es un antibiótico en cápsulas que contiene cefixima 400 mg, una cefalosporina de tercera generación de administración oral, de Merck. De acuerdo con su ficha, está indicado en infecciones causadas por bacterias sensibles a la cefixima.\n\nBeneficios:\n- Indicado en faringitis y amigdalitis por Streptococcus pyogenes.\n- Indicado en bronquitis aguda y neumonía.\n- Indicado en otitis media.\n- Indicado en infecciones de las vías urinarias no complicadas.\n- Una sola toma al día, en cápsula de 400 mg.\n\nComposición:\nCada cápsula contiene cefixima (como trihidrato) 400 mg y excipientes.\n\nModo de uso:\nVía oral. La cápsula se ingiere entera, sin masticar, con líquido. Adultos y niños mayores de 12 años o con peso mayor de 50 kg: 400 mg una vez al día (o 200 mg cada 12 horas) durante 7 a 14 días; en cistitis aguda no complicada, 400 mg al día durante 1 a 3 días, o según indique su médico. Complete el tratamiento indicado.\n\nPresentación:\nCaja con 6 cápsulas de 400 mg.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si es alérgico a la cefixima, a otras cefalosporinas o cefamicinas, ni si ha tenido reacciones inmediatas a las penicilinas. El uso prolongado puede causar colitis pseudomembranosa; se han descrito reacciones cutáneas graves. Puede causar diarrea y heces blandas. Vigile la función renal si usa diuréticos o aminoglucósidos. Puede reducir la eficacia de los anticonceptivos orales. Durante la lactancia se recomienda evitarlo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Denvar",
+    "fabricante": "Merck",
+    "variante": "Cefixima 400 mg",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 6,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Cefixima",
+    "concentracion": "400 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "025M93 SSA",
+    "otros": "Venta con receta médica; Tipo: Antibiótico (cefalosporina)"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1139695/denvar-capsula-400-mg",
+    "https://www.farmalisto.com.mx/antibioticos/5615-denvar-400-mg-caja-con-6-capsulas-rx2-7501298214375.html",
+    "https://farmaciaherrera.com.mx/products/denvar-400-mg-con-6-capsulas"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Antibiótico de venta con receta (en México se surte con receta retenida).",
+    "fecha": "2026-09-29"
+  }
+}

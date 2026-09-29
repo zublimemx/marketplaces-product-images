@@ -1,0 +1,45 @@
+{
+  "gtin": "7506295337454",
+  "sku": "7506295337454",
+  "linea": "Farma",
+  "nombre_sistema": "PBA EMB CLEAR BLUE DIGITAL",
+  "nombres_sistema_alternos": [],
+  "titulo": "Prueba de Embarazo Clearblue Digital 1 Pieza",
+  "descripcion": "Descripción:\nPrueba de embarazo Clearblue Digital con indicador de concepción, en presentación individual de 1 pieza. Es una prueba de uso doméstico que muestra el resultado en una pantalla digital y, cuando es positivo, indica además el tiempo estimado transcurrido desde la concepción.\n\nCaracterísticas:\n- Resultado digital fácil de leer\n- Con indicador de concepción (semanas)\n- Prueba de uso individual\n- Prueba de uso doméstico\n\nModo de uso:\n- Retire la prueba de su envoltorio y destape la punta absorbente.\n- Coloque la punta absorbente en el chorro de orina durante el tiempo indicado en el instructivo.\n- Coloque el capuchón o deje la prueba sobre una superficie plana y espere el tiempo señalado para leer el resultado en la pantalla.\n\nPresentación:\nCaja con 1 prueba de embarazo digital.\n\nAdvertencias:\n- Solo para uso diagnóstico in vitro y uso externo. No ingerir.\n- No reutilice la prueba.\n- Confirme el resultado con su médico.\n- Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Clearblue",
+    "linea": "Digital",
+    "variante": "Con indicador de concepción",
+    "presentacion": "Prueba digital individual",
+    "contenido_neto": 1,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "otros": "Tipo de prueba: Embarazo; Formato de venta: Unidad"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194260",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [
+    "https://farmalisto.com.mx/pruebas-de-embarazo/8661-comprar-prueba-de-embarazo-digital-con-indicador-de-concepcion-clearblue-caja-con-1-pieza-precio-7506295337454.html",
+    "https://farmaciasfleming.mx/producto/prueba-de-embarazo-clearblue-digital/"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en varias farmacias: Clearblue Digital con indicador de concepción, 1 pieza. No se pudo leer la ficha completa (WebFetch rechazado por límite de solicitudes), por eso el modo de uso es general; verificar los pasos con el instructivo del empaque.",
+    "fecha": "2026-09-29"
+  }
+}

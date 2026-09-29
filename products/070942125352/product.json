@@ -1,0 +1,41 @@
+{
+  "gtin": "070942125352",
+  "sku": "070942125352",
+  "linea": "Mark",
+  "nombre_sistema": "KIT DE ORTODONCIA GUM 6PZAS",
+  "nombres_sistema_alternos": [],
+  "titulo": "Kit de Ortodoncia Gum 6 Piezas",
+  "descripcion": "Descripción:\nKit de cuidado bucal de la marca GUM (Sunstar) pensado para personas que usan aparatos de ortodoncia, como brackets. Reúne 6 piezas de higiene bucal para complementar el cepillado diario y ayudar a mantener limpios los dientes, los aparatos y los espacios de difícil acceso. El contenido exacto de las 6 piezas se indica en el empaque.\n\nCaracterísticas:\n- Kit de higiene bucal para uso con ortodoncia.\n- Incluye 6 piezas de la marca GUM.\n- Práctico para llevar en casa o de viaje.\n\nModo de uso:\nUse los accesorios del kit como complemento del cepillado con pasta dental, después de cada comida cuando sea posible, siguiendo las instrucciones del empaque y las recomendaciones de su ortodoncista o dentista.\n\nPresentación:\nKit con 6 piezas.\n\nAdvertencias:\nProducto de uso personal. Si presenta sangrado persistente o molestias en las encías, consulte a su dentista u ortodoncista.",
+  "ficha": {
+    "marca": "GUM",
+    "fabricante": "Sunstar",
+    "variante": "Kit de ortodoncia",
+    "presentacion": "Kit",
+    "contenido_neto": 6,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 6,
+    "otros": "Formato de venta: Kit; Uso: Ortodoncia"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM180914",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el límite de búsquedas de la sesión (200) estaba agotado, por lo que no se consultó ninguna fuente; datos por conocimiento general del producto. Contenido exacto de las 6 piezas no confirmado (se describe de forma general). El prefijo UPC 070942 corresponde a Sunstar/GUM según conocimiento previo, no verificado. Categoría: Cuidado Bucal > Otros (no existe hoja específica para kits de ortodoncia).",
+    "fecha": "2026-09-29"
+  }
+}

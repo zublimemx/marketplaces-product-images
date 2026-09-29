@@ -1,0 +1,41 @@
+{
+  "gtin": "7501314704460",
+  "sku": "7501314704460",
+  "linea": "Farma",
+  "nombre_sistema": "ORECIL NF SOL OTICA 10ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Orecil NF Solución Ótica 10 ml",
+  "descripcion": "Descripción:\nOrecil NF es un medicamento en solución ótica (para uso en el oído), presentado en frasco con 10 ml. La composición exacta y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución ótica\n- Contenido: 10 ml\n\nAdvertencias:\nDe uso exclusivo en el oído. No lo ingiera. Utilícelo únicamente según lo indicado en el empaque o por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Orecil",
+    "variante": "NF",
+    "presentacion": "Solución ótica",
+    "contenido_neto": 10,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Ótica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). Principio activo y fabricante sin identificar; el precio sugiere que podría contener antibiótico o corticoide, por lo que podría requerir receta (verificar; alternativa Rx: MLM457829).",
+    "fecha": "2026-09-29"
+  }
+}

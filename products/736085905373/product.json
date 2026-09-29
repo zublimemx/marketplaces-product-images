@@ -1,0 +1,40 @@
+{
+  "gtin": "736085905373",
+  "sku": "736085905373",
+  "linea": "Farma",
+  "nombre_sistema": "KRYTANTEK SOL 5ML",
+  "nombres_sistema_alternos": [],
+  "titulo": "Krytantek Solución Oftálmica 5 ml",
+  "descripcion": "Descripción:\nKrytantek en solución oftálmica, frasco con 5 ml. Medicamento de uso oftálmico; consulte el empaque para conocer su composición, indicaciones, forma de aplicación y advertencias.\n\nPresentación:\nFrasco con 5 ml de solución oftálmica.\n\nAdvertencias:\n- No toque la punta del gotero con los dedos, los ojos ni otras superficies para evitar contaminarlo.\n- Si usa lentes de contacto, consulte a su médico antes de aplicarlo.\n- Suspenda su uso y consulte a su médico si presenta enrojecimiento, dolor o irritación que persiste.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Krytantek",
+    "presentacion": "Solución oftálmica",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oftálmica",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457824",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado; el GTIN tiene 12 dígitos y faltó probar con un 0 al inicio). Uso oftálmico inferido del nombre y del prefijo del código; no se conoce el principio activo, el laboratorio ni si requiere receta (probable si es un colirio con principio activo).",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "gtin": "7501095409004",
+  "sku": "7501095409004",
+  "linea": "Farma",
+  "nombre_sistema": "GRANEODIN B FRAMBUESA C 24 PAST",
+  "nombres_sistema_alternos": [],
+  "titulo": "Graneodin B Sabor Frambuesa 24 Pastillas",
+  "descripcion": "Descripción:\nGraneodin B es un producto en pastillas para la garganta, en sabor frambuesa, que se comercializa en farmacias de México. Esta presentación incluye 24 pastillas. Consulte la etiqueta del empaque para conocer su composición, indicaciones y modo de uso.\n\nPresentación:\nCaja con 24 pastillas sabor frambuesa.\n\nModo de uso:\nVía oral. Deje disolver lentamente en la boca; no las mastique. Siga la dosis indicada en el empaque o por su médico.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes de la fórmula. Suspenda su uso y consulte a su médico si los síntomas persisten o empeoran. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Graneodin",
+    "variante": "B",
+    "presentacion": "Pastillas",
+    "contenido_neto": 24,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 24,
+    "via_administracion": "Oral",
+    "sabor_aroma": "Frambuesa",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Se dedujo del nombre del sistema (Graneodin B, frambuesa, 24 pastillas). No se verificaron composición, fabricante ni si su venta requiere receta (normalmente se vende sin receta, pero confirmar en el empaque). La categoría Dolor de Garganta es la más probable por el tipo de producto. El modo de uso es genérico de pastillas. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

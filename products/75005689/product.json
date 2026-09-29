@@ -1,0 +1,39 @@
+{
+  "gtin": "75005689",
+  "sku": "75005689",
+  "linea": "Farma",
+  "nombre_sistema": "RESPICIL AD INY IM",
+  "nombres_sistema_alternos": [],
+  "titulo": "Respicil Adultos Inyectable Intramuscular",
+  "descripcion": "Descripción:\nRespicil Adultos es un medicamento en presentación inyectable para aplicación por vía intramuscular, indicado para uso en adultos, que se comercializa bajo la marca Respicil. Debe ser aplicado por personal de salud capacitado.\n\nModo de uso:\nAplicación intramuscular profunda, realizada por personal de salud, en la dosis y con la frecuencia que determine el médico. Utilice material estéril y desechable y deseche el sobrante después de su uso.\n\nPresentación:\nPresentación inyectable de uso intramuscular para adultos. El contenido y la composición se indican en el empaque.\n\nAdvertencias:\nRevise en el empaque y en el instructivo la composición, las indicaciones, las contraindicaciones y las reacciones adversas. Informe a su médico si es alérgico a algún medicamento, si está embarazada o en periodo de lactancia, o si toma otros medicamentos. Aplicar solo con material estéril y desechable. Conservar en un lugar fresco y seco, protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Respicil",
+    "variante": "Adultos",
+    "presentacion": "Inyectable",
+    "via_administracion": "Intramuscular",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM194677",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Otros Medicamentos",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); el GTIN es un EAN-8 (75005689) sin coincidencia verificada. No se pudo confirmar principio activo, contenido ni fabricante (podría ser un antibiótico inyectable, lo que implicaría receta); por eso se usa Otros Medicamentos y receta Revisar. Confirmar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "gtin": "7502227426449",
+  "sku": "7502227426449",
+  "linea": "Farma",
+  "nombre_sistema": "NESAJAR C16 CAPS PINAVERIO DIMETICONA GELPHARMA 130",
+  "nombres_sistema_alternos": [],
+  "titulo": "Nesajar Pinaverio y Dimeticona 16 Cápsulas",
+  "descripcion": "Descripción:\nNesajar es un medicamento en cápsulas de Gelpharma que combina bromuro de pinaverio y dimeticona, en presentación de 16 cápsulas. Es un producto de uso digestivo; consulte en el empaque la concentración de cada componente, las indicaciones y la dosis.\n\nComposición:\nBromuro de pinaverio y dimeticona por cápsula. Consulte la concentración de cada componente en el empaque.\n\nModo de uso:\nVía oral. Tome las cápsulas con un poco de agua, en la dosis y con la frecuencia indicadas en el empaque o por su médico.\n\nPresentación:\nCaja con 16 cápsulas.\n\nAdvertencias:\nNo lo use si es alérgico a alguno de los componentes. Si los síntomas persisten o empeoran, suspenda su uso y consulte a su médico. Consulte a su médico antes de usarlo si está embarazada o en periodo de lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nesajar",
+    "fabricante": "Gelpharma",
+    "presentacion": "Cápsulas",
+    "contenido_neto": 16,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 16,
+    "principio_activo": "Bromuro de pinaverio y dimeticona",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo verificar en la web: se agotó el presupuesto de WebSearch de la sesión. Datos del nombre del sistema (C16 cápsulas, pinaverio y dimeticona, Gelpharma; el 130 final se ignoró); sin fuentes. No se conocen las concentraciones. Se desconoce la clasificación de venta. Revisar antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

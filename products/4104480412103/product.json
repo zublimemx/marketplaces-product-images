@@ -1,0 +1,40 @@
+{
+  "gtin": "4104480412103",
+  "sku": "4104480412103",
+  "linea": "Farma",
+  "nombre_sistema": "PANOTOS JBE 100 ML 40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Panotos Jarabe 100 ml",
+  "descripcion": "Descripción:\nPanotos es un medicamento en jarabe, presentado en frasco de 100 ml, que se comercializa en farmacias de México. Consulte la etiqueta del empaque para conocer su composición, indicaciones, dosis y modo de uso.\n\nPresentación:\nFrasco con 100 ml de jarabe.\n\nModo de uso:\nVía oral. Siga la dosis indicada en el empaque o por su médico; use el dosificador que venga en el empaque, si lo incluye.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Panotos",
+    "presentacion": "Jarabe",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "via_administracion": "Oral",
+    "otros": "Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo investigar en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). Solo se dedujo lo que dice el nombre del sistema (Panotos, jarabe, 100 ml). No se conoce el principio activo, el fabricante ni la edad de uso (el nombre sugiere un producto para la tos, por eso la categoría Respiratorios Venta Libre, que es provisional). El GTIN empieza con 410 (prefijo alemán), lo que puede indicar un producto de importación o un código atípico; el '40' final del nombre del sistema se ignoró. Repetir la investigación con búsquedas disponibles.",
+    "fecha": "2026-09-29"
+  }
+}

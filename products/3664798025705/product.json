@@ -1,0 +1,40 @@
+{
+  "gtin": "3664798025705",
+  "sku": "3664798025705",
+  "linea": "Farma",
+  "nombre_sistema": "SINUBERASE COLITIS 4BILL 5ML AMP C20",
+  "nombres_sistema_alternos": [],
+  "titulo": "Sinuberase Colitis 4 Billones 20 Ampolletas de 5 ml",
+  "descripcion": "Descripción:\nSinuberase Colitis es un producto de la línea Sinuberase, en ampolletas de 5 ml con un contenido de 4 billones por dosis, según la presentación. Se ofrece en caja con 20 ampolletas.\n\nPresentación:\nCaja con 20 ampolletas de 5 ml.\n\nAdvertencias:\nConsulte la composición, las indicaciones y el modo de uso en el empaque. Conservar de acuerdo con las instrucciones del fabricante. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Sinuberase",
+    "variante": "Colitis",
+    "presentacion": "Ampolletas",
+    "contenido_neto": 5,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 20,
+    "concentracion": "4 billones"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin investigación en línea (límite de búsquedas agotado). No se confirmó qué contiene (probablemente un probiótico, dato no verificado), la vía ni el fabricante; la categoría Digestivos Venta Libre es tentativa (podría ser Suplementos, MLM438195). Descripción mínima.",
+    "fecha": "2026-09-29"
+  }
+}

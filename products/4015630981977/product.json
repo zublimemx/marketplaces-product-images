@@ -1,0 +1,45 @@
+{
+  "gtin": "4015630981977",
+  "sku": "4015630981977",
+  "linea": "Farma",
+  "nombre_sistema": "ACCU CHEK C 50 TIRAS PERFORMA",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tiras Reactivas Accu-Chek Performa 50 Piezas",
+  "descripcion": "Descripción:\nTiras reactivas Accu-Chek Performa, de Roche, para medir la glucosa en sangre capilar con el medidor Accu-Chek Performa (el medidor no está incluido). Están diseñadas para una aplicación fácil y para obtener el resultado con una sola gota de sangre.\n\nCaracterísticas:\n- Ventana de aplicación en forma de Y que facilita colocar la gota de sangre.\n- Requieren solo 0.6 µl de sangre, equivalente a una gota.\n- Resultado en aproximadamente 5 segundos.\n- Método enzimático electroquímico.\n- No requieren codificación.\n- Cuentan con 6 electrodos dorados para mejorar la conducción.\n- Se mantienen estables hasta la fecha de caducidad, incluso después de abrir el tubo, mientras se conserve bien cerrado.\n\nModo de uso:\n1. Inserte la tira en el medidor Accu-Chek Performa.\n2. Puncione el dedo con un dispositivo de punción (no incluido).\n3. Acerque la gota de sangre a la ventana de la tira.\n4. Lea el resultado en la pantalla del medidor.\n\nPresentación:\nEnvase con 50 tiras reactivas.\n\nAdvertencias:\nUse las tiras únicamente con el medidor compatible. Cierre bien el envase después de retirar cada tira para conservar su calidad y no las use después de la fecha de caducidad. Consulte el manual del medidor y a su médico para interpretar los resultados. Mantenga fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Accu-Chek",
+    "fabricante": "Roche",
+    "linea": "Performa",
+    "variante": "Tiras reactivas de glucosa",
+    "presentacion": "Tiras reactivas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tiras",
+    "unidades_por_envase": 50,
+    "edad_etapa": "Adultos",
+    "otros": "Compatible con: medidor Accu-Chek Performa; Volumen de muestra: 0.6 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Enzimática electroquímica; Formato de venta: Caja"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM189948",
+      "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
+  "fuentes": [
+    "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa"
+  ],
+  "investigacion": {
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Performa (presentaciones de 25 y 50 tiras). Es un insumo de diagnóstico, no un medicamento. Sin hoja específica para tiras reactivas en los CSV: se usó Medidores de Glucosa, igual que en el lote 1. Registro sanitario no visible en la página.",
+    "fecha": "2026-09-29"
+  }
+}

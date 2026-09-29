@@ -1,0 +1,46 @@
+{
+  "gtin": "7501037935189",
+  "sku": "7501037935189",
+  "linea": "Farma",
+  "nombre_sistema": "TRAYENTA DUO 2 5 850MG C60",
+  "nombres_sistema_alternos": [],
+  "titulo": "Trayenta Duo 2.5 mg/850 mg 60 Tabletas",
+  "descripcion": "Descripción:\nTrayenta Duo es un medicamento de Boehringer Ingelheim que combina dos antidiabéticos orales en una sola tableta: linagliptina 2.5 mg y clorhidrato de metformina 850 mg. Se presenta en caja con 60 tabletas.\n\nBeneficios:\n- Según su información de prescripción, está indicado en adultos con diabetes mellitus tipo 2 como complemento de la dieta y el ejercicio para mejorar el control de la glucosa en sangre.\n- Combina en una sola tableta dos mecanismos de acción complementarios: la linagliptina (inhibidor de la DPP-4) y la metformina (biguanida).\n- Facilita el tratamiento en personas que requieren ambos componentes, con menos tabletas por toma.\n\nComposición:\nCada tableta contiene linagliptina 2.5 mg y clorhidrato de metformina 850 mg.\n\nModo de uso:\nVía oral, con los alimentos para reducir las molestias gastrointestinales, en la dosis que indique su médico. Tome las tabletas completas, sin partirlas ni masticarlas.\n\nPresentación:\nCaja con 60 tabletas de 2.5 mg/850 mg.\n\nAdvertencias:\nLa metformina puede causar acidosis láctica, una complicación rara pero grave. No debe usarse en cetoacidosis diabética, diabetes tipo 1, insuficiencia renal grave ni en personas alérgicas a alguno de sus componentes. Se han reportado casos de pancreatitis con los inhibidores de la DPP-4: suspenda el medicamento y consulte a su médico si presenta dolor abdominal intenso y persistente. Puede aumentar el riesgo de hipoglucemia si se usa junto con insulina o sulfonilureas. Debe suspenderse antes de estudios con medios de contraste yodados, según indicación médica. Evite el consumo excesivo de alcohol. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Trayenta Duo",
+    "fabricante": "Boehringer Ingelheim",
+    "linea": "Trayenta",
+    "variante": "Duo 2.5 mg/850 mg",
+    "presentacion": "Tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Linagliptina y clorhidrato de metformina",
+    "concentracion": "2.5 mg/850 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Formato de venta: Caja"
+  },
+  "receta_mx": "Sí",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Sin verificación web: el presupuesto de WebSearch de la sesión estaba agotado (200/200); datos por nombre del sistema (TRAYENTA DUO 2 5 850MG C60) y conocimiento general (linagliptina 2.5 mg + metformina 850 mg). Indicaciones y advertencias tomadas de la información general del producto; confirmar contra la ficha de Boehringer Ingelheim México antes de publicar. Categoría Digestivos por corresponder a metabólicos en la clasificación de Mercado Libre.",
+    "fecha": "2026-09-29"
+  }
+}

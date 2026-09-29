@@ -1,0 +1,38 @@
+{
+  "gtin": "7501943488922",
+  "sku": "7501943488922",
+  "linea": "Mark",
+  "nombre_sistema": "ABSOR EX JUMC/40",
+  "nombres_sistema_alternos": [],
+  "titulo": "Pañales Desechables para Bebé Extra Jumbo 40 Piezas",
+  "descripcion": "Descripción:\nPañales desechables para bebé en presentación de 40 piezas, formato jumbo. Verifique en el empaque la marca, la etapa o talla y el rango de peso recomendado para elegir la opción adecuada para su bebé.\n\nPresentación:\nPaquete con 40 pañales desechables.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la talla adecuada.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "ficha": {
+    "presentacion": "Pañales desechables",
+    "contenido_neto": 40,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 40,
+    "otros": "Tipo de pañal: Desechable"
+  },
+  "receta_mx": "No aplica",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM178488",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet (presupuesto de WebSearch agotado). Producto no identificado: ABSOR EX JUM podría ser un pañal de bebé de marca económica (el prefijo del GTIN es de Kimberly-Clark y el precio es de pañal de bebé, no de adulto), pero la marca y la talla no se confirmaron, por eso el título es genérico. Hay que buscar por GTIN antes de publicar.",
+    "fecha": "2026-09-29"
+  }
+}

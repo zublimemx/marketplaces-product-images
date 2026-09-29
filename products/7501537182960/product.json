@@ -1,0 +1,41 @@
+{
+  "gtin": "7501537182960",
+  "sku": "7501537182960",
+  "linea": "Farma",
+  "nombre_sistema": "TRIBEDOCE 50 000 C 5 AMP 30",
+  "nombres_sistema_alternos": [],
+  "titulo": "Tribedoce 50000 Solución Inyectable 5 Ampolletas",
+  "descripcion": "Descripción:\nTribedoce 50000 es un medicamento inyectable de la marca Tribedoce de Laboratorios Bruluart, presentado en solución inyectable, caja con 5 ampolletas. La composición exacta y las indicaciones deben consultarse en el empaque del producto.\n\nPresentación:\n- Solución inyectable\n- Caja con 5 ampolletas\n\nAdvertencias:\nDebe aplicarse únicamente según lo indicado por su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tribedoce",
+    "fabricante": "Bruluart",
+    "variante": "50000",
+    "presentacion": "Solución inyectable",
+    "contenido_neto": 5,
+    "unidad_contenido": "ampolletas",
+    "unidades_por_envase": 5,
+    "otros": "Denominación en el sistema: TRIBEDOCE 50 000; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
+  "marketplaces": {
+    "mercadolibre": {
+      "categoria_id": "MLM457812",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "categoria_rx_sugerida": "",
+      "catalogo_id": ""
+    },
+    "amazon": {},
+    "shopify": {},
+    "odoo": {}
+  },
+  "imagenes": [],
+  "url_oficial": "",
+  "fuentes": [],
+  "investigacion": {
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "No se pudo buscar en internet: presupuesto de WebSearch agotado (200/200). El fabricante Bruluart se infiere por compartir prefijo de GTIN (7501537) con el producto 330. Composición y significado de 50 000 no confirmados (probable complejo B con vitamina B12). El sufijo 30 del nombre se ignoró como lote/caducidad.",
+    "fecha": "2026-09-29"
+  }
+}
