@@ -2,6 +2,7 @@
 """Genera insumos/precios_existencias.csv (precio con IVA y existencia por GTIN) a partir de los Excel del ERP.
 
 Uso:
+  python scripts/preparar_insumos.py            # toma los Excel de insumos/originales/
   python scripts/preparar_insumos.py --ventas "Productos más vendidos ... .xlsx" \
       --farma catalogo_productos_farma.xlsx --mark catalogo_productos_mark.xlsx
 
@@ -33,10 +34,17 @@ def norm(s):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ventas", required=True)
-    ap.add_argument("--farma", required=True)
-    ap.add_argument("--mark", required=True)
+    ap.add_argument("--ventas", help="por defecto: insumos/originales/*vendidos*.xlsx")
+    ap.add_argument("--farma", help="por defecto: insumos/originales/*farma*.xlsx")
+    ap.add_argument("--mark", help="por defecto: insumos/originales/*mark*.xlsx")
     a = ap.parse_args()
+    orig = os.path.join(ROOT, "insumos", "originales")
+    for campo, patron in (("ventas", "vendidos"), ("farma", "farma"), ("mark", "mark")):
+        if not getattr(a, campo):
+            hallados = sorted(f for f in (os.listdir(orig) if os.path.isdir(orig) else []) if patron in f.lower() and f.endswith(".xlsx"))
+            if len(hallados) != 1:
+                ap.error(f"indica --{campo} o deja exactamente un Excel con '{patron}' en el nombre en insumos/originales/")
+            setattr(a, campo, os.path.join(orig, hallados[0]))
 
     rows = []
     for sheet, linea, cat_path in [(0, "Farma", a.farma), (1, "Mark", a.mark)]:

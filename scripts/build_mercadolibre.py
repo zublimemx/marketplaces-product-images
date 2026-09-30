@@ -2,7 +2,7 @@
 """Genera el layout de importación masiva de Mercado Libre a partir de la base de productos.
 
 Uso:
-    python scripts/build_mercadolibre.py --precios precios_existencias.csv --salida layout_mercadolibre.xlsx
+    python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx [--competencia insumos/competencia_meli.csv]
 
 precios_existencias.csv: gtin,precio,stock,linea,nombre,nota_cruce (precio con impuestos incluidos).
 El orden de las filas del layout sigue el orden del CSV.
@@ -85,10 +85,26 @@ def style_header(ws, row, ncols, fill=HDR_FILL, start=1):
         cell.alignment = Alignment(vertical="center", wrap_text=True)
 
 
-def build(precios_csv, salida):
+def load_competencia(path):
+    """Lee insumos/competencia_meli.csv (scripts/meli_precios.py) si existe: {gtin: (promedio, mejor_vendedor)}."""
+    comp = {}
+    if path and os.path.exists(path):
+        with open(path, encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                def num(v):
+                    try:
+                        return float(v) if v not in ("", None) else None
+                    except ValueError:
+                        return None
+                comp[r["gtin"]] = (num(r.get("precio_promedio_otros")), num(r.get("precio_mejor_vendedor")))
+    return comp
+
+
+def build(precios_csv, salida, competencia_csv=None):
     cfg = json.load(open(os.path.join(ROOT, "config", "mercadolibre.json"), encoding="utf-8"))
     prods = load_products()
     cat_paths = load_cat_paths()
+    comp = load_competencia(competencia_csv)
     with open(precios_csv, encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh))
     for r in rows:
@@ -260,7 +276,7 @@ def build(precios_csv, salida):
               f"=ROUNDUP((E{i}+Parámetros!$C$15)/(1-F{i}),0)",
               f"=MAX(ROUNDUP((E{i}+Parámetros!$B$8)/(1-F{i}),0),Parámetros!$B$7)",
               f"=IF(G{i}<Parámetros!$B$13,G{i},IF(H{i}<Parámetros!$B$14,H{i},IF(I{i}<Parámetros!$B$15,I{i},J{i})))",
-              None, None,
+              comp.get(g, (None, None))[0], comp.get(g, (None, None))[1],
               f"=IF(AND(ISNUMBER(L{i}),L{i}-Parámetros!$B$6>=K{i}),L{i}-Parámetros!$B$6,K{i})",
               f"=IF(ISNUMBER(M{i}),N{i}/M{i}-1,\"\")",
               f"=VLOOKUP(N{i},Parámetros!$A$13:$C$16,3,TRUE)",
@@ -411,5 +427,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--precios", required=True)
     ap.add_argument("--salida", required=True)
+    ap.add_argument("--competencia", default=os.path.join(ROOT, "insumos", "competencia_meli.csv"),
+                    help="CSV de scripts/meli_precios.py; si no existe, las columnas de competencia quedan vacías")
     a = ap.parse_args()
-    build(a.precios, a.salida)
+    build(a.precios, a.salida, a.competencia)

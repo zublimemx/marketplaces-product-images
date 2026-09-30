@@ -41,7 +41,15 @@ Los integra `scripts/integrar_resultados.py`.
 
 ## 4. Insumos de precio (`insumos/precios_existencias.csv`, no versionado)
 
-Columnas `gtin,precio,stock,linea,nombre,nota_cruce`, en el orden de `data/prioridad.csv`. `precio` con IVA incluido; `stock` ≥ 0. Lo genera `scripts/preparar_insumos.py` desde los Excel del ERP.
+Columnas `gtin,precio,stock,linea,nombre,nota_cruce`, en el orden de `data/prioridad.csv`. `precio` con IVA incluido; `stock` ≥ 0. Lo genera `scripts/preparar_insumos.py` desde los Excel del ERP, que el dueño entrega y se colocan en `insumos/originales/`.
+
+## 4 bis. Competencia (`insumos/competencia_meli.csv`, no versionado)
+
+Salida de `scripts/meli_precios.py`: `gtin, producto_catalogo, publicaciones_otros, precio_promedio_otros, precio_min_otros, precio_max_otros, precio_mejor_vendedor, item_mejor_vendedor, metodo_mejor_vendedor, fecha, nota`. `metodo_mejor_vendedor`: `mayor_sold_quantity`, `ganador_catalogo` o `busqueda_relevancia`. El layout lo lee automáticamente.
+
+## 4 ter. Revisión de fotos (`trabajo/revision_fotos.csv`, no versionado)
+
+Salida de `scripts/revisar_fotos.py`: `gtin, archivo, lado_util, motivo` con motivos `baja_resolucion`, `posible_fondo_gris`, `sin_fotos`, `archivo_faltante`.
 
 ## 5. `data/prioridad.csv` (versionado)
 

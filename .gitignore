@@ -3,3 +3,4 @@ precios_existencias*.csv
 __pycache__/
 trabajo/
 insumos/
+.env
