@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Catálogo Farma y Mark</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>Catálogo Farma y Mark</h1>
+    <p class="brand-sub">Visor de calidad para la carga a Mercado Libre · <span id="generado">datos sin cargar</span></p>
+  </div>
+  <div class="topbar-actions">
+    <button type="button" class="btn btn-ghost only-narrow" id="btn-filtros" aria-expanded="false" aria-controls="panel-filtros">Filtros</button>
+    <div class="segmented" role="group" aria-label="Vista">
+      <button type="button" id="vista-cuadricula" class="seg" aria-pressed="true">Cuadrícula</button>
+      <button type="button" id="vista-lista" class="seg" aria-pressed="false">Lista</button>
+    </div>
+  </div>
+</header>
+
+<section class="resumen" aria-label="Resumen de los productos filtrados">
+  <div class="resumen-total"><strong id="res-total">0</strong> <span id="res-de">de 0 productos</span></div>
+  <div class="resumen-grupos" id="resumen-grupos"></div>
+</section>
+
+<div class="shell">
+  <aside class="filtros" id="panel-filtros" aria-label="Filtros">
+    <div class="filtros-head">
+      <h2>Filtros</h2>
+      <button type="button" class="btn-link" id="limpiar">Limpiar todo</button>
+    </div>
+    <div class="campo" id="f-nombre"></div>
+    <div class="campo" id="f-codigo"></div>
+    <div class="campo" id="f-categoria"></div>
+    <fieldset class="grupo" id="f-linea"><legend>Línea</legend></fieldset>
+    <fieldset class="grupo" id="f-stock"><legend>Inventario</legend></fieldset>
+    <fieldset class="grupo" id="f-ind-descripcion"><legend>Descripción</legend></fieldset>
+    <fieldset class="grupo" id="f-ind-fotos"><legend>Fotos</legend></fieldset>
+    <fieldset class="grupo" id="f-ind-precios"><legend>Precios</legend></fieldset>
+    <details class="reglas">
+      <summary>Cómo se califican los indicadores</summary>
+      <div id="reglas-texto"></div>
+    </details>
+  </aside>
+
+  <main class="resultados" id="resultados">
+    <div class="toolbar">
+      <label class="tool">
+        <span>Ordenar por</span>
+        <select id="orden"></select>
+      </label>
+      <button type="button" class="btn btn-ghost" id="orden-dir" aria-label="Cambiar sentido del orden">↑ Ascendente</button>
+      <label class="tool">
+        <span>Por página</span>
+        <select id="por-pagina">
+          <option value="24">24</option>
+          <option value="48" selected>48</option>
+          <option value="96">96</option>
+        </select>
+      </label>
+      <div class="columnas" id="columnas-wrap" hidden>
+        <button type="button" class="btn btn-ghost" id="btn-columnas" aria-expanded="false" aria-controls="menu-columnas">Columnas</button>
+        <div class="menu" id="menu-columnas" hidden></div>
+      </div>
+    </div>
+
+    <div id="vista-grid" class="grid" aria-live="polite"></div>
+    <div id="vista-tabla" class="tabla-wrap" hidden>
+      <table class="tabla">
+        <thead><tr id="tabla-head"></tr></thead>
+        <tbody id="tabla-body"></tbody>
+      </table>
+    </div>
+    <p class="vacio" id="vacio" hidden>Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».</p>
+    <nav class="paginacion" id="paginacion" aria-label="Paginación"></nav>
+  </main>
+</div>
+
+<dialog class="detalle" id="detalle" aria-labelledby="det-titulo">
+  <div class="det-inner" id="det-inner"></div>
+</dialog>
+
+<script src="data/productos.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
