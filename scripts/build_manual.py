@@ -57,8 +57,12 @@ def capturas(p):
         pg.locator("#tabla-body tr").nth(n).locator(".tsel input").check()
     pg.wait_for_timeout(300)
     pg.evaluate("document.getElementById('tabla-body').closest('.tabla-wrap').scrollLeft = 260")
+    pg.set_viewport_size({"width": 1360, "height": 1100})
+    pg.evaluate("window.scrollTo(0, 0)")
+    pg.wait_for_timeout(200)
     top = pg.locator("#barra-sel").bounding_box()["y"] - 10
-    pg.screenshot(path=os.path.join(IMG, "03_lista.png"), clip={"x": 320, "y": top, "width": 1040, "height": 600})
+    pg.screenshot(path=os.path.join(IMG, "03_lista.png"), clip={"x": 320, "y": top, "width": 1040, "height": 680})
+    pg.set_viewport_size({"width": 1360, "height": 860})
 
     # 4. Detalle con el formulario de precios
     pg.locator("#tabla-body tr").nth(1).locator("td[data-col=titulo]").click()

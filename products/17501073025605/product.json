@@ -29,17 +29,41 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "17501073025605_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_941207-MLA92585538377_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44178982",
+      "ancho_original": 1200,
+      "alto_original": 888,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "17501073025605_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_736395-MLA81057381415_112024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44178982",
+      "ancho_original": 565,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
-    "https://articulo.mercadolibre.com.mx/MLM-949479266-jeringa-bd-plastipak-10-ml-22gx32mm-negra-caja-c-100-pzas-_JM"
+    "https://articulo.mercadolibre.com.mx/MLM-949479266-jeringa-bd-plastipak-10-ml-22gx32mm-negra-caja-c-100-pzas-_JM",
+    "https://api.mercadolibre.com/products/MLM44178982"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN de 14 dígitos (1 7501073 02560 5) es un código de caja; el de la pieza sería 7501073025605. La presentación se dedujo de un listado de Mercado Libre (10 ml, 22G x 32 mm, caja con 100), no de una ficha del fabricante.",
-    "notas_imagenes": "Sin fotos. La ficha de Procomsa (BD cat. 302560, jeringa 10 ml 22G x 32 mm) ya no existe (404); Farmacias Guadalajara da 404 o bloquea la conexión; Farmalisto solo lista Plastipak de 3 y 5 ml; Amazon y Mercado Libre no son accesibles. Las imágenes de la línea que se veían corresponden a otras agujas (21G verde).",
+    "notas_imagenes": "2 fotos del catálogo de Mercado Libre obtenidas con la API oficial (producto MLM44178982 'Jeringa BD Plastipak 10 ml 22G 32 mm, 100 piezas', origen catalogo_ml): (2) caja de cartón de 100 jeringas BD Plastipak de frente (1179 px) y (1) foto limpia de la pieza individual, jeringa 10 ml con y sin capuchón (1178 px; foto de la pieza individual, el producto se vende en caja de 100). Descartada la 3.ª imagen del catálogo (tabla de especificaciones con texto).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

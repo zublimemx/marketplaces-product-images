@@ -15,7 +15,7 @@
     "contenido_neto": 12,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 12,
-    "otros": "Ancho: 2.5 cm; Largo por pieza sin confirmar (la presentación individual mide 5 m); Respaldo de rayón no tejido; Adhesivo hipoalergénico a base de acrilato; Libre de látex; Color: blanco; Formato de venta: Caja"
+    "otros": "Ancho: 2.5 cm; Largo por pieza: 5 m (según la caja individual Nexcare Micropore: 1 cinta 2.5 cm x 5 m); Respaldo de papel/rayón no tejido; Adhesivo hipoalergénico a base de acrilato; Libre de látex; Color: blanco; Formato de venta: Caja de 12 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -29,7 +29,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "37501023108857_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/376551/376551_01.webp",
+      "pagina": "https://www.heb.com.mx/nexcare-cinta-medica-micropore-blanco-2-5-cm-x-5-m-1-pz-18294/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 501,
+      "lado_util": 464,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "37501023108857_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/376551/376551_02.webp",
+      "pagina": "https://www.heb.com.mx/nexcare-cinta-medica-micropore-blanco-2-5-cm-x-5-m-1-pz-18294/p",
+      "ancho_original": 720,
+      "alto_original": 497,
+      "lado_final": 777,
+      "lado_util": 720,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.heb.com.mx/nexcare-cinta-medica-micropore-blanco-2-5-cm-x-5-m-1-pz-18294/p",
@@ -40,7 +63,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda con el GTIN de 14 dígitos no devolvió ninguna ficha con ese código; solo Nexcare Micropore blanca de 2.5 cm x 5 m en presentación individual y micropore de 3M en cajas de 12 rollos de 9.1 m (otra línea). El GTIN de 14 dígitos parece un empaque múltiple de un artículo Nexcare. La línea y el ancho están confirmados por fichas de tienda; que sea una caja de 12 piezas sale del nombre del sistema (C12) y el largo por rollo no se confirmó. Verificar contra el empaque.",
-    "notas_imagenes": "Sin fotos: no se halló ninguna página con este GTIN ni con la caja de 12; las fotos de Nexcare Micropore encontradas son de la pieza individual de 5 m y no representan la caja de 12.",
+    "notas_imagenes": "2 fotos de HEB (origen tienda, 501 y 777 px), sin logotipos de tienda: (1) caja individual Nexcare Micropore blanco 2.5 cm x 5 m de frente y (2) rollo blanco 3M sin caja. Son fotos de la pieza individual del mismo producto exacto (misma marca, ancho y color); el producto se vende en caja de 12. Descartadas: duplicado de la caja de Benavides (520 px) para no repetir.",
     "fecha": "2026-09-29",
     "sesion": 7
   }

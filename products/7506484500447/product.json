@@ -14,7 +14,8 @@
     "contenido_neto": 12,
     "unidad_contenido": "rollos",
     "unidades_por_envase": 12,
-    "otros": "Ancho: 2.5 cm (1 pulgada); Largo por rollo: 9.2 m según el nombre del sistema (la ficha de una tienda indica alrededor de 9 m); Color: piel; Hipoalergénica; Libre de látex; Formato de venta: Caja con 12 rollos"
+    "otros": "Ancho: 2.5 cm (1 pulgada); Largo por rollo: 9.2 m según el nombre del sistema (la ficha de una tienda indica alrededor de 9 m); Color: piel; Hipoalergénica; Libre de látex; Formato de venta: Caja con 12 rollos",
+    "fabricante": "Codifarma"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,18 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506484500447_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7503002770238.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/cintapore-piel-2-5x9-2mts/",
+      "ancho_original": 1000,
+      "alto_original": 1300,
+      "lado_final": 595,
+      "lado_util": 551,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.amazon.com.mx/cinta-micropore-pulgada-piezas-cintapore/dp/B089X8FMBJ",
-    "https://farmaciasanjorge.com/products/28106"
+    "https://farmaciasanjorge.com/products/28106",
+    "https://grupofarmapronto.com/producto/cintapore-piel-2-5x9-2mts/",
+    "https://www.farmalisto.com.mx/adhesivos/8137-comprar-cintapore-empaque-con-1-rollo-25cmx92m-color-blanco-material-de-curacion-precio.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda con el GTIN no devolvió ninguna ficha con ese código; solo cintas micropore de 3M y listados de Mercado Libre y Amazon. Una ficha de Amazon de 'cinta micropore color piel 1 pulgada caja con 12 piezas Cintapore' corrobora la marca, el ancho de 1 pulgada, el color piel y la caja con 12 (también hay versiones C/24 de 1/2 pulgada, C/6 de 2 pulgadas y C/4 de 3 pulgadas), y la describe como microporosa, hipoalergénica, libre de látex, sin residuos y de unos 9 m de largo; esa ficha atribuye la marca a 'Suanca', sin confirmar, por lo que no se anota fabricante. El largo de 9.2 m sale del nombre del sistema. Verificar largo y fabricante con el empaque.",
-    "notas_imagenes": "Sin fotos: las únicas imágenes accesibles de Cintapore están en Amazon (no es un origen permitido) y las demás son de Micropore de 3M, que no es la marca del producto.",
+    "notas_imagenes": "1 foto (595 px útiles) de Farmapronto: rollo individual Cintapore color piel 2.5 cm x 9.2 m en su bolsa (GTIN de la pieza 7503002770238); foto de la pieza individual; el producto se vende en caja de 12 rollos. La bolsa trae impreso el rótulo '85% más producto' (es del empaque, no de la tienda); sin logotipo de tienda. No hay foto de la caja de 12 en ninguna tienda accesible (iFarma y Farmalisto bloquean la descarga con Cloudflare/captcha; Amazon y Mercado Libre no se usan). Fabricante Codifarma según la ficha de Farmalisto (Cintapore blanco 2.5 x 9.2).",
     "fecha": "2026-09-29",
     "sesion": 7
   }

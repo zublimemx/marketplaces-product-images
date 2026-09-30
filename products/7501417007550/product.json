@@ -30,18 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501417007550_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://amazonaws.ipos.mx/fotos/2421/producto/d184138bbd1c4daa81fa15dc9d21554b_22092025111923.png",
+      "pagina": "https://www.medartmx.com/producto/pasta-lassar-50g-/8008",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "lado_util": 461,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "https://quimicacoyoacan.com/index.php/2023/01/09/pasta-de-lassar/",
   "fuentes": [
     "https://quimicacoyoacan.com/index.php/2023/01/09/pasta-de-lassar/",
-    "https://quimicacoyoacan.com/index.php/nuestros-productos/"
+    "https://quimicacoyoacan.com/index.php/nuestros-productos/",
+    "https://www.medartmx.com/producto/pasta-lassar-50g-/8008"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda con el GTIN 7501417007550 no devolvió ninguna ficha con ese código (solo pastas de Lassar de otras marcas, eBay y un listado de reparto). Luego se abrió el sitio del fabricante (quimicacoyoacan.com), que sí publica la Pasta de Lassar de Química Coyoacán con indicaciones, modo de empleo e ingredientes; de ahí sale la descripción. El fabricante no indica la concentración de óxido de zinc ni el peso de cada presentación: los 50 g salen del nombre del sistema. GTIN y registro sanitario sin confirmar; verificar con el empaque. Se sustituye la base de la sesión 6 (monografía de Andrómaco, otra marca).",
-    "notas_imagenes": "Sin fotos: la página del fabricante solo tiene banners publicitarios con datos de contacto (no aptos) y ninguna tienda revisada tiene foto de la pasta Lassar Coyoacán; las imágenes de otras marcas no representan el producto.",
+    "notas_imagenes": "1 foto de tienda (MedartMX, 500 px, frasco de Pasta de Lassar óxido de zinc contenido neto 50 g, limpia, sin logotipo ni texto). La tienda la lista 'sin marca' y el frasco no muestra la marca de frente, pero el diseño de la etiqueta (azul y blanco, 'PASTA DE LASSAR / Óxido de Zinc') es idéntico al frasco de Química Coyoacán en su propia publicación de la página del fabricante (nuestros-productos, imagen Coyoacan-5). Es la pieza individual, que es como se vende (1 pieza). Resolución justa (500 px).",
     "fecha": "2026-09-29",
     "sesion": 7
   }

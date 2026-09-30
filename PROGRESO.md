@@ -5,16 +5,16 @@ Completo = ficha verificada en internet y al menos una foto.
 | Concepto | Productos |
 |---|---|
 | Productos a publicar | 1163 |
-| Con ficha verificada | 1155 |
-| Con al menos una foto | 1130 |
-| Completos | 1130 (97.2%) |
-| Sin verificar | 8 |
+| Con ficha verificada | 1156 |
+| Con al menos una foto | 1149 |
+| Completos | 1149 (98.8%) |
+| Sin verificar | 7 |
 | Pendientes de investigar | 0 |
-| Por investigar | 8 |
+| Por investigar | 7 |
 
-Fotos guardadas: 1941.
+Fotos guardadas: 2559.
 
-Con 200 productos por sesión falta 1 sesión; con las 7 ya hechas, el total estimado es de 8 sesiones.
+Con 200 productos por sesión falta 1 sesión; con las 8 ya hechas, el total estimado es de 9 sesiones.
 
 ## Historial
 
@@ -27,3 +27,4 @@ Con 200 productos por sesión falta 1 sesión; con las 7 ya hechas, el total est
 | 5 | 2026-09-29 | 200 | 191 | 187 |
 | 6 | 2026-09-29 | 200 | 189 | 181 |
 | 7 | 2026-09-29 | 76 | 68 | 116 |
+| 8 | 2026-09-29 | 0 | 0 | 11 |
