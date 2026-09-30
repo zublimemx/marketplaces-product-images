@@ -18,6 +18,9 @@ from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
+import envios
+import precios as calc_precios
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 FONT = "Arial"
@@ -29,6 +32,7 @@ INPUT_FONT = Font(name=FONT, size=10, color="0000FF")
 LINK_FONT = Font(name=FONT, size=10, color="008000")
 TITLE_FONT = Font(name=FONT, size=12, bold=True)
 YELLOW = PatternFill("solid", fgColor="FFFF00")
+AJUSTE_FILL = PatternFill("solid", fgColor="FCE4D6")  # parámetro ajustado a mano (data/ajustes_precios.json)
 PESOS = '"$"#,##0.00'
 PCT = "0.0%"
 
@@ -64,6 +68,16 @@ LAYOUT_HDR = (["SKU", "Código universal de producto", "Título", "Categoría (I
               + [h for _, h in FICHA_COLS]
               + [f"Imagen {i}" for i in range(1, N_IMG + 1)])
 AUX_HDR = ["Línea de origen", "Nombre en sistema", "Estado de investigación"]
+PRECIOS_HDR = ["SKU", "Título", "Categoría raíz", "Precio de venta", "Costo de empaque y logística", "Precio de venta Marketplaces",
+               "Comisión Meli", "Peso cobrable estimado (kg)", "Costo de envío si el precio queda en $299 o más",
+               "Precio si queda debajo de $99", "Precio si queda entre $99 y $149", "Precio si queda entre $149 y $299",
+               "Precio si queda en $299 o más", "Precio Meli promedio otros vendedores", "Precio mejor vendedor",
+               "Descuento contra mejor vendedor", "Precio Meli calculado", "Precio Meli Final", "Diferencia contra mejor vendedor",
+               "Costo fijo aplicado", "Envío a cargo del vendedor", "Ingreso neto estimado", "Margen contra Precio de venta Marketplaces",
+               "Base del costo de envío", "Ajustes manuales"]
+# Columna (1 = A) de cada parámetro ajustable en la hoja Precios
+COL_CAMPO = {"precio_venta": 4, "costo_empaque": 5, "comision": 7, "costo_envio": 9, "precio_promedio_otros": 14,
+             "precio_mejor_vendedor": 15, "descuento_mejor_vendedor": 16}
 
 
 def titulo_layout(p):
@@ -106,9 +120,15 @@ def style_header(ws, row, ncols, fill=HDR_FILL, start=1):
         cell.alignment = Alignment(vertical="center", wrap_text=True)
 
 
+COMPETENCIA = os.path.join(ROOT, "data", "competencia_meli.csv")
+
+
 def load_competencia(path):
-    """Lee insumos/competencia_meli.csv (scripts/meli_precios.py) si existe: {gtin: (promedio, mejor_vendedor)}."""
+    """Lee el CSV de scripts/meli_precios.py (data/competencia_meli.csv) si existe: {gtin: (promedio, mejor_vendedor)}."""
     comp = {}
+    if path and not os.path.exists(path) and os.path.basename(path) == "competencia_meli.csv":
+        viejo = os.path.join(ROOT, "insumos", "competencia_meli.csv")
+        path = viejo if os.path.exists(viejo) else path
     if path and os.path.exists(path):
         with open(path, encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
@@ -126,6 +146,8 @@ def build(precios_csv, salida, competencia_csv=None):
     prods = load_products()
     cat_paths = load_cat_paths()
     comp = load_competencia(competencia_csv)
+    ajustes = calc_precios.cargar_ajustes()
+    cfg_envio = envios.cargar_config()
     with open(precios_csv, encoding="utf-8") as fh:
         rows = list(csv.DictReader(fh))
     for r in rows:
@@ -156,16 +178,18 @@ def build(precios_csv, salida, competencia_csv=None):
     fuentes = P["fuentes"]
     params = [
         (5, "Costo de empaque y logística interna por pieza ($)", P["costo_empaque_logistica_por_pieza"], "Indicado por el usuario, 29 sep 2026", PESOS),
-        (6, "Descuento contra el precio del mejor vendedor ($)", P["descuento_vs_mejor_vendedor"], "Indicado por el usuario, 29 sep 2026: Precio Meli Final = mejor vendedor − $1 si no queda abajo del Precio Meli calculado", PESOS),
+        (6, "Descuento contra el precio del mejor vendedor ($)", P["descuento_vs_mejor_vendedor"], "Indicado por el usuario, 29 sep 2026: Precio Meli Final = mejor vendedor − $1 si no queda abajo del Precio Meli calculado. Se puede ajustar por producto (hoja Precios, columna P)", PESOS),
         (7, "Precio desde el que Mercado Libre obliga el envío gratis ($)", P["umbral_envio_gratis_obligatorio"], fuentes[2], PESOS),
-        (8, "Costo de envío estimado a cargo del vendedor en productos con envío gratis ($)", P["costo_envio_vendedor_estimado"], "Por confirmar: depende del peso del paquete y de la reputación; con 0 el precio no lo cubre", PESOS),
-        (9, "Comisión Clásica para categorías no listadas abajo", P["comision_clasica_otras_categorias"], fuentes[3], PCT),
+        (8, "Costo de envío a cargo del vendedor en productos de $299 o más, IVA incluido", "Por producto: hoja Precios, columna I",
+         f"Indicado por el usuario, 29 sep 2026: ${P['envio']['minimo']} a ${P['envio']['maximo']} según tamaño y peso. Se estima por peso cobrable (tabla de abajo, scripts/envios.py) y se puede ajustar por producto", None),
+        (9, "Comisión Clásica para categorías no listadas abajo (IVA incluido)", P["comision_clasica_otras_categorias"], f"{fuentes[3]}. {fuentes[4]}", PCT),
     ]
     for r, label, val, src, fmt in params:
         par.cell(row=r, column=1, value=label).font = BASE_FONT
         c = par.cell(row=r, column=2, value=val)
         c.font = INPUT_FONT
-        c.number_format = fmt
+        if fmt:
+            c.number_format = fmt
         par.cell(row=r, column=3, value=src).font = BASE_FONT
     par["B8"].fill = YELLOW
 
@@ -182,7 +206,7 @@ def build(precios_csv, salida, competencia_csv=None):
     par["D13"] = fuentes[0]
     par["D14"] = fuentes[1]
 
-    par["A18"] = "Comisión por venta en publicación Clásica, por categoría raíz"
+    par["A18"] = "Comisión por venta en publicación Clásica, por categoría raíz (IVA incluido)"
     par["A18"].font = Font(name=FONT, bold=True, size=10)
     par["A19"], par["B19"], par["C19"] = "Categoría raíz", "Comisión", "Fuente"
     style_header(par, 19, 3)
@@ -193,7 +217,7 @@ def build(precios_csv, salida, competencia_csv=None):
         c = par.cell(row=r, column=2, value=v)
         c.font = INPUT_FONT
         c.number_format = PCT
-        par.cell(row=r, column=3, value=fuentes[0]).font = BASE_FONT
+        par.cell(row=r, column=3, value=f"{fuentes[0]}. {fuentes[4]}").font = BASE_FONT
     com_last = 20 + len(com) - 1
     com_rng = f"Parámetros!$A$20:$B${com_last}"
 
@@ -213,6 +237,17 @@ def build(precios_csv, salida, competencia_csv=None):
         par.cell(row=r, column=1, value=k).font = BASE_FONT
         par.cell(row=r, column=2, value=v).font = INPUT_FONT
         par.cell(row=r, column=3, value="Indicado por el usuario, 29 sep 2026").font = BASE_FONT
+    par["A35"] = "Costo de envío a cargo del vendedor por peso cobrable (IVA incluido; supuesto dentro del rango indicado)"
+    par["A35"].font = Font(name=FONT, bold=True, size=10)
+    par["A36"], par["B36"], par["C36"] = "Peso cobrable hasta (kg)", "Costo de envío ($)", "Nota"
+    style_header(par, 36, 3)
+    for k, t in enumerate(cfg_envio["tramos"]):
+        r = 37 + k
+        par.cell(row=r, column=1, value=t["hasta_kg"] if t["hasta_kg"] is not None else "Más").font = INPUT_FONT
+        c = par.cell(row=r, column=2, value=t["costo"])
+        c.font = INPUT_FONT
+        c.number_format = PESOS
+    par.cell(row=37, column=3, value="Peso cobrable = el mayor entre peso real y volumétrico estimados (scripts/envios.py). Cambia los tramos en config/mercadolibre.json y regenera.").font = BASE_FONT
     par.column_dimensions["A"].width = 70
     par.column_dimensions["B"].width = 22
     par.column_dimensions["C"].width = 90
@@ -230,18 +265,19 @@ def build(precios_csv, salida, competencia_csv=None):
     lay["F1"].comment = Comment("Precio Meli Final de la hoja Precios.", "Claude")
 
     # ---------------- Precios ----------------
-    pre_hdr = ["SKU", "Título", "Categoría raíz", "Precio de venta", "Precio de venta Marketplaces", "Comisión Meli",
-               "Precio si queda debajo de $99", "Precio si queda entre $99 y $149", "Precio si queda entre $149 y $299",
-               "Precio si queda en $299 o más", "Precio Meli calculado", "Precio Meli promedio otros vendedores",
-               "Precio mejor vendedor", "Precio Meli Final", "Diferencia contra mejor vendedor", "Costo fijo aplicado",
-               "Envío a cargo del vendedor", "Ingreso neto estimado", "Margen contra Precio de venta Marketplaces"]
+    pre_hdr = PRECIOS_HDR
     for j, h in enumerate(pre_hdr, start=1):
         pre.cell(row=1, column=j, value=h)
     style_header(pre, 1, len(pre_hdr))
     pre["D1"].comment = Comment("Fuente: catalogo_productos_farma.xlsx y catalogo_productos_mark.xlsx, columna Precio de venta (impuestos incluidos, según el usuario), subidos 2026-09-29.", "Claude")
-    pre["L1"].comment = Comment("Dato de entrada, solo de referencia: precio promedio de otras publicaciones del mismo producto en Mercado Libre.", "Claude")
-    pre["M1"].comment = Comment("Dato de entrada: precio de la publicación del mismo producto con más ventas. Define el Precio Meli Final.", "Claude")
-    pre["N1"].comment = Comment("Precio para publicar: Precio mejor vendedor − $1 (Parámetros B6) si no queda abajo del Precio Meli calculado; si no, el Precio Meli calculado.", "Claude")
+    pre["E1"].comment = Comment("Por omisión Parámetros B5 ($4 por pieza). Se puede ajustar por producto.", "Claude")
+    pre["G1"].comment = Comment("Comisión de la publicación Clásica, IVA incluido, según la categoría raíz (Parámetros). Se puede ajustar por producto.", "Claude")
+    pre["I1"].comment = Comment("Envío gratis que Mercado Libre cobra al vendedor si el precio queda en $299 o más, IVA incluido. Estimado por peso ($75 a $150, scripts/envios.py); se puede ajustar por producto.", "Claude")
+    pre["N1"].comment = Comment("Dato de entrada, solo de referencia: precio promedio de otras publicaciones del mismo producto en Mercado Libre.", "Claude")
+    pre["O1"].comment = Comment("Dato de entrada: precio de la publicación del mismo producto con más ventas. Define el Precio Meli Final.", "Claude")
+    pre["Q1"].comment = Comment("Primer tramo cuyo precio cae en su rango; si ninguno cae, o si el mejor vendedor − descuento es de $299 o más, el precio con envío (columna M).", "Claude")
+    pre["R1"].comment = Comment("Precio para publicar: Precio mejor vendedor − descuento (columna P) si no queda abajo del Precio Meli calculado; si no, el Precio Meli calculado.", "Claude")
+    pre["Y1"].comment = Comment("Parámetros ajustados a mano para este producto (data/ajustes_precios.json); las celdas ajustadas tienen fondo naranja claro.", "Claude")
 
     # ---------------- Revisión ----------------
     rev_hdr = ["SKU", "Título", "Estado de investigación", "Confianza", "Encontrado por",
@@ -265,7 +301,7 @@ def build(precios_csv, salida, competencia_csv=None):
         imgs = urls_imagenes(p)
 
         vals = [g, g, titulo, ml["categoria_id"], ml["categoria_ruta"],
-                f"=Precios!N{i}", int(float(r["stock"])),
+                f"=Precios!R{i}", int(float(r["stock"])),
                 "=Parámetros!$B$28", "=Parámetros!$B$29", p["descripcion"], "=Parámetros!$B$30",
                 f'=IF(F{i}>=Parámetros!$B$7,"{ENVIO_GRATIS}",Parámetros!$B$31)',
                 "=Parámetros!$B$32", "=Parámetros!$B$33", ml.get("catalogo_id", "")]
@@ -284,35 +320,50 @@ def build(precios_csv, salida, competencia_csv=None):
             lay.cell(row=i, column=j).font = LINK_FONT
 
         # Precios
+        env = envios.estimar(p, cfg_envio)
+        prom, mejor = comp.get(g, (None, None))
+        aj = ajustes.get(g) or {}
+        par_p, origen = calc_precios.parametros(float(r["precio"]), ml["categoria_ruta"], P, prom, mejor, env["costo_envio"], aj)
         pv = [g, f"='Layout Mercado Libre'!C{i}",
               f"=IFERROR(LEFT('Layout Mercado Libre'!E{i},FIND(\" > \",'Layout Mercado Libre'!E{i})-1),\"\")",
-              float(r["precio"]),
-              f"=D{i}+Parámetros!$B$5",
-              f"=IF(C{i}=\"\",Parámetros!$B$9,IFERROR(VLOOKUP(C{i},{com_rng},2,FALSE),Parámetros!$B$9))",
-              f"=ROUNDUP((E{i}+Parámetros!$C$13)/(1-F{i}),0)",
-              f"=ROUNDUP((E{i}+Parámetros!$C$14)/(1-F{i}),0)",
-              f"=ROUNDUP((E{i}+Parámetros!$C$15)/(1-F{i}),0)",
-              f"=MAX(ROUNDUP((E{i}+Parámetros!$B$8)/(1-F{i}),0),Parámetros!$B$7)",
-              f"=IF(G{i}<Parámetros!$B$13,G{i},IF(H{i}<Parámetros!$B$14,H{i},IF(I{i}<Parámetros!$B$15,I{i},J{i})))",
-              comp.get(g, (None, None))[0], comp.get(g, (None, None))[1],
-              f"=IF(AND(ISNUMBER(M{i}),M{i}-Parámetros!$B$6>=K{i}),M{i}-Parámetros!$B$6,K{i})",
-              f"=IF(ISNUMBER(M{i}),N{i}/M{i}-1,\"\")",
-              f"=VLOOKUP(N{i},Parámetros!$A$13:$C$16,3,TRUE)",
-              f"=IF(N{i}>=Parámetros!$B$7,Parámetros!$B$8,0)",
-              f"=N{i}*(1-F{i})-P{i}-Q{i}",
-              f"=R{i}-E{i}"]
+              par_p["precio_venta"],
+              par_p["costo_empaque"] if "costo_empaque" in origen else "=Parámetros!$B$5",
+              f"=D{i}+E{i}",
+              par_p["comision"] if "comision" in origen else f"=IF(C{i}=\"\",Parámetros!$B$9,IFERROR(VLOOKUP(C{i},{com_rng},2,FALSE),Parámetros!$B$9))",
+              env["peso_cobrable_kg"],
+              par_p["costo_envio"],
+              f"=ROUNDUP((F{i}+Parámetros!$C$13)/(1-G{i}),0)",
+              f"=ROUNDUP((F{i}+Parámetros!$C$14)/(1-G{i}),0)",
+              f"=ROUNDUP((F{i}+Parámetros!$C$15)/(1-G{i}),0)",
+              f"=MAX(ROUNDUP((F{i}+I{i})/(1-G{i}),0),Parámetros!$B$7)",
+              par_p["precio_promedio_otros"], par_p["precio_mejor_vendedor"],
+              par_p["descuento_mejor_vendedor"] if "descuento_mejor_vendedor" in origen else "=Parámetros!$B$6",
+              f"=IF(AND(ISNUMBER(O{i}),O{i}-P{i}>=Parámetros!$B$7),M{i},IF(J{i}<Parámetros!$B$13,J{i},IF(K{i}<Parámetros!$B$14,K{i},IF(L{i}<Parámetros!$B$15,L{i},M{i}))))",
+              f"=IF(AND(ISNUMBER(O{i}),O{i}-P{i}>=Q{i}),O{i}-P{i},Q{i})",
+              f"=IF(ISNUMBER(O{i}),R{i}/O{i}-1,\"\")",
+              f"=VLOOKUP(R{i},Parámetros!$A$13:$C$16,3,TRUE)",
+              f"=IF(R{i}>=Parámetros!$B$7,I{i},0)",
+              f"=R{i}*(1-G{i})-T{i}-U{i}",
+              f"=V{i}-F{i}",
+              f"{env['base']}; peso cobrable {env['peso_cobrable_kg']:g} kg ({env['tamano']})" + (" · ajustado a mano" if "costo_envio" in origen else ""),
+              ", ".join(PRECIOS_HDR[COL_CAMPO[k] - 1] for k in calc_precios.CAMPOS if k in origen) + (f" — {aj['nota']}" if aj.get("nota") else "")]
         for j, v in enumerate(pv, start=1):
-            c = pre.cell(row=i, column=j, value=v)
+            c = pre.cell(row=i, column=j, value=(None if v == "" else v))
             c.font = BASE_FONT
         pre.cell(row=i, column=1).number_format = "@"
         for j in (2, 3):
             pre.cell(row=i, column=j).font = LINK_FONT
-        for j in (4, 12, 13):
+        for j in (4, 9, 14, 15):
             pre.cell(row=i, column=j).font = INPUT_FONT
-        for j in (4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19):
+        for j in (4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23):
             pre.cell(row=i, column=j).number_format = PESOS
-        pre.cell(row=i, column=6).number_format = PCT
-        pre.cell(row=i, column=15).number_format = PCT
+        pre.cell(row=i, column=7).number_format = PCT
+        pre.cell(row=i, column=19).number_format = PCT
+        pre.cell(row=i, column=8).number_format = "0.00"
+        for k in origen:
+            c = pre.cell(row=i, column=COL_CAMPO[k])
+            c.fill = AJUSTE_FILL
+            c.font = INPUT_FONT
 
         # Revisión
         rx = ml.get("categoria_rx_sugerida", "")
@@ -440,10 +491,10 @@ def build(precios_csv, salida, competencia_csv=None):
     lay.auto_filter.ref = f"A1:{get_column_letter(len(lay_hdr) + len(aux_hdr))}{last}"
     lay.row_dimensions[1].height = 30
 
-    for j, w in enumerate([16, 50, 26, 12, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 14, 14, 16], start=1):
+    for j, w in enumerate([16, 50, 26, 12, 13, 14, 11, 11, 14, 14, 14, 14, 14, 16, 14, 13, 14, 14, 13, 12, 13, 14, 16, 60, 40], start=1):
         pre.column_dimensions[get_column_letter(j)].width = w
     pre.freeze_panes = "C2"
-    pre.auto_filter.ref = f"A1:S{last}"
+    pre.auto_filter.ref = f"A1:Y{last}"
     pre.row_dimensions[1].height = 42
 
     for j, w in enumerate([16, 50, 20, 11, 14, 16, 16, 60, 70, 50, 12, 40, 80, 8, 18, 14, 60], start=1):
@@ -454,7 +505,8 @@ def build(precios_csv, salida, competencia_csv=None):
 
     dv = DataValidation(type="decimal", operator="greaterThanOrEqual", formula1="0", allow_blank=True)
     pre.add_data_validation(dv)
-    dv.add(f"L2:M{last}")
+    for rng in (f"D2:E{last}", f"I2:I{last}", f"N2:P{last}"):
+        dv.add(rng)
 
     wb.save(salida)
     print(f"{len(rows)} productos -> {salida}" + (f" ({len(descartados)} descartados, en la hoja Descartados)" if descartados else ""))
@@ -464,7 +516,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--precios", required=True)
     ap.add_argument("--salida", required=True)
-    ap.add_argument("--competencia", default=os.path.join(ROOT, "insumos", "competencia_meli.csv"),
+    ap.add_argument("--competencia", default=COMPETENCIA,
                     help="CSV de scripts/meli_precios.py; si no existe, las columnas de competencia quedan vacías")
     a = ap.parse_args()
     build(a.precios, a.salida, a.competencia)

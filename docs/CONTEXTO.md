@@ -31,14 +31,16 @@ Resultado del cruce: 1,174 renglones de ventas → 1,163 productos únicos (se e
 11. Precio Meli Final = Precio mejor vendedor − $1, siempre que no quede abajo del Precio Meli calculado; si no, el calculado (29 sep 2026; antes se usaba el promedio de otros vendedores, que queda como referencia).
 12. El visor tiene una sección de Pendientes (errores, pendientes y mejoras por producto) que exporta a Excel los productos seleccionados. El dueño marca ahí la acción que quiere (completar información, buscar más imágenes, completar precios, revisar o descartar de Meli) y adjunta el archivo; ver `docs/VISOR.md`.
 13. El visor exporta el layout de Mercado Libre listo para importar de los productos seleccionados (selección múltiple en la lista, con seleccionar/deseleccionar todos los filtrados), con las URLs de las fotos tomadas del repositorio de GitHub.
+14. Costo de envío a cargo del vendedor (productos con Precio Meli Final de $299 o más): de $75 a $150 IVA incluido según tamaño y peso, sumado al Precio Meli calculado. Todos los parámetros de precio se pueden editar por producto desde la cuadrícula, la lista y el detalle del visor. Las comisiones de Mercado Libre ya incluyen IVA (29 sep 2026).
+15. El dueño entregó credenciales de la API de Mercado Libre (guardadas solo en `.env`) para obtener precio promedio y del mejor vendedor, completar fotos malas o faltantes con fotos de otros vendedores y apoyarse en sus descripciones para las cortas o de baja calidad. El access token entregado ya había vencido; se pidió un código de autorización (`scripts/meli_auth.py`).
 
 ## Hallazgos que conviene conocer
 
 - La carga masiva de Mercado Libre usa la plantilla oficial que se descarga del Publicador masivo por categoría; el layout de este repositorio es la hoja maestra desde la que se copian los datos (o se llenan las plantillas oficiales si el dueño las comparte).
-- Mercado Libre bloquea consultas automáticas de sus listados (redirige a verificación de cuenta) y su API de búsqueda pide token. Por eso las columnas de precio de competencia siguen vacías: hace falta una aplicación de vendedor con credenciales (ver `PENDIENTES.md`).
+- Mercado Libre bloquea consultas automáticas de sus listados (redirige a verificación de cuenta) y su API de búsqueda pide token. El 29 sep 2026 el dueño entregó credenciales de su aplicación; la API es alcanzable desde el entorno, pero el access token entregado ya había vencido y la aplicación no acepta `client_credentials`, así que hace falta un código de autorización (ver `docs/MERCADOLIBRE_API.md`).
 - En 2026 Mercado Libre México vende medicamentos con y sin receta mediante farmacias autorizadas; prohíbe psicotrópicos. Existen categorías "Medicamentos con Receta" y "Medicamentos de Venta Libre".
 - El precio Meli de productos baratos sube mucho por el costo fijo por unidad (p. ej. $19.82 → $57). Considerar kits o paquetes.
-- Desde $299 Mercado Libre obliga el envío gratis y lo cobra al vendedor; el costo estimado de ese envío está en 0 en `config/mercadolibre.json` hasta que el dueño dé su dato real.
+- Desde $299 Mercado Libre obliga el envío gratis y lo cobra al vendedor; el costo se estima por producto de $75 a $150 (decisión 14). Con ese costo, 475 productos quedan en $299 o más y su precio sube respecto al cálculo sin envío.
 - Las fotos son mayoritariamente de fichas de farmacias (origen `tienda`); muy pocas del fabricante. Algunas tienen resolución útil menor a 500 px (se marcan en la hoja Revisión del layout).
 
 ## Historial de sesiones

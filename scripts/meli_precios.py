@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Precios de competencia en Mercado Libre México con la API oficial (y, opcionalmente, fotos de catálogo).
 
-Llena insumos/competencia_meli.csv, que scripts/build_mercadolibre.py usa para las columnas
+Llena data/competencia_meli.csv (versionado), que scripts/build_mercadolibre.py y scripts/build_visor.py usan para las columnas
 "Precio Meli promedio otros vendedores" y "Precio mejor vendedor".
 
 IMPORTANTE: se escribió sin poder probarlo contra la API real (no había credenciales). Corre primero
@@ -9,6 +9,7 @@ con --muestra 3 para guardar las respuestas crudas en trabajo/meli_muestras/ y a
 Detalles y supuestos en docs/MERCADOLIBRE_API.md.
 
 Credenciales (variables de entorno o archivo .env en la raíz, nunca en git):
+  insumos/ml_token.json                de scripts/meli_auth.py (código de autorización); se renueva solo, o bien
   ML_ACCESS_TOKEN                      token vigente (dura unas 6 horas), o bien
   ML_CLIENT_ID, ML_CLIENT_SECRET, ML_REFRESH_TOKEN   para renovarlo solo. Mercado Libre entrega un refresh token
                                        nuevo en cada renovación: se guarda en insumos/ml_token.json y se usa en la siguiente corrida.
@@ -16,7 +17,7 @@ Credenciales (variables de entorno o archivo .env en la raíz, nunca en git):
 
 Uso:
   python scripts/meli_precios.py [--gtin 7501... ...] [--limite N] [--muestra N]
-                                 [--guardar-catalogo] [--fotos-catalogo] [--salida insumos/competencia_meli.csv]
+                                 [--guardar-catalogo] [--fotos-catalogo] [--salida data/competencia_meli.csv]
 
 Por cada GTIN (en el orden de data/prioridad.csv):
  1. Busca el producto de catálogo: GET /products/search?status=active&site_id=MLM&product_identifier=<GTIN>
@@ -67,6 +68,12 @@ class Meli:
         self.n_muestra = 0
         self.ultimo_status = None
         self.token = os.environ.get("ML_ACCESS_TOKEN")
+        if os.path.exists(TOKEN_FILE):  # token de scripts/meli_auth.py o de una renovación anterior
+            t = json.load(open(TOKEN_FILE))
+            if t.get("access_token") and t.get("vence", "") > datetime.datetime.now().isoformat():
+                self.token = t["access_token"]
+            elif t.get("refresh_token"):
+                self.token = None
         if not self.token:
             self.refresh()
         self.s.headers["Authorization"] = f"Bearer {self.token}"
@@ -74,7 +81,7 @@ class Meli:
     def refresh(self):
         rt = os.environ.get("ML_REFRESH_TOKEN")
         if os.path.exists(TOKEN_FILE):
-            rt = json.load(open(TOKEN_FILE)).get("refresh_token", rt)
+            rt = json.load(open(TOKEN_FILE)).get("refresh_token") or rt
         cid, sec = os.environ.get("ML_CLIENT_ID"), os.environ.get("ML_CLIENT_SECRET")
         if not (cid and sec and rt):
             sys.exit("Faltan credenciales: define ML_ACCESS_TOKEN o ML_CLIENT_ID, ML_CLIENT_SECRET y ML_REFRESH_TOKEN (ver .env.example)")
@@ -83,15 +90,17 @@ class Meli:
         if r.status_code != 200:
             sys.exit(f"No se pudo renovar el token: {r.status_code} {r.text[:300]}")
         data = r.json()
+        vence = datetime.datetime.now() + datetime.timedelta(seconds=int(data.get("expires_in", 21600)) - 300)
         os.makedirs(os.path.dirname(TOKEN_FILE), exist_ok=True)
-        json.dump({"refresh_token": data.get("refresh_token"), "obtenido": datetime.datetime.now().isoformat()}, open(TOKEN_FILE, "w"))
+        json.dump({"access_token": data["access_token"], "refresh_token": data.get("refresh_token"), "vence": vence.isoformat(timespec="seconds"),
+                   "obtenido": datetime.datetime.now().isoformat(timespec="seconds")}, open(TOKEN_FILE, "w"), indent=2)
         self.token = data["access_token"]
         self.s.headers["Authorization"] = f"Bearer {self.token}"
 
     def get(self, path, params=None, etiqueta=""):
         for intento in range(5):
             r = self.s.get(f"{API}{path}", params=params, timeout=30)
-            if r.status_code == 401 and intento == 0 and os.environ.get("ML_REFRESH_TOKEN"):
+            if r.status_code == 401 and intento == 0 and (os.environ.get("ML_REFRESH_TOKEN") or os.path.exists(TOKEN_FILE)):
                 self.refresh()
                 continue
             if r.status_code == 429:
@@ -124,7 +133,7 @@ def main():
     ap.add_argument("--muestra", type=int, default=0, help="guarda respuestas crudas de los primeros N productos")
     ap.add_argument("--guardar-catalogo", action="store_true")
     ap.add_argument("--fotos-catalogo", action="store_true")
-    ap.add_argument("--salida", default=os.path.join(ROOT, "insumos", "competencia_meli.csv"))
+    ap.add_argument("--salida", default=os.path.join(ROOT, "data", "competencia_meli.csv"))
     a = ap.parse_args()
 
     with open(os.path.join(ROOT, "data", "prioridad.csv"), encoding="utf-8") as fh:

@@ -8,7 +8,8 @@ Archivos (HTML, CSS y JS por separado, sin dependencias ni compilación):
 visor/index.html          Estructura de la página
 visor/styles.css          Estilos (tema claro y oscuro según el sistema)
 visor/app.js              Filtros, cuadrícula, tabla, paginación, detalle y sección Pendientes
-visor/xlsx.js             Escritor de .xlsx sin dependencias (exportación del layout Meli y de pendientes)
+visor/xlsx.js             Escritor de .xlsx sin dependencias (exportación del layout Meli, pendientes y ajustes)
+visor/precios.js          Cálculo de precios en vivo, idéntico a scripts/precios.py
 visor/data/productos.js   Datos (window.CATALOGO = …), generado por scripts/build_visor.py
 config/indicadores.json   Reglas de los indicadores
 config/pendientes.json    Catálogo de pendientes (tipo, título, acción sugerida), umbrales y acciones que se pueden pedir
@@ -36,8 +37,18 @@ Enlace directo a un producto: `visor/index.html#p<GTIN>` (por ejemplo `#p7501058
 - **Resumen** arriba: conteo por indicador y por tipo de pendiente (clic para filtrar), piezas en inventario, productos sin existencia y descartados.
 - **Detalle** (clic en un producto): indicadores con el motivo, botón «Seleccionar para exportar», fotos con miniaturas y datos de cada foto (origen, tamaño útil, fuente), precios e inventario, categoría y catálogo de Mercado Libre, pendientes, errores y mejoras, descripción, ficha técnica, investigación (estado, confianza, notas, fuentes) y hasta 12 productos similares de la misma categoría hoja (si hay pocos, se completa con categorías hermanas).
 - **Selección**: casilla en cada renglón de la lista, en cada tarjeta y en cada renglón de Pendientes; la casilla del encabezado de la lista selecciona o deselecciona todos los filtrados (queda a medias si solo hay algunos). La barra de selección tiene «Seleccionar los N filtrados», «Deseleccionar los N filtrados», «Seleccionar esta página», «Quitar toda la selección» y «Ver solo seleccionados». La selección se conserva al cambiar filtros, vista o sección.
+- **Edición de precios**: los parámetros de precio de cada producto (precio de venta, costo de empaque y logística, comisión, costo de envío, promedio de otros vendedores, precio del mejor vendedor y descuento) se editan en la **lista** (celdas editables; «Columnas» muestra empaque, comisión y descuento), en la **cuadrícula** (botón «Editar precios» de cada tarjeta) y en el **detalle** (bloque Precios e inventario). El precio calculado, el final, el ingreso neto y el margen se recalculan al salir del campo. Ver «Editar precios» abajo.
 - **Exportar layout Meli**: descarga `layout_meli_AAAA-MM-DD_HHMM.xlsx` con los productos seleccionados (ver abajo).
 - Recuerda en el navegador la sección, la vista, los productos por página, las columnas ocultas, la selección y la acción elegida.
+
+## Editar precios
+
+- Cada parámetro muestra su valor efectivo. Fondo **naranja** = editado en este navegador; fondo **azul** = ajustado en el repositorio (`data/ajustes_precios.json`). Borrar el campo regresa al valor del sistema o al estimado. Valores inválidos se marcan en rojo y no se guardan.
+- **Costo de envío**: lo que cobra Mercado Libre por el envío gratis cuando el precio queda en $299 o más (IVA incluido). Viene estimado de $75 a $150 por peso cobrable (`scripts/envios.py`); la tarjeta y la columna muestran el peso estimado y si aplica.
+- La comisión se escribe en porcentaje (14 = 14 %) y ya incluye IVA.
+- Lo editado se guarda en este navegador (`localStorage`) y ya se usa en todo: indicadores, pendientes, exportación del layout y de pendientes. La barra naranja muestra cuántos productos llevan ajustes y permite **Exportar ajustes de precio** (Excel), **Ver solo editados** y **Deshacer lo editado aquí**. El filtro «Ajustes de precio» separa editados aquí, ajustados en el repositorio y sin ajustes.
+- Para que los ajustes queden en el repositorio (y en el layout versionado), adjunta el Excel de ajustes en el chat: `python scripts/ajustes_precios.py <archivo.xlsx>` los guarda en `data/ajustes_precios.json`; luego se regeneran layout y visor. Al abrir el visor regenerado, los ajustes locales iguales a los versionados se limpian solos.
+- El cálculo en el navegador (`visor/precios.js`) es el mismo que `scripts/precios.py` y la hoja Precios: se comprobó con los 1,163 productos y 400 casos con mejor vendedor y ajustes al azar (0 diferencias).
 
 ## Exportar el layout de Mercado Libre
 
