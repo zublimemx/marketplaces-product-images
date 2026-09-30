@@ -1,13 +1,13 @@
 # Precios de competencia con la API de Mercado Libre
 
-Objetivo: llenar en el layout "Precio mejor vendedor" (define el Precio Meli Final) y "Precio Meli promedio otros vendedores" (referencia) (reglas en `docs/REGLAS_NEGOCIO.md`). Script: `scripts/meli_precios.py`. Salida: `insumos/competencia_meli.csv` (no versionada), que `scripts/build_mercadolibre.py` lee sola.
+Objetivo: llenar en el layout "Precio mejor vendedor" (define el Precio Meli Final) y "Precio Meli promedio otros vendedores" (referencia) (reglas en `docs/REGLAS_NEGOCIO.md`). Script: `scripts/meli_precios.py`. Salida: `data/competencia_meli.csv` (versionada), que `scripts/build_mercadolibre.py` y `scripts/build_visor.py` leen solos.
 
 > **Estado:** el script se escribió sin credenciales, así que no se ha probado contra la API real. Antes de la corrida completa, prueba con `--muestra 3 --limite 3`, revisa las respuestas guardadas en `trabajo/meli_muestras/` y ajusta los nombres de campos si difieren.
 
 ## Requisitos
 
 1. Una aplicación en [developers.mercadolibre.com.mx](https://developers.mercadolibre.com.mx) ligada a la cuenta de vendedor, con permisos de lectura.
-2. Un `refresh_token` obtenido con el flujo OAuth (autorización del vendedor → `code` → `POST /oauth/token` con `grant_type=authorization_code`). Mercado Libre devuelve un `refresh_token` nuevo en cada renovación; el script guarda el último en `insumos/ml_token.json`.
+2. Tokens: la aplicación **no** acepta `client_credentials` (probado el 29 sep 2026; responde `unsupported_grant_type`) y un access token dura 6 horas. Lo recomendado es el flujo de autorización: el dueño abre `https://auth.mercadolibre.com.mx/authorization?response_type=code&client_id=<ML_CLIENT_ID>&redirect_uri=<REDIRECT_URI>`, autoriza y entrega el `code=TG-…` (vence en minutos) y la URL de redirección; luego `python scripts/meli_auth.py --code TG-… --redirect-uri <REDIRECT_URI>` guarda access y refresh token en `insumos/ml_token.json` (ignorado por git). `scripts/meli_precios.py` lo renueva solo (la aplicación necesita el permiso `offline_access`); Mercado Libre entrega un refresh token nuevo en cada renovación.
 3. Variables en `.env` (ver `.env.example`): `ML_CLIENT_ID`, `ML_CLIENT_SECRET`, `ML_REFRESH_TOKEN` (o `ML_ACCESS_TOKEN` temporal) y opcionalmente `ML_SELLER_ID`.
 4. Salida de red a `api.mercadolibre.com` (en Codex, habilitar acceso a internet en el entorno o en el sandbox; en Claude, que el administrador lo permita).
 
@@ -33,14 +33,15 @@ Sin token, la API responde 403 incluso a búsquedas públicas (comprobado el 202
 - `--fotos-catalogo`: para productos sin fotos o con todas sus fotos de baja resolución, descarga las fotos del catálogo con `scripts/imagenes.py` (origen `catalogo_ml`). Revisa después con `scripts/revisar_fotos.py` y a la vista.
 - `--gtin …` y `--limite N` para corridas parciales; el CSV se va acumulando y se reescribe cada 25 productos.
 
-## Contrato de `insumos/competencia_meli.csv`
+## Contrato de `data/competencia_meli.csv`
 
 `gtin, producto_catalogo, publicaciones_otros, precio_promedio_otros, precio_min_otros, precio_max_otros, precio_mejor_vendedor, item_mejor_vendedor, metodo_mejor_vendedor, fecha, nota`
 
 Después de correrlo:
 
 ```bash
-python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx
+python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida layouts/mercadolibre/layout_mercadolibre.xlsx
+python scripts/build_visor.py
 ```
 
 El layout toma el CSV automáticamente (`--competencia` para otra ruta) y la fórmula de "Precio Meli Final" aplica la regla del mejor vendedor − $1 (el promedio queda como referencia).

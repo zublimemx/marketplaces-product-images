@@ -36,7 +36,6 @@
     "receta": {"tipo": "pendiente", "titulo": "Podría requerir receta", "accion": "Revisar con el dueño"},
     "sin_existencia": {"tipo": "pendiente", "titulo": "Sin existencia", "accion": "Revisar con el dueño"},
     "sin_mejor_vendedor": {"tipo": "pendiente", "titulo": "Falta el precio del mejor vendedor", "accion": "Completar precios"},
-    "envio_sin_costo": {"tipo": "pendiente", "titulo": "Falta el costo de envío (precio de $299 o más)", "accion": "Completar precios"},
     "confianza_media": {"tipo": "mejora", "titulo": "Investigación con confianza media", "accion": "Completar información"},
     "descripcion_corta": {"tipo": "mejora", "titulo": "Descripción corta", "accion": "Completar información"},
     "pocas_secciones": {"tipo": "mejora", "titulo": "Descripción con pocas secciones", "accion": "Completar información"},

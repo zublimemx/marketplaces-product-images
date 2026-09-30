@@ -11,7 +11,19 @@
     "costo_empaque_logistica_por_pieza": 4,
     "descuento_vs_mejor_vendedor": 1,
     "umbral_envio_gratis_obligatorio": 299,
-    "costo_envio_vendedor_estimado": 0,
+    "envio": {
+      "nota": "Costo del envío gratis que Mercado Libre cobra al vendedor cuando el precio es de $299 o más, IVA incluido. Rango indicado por el dueño (29 sep 2026): $75 a $150. Se estima por peso cobrable (el mayor entre peso real y volumétrico) con scripts/envios.py y se puede editar por producto. Los tramos son un supuesto dentro de ese rango.",
+      "minimo": 75,
+      "maximo": 150,
+      "divisor_volumetrico": 5000,
+      "tramos": [
+        {"hasta_kg": 0.5, "costo": 75},
+        {"hasta_kg": 1, "costo": 90},
+        {"hasta_kg": 2, "costo": 105},
+        {"hasta_kg": 5, "costo": 125},
+        {"hasta_kg": null, "costo": 150}
+      ]
+    },
     "costos_fijos_clasica": [
       {
         "desde": 0,
@@ -45,7 +57,8 @@
       "Comisiones y costos fijos: https://www.profitosapp.com/blog/cuanto-cobra-mercado-libre-por-vender-mexico-2026 (consultado 2026-09-29)",
       "Costos fijos y rango 8%-16%: https://www.upseller.com/es/blog-article-515 (14 ene 2026)",
       "Envío gratis obligatorio desde $299: https://www.upseller.com/es/blog-article-444",
-      "Comisión para otras categorías: supuesto conservador (tope del rango de Clásica)"
+      "Comisión para otras categorías: supuesto conservador (tope del rango de Clásica)",
+      "Las comisiones ya incluyen IVA: confirmado por el dueño (29 sep 2026)"
     ]
   },
   "avance": {

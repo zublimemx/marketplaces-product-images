@@ -20,7 +20,9 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Tarea | Cómo |
 |---|---|
 | Productos que faltan (8 sin verificar, 25 sin fotos; la investigación automática terminó en la sesión 7) | Con datos del dueño o nuevas fuentes: `python scripts/seleccionar_lote.py --sesion 8 --fotos`; cada lote con `docs/agentes/investigacion.md` o `docs/agentes/fotos.md`; integrar con `scripts/integrar_resultados.py` |
-| Precio de la publicación más vendida y promedio de competencia | `docs/MERCADOLIBRE_API.md` + `scripts/meli_precios.py` (necesita credenciales de la API) |
+| Precio de la publicación más vendida y promedio de competencia | Credenciales en `.env`; token con `python scripts/meli_auth.py --code TG-… --redirect-uri …` (el dueño entrega el código); luego `scripts/meli_precios.py` (`docs/MERCADOLIBRE_API.md`). Salida versionada en `data/competencia_meli.csv` |
+| Versionar ajustes de precio que exporta el visor | `python scripts/ajustes_precios.py <ajustes_precios_….xlsx>` → `data/ajustes_precios.json`; regenerar layout y visor |
+| Costos de envío estimados ($75–$150) | `python scripts/envios.py` (`data/envios.csv`); tramos en `config/mercadolibre.json → precios.envio` |
 | Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con `scripts/meli_precios.py --fotos-catalogo` |
 | Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py … --salida layouts/mercadolibre/layout_mercadolibre.xlsx`, recalculado antes de versionar (`docs/PROCEDIMIENTO_SESION.md` §4) |
 | Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; sección Pendientes o filtro por indicador «mala» (`docs/VISOR.md`) |
@@ -58,12 +60,15 @@ schema/                          JSON Schema de product.json y de los resultados
 config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance por sesión
 config/indicadores.json          Reglas de los indicadores de calidad del visor
 config/pendientes.json           Catálogo de pendientes por producto, umbrales y acciones que el dueño puede pedir
+data/ajustes_precios.json        Ajustes de precio por producto hechos en el visor
+data/envios.csv                  Costo de envío estimado por producto (peso y tamaño)
+data/competencia_meli.csv        Precios de competencia de la API de Mercado Libre (cuando se corra)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg
 reference/mercadolibre/          Árbol de categorías MLM (todas las hojas, relevantes y con receta)
 layouts/mercadolibre/            Layout de importación de Mercado Libre (.xlsx recalculado, versionado)
-visor/                           Visor web de productos (index.html, styles.css, app.js, xlsx.js, data/productos.js)
+visor/                           Visor web de productos (index.html, styles.css, app.js, precios.js, xlsx.js, data/productos.js)
 scripts/                         Herramientas (ver README.md)
 requirements.txt, .env.example   Dependencias y plantilla de credenciales
 insumos/, trabajo/, .env         Locales, ignorados por git

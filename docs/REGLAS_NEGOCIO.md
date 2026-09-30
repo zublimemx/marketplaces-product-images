@@ -41,14 +41,16 @@ Todas vienen del dueño salvo donde se indica "supuesto". Los valores numéricos
 |---|---|
 | Precio de venta | Precio del catálogo (IVA incluido) |
 | Precio de venta Marketplaces | Precio de venta + $4 por pieza (empaque y logística interna) |
-| Precio Meli calculado | Precio de venta Marketplaces + comisión aproximada de Mercado Libre, redondeado al peso hacia arriba |
+| Precio Meli calculado | Precio de venta Marketplaces + comisión de Mercado Libre + costo fijo o, si el precio queda en $299 o más, + costo de envío; redondeado al peso hacia arriba |
 | Precio Meli promedio otros vendedores | Dato de entrada, solo de referencia (pendiente de obtener) |
 | Precio mejor vendedor | Dato de entrada: precio de la publicación del mismo producto con más ventas (pendiente; si la API no da ventas, ganador del catálogo) |
 | Precio Meli Final | Precio con el que se publica. Si hay precio del mejor vendedor y (mejor vendedor − $1) ≥ calculado: mejor vendedor − $1; si no, el calculado. Regla del dueño del 29 sep 2026 (antes se usaba el promedio de otros vendedores) |
 
-Comisión aproximada (publicación Clásica, fuentes en `config/mercadolibre.json`):
-- Porcentaje por categoría raíz: Salud y Equipamiento Médico 14 %, Belleza y Cuidado Personal 14 %, Bebés 15 %, Alimentos y Bebidas 10 %, otras 16 % (supuesto conservador).
+Comisión (publicación Clásica, fuentes en `config/mercadolibre.json`):
+- Porcentaje por categoría raíz, **IVA incluido** (confirmado por el dueño el 29 sep 2026): Salud y Equipamiento Médico 14 %, Belleza y Cuidado Personal 14 %, Bebés 15 %, Alimentos y Bebidas 10 %, otras 16 % (supuesto conservador).
 - Costo fijo por unidad según precio final: menos de $99 → $25; $99 a $149 → $30; $149 a $299 → $37; $299 o más → $0.
-- Desde $299 se suma el costo de envío a cargo del vendedor (parámetro, hoy $0 por confirmar).
-- Fórmula por tramo: precio = ROUNDUP((Precio Marketplaces + costo fijo del tramo + envío) / (1 − comisión)); se usa el primer tramo cuyo resultado cae dentro de su rango; si el tramo de $149–$299 da $299 o más, se usa el máximo entre el cálculo sin costo fijo y $299.
+- Desde $299 Mercado Libre obliga el envío gratis y se lo cobra al vendedor. **Costo de envío por producto de $75 a $150, IVA incluido**, según tamaño y peso (dueño, 29 sep 2026). Se estima con `scripts/envios.py` por peso cobrable (el mayor entre peso real y volumétrico estimados): hasta 0.5 kg $75, 1 kg $90, 2 kg $105, 5 kg $125, más $150 (tramos supuestos dentro del rango, en `config/mercadolibre.json → precios.envio`).
+- Fórmula por tramo: precio = ROUNDUP((Precio Marketplaces + costo fijo del tramo) / (1 − comisión)); se usa el primer tramo cuyo resultado cae dentro de su rango. Si ninguno cae, **o si el mejor vendedor − descuento es de $299 o más** (el precio final quedará en $299 o más), el calculado es MAX(ROUNDUP((Precio Marketplaces + costo de envío) / (1 − comisión)), 299). Así todo producto con Precio Meli Final de $299 o más lleva el envío dentro del Precio Meli calculado.
+
+Parámetros por producto: precio de venta, costo de empaque y logística, comisión, costo de envío, promedio de otros vendedores, precio del mejor vendedor y descuento contra el mejor vendedor se pueden ajustar uno por uno en el visor (cuadrícula, lista o detalle). Los ajustes se versionan en `data/ajustes_precios.json` (`scripts/ajustes_precios.py`) y el layout y el visor los usan; en la hoja Precios las celdas ajustadas tienen fondo naranja claro.
 - Las retenciones de IVA (8 %) e ISR (2.5 %) no se suman: son acreditables.

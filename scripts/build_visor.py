@@ -2,7 +2,7 @@
 """Genera los datos del visor de productos (visor/data/productos.js).
 
 Uso:
-  python scripts/build_visor.py [--precios insumos/precios_existencias.csv] [--competencia insumos/competencia_meli.csv]
+  python scripts/build_visor.py [--precios insumos/precios_existencias.csv] [--competencia data/competencia_meli.csv]
                                 [--base-imagenes ../products] [--salida visor/data/productos.js]
 
 Une product.json, precios y existencias, competencia de Mercado Libre y los precios calculados con las mismas
@@ -21,6 +21,7 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import precios  # noqa: E402
 import build_mercadolibre as bml  # noqa: E402
+import envios  # noqa: E402
 from revisar_fotos import fondo_no_blanco  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -69,6 +70,9 @@ def leer_precios(path):
 
 def leer_competencia(path):
     comp = {}
+    if path and not os.path.exists(path):
+        viejo = os.path.join(ROOT, "insumos", "competencia_meli.csv")
+        path = viejo if os.path.exists(viejo) else path
     if path and os.path.exists(path):
         with open(path, encoding="utf-8") as fh:
             for r in csv.DictReader(fh):
@@ -197,8 +201,6 @@ def pendientes(p, imgs, pr, stock, cfg_pend, cfg_precios):
         add("sin_existencia", "Se publicaría con 0 piezas")
     if pr["precio_mejor_vendedor"] is None:
         add("sin_mejor_vendedor", f"Mientras no se tenga, se publica al Precio Meli calculado ({_dinero(pr['precio_meli_calculado'])})")
-    if pr["precio_meli_final"] >= cfg_precios["umbral_envio_gratis_obligatorio"] and not cfg_precios["costo_envio_vendedor_estimado"]:
-        add("envio_sin_costo", f"Precio Meli final de {_dinero(pr['precio_meli_final'])}: Mercado Libre obliga el envío gratis y lo cobra al vendedor; hoy el costo está en $0, así que el margen ({_dinero(pr['margen'])}) está sobreestimado")
 
     # mejoras
     if inv["estado"] == "verificado" and inv.get("confianza") != "alta":
@@ -219,7 +221,7 @@ def pendientes(p, imgs, pr, stock, cfg_pend, cfg_precios):
     if imgs and imgs[0].get("gris"):
         add("fondo_gris", "La foto principal podría no tener fondo blanco")
     mv = pr["precio_mejor_vendedor"]
-    if mv is not None and pr["precio_meli_calculado"] > mv - cfg_precios["descuento_vs_mejor_vendedor"]:
+    if mv is not None and pr["precio_meli_calculado"] > mv - pr["descuento_mejor_vendedor"]:
         add("no_competitivo", f"Calculado {_dinero(pr['precio_meli_calculado'])} contra mejor vendedor {_dinero(mv)}: se publica al calculado, {pr['precio_meli_calculado'] / mv - 1:.0%} arriba")
     if pr["precio_venta"] and pr["precio_meli_final"] / pr["precio_venta"] >= u["veces_precio_tienda"]:
         add("precio_inflado", f"Precio Meli final {_dinero(pr['precio_meli_final'])} = {pr['precio_meli_final'] / pr['precio_venta']:.1f} veces el precio de tienda ({_dinero(pr['precio_venta'])}) por el costo fijo de Mercado Libre; considerar kit o paquete")
@@ -238,7 +240,7 @@ def datos_layout_meli(cfg_precios):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--precios", default=os.path.join(ROOT, "insumos", "precios_existencias.csv"))
-    ap.add_argument("--competencia", default=os.path.join(ROOT, "insumos", "competencia_meli.csv"))
+    ap.add_argument("--competencia", default=bml.COMPETENCIA)
     ap.add_argument("--base-imagenes", default="../products", help="ruta o URL base de las fotos, vista desde visor/index.html")
     ap.add_argument("--salida", default=os.path.join(ROOT, "visor", "data", "productos.js"))
     a = ap.parse_args()
@@ -249,6 +251,8 @@ def main():
     SECCIONES[:] = reglas["descripcion"]["secciones_reconocidas"]
     pv = leer_precios(a.precios)
     comp = leer_competencia(a.competencia)
+    ajustes = precios.cargar_ajustes()
+    cfg_env = envios.cargar_config()
     cache = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
 
     productos = []
@@ -256,7 +260,10 @@ def main():
         p = json.load(open(os.path.join(ROOT, "products", g, "product.json"), encoding="utf-8"))
         ml = p["marketplaces"]["mercadolibre"]
         prom, mejor, metodo = comp.get(g, (None, None, ""))
-        pr = precios.calcular(base["precio"], ml["categoria_ruta"], cfg, prom, mejor)
+        env = envios.estimar(p, cfg_env)
+        aj = ajustes.get(g) or {}
+        par, origen = precios.parametros(base["precio"], ml["categoria_ruta"], cfg, prom, mejor, env["costo_envio"], aj)
+        pr = precios.calcular_parametros(par, cfg)
         imgs = []
         for im in p.get("imagenes", []):
             f = os.path.join(ROOT, "products", g, "images", im["archivo"])
@@ -275,9 +282,9 @@ def main():
             "linea": p["linea"], "categoria_id": ml["categoria_id"], "categoria_ruta": ruta,
             "categoria": ruta.split(" > ")[-1] if ruta else "Sin categoría",
             "catalogo_id": ml.get("catalogo_id", ""), "categoria_rx_sugerida": ml.get("categoria_rx_sugerida", ""),
-            "stock": base["stock"], "precios": {k: pr[k] for k in ("precio_venta", "precio_marketplaces", "comision", "precio_meli_calculado",
-                                                                  "precio_promedio_otros", "precio_mejor_vendedor", "precio_meli_final",
-                                                                  "diferencia_mejor_vendedor", "costo_fijo", "envio_vendedor", "ingreso_neto", "margen")},
+            "stock": base["stock"], "precios": pr, "param": par, "param_origen": origen,
+            "envio": {"peso": env["peso_cobrable_kg"], "tamano": env["tamano"], "base": env["base"], "estimado": env["costo_envio"]},
+            "ajuste_nota": aj.get("nota", ""),
             "metodo_mejor_vendedor": metodo,
             "imagenes": imgs, "descripcion": p["descripcion"], "ficha": p.get("ficha", {}), "receta_mx": p.get("receta_mx", ""),
             "url_oficial": p.get("url_oficial", ""), "fuentes": p.get("fuentes", []),
@@ -288,8 +295,11 @@ def main():
     os.makedirs(os.path.dirname(CACHE), exist_ok=True)
     json.dump(cache, open(CACHE, "w"))
     datos = {"generado": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), "total": len(productos),
-             "reglas": reglas, "pendientes": {k: cfg_pend[k] for k in ("acciones", "tipos", "pendientes")},
-             "meli": datos_layout_meli(cfg), "productos": productos}
+             "reglas": reglas, "pendientes": {k: cfg_pend[k] for k in ("acciones", "tipos", "pendientes", "umbrales")},
+             "meli": datos_layout_meli(cfg),
+             "calculo": {"costos_fijos": cfg["costos_fijos_clasica"], "umbral": cfg["umbral_envio_gratis_obligatorio"],
+                         "envio": {k: cfg["envio"][k] for k in ("minimo", "maximo", "tramos")}, "campos": list(precios.CAMPOS)},
+             "productos": productos}
     os.makedirs(os.path.dirname(a.salida), exist_ok=True)
     with open(a.salida, "w", encoding="utf-8") as fh:
         fh.write("// Generado por scripts/build_visor.py. No editar a mano.\nwindow.CATALOGO = ")

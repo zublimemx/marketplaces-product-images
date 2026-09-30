@@ -43,6 +43,9 @@ scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Lib
 scripts/precios.py               Fórmulas de precio de Mercado Libre (idénticas a la hoja Precios)
 scripts/build_visor.py           Genera los datos del visor (visor/data/productos.js), con indicadores y pendientes
 scripts/descartar.py             Descarta o reactiva productos del layout de Mercado Libre
+scripts/envios.py                Estima el costo de envío por producto ($75–$150 por peso y tamaño)
+scripts/ajustes_precios.py       Versiona los ajustes de precio exportados desde el visor
+scripts/meli_auth.py             Obtiene el token de la API de Mercado Libre con un código de autorización
 scripts/solicitudes.py           Lee el Excel de pendientes que devuelve el dueño y agrupa por acción
 scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
 scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
@@ -67,4 +70,4 @@ y recalcularlo antes de versionarlo (ver `docs/PROCEDIMIENTO_SESION.md` §4).
 
 ## Visor de productos
 
-Abre `visor/index.html` con doble clic (o `python -m http.server 8000` desde la raíz y `http://localhost:8000/visor/`). Muestra los 1,163 productos en cuadrícula o tabla, con carrusel de fotos, filtros con autocompletado, orden por columna, paginación, detalle con productos similares e indicadores de descripción, fotos y precios. Permite seleccionar productos (uno a uno o todos los filtrados) y **exportar el layout de Mercado Libre** listo para importar, con las URLs de las fotos en GitHub. La sección **Pendientes** lista errores, pendientes y mejoras de cada producto y exporta a Excel los seleccionados para pedir acciones (completar información, buscar imágenes, completar precios, revisar o descartar). Para actualizar sus datos: `python scripts/build_visor.py`. Detalle en `docs/VISOR.md`.
+Abre `visor/index.html` con doble clic (o `python -m http.server 8000` desde la raíz y `http://localhost:8000/visor/`). Muestra los 1,163 productos en cuadrícula o tabla, con carrusel de fotos, filtros con autocompletado, orden por columna, paginación, detalle con productos similares e indicadores de descripción, fotos y precios. Permite **editar los parámetros de precio** de cada producto (precio de venta, empaque, comisión, costo de envío, competencia y descuento) desde la cuadrícula, la lista o el detalle, seleccionar productos (uno a uno o todos los filtrados) y **exportar el layout de Mercado Libre** listo para importar, con las URLs de las fotos en GitHub. La sección **Pendientes** lista errores, pendientes y mejoras de cada producto y exporta a Excel los seleccionados para pedir acciones (completar información, buscar imágenes, completar precios, revisar o descartar). Para actualizar sus datos: `python scripts/build_visor.py`. Detalle en `docs/VISOR.md`.

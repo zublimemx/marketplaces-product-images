@@ -48,6 +48,7 @@
     <fieldset class="grupo" id="f-ind-fotos"><legend>Fotos</legend></fieldset>
     <fieldset class="grupo" id="f-ind-precios"><legend>Precios</legend></fieldset>
     <fieldset class="grupo" id="f-publicacion"><legend>Publicación en Meli</legend></fieldset>
+    <fieldset class="grupo" id="f-ajustes"><legend>Ajustes de precio</legend></fieldset>
     <fieldset class="grupo" id="f-tipo"><legend>Tipo de pendiente</legend></fieldset>
     <fieldset class="grupo" id="f-pend"><legend>Pendiente</legend></fieldset>
     <details class="reglas">
@@ -86,6 +87,12 @@
         <button type="button" class="btn btn-ghost" id="sel-quitar">Quitar toda la selección</button>
         <label class="check"><input type="checkbox" id="solo-sel"> Ver solo seleccionados</label>
       </div>
+      <div class="pb-fila pb-ajustes" id="ajustes-fila" hidden>
+        <p class="pb-sel"><strong id="aj-n">0</strong> <span id="aj-txt">productos con precios editados</span></p>
+        <button type="button" class="btn" id="aj-exportar">Exportar ajustes de precio</button>
+        <button type="button" class="btn btn-ghost" id="aj-ver" aria-pressed="false">Ver solo editados</button>
+        <button type="button" class="btn btn-ghost" id="aj-deshacer">Deshacer lo editado aquí</button>
+      </div>
       <div class="pb-fila">
         <button type="button" class="btn btn-primario" id="exportar-meli" disabled>Exportar layout Meli</button>
         <label class="tool" id="accion-wrap">
@@ -114,8 +121,13 @@
   <div class="det-inner" id="det-inner"></div>
 </dialog>
 
+<dialog class="detalle editor" id="editor-precios" aria-labelledby="ed-titulo">
+  <div class="det-inner" id="ed-inner"></div>
+</dialog>
+
 <script src="data/productos.js"></script>
 <script src="xlsx.js"></script>
+<script src="precios.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

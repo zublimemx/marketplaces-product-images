@@ -47,6 +47,8 @@ Revisa visualmente una muestra de fotos nuevas (hoja de contacto por producto en
 ## 4. Regenerar el layout y el visor (en cada sesión que cambie fichas, fotos o precios)
 
 ```bash
+python scripts/envios.py                        # si cambiaron fichas o tramos de envío (data/envios.csv)
+python scripts/ajustes_precios.py <archivo.xlsx> # si el dueño mandó ajustes de precio del visor
 python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida layouts/mercadolibre/layout_mercadolibre.xlsx
 python scripts/build_visor.py
 ```
