@@ -27,6 +27,7 @@ products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_1.jpg, <GTIN>_2.jpg, ...
 config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance
 config/indicadores.json          Reglas de los indicadores del visor
+config/pendientes.json           Pendientes por producto y acciones que se pueden pedir
 layouts/mercadolibre/            Layout de importación de Mercado Libre (versionado)
 visor/                           Visor web de productos (abrir visor/index.html)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
@@ -40,7 +41,9 @@ scripts/validar.py               Valida product.json y resultados contra los esq
 scripts/progreso.py              Escribe PROGRESO.md
 scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Libre
 scripts/precios.py               Fórmulas de precio de Mercado Libre (idénticas a la hoja Precios)
-scripts/build_visor.py           Genera los datos del visor (visor/data/productos.js)
+scripts/build_visor.py           Genera los datos del visor (visor/data/productos.js), con indicadores y pendientes
+scripts/descartar.py             Descarta o reactiva productos del layout de Mercado Libre
+scripts/solicitudes.py           Lee el Excel de pendientes que devuelve el dueño y agrupa por acción
 scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
 scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
@@ -64,4 +67,4 @@ y recalcularlo antes de versionarlo (ver `docs/PROCEDIMIENTO_SESION.md` §4).
 
 ## Visor de productos
 
-Abre `visor/index.html` con doble clic (o `python -m http.server 8000` desde la raíz y `http://localhost:8000/visor/`). Muestra los 1,163 productos en cuadrícula o tabla, con carrusel de fotos, filtros con autocompletado, orden por columna, paginación, detalle con productos similares e indicadores de descripción, fotos y precios. Para actualizar sus datos: `python scripts/build_visor.py`. Detalle en `docs/VISOR.md`.
+Abre `visor/index.html` con doble clic (o `python -m http.server 8000` desde la raíz y `http://localhost:8000/visor/`). Muestra los 1,163 productos en cuadrícula o tabla, con carrusel de fotos, filtros con autocompletado, orden por columna, paginación, detalle con productos similares e indicadores de descripción, fotos y precios. La sección **Pendientes** lista errores, pendientes y mejoras de cada producto y exporta a Excel los seleccionados para pedir acciones (completar información, buscar imágenes, completar precios, revisar o descartar). Para actualizar sus datos: `python scripts/build_visor.py`. Detalle en `docs/VISOR.md`.

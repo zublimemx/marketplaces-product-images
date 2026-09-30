@@ -1,15 +1,17 @@
 # Visor de productos
 
-Página para revisar a ojo la calidad y la cantidad de los productos antes de importarlos: fotos, descripción, ficha técnica, categoría, inventario y precios, con indicadores de calidad por producto.
+Página para revisar a ojo la calidad y la cantidad de los productos antes de importarlos: fotos, descripción, ficha técnica, categoría, inventario y precios, con indicadores de calidad por producto. La sección **Pendientes** lista lo que le falta o conviene mejorar a cada producto y exporta a Excel los que selecciones, para pedir acciones concretas.
 
 Archivos (HTML, CSS y JS por separado, sin dependencias ni compilación):
 
 ```
 visor/index.html          Estructura de la página
 visor/styles.css          Estilos (tema claro y oscuro según el sistema)
-visor/app.js              Filtros, cuadrícula, tabla, paginación y detalle
+visor/app.js              Filtros, cuadrícula, tabla, paginación, detalle y sección Pendientes
+visor/xlsx.js             Escritor de .xlsx sin dependencias (exportación de pendientes)
 visor/data/productos.js   Datos (window.CATALOGO = …), generado por scripts/build_visor.py
 config/indicadores.json   Reglas de los indicadores
+config/pendientes.json    Catálogo de pendientes (tipo, título, acción sugerida), umbrales y acciones que se pueden pedir
 scripts/build_visor.py    Genera visor/data/productos.js
 scripts/precios.py        Mismas fórmulas de precio que la hoja Precios del layout
 ```
@@ -25,14 +27,64 @@ Enlace directo a un producto: `visor/index.html#p<GTIN>` (por ejemplo `#p7501058
 
 ## Qué hace
 
-- **Vistas**: cuadrícula y lista (tabla). En ambas, cada producto trae su carrusel de fotos (flechas y contador).
-- **Tabla**: columnas Fotos, Código, Producto, Categoría, Línea, Inventario, Precio venta, Precio marketplaces, Precio Meli calculado, Promedio otros vendedores, Precio mejor vendedor, Precio Meli final e indicadores. Clic en el encabezado ordena (otro clic invierte el sentido). El botón «Columnas» muestra u oculta columnas.
+- **Secciones**: «Catálogo» (cuadrícula o lista) y «Pendientes» (ver abajo). Los filtros de la izquierda aplican a las dos.
+- **Vistas del catálogo**: cuadrícula y lista (tabla). En ambas, cada producto trae su carrusel de fotos (flechas y contador).
+- **Tabla**: columnas Fotos, Código, Producto, Categoría, Línea, Inventario, Precio venta, Precio marketplaces, Precio Meli calculado, Promedio otros vendedores, Precio mejor vendedor, Precio Meli final, indicadores y conteo de pendientes. Clic en el encabezado ordena (otro clic invierte el sentido). El botón «Columnas» muestra u oculta columnas.
 - **Orden** también desde el selector «Ordenar por» (incluye «Prioridad por ventas», el orden de `data/prioridad.csv`).
 - **Paginación** de 24, 48 o 96 productos.
-- **Filtros** multiselección con autocompletado por nombre, código (GTIN o ID de catálogo) y categoría de Mercado Libre; cada filtro acepta varios valores (se combinan con «o») y «Contiene «texto»» para buscar por fragmento. Además: línea, con o sin existencia, y los tres indicadores. Filtros distintos se combinan con «y». Los números junto a cada opción cuentan los productos que quedarían al marcarla.
-- **Resumen** arriba: conteo por indicador (clic para filtrar), piezas en inventario y productos sin existencia.
-- **Detalle** (clic en un producto): indicadores con el motivo, fotos con miniaturas y datos de cada foto (origen, tamaño útil, fuente), precios e inventario, categoría y catálogo de Mercado Libre, descripción, ficha técnica, investigación (estado, confianza, notas, fuentes) y hasta 12 productos similares de la misma categoría hoja (si hay pocos, se completa con categorías hermanas).
-- Recuerda en el navegador la vista, los productos por página y las columnas ocultas.
+- **Filtros** multiselección con autocompletado por nombre, código (GTIN o ID de catálogo) y categoría de Mercado Libre; cada filtro acepta varios valores (se combinan con «o») y «Contiene «texto»» para buscar por fragmento. Además: línea, con o sin existencia, los tres indicadores, publicación en Meli (se publica o descartado), tipo de pendiente y pendiente. Filtros distintos se combinan con «y». Los números junto a cada opción cuentan los productos que quedarían al marcarla.
+- **Resumen** arriba: conteo por indicador y por tipo de pendiente (clic para filtrar), piezas en inventario, productos sin existencia y descartados.
+- **Detalle** (clic en un producto): indicadores con el motivo, botón «Seleccionar para exportar», fotos con miniaturas y datos de cada foto (origen, tamaño útil, fuente), precios e inventario, categoría y catálogo de Mercado Libre, pendientes, errores y mejoras, descripción, ficha técnica, investigación (estado, confianza, notas, fuentes) y hasta 12 productos similares de la misma categoría hoja (si hay pocos, se completa con categorías hermanas).
+- Recuerda en el navegador la sección, la vista, los productos por página, las columnas ocultas, la selección y la acción elegida.
+
+## Sección Pendientes
+
+Lista los productos que tienen algo por resolver, cada uno con su foto, datos básicos y sus pendientes ordenados por gravedad, con el detalle y la acción sugerida. Si filtras por tipo o por pendiente, cada renglón muestra solo los que coinciden (y cuántos más tiene fuera del filtro).
+
+Tipos:
+
+- **Error**: impide o pone en riesgo la publicación (sin fotos, todas las fotos chicas, sin categoría, descripción vacía o muy corta, título largo, sin precio).
+- **Pendiente**: falta un dato o una confirmación (producto sin verificar, dato por confirmar en el empaque, podría requerir receta, sin existencia, falta el precio del mejor vendedor, falta el costo de envío en productos de $299 o más).
+- **Mejora**: se puede publicar, pero conviene mejorarlo (confianza media, descripción corta, ficha incompleta, una sola foto, foto principal chica o con fondo gris, precio calculado arriba del mejor vendedor, precio en Meli muy arriba del de tienda).
+
+| Pendiente | Tipo | Acción sugerida |
+|---|---|---|
+| Sin título | error | Completar información |
+| Título de más de 60 caracteres | error | Completar información |
+| Sin categoría de Mercado Libre | error | Completar información |
+| Descripción vacía o muy corta | error | Completar información |
+| Sin fotos | error | Buscar más imágenes |
+| Todas las fotos son chicas | error | Buscar más imágenes |
+| Sin precio de venta | error | Revisar con el dueño |
+| Producto sin verificar | pendiente | Completar información |
+| Dato por confirmar en el empaque | pendiente | Revisar con el dueño |
+| Podría requerir receta | pendiente | Revisar con el dueño |
+| Sin existencia | pendiente | Revisar con el dueño |
+| Falta el precio del mejor vendedor | pendiente | Completar precios |
+| Falta el costo de envío (precio de $299 o más) | pendiente | Completar precios |
+| Investigación con confianza media | mejora | Completar información |
+| Descripción corta | mejora | Completar información |
+| Descripción con pocas secciones | mejora | Completar información |
+| Ficha técnica incompleta | mejora | Completar información |
+| Una sola foto | mejora | Buscar más imágenes |
+| Foto principal chica | mejora | Buscar más imágenes |
+| Foto principal con posible fondo gris | mejora | Buscar más imágenes |
+| Precio calculado arriba del mejor vendedor | mejora | Revisar con el dueño |
+| Precio en Meli muy arriba del de tienda | mejora | Revisar con el dueño |
+
+Reglas y umbrales en `config/pendientes.json`; el cálculo está en `pendientes()` de `scripts/build_visor.py`. Los productos descartados no tienen pendientes.
+
+### Pedir acciones con el Excel
+
+1. Filtra (por ejemplo, Pendiente = «Sin fotos») y selecciona productos: casilla por renglón, «Seleccionar esta página», «Seleccionar los N filtrados» o desde el detalle. La selección se conserva al cambiar filtros; «Ver solo seleccionados» la revisa.
+2. Elige la **acción a solicitar** (Completar información, Buscar más imágenes, Completar precios, Revisar con el dueño o Descartar de Meli) o déjala vacía para elegirla por renglón en Excel.
+3. **Exportar a Excel** descarga `pendientes_meli_AAAA-MM-DD_HHMM.xlsx` con tres hojas: **Productos** (un renglón por producto, con detalle de pendientes, acciones sugeridas, «Acción solicitada» con lista desplegable y «Comentarios»), **Detalle** (un renglón por pendiente) e **Instrucciones** (filtros aplicados y qué hace cada acción).
+4. El dueño ajusta «Acción solicitada» y «Comentarios» y adjunta el archivo en el chat.
+5. El agente lo procesa: `python scripts/solicitudes.py <archivo.xlsx>` agrupa los productos por acción; `--aplicar-descartes` descarta los marcados con «Descartar de Meli». Las demás acciones se trabajan con `docs/agentes/` (información e imágenes), `docs/MERCADOLIBRE_API.md` (precios) o con el dato que el dueño escribió en Comentarios. Al terminar: regenerar layout y visor y abrir PR.
+
+### Descartar productos de Mercado Libre
+
+`python scripts/descartar.py --gtin <GTIN…> --motivo "…"` marca `marketplaces.mercadolibre.descartado` en `product.json`. El producto se queda en el repositorio (sirve para otros marketplaces), pero sale del layout (queda en la hoja Descartados) y el visor lo muestra como «Descartado de Meli». `--reactivar` lo regresa y `--lista` muestra los descartados.
 
 ## Indicadores
 
@@ -44,7 +96,7 @@ Reglas en `config/indicadores.json` (cámbialas ahí y regenera los datos):
 | Fotos | buena / regular / mala | Buena: 2 fotos o más y la principal con el producto de 800 px o más, sin fondo gris. Regular: alguna foto con el producto de 500 px o más. Mala: sin fotos o todas más chicas. |
 | Precios | completos / incompletos | Completos cuando se conocen el precio de venta al público, el precio de la publicación más vendida en Mercado Libre y el precio Meli calculado (con comisión y costo de empaque y logística). |
 
-Mientras no se corra `scripts/meli_precios.py` con credenciales de la API, todos los productos salen con precios incompletos (falta el precio del mejor vendedor).
+Mientras no se corra `scripts/meli_precios.py` con credenciales de la API, todos los productos salen con precios incompletos (falta el precio del mejor vendedor) y se publican al Precio Meli calculado. Con ese precio, el Precio Meli final = mejor vendedor − $1 si no queda abajo del calculado; si no, el calculado.
 
 ## Regenerar los datos
 

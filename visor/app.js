@@ -22,6 +22,22 @@
   });
   const porGtin = new Map(P.map((p) => [p.gtin, p]));
 
+  // Pendientes, errores y mejoras por producto (catálogo en config/pendientes.json)
+  const CATP = DATA.pendientes || { acciones: [], tipos: {}, pendientes: {} };
+  const TIPOS = ["error", "pendiente", "mejora"];
+  const TIPO_ETQ = { error: "Error", pendiente: "Pendiente", mejora: "Mejora" };
+  const TIPO_PLURAL = { error: "errores", pendiente: "pendientes", mejora: "mejoras" };
+  const ACCIONES = (CATP.acciones || []).map((a) => (typeof a === "string" ? { nombre: a, descripcion: "" } : a));
+  P.forEach((p) => {
+    p._pend = (p.pend || []).map((x) => {
+      const c = CATP.pendientes[x.c] || { tipo: "mejora", titulo: x.c, accion: "" };
+      return { c: x.c, d: x.d, t: c.tipo, titulo: c.titulo, accion: c.accion };
+    }).sort((a, b) => TIPOS.indexOf(a.t) - TIPOS.indexOf(b.t));
+    p._n = { error: 0, pendiente: 0, mejora: 0 };
+    p._pend.forEach((x) => { p._n[x.t] += 1; });
+    p._grav = p._n.error * 10000 + p._n.pendiente * 100 + p._n.mejora;
+  });
+
   // ---------------- Preferencias (solo en este navegador) ----------------
   const guardar = (k, v) => { try { localStorage.setItem("visor:" + k, JSON.stringify(v)); } catch (e) { /* sin almacenamiento */ } };
   const leer = (k, d) => { try { const v = localStorage.getItem("visor:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } };
@@ -43,19 +59,25 @@
     { id: "ind_descripcion", label: "Descripción", sort: (p) => RANGO[p.ind.descripcion] },
     { id: "ind_fotos", label: "Calidad de fotos", sort: (p) => RANGO[p.ind.fotos] },
     { id: "ind_precios", label: "Precios", sort: (p) => RANGO[p.ind.precios] },
+    { id: "pendientes", label: "Pendientes", sort: (p) => p._grav },
   ];
   const ORDENES = [
     { id: "orden", label: "Prioridad por ventas", sort: (p) => p.orden },
     ...COLUMNAS.filter((c) => c.sort),
   ];
   const estado = {
+    seccion: leer("seccion", "catalogo"),
+    sel: new Set(leer("sel", []).filter((g) => porGtin.has(g))),
+    soloSel: false,
+    accion: leer("accion", ""),
     vista: leer("vista", "cuadricula"),
     ordenId: "orden",
     asc: true,
     pagina: 1,
     porPagina: leer("porPagina", 48),
     ocultas: new Set(leer("ocultas", ["linea", "precio_marketplaces"])),
-    f: { nombre: [], codigo: [], categoria: [], linea: new Set(), stock: new Set(), descripcion: new Set(), fotos: new Set(), precios: new Set() },
+    f: { nombre: [], codigo: [], categoria: [], linea: new Set(), stock: new Set(), descripcion: new Set(), fotos: new Set(), precios: new Set(),
+      publicacion: new Set(), tipo: new Set(), pend: new Set() },
   };
 
   // ---------------- Filtrado y orden ----------------
@@ -69,12 +91,21 @@
     if (sin !== "descripcion" && f.descripcion.size && !f.descripcion.has(p.ind.descripcion)) return false;
     if (sin !== "fotos" && f.fotos.size && !f.fotos.has(p.ind.fotos)) return false;
     if (sin !== "precios" && f.precios.size && !f.precios.has(p.ind.precios)) return false;
+    if (sin !== "publicacion" && f.publicacion.size && !f.publicacion.has(p.descartado ? "descartado" : "publica")) return false;
+    if (sin !== "tipo" && f.tipo.size && !p._pend.some((x) => f.tipo.has(x.t))) return false;
+    if (sin !== "pend" && f.pend.size && !p._pend.some((x) => f.pend.has(x.c))) return false;
+    if (estado.soloSel && estado.seccion === "pendientes" && !estado.sel.has(p.gtin)) return false;
     return true;
   }
-  function filtrados() {
+  // Pendientes del producto que coinciden con los filtros de tipo y pendiente (todos si no hay esos filtros)
+  function pendVisibles(p) {
+    const f = estado.f;
+    return p._pend.filter((x) => (!f.tipo.size || f.tipo.has(x.t)) && (!f.pend.size || f.pend.has(x.c)));
+  }
+  function comparador() {
     const o = ORDENES.find((x) => x.id === estado.ordenId) || ORDENES[0];
     const dir = estado.asc ? 1 : -1;
-    return P.filter((p) => coincide(p)).sort((a, b) => {
+    return (a, b) => {
       const va = o.sort(a), vb = o.sort(b);
       if (va == null && vb == null) return a.orden - b.orden;
       if (va == null) return 1;
@@ -82,7 +113,11 @@
       if (va < vb) return -dir;
       if (va > vb) return dir;
       return a.orden - b.orden;
-    });
+    };
+  }
+  function filtrados() {
+    const enPend = estado.seccion === "pendientes";
+    return P.filter((p) => coincide(p) && (!enPend || pendVisibles(p).length > 0)).sort(comparador());
   }
 
   // ---------------- Componentes ----------------
@@ -130,6 +165,18 @@
     return `<div class="inds">${["descripcion", "fotos", "precios"].map((k) =>
       `<span class="ind ind-${p.ind[k]}" title="${esc(p.ind[k + "_motivo"])}"><span class="k">${ETQ[k]}</span><span class="v">${p.ind[k]}</span></span>`
     ).join("")}</div>`;
+  }
+
+  function cuentaPend(p, lista = p._pend) {
+    if (p.descartado) return `<div class="pcuenta"><span class="desc-badge" title="${esc(p.descartado.motivo)}">Descartado de Meli</span></div>`;
+    if (!lista.length) return '<div class="pcuenta"><span class="pc pc-ok">Sin pendientes</span></div>';
+    const n = { error: 0, pendiente: 0, mejora: 0 };
+    lista.forEach((x) => { n[x.t] += 1; });
+    return `<div class="pcuenta">${TIPOS.filter((t) => n[t]).map((t) =>
+      `<span class="pc pc-${t}" title="${esc(CATP.tipos[t] || "")}">${n[t]} ${n[t] === 1 ? TIPO_ETQ[t].toLowerCase() : TIPO_PLURAL[t]}</span>`).join("")}</div>`;
+  }
+  function itemPend(x) {
+    return `<li class="pi pi-${x.t}"><span class="pt">${TIPO_ETQ[x.t]}</span><div><b>${esc(x.titulo)}.</b> <span class="pd">${esc(x.d)}</span>${x.accion ? `<span class="pa">Acción sugerida: ${esc(x.accion)}</span>` : ""}</div></li>`;
   }
 
   // Selector múltiple con autocompletado
@@ -232,20 +279,35 @@
     grupoToggles("f-ind-descripcion", "descripcion", [["buena", "Buena"], ["regular", "Regular"], ["mala", "Mala"]]);
     grupoToggles("f-ind-fotos", "fotos", [["buena", "Buenas"], ["regular", "Regulares"], ["mala", "Malas"]]);
     grupoToggles("f-ind-precios", "precios", [["completos", "Completos"], ["incompletos", "Incompletos"]]);
+    grupoToggles("f-publicacion", "publicacion", [["publica", "Se publica"], ["descartado", "Descartado"]]);
+    grupoToggles("f-tipo", "tipo", [["error", "Errores"], ["pendiente", "Pendientes"], ["mejora", "Mejoras"]], (t) => "pt-" + t);
+    const presentes = new Map();
+    P.forEach((p) => new Set(p._pend.map((x) => x.c)).forEach((c) => presentes.set(c, (presentes.get(c) || 0) + 1)));
+    const codigos = Object.entries(CATP.pendientes).filter(([c]) => presentes.get(c))
+      .sort((a, b) => TIPOS.indexOf(a[1].tipo) - TIPOS.indexOf(b[1].tipo) || presentes.get(b[0]) - presentes.get(a[0]));
+    grupoToggles("f-pend", "pend", codigos.map(([c, d]) => [c, d.titulo]), (c) => "pt-" + CATP.pendientes[c].tipo);
     $("limpiar").addEventListener("click", () => {
       Object.keys(estado.f).forEach((k) => { estado.f[k] = Array.isArray(estado.f[k]) ? [] : new Set(); });
       Object.values(MS).forEach((m) => m.chips());
       document.querySelectorAll("#panel-filtros input[type=checkbox]").forEach((c) => { c.checked = false; });
+      estado.soloSel = false;
       aplicar();
     });
     $("reglas-texto").innerHTML = textoReglas();
   }
 
-  function grupoToggles(idCont, clave, opciones) {
+  const TOGGLES = [];
+  function sincronizarChecks() {
+    TOGGLES.forEach(({ idCont, clave }) => {
+      $(idCont).querySelectorAll("input[type=checkbox]").forEach((c) => { c.checked = estado.f[clave].has(c.value); });
+    });
+  }
+  function grupoToggles(idCont, clave, opciones, claseFn) {
     const fs = $(idCont);
+    TOGGLES.push({ idCont, clave });
     opciones.forEach(([v, txt]) => {
       const lab = document.createElement("label");
-      lab.className = "toggle";
+      lab.className = "toggle" + (claseFn ? " " + claseFn(v) : "");
       lab.innerHTML = `<input type="checkbox" id="${idCont}-${v}" value="${esc(v)}"><span>${esc(txt)} <small data-cuenta="${clave}:${esc(v)}">0</small></span>`;
       lab.querySelector("input").addEventListener("change", (e) => {
         e.target.checked ? estado.f[clave].add(v) : estado.f[clave].delete(v);
@@ -278,24 +340,33 @@
       ["fotos", "Fotos", ["buena", "regular", "mala"]],
       ["precios", "Precios", ["completos", "incompletos"]],
     ];
+    const nt = { error: 0, pendiente: 0, mejora: 0 };
+    lista.forEach((p) => TIPOS.forEach((t) => { if (p._n[t]) nt[t] += 1; }));
+    const nDesc = lista.filter((p) => p.descartado).length;
+    const grupoPend = `<div class="res-grupo"><span>Pendientes</span>${TIPOS.map((t) =>
+      `<button type="button" class="res-chip pc-${t}" data-k="tipo" data-v="${t}" aria-pressed="${estado.f.tipo.has(t)}" title="Productos con al menos un ${TIPO_ETQ[t].toLowerCase()}: ${esc(CATP.tipos[t] || "")}">${TIPO_PLURAL[t]} <b>${ENT.format(nt[t])}</b></button>`).join("")}${nDesc || estado.f.publicacion.has("descartado")
+      ? `<button type="button" class="res-chip" data-k="publicacion" data-v="descartado" aria-pressed="${estado.f.publicacion.has("descartado")}">descartados <b>${ENT.format(nDesc)}</b></button>` : ""}</div>`;
     const stockTotal = lista.reduce((s, p) => s + p.stock, 0);
     const sinStock = lista.filter((p) => p.stock <= 0).length;
     $("resumen-grupos").innerHTML = grupos.map(([k, t, vals]) => {
       const c = contar(lista.map((p) => p.ind[k]));
       return `<div class="res-grupo"><span>${t}</span>${vals.map((v) =>
         `<button type="button" class="res-chip ind-${v}" data-k="${k}" data-v="${v}" aria-pressed="${estado.f[k].has(v)}">${v} <b>${ENT.format(c.get(v) || 0)}</b></button>`).join("")}</div>`;
-    }).join("") + `<div class="res-grupo"><span>Inventario</span><span class="res-chip">${ENT.format(stockTotal)} piezas</span><button type="button" class="res-chip ind-mala" data-k="stock" data-v="sin" aria-pressed="${estado.f.stock.has("sin")}">sin existencia <b>${ENT.format(sinStock)}</b></button></div>`;
+    }).join("") + `<div class="res-grupo"><span>Inventario</span><span class="res-chip">${ENT.format(stockTotal)} piezas</span><button type="button" class="res-chip ind-mala" data-k="stock" data-v="sin" aria-pressed="${estado.f.stock.has("sin")}">sin existencia <b>${ENT.format(sinStock)}</b></button></div>` + grupoPend;
     $("resumen-grupos").querySelectorAll("button[data-k]").forEach((b) => b.addEventListener("click", () => {
       const k = b.dataset.k, v = b.dataset.v;
       estado.f[k].has(v) ? estado.f[k].delete(v) : estado.f[k].add(v);
-      const cb = document.querySelector(`#panel-filtros input[id$="-${v}"][id^="f-${k === "stock" ? "stock" : "ind-" + k}"]`);
-      if (cb) cb.checked = estado.f[k].has(v);
+      sincronizarChecks();
       aplicar();
     }));
     // conteos de cada opción considerando los demás filtros
-    const claves = { linea: (p) => p.linea, stock: (p) => (p.stock > 0 ? "con" : "sin"), descripcion: (p) => p.ind.descripcion, fotos: (p) => p.ind.fotos, precios: (p) => p.ind.precios };
+    const claves = {
+      linea: (p) => p.linea, stock: (p) => (p.stock > 0 ? "con" : "sin"), descripcion: (p) => p.ind.descripcion, fotos: (p) => p.ind.fotos,
+      precios: (p) => p.ind.precios, publicacion: (p) => (p.descartado ? "descartado" : "publica"),
+      tipo: (p) => TIPOS.filter((t) => p._n[t]), pend: (p) => [...new Set(p._pend.map((x) => x.c))],
+    };
     Object.entries(claves).forEach(([k, fn]) => {
-      const c = contar(P.filter((p) => coincide(p, k)).map(fn));
+      const c = contar(P.filter((p) => coincide(p, k)).flatMap((p) => { const v = fn(p); return Array.isArray(v) ? v : [v]; }));
       document.querySelectorAll(`[data-cuenta^="${k}:"]`).forEach((el) => { el.textContent = ENT.format(c.get(el.dataset.cuenta.split(":")[1]) || 0); });
     });
   }
@@ -314,7 +385,8 @@
       <h3>${esc(p.titulo)}</h3>
       <div class="cat" title="${esc(p.categoria_ruta)}">${esc(p.categoria)}</div>
       <div class="precio"><strong>${dinero(p.precios.precio_meli_final)}</strong><small>venta ${dinero(p.precios.precio_venta)}</small></div>
-      ${indicadores(p)}`;
+      ${indicadores(p)}
+      ${cuentaPend(p)}`;
     el.appendChild(info);
     el.addEventListener("click", () => abrir(p.gtin));
     el.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
@@ -336,6 +408,7 @@
         td.innerHTML = `<span class="ind ind-${p.ind[k]}" title="${esc(p.ind[k + "_motivo"])}"><span class="v">${p.ind[k]}</span></span>`;
         break;
       }
+      case "pendientes": td.innerHTML = cuentaPend(p); break;
       default: td.innerHTML = dinero(p.precios[c.id]);
     }
     return td;
@@ -399,21 +472,162 @@
     }));
   }
 
+  // ---------------- Sección Pendientes ----------------
+  let vistaActual = { lista: [], pagina: [] };
+  const guardarSel = () => guardar("sel", [...estado.sel]);
+
+  function filaPend(p) {
+    const el = document.createElement("article");
+    el.className = "pfila" + (estado.sel.has(p.gtin) ? " sel" : "");
+    const vis = pendVisibles(p);
+    const chk = document.createElement("label");
+    chk.className = "psel";
+    chk.innerHTML = `<input type="checkbox" ${estado.sel.has(p.gtin) ? "checked" : ""} aria-label="Seleccionar ${esc(p.titulo)}">`;
+    chk.querySelector("input").addEventListener("change", (e) => {
+      el.classList.toggle("sel", e.target.checked);
+      alternarSel(p.gtin, e.target.checked);
+    });
+    const foto = document.createElement("div");
+    foto.className = "pfoto";
+    foto.appendChild(carrusel(p.imagenes, { mini: true }));
+    const info = document.createElement("div");
+    info.className = "pinfo";
+    info.innerHTML = `<div class="meta"><span class="mono">${esc(p.gtin)}</span><span>${esc(p.linea)}</span><span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} pzas</span><span>#${ENT.format(p.orden)} en ventas</span></div>
+      <h3><button type="button" class="plink">${esc(p.titulo)}</button></h3>
+      <div class="cat" title="${esc(p.categoria_ruta)}">${esc(p.categoria)}</div>
+      ${cuentaPend(p, vis)}${vis.length < p._pend.length ? `<small class="pmas">y ${p._pend.length - vis.length} más fuera del filtro</small>` : ""}`;
+    info.querySelector(".plink").addEventListener("click", () => abrir(p.gtin));
+    const ul = document.createElement("ul");
+    ul.className = "plista";
+    ul.innerHTML = vis.map(itemPend).join("");
+    el.append(chk, foto, info, ul);
+    return el;
+  }
+
+  function actualizarBarra() {
+    const { lista, pagina } = vistaActual;
+    const n = estado.sel.size;
+    $("sel-n").textContent = ENT.format(n);
+    $("sel-txt").textContent = n === 1 ? "seleccionado" : "seleccionados";
+    $("sel-filtrados").textContent = `Seleccionar los ${ENT.format(lista.length)} filtrados`;
+    $("sel-filtrados").disabled = !lista.length;
+    $("sel-pagina").disabled = !pagina.length;
+    $("sel-quitar").disabled = !n;
+    $("solo-sel").checked = estado.soloSel;
+    $("exportar").disabled = !n;
+    $("exportar").textContent = n ? `Exportar ${ENT.format(n)} a Excel` : "Exportar a Excel";
+  }
+
+  function alternarSel(gtin, on) {
+    on ? estado.sel.add(gtin) : estado.sel.delete(gtin);
+    guardarSel();
+    if (estado.soloSel && !on) render(); else actualizarBarra();
+  }
+
+  function describirFiltros() {
+    const f = estado.f, partes = [];
+    const lbl = (arr) => arr.map((t) => t.label).join(" o ");
+    if (f.nombre.length) partes.push("Nombre: " + lbl(f.nombre));
+    if (f.codigo.length) partes.push("Código: " + lbl(f.codigo));
+    if (f.categoria.length) partes.push("Categoría: " + lbl(f.categoria));
+    const conj = [
+      ["linea", "Línea", {}], ["stock", "Inventario", { con: "con existencia", sin: "sin existencia" }],
+      ["descripcion", "Descripción", {}], ["fotos", "Fotos", {}], ["precios", "Precios", {}],
+      ["publicacion", "Publicación en Meli", { publica: "se publica", descartado: "descartado" }],
+      ["tipo", "Tipo de pendiente", { error: "errores", pendiente: "pendientes", mejora: "mejoras" }],
+      ["pend", "Pendiente", Object.fromEntries(Object.entries(CATP.pendientes).map(([c, d]) => [c, d.titulo]))],
+    ];
+    conj.forEach(([k, t, m]) => { if (f[k].size) partes.push(`${t}: ${[...f[k]].map((v) => m[v] || v).join(" o ")}`); });
+    return partes.join(" · ") || "Ninguno";
+  }
+
+  function exportar() {
+    const prods = P.filter((p) => estado.sel.has(p.gtin)).sort(comparador());
+    if (!prods.length) return;
+    const filtroPend = estado.f.tipo.size || estado.f.pend.size;
+    const filasP = [], filasD = [];
+    prods.forEach((p) => {
+      let vis = pendVisibles(p);
+      if (!vis.length) vis = p._pend;
+      const n = { error: 0, pendiente: 0, mejora: 0 };
+      vis.forEach((x) => { n[x.t] += 1; });
+      const pr = p.precios;
+      filasP.push([p.gtin, p.titulo, p.nombre_sistema, p.linea, p.categoria_ruta || "Sin categoría", p.stock,
+        pr.precio_venta, pr.precio_meli_calculado, pr.precio_mejor_vendedor, pr.precio_meli_final,
+        p.ind.descripcion, p.ind.fotos, p.ind.precios, n.error, n.pendiente, n.mejora,
+        vis.map((x) => `[${TIPO_ETQ[x.t]}] ${x.titulo}: ${x.d}`).join("\n"),
+        [...new Set(vis.map((x) => x.accion).filter(Boolean))].join("; "),
+        p.descartado ? `Descartado: ${p.descartado.motivo}` : "Se publica",
+        estado.accion, ""]);
+      vis.forEach((x) => filasD.push([p.gtin, p.titulo, TIPO_ETQ[x.t], x.titulo, x.d, x.accion, x.c]));
+    });
+    const ahora = new Date();
+    const dos = (v) => String(v).padStart(2, "0");
+    const sello = `${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}`;
+    const nombre = `pendientes_meli_${sello}.xlsx`;
+    const colsP = [
+      ["Código", 16, "codigo"], ["Producto", 40, "largo"], ["Nombre en sistema", 26, "texto"], ["Línea", 12, "texto"],
+      ["Categoría", 36, "largo"], ["Inventario", 11, "entero"], ["Precio de venta", 13, "dinero"], ["Precio Meli calculado", 13, "dinero"],
+      ["Precio mejor vendedor", 13, "dinero"], ["Precio Meli final", 13, "dinero"], ["Descripción", 12, "texto"], ["Fotos", 10, "texto"],
+      ["Precios", 12, "texto"], ["Errores", 9, "entero"], ["Pendientes", 11, "entero"], ["Mejoras", 9, "entero"],
+      ["Detalle de pendientes", 90, "largo"], ["Acciones sugeridas", 30, "largo"], ["Publicación en Meli", 16, "texto"],
+      ["Acción solicitada", 24, "texto"], ["Comentarios", 40, "largo"],
+    ].map(([titulo, ancho, formato]) => ({ titulo, ancho, formato }));
+    const colsD = [["Código", 16, "codigo"], ["Producto", 40, "largo"], ["Tipo", 11, "texto"], ["Pendiente", 34, "texto"],
+      ["Detalle", 90, "largo"], ["Acción sugerida", 22, "texto"], ["Clave", 20, "texto"]].map(([titulo, ancho, formato]) => ({ titulo, ancho, formato }));
+    const inst = [
+      ["Exportado", ahora.toLocaleString("es-MX")],
+      ["Datos del visor", DATA.generado || ""],
+      ["Productos", prods.length],
+      ["Filtros aplicados", describirFiltros()],
+      ["Pendientes incluidos", filtroPend ? "Solo los que coinciden con los filtros de tipo y pendiente (si un producto no tiene ninguno, todos los suyos)" : "Todos los del producto"],
+      ["Acción solicitada precargada", estado.accion || "Ninguna"],
+      ["", ""],
+      ["Cómo usarlo", "1. En la hoja Productos, elige en «Acción solicitada» qué quieres que se haga con cada producto (lista desplegable). 2. Si hace falta, escribe instrucciones o el dato correcto en «Comentarios». 3. Adjunta este archivo en el chat y pide: «Procesa las solicitudes de este archivo»."],
+      ["", ""],
+      ["Acción", "Qué se hará"],
+      ...ACCIONES.map((a) => [a.nombre, a.descripcion]),
+      ["", ""],
+      ["Tipo", "Significado"],
+      ...TIPOS.map((t) => [TIPO_ETQ[t], CATP.tipos[t] || ""]),
+    ];
+    XLSXSimple.descargar(nombre, [
+      { nombre: "Productos", columnas: colsP, filas: filasP, filtro: true, lista: { columna: 19, opciones: ACCIONES.map((a) => a.nombre) } },
+      { nombre: "Detalle", columnas: colsD, filas: filasD, filtro: true },
+      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 30, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: inst },
+    ]);
+    $("pb-ayuda").textContent = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos. Adjúntalo en el chat y pide: «Procesa las solicitudes de este archivo».`;
+  }
+
   function render() {
     const lista = filtrados();
     resumen(lista);
     paginacion(lista.length);
     const ini = (estado.pagina - 1) * estado.porPagina;
     const pagina = lista.slice(ini, ini + estado.porPagina);
+    vistaActual = { lista, pagina };
+    const enPend = estado.seccion === "pendientes";
     $("vacio").hidden = lista.length > 0;
+    $("vacio").textContent = enPend && estado.soloSel && !estado.sel.size
+      ? "No hay productos seleccionados. Quita «Ver solo seleccionados» o selecciona alguno."
+      : enPend ? "Ningún producto con pendientes coincide con los filtros. Quita alguno o usa «Limpiar todo»."
+        : "Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».";
     const grid = estado.vista === "cuadricula";
-    $("vista-grid").hidden = !grid;
-    $("vista-tabla").hidden = grid || !lista.length;
-    $("columnas-wrap").hidden = grid;
+    $("sec-catalogo").setAttribute("aria-pressed", String(!enPend));
+    $("sec-pendientes").setAttribute("aria-pressed", String(enPend));
+    $("vistas").hidden = enPend;
+    $("pend-barra").hidden = !enPend;
+    $("vista-pend").hidden = !enPend || !lista.length;
+    $("vista-grid").hidden = enPend || !grid;
+    $("vista-tabla").hidden = enPend || grid || !lista.length;
+    $("columnas-wrap").hidden = enPend || grid;
     $("vista-cuadricula").setAttribute("aria-pressed", String(grid));
     $("vista-lista").setAttribute("aria-pressed", String(!grid));
     $("orden-dir").textContent = estado.asc ? "↑ Ascendente" : "↓ Descendente";
-    if (grid) {
+    if (enPend) {
+      $("vista-pend").replaceChildren(...pagina.map(filaPend));
+      actualizarBarra();
+    } else if (grid) {
       const g = $("vista-grid");
       g.replaceChildren(...pagina.map(tarjeta));
     } else {
@@ -493,8 +707,12 @@
             <span>En sistema: ${esc(p.nombre_sistema)}</span>
           </div>
         </div>
-        <button type="button" class="btn det-cerrar" id="det-cerrar">Cerrar</button>
+        <div class="det-acciones">
+          <button type="button" class="btn" id="det-sel" aria-pressed="${estado.sel.has(p.gtin)}">${estado.sel.has(p.gtin) ? "Quitar de la selección" : "Seleccionar para exportar"}</button>
+          <button type="button" class="btn det-cerrar" id="det-cerrar">Cerrar</button>
+        </div>
       </div>
+      ${p.descartado ? `<div class="aviso-descartado"><b>Descartado de Mercado Libre</b> el ${esc(p.descartado.fecha)}: ${esc(p.descartado.motivo)}. No entra en el layout de importación.</div>` : ""}
       <div class="ind-grande">${["descripcion", "fotos", "precios"].map((k) =>
         `<div class="ind-${p.ind[k]}"><b>${ETQ[k]}: ${p.ind[k]}</b><span>${esc(p.ind[k + "_motivo"])}</span></div>`).join("")}</div>
       <div class="det-body">
@@ -505,9 +723,9 @@
             <dt>Precio de venta marketplaces (+ empaque y logística)</dt><dd>${dinero(pr.precio_marketplaces)}</dd>
             <dt>Comisión Meli (Clásica)</dt><dd>${PCT.format(pr.comision)}</dd>
             <dt>Precio Meli calculado</dt><dd>${dinero(pr.precio_meli_calculado)}</dd>
-            <dt>Promedio otros vendedores</dt><dd>${dinero(pr.precio_promedio_otros)}</dd>
+            <dt>Promedio otros vendedores (referencia)</dt><dd>${dinero(pr.precio_promedio_otros)}</dd>
             <dt>Precio mejor vendedor${p.metodo_mejor_vendedor ? ` (${esc(p.metodo_mejor_vendedor)})` : ""}</dt><dd>${dinero(pr.precio_mejor_vendedor)}</dd>
-            <dt class="fuerte">Precio Meli final</dt><dd class="fuerte">${dinero(pr.precio_meli_final)}</dd>
+            <dt class="fuerte">Precio Meli final <small class="regla">mejor vendedor − $1, nunca abajo del calculado</small></dt><dd class="fuerte">${dinero(pr.precio_meli_final)}</dd>
             <dt>Diferencia contra mejor vendedor</dt><dd>${pr.diferencia_mejor_vendedor == null ? '<span class="sd">sin dato</span>' : PCT.format(pr.diferencia_mejor_vendedor)}</dd>
             <dt>Costo fijo Meli / envío a cargo del vendedor</dt><dd>${dinero(pr.costo_fijo)} / ${dinero(pr.envio_vendedor)}</dd>
             <dt>Ingreso neto estimado</dt><dd>${dinero(pr.ingreso_neto)}</dd>
@@ -521,6 +739,8 @@
           </dl></section>
         </div>
       </div>
+      <section class="bloque"><h3>Pendientes, errores y mejoras · ${ENT.format(p._pend.length)}</h3>
+        ${p._pend.length ? `<ul class="plista">${p._pend.map(itemPend).join("")}</ul>` : `<p class="sd">${p.descartado ? "Producto descartado: no se revisan pendientes." : "Sin pendientes."}</p>`}</section>
       <section class="bloque"><h3>Descripción</h3><div class="desc">${descripcionHTML(p.descripcion)}</div></section>
       <section class="bloque"><h3>Ficha técnica</h3>${ficha.length ? `<table class="ficha"><tbody>${ficha.map(([k, v]) =>
         `<tr><th scope="row">${esc(FICHA_ETQ[k] || k)}</th><td>${esc(v)}</td></tr>`).join("")}</tbody></table>` : '<p class="sd">Sin ficha técnica.</p>'}</section>
@@ -583,6 +803,14 @@
     });
 
     $("det-cerrar").addEventListener("click", () => d.close());
+    $("det-sel").addEventListener("click", (e) => {
+      const on = !estado.sel.has(p.gtin);
+      on ? estado.sel.add(p.gtin) : estado.sel.delete(p.gtin);
+      guardarSel();
+      e.currentTarget.textContent = on ? "Quitar de la selección" : "Seleccionar para exportar";
+      e.currentTarget.setAttribute("aria-pressed", String(on));
+      render();
+    });
     $("det-copiar").addEventListener("click", (e) => {
       const btn = e.currentTarget;
       const ok = () => { btn.textContent = "Copiado"; setTimeout(() => { btn.textContent = "Copiar código"; }, 1500); };
@@ -604,6 +832,20 @@
     const pp = $("por-pagina");
     pp.value = String(estado.porPagina);
     pp.addEventListener("change", () => { estado.porPagina = +pp.value; guardar("porPagina", estado.porPagina); aplicar(); });
+    const seccion = (s) => { estado.seccion = s; guardar("seccion", s); estado.pagina = 1; render(); };
+    $("sec-catalogo").addEventListener("click", () => seccion("catalogo"));
+    $("sec-pendientes").addEventListener("click", () => seccion("pendientes"));
+    const acc = $("accion");
+    acc.innerHTML = '<option value="">Sin especificar (elegir en Excel)</option>'
+      + ACCIONES.map((a) => `<option value="${esc(a.nombre)}" title="${esc(a.descripcion)}">${esc(a.nombre)}</option>`).join("");
+    if (!ACCIONES.some((a) => a.nombre === estado.accion)) estado.accion = "";
+    acc.value = estado.accion;
+    acc.addEventListener("change", () => { estado.accion = acc.value; guardar("accion", estado.accion); });
+    $("sel-filtrados").addEventListener("click", () => { vistaActual.lista.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
+    $("sel-pagina").addEventListener("click", () => { vistaActual.pagina.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
+    $("sel-quitar").addEventListener("click", () => { estado.sel.clear(); estado.soloSel = false; guardarSel(); aplicar(); });
+    $("solo-sel").addEventListener("change", (e) => { estado.soloSel = e.target.checked; aplicar(); });
+    $("exportar").addEventListener("click", exportar);
     const vista = (v) => { estado.vista = v; guardar("vista", v); render(); };
     $("vista-cuadricula").addEventListener("click", () => vista("cuadricula"));
     $("vista-lista").addEventListener("click", () => vista("lista"));

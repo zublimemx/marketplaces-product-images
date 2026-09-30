@@ -1,6 +1,6 @@
 # Precios de competencia con la API de Mercado Libre
 
-Objetivo: llenar en el layout "Precio Meli promedio otros vendedores" y "Precio mejor vendedor" (reglas en `docs/REGLAS_NEGOCIO.md`). Script: `scripts/meli_precios.py`. Salida: `insumos/competencia_meli.csv` (no versionada), que `scripts/build_mercadolibre.py` lee sola.
+Objetivo: llenar en el layout "Precio mejor vendedor" (define el Precio Meli Final) y "Precio Meli promedio otros vendedores" (referencia) (reglas en `docs/REGLAS_NEGOCIO.md`). Script: `scripts/meli_precios.py`. Salida: `insumos/competencia_meli.csv` (no versionada), que `scripts/build_mercadolibre.py` lee sola.
 
 > **Estado:** el script se escribió sin credenciales, así que no se ha probado contra la API real. Antes de la corrida completa, prueba con `--muestra 3 --limite 3`, revisa las respuestas guardadas en `trabajo/meli_muestras/` y ajusta los nombres de campos si difieren.
 
@@ -43,4 +43,4 @@ Después de correrlo:
 python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx
 ```
 
-El layout toma el CSV automáticamente (`--competencia` para otra ruta) y la fórmula de "Precio Meli Final" aplica la regla del promedio − $1.
+El layout toma el CSV automáticamente (`--competencia` para otra ruta) y la fórmula de "Precio Meli Final" aplica la regla del mejor vendedor − $1 (el promedio queda como referencia).

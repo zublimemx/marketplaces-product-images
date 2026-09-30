@@ -51,9 +51,11 @@ def calcular(precio_venta, ruta_categoria, cfg, promedio_otros=None, mejor_vende
             break
     if calculado is None:
         calculado = max(_roundup((marketplaces + envio) / (1 - c)), umbral)
+    # Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado; si no, el calculado.
+    # El promedio de otros vendedores es solo referencia.
     final = calculado
-    if promedio_otros is not None and promedio_otros - cfg["descuento_vs_promedio_competencia"] >= calculado:
-        final = round(promedio_otros - cfg["descuento_vs_promedio_competencia"], 2)
+    if mejor_vendedor is not None and mejor_vendedor - cfg["descuento_vs_mejor_vendedor"] >= calculado:
+        final = round(mejor_vendedor - cfg["descuento_vs_mejor_vendedor"], 2)
     fijo = costo_fijo(final, cfg)
     envio_vendedor = envio if final >= umbral else 0
     neto = final * (1 - c) - fijo - envio_vendedor

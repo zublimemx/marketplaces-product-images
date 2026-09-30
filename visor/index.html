@@ -17,7 +17,11 @@
   </div>
   <div class="topbar-actions">
     <button type="button" class="btn btn-ghost only-narrow" id="btn-filtros" aria-expanded="false" aria-controls="panel-filtros">Filtros</button>
-    <div class="segmented" role="group" aria-label="Vista">
+    <div class="segmented secciones" role="group" aria-label="Sección">
+      <button type="button" id="sec-catalogo" class="seg" aria-pressed="true">Catálogo</button>
+      <button type="button" id="sec-pendientes" class="seg" aria-pressed="false">Pendientes</button>
+    </div>
+    <div class="segmented" role="group" aria-label="Vista" id="vistas">
       <button type="button" id="vista-cuadricula" class="seg" aria-pressed="true">Cuadrícula</button>
       <button type="button" id="vista-lista" class="seg" aria-pressed="false">Lista</button>
     </div>
@@ -43,6 +47,9 @@
     <fieldset class="grupo" id="f-ind-descripcion"><legend>Descripción</legend></fieldset>
     <fieldset class="grupo" id="f-ind-fotos"><legend>Fotos</legend></fieldset>
     <fieldset class="grupo" id="f-ind-precios"><legend>Precios</legend></fieldset>
+    <fieldset class="grupo" id="f-publicacion"><legend>Publicación en Meli</legend></fieldset>
+    <fieldset class="grupo" id="f-tipo"><legend>Tipo de pendiente</legend></fieldset>
+    <fieldset class="grupo" id="f-pend"><legend>Pendiente</legend></fieldset>
     <details class="reglas">
       <summary>Cómo se califican los indicadores</summary>
       <div id="reglas-texto"></div>
@@ -70,6 +77,24 @@
       </div>
     </div>
 
+    <section class="pend-barra" id="pend-barra" aria-label="Selección y exportación" hidden>
+      <div class="pb-fila">
+        <p class="pb-sel"><strong id="sel-n">0</strong> <span id="sel-txt">seleccionados</span></p>
+        <button type="button" class="btn" id="sel-filtrados">Seleccionar filtrados</button>
+        <button type="button" class="btn" id="sel-pagina">Seleccionar esta página</button>
+        <button type="button" class="btn btn-ghost" id="sel-quitar">Quitar selección</button>
+        <label class="check"><input type="checkbox" id="solo-sel"> Ver solo seleccionados</label>
+      </div>
+      <div class="pb-fila">
+        <label class="tool">
+          <span>Acción a solicitar</span>
+          <select id="accion"></select>
+        </label>
+        <button type="button" class="btn btn-primario" id="exportar" disabled>Exportar a Excel</button>
+        <p class="pb-ayuda" id="pb-ayuda">Selecciona productos, elige la acción que quieres pedir (o déjala vacía y elígela por renglón en Excel), exporta y adjunta el archivo en el chat.</p>
+      </div>
+    </section>
+
     <div id="vista-grid" class="grid" aria-live="polite"></div>
     <div id="vista-tabla" class="tabla-wrap" hidden>
       <table class="tabla">
@@ -77,6 +102,7 @@
         <tbody id="tabla-body"></tbody>
       </table>
     </div>
+    <div id="vista-pend" class="pend-lista-wrap" hidden></div>
     <p class="vacio" id="vacio" hidden>Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».</p>
     <nav class="paginacion" id="paginacion" aria-label="Paginación"></nav>
   </main>
@@ -87,6 +113,7 @@
 </dialog>
 
 <script src="data/productos.js"></script>
+<script src="xlsx.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

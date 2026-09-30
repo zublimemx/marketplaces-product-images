@@ -17,7 +17,7 @@ Esquema formal: `schema/product.schema.json`.
 | `descripcion` | texto | Ver `docs/REGLAS_NEGOCIO.md` |
 | `ficha` | objeto | Llaves permitidas: `marca`, `fabricante`, `linea`, `variante`, `presentacion`, `contenido_neto` (número), `unidad_contenido`, `unidades_por_envase` (número), `principio_activo`, `concentracion`, `via_administracion`, `edad_etapa`, `talla`, `sabor_aroma`, `genero`, `tipo_piel_cabello`, `registro_sanitario`, `otros` ("Atributo: valor; …") |
 | `receta_mx` | texto | `Sí`, `No`, `Revisar`, `No aplica` o vacío (pendiente) |
-| `marketplaces.mercadolibre` | objeto | `categoria_id` (hoja publicable MLM), `categoria_ruta`, `categoria_rx_sugerida` (ID de `reference/mercadolibre/categorias_con_receta.csv` o vacío), `catalogo_id` (MLM… o vacío) |
+| `marketplaces.mercadolibre` | objeto | `categoria_id` (hoja publicable MLM), `categoria_ruta`, `categoria_rx_sugerida` (ID de `reference/mercadolibre/categorias_con_receta.csv` o vacío), `catalogo_id` (MLM… o vacío); `descartado` {`motivo`, `fecha`} solo si el producto se sacó del catálogo de importación a Mercado Libre (`scripts/descartar.py`) |
 | `marketplaces.amazon`, `.shopify`, `.odoo` | objeto | Reservado; hoy vacío |
 | `imagenes` | lista | Lo escribe solo `scripts/imagenes.py`: `archivo`, `origen` (`fabricante`/`catalogo_ml`/`tienda`), `fuente_url`, `pagina`, `ancho_original`, `alto_original`, `lado_final`, `lado_util` (px que ocupa el producto), `fecha` |
 | `url_oficial` | texto | Página del fabricante o vacío |
@@ -65,6 +65,9 @@ Salida de `scripts/build_mercadolibre.py`. Libro .xlsx con fórmulas; la copia v
 - **Parámetros**: entradas de `config/mercadolibre.json` con su fuente.
 - **Revisión**: estado, confianza, receta, categoría con receta sugerida, notas, nota de cruce, existencia, fuentes, número y origen de fotos, fotos de baja resolución.
 - **Categorías usadas**: ID, ruta, productos y comisión.
+- **Descartados**: SKU, título, nombre en sistema, motivo, fecha, precio de venta y existencia de los productos con `descartado` (no están en las demás hojas).
+
+Precio Meli Final (hoja Precios, columna N) = Precio mejor vendedor − $1 (Parámetros B6) si no queda abajo del Precio Meli calculado; si no, el Precio Meli calculado. El promedio de otros vendedores es solo referencia.
 
 ## 7. Futuros layouts (Odoo, Shopify, Amazon)
 
@@ -75,6 +78,17 @@ Deben leerse de `product.json` y de `insumos/precios_existencias.csv` (o, si no 
 Salida de `scripts/build_visor.py` (ver `docs/VISOR.md`). Es JavaScript para abrir el visor sin servidor: `window.CATALOGO = {generado, total, reglas, productos: [...]}`.
 
 - `reglas`: copia de `config/indicadores.json`.
-- Cada producto: `orden` (prioridad por ventas), `gtin`, `titulo`, `nombre_sistema`, `linea`, `categoria_id`, `categoria_ruta`, `categoria` (hoja), `catalogo_id`, `categoria_rx_sugerida`, `stock`, `precios` (salida de `scripts/precios.py`: `precio_venta`, `precio_marketplaces`, `comision`, `precio_meli_calculado`, `precio_promedio_otros`, `precio_mejor_vendedor`, `precio_meli_final`, `diferencia_mejor_vendedor`, `costo_fijo`, `envio_vendedor`, `ingreso_neto`, `margen`; `null` = sin dato), `metodo_mejor_vendedor`, `imagenes` (`src` relativo a `visor/`, `u` = lado útil en px, `o` = origen, `gris` = posible fondo gris, `fuente`), `descripcion`, `ficha`, `receta_mx`, `url_oficial`, `fuentes`, `investigacion` (`estado`, `confianza`, `encontrado_por`, `notas`, `notas_imagenes`, `fecha`, `sesion`) e `ind` (`descripcion`, `fotos`, `precios` y su `*_motivo`).
+- `pendientes`: `acciones` (nombre y descripción), `tipos` y el catálogo `pendientes` de `config/pendientes.json` (código → `tipo`, `titulo`, `accion`).
+- Cada producto: `orden` (prioridad por ventas), `gtin`, `titulo`, `nombre_sistema`, `linea`, `categoria_id`, `categoria_ruta`, `categoria` (hoja), `catalogo_id`, `categoria_rx_sugerida`, `stock`, `precios` (salida de `scripts/precios.py`: `precio_venta`, `precio_marketplaces`, `comision`, `precio_meli_calculado`, `precio_promedio_otros`, `precio_mejor_vendedor`, `precio_meli_final`, `diferencia_mejor_vendedor`, `costo_fijo`, `envio_vendedor`, `ingreso_neto`, `margen`; `null` = sin dato), `metodo_mejor_vendedor`, `imagenes` (`src` relativo a `visor/`, `u` = lado útil en px, `o` = origen, `gris` = posible fondo gris, `fuente`), `descripcion`, `ficha`, `receta_mx`, `url_oficial`, `fuentes`, `investigacion` (`estado`, `confianza`, `encontrado_por`, `notas`, `notas_imagenes`, `fecha`, `sesion`), `ind` (`descripcion`, `fotos`, `precios` y su `*_motivo`), `pend` (lista de `{c: código de config/pendientes.json, d: detalle}`; vacía si está descartado) y `descartado` (`{motivo, fecha}` o `null`).
 
 No se edita a mano: se regenera después de cada cambio en `product.json`, fotos, precios o reglas.
+
+## 9. Excel de pendientes (exportado desde el visor; lo adjunta el dueño)
+
+`pendientes_meli_AAAA-MM-DD_HHMM.xlsx`, generado por `visor/xlsx.js`:
+
+- **Productos** (un renglón por producto seleccionado): Código, Producto, Nombre en sistema, Línea, Categoría, Inventario, Precio de venta, Precio Meli calculado, Precio mejor vendedor, Precio Meli final, Descripción, Fotos, Precios (indicadores), Errores, Pendientes, Mejoras (conteos), Detalle de pendientes (`[Tipo] Título: detalle`, uno por línea), Acciones sugeridas, Publicación en Meli, **Acción solicitada** (lista: Completar información, Buscar más imágenes, Completar precios, Revisar con el dueño, Descartar de Meli) y **Comentarios** (texto libre del dueño).
+- **Detalle** (un renglón por pendiente): Código, Producto, Tipo, Pendiente, Detalle, Acción sugerida, Clave (código de `config/pendientes.json`).
+- **Instrucciones**: fecha, filtros aplicados, acción precargada y qué hace cada acción.
+
+`scripts/solicitudes.py` lee la hoja Productos por nombre de columna (Código, Producto, Acción solicitada, Acciones sugeridas, Comentarios), así que tolera columnas movidas o agregadas.
