@@ -31,39 +31,29 @@
   },
   "imagenes": [
     {
-      "archivo": "7501846505283_1.jpg",
+      "archivo": "7501846505283_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/427358/427358_01.webp?v=048e77e7",
-      "pagina": "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p",
-      "ancho_original": 653,
-      "alto_original": 600,
-      "lado_final": 705,
-      "fecha": "2026-09-29",
-      "lado_util": 439
-    },
-    {
-      "archivo": "7501846505283_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/427358/427358_02.webp?v=c75bcec5",
-      "pagina": "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p",
-      "ancho_original": 730,
-      "alto_original": 600,
-      "lado_final": 788,
-      "fecha": "2026-09-29",
-      "lado_util": 431
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77843708/7501846505283_00.jpg?v=639257885475930000",
+      "pagina": "https://www.chedraui.com.mx/cera-mate-xiomara-60g-3572903/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1189,
+      "lado_util": 1101,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.arteli.com.mx/cera-para-peinar-xiomara-waxshine-modeladora-mate-60g-3572903/p",
-    "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p"
+    "https://www.heb.com.mx/xiomara-cera-moldeadora-mate-60-gr-888494/p",
+    "https://www.chedraui.com.mx/cera-mate-xiomara-60g-3572903/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN visto en un listado de otra tienda (Xiomara Wax & Shine Free Style Mate). Las fichas de tienda traen poca información; modo de uso genérico. catalogo_ml MLM18985273 tomado del título de un resultado ('Cera para Peinar Xiomara Wax & Shine Modeladora Mate 60g'); no se pudo abrir la ficha.",
-    "notas_imagenes": "2 fotos del tarro (vista en ángulo y vista superior de frente), origen tienda, 705 y 788 px.",
+    "notas_imagenes": "Foto nueva 7501846505283_3.jpg: tarro Xiomara Wax & Shine cera moldeadora mate 60 g, archivo original 7501846505283_00.jpg de Chedraui (mismo GTIN), 1200x1200, producto de 1101 px, fondo blanco y sin marcas. Borradas las dos fotos anteriores de HEB (439 y 431 px útiles). Arteli publica la misma foto (1200 px); no se guardó por duplicada. Walmart solo tiene otro código (7501846503788) con tapa de distinto color; no se usó.",
     "fecha": "2026-09-29",
     "sesion": 5
   }

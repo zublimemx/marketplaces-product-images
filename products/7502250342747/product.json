@@ -10,7 +10,7 @@
     "marca": "Vitacilina",
     "linea": "Clarite",
     "variante": "Triple efecto",
-    "presentacion": "Frasco con 200 ml",
+    "presentacion": "Tubo con 200 ml",
     "contenido_neto": 200,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
@@ -29,18 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502250342747_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.alsuper.com/products/518757.png",
+      "pagina": "https://alsuper.com/producto/crema-liquida-corporal-518757",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 942,
+      "lado_util": 873,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.walmart.com.mx/ip/emulsion-aclaradora-clarite-con-triple-efecto-vitacilina-200-ml/00750225034274",
-    "https://www.mercadolibre.com.mx/vitacilina-clarite-triple-efecto-emulsion-aclaradora-200ml-todo-tipo-de-piel-dianoche/p/MLM67332968"
+    "https://www.mercadolibre.com.mx/vitacilina-clarite-triple-efecto-emulsion-aclaradora-200ml-todo-tipo-de-piel-dianoche/p/MLM67332968",
+    "https://alsuper.com/producto/crema-liquida-corporal-518757"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN coincide con el código de una ficha de tienda (Walmart 00750225034274), pero la página oficial de Vitacilina devolvió 404, sin ingredientes completos ni modo de uso. Las advertencias son las generales de un producto cosmético de uso externo. El catálogo ML corresponde por nombre y presentación, sin confirmar el GTIN.",
-    "notas_imagenes": "Sin fotos válidas: la de la tienda era un 'Image Coming Soon', otra era una imagen genérica con logotipo de la tienda; la página oficial y Mercado Libre/Amazon no estuvieron accesibles.",
+    "notas_imagenes": "1 foto (tienda) de Alsuper (cdn.alsuper.com/products/518757.png): tubo de Vitacilina Corporal Clarite emulsión aclaradora triple efecto 200 ml, 1000 px (942 px útiles), fondo blanco, sin marcas de agua. Farmacia Herrera solo usa una imagen genérica y vitacilina.mx bloquea con verificación (429). En la ficha se corrigió la presentación a tubo, como se ve en la foto. Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

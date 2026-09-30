@@ -51,7 +51,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en una ficha de 'Gasa Dibar 10x10 caja 10 pza'. Datos de medidas y esterilización leídos en la caja fotografiada. El nombre del sistema ('ATA 10') se interpretó como la caja de 10 piezas.",
-    "notas_imagenes": "1 foto de frente de la caja (tienda). Se descartó una con marca de agua de otra tienda.",
+    "notas_imagenes": "Sin cambios: se dejó la foto actual de farmasuper (producto de 272 px). No hallé ninguna foto limpia con producto de 500 px o más: curitek.com da 800 px pero con marca de agua 'Curitek' (descartada); tienda.biorent.com.mx/productos/gasa-esteril-10x10cm-caja-con-10/ da 580x580 con producto de 429 px (mejor que la actual pero bajo el mínimo, no se guardó; imagen: https://dcdn-us.mitiendanube.com/stores/003/292/109/products/gasa-esteril-10x10-caja-100-dibar1-37402d70822340c34e16886647707808-1024-1024.webp); omegamedicamx.com solo 300 px. Pendiente buscar otra fuente.",
     "fecha": "2026-09-29"
   }
 }

@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD REXONA MEN V8 48H STICK 45G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Antitranspirante Rexona Men V8 en Barra 45 g",
+  "descripcion": "Descripción:\nEl Antitranspirante Rexona V8 en stick para hombre es un desodorante antitranspirante que proporciona protección contra el sudor y el mal olor desde la aplicación. Su fórmula se activa con el movimiento, para mantener la protección aun durante la actividad intensa. Pertenece a la línea Rexona Men, pensada para hombres, y se presenta en barra (stick) de 45 g.\n\nBeneficios:\n- Protección instantánea contra el sudor y el mal olor\n- Hasta 48 horas de protección contra el sudor\n- Doble protección contra el mal olor\n- Se mantiene activo durante el movimiento intenso\n- Formato en barra, práctico para aplicar y llevar\n\nIngredientes:\nIngredientes principales: Aluminum Zirconium Tetrachlorohydrex Gly, Stearyl Alcohol, Isopropyl Palmitate, Cyclopentasiloxane, PPG-14 Butyl Ether, Paraffinum Liquidum, Talc y otros componentes.\n\nPresentación:\nBarra (stick) de 45 g, línea Rexona Men, variante V8.",
+  "ficha": {
+    "marca": "Rexona",
+    "fabricante": "Unilever",
+    "linea": "Men",
+    "variante": "V8",
+    "presentacion": "Barra (stick) de 45 g",
+    "contenido_neto": 45,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "otros": "Antitranspirante; Protección de 48 horas; Activado por el movimiento; Formato: barra (stick)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "75076337_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7009750/75076337_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/rexona-desodorante-stick-v8-men-48h-c-45-gr/p",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 756,
+      "lado_util": 700,
+      "fecha": "2026-09-29"
+    }
+  ],
+  "url_oficial": "https://www.rexona.com/mx/p/antitranspirante-rexona-r-v8-en-stick-para-hombre-45-g.html/00000075076337",
+  "fuentes": [
+    "https://www.rexona.com/mx/p/antitranspirante-rexona-r-v8-en-stick-para-hombre-45-g.html/00000075076337",
+    "https://www.farmatodo.com.mx/rexona-desodorante-stick-v8-men-48h-c-45-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 75076337 (EAN-8) confirmado en la URL del sitio oficial de Rexona México y en una tienda. Página oficial leída con WebFetch (curl da 403); sin modo de uso detallado. La lista de ingredientes de la página estaba truncada.",
+    "notas_imagenes": "1 foto de tienda (Farmatodo, 800 px), barra V8 de frente. Las imágenes del sitio oficial (assets.unileversolutions.com) devuelven 403 al descargarlas.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

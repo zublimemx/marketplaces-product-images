@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "PRUDENCE C3 UVA OFERTADO 8%",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Prudence Sabor y Aroma Uva 3 Piezas",
+  "descripcion": "Descripción:\nLos preservativos Prudence Sabor y Aroma Uva son condones masculinos lubricados, fabricados con hule látex natural, con un agradable sabor y aroma a uva. Se presentan en una caja con 3 piezas, ideal para llevar y tener a la mano. El empaque indica calidad 'Premium Quality' y el contenido de 3 condones masculinos de hule látex natural. Son elaborados por Laboratorios DKT.\n\nCaracterísticas:\n- Preservativos masculinos de hule látex natural\n- Sabor y aroma a uva\n- Lubricados con silicón\n- Sin textura y sin efecto retardante\n- Caja con 3 condones\n\nPresentación:\nCaja con 3 condones masculinos de hule látex natural, variante Sabor y Aroma Uva.\n\nAdvertencias:\nEste producto contiene hule látex que puede causar reacciones alérgicas en personas sensibles a este material. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Prudence",
+    "fabricante": "Laboratorios DKT",
+    "variante": "Sabor y aroma uva",
+    "presentacion": "Caja con 3 condones",
+    "contenido_neto": 3,
+    "unidad_contenido": "condones",
+    "unidades_por_envase": 3,
+    "sabor_aroma": "Uva",
+    "otros": "Material: hule látex natural; Lubricado con silicón; Con sabor; Sin textura; Sin efecto retardante"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214982491_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwac27f864/images/large/7502214982491_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/prudence-aroma-uva-3-pzas-/MXYZ_7502214982491.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "lado_util": 1000,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502214982491_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/PrudenceCU_1.jpg?v=1686962989",
+      "pagina": "https://sanorim.mx/products/prudence-sabor-y-aroma-uva-caja-con-3-preservativos-masculinos",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 581,
+      "lado_util": 538,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/prudence-aroma-uva-3-pzas-/MXYZ_7502214982491.html",
+    "https://sanorim.mx/products/prudence-sabor-y-aroma-uva-caja-con-3-preservativos-masculinos"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7502214982491 confirmado en la ficha estructurada y la URL de dos tiendas (caja con 3 condones sabor uva). Información escasa (sin instrucciones ni normas del empaque), por eso la descripción es breve. Se ignoró 'OFERTADO 8%' del nombre.",
+    "notas_imagenes": "2 fotos de tienda: yza.mx (1000 px, cara frontal de la caja, con el borde inferior algo recortado) y sanorim.mx (600 px, caja en ángulo).",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

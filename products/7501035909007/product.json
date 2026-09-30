@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO BLACK STICK 60 G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Stefano Black en Barra 60 g",
+  "descripcion": "Descripción:\nStefano Black es un desodorante en barra de 60 g de Colgate-Palmolive, formulado para el cuidado masculino. Ayuda a proteger contra el sudor y el mal olor de las axilas y a mantener la sensación de frescura durante todo el día, con ingredientes que reducen la transpiración de manera efectiva.\n\nCaracterísticas:\n- Fórmula pensada para hombres que buscan seguridad en sus rutinas diarias.\n- Fragancia chypre aromática maderosa, con una fusión de madera de sándalo, vetiver y esencia de clavo.\n- Aroma muy fresco y distintivo.\n- Formato de barra (stick), práctico para llevar y aplicar.\n\nPresentación:\n1 pieza de 60 g en barra, línea Stefano Black.",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Black",
+    "variante": "Black",
+    "presentacion": "Barra",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Hombre",
+    "sabor_aroma": "Chypre aromática maderosa (sándalo, vetiver y clavo)",
+    "otros": "Formato de venta: pieza individual; Tipo: desodorante en barra"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035909007_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77916386/7501035909007_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/desodorante-en-barra-stefano-black-60g-3086655/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1181,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/desodorante-en-barra-stefano-black-60g-3086655/p",
+    "https://grupofarmapronto.com/producto/stefano-black-stick-60-gr-desodorante/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Descripción basada en la ficha de una tienda departamental; no se encontró página de la marca en México.",
+    "notas_imagenes": "1 foto de frente del desodorante (1181 px), de una tienda departamental; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

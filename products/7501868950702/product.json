@@ -12,7 +12,8 @@
     "contenido_neto": 100,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: Pieza individual; Estéril; Material: polipropileno; Capacidad: 100 mL; Tapa de rosca azul"
+    "otros": "Formato de venta: Pieza individual; Estéril; Material: polipropileno; Capacidad: 100 mL; Tapa de rosca azul; Hermético; Desechable; Código del fabricante: VE3; Empaque de fábrica: 100 piezas",
+    "fabricante": "Dibar"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,18 +27,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868950702_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://dibar.mx/wp-content/uploads/2025/02/VasoEsteril_VE3.jpg",
+      "pagina": "https://dibar.mx/product/vaso-recolector-esteril/",
+      "ancho_original": 1600,
+      "alto_original": 1200,
+      "lado_final": 735,
+      "lado_util": 681,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.promexsa.com.mx/productos/vaso-recolector-esteril-100-ml-1-pz-dibar/",
-    "https://pmvelasco.mx/products/vaso-recolector-esteril-de-orina-y-heces-dibar"
+    "https://pmvelasco.mx/products/vaso-recolector-esteril-de-orina-y-heces-dibar",
+    "https://dibar.mx/product/vaso-recolector-esteril/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "Producto identificado por nombre y marca; ninguna ficha abierta mostró el GTIN 7501868950702, pero el prefijo corresponde a Dibar.",
-    "notas_imagenes": "Sin foto válida: la imagen de la presentación estéril mide 225 px y la de mayor tamaño encontrada es la del vaso no estéril (leyenda 'no tóxico'), que se descartó.",
+    "notas_imagenes": "1 foto (fabricante) de dibar.mx (Vaso recolector Estéril, código VE3): vaso de 100 ml con tapa azul, 1600x1200 originales (735 px útiles), sin marcas ni texto. Promexsa solo tiene una imagen de 225 px (rechazada por pequeña). Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

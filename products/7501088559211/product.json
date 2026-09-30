@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "SCABISAN CREMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Scabisan Permetrina 5% Crema 60 g",
+  "descripcion": "Descripción:\nScabisan es un medicamento tópico utilizado en el tratamiento de la sarna (escabiosis), una infestación causada por el ácaro Sarcoptes scabiei. Los síntomas de la sarna en humanos son picazón severa, úlceras cutáneas, surcos en la piel y erupción en la unión de los dedos de pies y manos, muñecas, glúteos y mamas. Su compuesto activo es la permetrina, considerada un escabicida y pediculicida. Es un tratamiento tópico indicado a partir de los 2 meses de edad; generalmente una sola aplicación es suficiente para eliminar la infestación.\n\nBeneficios:\n- Tratamiento tópico de la escabiosis (sarna)\n- Permetrina al 5 % con acción escabicida y pediculicida\n- Una sola aplicación suele ser suficiente\n- Indicado a partir de los 2 meses de edad\n\nComposición:\nCada 100 g de crema contienen permetrina 5.0 g, con vehículo cbp 100.0 g.\n\nModo de uso:\nVía cutánea. Aplique con un suave masaje sobre la piel desde el cuello hasta la planta de los pies. Usualmente 30 g son suficientes para el tratamiento de un adulto. La crema debe retirarse bañándose después de 8 a 14 horas. En niños y pacientes geriátricos trate también sienes, frente y cuero cabelludo. El tratamiento puede repetirse una semana después de la primera aplicación, si es necesario.\n\nPresentación:\nCaja con un tubo con 60 g de crema. Elaborado por Chinoin.\n\nAdvertencias:\nÚsese solo sobre la piel y siga las indicaciones de su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Scabisan",
+    "fabricante": "Chinoin",
+    "presentacion": "Tubo de 60 g",
+    "contenido_neto": 60,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Permetrina",
+    "concentracion": "5 % (5 g/100 g)",
+    "via_administracion": "Cutánea",
+    "edad_etapa": "A partir de 2 meses de edad",
+    "otros": "Forma farmacéutica: crema; Escabicida y pediculicida; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457816",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM27665184"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501088559211_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501088559211_1.png?format=jpeg",
+      "pagina": "https://www.fahorro.com/scabisan-crema-60-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1589,
+      "lado_util": 1470,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/scabisan-crema-60-g.html",
+    "https://www.farmatodo.com.mx/scabisan-crema-5-c-60-gr/p",
+    "https://farmaciagloria.mx/Dermatologicos/3311-scabisan-60-g-crema.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501088559211 confirmado en varias tiendas (SKU, mpn y URL) con crema de permetrina 5 % de 60 g; el nombre del sistema no traía el contenido. Catálogo de Mercado Libre MLM27665184 (Crema Scabisan Permetrina 5% 60 Gr) tomado de un resultado de búsqueda (no se abrió). Categoría de antiparasitarios por ser escabicida.",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja y tubo de frente. Se descartó una segunda foto recortada.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

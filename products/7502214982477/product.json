@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "PRUDENCE C3 FRESA OFERTADO 8%",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Condones Prudence Sabor y Aroma Fresa 3 Piezas",
+  "descripcion": "Descripción:\nCondones masculinos Prudence con sabor y aroma a fresa, de látex lubricado, de Laboratorios DKT. La caja contiene 3 condones de hule látex natural.\n\nCaracterísticas:\n- Condón masculino de látex natural lubricado.\n- Sabor y aroma a fresa.\n- Caja con 3 piezas de un solo uso.\n\nPresentación:\nCaja con 3 condones masculinos de hule látex natural, lubricados, con sabor y aroma a fresa. El empaque muestra la leyenda \"Condones lubricados\" y una imagen de fresas.\n\nAdvertencias:\nUn condón es de un solo uso. Consérvese a no más de 30 °C y en su empaque cerrado. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Prudence",
+    "fabricante": "DKT México",
+    "linea": "Prudence",
+    "variante": "Fresa",
+    "presentacion": "Caja con 3 condones",
+    "contenido_neto": 3,
+    "unidad_contenido": "condones",
+    "unidades_por_envase": 3,
+    "sabor_aroma": "Fresa",
+    "genero": "Hombre",
+    "otros": "Material: hule látex natural; Lubricado; Formato de venta: caja individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167992",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18978701"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502214982477_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502214982477_1_2.jpg",
+      "pagina": "https://www.fahorro.com/preservativo-prudence-aroma-fresa-3-pz.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1597,
+      "lado_util": 1480,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/preservativo-prudence-aroma-fresa-3-pz.html",
+    "https://www.klyns.mx/preserv-prudence-c-3-fresa/p",
+    "https://sanorim.mx/products/prudence-sabor-y-aroma-fresa-caja-con-3-preservativos-masculinos"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema incluye OFERTADO 8%, que es promoción y se ignoró. Hay poca información de la marca, por eso la descripción es corta. Catálogo de Mercado Libre tomado de un enlace de resultados que coincide con el producto.",
+    "notas_imagenes": "1 foto de frente de la caja (1597 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

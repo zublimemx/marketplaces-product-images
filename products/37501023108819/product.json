@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "37501023108819_1.jpg",
+      "archivo": "37501023108819_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501023108351_1.jpg",
-      "pagina": "https://www.fahorro.com/nexcare-cinta-transpore-transparente-2-50-cm-x-9-10-m.html",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 388
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750102310835L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -53,7 +53,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN 37501023108819 es un GTIN-14 (indicador 3); el código de la pieza sería 7501023108819, que no apareció en ninguna ficha. Se identificó por nombre y medidas: en una farmacia la misma cinta de 2.5 cm x 9.1 m aparece con otro código (7501023108351). Las fichas en línea traen poca descripción; los usos y el modo de uso son generales. Verificar la cantidad de rollos por caja si el GTIN-14 corresponde a un empaque maestro.",
-    "notas_imagenes": "1 foto (tienda, 500 px, original pequeña) de la caja Nexcare Transpore transparente 2.5 cm x 9.1 m; corresponde a la presentación con otro código de barras de la misma cinta.",
+    "notas_imagenes": "Foto nueva 37501023108819_2.jpg: caja Nexcare Transpore 2.5 cm x 9.1 m (GTIN de pieza 7501023108351), 1000x1000, producto de 901 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartaron las imágenes con banners morados de texto. Borrada la foto anterior de Farmacias del Ahorro (500 px, 388 útiles).",
     "fecha": "2026-09-29",
     "sesion": 5
   }

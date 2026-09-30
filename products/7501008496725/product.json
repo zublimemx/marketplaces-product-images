@@ -34,29 +34,30 @@
   },
   "imagenes": [
     {
-      "archivo": "7501008496725_1.jpg",
+      "archivo": "7501008496725_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501008496725-9241-1.png",
-      "pagina": "https://farmaciasfleming.mx/producto/aspirina-efervescente-500mg-caja-con-60-tabletas/",
-      "ancho_original": 940,
-      "alto_original": 788,
-      "lado_final": 1015,
-      "fecha": "2026-09-29",
-      "lado_util": 423
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/7501008496725_1.jpg?v=1787153156&width=1080",
+      "pagina": "https://farmaciasanjorge.com/products/3000",
+      "ancho_original": 1080,
+      "alto_original": 1080,
+      "lado_final": 1067,
+      "lado_util": 988,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasfleming.mx/producto/aspirina-efervescente-500mg-caja-con-60-tabletas/",
     "https://vidafarmacias.com/mx/analgesicos/15335-aspirina-efervescente-blister-acetilsalicilico-acido.html",
-    "https://www.mercadolibre.com.mx/aspirina-tableta-efervescente-500-mg-60-tabletas/p/MLM39455514"
+    "https://www.mercadolibre.com.mx/aspirina-tableta-efervescente-500-mg-60-tabletas/p/MLM39455514",
+    "https://farmaciasanjorge.com/products/3000"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El nombre del sistema termina en '36', que no se pudo interpretar (podría ser un código); las fichas confirman caja con 60 tabletas. Las advertencias son las generales del ácido acetilsalicílico y deben cotejarse con el empaque. El catálogo MLM39455514 sale en resultados con título de 60 tabletas; no se pudo abrir.",
-    "notas_imagenes": "1 foto de tienda (caja de frente, 1015 px). La imagen trae el producto pequeño dentro del cuadro; si se consigue una mejor, conviene reemplazarla.",
+    "notas_imagenes": "Foto nueva 7501008496725_2.jpg: caja Aspirina efervescente 500 mg con 60 tabletas de Farmacias San Jorge, 1080x1080 originales (Shopify no la amplía más), producto de 988 px, fondo blanco sin marcas, misma presentación que la foto anterior. Borrada la foto anterior de Farmacias Fleming (940x788 con producto de 423 px útiles).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

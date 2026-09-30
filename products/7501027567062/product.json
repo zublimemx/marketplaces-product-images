@@ -4,14 +4,22 @@
   "linea": "Mark",
   "nombre_sistema": "PROTEC LACT EVENFLO ADVAN C/30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Protectores de Lactancia Evenflo Advanced 30 Piezas",
+  "descripcion": "Descripción:\nProtectores de lactancia desechables Evenflo Advanced, con sistema Absorgel que encapsula el líquido y lo distribuye por sus canales para ayudar a mantenerte seca. Están pensados para flujo súper abundante y cuentan con bolsitas individuales para mayor higiene.\n\nCaracterísticas:\n- Sistema Absorgel: encapsula el líquido y lo reparte a través de canales internos.\n- Con aloe vera y vitamina E para cuidar la piel.\n- Cubierta respirable.\n- Cintas adheribles que mantienen el protector en su lugar.\n- Desechables, empacados en bolsitas individuales.\n- Línea Advanced by Evenflo, para una lactancia naturalmente segura.\n\nPresentación:\nCaja con 30 protectores de lactancia desechables.",
+  "ficha": {
+    "marca": "Evenflo",
+    "linea": "Advanced",
+    "presentacion": "Caja con 30 piezas",
+    "contenido_neto": 30,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 30,
+    "otros": "Tipo: protectores de lactancia desechables; Sistema Absorgel; Con aloe vera y vitamina E; Cintas adheribles; Bolsitas individuales; Flujo súper abundante"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194498",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Higiene Femenina > Protectores Mamarios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027567062_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501027567062_3.jpg",
+      "pagina": "https://www.fahorro.com/catalog/product/view/id/93957/s/evenflo-advanced-protectores-para-lactancia-30-piezas/category/6564/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "lado_util": 1423,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501027567062_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501027567062_4.jpg",
+      "pagina": "https://www.fahorro.com/catalog/product/view/id/93957/s/evenflo-advanced-protectores-para-lactancia-30-piezas/category/6564/",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1536,
+      "lado_util": 1423,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/catalog/product/view/id/93957/s/evenflo-advanced-protectores-para-lactancia-30-piezas/category/6564/",
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/protectores-lactancia-advanced-by-evenflo-30-piezas-7501027567062P"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Categoría MLM194498 elegida sobre MLM431595 (Bebés > Protectores Mamarios) por tener más publicaciones.",
+    "notas_imagenes": "2 fotos del empaque de 30 piezas en ángulo (1536 px), de una farmacia en línea; se descartaron una foto de solo los protectores sin empaque, una de un empaque de 36 piezas con leyenda promocional y una con \"Gratis 6 piezas\".",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

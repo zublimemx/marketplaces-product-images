@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7502208894779_1.jpg",
+      "archivo": "7502208894779_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/171701/7501537102180.jpg",
-      "pagina": "https://www.klyns.mx/tribedoce-c-30-tabs-bruluart/p",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 383
+      "fuente_url": "https://www.cadistribucion.mx/web/image/product.product/23642/image_1920?unique=3f61369",
+      "pagina": "https://www.cadistribucion.mx/shop/7502208894779-tribedoce-tabletas-c-30-29229",
+      "ancho_original": 591,
+      "alto_original": 591,
+      "lado_final": 578,
+      "lado_util": 535,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -50,7 +50,8 @@
     "https://www.medicamentosplm.com/home/productos/tribedoce-tabletas/73/101/10184/210",
     "https://www.actuamed.com.mx/marca/30628",
     "https://prixz.com/c/tribedoce-complejo-b-con-30-tabletas/",
-    "https://www.klyns.mx/tribedoce-c-30-tabs-bruluart/p"
+    "https://www.klyns.mx/tribedoce-c-30-tabs-bruluart/p",
+    "https://www.cadistribucion.mx/shop/7502208894779-tribedoce-tabletas-c-30-29229"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -58,6 +59,6 @@
     "encontrado_por": "gtin",
     "notas": "PLM indica que su venta requiere receta médica y actuamed lo marca RX (su registro es SSA VI). Se usó la categoría de suplementos por ser combinación de vitaminas (regla del dueño); si se trata como medicamento la alternativa es Sistema Nervioso Venta Libre (MLM457812).",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 500x500): caja Tribedoce 100/5/50 30 tabletas Bruluart. El archivo de Klyns se llama 7501537102180 (otro EAN del mismo producto); la búsqueda por EAN 7502208894779 devolvió esta ficha. Actuamed (231x231) demasiado pequeña."
+    "notas_imagenes": "1 foto nueva (tienda, CA Distribución, ficha con el GTIN 7502208894779 en la URL): caja morada con el diseño de la espalda y el logo Bruluagsa, 'Caja con 30 tabletas', 591x591 px de origen, 535 px útiles. Se borró la vieja de Klyns (383 px), que era el diseño anterior Bruluart y otro EAN (7501537102180). Alternativa no usada: Farmacia Herrera, 1024x1024 (639 px útiles), diseño Bruluart morado y plata con este mismo código de barras en su ficha (https://farmaciaherrera.com.mx/products/complejo-b-tribedoce-100-5-mg-50-mcg-con-30tab-morado). Búsqueda web (1) ubicó ambas fuentes."
   }
 }

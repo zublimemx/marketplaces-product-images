@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "BISOLVON AD 120ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Bisolvon Adulto Bromhexina Solución 120 ml",
+  "descripcion": "Descripción:\nBisolvon Adulto es una solución oral de bromhexina, un mucolítico que ayuda a disminuir la viscosidad de los mocos y las flemas para facilitar su expulsión en resfriados y gripes. La caja lo presenta como auxiliar para la expectoración de las flemas. Se comercializa en frasco de 120 ml de solución para uso en adultos, de Sanfer.\n\nBeneficios:\n- Auxiliar para la expectoración de las flemas.\n- Ayuda a reducir la viscosidad de mocos y flemas en resfriados y gripes.\n- Solución oral de 120 ml para adultos.\n\nFórmula:\nBromhexina 160 mg por cada 100 ml de solución (equivalente a 8 mg por cada 5 ml).\n\nModo de uso:\nVía oral. Use la dosis indicada en el instructivo del empaque o por su médico y no exceda la dosis recomendada.\n\nPresentación:\nCaja con frasco de 120 ml de solución oral para adultos.\n\nAdvertencias:\n- Consulte a su médico si la tos persiste.\n- Si está embarazada o en lactancia, consulte a su médico antes de usarlo.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Bisolvon",
+    "fabricante": "Sanfer",
+    "linea": "Bisolvon",
+    "variante": "Adulto",
+    "presentacion": "Frasco con solución oral",
+    "contenido_neto": 120,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Bromhexina",
+    "concentracion": "160 mg por 100 ml (8 mg por 5 ml)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "otros": "Mucolítico expectorante; Venta sin receta; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501037907117_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501037907117_4.jpg",
+      "pagina": "https://www.yza.mx/bisolvon-solucion-adulto-120ml/MXYZ_7501037907117.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1392,
+      "lado_util": 1288,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501037907117_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501037907117_1_2.jpg",
+      "pagina": "https://www.yza.mx/bisolvon-solucion-adulto-120ml/MXYZ_7501037907117.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1000,
+      "lado_util": 926,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/bisolvon-solucion-adulto-120ml/MXYZ_7501037907117.html",
+    "https://www.farmaciasespecializadas.com/bisolvon-ad-160-mg-1-sol-c-120-ml.html",
+    "https://www.fahorro.com/bisolvon-solucion-adulto-120-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en tres fichas de tienda (Bisolvon Adulto solución 120 ml, bromhexina 160 mg). La caja en las fotos dice Sanfer; otras tiendas citan a Laboratorios Hormona o a Sanofi como laboratorio, sin confirmar. Venta sin receta según dos tiendas. Sin monografía PLM abierta ni página del fabricante; no se anotaron las dosis de las fichas de tienda por parecer inconsistentes y se remite al instructivo. Se ignoró 'AD' como abreviatura de Adulto.",
+    "notas_imagenes": "2 fotos de tienda (frente de la caja, 1392 y 1000 px; la caja dice Sanfer). Se borró una tercera foto por ser casi idéntica a la primera. No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

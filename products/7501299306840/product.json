@@ -4,29 +4,68 @@
   "linea": "Farma",
   "nombre_sistema": "MACROZIT 600 MG SUSP 15 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Macrozit Azitromicina 600 mg Suspensión 15 ml",
+  "descripcion": "Descripción:\nMacrozit es un antibiótico macrólido de Laboratorios Liomont cuyo principio activo es la azitromicina, en presentación de polvo para preparar 15 ml de suspensión oral con 600 mg. Está indicado en infecciones causadas por microorganismos susceptibles: infecciones del aparato respiratorio superior (sinusitis, faringoamigdalitis y otitis media aguda) e inferior (bronquitis y neumonía), de piel y tejidos blandos, y odontoestomatológicas. También se usa en infecciones de transmisión sexual no complicadas por Chlamydia trachomatis y Neisseria gonorrhoeae, y en chancroide.\n\nComposición:\nEl frasco con polvo para 15 ml contiene azitromicina dihidratada equivalente a 0.6 g de azitromicina. El envase con diluyente contiene 9.7 ml. Una vez preparada, cada ml contiene azitromicina dihidratada equivalente a 0.04 g de azitromicina.\n\nModo de uso:\nVía oral. Antes de usar, el polvo se reconstituye únicamente con el diluyente incluido y se agita bien. Puede tomarse con o sin alimentos. Contiene azúcar. En niños se administra a quienes pesan más de 5 kg y la dosis la determina el médico según el peso.\n\nPresentación:\nCaja con frasco con polvo para 15 ml, envase con diluyente y jeringa graduada.\n\nAdvertencias:\nNo debe usarse en personas con alergia a la azitromicina, a otros macrólidos o cetólidos, ni con antecedentes de ictericia colestásica o disfunción hepática asociada al uso previo de azitromicina. La información para prescribir contraindica su uso durante el embarazo y la lactancia. Un antibiótico solo debe tomarse con receta y durante todo el tiempo indicado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Macrozit",
+    "fabricante": "Liomont",
+    "presentacion": "Caja con frasco con polvo para 15 ml y diluyente",
+    "contenido_neto": 15,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Azitromicina",
+    "concentracion": "600 mg por frasco; 40 mg/ml ya reconstituida",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; Incluye diluyente (9.7 ml) y jeringa graduada"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501299306840_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__d25f9898-3155-4d44-ba53-034398906a6c.jpg?crop=center&height=2000&v=1744682374&width=2000",
+      "pagina": "https://wecarepharma.mx/en/collections/medicamentos-de-patente/products/macrozit-suspension-600mg-15ml-azitromicina",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1942,
+      "lado_util": 1799,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501299306840_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__94a59daf-ea18-4a1b-8397-274315ff22f4.jpg?crop=center&height=2000&v=1744682376&width=2000",
+      "pagina": "https://wecarepharma.mx/en/collections/medicamentos-de-patente/products/macrozit-suspension-600mg-15ml-azitromicina",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1941,
+      "lado_util": 1798,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/macrozit.suspension/103/101/8520/194",
+    "https://www.benavides.com.mx/macrozit-600-mg-azitromicina-15-ml-suspension"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "La página de una farmacia lo lista como receta (Rx2) con el GTIN en la URL; la ficha PLM cubre las presentaciones de 15 y 30 ml.",
+    "notas_imagenes": "2 fotos del empaque (1941 y 1942 px), de una farmacia en línea; se descartó una foto de 561 px de otra tienda por menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

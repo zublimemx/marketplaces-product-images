@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "CARNOTPRIM SOL 100ML CPIPETA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Carnotprim Metoclopramida Solución 100 ml con Pipeta",
+  "descripcion": "Descripción:\nCarnotprim es una solución oral de Carnot Laboratorios cuyo principio activo es el clorhidrato de metoclopramida, con acción gastroenterocinética y antiemética. Está indicada en reflujo gastroesofágico, gastroparesias yatrogénicas y en el tratamiento y la profilaxis de náuseas y vómitos de diversas causas (por ejemplo durante quimioterapia, radioterapia o después de una anestesia); además presenta propiedades antimigrañosas. Se presenta en frasco de 100 mL con pipeta dosificadora.\n\nFórmula:\nCada 100 mL contienen clorhidrato de metoclopramida 100 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico; se mide con la pipeta dosificadora incluida.\n\nPresentación:\nCaja con frasco de 100 mL y pipeta dosificadora.\n\nAdvertencias:\nSu venta requiere receta médica. Contraindicado en hipersensibilidad al fármaco, oclusión o perforación intestinal, apendicitis aguda y cualquier condición en la que el aumento de la motilidad gastrointestinal sea riesgoso. Puede producir síntomas extrapiramidales; puede sumar sus efectos depresores del sistema nervioso central con los de psicotrópicos o alcohol; en insuficiencia renal crónica la dosis debe ajustarse. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Carnotprim",
+    "fabricante": "Carnot Laboratorios",
+    "presentacion": "Caja con frasco de 100 mL y pipeta dosificadora",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clorhidrato de metoclopramida",
+    "concentracion": "100 mg por cada 100 mL (1 mg/ml)",
+    "via_administracion": "Oral",
+    "registro_sanitario": "0325M80 SSA IV",
+    "otros": "Forma farmacéutica: solución oral; incluye pipeta dosificadora"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501124103217_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Carnotprim-100-Ml-7501124103217-638573424271279845-1.jpg",
+      "pagina": "https://tienda.sfe.com.mx/eCommerce/item/3915/carnotprim-100-ml",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 724,
+      "lado_util": 671,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/carnotprim.solucion/35/101/6814/146",
+    "https://tienda.sfe.com.mx/eCommerce/item/3915/carnotprim-100-ml",
+    "https://farmaciasmedina.com/detalleProducto/Carnotprim-100-Ml-Solucion-Frasco-Dosificador/7501124103217"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Registro 0325M80 SSA IV (venta con receta). Categoría de venta libre digestivos por grupo terapéutico; la de receta va en categoria_rx_sugerida.",
+    "notas_imagenes": "1 foto de tienda (724 px): frente del empaque. Las demás fuentes solo tenían imágenes menores a 500 px.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

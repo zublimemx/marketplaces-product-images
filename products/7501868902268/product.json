@@ -26,18 +26,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501868902268_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://store.quirurfast.com/cdn/shop/products/venda10x5.jpg?v=1661226031",
+      "pagina": "https://store.quirurfast.com/products/venda-elastica-10-cm-x-5-m-dibar-c-18",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 527,
+      "lado_util": 487,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://quimicaasociados2.mitiendanube.com/productos/venda-elastica-10cmx5m-dibar-c-18/",
-    "https://oficinaaries.com.mx/articulos-de-seguridad/2421-venda-elastica-dibar-10-cm-en-rollo.html"
+    "https://oficinaaries.com.mx/articulos-de-seguridad/2421-venda-elastica-dibar-10-cm-en-rollo.html",
+    "https://store.quirurfast.com/products/venda-elastica-10-cm-x-5-m-dibar-c-18"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "Identificado por nombre: hay un proveedor con 'Venda elástica 10cmx5m Dibar C/18', pero ningún sitio confirma el GTIN 7501868902268 (otro proveedor lo lista con el código 750186892268, casi igual). La descripción es general de una venda elástica y no hay datos oficiales del fabricante; verificar si la caja de 18 corresponde a este código.",
-    "notas_imagenes": "Sin fotos: las dos fuentes encontradas no sirvieron; una imagen es un collage de tres medidas con texto y la otra es un rollo pequeño en un lienzo grande, sin la caja de 18.",
+    "notas_imagenes": "1 foto (tienda) de Quirurfast (ficha 'Venda Elástica 10 cm x 5 m Dibar C/18'): las 18 vendas Dibar apiladas, 800x800 originales (527 px útiles, menos de los 800 preferidos), sin logotipo ni texto de la tienda; es su única imagen. El ancho de 10 cm no se puede comprobar en la foto, solo por el título de la ficha. Rappi no trae imagen. Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

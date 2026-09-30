@@ -16,7 +16,7 @@
     "unidades_por_envase": 1,
     "sabor_aroma": "Fresco masculino (Cosmo)",
     "genero": "Hombre",
-    "otros": "Formato: aerosol (spray)"
+    "otros": "Formato: aerosol (spray); Etiqueta del envase: 159 mL"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546077260_1.jpg",
+      "archivo": "7509546077260_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7509546077260.jpg?v=1704413421&width=1200",
-      "pagina": "https://farmaciasanjorge.com/products/32952",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 365
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750954607726L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 903,
+      "lado_util": 835,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -52,7 +52,7 @@
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN solo se vio en una ficha de tienda (Desodorante Stefano Cosmo Men Spray 113 g); se interpretó 'COS MEN' como 'Cosmo Men'. Faltan datos de ingredientes, fabricante y advertencias, y la descripción de esa ficha es genérica, por lo que la descripción es breve.",
-    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge, 500 px), lata Stefano Cosmo de frente; resolución baja pero es la única encontrada.",
+    "notas_imagenes": "Foto nueva 7509546077260_2.jpg: lata del desodorante Stefano Signature Cosmo en aerosol (la etiqueta indica 159 mL), 1000x1000, producto de 835 px, la misma lata que la foto anterior; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartaron las imágenes con arte publicitario. Borrada la foto anterior de Farmacias San Jorge (500 px, 365 útiles).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

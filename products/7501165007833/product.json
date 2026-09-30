@@ -33,15 +33,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501165007833_1.jpg",
+      "archivo": "7501165007833_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20250509_1024593.jpg",
-      "pagina": "https://www.benavides.com.mx/aprovasc-300-mg-irbesartan5-mg-amlodipino-28-tabletas",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 416
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750116500783L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501165007833_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750116500783L2.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 976,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -54,7 +65,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN 7501165007833 confirmado en la dirección de una farmacia en línea para Aprovasc 300 mg/5 mg, 28 tabletas, Sanofi; ficha de Benavides con indicación y posología. La página de PLM respondió con error y no se pudo abrir la del fabricante. La advertencia sobre embarazo es general para este tipo de medicamento, no se leyó en la ficha oficial.",
-    "notas_imagenes": "1 foto de tienda con el frente de la caja Aprovasc 300 mg, 5 mg, 28 tabletas (Sanofi); resolución original 520 px, sin mejor fuente.",
+    "notas_imagenes": "Fotos nuevas: 7501165007833_2.jpg (frente de caja Aprovasc 300 mg/5 mg, 28 tabletas, arte plano) y 7501165007833_3.jpg (caja en 3D), ambas 1000x1000 con 900 px útiles; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Borrada la foto anterior de Benavides (520 px, 416 útiles; su variante de 1000 px es ampliación).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

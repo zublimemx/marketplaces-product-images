@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "BIB EVENFLO ACUARIO 8 OZ",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biberón Evenflo Acuario 8 oz 240 ml",
+  "descripcion": "Descripción:\nBiberón Evenflo Acuario de 8 oz (240 ml) con divertido diseño decorativo de fondo marino con peces y otros animalitos. Incluye 1 biberón con mamila con sistema Micro Air Vents, que ayuda a reducir los cólicos del bebé, y está indicado para bebés de 3 a 12 meses.\n\nCaracterísticas:\n- Capacidad de 8 oz (240 ml).\n- Mamila con Micro Air Vents, un sistema de ventilación que ayuda a reducir los cólicos.\n- Escala graduada impresa para medir la cantidad de leche o fórmula.\n- Fabricado sin BPA.\n- Diseño Acuario con ilustraciones a color.\n- Para bebés de 3 a 12 meses.\n\nPresentación:\n1 biberón de plástico con mamila.\n\nAdvertencias:\nConsulte a su pediatra sobre el tipo de mamila y el flujo adecuados para su bebé. Esterilice y lave antes del primer uso y revise periódicamente el estado de la mamila.",
+  "ficha": {
+    "marca": "Evenflo",
+    "linea": "Acuario",
+    "presentacion": "Biberón",
+    "contenido_neto": 240,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "edad_etapa": "3 a 12 meses",
+    "otros": "Capacidad: 8 oz (240 ml); Mamila con Micro Air Vents; Material: plástico libre de BPA; Diseño: Acuario"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM5363",
+      "categoria_ruta": "Bebés > Lactancia y Alimentación > Biberones y Accesorios > Biberones",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027514103_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__6443ff74-5b57-4789-80be-bb2079e47a52.jpg?crop=center&height=2400&v=1744700831&width=2400",
+      "pagina": "https://wecarepharma.mx/products/biberon-acuario-8oz-evenflo-1",
+      "ancho_original": 2400,
+      "alto_original": 2400,
+      "lado_final": 2000,
+      "lado_util": 1852,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501027514103_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__65a84835-69da-4677-a879-62926835791e.jpg?crop=center&height=2400&v=1744700833&width=2400",
+      "pagina": "https://wecarepharma.mx/products/biberon-acuario-8oz-evenflo-1",
+      "ancho_original": 2400,
+      "alto_original": 2400,
+      "lado_final": 2000,
+      "lado_util": 1852,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.sears.com.mx/producto/811827/evenflo-acuario-8-onzas-1-botella-240-ml",
+    "https://wecarepharma.mx/products/biberon-acuario-8oz-evenflo-1"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Edad, Micro Air Vents y contenido tomados de la etiqueta visible en la foto; libre de BPA según una ficha de tienda y el sello del empaque. Las recomendaciones de la sección de advertencias son de uso general, no vienen de la ficha.",
+    "notas_imagenes": "2 fotos del biberón con su etiqueta colgante (2000 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

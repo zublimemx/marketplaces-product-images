@@ -32,9 +32,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda con el GTIN 7501152111307 solo devolvió árnica de otras marcas (Boiron en pellets, entre otras) y listados genéricos; ninguna ficha confirma este código y la página del distribuidor por GTIN dio 404. Se desconocen fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional (Otros Medicamentos). Receta \"No\" por el principio activo, no por la presentación.",
+    "notas": "La búsqueda con el GTIN 7501152111307 solo devolvió árnica de otras marcas (Boiron en pellets, cremas, cápsulas de suplemento) y listados genéricos, casi todos de Estados Unidos; ninguna ficha confirma este código. Se desconocen fabricante, forma (gránulos, tabletas, etc.) y concentración; verificar con el empaque físico. Categoría provisional (Otros Medicamentos). Receta 'No' por el principio activo, no por la presentación.",
     "notas_imagenes": "Sin fotos: el GTIN no aparece en ninguna tienda revisada y las imágenes de árnica de otras marcas no representan este producto.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

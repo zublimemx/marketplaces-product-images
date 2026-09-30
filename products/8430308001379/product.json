@@ -34,22 +34,23 @@
   },
   "imagenes": [
     {
-      "archivo": "8430308001379_1.jpg",
+      "archivo": "8430308001379_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/8430308001379.jpg?v=1726102889&width=1500",
-      "pagina": "https://farmaciaherrera.com.mx/products/dimoflax-con-45-caps",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 370
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/8430308001379_1.jpg",
+      "pagina": "https://www.yza.mx/dimoflax-45-caps/MXYZ_8430308001379.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 797,
+      "lado_util": 738,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/dimoflax.capsulas/67/101/62569/14",
     "https://www.klyns.mx/dimoflax-0-5-200mg-c-45-caps/p",
-    "https://farmaciaherrera.com.mx/products/dimoflax-con-45-caps"
+    "https://farmaciaherrera.com.mx/products/dimoflax-con-45-caps",
+    "https://www.yza.mx/dimoflax-45-caps/MXYZ_8430308001379.html"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -57,6 +58,6 @@
     "encontrado_por": "gtin",
     "notas": "Las farmacias listan el laboratorio como Almirall o Grünenthal; PLM indica titular Almirall e importador Grünenthal de México. Requiere receta según PLM (SSA IV).",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmacia Herrera): caja Dimoflax 0.5/200 mg c/45 cápsulas, 500 px."
+    "notas_imagenes": "1 foto nueva (tienda, YZA): frente de la caja de 45 cápsulas de Grünenthal, 1000x1000 px de origen, 738 px útiles. Se borró la vieja de Farmacia Herrera (370 px). Sin búsqueda web."
   }
 }

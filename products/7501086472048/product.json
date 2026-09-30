@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT ACCION MAYO ALCAN 60MED",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Oral-B Pro Doble Acción Mayor Alcance Mediano",
+  "descripcion": "Descripción:\nEl cepillo dental Oral-B Pro Doble Acción Mayor Alcance, de la familia Pro Doble Acción, está diseñado para ayudar a combatir la placa dental y contribuir a mantener los dientes saludables. Esta presentación incluye 1 cepillo de tamaño mediano.\n\nCaracterísticas:\n- Cabeza con cerdas alargadas en la punta que ayudan a limpiar lugares difíciles de alcanzar.\n- Cerdas Doble Acción: las centrales medianas limpian el esmalte dental y las laterales, de textura suave, masajean las encías.\n- Mango antideslizante con mayor área de agarre para una limpieza cómoda.\n- Tamaño mediano.\n\nModo de uso:\nCepille sus dientes diariamente después de cada comida, por lo menos 3 veces al día o como lo recomiende su dentista.\n\nPresentación:\n1 cepillo dental mediano en blíster.\n\nAdvertencias:\nCambie su cepillo cada 3 meses.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Pro Doble Acción",
+    "variante": "Mayor Alcance",
+    "presentacion": "1 cepillo en blíster",
+    "contenido_neto": 1,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 1,
+    "otros": "Tamaño: mediano; Cerdas de nailon; Mango antideslizante"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501086472048_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501086472048.jpg",
+      "pagina": "https://www.fahorro.com/cepillo-dent-pro-d-duty-enc-pz-2.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1641,
+      "lado_util": 1520,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/cepillo-dent-pro-d-duty-enc-pz-2.html",
+    "https://www.amazon.com.mx/Cepillo-Alcance-Mediano-Colores-Surtidos/dp/B00WQSG0EY",
+    "https://www.lagranbodega.com.mx/cepillo-pro-doble-accion-mayor-alcance--60-mediano/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 'ACCION MAYO ALCAN 60MED' (Pro Doble Acción Mayor Alcance, mediano). Se usa la marca Oral-B porque así la muestran las fichas de tienda; la ficha de Amazon la lista como 'Pro' con fabricante P&G.",
+    "notas_imagenes": "1 foto de tienda (1,641 px): blíster individual de frente. Se descartó una segunda foto casi idéntica.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

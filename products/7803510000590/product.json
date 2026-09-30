@@ -4,14 +4,27 @@
   "linea": "Farma",
   "nombre_sistema": "CIRUELAX 15MG C20COMP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ciruelax Cassia Angustifolia 15 mg 20 Comprimidos",
+  "descripcion": "Descripción:\nCiruelax 15 mg es un medicamento herbolario laxante a base de Cassia angustifolia (sen), auxiliar en el tratamiento del estreñimiento. Los senósidos del sen actúan sobre la motilidad del intestino, estimulando las contracciones peristálticas y acelerando el tránsito por el colon, con lo que ayudan a facilitar la evacuación. Se presenta en comprimidos de 15 mg, en caja con 20 piezas en envase de burbuja.\n\nBeneficios:\n- Laxante de origen natural\n- Auxiliar en el tratamiento del estreñimiento\n- Tiempo de acción aproximado de 8 a 10 horas\n- Comprimidos en envase de burbuja, prácticos y fáciles de llevar\n\nComposición:\nCada comprimido aporta Cassia angustifolia (sen) equivalente a 15 mg de derivados hidroxiantracénicos, expresados como senósidos B.\n\nModo de uso:\nVía oral. Siga la dosis indicada en el empaque o por su médico.\n\nPresentación:\nCaja con 20 comprimidos de 15 mg en envase de burbuja. Elaborado por Laboratorios Garden House.\n\nAdvertencias:\nNo lo use en menores de 10 años, ni en caso de obstrucción intestinal, apendicitis, dolor abdominal de causa desconocida, sangrado rectal no diagnosticado, náuseas, vómito, fiebre o deshidratación severa. A dosis habituales suele ser bien tolerado; ocasionalmente puede causar dolor abdominal, cólicos, gases y náuseas. El uso frecuente o prolongado de laxantes puede crear hábito. Si persisten las molestias o se presenta dolor abdominal, consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ciruelax",
+    "fabricante": "Laboratorios Garden House",
+    "presentacion": "Caja con 20 comprimidos en envase de burbuja",
+    "contenido_neto": 20,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cassia angustifolia (sen)",
+    "concentracion": "15 mg (equivalente en senósidos B)",
+    "via_administracion": "Oral",
+    "edad_etapa": "Mayores de 10 años",
+    "registro_sanitario": "025P2002 SSA VI",
+    "otros": "Medicamento herbolario; Laxante; Forma farmacéutica: comprimidos; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +32,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7803510000590_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20250821_834971.jpg",
+      "pagina": "https://www.benavides.com.mx/ciruelax-20-comps",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "lado_util": 800,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/ciruelax.comprimidos/83/101/81352/25",
+    "https://www.benavides.com.mx/ciruelax-20-comps"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7803510000590 aparece en la ficha de tienda de Ciruelax 15 mg 20 comprimidos. Composición y advertencias de la ficha de PLM (varias presentaciones; el registro 025P2002 SSA VI es el que muestra esa ficha para la marca). El empaque dice medicamento herbolario. Se ignoró 'C20COMP' como parte del nombre.",
+    "notas_imagenes": "1 foto de tienda (Benavides, 1000 px), caja de 20 comprimidos de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

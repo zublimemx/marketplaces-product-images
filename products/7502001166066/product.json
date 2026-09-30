@@ -33,29 +33,42 @@
   },
   "imagenes": [
     {
-      "archivo": "7502001166066_1.jpg",
+      "archivo": "7502001166066_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciapvr.com/wp-content/uploads/2021/06/farmacia-pvr-barmicil-40g.jpg",
-      "pagina": "https://farmaciapvr.com/en/producto/barmicil-cream-40g/",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 409
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502001166066.jpg",
+      "pagina": "https://www.fahorro.com/barmicil-compuesto-crema-40-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1247,
+      "lado_util": 1156,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502001166066_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/06/imgi_77_14-barmicil-compuesto-crema-40g-sons-768x768-1.png",
+      "pagina": "https://phemedica.com.mx/product/barmicil-compuesto-betametasona-clotrimazol-gentamicina-crema-50mg-1g-0-1g-100-g-tubo-c-40-g-sons/",
+      "ancho_original": 768,
+      "alto_original": 768,
+      "lado_final": 673,
+      "lado_util": 624,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.cadistribucion.mx/shop/7502001166066-barmicil-compuesto-crema-40-g-19176",
     "https://farmaciapvr.com/en/producto/barmicil-cream-40g/",
-    "https://farmaciasiguales.com/products/gentamicina-clotrimazol-betametasona-10-1-0-0-05g-tubo-con-40gr-cremabarmicil-compuesto"
+    "https://farmaciasiguales.com/products/gentamicina-clotrimazol-betametasona-10-1-0-0-05g-tubo-con-40gr-cremabarmicil-compuesto",
+    "https://www.fahorro.com/barmicil-compuesto-crema-40-g.html",
+    "https://phemedica.com.mx/product/barmicil-compuesto-betametasona-clotrimazol-gentamicina-crema-50mg-1g-0-1g-100-g-tubo-c-40-g-sons/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "La condición de receta se dedujo de combinar un antibiótico y un corticoide tópicos; no se vio la leyenda del empaque. Las indicaciones salen de etiquetas de tiendas.",
-    "notas_imagenes": "1 foto de la caja en ángulo con el tubo de 40 g (tienda). Otras fuentes traían marca de agua.",
+    "notas_imagenes": "2 fotos (tienda): _3.jpg de fahorro.com (original 1600 px, producto de 1156 px, frente de la caja) y _4.jpg de phemedica.com.mx (768 px, producto de 624 px, tubo y caja). Descartada wecarepharma (1200 px, casi igual a la de fahorro pero con marcas pequeñas en el borde derecho). Se borró la foto anterior de farmaciapvr (409 px). Revisadas en hoja de contacto: sin logotipos de tienda ni precios.",
     "fecha": "2026-09-29"
   }
 }

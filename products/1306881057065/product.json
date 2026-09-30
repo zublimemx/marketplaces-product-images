@@ -37,9 +37,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "no_encontrado",
-    "notas": "La búsqueda con el GTIN y el nombre solo devolvió patentes, monografías genéricas y productos afines de otras marcas (Talflex, Dolo Bedoyecta, etc.); ninguna ficha de B-Pracet-KP. El GTIN 1306881057065 parece código interno y la página del distribuidor por GTIN dio 404. Título, fórmula y ficha salen solo del nombre del sistema. Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en categoría de venta libre por regla del dueño.",
+    "notas": "La búsqueda con el GTIN y el nombre solo devolvió patentes, monografías genéricas de pregabalina y ketoprofeno y productos afines de Medicam (B-Tracet-EX, B-Tracet-PL) y de otras marcas (Dolo Bedoyecta, Talflex); ninguna ficha de B-Pracet-KP. Las páginas directas del distribuidor por GTIN dieron 404. Título, fórmula y ficha salen solo del nombre del sistema. Medicam parece ser el proveedor, sin confirmar como fabricante. Se desconocen forma farmacéutica y concentraciones. Contiene pregabalina (requiere receta); va en categoría de venta libre por regla del dueño.",
     "notas_imagenes": "Sin fotos: no se encontró ninguna imagen del producto en las fuentes revisadas.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

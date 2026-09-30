@@ -28,28 +28,29 @@
   },
   "imagenes": [
     {
-      "archivo": "7501048623068_1.jpg",
+      "archivo": "7501048623068_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501048623068.png?v=1706130255&width=1800",
-      "pagina": "https://farmaciasanjorge.com/products/38472",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 397
+      "fuente_url": "https://family-medic.com.mx/wp-content/uploads/2023/07/7501048623068.png",
+      "pagina": "https://family-medic.com.mx/tienda/cuidado-personal-y-belleza/pads-faciales-redondos-sualgodon-100pzs/",
+      "ancho_original": 900,
+      "alto_original": 900,
+      "lado_final": 879,
+      "lado_util": 814,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasanjorge.com/products/38472",
-    "https://prixz.com/c/jaloma-pads-desmaquillantes-sualgodon-con-100-piezas/"
+    "https://prixz.com/c/jaloma-pads-desmaquillantes-sualgodon-con-100-piezas/",
+    "https://family-medic.com.mx/tienda/cuidado-personal-y-belleza/pads-faciales-redondos-sualgodon-100pzs/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en Farmacias San Jorge y Prixz. Las tiendas atribuyen la marca a Jaloma o a De Gasa; se dejó solo la marca Sualgodón que aparece en el empaque. La foto es de 500 px (la de mayor tamaño disponible).",
-    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge), 500 px: bolsa frontal de Sualgodón pads faciales redondos con 100 piezas.",
+    "notas_imagenes": "Foto nueva 7501048623068_2.jpg: bolsa de pads faciales redondos Sualgodón con 100 piezas, de Family Medic (PNG 900x900 con fondo transparente convertido a blanco), producto de 814 px, sin marcas; algo suave en detalle pero legible. Borrada la foto anterior de Farmacias San Jorge (500 px, 397 útiles). Revisados sin mejora: Klyns (500), Farmaleal (156x338), MDSC (189 px), San Isidro sin imagen; Walmart sin imagen.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

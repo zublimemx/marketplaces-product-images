@@ -34,29 +34,30 @@
   },
   "imagenes": [
     {
-      "archivo": "7501125112881_1.jpg",
+      "archivo": "7501125112881_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501125112881_1200x1200.jpg?v=1744687018",
-      "pagina": "https://wecarepharma.mx/products/pisacaina-2-frasco-20mg-ml-50ml-ampulas-lidocaina",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 311
+      "fuente_url": "https://farmaciagloria.mx/10029-large_default/pisacaina-2-frasco-ampula-con-50-ml.jpg",
+      "pagina": "https://farmaciagloria.mx/Medicamentos_genericos/2958-pisacaina-2-frasco-ampula-con-50-ml.html",
+      "ancho_original": 643,
+      "alto_original": 674,
+      "lado_final": 627,
+      "lado_util": 581,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.actuamed.com.mx/marca/18329",
     "https://www.klyns.mx/pisacaina-2-20-mg-50-ml/p",
-    "https://wecarepharma.mx/products/pisacaina-2-frasco-20mg-ml-50ml-ampulas-lidocaina"
+    "https://wecarepharma.mx/products/pisacaina-2-frasco-20mg-ml-50ml-ampulas-lidocaina",
+    "https://farmaciagloria.mx/Medicamentos_genericos/2958-pisacaina-2-frasco-ampula-con-50-ml.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "El nombre del sistema dice '2 FCO AMP 50ML'; se interpretó como 2% frasco ámpula de 50 ml (las tiendas publican el GTIN como 1 frasco). La ficha oficial no se abrió; los datos vienen de un vademécum y de fichas de tienda.",
-    "notas_imagenes": "1 foto de tienda (WeCare Pharma, 500 px), frasco ámpula de Pisacaína 2% de 20 mg/ml.",
+    "notas_imagenes": "Foto nueva 7501125112881_2.jpg: frasco ámpula Pisacaína 2% lidocaína 20 mg/mL, 50 mL, de Farmacia Gloria, 643x674 originales, producto de 581 px (sobre el mínimo de 500, por debajo de los 800 preferidos), fondo blanco sin marcas. Borrada la foto anterior de WeCare Pharma (500 px, 311 útiles). Revisados sin mejora: Klyns (500), Farmacias Medina (480), Actuamed (227), WeCare (500); Yza, Farmalisto y Prixz no abren (verificación o captcha); Walmart sin imagen.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

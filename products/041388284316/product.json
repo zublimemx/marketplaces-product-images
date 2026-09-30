@@ -33,39 +33,29 @@
   },
   "imagenes": [
     {
-      "archivo": "041388284316_1.jpg",
+      "archivo": "041388284316_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciagloria.mx/5715-large_default/kank-a-con-03-oz-solucion.webp",
-      "pagina": "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
-      "ancho_original": 643,
-      "alto_original": 674,
-      "lado_final": 507,
-      "fecha": "2026-09-29",
-      "lado_util": 470
-    },
-    {
-      "archivo": "041388284316_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciagloria.mx/5716-large_default/kank-a-con-03-oz-solucion.webp",
-      "pagina": "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
-      "ancho_original": 643,
-      "alto_original": 674,
-      "lado_final": 509,
-      "fecha": "2026-09-29",
-      "lado_util": 472
+      "fuente_url": "https://sanorim.mx/cdn/shop/files/Kanka.jpg?v=1695594449",
+      "pagina": "https://sanorim.mx/products/kanka-20-benzocaina-solucion-con-aplicador-9-7-ml",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 617,
+      "lado_util": 572,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciagloria.mx/Analgesicos/2156-kank-a-con-03-oz-solucion.html",
-    "https://farmaciasanisidro.mx/producto/kank-a-sol-9-7ml-3-oz-2/"
+    "https://farmaciasanisidro.mx/producto/kank-a-sol-9-7ml-3-oz-2/",
+    "https://sanorim.mx/products/kanka-20-benzocaina-solucion-con-aplicador-9-7-ml"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN 041388284316 (UPC de 12 dígitos) confirmado con el código de barras del empaque. Contenido 0.3 oz = 9.7 ml según etiqueta. Venta libre según las fichas de tienda. Categoría elegida por alivio del dolor bucal (no hay una hoja de cuidado bucal para medicamentos).",
-    "notas_imagenes": "2 fotos (tienda, ~507 px): frente del blíster y reverso con la fórmula. Resolución justa; no se encontró una fuente mejor (una imagen webp de otra tienda no se pudo procesar).",
+    "notas_imagenes": "1 foto nueva (tienda, Sanorim): blíster frontal con el frasco de 9.7 mL, 600x600 px de origen, 572 px útiles. Se borraron las 2 viejas de Farmacia Gloria (470 y 472 px, frente y reverso), por lo que ya no hay foto del reverso. Búsqueda web (1) sin versión mayor: Zedelvallarta 600 px pero 486 px útiles.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

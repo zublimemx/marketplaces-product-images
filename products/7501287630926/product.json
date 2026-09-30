@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501287630926_1.jpg",
+      "archivo": "7501287630926_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/Imagenes_de_planograma__067891d9-ecf4-45c1-807a-94eb10d2ea75__07501287630926.1.jpg",
-      "pagina": "https://wecarepharma.mx/en/products/terramicina-500mg-con-16-capsulas-oxitetraciclina",
-      "ancho_original": 550,
-      "alto_original": 550,
-      "lado_final": 537,
-      "fecha": "2026-09-29",
-      "lado_util": 498
+      "fuente_url": "https://club.presalud.com/web/image/product.product/33529/image_1920?unique=b43d005",
+      "pagina": "https://club.presalud.com/shop/medicamentos-2/7501287630926-terramicina-500-mg-16-capsulas-33529",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1022,
+      "lado_util": 947,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -55,7 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en ficha de tienda. La caja (foto) confirma 500 mg y 16 cápsulas. Antibiótico: requiere receta en México.",
-    "notas_imagenes": "1 foto de tienda: frente de la caja (Pfizer, 500 mg, 16 cápsulas). No se encontraron más fotos limpias.",
+    "notas_imagenes": "1 foto (tienda): 7501287630926_2.jpg de club.presalud.com (original 1200 px, producto de 947 px), caja Pfizer Terramicina 500 mg con 16 cápsulas, de frente, sin logotipos de tienda ni precios. Se borró la foto anterior de wecarepharma (producto de 498 px). Revisada en hoja de contacto. Sin búsqueda web: la fuente ya conocida de la ficha bastó.",
     "fecha": "2026-09-29"
   }
 }

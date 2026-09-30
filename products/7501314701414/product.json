@@ -4,29 +4,69 @@
   "linea": "Farma",
   "nombre_sistema": "ACELER 2% CRA 15G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Aceler Ácido Fusídico 2% Crema 15 g",
+  "descripcion": "Descripción:\nAceler es una crema de uso tópico de Laboratorios Senosiain cuyo principio activo es el ácido fusídico al 2%, un antibiótico. Se emplea en el tratamiento de infecciones bacterianas de la piel causadas por microorganismos sensibles al ácido fusídico, siempre bajo indicación médica. Se presenta en tubo de 15 g.\n\nFórmula:\nCada 100 g contienen ácido fusídico 2 g y excipiente cbp 100 g.\n\nModo de uso:\nVía cutánea (uso tópico). Aplicar sobre la zona afectada con la piel limpia y seca. La frecuencia y la duración del tratamiento las determina el médico según la gravedad de la infección.\n\nPresentación:\nCaja con tubo con 15 g de crema.\n\nAdvertencias:\nEs un antibiótico de venta con receta médica. Contraindicado en caso de hipersensibilidad al ácido fusídico o a los componentes de la fórmula. Evite el contacto con los ojos y las mucosas. Si aparece irritación o alguna reacción adversa, suspenda su uso y consulte al médico. No se recomienda durante el embarazo y la lactancia salvo indicación médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Aceler",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Caja con tubo con 15 g",
+    "contenido_neto": 15,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Ácido fusídico",
+    "concentracion": "2% (2 g por cada 100 g)",
+    "via_administracion": "Cutánea (tópica)",
+    "otros": "Forma farmacéutica: crema; antibiótico tópico"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701414_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7000092/7501314701414_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/aceler-crema-2-tubo-c-15-gr/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501314701414_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__40fe6a0a-fdad-4927-8cfe-4b66f6440164_1200x1200.jpg?v=1744659332",
+      "pagina": "https://www.farmatodo.com.mx/aceler-crema-2-tubo-c-15-gr/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1240,
+      "lado_util": 1149,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/aceler-crema-2-15g-acido-fusidico",
+    "https://www.yza.mx/aceler-2-crema-15g/MXYZ_7501314701414.html",
+    "https://www.farmatodo.com.mx/aceler-crema-2-tubo-c-15-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Fuentes en desacuerdo sobre la receta: una tienda la marca sin receta, otra la indica como antibiótico de venta con receta y otra la lista entre dermatológicos con receta. Se marca Sí por ser antibiótico; conviene confirmar en el empaque. No se vio el número de registro sanitario.",
+    "notas_imagenes": "2 fotos de tienda (974 y 1,240 px): frente del empaque en dos vistas. Una foto de 480 px se rechazó por tamaño.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -4,14 +4,21 @@
   "linea": "Farma",
   "nombre_sistema": "CINTAPORE 9MT BCO 2 5CM C12 48",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cintapore Cinta Adhesiva Blanca 2.5 cm x 9 m Caja 12",
+  "descripcion": "Descripción:\nCinta adhesiva blanca de 2.5 cm de ancho por 9 m de largo, de la marca Cintapore, presentada en caja con 12 rollos. Es una cinta para uso externo que se utiliza para fijar gasas, apósitos y vendajes sobre la piel.\n\nPresentación:\nCaja con 12 rollos de cinta blanca de 2.5 cm x 9 m.",
+  "ficha": {
+    "marca": "Cintapore",
+    "presentacion": "Caja con 12 rollos",
+    "contenido_neto": 9,
+    "unidad_contenido": "m",
+    "unidades_por_envase": 12,
+    "otros": "Color: blanco; Ancho: 2.5 cm; Largo por rollo: 9 m; Uso externo"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178504",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -23,10 +30,12 @@
   "url_oficial": "",
   "fuentes": [],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Producto no identificado en fuentes: ninguna ficha de tienda con este GTIN o el nombre Cintapore. Los datos salen solo del nombre del sistema (9 MT, blanco, 2.5 cm, caja con 12); se ignoró el 48 final. No se confirmó que sea cinta microporosa ni el fabricante. Categoría: Farmacia > Vendas (más publicaciones que Farmacia > Otros).",
+    "notas_imagenes": "Sin fotos: no se encontró una página del producto con este GTIN.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

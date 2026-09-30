@@ -35,22 +35,23 @@
   },
   "imagenes": [
     {
-      "archivo": "7501300421531_1.jpg",
+      "archivo": "7501300421531_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/7501300421531.jpg?v=1744671075",
-      "pagina": "https://wecarepharma.mx/products/dolac-10mg-con-20-capsulas-ketorolaco",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 366
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501300421531_1.jpg",
+      "pagina": "https://www.yza.mx/dolac-10-mg---caja-con-20-capsulas-ketorolaco/MXYZ_7501300421531.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 855,
+      "lado_util": 791,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://wecarepharma.mx/products/dolac-10mg-con-20-capsulas-ketorolaco",
     "https://www.klyns.mx/dolac-10-mg-20-caps-softgel/p",
-    "https://www.vademecum.es/mexico/medicamento/1512914/dolac-capsula-10-mg"
+    "https://www.vademecum.es/mexico/medicamento/1512914/dolac-capsula-10-mg",
+    "https://www.yza.mx/dolac-10-mg---caja-con-20-capsulas-ketorolaco/MXYZ_7501300421531.html"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -58,6 +59,6 @@
     "encontrado_por": "gtin",
     "notas": "Requiere receta médica. Sin ficha del laboratorio; datos de dosis y registro tomados de una ficha de vademécum. El ketorolaco se ubicó en Musculoarticulares con Receta por su grupo ATC (AINE).",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, WeCare Pharma, 500x500): caja Dolac 10 mg ketorolaco, 20 cápsulas. La foto de Klyns era idéntica y se borró por duplicada."
+    "notas_imagenes": "1 foto nueva (tienda, YZA): frente de la caja Dolac 10 mg con 20 cápsulas, 1000x1000 px de origen, 791 px útiles. Se borró la vieja de WeCare (366 px). YZA tiene una segunda foto lateral (760 px) que no se guardó por su poco valor. Sin búsqueda web."
   }
 }

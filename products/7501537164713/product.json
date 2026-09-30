@@ -33,29 +33,30 @@
   },
   "imagenes": [
     {
-      "archivo": "7501537164713_1.jpg",
+      "archivo": "7501537164713_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/171704/7501537164713.jpg?v=637935383878400000",
-      "pagina": "https://www.klyns.mx/tribedoce-comp-c-30-grags-bruluart/p",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 400
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501537164713_1.jpg",
+      "pagina": "https://www.yza.mx/complejo-b-diclofenaco-1mg50mg50mg-30-grageas/MXYZ_7501537164713.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 662,
+      "lado_util": 612,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://curitek.com/producto/tribedoce-compuesto-grageas/",
     "https://www.klyns.mx/tribedoce-comp-c-30-grags-bruluart/p",
-    "https://bruluart.com/nuestros-productos/"
+    "https://bruluart.com/nuestros-productos/",
+    "https://www.yza.mx/complejo-b-diclofenaco-1mg50mg50mg-30-grageas/MXYZ_7501537164713.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en 5 fuentes. Bruluart lista Tribedoce Compuesto como complejo B con diclofenaco. Se marcó receta por contener diclofenaco y por clasificarse como Rx en una tienda. Posología no encontrada.",
-    "notas_imagenes": "1 foto de tienda (frente de la caja).",
+    "notas_imagenes": "1 foto nueva (tienda, YZA): frente de la caja de 30 grageas, 1000x1000 px de origen, 612 px útiles. Se borró la vieja de Klyns (400 px). Se descartó la de Curitek (800 px) por la marca de agua 'Curitek' en toda la imagen; Klyns solo tiene 500 px reales (su versión de 1200 px es una ampliación y no se usó). Sin búsqueda web.",
     "fecha": "2026-09-29"
   }
 }

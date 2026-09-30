@@ -30,51 +30,53 @@
   },
   "imagenes": [
     {
-      "archivo": "7501033956133_1.jpg",
+      "archivo": "7501033956133_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaCH.jpg?v=1685158040",
-      "pagina": "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 521,
-      "fecha": "2026-09-29",
-      "lado_util": 483
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501033956133_7.jpg",
+      "pagina": "https://www.fahorro.com/glucerna-suplemento-alimenticio-sabor-chocolate-237-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1563,
+      "lado_util": 1447,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7501033956133_2.jpg",
+      "archivo": "7501033956133_4.jpg",
       "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaCH_1.jpg?v=1685158040",
-      "pagina": "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 514,
-      "fecha": "2026-09-29",
-      "lado_util": 476
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw9cb03873/images/large/7501033956133_1.jpg",
+      "pagina": "https://www.yza.mx/glucerna-choco-237ml/MXYZ_7501033956133.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 968,
+      "lado_util": 897,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7501033956133_6.jpg",
+      "archivo": "7501033956133_5.jpg",
       "origen": "tienda",
-      "fuente_url": "https://cdn.shopify.com/s/files/1/0465/6981/6232/files/7501033956133_3.png?v=1727296066",
-      "pagina": "https://farmaciaherrera.com.mx/products/glucerna-sr-liq-237-ml-chocolate",
-      "ancho_original": 376,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 454
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw8c376bae/images/large/7501033956133_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/glucerna-choco-237ml/MXYZ_7501033956133.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 963,
+      "lado_util": 891,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://sanorim.mx/products/glucerna-sabor-chocolate-237-ml",
     "https://curitek.com/producto/glucerna-chocolate-237-ml/",
-    "https://farmaciaherrera.com.mx/products/glucerna-sr-liq-237-ml-chocolate"
+    "https://farmaciaherrera.com.mx/products/glucerna-sr-liq-237-ml-chocolate",
+    "https://www.fahorro.com/glucerna-suplemento-alimenticio-sabor-chocolate-237-ml.html",
+    "https://www.yza.mx/glucerna-choco-237ml/MXYZ_7501033956133.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "La tabla nutrimental se leyó de una imagen de una farmacia y podría corresponder a una versión anterior de la fórmula; confirmar con el empaque vigente. No se abrió la página del fabricante.",
-    "notas_imagenes": "3 fotos de tienda: dos de frente de la botella y la tabla nutrimental del reverso (375x500 escalada, calidad media); se descartaron una foto pequeña, un banner con texto y una vista trasera de baja resolución.",
+    "notas_imagenes": "3 fotos (tienda): _3.jpg de fahorro.com (original 1600 px, producto de 1447 px, frente), _4.jpg de yza.mx (1000 px, 897 px, frente) y _5.jpg de yza.mx (1000 px, 891 px, cara posterior). Botella Glucerna chocolate 237 ml con la etiqueta 'nueva fórmula'. Se borraron las 3 fotos anteriores (483, 476 y 454 px; una era la tabla nutrimental, del diseño anterior).",
     "fecha": "2026-09-29"
   }
 }

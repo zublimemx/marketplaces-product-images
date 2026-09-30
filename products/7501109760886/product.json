@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "PARCHE NEGRO SALICILATO DE METILO Y BELLADONA QUIFA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Parche Negro Promedic Metilo y Belladona 12.5 x 18.5 cm",
+  "descripcion": "Descripción:\nParche Negro Promedic es un parche rubefaciente tópico auxiliar en afecciones musculares leves. Contiene salicilato de metilo y extracto blando de belladona, entre otros componentes, en un parche adhesivo de 12.5 x 18.5 cm que se aplica directamente sobre la zona afectada. Se ubica dentro de los medicamentos de uso tópico con acción antiinflamatoria.\n\nBeneficios:\n- Rubefaciente tópico auxiliar en afecciones musculares leves\n- Útil en el tratamiento de la inflamación\n- Se aplica directamente sobre el área afectada\n- Formato de una pieza, listo para usar\n\nFórmula:\nCada parche contiene: salicilato de metilo 0.175 g, extracto blando de belladona 0.003 g, capsico 0.165 g, brea colofonia 0.235 g, óxido de zinc 0.165 g, carbonato de calcio 0.100 g, negro de humo 0.100 g, hule crepé 0.600 g y resinas adhesivas 1.535 g, sobre tela.\n\nModo de uso:\nAplique un parche sobre el área afectada según las recomendaciones del médico.\n\nPresentación:\n1 pieza de 12.5 cm de ancho por 18.5 cm de largo, en sobre individual. Elaborado por Química y Farmacia (Quifa), Perrigo.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Promedic",
+    "fabricante": "Perrigo (Química y Farmacia, Quifa)",
+    "linea": "Parche Negro",
+    "presentacion": "1 pieza de 12.5 x 18.5 cm",
+    "contenido_neto": 1,
+    "unidad_contenido": "pieza",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salicilato de metilo, extracto blando de belladona y capsico",
+    "concentracion": "Salicilato de metilo 0.175 g; extracto blando de belladona 0.003 g; capsico 0.165 g por parche",
+    "via_administracion": "Tópica",
+    "otros": "Dimensiones: ancho 12.5 cm x largo 18.5 cm; Rubefaciente tópico; Forma farmacéutica: parche; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501109760886_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501109760886_07be442c-e289-4565-be93-e4514ade8d25.jpg?v=1701389024&width=1800",
+      "pagina": "https://farmaciasanjorge.com/products/6994",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 846,
+      "lado_util": 784,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.actuamed.com.mx/marca/30293",
+    "https://medicinaslibertad.com/shop/7501109760886-parche-negro-promedic-12-5x-18-5-cm-pieza-c-1-19709",
+    "https://farmaciasanjorge.com/products/6994"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501109760886 confirmado como código de barras/SKU en dos tiendas (Parche Negro Promedic 12.5 x 18.5 cm, 1 pieza, Quifa/Perrigo). Fórmula del 'Negro' de una ficha de vademécum que agrupa varias presentaciones; incluye capsico además del salicilato y la belladona. Leyendas del empaque tomadas de la foto; sin advertencias específicas en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (Farmacias San Jorge, 1000 px), sobre del parche de frente. Se descartó una foto con marca de agua de la tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

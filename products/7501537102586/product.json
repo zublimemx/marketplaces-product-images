@@ -32,29 +32,30 @@
   },
   "imagenes": [
     {
-      "archivo": "7501537102586_1.jpg",
+      "archivo": "7501537102586_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/03/imgi_2_7501537102586-1.png",
-      "pagina": "https://phemedica.com.mx/product/brulin-dexametasona-8-mg-2-ml-sol-iny-c-3-amp-bruluart/",
-      "ancho_original": 591,
-      "alto_original": 591,
-      "lado_final": 513,
-      "fecha": "2026-09-29",
-      "lado_util": 475
+      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/dexametasona_brulin_solucion_inyectable_8_mg_2_ml_con_3_ampulas_7501537102586_7ec96d8f-4243-413e-ac1c-9428f1213e93.jpg?v=1763651808&width=1920",
+      "pagina": "https://farmaciaherrera.com.mx/products/dexametasona-brulin-solucion-inyectable-8-mg-2-ml-con-3-ampulas",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 731,
+      "lado_util": 677,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://phemedica.com.mx/product/brulin-dexametasona-8-mg-2-ml-sol-iny-c-3-amp-bruluart/",
     "https://sanorim.mx/products/brulin-dexametasona-8-mg-2-ml-caja-con-3-ampolletas-inyectables",
-    "https://vitau.mx/brulin-8mg2ml-caja-con-3-ampolletas-de-2ml-15061"
+    "https://vitau.mx/brulin-8mg2ml-caja-con-3-ampolletas-de-2ml-15061",
+    "https://farmaciaherrera.com.mx/products/dexametasona-brulin-solucion-inyectable-8-mg-2-ml-con-3-ampulas"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Las fuentes no detallan dosis, vía ni contraindicaciones; se dejó la indicación al médico. Clasificado como corticosteroide (hormonal).",
-    "notas_imagenes": "1 foto de tienda (Phemedica, 591 px), caja de frente. Se descartó una segunda foto porque el producto salía muy pequeño.",
+    "notas_imagenes": "Foto nueva 7501537102586_2.jpg: caja Brulin dexametasona 8 mg/2 mL con 3 ampolletas, de Farmacia Herrera, 1024x1024 originales, producto de 677 px (sobre el mínimo de 500, por debajo de los 800 preferidos), fondo blanco sin marcas. Borrada la foto anterior de Phemedica (591 px, 475 útiles). Revisados sin mejora: Sanorim (imágenes de otro producto), Farmarobles (640 px, producto de 264 px), Mexipharmacy (350 px), Actuamed (231 px), Farmagentoluca sin foto; Vitau no carga.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

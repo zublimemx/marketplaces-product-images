@@ -4,29 +4,71 @@
   "linea": "Farma",
   "nombre_sistema": "DIMEFOR 500 C 60 TABL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dimefor Metformina 500 mg 60 Tabletas",
+  "descripcion": "Descripción:\nDimefor es un medicamento antidiabético oral de Siegfried Rhein cuyo principio activo es el clorhidrato de metformina. Está indicado como tratamiento de primera línea en pacientes con diabetes mellitus tipo 2, en especial con sobrepeso, cuando la dieta prescrita y el ejercicio por sí solos no son suficientes para lograr un buen control de la glucosa en sangre. Esta presentación contiene 60 tabletas de 500 mg.\n\nCaracterísticas:\n- Ayuda a controlar la cantidad de glucosa (azúcar) en la sangre.\n- Disminuye la cantidad de glucosa que se absorbe de los alimentos y la que forma el hígado.\n- En adultos puede usarse solo o combinado con otros antidiabéticos orales o con insulina; en niños de 10 años en adelante y adolescentes, solo o combinado con insulina.\n\nComposición:\nCada tableta contiene metformina (clorhidrato) 500 mg.\n\nModo de uso:\nVía oral, junto con los alimentos. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 60 tabletas.\n\nAdvertencias:\nNo se use en el embarazo ni en la lactancia. No se recomienda su uso en niños menores de 10 años. Está contraindicado en caso de hipersensibilidad conocida al fármaco, insuficiencia renal grave, insuficiencia hepática, alcoholismo, insuficiencia respiratoria y desnutrición importante. Suspender su uso para realizar estudios con contrastes yodados. Su venta requiere receta médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dimefor",
+    "fabricante": "Siegfried Rhein",
+    "linea": "Dimefor",
+    "presentacion": "Caja con 60 tabletas",
+    "contenido_neto": 60,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 60,
+    "principio_activo": "Metformina (clorhidrato)",
+    "concentracion": "500 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "327M95 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; antidiabético oral"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501300408099_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20250807_1021665.jpg",
+      "pagina": "https://www.benavides.com.mx/dimefor-500-mg-metformina-60-ud-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 864,
+      "lado_util": 800,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501300408099_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/380611/380611_01.webp?v=e7757b40",
+      "pagina": "https://www.benavides.com.mx/dimefor-500-mg-metformina-60-ud-tabletas",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 598,
+      "lado_util": 554,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/siegfried-dimefor-500-mg-tab-60-metformina-60-pz-418771/p",
+    "https://www.medicamentosplm.com/Home/productos/dimefor.tabletas/170/101/7289/210",
+    "https://www.benavides.com.mx/dimefor-500-mg-metformina-60-ud-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda marca 'receta no obligatoria', pero la información oficial (PLM) y el registro SSA IV indican que su venta requiere receta. Categoría de venta libre digestivos/metabólicos (grupo antidiabético); la de receta va en categoria_rx_sugerida.",
+    "notas_imagenes": "2 fotos de tienda: frente en ángulo (864 px) y vista superior (598 px); ambas dicen Dimefor 500 mg, caja con 60 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

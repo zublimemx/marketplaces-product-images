@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "BRONCOLIN VITRO MIXTO C 100",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Paletas Broncolin Sabores Mixtos Vitrolero 100 Piezas",
+  "descripcion": "Descripción:\nBroncolin Paletas Sabores Mixtos es un surtido de paletas de caramelo macizo con miel de abeja y extractos herbales, en presentación de vitrolero con 100 piezas. Están indicadas para aliviar los síntomas y malestares de la tos y del resfriado común, principalmente la garganta irritada. Es un remedio herbolario en formato de paleta, con sabores surtidos.\n\nBeneficios:\n- Paletas de caramelo macizo con miel de abeja y extractos herbales\n- Apoyan el alivio de los malestares de la tos y del resfriado común, en especial la garganta irritada\n- Sabores surtidos, como naranja, limón y cereza\n- Práctico vitrolero con 100 paletas\n\nComposición:\nSegún la ficha del producto, contiene ácido cítrico, eucalipto, miel, mentol, propóleo, salvia y sauco negro.\n\nPresentación:\nVitrolero con 100 paletas de sabores mixtos, con contenido neto de 1 kg.\n\nAdvertencias:\nConsulte a su médico. El consumo de este producto es responsabilidad de quien lo recomienda y de quien lo usa. Manténgase fuera del alcance de los niños.",
+  "ficha": {
+    "marca": "Broncolin",
+    "linea": "Paletas",
+    "variante": "Sabores mixtos",
+    "presentacion": "Vitrolero con 100 paletas",
+    "contenido_neto": 100,
+    "unidad_contenido": "paletas",
+    "unidades_por_envase": 100,
+    "sabor_aroma": "Surtido: naranja, limón y cereza",
+    "otros": "Contenido neto: 1 kg; Con miel de abeja y extractos herbales; Remedio herbolario; Formato de venta: vitrolero"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,54 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "714706903182_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4941473/64c146f1dab09-c7063b2d-918d-499e-b732-c67b9fab0b03-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16984804/paletas-broncolin-sabor-mixto-vitrolero-100-piezas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1302,
+      "lado_util": 1206,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "714706903182_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4941473/64c146f92b3d8-36c957e7-ab96-4c77-844c-a02059c29074-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16984804/paletas-broncolin-sabor-mixto-vitrolero-100-piezas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1313,
+      "lado_util": 1216,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "714706903182_4.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/Imagenes_de_planograma__8934ec72-7143-47cc-a94d-51027d3d3325__00714706903182.1.jpg?v=1734652779&width=1200",
+      "pagina": "https://farmaciasanjorge.com/products/16512",
+      "ancho_original": 550,
+      "alto_original": 574,
+      "lado_final": 599,
+      "lado_util": 555,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.claroshop.com/producto/16984804/paletas-broncolin-sabor-mixto-vitrolero-100-piezas",
+    "https://farmaciasanjorge.com/products/16512",
+    "https://grupofarmapronto.com/producto/broncolin-mixto-vitrol-pal-c-100/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 714706903182 (12 dígitos) confirmado como GTIN/SKU en varias tiendas para el vitrolero mixto con 100 paletas. La descripción y la composición vienen de una ficha de tienda y no de la marca; los sabores del vitrolero varían entre versiones del empaque (eucalipto o miel, naranja, limón y cereza). No es medicamento con receta; categoría por uso (tos y garganta), igual que otros productos Broncolin ya cargados.",
+    "notas_imagenes": "3 fotos de tienda: 2 de Claroshop (1600 px, vitrolero de frente y con paletas al frente) y 1 de Farmacias San Jorge (550 px, versión con leyenda '1 kg, 100 paletas'). Se descartó un acercamiento recortado.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -42,7 +42,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "Identificado por nombre: una farmacia lista 'Magnesia Coyoacán 7 gr, 3 pzas.'. El GTIN 7501417007666 no apareció en ninguna página; las páginas de otras tiendas traen otros GTIN (7501417010253 para el cubo individual y 7501417005044 para un paquete con obsequio). El empaque se declara suplemento alimenticio, por eso va en Suplementos Alimenticios aunque una farmacia lo clasifica como antiácido. Las advertencias son generales, no del empaque.",
-    "notas_imagenes": "Sin fotos. Superfarmacia Universal solo ofrece una imagen de 240x240 (rechazada por pequeña) y es del cubo individual; Klyns (API de catálogo) tiene solo el cubo individual GTIN 7501417010253 ('empaque con un terrón'), no el paquete de 3; Farmacias Guadalajara (la ficha 'Magnesia Coyoacán 7 gr, 3 pzas.') no abre por curl (error HTTP/2/respuesta vacía) y por WebFetch no expone imagen; Medina no tiene el producto.",
+    "notas_imagenes": "Sin fotos válidas. Rappi (3 cubos juntos, 1024 px, sin marca de tienda) y Farmacia París (cubo individual) muestran el envoltorio con el sello promocional '30% gratis' impreso, por lo que se descartaron por texto promocional. Si el dueño acepta ese sello, la foto adecuada es la de Rappi: https://www.rappi.com.mx/p/magnesia-coyoacan-suplemento-7g-3-p-87733. Farmacias San Jorge (GTIN 7501417005044) es el paquete con tubo oftálmico de obsequio (otra presentación); Guadalajara y Purex no abren (error de conexión).",
     "fecha": "2026-09-29"
   }
 }

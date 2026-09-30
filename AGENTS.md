@@ -18,7 +18,7 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 
 | Tarea | Cómo |
 |---|---|
-| Sesión 7: investigar los productos que faltan y bajar fotos | `python scripts/seleccionar_lote.py --sesion 7 --fotos`; luego cada lote con `docs/agentes/investigacion.md` o `docs/agentes/fotos.md`; integrar con `scripts/integrar_resultados.py` |
+| Productos que faltan (8 sin verificar, 25 sin fotos; la investigación automática terminó en la sesión 7) | Con datos del dueño o nuevas fuentes: `python scripts/seleccionar_lote.py --sesion 8 --fotos`; cada lote con `docs/agentes/investigacion.md` o `docs/agentes/fotos.md`; integrar con `scripts/integrar_resultados.py` |
 | Precio de la publicación más vendida y promedio de competencia | `docs/MERCADOLIBRE_API.md` + `scripts/meli_precios.py` (necesita credenciales de la API) |
 | Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con `scripts/meli_precios.py --fotos-catalogo` |
 | Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py …` |

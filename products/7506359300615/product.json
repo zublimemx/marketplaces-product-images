@@ -31,18 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506359300615_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.plmconnection.com/plmservices/PharmaSearchEngine/Mexico/DEF/SIDEF/400x400/esteripharma_estericide_sol_120ml.png",
+      "pagina": "https://www.medicamentosplm.com/Home/productos/estericide.solucion.antiseptica.solucion.topica/1365/101/33563/186",
+      "ancho_original": 979,
+      "alto_original": 979,
+      "lado_final": 1050,
+      "lado_util": 972,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/estericide.solucion.antiseptica.solucion.topica/1365/101/33563/186",
-    "https://www.walmart.com.mx/ip/estericide-solucion-antiseptica-spray-para-lesiones-120-ml-estericide-120-ml/00750635930061"
+    "https://www.walmart.com.mx/ip/estericide-solucion-antiseptica-spray-para-lesiones-120-ml-estericide-120-ml/00750635930061",
+    "https://www.sanborns.com.mx/producto/318338/estericide-antisep-120-ml-spy"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "La ficha de PLM lista varias presentaciones sin mencionar el atomizador; la presentación de 120 ml con atomizador se confirmó en tiendas. Se clasificó como venta libre en dermatológicos por no haber categoría específica de antisépticos.",
-    "notas_imagenes": "Sin fotos válidas: la única imagen de 120 ml con el GTIN traía marca de agua de la tienda y se borró; la de PLM mide 400 px y el script la rechaza. Las tiendas grandes no exponen la imagen.",
+    "notas_imagenes": "1 foto (tienda, origen PLM/Esteripharma): 7506359300615_1.jpg, frente del frasco con atomizador de 120 mL, fondo limpio, sin marcas de agua ni texto promocional. Viene de plmconnection.com (imagen de la ficha de medicamentosplm.com); aunque la URL dice 400x400, el archivo real mide 979x979 px, por lo que sí cumple (la sesión 6 la había descartado por error). Descartadas: Kali (marca de agua de la tienda), Sanborns (imagen 403), Walmart (imagen genérica 'próximamente'). Sanborns confirma el GTIN 7506359300615 como Estericide Antisep 120 ml Spy.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

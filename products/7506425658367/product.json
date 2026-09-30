@@ -32,17 +32,16 @@
   "imagenes": [],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-supreme/",
     "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
-    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-80-pz.html"
+    "https://www.huggies.com.mx/productos/huggies-supreme/"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "nombre",
-    "notas": "No apareció ninguna ficha del paquete combinado con este GTIN. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 6 más toallitas Supreme de 80 piezas; \"C/5\" es ambiguo y se desconoce cuántos pañales trae. Rango de peso confirmado en la página oficial de Huggies; características del pañal tomadas de la ficha de Supreme Etapa 6 de 36 piezas. Verificar cantidades contra el empaque antes de publicar.",
-    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las fotos de pañales o toallitas sueltas no representan el producto vendido. La página oficial rechaza la descarga automática y Amazon bloquea el acceso.",
+    "notas": "La búsqueda con el GTIN y el nombre solo devolvió pañales Supreme Etapa 6 en otras presentaciones (36 y 120 piezas) y toallitas sueltas; ninguna ficha del paquete combinado con este GTIN. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 6 más toallitas Supreme de 80 piezas; 'C/5' es ambiguo y se desconoce cuántos pañales trae. Características del pañal tomadas de la ficha de Supreme Etapa 6 de 36 piezas (Dermatest 5 estrellas confirmado); el rango de peso (más de 13.5 kg) viene de la sesión 6 y no se pudo reconfirmar porque la página oficial devolvió 403. Verificar cantidades y peso contra el empaque antes de publicar.",
+    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las fotos de pañales o toallitas sueltas no representan el producto vendido. La página oficial de Huggies devuelve 403.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

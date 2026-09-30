@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "SAMYR 500MG C 40 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Samyr 500 mg Ademetionina 40 Tabletas",
+  "descripcion": "Descripción:\nSamyr es un medicamento de Abbott cuyo principio activo es la ademetionina (S-adenosilmetionina), presentada como butanodisulfonato en tabletas de 500 mg. Está indicado en adultos para el tratamiento de la colestasis intrahepática en estados precirróticos (insuficiencia hepática, hepatitis, esteatohepatitis, fibrosis) y cirrosis, así como en la colestasis intrahepática del embarazo.\n\nCaracterísticas:\n- Principio activo: ademetionina, una molécula presente de forma natural en el organismo que participa en las vías de transmetilación, transulfuración y síntesis de poliaminas.\n- De acuerdo con su información para prescribir, incrementa los niveles de glutatión hepático en pacientes con padecimientos hepáticos.\n- Presentación en tabletas de 500 mg para administración por vía oral.\n\nComposición:\nCada tableta contiene butanodisulfonato de ademetionina equivalente a 500 mg de iones de ademetionina. Excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Las tabletas se deben deglutir sin masticar y, para una mejor absorción, tomarse en ayunas. Extraiga la tableta del empaque de aluminio hasta el momento de usarla; si presenta una coloración amarillenta, no la consuma. La dosis y la duración del tratamiento las determina el médico.\n\nPresentación:\nCaja con 40 tabletas de 500 mg en envase de burbuja.\n\nAdvertencias:\nNo debe usarse en personas con defectos genéticos del ciclo de la metionina ni con hipersensibilidad a la ademetionina o a los componentes de la fórmula. Durante el embarazo y la lactancia solo debe emplearse por indicación médica. Puede causar ansiedad, insomnio ligero, náusea, dolor de cabeza, pirosis y diarrea. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Samyr",
+    "fabricante": "Abbott Laboratories de México",
+    "presentacion": "Caja con 40 tabletas",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 40,
+    "principio_activo": "Ademetionina (butanodisulfonato)",
+    "concentracion": "500 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Empaque: envase de burbuja dentro de caja"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7501033955969_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4503-large_default/comprar-samyr-500-mg-caja-con-40-tabletas.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/125-comprar-samyr-500-mg-caja-con-40-tabletas.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 759,
+      "lado_util": 703,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501033955969_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://www.abbottienda.com/4504-large_default/comprar-samyr-500-mg-caja-con-40-tabletas.jpg",
+      "pagina": "https://www.abbottienda.com/farmaceutica/125-comprar-samyr-500-mg-caja-con-40-tabletas.html",
+      "ancho_original": 800,
+      "alto_original": 800,
+      "lado_final": 767,
+      "lado_util": 710,
+      "fecha": "2026-09-29"
+    }
+  ],
+  "url_oficial": "https://www.abbottienda.com/farmaceutica/125-comprar-samyr-500-mg-caja-con-40-tabletas.html",
+  "fuentes": [
+    "https://www.benavides.com.mx/samyr-500-mg-ademetionina-40-tabletas",
+    "https://www.medicamentosplm.com/Home/productos/samyr.tabletas/3/101/9644/210",
+    "https://www.abbottienda.com/farmaceutica/125-comprar-samyr-500-mg-caja-con-40-tabletas.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia en línea lo marca como receta no obligatoria y otra lo lista entre medicamentos con receta; confirmar condición de venta con el empaque o el registro sanitario.",
+    "notas_imagenes": "2 fotos de frente y ángulo del empaque de 40 tabletas, de la tienda en línea de Abbott (fabricante), de 759 y 767 px; se descartó una foto de 561 px de una farmacia por menor resolución.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

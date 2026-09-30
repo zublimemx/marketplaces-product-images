@@ -4,29 +4,61 @@
   "linea": "Farma",
   "nombre_sistema": "TRIPLIXAM 5/1.25/5 CPR C30",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Triplixam 5 mg/1.25 mg/5 mg 30 Comprimidos",
+  "descripcion": "Descripción:\nTriplixam es un medicamento antihipertensivo de combinación en dosis fija que reúne en un solo comprimido perindopril arginina, indapamida y amlodipino. Está indicado como terapia de sustitución para el tratamiento de la hipertensión arterial esencial en pacientes que ya están controlados con la combinación fija de perindopril/indapamida y con amlodipino, administrados al mismo nivel de dosis. Es un medicamento de Servier; esta presentación contiene 30 comprimidos de 5 mg/1.25 mg/5 mg.\n\nFórmula:\nCada comprimido recubierto con película contiene:\n- Perindopril arginina 5 mg (equivalente a 3.395 mg de perindopril).\n- Indapamida 1.25 mg.\n- Besilato de amlodipino 6.935 mg (equivalente a 5 mg de amlodipino).\n- Excipiente c.b.p. 1 comprimido.\n\nModo de uso:\nVía oral. Tómelo exactamente como lo indique su médico; la dosis y la duración del tratamiento las determina el especialista.\n\nPresentación:\nCaja de cartón con 30 comprimidos recubiertos con película de 5 mg/1.25 mg/5 mg e instructivo anexo.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No se use en el embarazo ni la lactancia.\n- No lo use si es alérgico a alguno de sus componentes, a otras sulfamidas, a derivados de dihidropiridinas o a otros inhibidores de la ECA, ni si ha tenido angioedema con un inhibidor de la ECA.\n- Está contraindicado en insuficiencia renal grave, insuficiencia hepática grave, hipopotasemia, hipotensión grave y choque, entre otros casos indicados en el instructivo.\n- Conserve la caja bien cerrada, a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Triplixam",
+    "fabricante": "Servier",
+    "linea": "Triplixam",
+    "variante": "5 mg/1.25 mg/5 mg",
+    "presentacion": "Caja con 30 comprimidos recubiertos con película",
+    "contenido_neto": 30,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 30,
+    "principio_activo": "Perindopril arginina, indapamida, amlodipino (besilato)",
+    "concentracion": "Perindopril arginina 5 mg; indapamida 1.25 mg; amlodipino 5 mg por comprimido",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos",
+    "registro_sanitario": "101M2017 SSA IV",
+    "otros": "Antihipertensivo de combinación en dosis fija; Requiere receta médica; Hecho en Irlanda por Servier (Ireland) Industries; Importado y distribuido por Beckman Laboratories de México; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5391189310673_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/5/3/5391189310673.jpg",
+      "pagina": "https://www.fahorro.com/triplixam-5-mg-1-25-mg-5-mg-oral-30-comprimidos.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1641,
+      "lado_util": 1520,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/home/productos/triplixam-comprimidos-recubiertos-con-pelicula/95/101/63401/313",
+    "https://www.fahorro.com/triplixam-5-mg-1-25-mg-5-mg-oral-30-comprimidos.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado: título de una farmacia en línea con el GTIN 5391189310673 y foto de otra tienda nombrada con el GTIN, con la misma presentación (5/1.25/5 mg, 30 comprimidos). Composición, indicación, advertencias y registro (101M2017 SSA IV) de la monografía PLM, que trae la leyenda 'Su venta requiere receta médica'; una tienda marca 'no requiere receta', se prefirió la etiqueta. Fabricante: Servier (Ireland) Industries para Laboratorios Servier, importado por Beckman Laboratories de México. Sin página del fabricante accesible.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja de 30 comprimidos, 1641 px). No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

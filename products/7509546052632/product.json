@@ -15,7 +15,8 @@
     "contenido_neto": 75,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Incluye cepillo dental y crema dental Triple Acción; Beneficios de la crema: protección anticaries, dientes más blancos y aliento fresco"
+    "otros": "Incluye cepillo dental y crema dental Triple Acción; Crema dental Triple Acción Menta Original con flúor (anticaries); Beneficios de la crema: protección anticaries, dientes más blancos y aliento fresco; Efecto blanqueador",
+    "sabor_aroma": "Menta Original"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,14 +33,16 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://www.amazon.com.mx/Colgate-Cepillo-Dental-75-ml/dp/B06XPHPZWP"
+    "https://www.amazon.com.mx/Colgate-Cepillo-Dental-75-ml/dp/B06XPHPZWP",
+    "https://www.heb.com.mx/colgate-crema-dental-triple-accion-menta-original-75-ml-366819/p",
+    "https://www.walmart.com.mx/ip/x/00750954605263"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN no se confirmó en ninguna ficha; se identificó por el nombre (cepillo Colgate Triple Acción con crema dental de 75 ml). La ficha de Amazon habla de un paquete de 2 piezas, presentación que puede diferir. Se ignoró la caducidad del nombre del sistema (oct 26).",
-    "notas_imagenes": "Sin fotos válidas: la foto del paquete (Amazon B06XPHPZWP) trae la leyenda promocional 'crema dental gratis' y las demás muestran solo la caja de crema dental o gráficos con texto. Si se acepta la leyenda, esa foto de Amazon es la única del paquete completo.",
+    "notas_imagenes": "Sin fotos válidas. HEB y Walmart confirman el GTIN 7509546052632 como cepillo + pasta Colgate Triple Acción de 75 ml (1 pieza + 75 ml). Descartadas tras verlas: 6 fotos de HEB (720 px; una con sello 'CREMA DENTAL GRATIS', una con texto de la caja, una solo de la caja de crema, tres gráficos publicitarios), 2 fotos de Del Sol (2000 px, paquete correcto pero con sello 'PRECIO ESPECIAL'), Walmart (imagen genérica 'próximamente'). Benavides ofrece otra variante (Twister) y Colgate oficial no lista este combo. Si el dueño acepta el sello promocional, las de Del Sol son las únicas de 2000 px del paquete completo: https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546052632-1.jpeg",
     "fecha": "2026-09-29",
     "sesion": 6
   }

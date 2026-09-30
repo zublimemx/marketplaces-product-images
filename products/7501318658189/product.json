@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "ACTRON PLUS 400/100MG C10 CAPS IBUPROFENO CAFEINA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Actron Plus Ibuprofeno Cafeína 400/100 mg 10 Cápsulas",
+  "descripcion": "Descripción:\nActron Plus es un analgésico y antiinflamatorio no esteroideo en cápsulas que combina ibuprofeno (400 mg) y cafeína (100 mg) en cada cápsula. La cafeína se incluye como coadyuvante analgésico. Se presenta en caja con 10 cápsulas para administración por vía oral.\n\nBeneficios:\n- Alivio de la cefalea de diversa intensidad y etiología.\n- Alivio de la migraña.\n- Alivio de odontalgias, por ejemplo el dolor tras extracciones dentales.\n- Coadyuvante en infecciones de vías respiratorias, para el tratamiento del resfriado común o la influenza y el alivio de la fiebre.\n\nFórmula:\nCada cápsula contiene ibuprofeno 400 mg y cafeína 100 mg, con excipiente c.b.p. 1 cápsula.\n\nModo de uso:\nVía oral, con suficiente líquido. Adultos y niños mayores de 12 años: una cápsula cada 8 horas según la intensidad del dolor, sin exceder 3 cápsulas al día, o como lo indique su médico.\n\nPresentación:\nCaja con 10 cápsulas de 400 mg/100 mg.\n\nAdvertencias:\n- No lo use si es alérgico al ibuprofeno, a la cafeína o a otros antiinflamatorios no esteroideos, ni si tiene antecedentes de úlcera, sangrado o perforación gastrointestinal, insuficiencia cardiaca severa o insuficiencia hepática o renal severa.\n- No lo use durante el último trimestre del embarazo.\n- Use la dosis efectiva más baja durante el menor tiempo posible.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Actron",
+    "fabricante": "Bayer",
+    "linea": "Actron",
+    "variante": "Plus",
+    "presentacion": "Caja con 10 cápsulas",
+    "contenido_neto": 10,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Ibuprofeno, cafeína",
+    "concentracion": "Ibuprofeno 400 mg; cafeína 100 mg por cápsula",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "otros": "Analgésico y antiinflamatorio no esteroideo; Venta sin receta; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501318658189_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20230217_780790.jpg",
+      "pagina": "https://www.fahorro.com/actron-plus-400-100-mg-oral-10-capsulas.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 861,
+      "lado_util": 798,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/actron-plus-400-100-mg-oral-10-capsulas.html",
+    "https://www.medicamentosplm.com/Home/productos/actron.plus.capsulas/22/101/6121/14",
+    "https://www.benavides.com.mx/actron-400-mg-100-mg-cafeina-ibuprofeno-10-ud-capsulas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en una ficha de tienda (Actron Plus 400/100 mg, 10 cápsulas) con presentación igual; composición, indicaciones y dosis de la monografía PLM (marcada 'información no actualizada'). La caja lleva el logotipo de Bayer; una tienda lista como laboratorio a Sanfer, sin confirmar. Sin página del fabricante accesible (actron.com.mx y sanfer.com.mx fallaron). Receta 'No' según las fichas de tienda.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja de 10 cápsulas, 861 px). Se borró otra foto del mismo producto porque traía recuadros gráficos con texto ('10 Cápsulas', '400/100 mg'). No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

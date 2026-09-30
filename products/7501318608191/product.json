@@ -33,29 +33,41 @@
   },
   "imagenes": [
     {
-      "archivo": "7501318608191_1.jpg",
+      "archivo": "7501318608191_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw653c6b63/images/large/7501318608191_1.jpg",
-      "pagina": "https://www.yza.mx/xarelto-15mg-28-comp/MXYZ_7501318608191.html",
-      "ancho_original": 993,
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750131860819L1.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
       "alto_original": 1000,
-      "lado_final": 522,
-      "fecha": "2026-09-29",
-      "lado_util": 484
+      "lado_final": 884,
+      "lado_util": 819,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501318608191_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.farmaleal.com.mx/cdn/shop/products/7501318608191.jpg?v=1743746128",
+      "pagina": "https://www.farmaleal.com.mx/products/xarelto-15-mg-28-cpr-7501318608191",
+      "ancho_original": 1000,
+      "alto_original": 667,
+      "lado_final": 741,
+      "lado_util": 687,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmalisto.com.mx/medicamentos-con-receta-medica/12227-xarelto-15-mg-rivaroxaban-28-comprimidos-bayer-rx-7501318608191.html",
     "https://www.benavides.com.mx/xarelto-15-mg-rivaroxaban-28-comprimidos",
-    "https://www.fahorro.com/xarelto-15-mg-oral-28-comprimidos.html"
+    "https://www.fahorro.com/xarelto-15-mg-oral-28-comprimidos.html",
+    "https://www.farmaleal.com.mx/products/xarelto-15-mg-28-cpr-7501318608191"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (URL de farmacia con 7501318608191, Bayer, 28 comprimidos de 15 mg). El nombre del sistema trae 'MARZO 27' (caducidad), ignorada. Una farmacia lo lista con 'receta no obligatoria', pero es un anticoagulante y otra ficha indica que requiere receta; se marca Sí. Las indicaciones son las de la información general del producto para la dosis de 15 mg; verificar contra el instructivo.",
-    "notas_imagenes": "1 foto de frente (tienda, 522 px, resolución baja) de la caja Xarelto 15 mg, 28 comprimidos. Se descartó otra copia idéntica más borrosa y una foto de 1600 px con banner de texto añadido.",
+    "notas_imagenes": "Fotos nuevas: 7501318608191_2.jpg (caja Xarelto 15 mg 28 comprimidos de frente, 1000x1000, producto de 819 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió)) y 7501318608191_3.jpg (misma caja en ángulo, Farmaleal, 1000x667, 687 px útiles). Se descartó la primera imagen de ese CDN porque trae insignias añadidas '28 Comprimidos / 15 mg'. Borrada la foto anterior de Yza (484 px útiles). Benavides publica una versión de 1000 px, pero es ampliación de la de 520 px: no se usó.",
     "fecha": "2026-09-29",
     "sesion": 5
   }

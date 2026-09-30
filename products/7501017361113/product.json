@@ -4,14 +4,22 @@
   "linea": "Mark",
   "nombre_sistema": "PLO KLEENEX C/180",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Pañuelos Desechables Kleenex Hoja Doble 180 Piezas",
+  "descripcion": "Descripción:\nPañuelos desechables Kleenex de hoja doble, resistentes y absorbentes, en caja con 180 piezas. Están diseñados para la limpieza de nariz, rostro y manos, y su caja con diseño decorativo es ideal para tener a la mano en casa, escuela u oficina.\n\nCaracterísticas:\n- Hoja doble para un buen rendimiento, con la suavidad y resistencia que caracterizan a la marca.\n- Ligeros y suaves al tacto.\n- Cada pañuelo mide 21.5 x 21.0 cm.\n- Caja con diseño decorativo (el diseño puede variar).\n\nPresentación:\nCaja con 180 pañuelos desechables.",
+  "ficha": {
+    "marca": "Kleenex",
+    "fabricante": "Kimberly-Clark",
+    "presentacion": "Caja",
+    "contenido_neto": 180,
+    "unidad_contenido": "pañuelos",
+    "unidades_por_envase": 180,
+    "otros": "Tipo: pañuelos desechables de hoja doble; Medidas por pañuelo: 21.5 x 21.0 cm; Formato de venta: caja individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM191697",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Pañuelos Desechables",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +27,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501017361113_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501017361113-1.jpeg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/panuelos-klenex-cuadros-180-piezas",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1950,
+      "lado_util": 1806,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/panuelos-klenex-cuadros-180-piezas",
+    "https://www.chedraui.com.mx/panuelos-faciales-kleenex-180-panuelos-3004149/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El diseño de la caja puede variar entre lotes.",
+    "notas_imagenes": "1 foto de frente de la caja (1950 px), de una tienda departamental; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501314701957_1.jpg",
+      "archivo": "7501314701957_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20230217_926558.jpg",
-      "pagina": "https://www.benavides.com.mx/adel-250-mg-5-ml-claritromicina-60-ml-suspension",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 416
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750131470195L1.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 867,
+      "lado_util": 803,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -55,7 +55,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN 7501314701957 aparece en varias tiendas en línea para Adel suspensión 250 mg/5 ml, 60 ml. Indicaciones, posología, fabricante (Laboratorios Senosiain) y registro de la suspensión (506M97 SSA IV) tomados de PLM. Las advertencias sobre alergia y embarazo son generales para macrólidos.",
-    "notas_imagenes": "1 foto de tienda con el frente de la caja Adel 250 mg/5 ml, suspensión, granulado para 60 ml; resolución original 520 px, sin mejor fuente.",
+    "notas_imagenes": "Foto nueva 7501314701957_2.jpg: caja Adel claritromicina 250 mg/5 mL, 60 mL, 1000x1000, producto de 803 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartó la primera imagen de ese CDN por traer la leyenda 'Requiere receta médica.' de la tienda. Borrada la foto anterior de Benavides (520 px, 416 útiles; su variante de 1000 px es ampliación).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "CEP DENT PRO D-DUT 2X1MED",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Cepillo Dental Oral-B Pro Doble Acción Mayor Alcance 2 Pzas",
+  "descripcion": "Descripción:\nEl cepillo dental Oral-B Pro Doble Acción Mayor Alcance, de la familia Pro Doble Acción, está diseñado para ayudar a combatir la placa dental y contribuir a mantener los dientes saludables. Esta presentación 2x1 incluye 2 cepillos de tamaño mediano en colores surtidos.\n\nCaracterísticas:\n- Cabeza con cerdas alargadas en la punta que ayudan a limpiar lugares difíciles de alcanzar.\n- Cerdas Doble Acción: las centrales medianas limpian el esmalte dental y las laterales, de textura suave, masajean las encías.\n- Mango antideslizante con mayor área de agarre para una limpieza cómoda.\n- Tamaño mediano.\n\nModo de uso:\nCepille sus dientes diariamente después de cada comida, por lo menos 3 veces al día o como lo recomiende su dentista.\n\nPresentación:\nPaquete 2x1 con 2 cepillos dentales medianos.\n\nAdvertencias:\nCambie su cepillo cada 3 meses.",
+  "ficha": {
+    "marca": "Oral-B",
+    "fabricante": "Procter & Gamble",
+    "linea": "Pro Doble Acción",
+    "variante": "Mayor Alcance",
+    "presentacion": "Paquete 2x1 con 2 cepillos",
+    "contenido_neto": 2,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 2,
+    "otros": "Tamaño: mediano; Colores surtidos; Cerdas de nailon; Formato de venta: 2x1"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501006711387_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501006711387-1.jpeg?h=1400",
+      "pagina": "https://www.delsol.com.mx/cepillo-dental-pro-doble-accion-mayor-alcance-60m-con-2-pza",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1945,
+      "lado_util": 1801,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/cepillo-dental-pro-doble-accion-mayor-alcance-60m-con-2-pza",
+    "https://www.fahorro.com/cepillo-dent-pro-d-duty-enc-pz-2.html",
+    "https://www.amazon.com.mx/Cepillo-Alcance-Mediano-Colores-Surtidos/dp/B00WQSG0EY"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Es la versión de 2 piezas (2x1) del cepillo Oral-B Pro Doble Acción Mayor Alcance mediano. La marca aparece como 'Pro' en algunas tiendas; el fabricante P&G viene de la ficha de la versión individual (GTIN 7501086472048).",
+    "notas_imagenes": "1 foto de tienda (1,945 px): blíster 2x1 de frente. Se descartó una segunda foto de un empaque '2 pack' de diseño distinto.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

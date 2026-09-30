@@ -34,28 +34,29 @@
   },
   "imagenes": [
     {
-      "archivo": "7501017366316_1.jpg",
+      "archivo": "7501017366316_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciagloria.mx/11668-large_default/panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.jpg",
-      "pagina": "https://farmaciagloria.mx/Panales_y_toallitas_humedas/11527-panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.html",
-      "ancho_original": 643,
-      "alto_original": 674,
-      "lado_final": 727,
-      "fecha": "2026-09-29",
-      "lado_util": 451
+      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/307061-1000-1000/7501017366316.jpg?v=639060068392900000",
+      "pagina": "https://www.lagranbodega.com.mx/kleen-bebe-suavelastic-max-jbo-14-piezas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 896,
+      "lado_util": 830,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciagloria.mx/Panales_y_toallitas_humedas/11527-panal-kleenbebe-suavelastic-unisex-jumbo-etapa-5-con-14-piezas.html",
-    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-jumbo-14-piezas-etapa-5-genero-sin-genero-talla-jumbo-j/p/MLM19805005"
+    "https://www.mercadolibre.com.mx/panales-kleenbebe-suavelastic-jumbo-14-piezas-etapa-5-genero-sin-genero-talla-jumbo-j/p/MLM19805005",
+    "https://www.lagranbodega.com.mx/kleen-bebe-suavelastic-max-jbo-14-piezas/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "Catálogo ML MLM19805005 tomado del resultado de búsqueda (coincide en marca, línea, talla J, etapa 5 y 14 piezas); no se pudo abrir la ficha. Una farmacia indica peso sugerido de 11 a 14.5 kg, no verificado, por eso no se incluyó.",
-    "notas_imagenes": "1 foto de tienda (paquete de frente, 674x674); no se pudo abrir la ficha de catálogo de Mercado Libre para tomar fotos.",
+    "notas_imagenes": "1 foto (tienda): _2.jpg de lagranbodega.com.mx (original 1000 px, producto de 830 px), Kleenbebé Suavelastic Jumbo etapa 5 con 14 piezas, de frente, sin logotipos de tienda ni precios. Se borró la foto anterior de farmaciagloria (451 px). No hallé una segunda foto de 500 px o más.",
     "fecha": "2026-09-29"
   }
 }

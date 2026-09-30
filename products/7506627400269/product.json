@@ -17,7 +17,8 @@
     "concentracion": "10 mg/1000 mg por tableta",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Forma farmacéutica: tabletas de liberación prolongada; Genérico; Condición de venta: con receta médica"
+    "otros": "Forma farmacéutica: tabletas de liberación prolongada; Genérico; Condición de venta: con receta médica",
+    "registro_sanitario": "046M2025 SSA IV"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,28 +34,40 @@
   },
   "imagenes": [
     {
-      "archivo": "7506627400269_1.jpg",
+      "archivo": "7506627400269_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20251121_1050887.jpg",
-      "pagina": "https://www.benavides.com.mx/generico-de-marca-10-mg-dapagliflozina-1000-mg-metformina-28-tabletas",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 450
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7506627400269_1.jpg",
+      "pagina": "https://www.yza.mx/gm-dapagliflozina-metformina-28-tabs/MXYZ_7506627400269.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 590,
+      "lado_util": 547,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506627400269_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7506627400269_2.jpg",
+      "pagina": "https://www.yza.mx/gm-dapagliflozina-metformina-28-tabs/MXYZ_7506627400269.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 598,
+      "lado_util": 554,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.benavides.com.mx/generico-de-marca-10-mg-dapagliflozina-1000-mg-metformina-28-tabletas",
-    "https://www.medicamentosplm.com/home/productos/xigduo-xr-tabletas/15/101/60625/210"
+    "https://www.medicamentosplm.com/home/productos/xigduo-xr-tabletas/15/101/60625/210",
+    "https://www.yza.mx/gm-dapagliflozina-metformina-28-tabs/MXYZ_7506627400269.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "GTIN no aparece en ninguna página; se identificó por el nombre y por la foto del empaque MSN (10 mg/1000 mg, frasco con 28 tabletas). Indicaciones y advertencias tomadas del medicamento de referencia (Xigduo XR) porque no se halló ficha del genérico MSN. Una farmacia lo marca sin receta por plantilla genérica; se asume con receta. Fabricante 'MSN Laboratories' inferido de la marca MSN del empaque.",
-    "notas_imagenes": "1 foto de tienda con caja y frasco de MSN (561 px, la única encontrada).",
+    "notas_imagenes": "2 fotos nuevas (tienda, YZA): frente de la caja MSN (547 px útiles) y reverso con fórmula y datos legales (554 px), ambas de 1000x1000 px de origen. Se borró la vieja de Benavides (450 px). No llegan a 800 px porque la caja es angosta dentro del lienzo. Del reverso se leyó Reg. No. 046M2025 SSA IV y se agregó a la ficha. Sin búsqueda web.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

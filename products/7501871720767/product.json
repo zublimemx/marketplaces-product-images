@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "CONTUMAX 255G PVO",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Contumax Macrogol 3350 Polvo 255 g",
+  "descripcion": "Descripción:\nContumax es un laxante osmótico en polvo a base de macrogol 3350 (polietilenglicol), de Asofarma, indicado como auxiliar en el tratamiento del estreñimiento o constipación ocasional. Ablanda las heces e incrementa la frecuencia de los movimientos intestinales por retención de agua en la materia fecal. Es un polvo sin sabor, sin azúcar y sin gluten que se disuelve en agua, en frasco dosificador de 255 g.\n\nBeneficios:\n- Auxiliar en el tratamiento del estreñimiento o constipación ocasional.\n- Actúa reteniendo agua en las heces para suavizarlas y facilitar la evacuación.\n- Sin sabor, sin azúcar y sin gluten.\n- Frasco dosificador de 255 g.\n\nFórmula:\nMacrogol 3350 (polietilenglicol 3350), polvo para solución oral.\n\nModo de uso:\nVía oral, siempre después de disolver el polvo en 250 ml de agua. Pueden ser necesarios de dos a cuatro días para producir un movimiento intestinal. Este producto debe usarse durante dos semanas o menos, o según indique su médico.\n\nPresentación:\nFrasco dosificador con 255 g de polvo para solución oral.\n\nAdvertencias:\n- Si aparecen calambres, sensación de inflamación o diarrea, consulte a su médico.\n- El uso frecuente, prolongado o excesivo de macrogol 3350 puede provocar desequilibrio de electrolitos y dependencia de laxantes.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Contumax",
+    "fabricante": "Asofarma de México",
+    "linea": "Contumax",
+    "presentacion": "Frasco dosificador con polvo para solución oral",
+    "contenido_neto": 255,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Macrogol 3350 (polietilenglicol)",
+    "via_administracion": "Oral",
+    "sabor_aroma": "Sin sabor",
+    "otros": "Laxante osmótico; Sin azúcar; Sin gluten; Venta sin receta; Formato de venta: Unidad"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501871720767_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw172dbf31/images/large/7501871720767_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/contumax-polvo-255g/MXYZ_7501871720767.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1013,
+      "lado_util": 935,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmaciasmedina.com/detalleProducto/Contumax-255-G-Polvo-Frasco-Dosificador/7501871720767",
+    "https://www.fahorro.com/contumax-laxante-255-g.html",
+    "https://www.yza.mx/contumax-polvo-255g/MXYZ_7501871720767.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en tres fichas de tienda con presentación igual (frasco dosificador de 255 g); modo de empleo y advertencias de una ficha de tienda que reproduce el texto de la etiqueta; laboratorio Asofarma de México y venta sin receta según otra tienda. Una ficha de un distribuidor menciona 'macrogol 4000' y la caja dice Macrogol 3350; se usó 3350. Sin página del fabricante.",
+    "notas_imagenes": "1 foto de tienda (frente de la caja, 1013 px). La foto de otra tienda (480 px) se rechazó por tamaño. No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

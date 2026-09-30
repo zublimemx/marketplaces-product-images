@@ -32,17 +32,17 @@
   "imagenes": [],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-supreme/",
   "fuentes": [
-    "https://www.huggies.com.mx/productos/huggies-supreme/",
     "https://www.claroshop.com/producto/17316108/panales-huggies-supreme-etapa-3-unisex-120-piezas",
-    "https://www.fahorro.com/huggies-supreme-toallitas-humedas-80-pz.html"
+    "https://www.benavides.com.mx/huggies-supreme-panales-proteccion-delicada-unisex-etapa-6-36-uds",
+    "https://www.huggies.com.mx/productos/huggies-supreme/"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "nombre",
-    "notas": "No apareció ninguna ficha del paquete combinado con este GTIN. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 3 más toallitas Supreme de 80 piezas; \"C/5\" es ambiguo (podrían ser 5 paquetes de toallitas) y se desconoce cuántos pañales trae. Rango de peso confirmado en la página oficial de Huggies; características tomadas de la ficha de Supreme Etapa 3 de 120 piezas. Verificar cantidades contra el empaque antes de publicar.",
-    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las fotos de pañales o toallitas sueltas no representan el producto vendido. La página oficial rechaza la descarga automática y Amazon bloquea el acceso.",
+    "notas": "La búsqueda con el GTIN y el nombre solo devolvió pañales Supreme Etapa 3 en otras presentaciones (120 y 180 piezas) y toallitas sueltas; ninguna ficha del paquete combinado con este GTIN. Se interpretó por el nombre del sistema: pañal Supreme Unisex Etapa 3 más toallitas Supreme de 80 piezas; 'C/5' es ambiguo (podrían ser 5 paquetes de toallitas) y se desconoce cuántos pañales trae. Rango de peso (7 a 10 kg) y características tomados de fichas de Supreme Etapa 3 y de la página oficial de Huggies (esta última devolvió 403 en esta sesión y se conservó lo obtenido en la sesión 6). Verificar cantidades contra el empaque antes de publicar.",
+    "notas_imagenes": "Sin fotos: no se encontró imagen del paquete combinado exacto; las fotos de pañales o toallitas sueltas no representan el producto vendido. La página oficial de Huggies devuelve 403.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

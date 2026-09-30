@@ -15,7 +15,8 @@
     "principio_activo": "Dexametasona y vitaminas del complejo B",
     "via_administracion": "Inyectable",
     "edad_etapa": "Adultos",
-    "otros": "Proveedor: Medicam; Concentraciones y vía de administración por confirmar en el empaque; Formato de venta: Caja"
+    "otros": "Proveedor: Medicam; Concentraciones y vía de administración por confirmar en el empaque; Formato de venta: Caja",
+    "fabricante": "Medicam"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,14 +34,15 @@
   "url_oficial": "",
   "fuentes": [
     "https://fielfarmacias.com.mx/multivitaminicos/462-neurodex-inyectable-dexametasona-complejo-b-1306881054163.html",
-    "https://www.rappi.com.mx/p/neurodex-dexanetasonacomplejo-b-1170212"
+    "https://www.rappi.com.mx/p/neurodex-dexanetasonacomplejo-b-1170212",
+    "https://mayoreofarmaceutico.com.mx/productos/1306881054163/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN 1306881054163 aparece en la dirección de una ficha de \"Neurodex inyectable dexametasona complejo B\" de una farmacia en línea (no se pudo abrir la página) y un listado de marketplace lo titula \"1 amp.\". Composición, concentraciones, volumen y fabricante no se pudieron confirmar; la descripción usa datos de la marca (versión en tabletas) y el nombre del sistema. Corticosteroide inyectable: se asume receta; va en venta libre por instrucción del dueño.",
-    "notas_imagenes": "Sin fotos: no se encontró ninguna imagen de la presentación inyectable (la página con el GTIN no abrió y el marketplace bloquea el acceso).",
+    "notas_imagenes": "Sin fotos. Mayoreo Farmacéutico tiene la caja de Neurodex inyectable (1024 px) pero con el logotipo de la tienda sobre la imagen: descartada. Fiel Farmacias no abre (502); Rappi solo trae imagen de marcador. La foto confirma el logotipo de Medicam en la caja.",
     "fecha": "2026-09-29",
     "sesion": 4
   }
