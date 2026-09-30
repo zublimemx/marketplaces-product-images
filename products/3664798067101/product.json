@@ -31,18 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "3664798067101_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmaciassimilaresmx.vteximg.com.br/arquivos/ids/164777/3979_1.jpg",
+      "pagina": "https://www.farmaciasdesimilares.com/esporas_bac_claus_4bill_10amp_sinuberase/p",
+      "ancho_original": 2000,
+      "alto_original": 2000,
+      "lado_final": 1810,
+      "lado_util": 1676,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/home/productos/sinuberase-suspension/3037/101/81603/194",
-    "https://www.farmatodo.com.mx/sinuberase-colitis-suspension-caja-c-20-ampolletas-de-5-ml-c-u-v1/p"
+    "https://www.farmatodo.com.mx/sinuberase-colitis-suspension-caja-c-20-ampolletas-de-5-ml-c-u-v1/p",
+    "https://www.farmaciasdesimilares.com/esporas_bac_claus_4bill_10amp_sinuberase/p"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN 3664798067101 no apareció en ninguna ficha consultada. PLM confirma que existe la presentación de caja con 10 ampolletas de 5 ml con 4 billones de UFC; las fichas de tienda encontradas son de 20 ampolletas (otro código). Se mantuvo la categoría y 'No' de receta igual que en lotes anteriores de Sinuberase.",
-    "notas_imagenes": "Sin fotos. PLM confirma la presentación de 10 ampolletas de 4 billones pero solo trae una imagen genérica de la familia Sinuberase; WeCare Pharma y Fahorro muestran la caja de 20 ampolletas (GTIN 3664798025705), otra presentación.",
+    "notas_imagenes": "2 fotos de tienda (Farmacias Similares, vía su API de catálogo VTEX; ficha 'Sinuberase Probióticos Bacillus clausii 4 billones UFC 10 ampolletas de 5 ml', misma presentación exacta). _1: caja de frente, limpia, 1810 px; _2: caja con insignia descriptiva '10 Amps Colitis', 1934 px. Descartadas las otras 4 fotos de la ficha (gráficos promocionales). Origen tienda; no son de la pieza individual. Mayoreo Farmacéutico y Benavides traen la caja de 20 ampolletas (otra presentación) y Mayoreo además con logotipo.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

@@ -30,7 +30,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054556862_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/9/9/0/ec9fd0ccb9054a3ea84d8cea5ccaaae0-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 982,
+      "lado_util": 910,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501054556862_3.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/8/8/2/2f2d112c3e8d4a1db4a0ce1cd87ef0ed-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-100-ml-75010545497960060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 980,
+      "lado_util": 908,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
   "fuentes": [
     "https://www.nivea.com.mx/productos/nivea-body-milk-nutritiva-400-ml-75010545045350060.html",
@@ -41,7 +64,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se encontró ficha del paquete con el GTIN 7501054556862. Se interpretó \"NIVEAMILK 400ML + CRA 100ML\" como Body Milk Nutritiva 400 ml más 100 ml; la variante (Nutritiva o Soft Milk) debe verificarse en el empaque. Beneficios e ingredientes son de la página oficial del envase de 400 ml (la página del envase de 100 ml menciona 48 h de humectación).",
-    "notas_imagenes": "Sin fotos. Las páginas oficiales de Nivea México solo muestran el envase de 400 ml y el de 100 ml por separado; ninguna página muestra el paquete combinado 400 ml + 100 ml, y una foto de un solo envase no representa la presentación.",
+    "notas_imagenes": "2 fotos del fabricante (nivea.com.mx, PNG transparente de 1010x1180 sobre fondo blanco, limpias): _1 envase de 400 ml Body Milk Nutritiva; _3 envase de 100 ml Body Milk Nutritiva. Son fotos de las piezas individuales; el producto se vende como paquete de 2 (400 ml + 100 ml) y ninguna página muestra el paquete combinado. Se descartó una foto con banner lateral de texto descriptivo (_2).",
     "fecha": "2026-09-29",
     "sesion": 6
   }

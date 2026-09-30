@@ -30,19 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "714706907654_1.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://broncolin.com.mx/wp-content/uploads/2021/10/Bronco-Fresh-Charola-Mixto.jpg",
+      "pagina": "https://broncolin.com.mx/bronco-fresh/",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 552,
+      "lado_util": 512,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://vitau.mx/bronco-fresh-cara-miel-euca-33gs-8-mg-cu-sub-empaque-de-12-piezas-23914",
     "https://www.farmaciasantonio.com/pastillas-broncolin-bronco-fresh-limon-33g",
-    "https://farmalisto.com.mx/inicio/162822-bronco-fresh-caramelo-de-33-g-con-9-pastillas-sabor-miel-limn-714706903410.html"
+    "https://farmalisto.com.mx/inicio/162822-bronco-fresh-caramelo-de-33-g-con-9-pastillas-sabor-miel-limn-714706903410.html",
+    "https://broncolin.com.mx/bronco-fresh/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN 714706907654 no apareció en ninguna página; se identificó por nombre. La descripción usa datos de otras variedades de Bronco Fresh (miel-mentol, miel-limón) y del formato de 12 piezas de 33 g. No se pudo confirmar qué sabores incluye el surtido.",
-    "notas_imagenes": "Sin fotos. La única ficha del exhibidor surtido de 12 piezas es un listado de Mercado Libre ('12 piezas de 33 g c/u 4 sabores mixtos'), que no se puede abrir (robots/verificación) ni se debe raspar. Las páginas alcanzables (Vitau, Farmalisto, Amazon charola miel-eucalipto) son de otros sabores y GTIN (p. ej. 714706903403) y se descartaron.",
+    "notas_imagenes": "1 foto (552 px) del sitio del fabricante Broncolin ('Bronco Fresh Charola Mixto'): charola/exhibidor de 12 caramelos Bronco Fresh de sabores surtidos, fondo blanco, sin texto promocional. Origen fabricante. Es la presentación del exhibidor surtido; el nombre de la foto es 'Charola Mixto' y no se pudo cotejar el GTIN en el sitio.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

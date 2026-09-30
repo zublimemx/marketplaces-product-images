@@ -38,7 +38,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN no apareció en ninguna página; la presentación 30 cm x 5 m con 8 piezas (código VD7) coincide con el catálogo del fabricante. Las instrucciones de uso son de una ficha de distribuidor; la advertencia final es de precaución general.",
-    "notas_imagenes": "Sin fotos. Suvet (500 px, imagen genérica de un rollo Dibar con el logotipo SuVet, la misma que usa para otras medidas: descartada) y Quirurfast (400 px: rechazada por pequeña). El sitio del fabricante solo tiene fotos grupales de varias medidas.",
+    "notas_imagenes": "Sin fotos. La foto exacta del paquete de 8 vendas de 30 cm (limpia, sin logotipos) existe en Quirurfast (store.quirurfast.com/cdn/shop/products/venda30x5.jpg) pero el original mide solo 400 px, así que el script la rechaza. Suvet: imagen genérica de un rollo con logotipo SuVet (descartada). dibar.mx solo tiene fotos grupales. Las fichas de Amazon y Mercado Libre no se raspan.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

@@ -417,3 +417,18 @@ button, input, select { font: inherit; color: inherit; }
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; }
 }
+
+/* Descartes de Meli */
+.pb-descartes { background: var(--bad-soft); border-radius: 8px; padding: 6px 10px; }
+.btn-mini.descartar { color: var(--bad); margin-left: 0; }
+.btn-mini.descartar:hover { border-color: var(--bad); }
+.btn-mini.reactivar { color: var(--ok); margin-left: 0; }
+.btn-mini.reactivar:hover { border-color: var(--ok); }
+.card-pie { flex-wrap: wrap; }
+.card-pie .btn-mini:last-child { margin-left: auto; }
+.card.descartada > .carr, .tabla tr.descartada td:not(.meli):not(.col-sel) { opacity: 0.55; }
+.tabla td.meli { white-space: nowrap; }
+.desc-form { background: var(--bad-soft); border-radius: 8px; padding: 10px 12px; display: grid; gap: 6px; font-size: 0.9rem; }
+.desc-form-fila { display: flex; flex-wrap: wrap; gap: 6px; }
+.desc-form-fila input { flex: 1 1 16em; min-width: 0; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); font: inherit; }
+.aviso-reactivado { background: var(--ok-soft); }

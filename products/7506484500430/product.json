@@ -14,7 +14,8 @@
     "contenido_neto": 24,
     "unidad_contenido": "rollos",
     "unidades_por_envase": 24,
-    "otros": "Ancho: 1.25 cm (1/2 pulgada); Largo por rollo: 9 m; Color: piel; Hipoalergénica; Libre de látex; Formato de venta: Caja con 24 rollos"
+    "otros": "Ancho: 1.25 cm (1/2 pulgada); Largo por rollo: 9 m; Color: piel; Hipoalergénica; Libre de látex; Formato de venta: Caja con 24 rollos",
+    "fabricante": "Codifarma"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,14 +32,15 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://www.amazon.com.mx/cinta-micropore-pulgada-piezas-cintapore/dp/B089X8FMBJ"
+    "https://www.amazon.com.mx/cinta-micropore-pulgada-piezas-cintapore/dp/B089X8FMBJ",
+    "https://www.farmalisto.com.mx/adhesivos/8137-comprar-cintapore-empaque-con-1-rollo-25cmx92m-color-blanco-material-de-curacion-precio.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda con el GTIN no devolvió ninguna ficha de Cintapore; solo micropore de 3M (caja C/24 de 1.25 cm) y listados de Mercado Libre y Amazon. La ficha de Amazon de la marca Cintapore (1 pulgada, C/12) menciona la línea 'Micropore 1/2 pulgada pack C/24', lo que corrobora la caja de 24 rollos de 1.25 cm; la marca se atribuye allí a 'Suanca', sin confirmar, por lo que no se anota fabricante. El '48' al final del nombre del sistema se ignoró (parece lote). Verificar con el empaque.",
-    "notas_imagenes": "Sin fotos: las únicas imágenes accesibles de Cintapore están en Amazon (no es un origen permitido) y las demás son de Micropore de 3M, que no es la marca del producto.",
+    "notas_imagenes": "Sin fotos. Se buscó foto de Cintapore piel 1.25 cm (1/2 pulgada) x 9 m: Farmapronto solo tiene Cintapore piel 2.5 cm y la línea Plus (foto de 265 px, otra línea); iFarma lista Cintapore piel 1.25 cm x 10 m caja c/24 (GTIN 7506484500799, otra longitud) pero bloquea la descarga (Cloudflare); Dilopsan tiene 1.25 cm x 5 m (otra medida); Farmalisto pide captcha; el catálogo oficial de Mercado Libre no tiene Cintapore de 1.25 cm (solo el de 2.5 cm, GTIN 7506484500645). Las fotos de 3M Micropore y la de 2.5 cm no valen (otra marca/otra medida). Fabricante Codifarma según la ficha de Farmalisto de otro Cintapore.",
     "fecha": "2026-09-29",
     "sesion": 7
   }

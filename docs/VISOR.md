@@ -95,7 +95,7 @@ Tipos:
 | Precio calculado arriba del mejor vendedor | mejora | Revisar con el dueño |
 | Precio en Meli muy arriba del de tienda | mejora | Revisar con el dueño |
 
-Reglas y umbrales en `config/pendientes.json`; el cálculo está en `pendientes()` de `scripts/build_visor.py`. Los productos descartados no tienen pendientes.
+Reglas y umbrales en `config/pendientes.json`; el cálculo está en `pendientes()` de `scripts/build_visor.py`. Los pendientes de un producto descartado se calculan igual (por si se reactiva), pero no se muestran ni se cuentan.
 
 ### Pedir acciones con el Excel
 
@@ -107,7 +107,15 @@ Reglas y umbrales en `config/pendientes.json`; el cálculo está en `pendientes(
 
 ### Descartar productos de Mercado Libre
 
-`python scripts/descartar.py --gtin <GTIN…> --motivo "…"` marca `marketplaces.mercadolibre.descartado` en `product.json`. El producto se queda en el repositorio (sirve para otros marketplaces), pero sale del layout (queda en la hoja Descartados) y el visor lo muestra como «Descartado de Meli». `--reactivar` lo regresa y `--lista` muestra los descartados.
+Desde el visor, en cualquier vista:
+
+- **Tarjeta** (cuadrícula) y columna **Meli** (lista): botón «Descartar de Meli» o «Reactivar en Meli».
+- **Detalle**: botón «Descartar de Meli», que pide el motivo (por omisión «Indicación del dueño desde el visor»), o «Reactivar en Meli».
+- **Selección**: «Descartar de Meli (N)» (pide confirmar con un segundo clic) y «Reactivar en Meli (N)» para todos los seleccionados.
+
+El cambio se aplica al momento en este navegador (`localStorage`, `visor:descartes`): el producto sale de «Exportar layout Meli», de los conteos y de la sección Pendientes. La barra roja muestra cuántos hay descartados y cuántos cambios faltan por versionar, y permite **Exportar descartes** (Excel `descartes_AAAA-MM-DD_HHMM.xlsx`, hoja Descartes: Código, Producto, Acción = Descartar o Reactivar, Motivo, Fecha), **Ver solo descartados** y **Deshacer lo hecho aquí**. Para que quede en el repositorio (y en el layout versionado), el dueño adjunta ese Excel y pide «Versiona estos descartes»; el agente corre `python scripts/descartar.py --excel <archivo.xlsx>` y regenera layout y visor.
+
+En la terminal: `python scripts/descartar.py --gtin <GTIN…> --motivo "…"` marca `marketplaces.mercadolibre.descartado` en `product.json`. El producto se queda en el repositorio (sirve para otros marketplaces), pero sale del layout (queda en la hoja Descartados) y el visor lo muestra como «Descartado de Meli». `--reactivar` lo regresa y `--lista` muestra los descartados.
 
 ## Indicadores
 

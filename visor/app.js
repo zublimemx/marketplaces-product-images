@@ -39,7 +39,9 @@
     p._grav = p._n.error * 10000 + p._n.pendiente * 100 + p._n.mejora;
   }
   P.forEach((p) => {
-    p._pend = (p.pend || []).map(enriquecer).sort(porTipo);
+    p._pendAll = (p.pend || []).map(enriquecer).sort(porTipo);  // todos; _pend queda vacío si está descartado
+    p._pend = p.descartado ? [] : p._pendAll;
+    p._descRepo = p.descartado || null;
     contarPend(p);
   });
 
@@ -85,6 +87,7 @@
     { id: "ind_fotos", label: "Calidad de fotos", sort: (p) => RANGO[p.ind.fotos] },
     { id: "ind_precios", label: "Precios", sort: (p) => RANGO[p.ind.precios] },
     { id: "pendientes", label: "Pendientes", sort: (p) => p._grav },
+    { id: "meli", label: "Meli", sort: (p) => (p.descartado ? 1 : 0) },
   ];
   const ORDENES = [
     { id: "orden", label: "Prioridad por ventas", sort: (p) => p.orden },
@@ -102,6 +105,7 @@
     porPagina: leer("porPagina", 48),
     ocultas: new Set(leer("ocultas2", ["linea", "costo_empaque", "precio_marketplaces", "comision", "descuento_mejor_vendedor", "ingreso_neto", "margen"])),
     ajustes: leer("ajustes", {}),
+    descartes: leer("descartes", {}),
     f: { nombre: [], codigo: [], categoria: [], linea: new Set(), stock: new Set(), descripcion: new Set(), fotos: new Set(), precios: new Set(),
       publicacion: new Set(), tipo: new Set(), pend: new Set(), ajustes: new Set() },
   };
@@ -121,12 +125,46 @@
     const [ind, mot] = PM.indicador(p.precios, (DATA.reglas || {}).precios || {});
     p.ind.precios = ind;
     p.ind.precios_motivo = mot;
-    if (!p.descartado) {
-      const nuevos = PM.pendientes(p.precios, CATP.umbrales || {}).map(enriquecer);
-      p._pend = p._pend.filter((x) => !PM.CODIGOS.has(x.c)).concat(nuevos).sort(porTipo);
-    }
+    const nuevos = PM.pendientes(p.precios, CATP.umbrales || {}).map(enriquecer);
+    p._pendAll = p._pendAll.filter((x) => !PM.CODIGOS.has(x.c)).concat(nuevos).sort(porTipo);
+    p._pend = p.descartado ? [] : p._pendAll;
     contarPend(p);
   }
+  // ---------------- Descartes de Meli (en este navegador; se versionan con «Exportar descartes») ----------------
+  // estado.descartes[gtin] = {motivo, fecha} (descartar) o {reactivar: true, fecha} (reactivar uno descartado en el repositorio)
+  const MOTIVO_VISOR = "Indicación del dueño desde el visor";
+  const hoy = () => { const d = new Date(), dos = (v) => String(v).padStart(2, "0"); return `${d.getFullYear()}-${dos(d.getMonth() + 1)}-${dos(d.getDate())}`; };
+  function efectoDescarte(p) {
+    const l = estado.descartes[p.gtin];
+    p.descartado = l ? (l.reactivar ? null : { motivo: l.motivo, fecha: l.fecha, local: true }) : p._descRepo;
+    p._pend = p.descartado ? [] : p._pendAll;
+    contarPend(p);
+  }
+  function fijarDescarte(p, on, motivo) {
+    if (on) {
+      if (p._descRepo) delete estado.descartes[p.gtin];
+      else estado.descartes[p.gtin] = { motivo: (motivo || "").trim() || MOTIVO_VISOR, fecha: hoy() };
+    } else if (p._descRepo) estado.descartes[p.gtin] = { reactivar: true, fecha: hoy() };
+    else delete estado.descartes[p.gtin];
+    guardar("descartes", estado.descartes);
+    efectoDescarte(p);
+  }
+  Object.keys(estado.descartes).forEach((g) => {
+    const p = porGtin.get(g), l = estado.descartes[g];
+    if (!p || !l || (l.reactivar ? !p._descRepo : !!p._descRepo)) delete estado.descartes[g];  // ya versionado o sin efecto
+  });
+  guardar("descartes", estado.descartes);
+  P.forEach(efectoDescarte);
+  function botonDescarte(p, alCambiar) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.className = "btn-mini " + (p.descartado ? "reactivar" : "descartar");
+    b.textContent = p.descartado ? "Reactivar en Meli" : "Descartar de Meli";
+    b.title = p.descartado ? `Descartado: ${p.descartado.motivo}. Vuelve a incluirlo en el layout de importación.` : "Sacarlo del layout de importación a Mercado Libre";
+    b.addEventListener("click", (e) => { e.stopPropagation(); fijarDescarte(p, !p.descartado); if (alCambiar) alCambiar(); else render(); });
+    return b;
+  }
+
   function ajustar(p, campo, valor) {
     const aj = { ...(estado.ajustes[p.gtin] || {}) };
     const base = p._parBase[campo];
@@ -623,13 +661,20 @@
       ${indicadores(p)}
       ${cuentaPend(p)}`;
     el.appendChild(info);
+    const pie = document.createElement("div");
+    pie.className = "card-pie";
+    pie.innerHTML = `${estado.ajustes[p.gtin] ? '<span class="tag-editado">precios editados</span>' : ""}${estado.descartes[p.gtin] ? '<span class="tag-editado">descarte sin versionar</span>' : ""}`;
+    pie.appendChild(botonDescarte(p));
     if (CALC) {
-      const pie = document.createElement("div");
-      pie.className = "card-pie";
-      pie.innerHTML = `${estado.ajustes[p.gtin] ? '<span class="tag-editado">precios editados</span>' : ""}<button type="button" class="btn-mini">Editar precios</button>`;
-      pie.querySelector("button").addEventListener("click", (e) => { e.stopPropagation(); abrirEditor(p); });
-      el.appendChild(pie);
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "btn-mini";
+      b.textContent = "Editar precios";
+      b.addEventListener("click", (e) => { e.stopPropagation(); abrirEditor(p); });
+      pie.appendChild(b);
     }
+    el.appendChild(pie);
+    el.classList.toggle("descartada", !!p.descartado);
     el.addEventListener("click", () => abrir(p.gtin));
     el.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
     return el;
@@ -657,6 +702,7 @@
         break;
       }
       case "pendientes": td.innerHTML = cuentaPend(p); break;
+      case "meli": td.className = "meli"; td.appendChild(botonDescarte(p)); break;
       case "comision": td.textContent = PCT.format(p.precios.comision); break;
       default: td.innerHTML = dinero(p.precios[c.id]);
     }
@@ -786,6 +832,24 @@
     $("aj-txt").textContent = (nLocal === 1 ? "producto con precios editados en este navegador" : "productos con precios editados en este navegador")
       + (nRepo ? ` · ${ENT.format(nRepo)} ajustados en el repositorio` : "");
     $("aj-exportar").disabled = !nLocal && !nRepo;
+    const loc = Object.values(estado.descartes);
+    const nD = loc.filter((l) => !l.reactivar).length, nR = loc.length - nD;
+    const nDescTot = P.filter((p) => p.descartado).length;
+    $("descartes-fila").hidden = !loc.length && !nDescTot;
+    $("dc-n").textContent = ENT.format(nDescTot);
+    $("dc-txt").textContent = (nDescTot === 1 ? "producto descartado de Meli" : "productos descartados de Meli")
+      + (loc.length ? ` · sin versionar: ${[nD ? `${ENT.format(nD)} descartado${nD === 1 ? "" : "s"}` : "", nR ? `${ENT.format(nR)} reactivado${nR === 1 ? "" : "s"}` : ""].filter(Boolean).join(" y ")} en este navegador` : "");
+    $("dc-exportar").disabled = !loc.length;
+    $("dc-deshacer").disabled = !loc.length;
+    const soloDesc = estado.f.publicacion.size === 1 && estado.f.publicacion.has("descartado");
+    $("dc-ver").setAttribute("aria-pressed", String(soloDesc));
+    $("dc-ver").textContent = soloDesc ? "Ver todos" : "Ver solo descartados";
+    const selP = [...estado.sel].map((g) => porGtin.get(g));
+    const aDesc = selP.filter((p) => !p.descartado).length, aReac = selP.length - aDesc;
+    if (!descSelArmado) $("sel-descartar").textContent = aDesc ? `Descartar de Meli (${ENT.format(aDesc)})` : "Descartar de Meli";
+    $("sel-descartar").disabled = !aDesc;
+    $("sel-reactivar").textContent = aReac ? `Reactivar en Meli (${ENT.format(aReac)})` : "Reactivar en Meli";
+    $("sel-reactivar").disabled = !aReac;
     $("aj-deshacer").disabled = !nLocal;
     const soloEd = estado.f.ajustes.size === 1 && estado.f.ajustes.has("local");
     $("aj-ver").setAttribute("aria-pressed", String(soloEd));
@@ -999,6 +1063,66 @@
     $("pb-ayuda").textContent = ayudaMsg;
   }
 
+  function exportarDescartes() {
+    const prods = P.filter((p) => estado.descartes[p.gtin]).sort(comparador());
+    if (!prods.length) return;
+    const cols = [["Código", 16, "codigo"], ["Producto", 50, "texto"], ["Acción", 12, "texto"], ["Motivo", 60, "largo"], ["Fecha", 12, "texto"]]
+      .map(([titulo, ancho, formato]) => ({ titulo, ancho, formato }));
+    const filas = prods.map((p) => {
+      const l = estado.descartes[p.gtin];
+      return [p.gtin, p.titulo, l.reactivar ? "Reactivar" : "Descartar", l.reactivar ? "" : l.motivo, l.fecha];
+    });
+    const ahora = new Date();
+    const dos = (v) => String(v).padStart(2, "0");
+    const nombre = `descartes_${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}.xlsx`;
+    XLSXSimple.descargar(nombre, [
+      { nombre: "Descartes", columnas: cols, filas, filtro: true },
+      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 30, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: [
+        ["Exportado", ahora.toLocaleString("es-MX")],
+        ["Productos", String(prods.length)],
+        ["Qué es", "Productos que marcaste en el visor para sacarlos del layout de importación a Mercado Libre (Descartar) o para volver a incluirlos (Reactivar). Puedes cambiar el Motivo antes de enviarlo."],
+        ["Cómo versionarlo", "Adjunta este archivo en el chat y pide «Versiona estos descartes». Se aplican con python scripts/descartar.py --excel <archivo> y entran al layout y al visor; el producto se queda en el repositorio para otros marketplaces."],
+      ] },
+    ]);
+    ayudaMsg = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos. Adjúntalo en el chat para versionar los descartes.`;
+    $("pb-ayuda").textContent = ayudaMsg;
+  }
+  function descartarSeleccion(on) {
+    [...estado.sel].map((g) => porGtin.get(g)).filter((p) => !!p.descartado !== on).forEach((p) => fijarDescarte(p, on));
+    render();
+  }
+  let descSelArmado = null;
+  function confirmarDescarteSel() {
+    const b = $("sel-descartar");
+    if (!descSelArmado) {
+      b.textContent = `¿Seguro? ${b.textContent}`;
+      descSelArmado = setTimeout(() => { descSelArmado = null; actualizarBarra(); }, 4000);
+      return;
+    }
+    clearTimeout(descSelArmado);
+    descSelArmado = null;
+    descartarSeleccion(true);
+  }
+  let deshacerDescArmado = null;
+  function deshacerDescartes() {
+    const b = $("dc-deshacer");
+    if (!deshacerDescArmado) {
+      b.textContent = `¿Seguro? Deshacer ${ENT.format(Object.keys(estado.descartes).length)}`;
+      b.classList.add("peligro");
+      deshacerDescArmado = setTimeout(() => { deshacerDescArmado = null; b.classList.remove("peligro"); b.textContent = "Deshacer lo hecho aquí"; }, 4000);
+      return;
+    }
+    clearTimeout(deshacerDescArmado);
+    deshacerDescArmado = null;
+    b.classList.remove("peligro");
+    b.textContent = "Deshacer lo hecho aquí";
+    const gtins = Object.keys(estado.descartes);
+    estado.descartes = {};
+    guardar("descartes", estado.descartes);
+    gtins.forEach((g) => efectoDescarte(porGtin.get(g)));
+    render();
+  }
+
   let deshacerArmado = null;
   function deshacerAjustes() {
     const b = $("aj-deshacer");
@@ -1064,6 +1188,7 @@
         tr.tabIndex = 0;
         if (estado.sel.has(p.gtin)) tr.classList.add("sel");
         if (estado.ajustes[p.gtin]) tr.classList.add("editado");
+        if (p.descartado) tr.classList.add("descartada");
         const tdSel = document.createElement("td");
         tdSel.className = "col-sel";
         tdSel.appendChild(casillaSel(p, "tsel", (on) => tr.classList.toggle("sel", on)));
@@ -1147,10 +1272,20 @@
         </div>
         <div class="det-acciones">
           <button type="button" class="btn" id="det-sel" aria-pressed="${estado.sel.has(p.gtin)}">${estado.sel.has(p.gtin) ? "Quitar de la selección" : "Seleccionar para exportar"}</button>
+          <button type="button" class="btn${p.descartado ? "" : " peligro"}" id="det-desc">${p.descartado ? "Reactivar en Meli" : "Descartar de Meli"}</button>
           <button type="button" class="btn det-cerrar" id="det-cerrar">Cerrar</button>
         </div>
       </div>
-      ${p.descartado ? `<div class="aviso-descartado"><b>Descartado de Mercado Libre</b> el ${esc(p.descartado.fecha)}: ${esc(p.descartado.motivo)}. No entra en el layout de importación.</div>` : ""}
+      <form class="desc-form" id="det-desc-form" hidden>
+        <label for="det-motivo"><b>Descartar de Mercado Libre.</b> Motivo (queda en el repositorio al versionarlo):</label>
+        <div class="desc-form-fila">
+          <input type="text" id="det-motivo" value="${esc(MOTIVO_VISOR)}" maxlength="240">
+          <button type="submit" class="btn peligro">Descartar</button>
+          <button type="button" class="btn btn-ghost" id="det-desc-cancelar">Cancelar</button>
+        </div>
+      </form>
+      ${p.descartado ? `<div class="aviso-descartado"><b>Descartado de Mercado Libre</b> el ${esc(p.descartado.fecha)}: ${esc(p.descartado.motivo)}. No entra en el layout de importación.${p.descartado.local ? " <i>Hecho en este navegador; falta versionarlo con «Exportar descartes».</i>" : ""}</div>`
+        : estado.descartes[p.gtin] ? '<div class="aviso-descartado aviso-reactivado">Reactivado en este navegador: vuelve a entrar en el layout. Falta versionarlo con «Exportar descartes».</div>' : ""}
       <div class="ind-grande" id="det-ind">${indGrande(p)}</div>
       <div class="det-body">
         <div class="det-fotos" id="det-fotos"></div>
@@ -1246,6 +1381,20 @@
       e.currentTarget.setAttribute("aria-pressed", String(on));
       render();
     });
+    $("det-desc").addEventListener("click", () => {
+      if (p.descartado) { fijarDescarte(p, false); abrir(p.gtin); render(); return; }
+      const fm = $("det-desc-form");
+      fm.hidden = false;
+      $("det-motivo").focus();
+      $("det-motivo").select();
+    });
+    $("det-desc-cancelar").addEventListener("click", () => { $("det-desc-form").hidden = true; });
+    $("det-desc-form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      fijarDescarte(p, true, $("det-motivo").value);
+      abrir(p.gtin);
+      render();
+    });
     $("det-copiar").addEventListener("click", (e) => {
       const btn = e.currentTarget;
       const ok = () => { btn.textContent = "Copiado"; setTimeout(() => { btn.textContent = "Copiar código"; }, 1500); };
@@ -1286,6 +1435,16 @@
     $("exportar-meli").addEventListener("click", exportarLayout);
     $("aj-exportar").addEventListener("click", exportarAjustes);
     $("aj-deshacer").addEventListener("click", deshacerAjustes);
+    $("dc-exportar").addEventListener("click", exportarDescartes);
+    $("dc-deshacer").addEventListener("click", deshacerDescartes);
+    $("dc-ver").addEventListener("click", () => {
+      const solo = estado.f.publicacion.size === 1 && estado.f.publicacion.has("descartado");
+      estado.f.publicacion = solo ? new Set() : new Set(["descartado"]);
+      sincronizarChecks();
+      aplicar();
+    });
+    $("sel-descartar").addEventListener("click", confirmarDescarteSel);
+    $("sel-reactivar").addEventListener("click", () => descartarSeleccion(false));
     $("aj-ver").addEventListener("click", () => {
       const soloEd = estado.f.ajustes.size === 1 && estado.f.ajustes.has("local");
       estado.f.ajustes = soloEd ? new Set() : new Set(["local"]);

@@ -17,11 +17,26 @@
       "maximo": 150,
       "divisor_volumetrico": 5000,
       "tramos": [
-        {"hasta_kg": 0.5, "costo": 75},
-        {"hasta_kg": 1, "costo": 90},
-        {"hasta_kg": 2, "costo": 105},
-        {"hasta_kg": 5, "costo": 125},
-        {"hasta_kg": null, "costo": 150}
+        {
+          "hasta_kg": 0.5,
+          "costo": 75
+        },
+        {
+          "hasta_kg": 1,
+          "costo": 90
+        },
+        {
+          "hasta_kg": 2,
+          "costo": 105
+        },
+        {
+          "hasta_kg": 5,
+          "costo": 125
+        },
+        {
+          "hasta_kg": null,
+          "costo": 150
+        }
       ]
     },
     "costos_fijos_clasica": [
@@ -63,7 +78,7 @@
   },
   "avance": {
     "productos_por_sesion": 200,
-    "sesiones_realizadas": 7,
+    "sesiones_realizadas": 8,
     "historial": [
       {
         "sesion": 1,
@@ -113,6 +128,13 @@
         "investigados": 76,
         "verificados": 68,
         "con_fotos": 116
+      },
+      {
+        "sesion": 8,
+        "fecha": "2026-09-29",
+        "investigados": 0,
+        "verificados": 0,
+        "con_fotos": 11
       }
     ]
   }

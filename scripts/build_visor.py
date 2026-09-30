@@ -283,7 +283,7 @@ def main():
         p_ind, p_mot = ind_precios(pr, reglas["precios"])
         ruta = ml["categoria_ruta"] or ""
         descartado = ml.get("descartado") or None
-        pend = [] if descartado else pendientes(p, imgs, pr, base["stock"], cfg_pend, cfg)
+        pend = pendientes(p, imgs, pr, base["stock"], cfg_pend, cfg)  # el visor los oculta si está descartado
         productos.append({
             "orden": base["orden"], "gtin": g, "titulo": p["titulo"] or p["nombre_sistema"], "nombre_sistema": p["nombre_sistema"],
             "linea": p["linea"], "categoria_id": ml["categoria_id"], "categoria_ruta": ruta,
@@ -321,10 +321,10 @@ def main():
     print(json.dumps(cuenta, ensure_ascii=False))
     cp = {}
     for pr_ in productos:
-        for x in pr_["pend"]:
+        for x in ([] if pr_["descartado"] else pr_["pend"]):
             cp[x["c"]] = cp.get(x["c"], 0) + 1
     print("pendientes:", json.dumps(dict(sorted(cp.items(), key=lambda kv: -kv[1])), ensure_ascii=False))
-    print("productos con pendientes:", sum(1 for x in productos if x["pend"]), "· descartados:", sum(1 for x in productos if x["descartado"]))
+    print("productos con pendientes:", sum(1 for x in productos if x["pend"] and not x["descartado"]), "· descartados:", sum(1 for x in productos if x["descartado"]))
 
 
 if __name__ == "__main__":

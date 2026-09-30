@@ -42,7 +42,7 @@
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN 1306881054163 aparece en la dirección de una ficha de \"Neurodex inyectable dexametasona complejo B\" de una farmacia en línea (no se pudo abrir la página) y un listado de marketplace lo titula \"1 amp.\". Composición, concentraciones, volumen y fabricante no se pudieron confirmar; la descripción usa datos de la marca (versión en tabletas) y el nombre del sistema. Corticosteroide inyectable: se asume receta; va en venta libre por instrucción del dueño.",
-    "notas_imagenes": "Sin fotos. Mayoreo Farmacéutico tiene la caja de Neurodex inyectable (1024 px) pero con el logotipo de la tienda sobre la imagen: descartada. Fiel Farmacias no abre (502); Rappi solo trae imagen de marcador. La foto confirma el logotipo de Medicam en la caja.",
+    "notas_imagenes": "Sin fotos. Se reintentó: YZA y Walmart no lo tienen; Mayoreo Farmacéutico tiene la caja pero con logotipo de la tienda (descartada); Farmacia Kuali tiene ficha (código de barras 1306881054163, fabricante Medicam) pero sin foto del producto; Cedismed y Quiminet sin imagen; Sistema3, Fiel Farmacias y Rappi sin acceso o solo marcador.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

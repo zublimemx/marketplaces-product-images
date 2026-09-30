@@ -93,8 +93,16 @@
         <button type="button" class="btn btn-ghost" id="aj-ver" aria-pressed="false">Ver solo editados</button>
         <button type="button" class="btn btn-ghost" id="aj-deshacer">Deshacer lo editado aquí</button>
       </div>
+      <div class="pb-fila pb-descartes" id="descartes-fila" hidden>
+        <p class="pb-sel"><strong id="dc-n">0</strong> <span id="dc-txt">productos descartados de Meli</span></p>
+        <button type="button" class="btn" id="dc-exportar">Exportar descartes</button>
+        <button type="button" class="btn btn-ghost" id="dc-ver" aria-pressed="false">Ver solo descartados</button>
+        <button type="button" class="btn btn-ghost" id="dc-deshacer">Deshacer lo hecho aquí</button>
+      </div>
       <div class="pb-fila">
         <button type="button" class="btn btn-primario" id="exportar-meli" disabled>Exportar layout Meli</button>
+        <button type="button" class="btn peligro" id="sel-descartar" disabled>Descartar de Meli</button>
+        <button type="button" class="btn" id="sel-reactivar" disabled>Reactivar en Meli</button>
         <label class="tool" id="accion-wrap">
           <span>Acción a solicitar</span>
           <select id="accion"></select>

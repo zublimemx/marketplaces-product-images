@@ -31,18 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435162241_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750043516224L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 968,
+      "lado_util": 897,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.fahorro.com/head-shoulders-shampoo-control-caspa-2-en-1-suave-y-manejable-650-ml.html",
-    "https://www.dax.com.mx/producto/head-&-shoulders-shampoo-2-en-1-suave-y-manejable-650ml-7500435162241.html"
+    "https://www.dax.com.mx/producto/head-&-shoulders-shampoo-2-en-1-suave-y-manejable-650ml-7500435162241.html",
+    "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750043516224L.jpg"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "En el sistema aparece como SVE-MAN (Suave y Manejable). El modo de uso es el habitual de un shampoo, no una instrucción textual de la ficha.",
-    "notas_imagenes": "1 foto de frente del frasco (1728 px), de una farmacia en línea; sin marcas de agua.",
+    "notas_imagenes": "1 foto (968 px) de la CDN de Walmart México, sin --pagina (sus páginas piden verificación): frasco de 650 ml Head & Shoulders 2 en 1 Suave y Manejable de frente, fondo blanco, sin bandas ni logotipo de tienda. Descartadas: foto de Farmacias del Ahorro (banda añadida '2 EN 1 / 650 ML'), foto de Dax (es Men Full & Thick 650 ml, otra variante), foto YZA (banda añadida) y las 3 imágenes publicitarias de Walmart con texto (L1 a L3).",
     "fecha": "2026-09-29",
     "sesion": 7
   }

@@ -36,7 +36,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "La búsqueda con el GTIN no lo confirmó; se identificó por el nombre (vendas elásticas Dibar de 5 cm en paquete de 24, presentación que ofrecen varios distribuidores). No se halló el fabricante ni la ficha con este GTIN; largo y material tomados de fichas de vendas Dibar similares. El modo de uso es el estándar de una venda elástica.",
-    "notas_imagenes": "Sin fotos. Suvet (imagen genérica de un rollo Dibar con el logotipo SuVet: descartada) y Quirurfast (400 px: rechazada por pequeña); Eidinamo y La Ranita de la Paz no traen imagen del producto.",
+    "notas_imagenes": "Sin fotos. La foto exacta del paquete de 24 vendas de 5 cm (limpia) existe en Quirurfast (store.quirurfast.com/cdn/shop/products/venda5x5.jpg) pero mide solo 400 px: rechazada por el script. UMD (umdmx.com.mx) tiene una foto de 24 vendas de colores tipo deportiva, no verificada como el mismo producto: descartada. Suvet: genérica con logotipo SuVet. Eidinamo y La Ranita de la Paz sin foto del producto.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

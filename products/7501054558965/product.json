@@ -30,7 +30,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501054558965_2.jpg",
+      "origen": "fabricante",
+      "fuente_url": "https://img.nivea.com/-/media/miscellaneous/media-center-items/9/2/9/656e4c5d33af4bda94d1fe0e52034eb4-web_1010x1180_transparent_png.png",
+      "pagina": "https://www.nivea.com.mx/productos/crema-humectante-nivea%C2%AE-creme-tarro-azul-400-ml-75010545002160060.html",
+      "ancho_original": 1010,
+      "alto_original": 1180,
+      "lado_final": 1148,
+      "lado_util": 1063,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "https://www.nivea.com.mx/productos/crema-humectante-nivea%C2%AE-creme-tarro-azul-400-ml-75010545002160060.html",
   "fuentes": [
     "https://www.nivea.com.mx/productos/crema-humectante-nivea%C2%AE-creme-tarro-azul-400-ml-75010545002160060.html"
@@ -40,7 +52,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se encontró una página del paquete promocional (tarro 400 ml + lata 50 ml); datos tomados de la página oficial de Nivea Creme tarro de 400 ml. La lata de 50 ml se dedujo del nombre del sistema; el final 'N' del nombre no se pudo interpretar.",
-    "notas_imagenes": "Sin fotos. Nivea México solo muestra el tarro de 400 ml suelto (y otros tamaños); no hay foto del paquete tarro 400 ml + lata 50 ml, y la foto de un solo envase no representa la presentación.",
+    "notas_imagenes": "1 foto (1148 px) del sitio oficial de Nivea México: tarro de vidrio de 400 ml de frente (fondo desenfocado de baño, sin texto ni logotipo de tienda). Es la foto del envase principal (400 ml), no del combo con lata de 50 ml; el producto se vende como combo tarro 400 ml + lata 50 ml (no existe foto del combo). Descartadas: imagen del sitio oficial con texto promocional y la de ilustración de mano con medida; vistas de la tapa de Claroshop y Walmart (solo tapa, con cintillo de texto la de Walmart).",
     "fecha": "2026-09-29",
     "sesion": 5
   }

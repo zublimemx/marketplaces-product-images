@@ -31,17 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "1306881057034_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://acdn-us.mitiendanube.com/stores/004/824/171/products/afg055-0732f43e537e4a30b617238501494376-1024-1024.webp",
+      "pagina": "https://mayfar.mitiendanube.com/productos/neurocer-c-30-grag/",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 935,
+      "lado_util": 866,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
-    "https://cedismed.com/producto/neurocer/"
+    "https://cedismed.com/producto/neurocer/",
+    "https://mayfar.mitiendanube.com/productos/neurocer-c-30-grag/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El GTIN 1306881057034 aparece como código de barras de NEUROCER GRA C/30 de laboratorio Medicam (ácido glutámico, complejo B, vitamina E y C) en un distribuidor y en los títulos de otros listados (Fiel Farmacias, Mayoreo Farmacéutico, Mercado Libre 'Neurocer revitalizador neuro-cerebral caja c/30'). Ninguna página abrible da cantidades por grajea, indicaciones ni dosis, y no se sabe si es medicamento o suplemento; se dejó en Suplementos Alimenticios por regla del dueño para vitaminas. Verificar con el empaque antes de publicar. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. Sin catálogo ML ni descripciones de otros vendedores; fuentes: descripción y ficha actuales y notas de investigación (el GTIN aparece como NEUROCER GRA C/30 de Medicam: ácido glutámico, complejo B, vitamina E y C). No hay cantidades por gragea, dosis ni indicaciones, y no se sabe si es medicamento o suplemento; se trató como medicamento (receta_mx = No) y se cerró con la frase obligatoria. Se repiten datos reales (marca, laboratorio, forma, vía) en Presentación para acercarse al mínimo. Verificar con el empaque antes de publicar. La advertencia sobre embarazo, lactancia y otros medicamentos viene de la descripción actual (precaución general, no de una fuente del fabricante). Ficha sin cambios.",
-    "notas_imagenes": "Sin fotos: las páginas con imagen del producto están bloqueadas por el proxy (Fiel Farmacias, Sistema3, Genética) o son de Mercado Libre, que no se consulta.",
+    "notas_imagenes": "1 foto (935 px útiles) de Mayfar (Tiendanube): estuche de Neurocer Medicam 'con 30 grageas', ácido glutámico, complejo B, vitaminas C y E, de frente, fondo blanco, sin logotipo de tienda. Origen tienda. Es la presentación exacta.",
     "fecha": "2026-09-29",
     "sesion": 7
   }
