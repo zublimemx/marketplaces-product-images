@@ -2,7 +2,7 @@
 
 Todas las rutas son relativas a la raíz del repositorio. `NN` es el número de sesión con dos dígitos y `XX` el número de lote.
 
-Trabajas un lote de productos de una farmacia mexicana que ya tienen su ficha verificada. Tu tarea es conseguir sus fotos y completar la ficha técnica. **No uses WebSearch** (el presupuesto de búsquedas es para otros lotes). Usa WebFetch o `curl` en Bash sobre páginas concretas; no uses buscadores generales (Google, Bing, DuckDuckGo…).
+Trabajas un lote de productos de una farmacia mexicana que ya tienen su ficha verificada. Tu tarea es conseguir sus fotos y completar la ficha técnica. **No hagas búsquedas web** (el presupuesto de búsquedas es para otros lotes). Abre páginas concretas con WebFetch (Claude) o `curl` desde la terminal; no uses buscadores generales (Google, Bing, DuckDuckGo…). Si tu agente no puede ver imágenes, usa `python scripts/revisar_fotos.py --gtin <gtin>` y anota en `notas_imagenes` que la revisión visual quedó pendiente.
 
 ## Entrada
 Lote JSON en `trabajo/sesion_NN/lotes/img_XX.json` con `id`, `gtin`, `nombre`, `linea`, `estado`. La ficha de cada producto está en `products/<gtin>/product.json` (usa `titulo`, `ficha`, `url_oficial` y `fuentes`).

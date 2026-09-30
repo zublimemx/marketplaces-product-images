@@ -111,6 +111,12 @@ def reprocess(path):
     return side
 
 
+def lado_util(path):
+    """Pixeles que ocupa el producto (lado mayor de su recuadro sin el fondo blanco)."""
+    b = Image.open(path).convert("L").point(lambda v: 255 if v < 245 else 0).getbbox()
+    return max(b[2] - b[0], b[3] - b[1]) if b else 0
+
+
 def contact_sheet(gtin):
     data = load(gtin)
     imgs = data.get("imagenes", [])
@@ -168,7 +174,7 @@ def cmd_fetch(a):
         hashes.add(h)
         imgs.append({"archivo": name, "origen": a.origen, "fuente_url": url, "pagina": a.pagina,
                      "ancho_original": orig[0], "alto_original": orig[1], "lado_final": side,
-                     "fecha": datetime.date.today().isoformat()})
+                     "lado_util": lado_util(os.path.join(idir, name)), "fecha": datetime.date.today().isoformat()})
         print(f"GUARDADA {name} ({orig[0]}x{orig[1]} -> {side}x{side}) desde {url}")
     save(a.gtin, data)
     p = contact_sheet(a.gtin)
@@ -207,6 +213,7 @@ def cmd_reprocesar():
             f = os.path.join(base, g, "images", im["archivo"])
             if os.path.exists(f):
                 im["lado_final"] = reprocess(f)
+                im["lado_util"] = lado_util(f)
                 n += 1
         save(g, data)
     print(f"{n} fotos reprocesadas")

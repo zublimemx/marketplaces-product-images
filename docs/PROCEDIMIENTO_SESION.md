@@ -5,6 +5,7 @@ Una sesión investiga hasta 200 productos (1 búsqueda web por producto) y baja 
 ## 0. Preparar
 
 ```bash
+bash scripts/setup.sh            # solo la primera vez en un entorno nuevo
 git checkout main && git pull --ff-only
 git checkout -b sesion-NN
 ```
@@ -25,7 +26,7 @@ Crea `trabajo/sesion_NN/lotes/inv_01.json … inv_08.json` (25 productos cada un
 
 ## 2. Investigar
 
-Por cada lote, un agente sigue `docs/agentes/investigacion.md` (o `docs/agentes/fotos.md` para `img_XX`) sustituyendo `NN` y `XX`. En Claude se lanzan como subagentes en paralelo; en Codex u otro agente se pueden correr uno tras otro. Cada agente:
+Por cada lote, un agente sigue `docs/agentes/investigacion.md` (o `docs/agentes/fotos.md` para `img_XX`) sustituyendo `NN` y `XX`. En Claude se lanzan como subagentes en paralelo; en Codex u otro agente sin subagentes se corren uno tras otro (ver "Notas para Codex" en `AGENTS.md`). Cada agente:
 
 - hace exactamente 1 búsqueda web por producto y abre las páginas necesarias;
 - descarga fotos con `scripts/imagenes.py` (que las registra en `product.json`) y las revisa visualmente;
@@ -36,6 +37,7 @@ Por cada lote, un agente sigue `docs/agentes/investigacion.md` (o `docs/agentes/
 ```bash
 python scripts/validar.py --sesion NN          # esquema de resultados y de product.json
 python scripts/integrar_resultados.py --sesion NN
+python scripts/revisar_fotos.py                 # fotos de baja resolución, posible fondo gris y verificados sin fotos
 python scripts/progreso.py                      # actualiza PROGRESO.md
 python scripts/validar.py
 ```
@@ -49,6 +51,15 @@ python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv -
 ```
 
 El archivo lleva fórmulas sin valores calculados: se calculan al abrirlo en Excel, LibreOffice o Google Sheets.
+
+## 4 bis. Precios de competencia (cuando haya credenciales)
+
+```bash
+python scripts/meli_precios.py --muestra 3 --limite 3     # prueba y revisa trabajo/meli_muestras/
+python scripts/meli_precios.py --guardar-catalogo [--fotos-catalogo]
+```
+
+Detalle en `docs/MERCADOLIBRE_API.md`.
 
 ## 5. Publicar cambios (siempre por PR)
 

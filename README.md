@@ -2,7 +2,7 @@
 
 Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en marketplaces: Mercado Libre (en curso), Odoo, Shopify y Amazon. Guarda por GTIN la ficha, la descripción, la ficha técnica, las categorías por marketplace y las fotos. Los precios, existencias y ventas no se guardan aquí porque el repositorio se hace público durante las importaciones.
 
-**Si eres un agente de IA (Claude, Codex u otro), empieza por `AGENTS.md`.**
+**Si eres un agente de IA (Codex, Claude u otro), empieza por `AGENTS.md`.** Preparación: `bash scripts/setup.sh`.
 
 ## Documentación
 
@@ -15,6 +15,7 @@ Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en mar
 | `docs/REGLAS_NEGOCIO.md` | Reglas de publicación, contenido, fotos y precio |
 | `docs/CONTRATOS.md` | Formato de product.json, lotes, resultados, insumos y layout |
 | `docs/PROCEDIMIENTO_SESION.md` | Cómo correr una sesión y publicar cambios por PR |
+| `docs/MERCADOLIBRE_API.md` | Precios de competencia y fotos de catálogo con la API de Mercado Libre |
 | `docs/agentes/` | Instrucciones para subagentes de investigación y de fotos |
 | `schema/` | JSON Schema de product.json y de resultados |
 
@@ -34,7 +35,10 @@ scripts/integrar_resultados.py   Integra los resultados de una sesión a product
 scripts/validar.py               Valida product.json y resultados contra los esquemas
 scripts/progreso.py              Escribe PROGRESO.md
 scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Libre
+scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
+scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
+scripts/setup.sh                 Prepara el entorno (dependencias, carpetas locales, validación)
 ```
 
 ## URL de una foto
