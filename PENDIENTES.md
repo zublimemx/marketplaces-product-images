@@ -1,19 +1,18 @@
 # Pendientes y próximas tareas
 
-Última actualización: 2026-09-29, al descartar de Meli los 7 productos sin verificar (indicación del dueño), conseguir fotos para 11 de los 18 verificados que no tenían y agregar al visor el botón «Descartar de Meli» (`docs/VISOR.md`). Para continuar con otra IA, empieza por `AGENTS.md`.
+Última actualización: 2026-09-30, al descartar los 7 productos sin fotos, crear la base de datos `data/catalogo.db` (`docs/BASE_DE_DATOS.md`), agregar los precios en otros marketplaces (94 de los 100 más vendidos) y la pantalla «Comparar precios» del visor. Para continuar con otra IA, empieza por `AGENTS.md`.
 
 ## Estado
 
 | Concepto | Productos |
 |---|---|
 | Productos en el repositorio | 1,163 |
-| Descartados de Meli (los 7 sin verificar) | 7 |
-| Productos a publicar | 1,156 |
-| Completos (ficha verificada + fotos) | 1,149 (99.4 % de los que se publican) |
-| Verificados sin fotos | 7 |
+| Descartados de Meli (7 sin verificar y 7 sin fotos) | 14 |
+| Productos a publicar | 1,149 (todos verificados y con fotos) |
+| Con precio en otros marketplaces | 94 (de los 100 más vendidos; 268 precios de 9 tiendas) |
 | Pendientes de investigar | 0 |
 | Sesiones realizadas | 8 (la 8 solo de fotos) |
-| Faltan | 7 productos sin fotos que necesitan fotos propias del dueño |
+| Faltan | Nada para publicar; los 14 descartados vuelven si el dueño consigue fotos o confirma el producto |
 
 El detalle vivo está en `PROGRESO.md`.
 
@@ -22,18 +21,19 @@ Indicadores de calidad del visor (`visor/index.html`; reglas en `config/indicado
 | Indicador | Buena / completos | Regular | Mala / incompletos |
 |---|---|---|---|
 | Descripción | 1,101 | 55 (54 por confianza media) | 7 (sin verificar) |
-| Fotos | 901 | 244 (200 con una sola foto; 58 con la principal < 800 px) | 18 (14 sin fotos, 7 de ellos descartados; 4 solo con fotos chicas) |
+| Fotos | 901 | 244 (200 con una sola foto; 58 con la principal < 800 px) | 18 (14 sin fotos, todos descartados; 4 solo con fotos chicas) |
 | Precios | 1,024 | — | 139 (sin precio del mejor vendedor: 83 sin catálogo en Meli, 44 sin otros vendedores, 12 con catálogo rechazado) |
 
-Pendientes por producto (sección Pendientes del visor, sin contar descartados; reglas en `config/pendientes.json`): 11 productos con errores, 681 con pendientes y 830 con mejoras. Los más frecuentes: podría requerir receta (460), precio calculado arriba del mejor vendedor (386), precio en Meli muy arriba del de tienda (362), una sola foto (200), dato por confirmar en el empaque (168), sin existencia (146), falta el precio del mejor vendedor (132), el GTIN apunta a otro producto en Mercado Libre (12). Productos descartados de Meli: 7 (`python scripts/descartar.py --lista`).
+Pendientes por producto (sección Pendientes del visor, sin contar descartados; reglas en `config/pendientes.json`): 4 productos con errores (solo fotos chicas), 674 con pendientes y 824 con mejoras. Los más frecuentes: podría requerir receta (457), precio calculado arriba del mejor vendedor (386), precio en Meli muy arriba del de tienda (362), una sola foto (200), dato por confirmar en el empaque (164), sin existencia (144), falta el precio del mejor vendedor (125). Productos descartados de Meli: 14 (`python scripts/descartar.py --lista`).
 
-Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado; hoja Precios con parámetros por producto). Costos de envío: 1,012 productos $75, 80 $90, 21 $105, 43 $125 y 7 $150 (`data/envios.csv`); se aplican a los 546 productos de $299 o más. Ajustes de precio versionados: 0 (`data/ajustes_precios.json`). El visor exporta el mismo layout para cualquier selección de productos («Exportar layout Meli»). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado: 638 productos se publican a mejor vendedor − $1 y 525 al calculado. Competencia del 29 sep 2026 en `data/competencia_meli.csv`; catálogos rechazados en `data/catalogo_ml_rechazados.csv`.
+Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado; hoja Precios con parámetros por producto). Costos de envío: 1,012 productos $75, 80 $90, 21 $105, 43 $125 y 7 $150 (`data/envios.csv`); se aplican a los 543 productos de $299 o más que se publican. Ajustes de precio versionados: 0 (`data/ajustes_precios.json`). El visor exporta el mismo layout para cualquier selección de productos («Exportar layout Meli»). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado: 638 productos se publican a mejor vendedor − $1 y 525 al calculado. Competencia del 29 sep 2026 en `data/competencia_meli.csv`; catálogos rechazados en `data/catalogo_ml_rechazados.csv`.
 
 ## Pendientes abiertos
 
 | # | Pendiente | Quién | Notas |
 |---|---|---|---|
-| 1 | 7 verificados sin fotos: Semplex B.N.P. inyectable, Neurodex inyectable, Neurodex tabletas, venda Dibar 30 cm (8 pzas), venda Dibar 5 cm (24 pzas), alcohol Dibar 96° 250 ml (36 pzas), Cintapore piel 1.25 cm (24 rollos) | Dueño | Se buscaron en 3 rondas (GTIN, nombre, catálogo de Meli y búsqueda web del 29 sep 2026). Solo hay fotos con logotipo de tienda o de menos de 500 px. El dueño toma fotos del empaque. Los 7 sin verificar se descartaron de Meli (se pueden reactivar desde el visor si el dueño confirma el producto) |
+| 1 | 14 descartados por falta de datos: 7 sin verificar y 7 sin fotos (Semplex B.N.P. inyectable, Neurodex inyectable y tabletas, vendas Dibar 30 cm y 5 cm, alcohol Dibar 96° 250 ml, Cintapore piel 1.25 cm) | Dueño | Se buscaron en 3 rondas. Si el dueño toma fotos del empaque o confirma el producto, se integran y se reactivan desde el visor («Reactivar en Meli») |
+| 1 bis | Precios en otros marketplaces para el resto del catálogo (hoy 94 de 1,149) | Agente o dueño | Siguiente lote por prioridad de ventas con `docs/agentes/precios_otros.md` (100 productos por sesión rinden bien); o el dueño captura en la hoja Captura del Excel «Exportar comparación». San Pablo, Walmart y Guadalajara bloquean consultas automáticas: sus precios tendrían que venir del dueño |
 | 2 | Productos con datos dudosos a confirmar en empaque (146 con «Dato por confirmar en el empaque» en el visor) | Dueño | P. ej. B-Tracet (GTIN 1306881052251 asociado a tramadol en distribuidores vs. nombre con lidocaína), Colgate Total 2x25 m sin foto. Exportarlos desde la sección Pendientes con la acción «Revisar con el dueño» |
 | 3 | Revisar lo que dejó la API de Mercado Libre (sección Pendientes del visor) | Dueño | 12 GTIN cuyo catálogo en Meli es otro producto u otra presentación (pendiente «El GTIN apunta a otro producto»; sus precios no se usan): confirmar el GTIN en el empaque. Inhibitron Dual (7501299302668): ¿14 o 28 cápsulas? Oxímetro 7502256732016: confirmar modelo INH01. Precios de competencia sospechosos: A.M.K. Amikacina (mejor vendedor $505 contra $19.90 en tienda) y Nediclon (tienda $7.53); corregir en el visor si hace falta. Fotos a completar: Brillantina Palmolive 75001872 (solo reverso), Stefano Play 7509546064697 (solo costado), Freska-ra 7501035911062 (foto de 132 g), Evenflo 7501027515230 (¿Minnie o Mickey?) |
 | 4 | Confirmar el costo de envío estimado ($75–$150 por peso) en los 546 productos de $299 o más | Dueño | Estimado con `scripts/envios.py` (`data/envios.csv`); se corrige producto por producto en el visor y se versiona con «Exportar ajustes de precio». Con la API se pueden tomar medidas reales del catálogo (`marketplaces.mercadolibre.paquete`) |

@@ -106,6 +106,10 @@
     ocultas: new Set(leer("ocultas2", ["linea", "costo_empaque", "precio_marketplaces", "comision", "descuento_mejor_vendedor", "ingreso_neto", "margen"])),
     ajustes: leer("ajustes", {}),
     descartes: leer("descartes", {}),
+    compBase: leer("compBase", "meli"),
+    compSort: { id: "orden", asc: true },
+    compPos: new Set(),
+    compSoloOtros: false,
     f: { nombre: [], codigo: [], categoria: [], linea: new Set(), stock: new Set(), descripcion: new Set(), fotos: new Set(), precios: new Set(),
       publicacion: new Set(), tipo: new Set(), pend: new Set(), ajustes: new Set() },
   };
@@ -230,7 +234,198 @@
   }
   function filtrados() {
     const enPend = estado.seccion === "pendientes";
+    if (estado.seccion === "comparar") {
+      const base = P.filter((p) => coincide(p) && (!estado.compSoloOtros || (p.otros || []).length));
+      base.forEach((p) => { p._cmp = comparacion(p); });
+      compBaseLista = base;
+      return base.filter((p) => !estado.compPos.size || estado.compPos.has(p._cmp.pos)).sort(compOrden());
+    }
     return P.filter((p) => coincide(p) && (!enPend || pendVisibles(p).length > 0)).sort(comparador());
+  }
+
+  // ---------------- Comparar precios ----------------
+  // Competidores: mejor vendedor de Mercado Libre y cada marketplace de data/precios_otros_marketplaces.csv.
+  // «Nosotros» = Precio Meli final (o precio de tienda, según el selector). Misma regla que scripts/build_db.py.
+  const MKTS = DATA.marketplaces || [];
+  const ML_MV = "Mercado Libre (mejor vendedor)";
+  const NOS = "Nosotros";
+  const POS = { mas_caro: "Somos el más caro", intermedio: "Intermedio", mas_barato: "Somos el más barato", sin_comparacion: "Sin comparación" };
+  const EPS = 0.005;
+  let compBaseLista = [];
+  function comparacion(p) {
+    const base = estado.compBase === "tienda" ? p.precios.precio_venta : p.precios.precio_meli_final;
+    const comp = [];
+    if (p.precios.precio_mejor_vendedor != null) comp.push({ q: ML_MV, v: p.precios.precio_mejor_vendedor });
+    (p.otros || []).forEach((o) => comp.push({ q: o.m, v: o.p }));
+    const otros = (p.otros || []).slice().sort((a, b) => a.p - b.p);
+    const r = { base, comp, min: null, max: null, quienMax: "", quienMin: "", pos: "sin_comparacion", dif: null,
+      otrosMin: otros.length ? otros[0].p : null, otrosMinQ: otros.length ? otros[0].m : "", todosMin: null, todosMax: null };
+    if (base == null || !comp.length) return r;
+    const vals = comp.map((c) => c.v);
+    r.min = Math.min(...vals);
+    r.max = Math.max(...vals);
+    const todos = [{ q: NOS, v: base }].concat(comp);  // en empate gana «Nosotros»
+    const hi = todos.reduce((a, b) => (b.v > a.v + EPS ? b : a));
+    const lo = todos.reduce((a, b) => (b.v < a.v - EPS ? b : a));
+    r.quienMax = hi.q; r.quienMin = lo.q; r.todosMax = hi.v; r.todosMin = lo.v;
+    r.pos = base <= r.min + EPS ? "mas_barato" : base >= r.max - EPS ? "mas_caro" : "intermedio";
+    r.dif = base / r.min - 1;
+    return r;
+  }
+  const otrosResumen = (p) => {
+    const o = (p.otros || []).slice().sort((a, b) => a.p - b.p);
+    return o.length ? [o[0].p, o[0].m + (o.length > 1 ? ` (más bajo de ${o.length})` : "")] : [null, null];
+  };
+  const precioMk = (p, m) => (p.otros || []).find((o) => o.m === m);
+  const COMP_COLS = [
+    { id: "gtin", label: "Código", v: (p) => p.gtin, mono: true },
+    { id: "titulo", label: "Producto", v: (p) => norm(p.titulo) },
+    { id: "tienda", label: "Nuestro precio en tienda", v: (p) => p.precios.precio_venta, money: true },
+    { id: "meli", label: "Nosotros: Precio Meli final", v: (p) => p.precios.precio_meli_final, money: true },
+    { id: "mv", label: "Mercado Libre: mejor vendedor", v: (p) => p.precios.precio_mejor_vendedor, money: true, q: ML_MV },
+    { id: "prom", label: "Mercado Libre: promedio (referencia)", v: (p) => p.precios.precio_promedio_otros, money: true },
+    ...MKTS.map((m) => ({ id: "m:" + m, label: m, v: (p) => { const o = precioMk(p, m); return o ? o.p : null; }, money: true, q: m, mk: true })),
+    { id: "otros_min", label: "Precio de venta en otros marketplaces", v: (p) => p._cmp.otrosMin, money: true },
+    { id: "otros_q", label: "Otros marketplaces", v: (p) => p._cmp.otrosMinQ || null },
+    { id: "quien_max", label: "Quién tiene el precio más alto", v: (p) => p._cmp.quienMax || null },
+    { id: "quien_min", label: "Quién tiene el precio más bajo", v: (p) => p._cmp.quienMin || null },
+    { id: "pos", label: "Nuestra posición", v: (p) => ["mas_caro", "intermedio", "mas_barato", "sin_comparacion"].indexOf(p._cmp.pos) },
+    { id: "dif", label: "Nosotros contra el más bajo", v: (p) => p._cmp.dif, pct: true },
+  ];
+  function compOrden() {
+    const s = estado.compSort;
+    const col = COMP_COLS.find((c) => c.id === s.id);
+    const val = col ? col.v : (p) => p.orden;
+    const dir = s.asc ? 1 : -1;
+    return (a, b) => {
+      const va = val(a), vb = val(b);
+      if (va == null && vb == null) return a.orden - b.orden;
+      if (va == null) return 1;
+      if (vb == null) return -1;
+      return va < vb ? -dir : va > vb ? dir : a.orden - b.orden;
+    };
+  }
+  function celdaComp(p, c) {
+    const td = document.createElement("td");
+    const r = p._cmp;
+    const baseId = estado.compBase === "tienda" ? "tienda" : "meli";
+    if (c.money) {
+      td.className = "num";
+      const v = c.v(p);
+      if (v == null) { td.innerHTML = '<span class="sd">—</span>'; return td; }
+      let html = MXN.format(v);
+      if (c.mk) {
+        const o = precioMk(p, c.q);
+        if (o.pl) html += `<small class="lista">${MXN.format(o.pl)}</small>`;
+        if (o.u) html = `<a href="${esc(o.u)}" target="_blank" rel="noopener" title="${esc([o.n, o.f ? "precio del " + o.f : ""].filter(Boolean).join(" · ") || "Abrir la página")}">${html}</a>`;
+      }
+      td.innerHTML = html;
+      const participa = c.q || c.id === baseId;
+      if (participa && r.comp.length && r.base != null) {
+        if (Math.abs(v - r.todosMax) < EPS && r.todosMax - r.todosMin > EPS) td.classList.add("cmp-hi");
+        if (Math.abs(v - r.todosMin) < EPS && r.todosMax - r.todosMin > EPS) td.classList.add("cmp-lo");
+      }
+      if (c.id === baseId) td.classList.add("cmp-nos");
+      return td;
+    }
+    switch (c.id) {
+      case "gtin": td.innerHTML = `<span class="mono">${esc(p.gtin)}</span>`; break;
+      case "titulo": td.className = "prod"; td.innerHTML = `${esc(p.titulo)}<small>${esc(p.categoria)}${p.descartado ? " · descartado de Meli" : ""}</small>`; break;
+      case "otros_q": td.textContent = r.otrosMinQ ? r.otrosMinQ + ((p.otros || []).length > 1 ? ` (de ${p.otros.length})` : "") : "—"; break;
+      case "quien_max": case "quien_min": {
+        const q = c.id === "quien_max" ? r.quienMax : r.quienMin;
+        td.innerHTML = q ? `<span class="${q === NOS ? "q-nos" : ""}">${esc(q)}</span>` : '<span class="sd">—</span>';
+        break;
+      }
+      case "pos": td.innerHTML = `<span class="pos pos-${r.pos}">${POS[r.pos]}</span>`; break;
+      case "dif": td.className = "num"; td.innerHTML = r.dif == null ? '<span class="sd">—</span>' : `<span class="${r.dif > 0.005 ? "dif-mas" : r.dif < -0.005 ? "dif-menos" : ""}">${r.dif > 0 ? "+" : ""}${PCT.format(r.dif)}</span>`; break;
+      default: td.textContent = c.v(p) ?? "";
+    }
+    return td;
+  }
+  function renderComp(pagina) {
+    const tr = $("comp-head");
+    tr.innerHTML = "";
+    const baseId = estado.compBase === "tienda" ? "tienda" : "meli";
+    COMP_COLS.forEach((c) => {
+      const th = document.createElement("th");
+      th.scope = "col";
+      if (c.money || c.pct) th.className = "num";
+      if (c.id === baseId) th.classList.add("cmp-nos");
+      const activo = estado.compSort.id === c.id;
+      th.setAttribute("aria-sort", activo ? (estado.compSort.asc ? "ascending" : "descending") : "none");
+      const b = document.createElement("button");
+      b.type = "button";
+      b.innerHTML = `${esc(c.label)}<span class="dir">${activo ? (estado.compSort.asc ? "▲" : "▼") : ""}</span>`;
+      b.addEventListener("click", () => {
+        if (estado.compSort.id === c.id) estado.compSort.asc = !estado.compSort.asc; else estado.compSort = { id: c.id, asc: !(c.money || c.pct) };
+        estado.pagina = 1;
+        render();
+      });
+      th.appendChild(b);
+      tr.appendChild(th);
+    });
+    $("comp-body").replaceChildren(...pagina.map((p) => {
+      const row = document.createElement("tr");
+      row.tabIndex = 0;
+      if (p.descartado) row.classList.add("descartada");
+      COMP_COLS.forEach((c) => { const td = celdaComp(p, c); td.dataset.col = c.id; row.appendChild(td); });
+      row.addEventListener("click", (e) => { if (!e.target.closest("a")) abrir(p.gtin); });
+      row.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
+      return row;
+    }));
+    const n = { mas_caro: 0, intermedio: 0, mas_barato: 0, sin_comparacion: 0 };
+    compBaseLista.forEach((p) => { n[p._cmp.pos] += 1; });
+    $("comp-chips").innerHTML = Object.keys(POS).map((k) =>
+      `<button type="button" class="res-chip pos-chip pos-${k}" data-pos="${k}" aria-pressed="${estado.compPos.has(k)}">${POS[k]} <b>${ENT.format(n[k])}</b></button>`).join("");
+    $("comp-chips").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => {
+      const k = b.dataset.pos;
+      estado.compPos.has(k) ? estado.compPos.delete(k) : estado.compPos.add(k);
+      aplicar();
+    }));
+    const conOtros = compBaseLista.filter((p) => (p.otros || []).length).length;
+    $("comp-ayuda").textContent = `Competidores: el mejor vendedor de Mercado Libre y ${MKTS.length} tiendas en línea (${MKTS.join(", ")}). `
+      + `${ENT.format(conOtros)} de ${ENT.format(compBaseLista.length)} productos tienen precio en otros marketplaces. `
+      + "Rojo = precio más alto del renglón; verde = el más bajo; la columna resaltada es la nuestra. Clic en un encabezado para ordenar, en un precio para abrir la tienda.";
+  }
+  function exportarComparacion() {
+    const lista = filtrados();
+    if (!lista.length) return;
+    const baseTxt = estado.compBase === "tienda" ? "precio de venta en tienda" : "Precio Meli final";
+    const cols = COMP_COLS.map((c) => ({ titulo: c.label, ancho: c.id === "titulo" ? 50 : c.id === "gtin" ? 16 : c.money ? 14 : 22,
+      formato: c.id === "gtin" ? "codigo" : c.money ? "dinero" : c.pct ? "porcentaje" : "texto" }));
+    const filas = lista.map((p) => COMP_COLS.map((c) => {
+      if (c.id === "titulo") return p.titulo;
+      if (c.id === "pos") return POS[p._cmp.pos];
+      if (c.id === "otros_q") return p._cmp.otrosMinQ || null;
+      if (c.id === "quien_max") return p._cmp.quienMax || null;
+      if (c.id === "quien_min") return p._cmp.quienMin || null;
+      return c.v(p);
+    }));
+    const cap = [];
+    lista.forEach((p) => {
+      (p.otros || []).forEach((o) => cap.push([p.gtin, p.titulo, o.m, o.p, o.pl, o.u, o.n, o.f]));
+      cap.push([p.gtin, p.titulo, null, null, null, null, null, null]);
+    });
+    const capCols = [["Código", 16, "codigo"], ["Producto", 46, "texto"], ["Marketplace", 24, "texto"], ["Precio", 12, "dinero"],
+      ["Precio lista", 12, "dinero"], ["URL", 40, "texto"], ["Nota", 30, "texto"], ["Fecha", 12, "texto"]].map(([titulo, ancho, formato]) => ({ titulo, ancho, formato }));
+    const ahora = new Date();
+    const dos = (v) => String(v).padStart(2, "0");
+    const nombre = `comparacion_precios_${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}.xlsx`;
+    XLSXSimple.descargar(nombre, [
+      { nombre: "Comparación", columnas: cols, filas, filtro: true },
+      { nombre: "Captura", columnas: capCols, filas: cap, filtro: true },
+      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 30, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: [
+        ["Exportado", ahora.toLocaleString("es-MX")],
+        ["Productos", String(lista.length)],
+        ["Nuestro precio", `Se compara nuestro ${baseTxt} contra el mejor vendedor de Mercado Libre y los precios de otros marketplaces.`],
+        ["Posición", "Somos el más caro: nuestro precio es el más alto (o igual al más alto). Somos el más barato: el más bajo (o igual). Intermedio: entre ambos. Sin comparación: no hay precios de competidores."],
+        ["Filtros", describirFiltros() + (estado.compPos.size ? ` · posición: ${[...estado.compPos].map((k) => POS[k]).join(" o ")}` : "")],
+        ["Hoja Captura", "Para agregar o corregir precios de otros marketplaces: un renglón por producto y tienda (Código, Marketplace, Precio; opcionales Precio lista, URL, Nota, Fecha). Usa el renglón vacío de cada producto o agrega más. Precio vacío en un renglón existente = borrar ese precio."],
+        ["Cómo versionarlo", "Adjunta este archivo en el chat y pide «Versiona estos precios de otros marketplaces». Se aplican con python scripts/otros_marketplaces.py excel <archivo> (data/precios_otros_marketplaces.csv) y entran a la base de datos, al layout y al visor."],
+      ] },
+    ]);
+    $("comp-ayuda").textContent = `Se descargó ${nombre} con ${ENT.format(lista.length)} productos.`;
   }
 
   // ---------------- Componentes ----------------
@@ -996,13 +1191,14 @@
       ["Precio Meli promedio otros vendedores", 15, "dinero"], ["Precio mejor vendedor", 13, "dinero"], ["Precio Meli Final", 13, "dinero"],
       ["Diferencia contra mejor vendedor", 13, "porcentaje"], ["Costo fijo aplicado", 12, "dinero"], ["Envío a cargo del vendedor", 13, "dinero"],
       ["Ingreso neto estimado", 13, "dinero"], ["Margen contra Precio de venta Marketplaces", 15, "dinero"],
+      ["Precio de venta en otros marketplaces", 15, "dinero"], ["Otros marketplaces", 30, "texto"],
     ].map(([titulo, ancho, f]) => ({ titulo, ancho, formato: f }));
     const filasP = prods.map((p) => {
       const pr = p.precios;
       return [p.gtin, p.titulo, p.categoria_ruta, pr.precio_venta, pr.costo_empaque, pr.precio_marketplaces, pr.comision, pr.costo_envio,
         pr.descuento_mejor_vendedor, pr.precio_meli_calculado,
         pr.precio_promedio_otros, pr.precio_mejor_vendedor, pr.precio_meli_final, pr.diferencia_mejor_vendedor, pr.costo_fijo,
-        pr.envio_vendedor, pr.ingreso_neto, pr.margen];
+        pr.envio_vendedor, pr.ingreso_neto, pr.margen, ...otrosResumen(p)];
     });
     const conError = prods.filter((p) => p._n.error);
     const ahora = new Date();
@@ -1151,15 +1347,21 @@
     const pagina = lista.slice(ini, ini + estado.porPagina);
     vistaActual = { lista, pagina };
     const enPend = estado.seccion === "pendientes";
+    const enComp = estado.seccion === "comparar";
     $("vacio").hidden = lista.length > 0;
     $("vacio").textContent = estado.soloSel && !estado.sel.size
       ? "No hay productos seleccionados. Quita «Ver solo seleccionados» o selecciona alguno."
       : enPend ? "Ningún producto con pendientes coincide con los filtros. Quita alguno o usa «Limpiar todo»."
         : "Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».";
     const grid = estado.vista === "cuadricula";
-    $("sec-catalogo").setAttribute("aria-pressed", String(!enPend));
+    $("sec-catalogo").setAttribute("aria-pressed", String(!enPend && !enComp));
     $("sec-pendientes").setAttribute("aria-pressed", String(enPend));
-    $("vistas").hidden = enPend;
+    $("sec-comparar").setAttribute("aria-pressed", String(enComp));
+    $("vistas").hidden = enPend || enComp;
+    $("barra-sel").hidden = enComp;
+    $("vista-comp").hidden = !enComp;
+    $("orden").closest(".tool").hidden = enComp;
+    $("orden-dir").hidden = enComp;
     $("accion-wrap").hidden = !enPend;
     $("exportar").hidden = !enPend;
     $("exportar").classList.toggle("btn-primario", enPend);
@@ -1168,13 +1370,15 @@
       ? "Selecciona productos, elige la acción que quieres pedir (o déjala vacía y elígela por renglón en Excel), exporta los pendientes y adjunta el archivo en el chat."
       : "Selecciona productos (casillas de la lista o de las tarjetas, o «Seleccionar los N filtrados») y exporta el layout de Mercado Libre con las URLs de las fotos en GitHub. Los descartados se omiten.");
     $("vista-pend").hidden = !enPend || !lista.length;
-    $("vista-grid").hidden = enPend || !grid;
-    $("vista-tabla").hidden = enPend || grid || !lista.length;
-    $("columnas-wrap").hidden = enPend || grid;
+    $("vista-grid").hidden = enPend || enComp || !grid;
+    $("vista-tabla").hidden = enPend || enComp || grid || !lista.length;
+    $("columnas-wrap").hidden = enPend || enComp || grid;
     $("vista-cuadricula").setAttribute("aria-pressed", String(grid));
     $("vista-lista").setAttribute("aria-pressed", String(!grid));
     $("orden-dir").textContent = estado.asc ? "↑ Ascendente" : "↓ Descendente";
-    if (enPend) {
+    if (enComp) {
+      renderComp(pagina);
+    } else if (enPend) {
       $("vista-pend").replaceChildren(...pagina.map(filaPend));
     } else if (grid) {
       const g = $("vista-grid");
@@ -1252,6 +1456,18 @@
   const bloquePend = (p) => `<h3>Pendientes, errores y mejoras · ${ENT.format(p._pend.length)}</h3>
     ${p._pend.length ? `<ul class="plista">${p._pend.map(itemPend).join("")}</ul>` : `<p class="sd">${p.descartado ? "Producto descartado: no se revisan pendientes." : "Sin pendientes."}</p>`}`;
 
+  function bloqueOtros(p) {
+    const r = comparacion(p);
+    const filas = [];
+    if (p.precios.precio_mejor_vendedor != null) filas.push({ m: ML_MV, p: p.precios.precio_mejor_vendedor });
+    (p.otros || []).forEach((o) => filas.push(o));
+    if (!filas.length) return '<p class="sd">Sin precios de competidores. Agrégalos desde «Comparar precios» → Exportar comparación → hoja Captura.</p>';
+    filas.sort((a, b) => a.p - b.p);
+    return `<p class="pos-linea"><span class="pos pos-${r.pos}">${POS[r.pos]}</span> con ${estado.compBase === "tienda" ? "el precio de tienda" : "el Precio Meli final"} de <b>${dinero(r.base)}</b>${r.dif != null ? ` · ${r.dif > 0 ? "+" : ""}${PCT.format(r.dif)} contra el más bajo` : ""}</p>
+      <table class="ficha otros-tabla"><tbody>${filas.map((o) => `<tr><th scope="row">${o.u ? `<a href="${esc(o.u)}" target="_blank" rel="noopener">${esc(o.m)}</a>` : esc(o.m)}</th>
+        <td class="num">${MXN.format(o.p)}${o.pl ? ` <small class="lista">${MXN.format(o.pl)}</small>` : ""}</td><td class="sd">${esc([o.f, o.n].filter(Boolean).join(" · "))}</td></tr>`).join("")}</tbody></table>`;
+  }
+
   function abrir(gtin) {
     const p = porGtin.get(gtin);
     if (!p) return;
@@ -1293,6 +1509,7 @@
           <section class="bloque" id="det-precios"><h3>Precios e inventario <small class="h3-nota">edita cualquier parámetro; se recalcula al salir del campo</small></h3>
             <p class="det-inv">Inventario: <b class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} piezas</b></p>
           </section>
+          <section class="bloque" id="det-otros"><h3>Precios en otros marketplaces</h3>${bloqueOtros(p)}</section>
           <section class="bloque"><h3>Categoría en Mercado Libre</h3><dl class="kv">
             <dt>Categoría</dt><dd>${esc(p.categoria_ruta || "Sin categoría")}</dd>
             <dt>ID de categoría</dt><dd class="mono">${esc(p.categoria_id || "—")}</dd>
@@ -1419,6 +1636,11 @@
     const seccion = (s) => { estado.seccion = s; guardar("seccion", s); estado.pagina = 1; ayudaMsg = ""; render(); };
     $("sec-catalogo").addEventListener("click", () => seccion("catalogo"));
     $("sec-pendientes").addEventListener("click", () => seccion("pendientes"));
+    $("sec-comparar").addEventListener("click", () => seccion("comparar"));
+    $("comp-base").value = estado.compBase;
+    $("comp-base").addEventListener("change", (e) => { estado.compBase = e.target.value; guardar("compBase", estado.compBase); aplicar(); });
+    $("comp-solo-otros").addEventListener("change", (e) => { estado.compSoloOtros = e.target.checked; aplicar(); });
+    $("comp-exportar").addEventListener("click", exportarComparacion);
     const acc = $("accion");
     acc.innerHTML = '<option value="">Sin especificar (elegir en Excel)</option>'
       + ACCIONES.map((a) => `<option value="${esc(a.nombre)}" title="${esc(a.descripcion)}">${esc(a.nombre)}</option>`).join("");

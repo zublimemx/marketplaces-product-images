@@ -17,6 +17,7 @@ Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en mar
 | `docs/REGLAS_NEGOCIO.md` | Reglas de publicación, contenido, fotos y precio |
 | `docs/CONTRATOS.md` | Formato de product.json, lotes, resultados, insumos y layout |
 | `docs/PROCEDIMIENTO_SESION.md` | Cómo correr una sesión y publicar cambios por PR |
+| `docs/BASE_DE_DATOS.md` | Base de datos SQLite `data/catalogo.db`: tablas, cómo se regenera y consultas |
 | `docs/MERCADOLIBRE_API.md` | Precios de competencia, fotos y descripciones del catálogo con la API de Mercado Libre |
 | `docs/VISOR.md` | Visor de productos: cómo abrirlo, regenerarlo e indicadores |
 | `docs/agentes/` | Instrucciones para subagentes de investigación y de fotos |
@@ -55,6 +56,8 @@ scripts/meli_precios.py          Precios de competencia y datos de catálogo con
 scripts/meli_fotos.py            Completa fotos malas o regulares con las del catálogo de Mercado Libre
 scripts/preparar_revision_ml.py  Hojas de fotos y lotes de descripciones para revisar con subagentes
 scripts/aplicar_revision_ml.py   Aplica la revisión (fotos, descripciones, GTIN confirmados, catálogos rechazados)
+scripts/otros_marketplaces.py    Precios en otros marketplaces (integra subagentes o el Excel del visor)
+scripts/build_db.py              Base de datos SQLite data/catalogo.db con todos los datos (--verificar en CI)
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
 scripts/setup.sh                 Prepara el entorno (dependencias, carpetas locales, validación)
 ```

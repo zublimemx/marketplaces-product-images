@@ -117,6 +117,18 @@ El cambio se aplica al momento en este navegador (`localStorage`, `visor:descart
 
 En la terminal: `python scripts/descartar.py --gtin <GTIN…> --motivo "…"` marca `marketplaces.mercadolibre.descartado` en `product.json`. El producto se queda en el repositorio (sirve para otros marketplaces), pero sale del layout (queda en la hoja Descartados) y el visor lo muestra como «Descartado de Meli». `--reactivar` lo regresa y `--lista` muestra los descartados.
 
+## Comparar precios
+
+Botón **Comparar precios** (arriba, junto a Catálogo y Pendientes): lista tipo Excel, un renglón por producto (respeta los filtros de la izquierda), para ver quién tiene el precio más alto y más bajo.
+
+- Columnas: código, producto, nuestro precio en tienda, **Nosotros: Precio Meli final**, Mercado Libre (mejor vendedor y promedio de referencia), una columna por tienda con precio (Farmacias Benavides, YZA, del Ahorro, Chedraui…), **Precio de venta en otros marketplaces** (el más bajo) y **Otros marketplaces** (tienda de ese precio), quién tiene el precio más alto, quién el más bajo, nuestra posición y nosotros contra el más bajo (%).
+- En cada renglón el precio más alto va en rojo y el más bajo en verde; nuestra columna va resaltada. El precio de lista tachado aparece debajo cuando la tienda tiene oferta. Clic en un precio abre la página de la tienda; clic en el renglón abre el detalle (bloque «Precios en otros marketplaces»).
+- **Nuestro precio**: compara con el Precio Meli final (el que publicamos) o con el precio de venta en tienda.
+- Chips de posición (Somos el más caro, Intermedio, Somos el más barato, Sin comparación) para filtrar; «Solo con precio en otros marketplaces»; clic en un encabezado para ordenar.
+- **Exportar comparación**: Excel con la hoja Comparación (lo filtrado), la hoja **Captura** (precios existentes y un renglón vacío por producto para agregar más) e Instrucciones. El dueño llena Captura, lo adjunta y pide «Versiona estos precios de otros marketplaces» → `python scripts/otros_marketplaces.py excel <archivo.xlsx>`.
+
+La misma comparación está en la base de datos (`comparacion_precios`, `v_comparacion_precios`; `docs/BASE_DE_DATOS.md`).
+
 ## Indicadores
 
 Reglas en `config/indicadores.json` (cámbialas ahí y regenera los datos):

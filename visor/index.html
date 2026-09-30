@@ -20,6 +20,7 @@
     <div class="segmented secciones" role="group" aria-label="Sección">
       <button type="button" id="sec-catalogo" class="seg" aria-pressed="true">Catálogo</button>
       <button type="button" id="sec-pendientes" class="seg" aria-pressed="false">Pendientes</button>
+      <button type="button" id="sec-comparar" class="seg" aria-pressed="false">Comparar precios</button>
     </div>
     <div class="segmented" role="group" aria-label="Vista" id="vistas">
       <button type="button" id="vista-cuadricula" class="seg" aria-pressed="true">Cuadrícula</button>
@@ -120,6 +121,27 @@
       </table>
     </div>
     <div id="vista-pend" class="pend-lista-wrap" hidden></div>
+    <section id="vista-comp" class="comp" hidden aria-label="Comparación de precios">
+      <div class="comp-barra">
+        <label class="tool">
+          <span>Nuestro precio</span>
+          <select id="comp-base">
+            <option value="meli">Precio Meli final (el que publicamos)</option>
+            <option value="tienda">Precio de venta en tienda</option>
+          </select>
+        </label>
+        <div class="comp-chips" id="comp-chips"></div>
+        <label class="check"><input type="checkbox" id="comp-solo-otros"> Solo con precio en otros marketplaces</label>
+        <button type="button" class="btn btn-primario" id="comp-exportar">Exportar comparación</button>
+      </div>
+      <p class="comp-ayuda" id="comp-ayuda"></p>
+      <div class="tabla-wrap comp-wrap">
+        <table class="tabla comp-tabla">
+          <thead><tr id="comp-head"></tr></thead>
+          <tbody id="comp-body"></tbody>
+        </table>
+      </div>
+    </section>
     <p class="vacio" id="vacio" hidden>Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».</p>
     <nav class="paginacion" id="paginacion" aria-label="Paginación"></nav>
   </main>

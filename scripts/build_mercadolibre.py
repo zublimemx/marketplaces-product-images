@@ -19,6 +19,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.worksheet.datavalidation import DataValidation
 
 import envios
+import otros_marketplaces as otros_mk
 import precios as calc_precios
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -74,7 +75,7 @@ PRECIOS_HDR = ["SKU", "Título", "Categoría raíz", "Precio de venta", "Costo d
                "Precio si queda en $299 o más", "Precio Meli promedio otros vendedores", "Precio mejor vendedor",
                "Descuento contra mejor vendedor", "Precio Meli calculado", "Precio Meli Final", "Diferencia contra mejor vendedor",
                "Costo fijo aplicado", "Envío a cargo del vendedor", "Ingreso neto estimado", "Margen contra Precio de venta Marketplaces",
-               "Base del costo de envío", "Ajustes manuales"]
+               "Base del costo de envío", "Ajustes manuales", "Precio de venta en otros marketplaces", "Otros marketplaces"]
 # Columna (1 = A) de cada parámetro ajustable en la hoja Precios
 COL_CAMPO = {"precio_venta": 4, "costo_empaque": 5, "comision": 7, "costo_envio": 9, "precio_promedio_otros": 14,
              "precio_mejor_vendedor": 15, "descuento_mejor_vendedor": 16}
@@ -146,6 +147,7 @@ def build(precios_csv, salida, competencia_csv=None):
     prods = load_products()
     cat_paths = load_cat_paths()
     comp = load_competencia(competencia_csv)
+    otros = otros_mk.leer()
     ajustes = calc_precios.cargar_ajustes()
     cfg_envio = envios.cargar_config()
     with open(precios_csv, encoding="utf-8") as fh:
@@ -277,6 +279,8 @@ def build(precios_csv, salida, competencia_csv=None):
     pre["O1"].comment = Comment("Dato de entrada: precio de la publicación del mismo producto con más ventas. Define el Precio Meli Final.", "Claude")
     pre["Q1"].comment = Comment("Primer tramo cuyo precio cae en su rango; si ninguno cae, o si el mejor vendedor − descuento es de $299 o más, el precio con envío (columna M).", "Claude")
     pre["R1"].comment = Comment("Precio para publicar: Precio mejor vendedor − descuento (columna P) si no queda abajo del Precio Meli calculado; si no, el Precio Meli calculado.", "Claude")
+    pre["Z1"].comment = Comment("Referencia: precio más bajo encontrado del mismo producto en otras tiendas en línea (data/precios_otros_marketplaces.csv, scripts/otros_marketplaces.py). No cambia el Precio Meli Final.", "Claude")
+    pre["AA1"].comment = Comment("Tienda del precio de la columna Z y cuántas tiendas se compararon; el detalle está en data/catalogo.db y en la pantalla «Comparar precios» del visor.", "Claude")
     pre["Y1"].comment = Comment("Parámetros ajustados a mano para este producto (data/ajustes_precios.json); las celdas ajustadas tienen fondo naranja claro.", "Claude")
 
     # ---------------- Revisión ----------------
@@ -322,6 +326,8 @@ def build(precios_csv, salida, competencia_csv=None):
         # Precios
         env = envios.estimar(p, cfg_envio)
         prom, mejor = comp.get(g, (None, None))
+        o_min, o_m, _, _, o_n = otros_mk.resumen(otros.get(g, []))
+        otros_min, otros_txt = (o_min if o_min is not None else ""), (f"{o_m}" + (f" (más bajo de {o_n})" if o_n > 1 else "") if o_m else "")
         aj = ajustes.get(g) or {}
         par_p, origen = calc_precios.parametros(float(r["precio"]), ml["categoria_ruta"], P, prom, mejor, env["costo_envio"], aj)
         pv = [g, f"='Layout Mercado Libre'!C{i}",
@@ -346,7 +352,8 @@ def build(precios_csv, salida, competencia_csv=None):
               f"=R{i}*(1-G{i})-T{i}-U{i}",
               f"=V{i}-F{i}",
               f"{env['base']}; peso cobrable {env['peso_cobrable_kg']:g} kg ({env['tamano']})" + (" · ajustado a mano" if "costo_envio" in origen else ""),
-              ", ".join(PRECIOS_HDR[COL_CAMPO[k] - 1] for k in calc_precios.CAMPOS if k in origen) + (f" — {aj['nota']}" if aj.get("nota") else "")]
+              ", ".join(PRECIOS_HDR[COL_CAMPO[k] - 1] for k in calc_precios.CAMPOS if k in origen) + (f" — {aj['nota']}" if aj.get("nota") else ""),
+              otros_min, otros_txt]
         for j, v in enumerate(pv, start=1):
             c = pre.cell(row=i, column=j, value=(None if v == "" else v))
             c.font = BASE_FONT
@@ -355,7 +362,7 @@ def build(precios_csv, salida, competencia_csv=None):
             pre.cell(row=i, column=j).font = LINK_FONT
         for j in (4, 9, 14, 15):
             pre.cell(row=i, column=j).font = INPUT_FONT
-        for j in (4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23):
+        for j in (4, 5, 6, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23, 26):
             pre.cell(row=i, column=j).number_format = PESOS
         pre.cell(row=i, column=7).number_format = PCT
         pre.cell(row=i, column=19).number_format = PCT
@@ -491,10 +498,10 @@ def build(precios_csv, salida, competencia_csv=None):
     lay.auto_filter.ref = f"A1:{get_column_letter(len(lay_hdr) + len(aux_hdr))}{last}"
     lay.row_dimensions[1].height = 30
 
-    for j, w in enumerate([16, 50, 26, 12, 13, 14, 11, 11, 14, 14, 14, 14, 14, 16, 14, 13, 14, 14, 13, 12, 13, 14, 16, 60, 40], start=1):
+    for j, w in enumerate([16, 50, 26, 12, 13, 14, 11, 11, 14, 14, 14, 14, 14, 16, 14, 13, 14, 14, 13, 12, 13, 14, 16, 60, 40, 15, 34], start=1):
         pre.column_dimensions[get_column_letter(j)].width = w
     pre.freeze_panes = "C2"
-    pre.auto_filter.ref = f"A1:Y{last}"
+    pre.auto_filter.ref = f"A1:AA{last}"
     pre.row_dimensions[1].height = 42
 
     for j, w in enumerate([16, 50, 20, 11, 14, 16, 16, 60, 70, 50, 12, 40, 80, 8, 18, 14, 60], start=1):
