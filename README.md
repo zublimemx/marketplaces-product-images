@@ -1,6 +1,6 @@
 # marketplaces-product-images
 
-Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en marketplaces: Mercado Libre (en curso), Odoo, Shopify y Amazon. Guarda por GTIN la ficha, la descripción, la ficha técnica, las categorías por marketplace y las fotos. Los precios, existencias y ventas no se guardan aquí porque el repositorio se hace público durante las importaciones.
+Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en marketplaces: Mercado Libre (en curso), Odoo, Shopify y Amazon. Guarda por GTIN la ficha, la descripción, la ficha técnica, las categorías por marketplace y las fotos, además del layout de importación de Mercado Libre (con precios y existencias, por decisión del dueño) y un visor web para revisar la calidad de los productos. Las cifras de venta, los Excel del ERP y las credenciales no se guardan aquí.
 
 **Si eres un agente de IA (Codex, Claude u otro), empieza por `AGENTS.md`.** Preparación: `bash scripts/setup.sh`.
 
@@ -16,6 +16,7 @@ Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en mar
 | `docs/CONTRATOS.md` | Formato de product.json, lotes, resultados, insumos y layout |
 | `docs/PROCEDIMIENTO_SESION.md` | Cómo correr una sesión y publicar cambios por PR |
 | `docs/MERCADOLIBRE_API.md` | Precios de competencia y fotos de catálogo con la API de Mercado Libre |
+| `docs/VISOR.md` | Visor de productos: cómo abrirlo, regenerarlo e indicadores |
 | `docs/agentes/` | Instrucciones para subagentes de investigación y de fotos |
 | `schema/` | JSON Schema de product.json y de resultados |
 
@@ -25,6 +26,9 @@ Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en mar
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_1.jpg, <GTIN>_2.jpg, ...
 config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance
+config/indicadores.json          Reglas de los indicadores del visor
+layouts/mercadolibre/            Layout de importación de Mercado Libre (versionado)
+visor/                           Visor web de productos (abrir visor/index.html)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 reference/mercadolibre/          Árbol de categorías MLM
 scripts/preparar_insumos.py      Genera insumos/precios_existencias.csv desde los Excel del ERP
@@ -35,6 +39,8 @@ scripts/integrar_resultados.py   Integra los resultados de una sesión a product
 scripts/validar.py               Valida product.json y resultados contra los esquemas
 scripts/progreso.py              Escribe PROGRESO.md
 scripts/build_mercadolibre.py    Genera el layout de importación de Mercado Libre
+scripts/precios.py               Fórmulas de precio de Mercado Libre (idénticas a la hoja Precios)
+scripts/build_visor.py           Genera los datos del visor (visor/data/productos.js)
 scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
 scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
@@ -45,9 +51,17 @@ scripts/setup.sh                 Prepara el entorno (dependencias, carpetas loca
 
 `https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products/<GTIN>/images/<GTIN>_1.jpg` (solo mientras el repositorio es público).
 
-## Generar el layout de Mercado Libre
+## Layout de Mercado Libre
+
+La versión vigente está en `layouts/mercadolibre/layout_mercadolibre.xlsx` (hojas Layout Mercado Libre, Precios, Parámetros, Revisión, Categorías usadas y Avance). Para regenerarlo:
 
 ```
 python scripts/preparar_insumos.py --ventas <ventas.xlsx> --farma <catalogo_farma.xlsx> --mark <catalogo_mark.xlsx>
-python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx
+python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida layouts/mercadolibre/layout_mercadolibre.xlsx
 ```
+
+y recalcularlo antes de versionarlo (ver `docs/PROCEDIMIENTO_SESION.md` §4).
+
+## Visor de productos
+
+Abre `visor/index.html` con doble clic (o `python -m http.server 8000` desde la raíz y `http://localhost:8000/visor/`). Muestra los 1,163 productos en cuadrícula o tabla, con carrusel de fotos, filtros con autocompletado, orden por columna, paginación, detalle con productos similares e indicadores de descripción, fotos y precios. Para actualizar sus datos: `python scripts/build_visor.py`. Detalle en `docs/VISOR.md`.

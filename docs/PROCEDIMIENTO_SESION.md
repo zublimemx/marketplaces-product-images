@@ -44,13 +44,16 @@ python scripts/validar.py
 
 Revisa visualmente una muestra de fotos nuevas (hoja de contacto por producto en `trabajo/contactos/`).
 
-## 4. Regenerar el layout (opcional en cada sesión, obligatorio antes de importar)
+## 4. Regenerar el layout y el visor (en cada sesión que cambie fichas, fotos o precios)
 
 ```bash
-python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida trabajo/layout_mercadolibre.xlsx
+python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida layouts/mercadolibre/layout_mercadolibre.xlsx
+python scripts/build_visor.py
 ```
 
-El archivo lleva fórmulas sin valores calculados: se calculan al abrirlo en Excel, LibreOffice o Google Sheets.
+`build_mercadolibre.py` escribe fórmulas sin valores calculados. Antes de versionarlo, recalcúlalo para que la copia del repositorio traiga valores: en Claude, con el `recalc.py` de la habilidad xlsx; en otro entorno, abriéndolo y guardándolo en LibreOffice o Excel. Si no hay `insumos/precios_existencias.csv` (por ejemplo, en otra IA sin los Excel del ERP), no regeneres el layout: `build_visor.py` toma precios y existencias del layout versionado.
+
+Revisa el resultado en el visor (`visor/index.html`, ver `docs/VISOR.md`): filtra por indicador «mala» para ver qué falta.
 
 ## 4 bis. Precios de competencia (cuando haya credenciales)
 
@@ -64,7 +67,7 @@ Detalle en `docs/MERCADOLIBRE_API.md`.
 ## 5. Publicar cambios (siempre por PR)
 
 1. Actualiza `PENDIENTES.md` (estado, pendientes abiertos, próximas tareas).
-2. Commits separados: primero `product.json`, `config`, `PROGRESO.md`, `PENDIENTES.md`; luego las fotos en partes de ~100 productos para no exceder límites de empuje.
+2. Commits separados: primero `product.json`, `config`, `PROGRESO.md`, `PENDIENTES.md`, el layout y `visor/data/productos.js`; luego las fotos en partes de ~100 productos para no exceder límites de empuje.
 3. `git push -u origin sesion-NN`
 4. Crear y fusionar el PR: `gh pr create … && gh pr merge --merge` o `python scripts/pr.py --rama sesion-NN --titulo "Sesión NN: …" --cuerpo cuerpo.md --fusionar`.
 5. `git checkout main && git pull --ff-only`.

@@ -12,6 +12,7 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
    - `docs/CONTRATOS.md` y `schema/`: formato de `product.json`, lotes, resultados, insumos y layout.
    - `docs/PROCEDIMIENTO_SESION.md`: cómo correr una sesión de investigación y publicar cambios por PR.
    - `docs/MERCADOLIBRE_API.md`: precios de competencia y fotos de catálogo con la API de Mercado Libre.
+   - `docs/VISOR.md`: visor web para revisar calidad y cantidad de productos (indicadores de descripción, fotos y precios).
    - `docs/agentes/investigacion.md` y `docs/agentes/fotos.md`: instrucciones para investigar un lote de productos.
 
 ## Tareas pendientes y cómo continuarlas
@@ -21,18 +22,19 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Productos que faltan (8 sin verificar, 25 sin fotos; la investigación automática terminó en la sesión 7) | Con datos del dueño o nuevas fuentes: `python scripts/seleccionar_lote.py --sesion 8 --fotos`; cada lote con `docs/agentes/investigacion.md` o `docs/agentes/fotos.md`; integrar con `scripts/integrar_resultados.py` |
 | Precio de la publicación más vendida y promedio de competencia | `docs/MERCADOLIBRE_API.md` + `scripts/meli_precios.py` (necesita credenciales de la API) |
 | Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con `scripts/meli_precios.py --fotos-catalogo` |
-| Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py …` |
+| Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py … --salida layouts/mercadolibre/layout_mercadolibre.xlsx`, recalculado antes de versionar (`docs/PROCEDIMIENTO_SESION.md` §4) |
+| Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; filtrar por indicador «mala» (`docs/VISOR.md`) |
 | Layouts de Odoo, Shopify y Amazon | Nuevos `scripts/build_<canal>.py` que lean `product.json` + `insumos/`; reglas en `config/<canal>.json`; ver `docs/CONTRATOS.md` §7 |
 
 ## Reglas de trabajo
 
 - Fuente de verdad: `products/<GTIN>/product.json`. Las fotos solo se agregan o quitan con `scripts/imagenes.py`, que también las registra en `product.json`.
-- **No versiones precios, existencias, cifras de venta ni credenciales.** El repositorio se hace público durante las importaciones. Precios y existencias viven en `insumos/` (ignorado por git), generados con `scripts/preparar_insumos.py` a partir de los Excel del ERP que entrega el dueño (colócalos en `insumos/originales/`). Las credenciales van en `.env` (ignorado; plantilla en `.env.example`).
+- **Qué se versiona y qué no.** Por decisión del dueño se versionan el layout completo (`layouts/mercadolibre/layout_mercadolibre.xlsx`) y los datos del visor (`visor/data/productos.js`), que traen precios y existencias; al hacer público el repositorio durante una importación, esos datos quedan visibles. **No se versionan** los Excel del ERP ni los CSV de `insumos/` (ignorado por git; se generan con `scripts/preparar_insumos.py` a partir de los Excel que entrega el dueño en `insumos/originales/`), las cifras de venta ni las credenciales (`.env`, ignorado; plantilla en `.env.example`). Solo los `.xlsx` bajo `layouts/` están exentos del `*.xlsx` de `.gitignore`.
 - El repositorio **nunca se borra**. Normalmente es privado; el dueño lo hace público solo durante importaciones (las URLs de fotos `raw.githubusercontent.com` solo funcionan entonces).
 - Fotos: siempre de internet (nunca llegan en ZIP), descargadas y versionadas aquí. Preferencia: fabricante > catálogo de Mercado Libre > tienda. Nada de marcas de agua, logos de tienda, texto promocional ni precios.
 - Investigación: **1 búsqueda web por producto**; abrir páginas concretas no cuenta como búsqueda. No uses buscadores generales vía fetch/curl para esquivar límites. No raspes Mercado Libre ni Amazon: usa la API oficial de Mercado Libre.
 - Nunca inventes datos de ficha técnica ni afirmaciones de salud. Si no se confirma el producto, confianza "baja".
-- Cada cambio va en una rama y un PR; se fusiona con `PENDIENTES.md` y `PROGRESO.md` al día. `python scripts/validar.py` debe pasar antes de fusionar.
+- Cada cambio va en una rama y un PR; se fusiona con `PENDIENTES.md` y `PROGRESO.md` al día (y el layout y `visor/data/productos.js` regenerados si cambiaron fichas, fotos o precios). `python scripts/validar.py` debe pasar antes de fusionar.
 
 ## Notas para Codex
 
@@ -51,10 +53,13 @@ PROGRESO.md                      Avance de fichas y fotos (lo genera scripts/pro
 docs/                            Contexto, reglas, contratos, procedimiento, API de Mercado Libre, instrucciones de subagentes
 schema/                          JSON Schema de product.json y de los resultados de investigación
 config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance por sesión
+config/indicadores.json          Reglas de los indicadores de calidad del visor
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg
 reference/mercadolibre/          Árbol de categorías MLM (todas las hojas, relevantes y con receta)
+layouts/mercadolibre/            Layout de importación de Mercado Libre (.xlsx recalculado, versionado)
+visor/                           Visor web de productos (index.html, styles.css, app.js, data/productos.js)
 scripts/                         Herramientas (ver README.md)
 requirements.txt, .env.example   Dependencias y plantilla de credenciales
 insumos/, trabajo/, .env         Locales, ignorados por git
