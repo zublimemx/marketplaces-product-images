@@ -28,15 +28,34 @@
   const TIPO_ETQ = { error: "Error", pendiente: "Pendiente", mejora: "Mejora" };
   const TIPO_PLURAL = { error: "errores", pendiente: "pendientes", mejora: "mejoras" };
   const ACCIONES = (CATP.acciones || []).map((a) => (typeof a === "string" ? { nombre: a, descripcion: "" } : a));
-  P.forEach((p) => {
-    p._pend = (p.pend || []).map((x) => {
-      const c = CATP.pendientes[x.c] || { tipo: "mejora", titulo: x.c, accion: "" };
-      return { c: x.c, d: x.d, t: c.tipo, titulo: c.titulo, accion: c.accion };
-    }).sort((a, b) => TIPOS.indexOf(a.t) - TIPOS.indexOf(b.t));
+  const enriquecer = (x) => {
+    const c = CATP.pendientes[x.c] || { tipo: "mejora", titulo: x.c, accion: "" };
+    return { c: x.c, d: x.d, t: c.tipo, titulo: c.titulo, accion: c.accion };
+  };
+  const porTipo = (a, b) => TIPOS.indexOf(a.t) - TIPOS.indexOf(b.t);
+  function contarPend(p) {
     p._n = { error: 0, pendiente: 0, mejora: 0 };
     p._pend.forEach((x) => { p._n[x.t] += 1; });
     p._grav = p._n.error * 10000 + p._n.pendiente * 100 + p._n.mejora;
+  }
+  P.forEach((p) => {
+    p._pend = (p.pend || []).map(enriquecer).sort(porTipo);
+    contarPend(p);
   });
+
+  // Parámetros de precio editables (mismo cálculo que scripts/precios.py, en visor/precios.js)
+  const CALC = DATA.calculo || null;
+  const PM = window.PreciosMeli;
+  const CAMPOS_PRECIO = [
+    { id: "precio_venta", label: "Precio de venta (IVA incluido)", corto: "Precio venta" },
+    { id: "costo_empaque", label: "Costo de empaque y logística", corto: "Empaque" },
+    { id: "comision", label: "Comisión Meli (%, IVA incluido)", corto: "Comisión", pct: true },
+    { id: "costo_envio", label: "Costo de envío si el precio queda en $299 o más", corto: "Envío si ≥ $299" },
+    { id: "precio_promedio_otros", label: "Promedio otros vendedores (referencia)", corto: "Promedio otros" },
+    { id: "precio_mejor_vendedor", label: "Precio mejor vendedor", corto: "Mejor vendedor" },
+    { id: "descuento_mejor_vendedor", label: "Descuento contra mejor vendedor", corto: "Descuento" },
+  ];
+  const CAMPO = Object.fromEntries(CAMPOS_PRECIO.map((c) => [c.id, c]));
 
   // ---------------- Preferencias (solo en este navegador) ----------------
   const guardar = (k, v) => { try { localStorage.setItem("visor:" + k, JSON.stringify(v)); } catch (e) { /* sin almacenamiento */ } };
@@ -50,12 +69,18 @@
     { id: "categoria", label: "Categoría", sort: (p) => norm(p.categoria) },
     { id: "linea", label: "Línea", sort: (p) => p.linea },
     { id: "stock", label: "Inventario", sort: (p) => p.stock, num: true },
-    { id: "precio_venta", label: "Precio venta", sort: (p) => p.precios.precio_venta, num: true, money: true },
+    { id: "precio_venta", label: "Precio venta", sort: (p) => p.precios.precio_venta, num: true, money: true, edit: true },
+    { id: "costo_empaque", label: "Empaque", sort: (p) => p.precios.costo_empaque, num: true, money: true, edit: true },
     { id: "precio_marketplaces", label: "Precio marketplaces", sort: (p) => p.precios.precio_marketplaces, num: true, money: true },
+    { id: "comision", label: "Comisión", sort: (p) => p.precios.comision, num: true, edit: true },
+    { id: "costo_envio", label: "Envío si ≥ $299", sort: (p) => p.precios.costo_envio, num: true, money: true, edit: true },
     { id: "precio_meli_calculado", label: "Precio Meli calculado", sort: (p) => p.precios.precio_meli_calculado, num: true, money: true },
-    { id: "precio_promedio_otros", label: "Promedio otros vendedores", sort: (p) => p.precios.precio_promedio_otros, num: true, money: true },
-    { id: "precio_mejor_vendedor", label: "Precio mejor vendedor", sort: (p) => p.precios.precio_mejor_vendedor, num: true, money: true },
+    { id: "precio_promedio_otros", label: "Promedio otros vendedores", sort: (p) => p.precios.precio_promedio_otros, num: true, money: true, edit: true },
+    { id: "precio_mejor_vendedor", label: "Precio mejor vendedor", sort: (p) => p.precios.precio_mejor_vendedor, num: true, money: true, edit: true },
+    { id: "descuento_mejor_vendedor", label: "Descuento vs mejor", sort: (p) => p.precios.descuento_mejor_vendedor, num: true, money: true, edit: true },
     { id: "precio_meli_final", label: "Precio Meli final", sort: (p) => p.precios.precio_meli_final, num: true, money: true },
+    { id: "ingreso_neto", label: "Ingreso neto", sort: (p) => p.precios.ingreso_neto, num: true, money: true },
+    { id: "margen", label: "Margen", sort: (p) => p.precios.margen, num: true, money: true },
     { id: "ind_descripcion", label: "Descripción", sort: (p) => RANGO[p.ind.descripcion] },
     { id: "ind_fotos", label: "Calidad de fotos", sort: (p) => RANGO[p.ind.fotos] },
     { id: "ind_precios", label: "Precios", sort: (p) => RANGO[p.ind.precios] },
@@ -75,10 +100,59 @@
     asc: true,
     pagina: 1,
     porPagina: leer("porPagina", 48),
-    ocultas: new Set(leer("ocultas", ["linea", "precio_marketplaces"])),
+    ocultas: new Set(leer("ocultas2", ["linea", "costo_empaque", "precio_marketplaces", "comision", "descuento_mejor_vendedor", "ingreso_neto", "margen"])),
+    ajustes: leer("ajustes", {}),
     f: { nombre: [], codigo: [], categoria: [], linea: new Set(), stock: new Set(), descripcion: new Set(), fotos: new Set(), precios: new Set(),
-      publicacion: new Set(), tipo: new Set(), pend: new Set() },
+      publicacion: new Set(), tipo: new Set(), pend: new Set(), ajustes: new Set() },
   };
+
+  // ---------------- Ajustes de precio (en este navegador; se versionan con «Exportar ajustes») ----------------
+  const origenCampo = (p, k) => ((estado.ajustes[p.gtin] || {})[k] !== undefined ? "local" : (p.param_origen || {})[k] ? "repo" : "");
+  const etiquetasAjuste = (p) => {
+    const t = [];
+    if (estado.ajustes[p.gtin]) t.push("local");
+    if (p.param_origen && Object.keys(p.param_origen).length) t.push("repo");
+    return t.length ? t : ["sin"];
+  };
+  function recalcular(p) {
+    if (!CALC || !PM || !p.param) return;
+    p.param = { ...p._parBase, ...(estado.ajustes[p.gtin] || {}) };
+    p.precios = PM.calcular(p.param, CALC);
+    const [ind, mot] = PM.indicador(p.precios, (DATA.reglas || {}).precios || {});
+    p.ind.precios = ind;
+    p.ind.precios_motivo = mot;
+    if (!p.descartado) {
+      const nuevos = PM.pendientes(p.precios, CATP.umbrales || {}).map(enriquecer);
+      p._pend = p._pend.filter((x) => !PM.CODIGOS.has(x.c)).concat(nuevos).sort(porTipo);
+    }
+    contarPend(p);
+  }
+  function ajustar(p, campo, valor) {
+    const aj = { ...(estado.ajustes[p.gtin] || {}) };
+    const base = p._parBase[campo];
+    if (valor == null || Number.isNaN(valor) || (base != null && Math.abs(valor - base) < 1e-9)) delete aj[campo];
+    else aj[campo] = valor;
+    if (Object.keys(aj).length) estado.ajustes[p.gtin] = aj; else delete estado.ajustes[p.gtin];
+    guardar("ajustes", estado.ajustes);
+    recalcular(p);
+  }
+  function restablecer(p) {
+    delete estado.ajustes[p.gtin];
+    guardar("ajustes", estado.ajustes);
+    recalcular(p);
+  }
+  P.forEach((p) => {
+    if (!p.param) return;
+    p._parBase = { ...p.param };
+    const aj = estado.ajustes[p.gtin];
+    if (aj) {  // quita ajustes locales que ya son iguales a los datos (p. ej., ya se versionaron)
+      Object.keys(aj).forEach((k) => { if (!(k in p._parBase) || (p._parBase[k] != null && Math.abs(aj[k] - p._parBase[k]) < 1e-9)) delete aj[k]; });
+      if (!Object.keys(aj).length) delete estado.ajustes[p.gtin];
+    }
+    recalcular(p);
+  });
+  Object.keys(estado.ajustes).forEach((g) => { if (!porGtin.has(g)) delete estado.ajustes[g]; });
+  guardar("ajustes", estado.ajustes);
 
   // ---------------- Filtrado y orden ----------------
   function coincide(p, sin) {
@@ -94,6 +168,7 @@
     if (sin !== "publicacion" && f.publicacion.size && !f.publicacion.has(p.descartado ? "descartado" : "publica")) return false;
     if (sin !== "tipo" && f.tipo.size && !p._pend.some((x) => f.tipo.has(x.t))) return false;
     if (sin !== "pend" && f.pend.size && !p._pend.some((x) => f.pend.has(x.c))) return false;
+    if (sin !== "ajustes" && f.ajustes.size && !etiquetasAjuste(p).some((t) => f.ajustes.has(t))) return false;
     if (estado.soloSel && !estado.sel.has(p.gtin)) return false;
     return true;
   }
@@ -280,6 +355,7 @@
     grupoToggles("f-ind-fotos", "fotos", [["buena", "Buenas"], ["regular", "Regulares"], ["mala", "Malas"]]);
     grupoToggles("f-ind-precios", "precios", [["completos", "Completos"], ["incompletos", "Incompletos"]]);
     grupoToggles("f-publicacion", "publicacion", [["publica", "Se publica"], ["descartado", "Descartado"]]);
+    grupoToggles("f-ajustes", "ajustes", [["local", "Editados aquí"], ["repo", "Ajustados en el repositorio"], ["sin", "Sin ajustes"]]);
     grupoToggles("f-tipo", "tipo", [["error", "Errores"], ["pendiente", "Pendientes"], ["mejora", "Mejoras"]], (t) => "pt-" + t);
     const presentes = new Map();
     P.forEach((p) => new Set(p._pend.map((x) => x.c)).forEach((c) => presentes.set(c, (presentes.get(c) || 0) + 1)));
@@ -364,6 +440,7 @@
       linea: (p) => p.linea, stock: (p) => (p.stock > 0 ? "con" : "sin"), descripcion: (p) => p.ind.descripcion, fotos: (p) => p.ind.fotos,
       precios: (p) => p.ind.precios, publicacion: (p) => (p.descartado ? "descartado" : "publica"),
       tipo: (p) => TIPOS.filter((t) => p._n[t]), pend: (p) => [...new Set(p._pend.map((x) => x.c))],
+      ajustes: (p) => etiquetasAjuste(p),
     };
     Object.entries(claves).forEach(([k, fn]) => {
       const c = contar(P.filter((p) => coincide(p, k)).flatMap((p) => { const v = fn(p); return Array.isArray(v) ? v : [v]; }));
@@ -384,6 +461,150 @@
     return lab;
   }
 
+  // ---------------- Edición de precios ----------------
+  const aNum = (s) => {
+    const t = String(s == null ? "" : s).trim().replace(/[$,\s%]/g, "");
+    if (!t) return null;
+    const v = Number(t);
+    return Number.isFinite(v) && v >= 0 ? v : NaN;
+  };
+  const valorCampo = (p, k) => {
+    const v = p.precios[k];
+    return v == null ? "" : CAMPO[k].pct ? String(Math.round(v * 10000) / 100) : String(v);
+  };
+  const ORIGEN_TXT = { local: "Editado en este navegador (se versiona con «Exportar ajustes»)", repo: "Ajustado en el repositorio (data/ajustes_precios.json)" };
+  function marcarOrigen(inp, p, k) {
+    const o = origenCampo(p, k);
+    inp.classList.toggle("aj-local", o === "local");
+    inp.classList.toggle("aj-repo", o === "repo");
+    inp.title = ORIGEN_TXT[o] || "";
+  }
+  function inputPrecio(p, k, alCambiar) {
+    const c = CAMPO[k];
+    const inp = document.createElement("input");
+    inp.type = "text";
+    inp.inputMode = "decimal";
+    inp.autocomplete = "off";
+    inp.className = "num-in";
+    inp.value = valorCampo(p, k);
+    inp.placeholder = "—";
+    inp.dataset.campo = k;
+    inp.setAttribute("aria-label", `${c.label}: ${p.titulo}`);
+    marcarOrigen(inp, p, k);
+    ["click", "mousedown", "dblclick"].forEach((ev) => inp.addEventListener(ev, (e) => e.stopPropagation()));
+    inp.addEventListener("keydown", (e) => {
+      e.stopPropagation();
+      if (e.key === "Enter") inp.blur();
+      if (e.key === "Escape") { inp.value = valorCampo(p, k); inp.blur(); }
+    });
+    inp.addEventListener("change", () => {
+      let v = aNum(inp.value);
+      if (v != null && c.pct) v = v >= 100 ? NaN : v / 100;
+      if (Number.isNaN(v)) { inp.classList.add("invalido"); inp.setAttribute("aria-invalid", "true"); return; }
+      inp.classList.remove("invalido");
+      inp.removeAttribute("aria-invalid");
+      ajustar(p, k, v);
+      inp.value = valorCampo(p, k);
+      marcarOrigen(inp, p, k);
+      if (alCambiar) alCambiar(k);
+    });
+    return inp;
+  }
+  const textoEnvio = (p) => (p.envio ? `Estimado ${MXN.format(p.envio.estimado)} · ${p.envio.peso} kg (${p.envio.tamano}). ${p.envio.base}` : "");
+
+  // Formulario de parámetros con resultados en vivo (detalle y editor de la cuadrícula)
+  function formPrecios(p, alCambiar) {
+    const el = document.createElement("div");
+    el.className = "form-precios";
+    const campos = document.createElement("div");
+    campos.className = "fp-campos";
+    const pistas = {
+      comision: "Por omisión, según la categoría raíz",
+      costo_envio: textoEnvio(p),
+      precio_mejor_vendedor: p.metodo_mejor_vendedor ? `Fuente: ${p.metodo_mejor_vendedor}` : "Publicación del mismo producto con más ventas",
+      descuento_mejor_vendedor: "Precio final = mejor vendedor − descuento",
+      costo_empaque: "Se suma al precio de venta",
+    };
+    const res = document.createElement("dl");
+    res.className = "kv fp-res";
+    const pintar = () => {
+      const pr = p.precios;
+      const aplica = pr.precio_meli_final >= CALC.umbral;
+      res.innerHTML = `
+        <dt>Precio de venta marketplaces</dt><dd>${dinero(pr.precio_marketplaces)}</dd>
+        <dt>Precio Meli calculado</dt><dd>${dinero(pr.precio_meli_calculado)}</dd>
+        <dt class="fuerte">Precio Meli final <small class="regla">mejor vendedor − descuento, nunca abajo del calculado</small></dt><dd class="fuerte">${dinero(pr.precio_meli_final)}</dd>
+        <dt>Diferencia contra mejor vendedor</dt><dd>${pr.diferencia_mejor_vendedor == null ? '<span class="sd">sin dato</span>' : PCT.format(pr.diferencia_mejor_vendedor)}</dd>
+        <dt>Costo fijo Meli</dt><dd>${dinero(pr.costo_fijo)}</dd>
+        <dt>Envío a cargo del vendedor ${aplica ? "" : '<small class="regla">no aplica: precio menor a $299</small>'}</dt><dd>${dinero(pr.envio_vendedor)}</dd>
+        <dt>Ingreso neto estimado</dt><dd>${dinero(pr.ingreso_neto)}</dd>
+        <dt>Margen sobre precio marketplaces</dt><dd class="${pr.margen < 0 ? "stock-0" : ""}">${dinero(pr.margen)}</dd>`;
+      reset.hidden = !estado.ajustes[p.gtin];
+    };
+    const inputs = [];
+    const cambio = (k) => { pintar(); if (alCambiar) alCambiar(k); };
+    CAMPOS_PRECIO.forEach((c) => {
+      const fila = document.createElement("label");
+      fila.className = "fp-fila";
+      fila.innerHTML = `<span class="fp-etq">${esc(c.label)}${pistas[c.id] ? `<small>${esc(pistas[c.id])}</small>` : ""}</span>`;
+      const caja = document.createElement("span");
+      caja.className = "fp-caja";
+      caja.innerHTML = `<span class="fp-u">${c.pct ? "%" : "$"}</span>`;
+      const inp = inputPrecio(p, c.id, cambio);
+      caja.prepend(inp);
+      inputs.push(inp);
+      fila.appendChild(caja);
+      campos.appendChild(fila);
+    });
+    const pie = document.createElement("div");
+    pie.className = "fp-pie";
+    pie.innerHTML = `<span class="fp-leyenda"><i class="aj-local"></i> editado aquí <i class="aj-repo"></i> ajustado en el repositorio</span>`;
+    const reset = document.createElement("button");
+    reset.type = "button";
+    reset.className = "btn-link";
+    reset.textContent = "Deshacer lo editado en este producto";
+    reset.addEventListener("click", () => {
+      restablecer(p);
+      inputs.forEach((inp) => { inp.value = valorCampo(p, inp.dataset.campo); marcarOrigen(inp, p, inp.dataset.campo); inp.classList.remove("invalido"); });
+      cambio(null);
+    });
+    pie.appendChild(reset);
+    el.append(campos, res, pie);
+    pintar();
+    return el;
+  }
+
+  function abrirEditor(p) {
+    const d = $("editor-precios"), inner = $("ed-inner");
+    inner.innerHTML = `<div class="det-head"><div><h2 id="ed-titulo">${esc(p.titulo)}</h2>
+      <div class="det-sub"><span class="mono">${esc(p.gtin)}</span><span>${ENT.format(p.stock)} piezas</span><span>${esc(p.categoria)}</span></div></div>
+      <div class="det-acciones"><button type="button" class="btn" id="ed-detalle">Ver detalle</button><button type="button" class="btn btn-primario" id="ed-listo">Listo</button></div></div>`;
+    inner.appendChild(formPrecios(p));
+    $("ed-listo").addEventListener("click", () => d.close());
+    $("ed-detalle").addEventListener("click", () => { d.close(); abrir(p.gtin); });
+    d.showModal();
+  }
+
+  const DERIVADAS = new Set(["precio_marketplaces", "precio_meli_calculado", "precio_meli_final", "ingreso_neto", "margen", "ind_precios", "pendientes"]);
+  function actualizarFila(tr, p) {
+    if (!tr) return;
+    tr.querySelectorAll("td[data-col]").forEach((td) => {
+      const col = td.dataset.col;
+      if (col === "costo_envio") {
+        const s = td.querySelector("small.sub");
+        if (s) s.textContent = subEnvio(p);
+      }
+      if (!DERIVADAS.has(col)) return;
+      const nuevo = celda(p, COLUMNAS.find((x) => x.id === col));
+      nuevo.dataset.col = col;
+      td.replaceWith(nuevo);
+    });
+    tr.classList.toggle("editado", !!estado.ajustes[p.gtin]);
+    resumen(vistaActual.lista);
+    actualizarBarra();
+  }
+  const subEnvio = (p) => (p.envio ? `${p.envio.peso} kg${CALC && p.precios.precio_meli_final >= CALC.umbral ? "" : " · no aplica"}` : "");
+
   function tarjeta(p) {
     const el = document.createElement("article");
     el.className = "card" + (estado.sel.has(p.gtin) ? " sel" : "");
@@ -398,9 +619,17 @@
       <h3>${esc(p.titulo)}</h3>
       <div class="cat" title="${esc(p.categoria_ruta)}">${esc(p.categoria)}</div>
       <div class="precio"><strong>${dinero(p.precios.precio_meli_final)}</strong><small>venta ${dinero(p.precios.precio_venta)}</small></div>
+      ${CALC ? `<div class="envio-linea${p.precios.precio_meli_final >= CALC.umbral ? " aplica" : ""}" title="${esc(textoEnvio(p))}">${p.precios.precio_meli_final >= CALC.umbral ? `Envío a tu cargo: <b>${MXN.format(p.precios.costo_envio)}</b>` : `Envío <b>${MXN.format(p.precios.costo_envio)}</b> si llega a $299`} · ${p.envio ? p.envio.peso : "—"} kg</div>` : ""}
       ${indicadores(p)}
       ${cuentaPend(p)}`;
     el.appendChild(info);
+    if (CALC) {
+      const pie = document.createElement("div");
+      pie.className = "card-pie";
+      pie.innerHTML = `${estado.ajustes[p.gtin] ? '<span class="tag-editado">precios editados</span>' : ""}<button type="button" class="btn-mini">Editar precios</button>`;
+      pie.querySelector("button").addEventListener("click", (e) => { e.stopPropagation(); abrirEditor(p); });
+      el.appendChild(pie);
+    }
     el.addEventListener("click", () => abrir(p.gtin));
     el.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
     return el;
@@ -409,6 +638,12 @@
   function celda(p, c) {
     const td = document.createElement("td");
     if (c.num) td.className = "num";
+    if (c.edit && CALC && p.param) {
+      td.className = "num edit";
+      td.appendChild(inputPrecio(p, c.id, () => actualizarFila(td.closest("tr"), p)));
+      if (c.id === "costo_envio") td.insertAdjacentHTML("beforeend", `<small class="sub" title="${esc(textoEnvio(p))}">${esc(subEnvio(p))}</small>`);
+      return td;
+    }
     switch (c.id) {
       case "fotos": td.appendChild(carrusel(p.imagenes, { mini: true })); break;
       case "gtin": td.innerHTML = `<span class="mono">${esc(p.gtin)}</span>`; break;
@@ -422,6 +657,7 @@
         break;
       }
       case "pendientes": td.innerHTML = cuentaPend(p); break;
+      case "comision": td.textContent = PCT.format(p.precios.comision); break;
       default: td.innerHTML = dinero(p.precios[c.id]);
     }
     return td;
@@ -471,7 +707,7 @@
     m.querySelectorAll("input").forEach((i) => i.addEventListener("change", () => {
       const id = i.id.slice(4);
       i.checked ? estado.ocultas.delete(id) : estado.ocultas.add(id);
-      guardar("ocultas", [...estado.ocultas]);
+      guardar("ocultas2", [...estado.ocultas]);
       render();
     }));
   }
@@ -543,6 +779,17 @@
     $("exportar-meli").textContent = nMeli ? `Exportar layout Meli (${ENT.format(nMeli)})` : "Exportar layout Meli";
     $("exportar").disabled = !n;
     $("exportar").textContent = n ? `Exportar pendientes (${ENT.format(n)})` : "Exportar pendientes";
+    const nLocal = Object.keys(estado.ajustes).length;
+    const nRepo = P.filter((p) => p.param_origen && Object.keys(p.param_origen).length).length;
+    $("ajustes-fila").hidden = !nLocal && !nRepo;
+    $("aj-n").textContent = ENT.format(nLocal);
+    $("aj-txt").textContent = (nLocal === 1 ? "producto con precios editados en este navegador" : "productos con precios editados en este navegador")
+      + (nRepo ? ` · ${ENT.format(nRepo)} ajustados en el repositorio` : "");
+    $("aj-exportar").disabled = !nLocal && !nRepo;
+    $("aj-deshacer").disabled = !nLocal;
+    const soloEd = estado.f.ajustes.size === 1 && estado.f.ajustes.has("local");
+    $("aj-ver").setAttribute("aria-pressed", String(soloEd));
+    $("aj-ver").textContent = soloEd ? "Ver todos" : "Ver solo editados";
     const todos = $("sel-todos");
     if (todos) {
       todos.checked = lista.length > 0 && nFil === lista.length;
@@ -569,6 +816,7 @@
       ["descripcion", "Descripción", {}], ["fotos", "Fotos", {}], ["precios", "Precios", {}],
       ["publicacion", "Publicación en Meli", { publica: "se publica", descartado: "descartado" }],
       ["tipo", "Tipo de pendiente", { error: "errores", pendiente: "pendientes", mejora: "mejoras" }],
+      ["ajustes", "Ajustes de precio", { local: "editados aquí", repo: "ajustados en el repositorio", sin: "sin ajustes" }],
       ["pend", "Pendiente", Object.fromEntries(Object.entries(CATP.pendientes).map(([c, d]) => [c, d.titulo]))],
     ];
     conj.forEach(([k, t, m]) => { if (f[k].size) partes.push(`${t}: ${[...f[k]].map((v) => m[v] || v).join(" o ")}`); });
@@ -679,14 +927,16 @@
       .concat([{ titulo: "Errores a revisar", formato: "texto", ancho: 40, aux: true }]);
     const colsP = [
       ["SKU", 16, "codigo"], ["Título", 50, "texto"], ["Categoría (ruta)", 50, "texto"], ["Precio de venta", 13, "dinero"],
-      ["Precio de venta Marketplaces", 14, "dinero"], ["Comisión Meli", 11, "porcentaje"], ["Precio Meli calculado", 13, "dinero"],
+      ["Costo de empaque y logística", 12, "dinero"], ["Precio de venta Marketplaces", 14, "dinero"], ["Comisión Meli", 11, "porcentaje"],
+      ["Costo de envío si el precio queda en $299 o más", 14, "dinero"], ["Descuento contra mejor vendedor", 12, "dinero"], ["Precio Meli calculado", 13, "dinero"],
       ["Precio Meli promedio otros vendedores", 15, "dinero"], ["Precio mejor vendedor", 13, "dinero"], ["Precio Meli Final", 13, "dinero"],
       ["Diferencia contra mejor vendedor", 13, "porcentaje"], ["Costo fijo aplicado", 12, "dinero"], ["Envío a cargo del vendedor", 13, "dinero"],
       ["Ingreso neto estimado", 13, "dinero"], ["Margen contra Precio de venta Marketplaces", 15, "dinero"],
     ].map(([titulo, ancho, f]) => ({ titulo, ancho, formato: f }));
     const filasP = prods.map((p) => {
       const pr = p.precios;
-      return [p.gtin, p.titulo, p.categoria_ruta, pr.precio_venta, pr.precio_marketplaces, pr.comision, pr.precio_meli_calculado,
+      return [p.gtin, p.titulo, p.categoria_ruta, pr.precio_venta, pr.costo_empaque, pr.precio_marketplaces, pr.comision, pr.costo_envio,
+        pr.descuento_mejor_vendedor, pr.precio_meli_calculado,
         pr.precio_promedio_otros, pr.precio_mejor_vendedor, pr.precio_meli_final, pr.diferencia_mejor_vendedor, pr.costo_fijo,
         pr.envio_vendedor, pr.ingreso_neto, pr.margen];
     });
@@ -703,7 +953,8 @@
       ["Filtros aplicados al seleccionar", describirFiltros()],
       ["", ""],
       ["Fotos", `Las columnas Imagen 1 a Imagen ${M.n_imagenes} apuntan al repositorio de GitHub (${M.url_imagenes}/<GTIN>/images/…). Solo se pueden descargar mientras el repositorio es público: hazlo público antes de importar y vuelve a hacerlo privado al terminar.`],
-      ["Precio [$]", "Precio Meli Final: precio del mejor vendedor − $1 si no queda abajo del Precio Meli calculado; si no, el calculado. Detalle en la hoja Precios."],
+      ["Precio [$]", "Precio Meli Final: precio del mejor vendedor − descuento si no queda abajo del Precio Meli calculado; si no, el calculado. Si el precio queda en $299 o más, el calculado incluye el envío gratis que cobra Mercado Libre (estimado de $75 a $150 por peso, o el que editaste). Detalle en la hoja Precios."],
+      ["Ajustes de precio", Object.keys(estado.ajustes).length ? `${Object.keys(estado.ajustes).length} productos con precios editados en este navegador ya van con esos precios. Para guardarlos en el repositorio usa «Exportar ajustes de precio».` : "Sin ajustes locales."],
       ["Columnas grises", "Línea de origen, Nombre en sistema, Estado de investigación y Errores a revisar son de control interno; no se suben a Mercado Libre."],
       ["Cómo importarlo", "Copia los datos a la plantilla de carga masiva que Mercado Libre da para cada categoría (o úsalo como hoja maestra), respetando la categoría de cada producto. Es el mismo contenido que layouts/mercadolibre/layout_mercadolibre.xlsx del repositorio, con valores en lugar de fórmulas."],
     ];
@@ -717,6 +968,55 @@
       + (conError.length ? `; ${ENT.format(conError.length)} tienen errores (columna «Errores a revisar»)` : "")
       + ". Las URLs de fotos solo funcionan mientras el repositorio es público.";
     $("pb-ayuda").textContent = ayudaMsg;
+  }
+
+  function exportarAjustes() {
+    const prods = P.filter((p) => estado.ajustes[p.gtin] || (p.param_origen && Object.keys(p.param_origen).length)).sort(comparador());
+    if (!prods.length) return;
+    const cols = [["Código", 16, "codigo"], ["Producto", 46, "texto"]]
+      .concat(CAMPOS_PRECIO.map((c) => [c.label, 15, c.pct ? "porcentaje" : "dinero"]))
+      .concat([["Precio Meli calculado", 13, "dinero"], ["Precio Meli final", 13, "dinero"], ["Origen", 26, "texto"], ["Nota", 40, "largo"]])
+      .map(([titulo, ancho, formato], i) => ({ titulo, ancho, formato, aux: i >= 2 + CAMPOS_PRECIO.length && i < 4 + CAMPOS_PRECIO.length }));
+    const filas = prods.map((p) => [p.gtin, p.titulo, ...CAMPOS_PRECIO.map((c) => (origenCampo(p, c.id) ? p.param[c.id] : null)),
+      p.precios.precio_meli_calculado, p.precios.precio_meli_final,
+      [estado.ajustes[p.gtin] ? "editado en el visor" : "", p.param_origen && Object.keys(p.param_origen).length ? "repositorio" : ""].filter(Boolean).join(" + "),
+      p.ajuste_nota || ""]);
+    const ahora = new Date();
+    const dos = (v) => String(v).padStart(2, "0");
+    const nombre = `ajustes_precios_${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}.xlsx`;
+    XLSXSimple.descargar(nombre, [
+      { nombre: "Ajustes", columnas: cols, filas, filtro: true },
+      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 30, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: [
+        ["Exportado", ahora.toLocaleString("es-MX")],
+        ["Productos", String(prods.length)],
+        ["Qué es", "Parámetros de precio ajustados a mano. Celda vacía = sin ajuste: se usa el valor del sistema, el estimado (envío) o el de la API (competencia). Las columnas Precio Meli calculado y final son solo de referencia."],
+        ["Comisión", "Porcentaje con IVA incluido (14% = 0.14)."],
+        ["Costo de envío", "Envío gratis que Mercado Libre cobra al vendedor cuando el precio queda en $299 o más, IVA incluido."],
+        ["Cómo versionarlo", "Adjunta este archivo en el chat y pide «Versiona estos ajustes de precio». Se guardan en data/ajustes_precios.json con scripts/ajustes_precios.py y entran al layout y al visor."],
+      ] },
+    ]);
+    ayudaMsg = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos ajustados. Adjúntalo en el chat para versionarlos.`;
+    $("pb-ayuda").textContent = ayudaMsg;
+  }
+
+  let deshacerArmado = null;
+  function deshacerAjustes() {
+    const b = $("aj-deshacer");
+    if (!deshacerArmado) {
+      b.textContent = `¿Seguro? Deshacer ${ENT.format(Object.keys(estado.ajustes).length)}`;
+      b.classList.add("peligro");
+      deshacerArmado = setTimeout(() => { deshacerArmado = null; b.classList.remove("peligro"); actualizarBarra(); b.textContent = "Deshacer lo editado aquí"; }, 4000);
+      return;
+    }
+    clearTimeout(deshacerArmado);
+    deshacerArmado = null;
+    b.classList.remove("peligro");
+    b.textContent = "Deshacer lo editado aquí";
+    const gtins = Object.keys(estado.ajustes);
+    estado.ajustes = {};
+    guardar("ajustes", estado.ajustes);
+    gtins.forEach((g) => recalcular(porGtin.get(g)));
+    render();
   }
 
   function render() {
@@ -762,13 +1062,14 @@
       body.replaceChildren(...pagina.map((p) => {
         const tr = document.createElement("tr");
         tr.tabIndex = 0;
-        if (estado.sel.has(p.gtin)) tr.className = "sel";
+        if (estado.sel.has(p.gtin)) tr.classList.add("sel");
+        if (estado.ajustes[p.gtin]) tr.classList.add("editado");
         const tdSel = document.createElement("td");
         tdSel.className = "col-sel";
         tdSel.appendChild(casillaSel(p, "tsel", (on) => tr.classList.toggle("sel", on)));
         tdSel.addEventListener("click", (e) => e.stopPropagation());
         tr.appendChild(tdSel);
-        cols.forEach((c) => tr.appendChild(celda(p, c)));
+        cols.forEach((c) => { const td = celda(p, c); td.dataset.col = c.id; tr.appendChild(td); });
         tr.addEventListener("click", () => abrir(p.gtin));
         tr.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
         return tr;
@@ -821,6 +1122,11 @@
     return { lista: lista.sort((a, b) => a.orden - b.orden).slice(0, 12), total: mismos.length };
   }
 
+  const indGrande = (p) => ["descripcion", "fotos", "precios"].map((k) =>
+    `<div class="ind-${p.ind[k]}"><b>${ETQ[k]}: ${p.ind[k]}</b><span>${esc(p.ind[k + "_motivo"])}</span></div>`).join("");
+  const bloquePend = (p) => `<h3>Pendientes, errores y mejoras · ${ENT.format(p._pend.length)}</h3>
+    ${p._pend.length ? `<ul class="plista">${p._pend.map(itemPend).join("")}</ul>` : `<p class="sd">${p.descartado ? "Producto descartado: no se revisan pendientes." : "Sin pendientes."}</p>`}`;
+
   function abrir(gtin) {
     const p = porGtin.get(gtin);
     if (!p) return;
@@ -845,24 +1151,13 @@
         </div>
       </div>
       ${p.descartado ? `<div class="aviso-descartado"><b>Descartado de Mercado Libre</b> el ${esc(p.descartado.fecha)}: ${esc(p.descartado.motivo)}. No entra en el layout de importación.</div>` : ""}
-      <div class="ind-grande">${["descripcion", "fotos", "precios"].map((k) =>
-        `<div class="ind-${p.ind[k]}"><b>${ETQ[k]}: ${p.ind[k]}</b><span>${esc(p.ind[k + "_motivo"])}</span></div>`).join("")}</div>
+      <div class="ind-grande" id="det-ind">${indGrande(p)}</div>
       <div class="det-body">
         <div class="det-fotos" id="det-fotos"></div>
         <div class="det-datos">
-          <section class="bloque"><h3>Precios e inventario</h3><dl class="kv">
-            <dt>Precio de venta (IVA incluido)</dt><dd>${dinero(pr.precio_venta)}</dd>
-            <dt>Precio de venta marketplaces (+ empaque y logística)</dt><dd>${dinero(pr.precio_marketplaces)}</dd>
-            <dt>Comisión Meli (Clásica)</dt><dd>${PCT.format(pr.comision)}</dd>
-            <dt>Precio Meli calculado</dt><dd>${dinero(pr.precio_meli_calculado)}</dd>
-            <dt>Promedio otros vendedores (referencia)</dt><dd>${dinero(pr.precio_promedio_otros)}</dd>
-            <dt>Precio mejor vendedor${p.metodo_mejor_vendedor ? ` (${esc(p.metodo_mejor_vendedor)})` : ""}</dt><dd>${dinero(pr.precio_mejor_vendedor)}</dd>
-            <dt class="fuerte">Precio Meli final <small class="regla">mejor vendedor − $1, nunca abajo del calculado</small></dt><dd class="fuerte">${dinero(pr.precio_meli_final)}</dd>
-            <dt>Diferencia contra mejor vendedor</dt><dd>${pr.diferencia_mejor_vendedor == null ? '<span class="sd">sin dato</span>' : PCT.format(pr.diferencia_mejor_vendedor)}</dd>
-            <dt>Costo fijo Meli / envío a cargo del vendedor</dt><dd>${dinero(pr.costo_fijo)} / ${dinero(pr.envio_vendedor)}</dd>
-            <dt>Ingreso neto estimado</dt><dd>${dinero(pr.ingreso_neto)}</dd>
-            <dt>Inventario</dt><dd class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} piezas</dd>
-          </dl></section>
+          <section class="bloque" id="det-precios"><h3>Precios e inventario <small class="h3-nota">edita cualquier parámetro; se recalcula al salir del campo</small></h3>
+            <p class="det-inv">Inventario: <b class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} piezas</b></p>
+          </section>
           <section class="bloque"><h3>Categoría en Mercado Libre</h3><dl class="kv">
             <dt>Categoría</dt><dd>${esc(p.categoria_ruta || "Sin categoría")}</dd>
             <dt>ID de categoría</dt><dd class="mono">${esc(p.categoria_id || "—")}</dd>
@@ -871,8 +1166,7 @@
           </dl></section>
         </div>
       </div>
-      <section class="bloque"><h3>Pendientes, errores y mejoras · ${ENT.format(p._pend.length)}</h3>
-        ${p._pend.length ? `<ul class="plista">${p._pend.map(itemPend).join("")}</ul>` : `<p class="sd">${p.descartado ? "Producto descartado: no se revisan pendientes." : "Sin pendientes."}</p>`}</section>
+      <section class="bloque" id="det-pend">${bloquePend(p)}</section>
       <section class="bloque"><h3>Descripción</h3><div class="desc">${descripcionHTML(p.descripcion)}</div></section>
       <section class="bloque"><h3>Ficha técnica</h3>${ficha.length ? `<table class="ficha"><tbody>${ficha.map(([k, v]) =>
         `<tr><th scope="row">${esc(FICHA_ETQ[k] || k)}</th><td>${esc(v)}</td></tr>`).join("")}</tbody></table>` : '<p class="sd">Sin ficha técnica.</p>'}</section>
@@ -888,6 +1182,15 @@
       <section class="bloque"><h3>Productos similares · ${ENT.format(sim.total)} en la misma categoría</h3>
         ${sim.lista.length ? '<div class="similares" id="det-similares"></div>' : '<p class="sd">No hay otros productos en esta categoría.</p>'}
       </section>`;
+
+    if (CALC && p.param) {
+      $("det-precios").insertBefore(formPrecios(p, () => {
+        $("det-ind").innerHTML = indGrande(p);
+        $("det-pend").innerHTML = bloquePend(p);
+      }), $("det-precios").querySelector(".det-inv"));
+    } else {
+      $("det-precios").insertAdjacentHTML("beforeend", `<p>Precio Meli final: <b>${dinero(pr.precio_meli_final)}</b></p>`);
+    }
 
     // fotos con miniaturas
     const cont = $("det-fotos");
@@ -981,6 +1284,16 @@
       if (estado.soloSel) aplicar(); else render();
     });
     $("exportar-meli").addEventListener("click", exportarLayout);
+    $("aj-exportar").addEventListener("click", exportarAjustes);
+    $("aj-deshacer").addEventListener("click", deshacerAjustes);
+    $("aj-ver").addEventListener("click", () => {
+      const soloEd = estado.f.ajustes.size === 1 && estado.f.ajustes.has("local");
+      estado.f.ajustes = soloEd ? new Set() : new Set(["local"]);
+      sincronizarChecks();
+      aplicar();
+    });
+    $("editor-precios").addEventListener("close", () => render());
+    $("editor-precios").addEventListener("click", (e) => { if (e.target === $("editor-precios")) $("editor-precios").close(); });
     $("sel-quitar").addEventListener("click", () => { estado.sel.clear(); estado.soloSel = false; guardarSel(); aplicar(); });
     $("solo-sel").addEventListener("change", (e) => { estado.soloSel = e.target.checked; aplicar(); });
     $("exportar").addEventListener("click", exportar);
@@ -1000,7 +1313,7 @@
       f.classList.toggle("abierto");
       $("btn-filtros").setAttribute("aria-expanded", String(f.classList.contains("abierto")));
     });
-    $("detalle").addEventListener("close", () => { try { history.replaceState(null, "", location.pathname + location.search); } catch (e) { /* */ } });
+    $("detalle").addEventListener("close", () => { try { history.replaceState(null, "", location.pathname + location.search); } catch (e) { /* */ } render(); });
     $("detalle").addEventListener("click", (e) => { if (e.target === $("detalle")) $("detalle").close(); });
     montarFiltros();
     menuColumnas();

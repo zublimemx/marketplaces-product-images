@@ -302,6 +302,47 @@ button, input, select { font: inherit; color: inherit; }
 .sim .p { font-size: 0.85rem; font-weight: 700; font-variant-numeric: tabular-nums; }
 .copiar { border: 1px solid var(--line); background: var(--surface-2); border-radius: 6px; padding: 0 6px; font-size: 0.75rem; cursor: pointer; }
 
+/* ---------- Edición de precios ---------- */
+.num-in {
+  width: 100%; min-width: 0; font: inherit; font-variant-numeric: tabular-nums; text-align: right;
+  border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; background: var(--bg); color: var(--ink);
+}
+.num-in:hover { border-color: var(--muted); }
+.num-in:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+.num-in.aj-local { background: var(--warn-soft); border-color: var(--warn); }
+.num-in.aj-repo { background: var(--accent-soft); border-color: var(--accent); }
+.num-in.invalido { border-color: var(--bad); box-shadow: 0 0 0 2px var(--bad-soft); }
+.tabla td.edit { min-width: 104px; padding-top: 6px; padding-bottom: 6px; }
+.tabla td.edit .num-in { width: 96px; }
+.tabla td small.sub { display: block; color: var(--muted); font-size: 0.72rem; text-align: right; }
+.tabla tbody tr.editado td.col-sel { box-shadow: inset -3px 0 0 var(--warn); }
+.form-precios { display: flex; flex-direction: column; gap: 12px; }
+.fp-campos { display: flex; flex-direction: column; gap: 6px; }
+.fp-fila { display: grid; grid-template-columns: minmax(0, 1fr) 132px; gap: 4px 12px; align-items: center; }
+.fp-etq { font-size: 0.9rem; color: var(--ink); line-height: 1.3; min-width: 0; }
+.fp-etq small { display: block; color: var(--muted); font-size: 0.76rem; overflow-wrap: anywhere; }
+.fp-caja { position: relative; display: block; }
+.fp-caja .num-in { padding-right: 22px; }
+.fp-u { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.8rem; pointer-events: none; }
+.fp-res { border-top: 1px solid var(--line); padding-top: 10px; }
+.fp-pie { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 12px; align-items: center; font-size: 0.8rem; color: var(--muted); }
+.fp-leyenda { display: inline-flex; gap: 6px; align-items: center; flex-wrap: wrap; }
+.fp-leyenda i { display: inline-block; width: 12px; height: 12px; border-radius: 3px; border: 1px solid; }
+.fp-leyenda i.aj-local { background: var(--warn-soft); border-color: var(--warn); }
+.fp-leyenda i.aj-repo { background: var(--accent-soft); border-color: var(--accent); margin-left: 6px; }
+.h3-nota { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--muted); font-size: 0.78rem; margin-left: 6px; }
+.det-inv { margin: 10px 0 0; font-size: 0.9rem; }
+.envio-linea { font-size: 0.78rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.envio-linea b { color: var(--ink); font-weight: 700; }
+.envio-linea.aplica { color: var(--warn); }
+.card-pie { display: flex; justify-content: space-between; align-items: center; gap: 6px; margin-top: auto; }
+.btn-mini { border: 1px solid var(--line); background: var(--surface); color: var(--accent); border-radius: 6px; padding: 3px 8px; font-size: 0.8rem; cursor: pointer; margin-left: auto; }
+.btn-mini:hover { border-color: var(--accent); }
+.tag-editado { background: var(--warn-soft); color: var(--warn); border-radius: 999px; padding: 0 8px; font-size: 0.72rem; }
+.pb-ajustes { background: var(--warn-soft); border-radius: 8px; padding: 6px 10px; }
+.btn.peligro { border-color: var(--bad); color: var(--bad); }
+.editor { width: min(640px, calc(100vw - 32px)); }
+
 /* ---------- Pendientes ---------- */
 .btn-primario { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); font-weight: 700; }
 .btn-primario:hover { filter: brightness(1.08); }
