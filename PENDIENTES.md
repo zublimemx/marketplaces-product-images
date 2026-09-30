@@ -1,6 +1,6 @@
 # Pendientes y próximas tareas
 
-Última actualización: 2026-09-30, al completar precios en otros marketplaces de los 700 productos más vendidos (628 con precio) para la pantalla «Comparar precios» y la base de datos `data/catalogo.db`. Para continuar con otra IA, empieza por `AGENTS.md`.
+Última actualización: 2026-09-30, al completar precios en otros marketplaces de los 900 productos más vendidos (793 con precio; la última tanda con 16 subagentes en paralelo) para la pantalla «Comparar precios» y la base de datos `data/catalogo.db`. Para continuar con otra IA, empieza por `AGENTS.md`.
 
 ## Estado
 
@@ -9,7 +9,7 @@
 | Productos en el repositorio | 1,163 |
 | Descartados de Meli (7 sin verificar y 7 sin fotos) | 14 |
 | Productos a publicar | 1,149 (todos verificados y con fotos) |
-| Con precio en otros marketplaces | 628 de los 700 más vendidos (1,577 precios; sobre todo Benavides, YZA, del Ahorro y Chedraui) |
+| Con precio en otros marketplaces | 793 de los 900 más vendidos (1,990 precios; sobre todo Benavides, YZA, del Ahorro y Chedraui) |
 | Pendientes de investigar | 0 |
 | Sesiones realizadas | 8 (la 8 solo de fotos) |
 | Faltan | Nada para publicar; los 14 descartados vuelven si el dueño consigue fotos o confirma el producto |
@@ -33,7 +33,7 @@ Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, rec
 | # | Pendiente | Quién | Notas |
 |---|---|---|---|
 | 1 | 14 descartados por falta de datos: 7 sin verificar y 7 sin fotos (Semplex B.N.P. inyectable, Neurodex inyectable y tabletas, vendas Dibar 30 cm y 5 cm, alcohol Dibar 96° 250 ml, Cintapore piel 1.25 cm) | Dueño | Se buscaron en 3 rondas. Si el dueño toma fotos del empaque o confirma el producto, se integran y se reactivan desde el visor («Reactivar en Meli») |
-| 1 bis | Precios en otros marketplaces para el resto del catálogo (hoy 628 de 1,149; faltan 449, los de prioridad 712 en adelante) | Agente o dueño | Siguiente lote por prioridad de ventas con `docs/agentes/precios_otros.md` (8 subagentes × 25 productos por tanda; Farmacias del Ahorro corta con 307 tras pocas consultas con 8 agentes en paralelo, así que aporta menos precios); o el dueño captura en la hoja Captura del Excel «Exportar comparación». San Pablo, Walmart y Guadalajara bloquean consultas automáticas: sus precios tendrían que venir del dueño |
+| 1 bis | Precios en otros marketplaces para el resto del catálogo (hoy 793 de 1,149; faltan 249, los de prioridad 912 en adelante) | Agente o dueño | Siguiente lote por prioridad de ventas con `docs/agentes/precios_otros.md` (8 subagentes × 25 productos por tanda; Farmacias del Ahorro corta con 307 tras pocas consultas con 8 agentes en paralelo, así que aporta menos precios); o el dueño captura en la hoja Captura del Excel «Exportar comparación». San Pablo, Walmart y Guadalajara bloquean consultas automáticas: sus precios tendrían que venir del dueño |
 | 2 | Productos con datos dudosos a confirmar en empaque (146 con «Dato por confirmar en el empaque» en el visor) | Dueño | P. ej. B-Tracet (GTIN 1306881052251 asociado a tramadol en distribuidores vs. nombre con lidocaína), Colgate Total 2x25 m sin foto. Exportarlos desde la sección Pendientes con la acción «Revisar con el dueño» |
 | 3 | Revisar lo que dejó la API de Mercado Libre (sección Pendientes del visor) | Dueño | 12 GTIN cuyo catálogo en Meli es otro producto u otra presentación (pendiente «El GTIN apunta a otro producto»; sus precios no se usan): confirmar el GTIN en el empaque. Inhibitron Dual (7501299302668): ¿14 o 28 cápsulas? Oxímetro 7502256732016: confirmar modelo INH01. Precios de competencia sospechosos: A.M.K. Amikacina (mejor vendedor $505 contra $19.90 en tienda) y Nediclon (tienda $7.53); corregir en el visor si hace falta. Fotos a completar: Brillantina Palmolive 75001872 (solo reverso), Stefano Play 7509546064697 (solo costado), Freska-ra 7501035911062 (foto de 132 g), Evenflo 7501027515230 (¿Minnie o Mickey?) |
 | 4 | Confirmar el costo de envío estimado ($75–$150 por peso) en los 546 productos de $299 o más | Dueño | Estimado con `scripts/envios.py` (`data/envios.csv`); se corrige producto por producto en el visor y se versiona con «Exportar ajustes de precio». Con la API se pueden tomar medidas reales del catálogo (`marketplaces.mercadolibre.paquete`) |
