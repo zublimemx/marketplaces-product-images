@@ -9,7 +9,7 @@
   },
   "precios": {
     "costo_empaque_logistica_por_pieza": 4,
-    "descuento_vs_promedio_competencia": 1,
+    "descuento_vs_mejor_vendedor": 1,
     "umbral_envio_gratis_obligatorio": 299,
     "costo_envio_vendedor_estimado": 0,
     "costos_fijos_clasica": [

@@ -110,6 +110,9 @@ def build(precios_csv, salida, competencia_csv=None):
     for r in rows:
         if r["gtin"] not in prods:
             raise SystemExit(f"GTIN {r['gtin']} sin product.json")
+    # Productos descartados de Mercado Libre (scripts/descartar.py): fuera del layout, listados en la hoja Descartados
+    descartados = [r for r in rows if prods[r["gtin"]]["marketplaces"]["mercadolibre"].get("descartado")]
+    rows = [r for r in rows if not prods[r["gtin"]]["marketplaces"]["mercadolibre"].get("descartado")]
 
     wb = Workbook()
     lay = wb.active
@@ -118,6 +121,7 @@ def build(precios_csv, salida, competencia_csv=None):
     par = wb.create_sheet("Parámetros")
     rev = wb.create_sheet("Revisión")
     cats = wb.create_sheet("Categorías usadas")
+    des = wb.create_sheet("Descartados")
     ava = wb.create_sheet("Avance", 0)
 
     # ---------------- Parámetros ----------------
@@ -131,7 +135,7 @@ def build(precios_csv, salida, competencia_csv=None):
     fuentes = P["fuentes"]
     params = [
         (5, "Costo de empaque y logística interna por pieza ($)", P["costo_empaque_logistica_por_pieza"], "Indicado por el usuario, 29 sep 2026", PESOS),
-        (6, "Descuento contra el promedio de otros vendedores ($)", P["descuento_vs_promedio_competencia"], "Indicado por el usuario, 29 sep 2026", PESOS),
+        (6, "Descuento contra el precio del mejor vendedor ($)", P["descuento_vs_mejor_vendedor"], "Indicado por el usuario, 29 sep 2026: Precio Meli Final = mejor vendedor − $1 si no queda abajo del Precio Meli calculado", PESOS),
         (7, "Precio desde el que Mercado Libre obliga el envío gratis ($)", P["umbral_envio_gratis_obligatorio"], fuentes[2], PESOS),
         (8, "Costo de envío estimado a cargo del vendedor en productos con envío gratis ($)", P["costo_envio_vendedor_estimado"], "Por confirmar: depende del peso del paquete y de la reputación; con 0 el precio no lo cubre", PESOS),
         (9, "Comisión Clásica para categorías no listadas abajo", P["comision_clasica_otras_categorias"], fuentes[3], PCT),
@@ -218,8 +222,9 @@ def build(precios_csv, salida, competencia_csv=None):
         pre.cell(row=1, column=j, value=h)
     style_header(pre, 1, len(pre_hdr))
     pre["D1"].comment = Comment("Fuente: catalogo_productos_farma.xlsx y catalogo_productos_mark.xlsx, columna Precio de venta (impuestos incluidos, según el usuario), subidos 2026-09-29.", "Claude")
-    pre["L1"].comment = Comment("Dato de entrada: precio promedio de otras publicaciones del mismo producto en Mercado Libre.", "Claude")
-    pre["M1"].comment = Comment("Dato de entrada: precio de la publicación del mismo producto con más ventas.", "Claude")
+    pre["L1"].comment = Comment("Dato de entrada, solo de referencia: precio promedio de otras publicaciones del mismo producto en Mercado Libre.", "Claude")
+    pre["M1"].comment = Comment("Dato de entrada: precio de la publicación del mismo producto con más ventas. Define el Precio Meli Final.", "Claude")
+    pre["N1"].comment = Comment("Precio para publicar: Precio mejor vendedor − $1 (Parámetros B6) si no queda abajo del Precio Meli calculado; si no, el Precio Meli calculado.", "Claude")
 
     # ---------------- Revisión ----------------
     rev_hdr = ["SKU", "Título", "Estado de investigación", "Confianza", "Encontrado por",
@@ -277,7 +282,7 @@ def build(precios_csv, salida, competencia_csv=None):
               f"=MAX(ROUNDUP((E{i}+Parámetros!$B$8)/(1-F{i}),0),Parámetros!$B$7)",
               f"=IF(G{i}<Parámetros!$B$13,G{i},IF(H{i}<Parámetros!$B$14,H{i},IF(I{i}<Parámetros!$B$15,I{i},J{i})))",
               comp.get(g, (None, None))[0], comp.get(g, (None, None))[1],
-              f"=IF(AND(ISNUMBER(L{i}),L{i}-Parámetros!$B$6>=K{i}),L{i}-Parámetros!$B$6,K{i})",
+              f"=IF(AND(ISNUMBER(M{i}),M{i}-Parámetros!$B$6>=K{i}),M{i}-Parámetros!$B$6,K{i})",
               f"=IF(ISNUMBER(M{i}),N{i}/M{i}-1,\"\")",
               f"=VLOOKUP(N{i},Parámetros!$A$13:$C$16,3,TRUE)",
               f"=IF(N{i}>=Parámetros!$B$7,Parámetros!$B$8,0)",
@@ -357,6 +362,7 @@ def build(precios_csv, salida, competencia_csv=None):
         (10, "Pendientes de investigar", f"=COUNTIF({rng_e},\"Pendiente de investigar\")", None),
         (11, "Por investigar (sin verificar + pendientes)", "=B9+B10", None),
         (12, "Avance (completos / total)", "=IF(B4=0,0,B7/B4)", PCT),
+        (13, "Descartados de Mercado Libre (fuera del layout; hoja Descartados)", "=COUNTA(Descartados!$A$2:$A$5000)", None),
         (14, "Productos por sesión", cfg.get("avance", {}).get("productos_por_sesion", 200), "input"),
         (15, "Sesiones realizadas", cfg.get("avance", {}).get("sesiones_realizadas", 0), "input"),
         (16, "Sesiones que faltan", "=ROUNDUP(B11/B14,0)", None),
@@ -385,6 +391,24 @@ def build(precios_csv, salida, competencia_csv=None):
     ava.column_dimensions["C"].width = 22
     ava.column_dimensions["D"].width = 20
     ava.column_dimensions["E"].width = 26
+
+    # ---------------- Descartados ----------------
+    des_hdr = ["SKU", "Título", "Nombre en sistema", "Motivo del descarte", "Fecha del descarte", "Precio de venta", "Existencia en catálogo"]
+    for j, h in enumerate(des_hdr, start=1):
+        des.cell(row=1, column=j, value=h)
+    style_header(des, 1, len(des_hdr))
+    for i, r in enumerate(descartados, start=2):
+        p = prods[r["gtin"]]
+        d = p["marketplaces"]["mercadolibre"]["descartado"]
+        vals = [r["gtin"], p["titulo"] or p["nombre_sistema"], p["nombre_sistema"], d["motivo"], d["fecha"],
+                float(r["precio"]), int(float(r["stock"]))]
+        for j, v in enumerate(vals, start=1):
+            des.cell(row=i, column=j, value=v).font = BASE_FONT
+        des.cell(row=i, column=1).number_format = "@"
+        des.cell(row=i, column=6).number_format = PESOS
+    for j, w in enumerate([16, 58, 40, 70, 14, 14, 12], start=1):
+        des.column_dimensions[get_column_letter(j)].width = w
+    des.freeze_panes = "A2"
 
     # ---------------- Formato general ----------------
     widths_lay = {"A": 16, "B": 16, "C": 58, "D": 12, "E": 60, "F": 12, "G": 10, "H": 10, "I": 12, "J": 60,
@@ -420,7 +444,7 @@ def build(precios_csv, salida, competencia_csv=None):
     dv.add(f"L2:M{last}")
 
     wb.save(salida)
-    print(f"{len(rows)} productos -> {salida}")
+    print(f"{len(rows)} productos -> {salida}" + (f" ({len(descartados)} descartados, en la hoja Descartados)" if descartados else ""))
 
 
 if __name__ == "__main__":

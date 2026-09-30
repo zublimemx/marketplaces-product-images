@@ -28,6 +28,8 @@ Resultado del cruce: 1,174 renglones de ventas → 1,163 productos únicos (se e
 8. Investigar 200 productos por sesión (por el límite de búsquedas) y llevar la cuenta de avance y sesiones restantes.
 9. Todo cambio al repositorio por PR, fusionado, con pendientes y próximas tareas siempre actualizados; el repositorio debe permitir continuar el trabajo con otra IA (Claude o Codex).
 10. Versionar el layout completo de Mercado Libre en el repositorio (con precios y existencias) y un visor web (HTML, CSS y JS separados) para validar visualmente la calidad y cantidad de los productos, con indicadores de descripción (mala/regular/buena), fotos (mala/regular/buena) y precios (incompletos/completos), filtros, orden, paginación y productos similares. Ver `docs/VISOR.md`. Los Excel originales, las cifras de venta y las credenciales siguen fuera de git.
+11. Precio Meli Final = Precio mejor vendedor − $1, siempre que no quede abajo del Precio Meli calculado; si no, el calculado (29 sep 2026; antes se usaba el promedio de otros vendedores, que queda como referencia).
+12. El visor tiene una sección de Pendientes (errores, pendientes y mejoras por producto) que exporta a Excel los productos seleccionados. El dueño marca ahí la acción que quiere (completar información, buscar más imágenes, completar precios, revisar o descartar de Meli) y adjunta el archivo; ver `docs/VISOR.md`.
 
 ## Hallazgos que conviene conocer
 

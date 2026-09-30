@@ -23,7 +23,9 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Precio de la publicación más vendida y promedio de competencia | `docs/MERCADOLIBRE_API.md` + `scripts/meli_precios.py` (necesita credenciales de la API) |
 | Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con `scripts/meli_precios.py --fotos-catalogo` |
 | Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py … --salida layouts/mercadolibre/layout_mercadolibre.xlsx`, recalculado antes de versionar (`docs/PROCEDIMIENTO_SESION.md` §4) |
-| Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; filtrar por indicador «mala» (`docs/VISOR.md`) |
+| Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; sección Pendientes o filtro por indicador «mala» (`docs/VISOR.md`) |
+| **Procesar un Excel de pendientes que adjunta el dueño** | `python scripts/solicitudes.py <archivo.xlsx>` agrupa por «Acción solicitada»; `--aplicar-descartes` descarta; el resto según `docs/VISOR.md` («Pedir acciones con el Excel»). Luego regenerar layout y visor y abrir PR |
+| Descartar o reactivar productos de Mercado Libre | `python scripts/descartar.py --gtin … --motivo …` / `--reactivar` / `--lista` |
 | Layouts de Odoo, Shopify y Amazon | Nuevos `scripts/build_<canal>.py` que lean `product.json` + `insumos/`; reglas en `config/<canal>.json`; ver `docs/CONTRATOS.md` §7 |
 
 ## Reglas de trabajo
@@ -54,12 +56,13 @@ docs/                            Contexto, reglas, contratos, procedimiento, API
 schema/                          JSON Schema de product.json y de los resultados de investigación
 config/mercadolibre.json         Valores fijos de publicación, parámetros de precio y avance por sesión
 config/indicadores.json          Reglas de los indicadores de calidad del visor
+config/pendientes.json           Catálogo de pendientes por producto, umbrales y acciones que el dueño puede pedir
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg
 reference/mercadolibre/          Árbol de categorías MLM (todas las hojas, relevantes y con receta)
 layouts/mercadolibre/            Layout de importación de Mercado Libre (.xlsx recalculado, versionado)
-visor/                           Visor web de productos (index.html, styles.css, app.js, data/productos.js)
+visor/                           Visor web de productos (index.html, styles.css, app.js, xlsx.js, data/productos.js)
 scripts/                         Herramientas (ver README.md)
 requirements.txt, .env.example   Dependencias y plantilla de credenciales
 insumos/, trabajo/, .env         Locales, ignorados por git

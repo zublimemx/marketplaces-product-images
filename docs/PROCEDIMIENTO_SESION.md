@@ -55,6 +55,22 @@ python scripts/build_visor.py
 
 Revisa el resultado en el visor (`visor/index.html`, ver `docs/VISOR.md`): filtra por indicador «mala» para ver qué falta.
 
+## 4 ter. Procesar un Excel de pendientes del dueño
+
+Cuando el dueño adjunta un `pendientes_meli_*.xlsx` exportado del visor:
+
+```bash
+python scripts/solicitudes.py <archivo.xlsx> --csv trabajo/solicitudes.csv    # resumen por acción
+python scripts/solicitudes.py <archivo.xlsx> --aplicar-descartes              # si hay «Descartar de Meli»
+```
+
+- **Completar información**: lotes con `docs/agentes/investigacion.md` (en `trabajo/sesion_NN/lotes/`, con los GTIN pedidos).
+- **Buscar más imágenes**: lotes con `docs/agentes/fotos.md`.
+- **Completar precios**: `scripts/meli_precios.py` (necesita credenciales) o el dato que el dueño escribió en Comentarios.
+- **Revisar con el dueño**: aplicar lo que el dueño escribió en Comentarios; si no escribió nada, preguntarle.
+
+Después: regenerar layout y visor (§4), `python scripts/validar.py`, actualizar `PENDIENTES.md` y PR.
+
 ## 4 bis. Precios de competencia (cuando haya credenciales)
 
 ```bash

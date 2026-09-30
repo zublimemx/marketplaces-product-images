@@ -7,6 +7,7 @@ Todas vienen del dueño salvo donde se indica "supuesto". Los valores numéricos
 - Los del Excel de más vendidos (jul–sep 2026) de Farma y Mark, cruzados por nombre contra su catálogo (`scripts/preparar_insumos.py`).
 - Un solo registro por GTIN. Si el GTIN está en Farma y en Mark: existencia sumada y precio mayor.
 - Existencia negativa → 0. Productos sin existencia se incluyen con 0.
+- El dueño puede **descartar** productos de Mercado Libre (normalmente pidiéndolo en el Excel de pendientes del visor). Un descartado se conserva en el repositorio pero sale del layout (hoja Descartados). Se marca con `scripts/descartar.py`.
 
 ## Publicación en Mercado Libre (valores fijos)
 
@@ -41,9 +42,9 @@ Todas vienen del dueño salvo donde se indica "supuesto". Los valores numéricos
 | Precio de venta | Precio del catálogo (IVA incluido) |
 | Precio de venta Marketplaces | Precio de venta + $4 por pieza (empaque y logística interna) |
 | Precio Meli calculado | Precio de venta Marketplaces + comisión aproximada de Mercado Libre, redondeado al peso hacia arriba |
-| Precio Meli promedio otros vendedores | Dato de entrada (pendiente de obtener) |
-| Precio mejor vendedor | Dato de entrada: precio de la publicación del mismo producto con más ventas (pendiente; propuesta: ganador del catálogo) |
-| Precio Meli Final | Si hay promedio y (promedio − $1) ≥ calculado: promedio − $1; si no, el calculado |
+| Precio Meli promedio otros vendedores | Dato de entrada, solo de referencia (pendiente de obtener) |
+| Precio mejor vendedor | Dato de entrada: precio de la publicación del mismo producto con más ventas (pendiente; si la API no da ventas, ganador del catálogo) |
+| Precio Meli Final | Precio con el que se publica. Si hay precio del mejor vendedor y (mejor vendedor − $1) ≥ calculado: mejor vendedor − $1; si no, el calculado. Regla del dueño del 29 sep 2026 (antes se usaba el promedio de otros vendedores) |
 
 Comisión aproximada (publicación Clásica, fuentes en `config/mercadolibre.json`):
 - Porcentaje por categoría raíz: Salud y Equipamiento Médico 14 %, Belleza y Cuidado Personal 14 %, Bebés 15 %, Alimentos y Bebidas 10 %, otras 16 % (supuesto conservador).

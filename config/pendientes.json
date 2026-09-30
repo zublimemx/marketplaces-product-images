@@ -1,0 +1,50 @@
+{
+  "nota": "Catálogo de pendientes por producto que calcula scripts/build_visor.py y muestra el visor (sección Pendientes). tipo: error = impide o pone en riesgo la publicación; pendiente = falta un dato o una confirmación; mejora = se puede publicar, pero conviene mejorarlo. accion = acción sugerida (una de 'acciones').",
+  "acciones": [
+    {"nombre": "Completar información", "descripcion": "Investigar de nuevo el producto y completar título, descripción, ficha técnica o categoría (docs/agentes/investigacion.md)"},
+    {"nombre": "Buscar más imágenes", "descripcion": "Buscar y descargar más fotos, o de mejor resolución y fondo blanco (docs/agentes/fotos.md)"},
+    {"nombre": "Completar precios", "descripcion": "Obtener el precio del mejor vendedor y el costo de envío con la API de Mercado Libre (docs/MERCADOLIBRE_API.md)"},
+    {"nombre": "Revisar con el dueño", "descripcion": "El dueño confirma el dato con el empaque o el sistema y lo escribe en Comentarios; el agente lo aplica"},
+    {"nombre": "Descartar de Meli", "descripcion": "Sacar el producto del layout de importación a Mercado Libre; se conserva en el repositorio (scripts/descartar.py)"}
+  ],
+  "tipos": {
+    "error": "Impide o pone en riesgo la publicación",
+    "pendiente": "Falta un dato o una confirmación",
+    "mejora": "Se puede publicar, pero conviene mejorarlo"
+  },
+  "umbrales": {
+    "titulo_max_caracteres": 60,
+    "descripcion_min_caracteres": 500,
+    "descripcion_buena_caracteres": 800,
+    "descripcion_min_secciones": 3,
+    "foto_min_lado_util": 500,
+    "foto_principal_min_lado_util": 800,
+    "fotos_min": 2,
+    "veces_precio_tienda": 2,
+    "patron_dato_por_confirmar": "confirmar|dudos|no coincide|contradic|discrepan|inconsisten|verificar (en|con) (el )?empaque"
+  },
+  "pendientes": {
+    "sin_titulo": {"tipo": "error", "titulo": "Sin título", "accion": "Completar información"},
+    "titulo_largo": {"tipo": "error", "titulo": "Título de más de 60 caracteres", "accion": "Completar información"},
+    "sin_categoria": {"tipo": "error", "titulo": "Sin categoría de Mercado Libre", "accion": "Completar información"},
+    "descripcion_muy_corta": {"tipo": "error", "titulo": "Descripción vacía o muy corta", "accion": "Completar información"},
+    "sin_fotos": {"tipo": "error", "titulo": "Sin fotos", "accion": "Buscar más imágenes"},
+    "fotos_chicas": {"tipo": "error", "titulo": "Todas las fotos son chicas", "accion": "Buscar más imágenes"},
+    "sin_precio_venta": {"tipo": "error", "titulo": "Sin precio de venta", "accion": "Revisar con el dueño"},
+    "sin_verificar": {"tipo": "pendiente", "titulo": "Producto sin verificar", "accion": "Completar información"},
+    "dato_por_confirmar": {"tipo": "pendiente", "titulo": "Dato por confirmar en el empaque", "accion": "Revisar con el dueño"},
+    "receta": {"tipo": "pendiente", "titulo": "Podría requerir receta", "accion": "Revisar con el dueño"},
+    "sin_existencia": {"tipo": "pendiente", "titulo": "Sin existencia", "accion": "Revisar con el dueño"},
+    "sin_mejor_vendedor": {"tipo": "pendiente", "titulo": "Falta el precio del mejor vendedor", "accion": "Completar precios"},
+    "envio_sin_costo": {"tipo": "pendiente", "titulo": "Falta el costo de envío (precio de $299 o más)", "accion": "Completar precios"},
+    "confianza_media": {"tipo": "mejora", "titulo": "Investigación con confianza media", "accion": "Completar información"},
+    "descripcion_corta": {"tipo": "mejora", "titulo": "Descripción corta", "accion": "Completar información"},
+    "pocas_secciones": {"tipo": "mejora", "titulo": "Descripción con pocas secciones", "accion": "Completar información"},
+    "ficha_incompleta": {"tipo": "mejora", "titulo": "Ficha técnica incompleta", "accion": "Completar información"},
+    "una_foto": {"tipo": "mejora", "titulo": "Una sola foto", "accion": "Buscar más imágenes"},
+    "foto_principal_chica": {"tipo": "mejora", "titulo": "Foto principal chica", "accion": "Buscar más imágenes"},
+    "fondo_gris": {"tipo": "mejora", "titulo": "Foto principal con posible fondo gris", "accion": "Buscar más imágenes"},
+    "no_competitivo": {"tipo": "mejora", "titulo": "Precio calculado arriba del mejor vendedor", "accion": "Revisar con el dueño"},
+    "precio_inflado": {"tipo": "mejora", "titulo": "Precio en Meli muy arriba del de tienda", "accion": "Revisar con el dueño"}
+  }
+}
