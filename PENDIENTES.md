@@ -1,6 +1,6 @@
 # Pendientes y próximas tareas
 
-Última actualización: 2026-09-29, al cambiar la regla del Precio Meli Final (mejor vendedor − $1) y agregar al visor la sección Pendientes con exportación a Excel (`docs/VISOR.md`). Para continuar con otra IA, empieza por `AGENTS.md`.
+Última actualización: 2026-09-29, al agregar al visor la selección múltiple en la lista y la exportación del layout de Mercado Libre con las URLs de fotos de GitHub (`docs/VISOR.md`). Para continuar con otra IA, empieza por `AGENTS.md`.
 
 ## Estado
 
@@ -26,7 +26,7 @@ Indicadores de calidad del visor (`visor/index.html`; reglas en `config/indicado
 
 Pendientes por producto (sección Pendientes del visor; reglas en `config/pendientes.json`): 43 productos con errores, 1,163 con pendientes y 829 con mejoras. Los más frecuentes: falta el precio del mejor vendedor (1,163), una sola foto (556), falta el costo de envío en productos de $299 o más (475), podría requerir receta (462), foto principal chica (221), precio en Meli muy arriba del de tienda (159), dato por confirmar en el empaque (146), sin existencia (146). Productos descartados de Meli: 0.
 
-Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado; mientras no haya precios de competencia, todos se publican al calculado.
+Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado). El visor exporta el mismo layout para cualquier selección de productos («Exportar layout Meli»). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado; mientras no haya precios de competencia, todos se publican al calculado.
 
 ## Pendientes abiertos
 

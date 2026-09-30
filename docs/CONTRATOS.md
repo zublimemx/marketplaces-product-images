@@ -79,7 +79,7 @@ Salida de `scripts/build_visor.py` (ver `docs/VISOR.md`). Es JavaScript para abr
 
 - `reglas`: copia de `config/indicadores.json`.
 - `pendientes`: `acciones` (nombre y descripción), `tipos` y el catálogo `pendientes` de `config/pendientes.json` (código → `tipo`, `titulo`, `accion`).
-- Cada producto: `orden` (prioridad por ventas), `gtin`, `titulo`, `nombre_sistema`, `linea`, `categoria_id`, `categoria_ruta`, `categoria` (hoja), `catalogo_id`, `categoria_rx_sugerida`, `stock`, `precios` (salida de `scripts/precios.py`: `precio_venta`, `precio_marketplaces`, `comision`, `precio_meli_calculado`, `precio_promedio_otros`, `precio_mejor_vendedor`, `precio_meli_final`, `diferencia_mejor_vendedor`, `costo_fijo`, `envio_vendedor`, `ingreso_neto`, `margen`; `null` = sin dato), `metodo_mejor_vendedor`, `imagenes` (`src` relativo a `visor/`, `u` = lado útil en px, `o` = origen, `gris` = posible fondo gris, `fuente`), `descripcion`, `ficha`, `receta_mx`, `url_oficial`, `fuentes`, `investigacion` (`estado`, `confianza`, `encontrado_por`, `notas`, `notas_imagenes`, `fecha`, `sesion`), `ind` (`descripcion`, `fotos`, `precios` y su `*_motivo`), `pend` (lista de `{c: código de config/pendientes.json, d: detalle}`; vacía si está descartado) y `descartado` (`{motivo, fecha}` o `null`).
+- Cada producto: `orden` (prioridad por ventas), `gtin`, `titulo`, `nombre_sistema`, `linea`, `categoria_id`, `categoria_ruta`, `categoria` (hoja), `catalogo_id`, `categoria_rx_sugerida`, `stock`, `precios` (salida de `scripts/precios.py`: `precio_venta`, `precio_marketplaces`, `comision`, `precio_meli_calculado`, `precio_promedio_otros`, `precio_mejor_vendedor`, `precio_meli_final`, `diferencia_mejor_vendedor`, `costo_fijo`, `envio_vendedor`, `ingreso_neto`, `margen`; `null` = sin dato), `metodo_mejor_vendedor`, `imagenes` (`src` relativo a `visor/`, `u` = lado útil en px, `o` = origen, `gris` = posible fondo gris, `fuente`), `descripcion`, `ficha`, `receta_mx`, `url_oficial`, `fuentes`, `investigacion` (`estado`, `confianza`, `encontrado_por`, `notas`, `notas_imagenes`, `fecha`, `sesion`), `ind` (`descripcion`, `fotos`, `precios` y su `*_motivo`), `pend` (lista de `{c: código de config/pendientes.json, d: detalle}`; vacía si está descartado), `descartado` (`{motivo, fecha}` o `null`) y `sin_titulo`. En `imagenes`, `a` es el nombre del archivo. Arriba, `meli` trae las constantes del layout (§10).
 
 No se edita a mano: se regenera después de cada cambio en `product.json`, fotos, precios o reglas.
 
@@ -92,3 +92,13 @@ No se edita a mano: se regenera después de cada cambio en `product.json`, fotos
 - **Instrucciones**: fecha, filtros aplicados, acción precargada y qué hace cada acción.
 
 `scripts/solicitudes.py` lee la hoja Productos por nombre de columna (Código, Producto, Acción solicitada, Acciones sugeridas, Comentarios), así que tolera columnas movidas o agregadas.
+
+## 10. Layout de Mercado Libre exportado desde el visor
+
+`layout_meli_AAAA-MM-DD_HHMM.xlsx`, generado por `exportarLayout()` de `visor/app.js` con los productos seleccionados (sin descartados):
+
+- **Layout Mercado Libre**: encabezados `LAYOUT_HDR` + `AUX_HDR` de `scripts/build_mercadolibre.py` (en `visor/data/productos.js → meli`) más «Errores a revisar». Valores iguales a los de la hoja del mismo nombre del layout versionado (con valores, no fórmulas). Imagen n = `IMG_BASE/<GTIN>/images/<archivo>`.
+- **Precios**: SKU, Título, Categoría (ruta), Precio de venta, Precio de venta Marketplaces, Comisión Meli, Precio Meli calculado, Precio Meli promedio otros vendedores, Precio mejor vendedor, Precio Meli Final, Diferencia contra mejor vendedor, Costo fijo aplicado, Envío a cargo del vendedor, Ingreso neto estimado, Margen contra Precio de venta Marketplaces.
+- **Instrucciones**: fecha, productos, descartados omitidos, con errores, filtros y notas.
+
+Datos que usa en `productos.js`: `meli` (`encabezados`, `encabezados_aux`, `ficha`, `n_imagenes`, `url_imagenes`, `publicacion`, `umbral_envio_gratis`, `texto_envio_gratis`, `estados`), y por producto `imagenes[].a` (archivo) y `sin_titulo`.

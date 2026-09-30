@@ -20,6 +20,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import precios  # noqa: E402
+import build_mercadolibre as bml  # noqa: E402
 from revisar_fotos import fondo_no_blanco  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -225,6 +226,15 @@ def pendientes(p, imgs, pr, stock, cfg_pend, cfg_precios):
     return out
 
 
+def datos_layout_meli(cfg_precios):
+    """Lo que el visor necesita para exportar el layout de Mercado Libre igual que scripts/build_mercadolibre.py."""
+    pub = json.load(open(os.path.join(ROOT, "config", "mercadolibre.json"), encoding="utf-8"))["publicacion"]
+    return {"encabezados": bml.LAYOUT_HDR, "encabezados_aux": bml.AUX_HDR, "ficha": [k for k, _ in bml.FICHA_COLS],
+            "n_imagenes": bml.N_IMG, "url_imagenes": bml.IMG_BASE, "publicacion": pub,
+            "umbral_envio_gratis": cfg_precios["umbral_envio_gratis_obligatorio"], "texto_envio_gratis": bml.ENVIO_GRATIS,
+            "estados": bml.ESTADOS}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--precios", default=os.path.join(ROOT, "insumos", "precios_existencias.csv"))
@@ -252,7 +262,7 @@ def main():
             f = os.path.join(ROOT, "products", g, "images", im["archivo"])
             if not os.path.exists(f):
                 continue
-            imgs.append({"src": f"{a.base_imagenes.rstrip('/')}/{g}/images/{im['archivo']}", "u": im.get("lado_util", 0),
+            imgs.append({"src": f"{a.base_imagenes.rstrip('/')}/{g}/images/{im['archivo']}", "a": im["archivo"], "u": im.get("lado_util", 0),
                          "o": im.get("origen", ""), "gris": fondo_gris(f, cache), "fuente": im.get("pagina") or im.get("fuente_url", "")})
         d_ind, d_mot = ind_descripcion(p, reglas["descripcion"])
         f_ind, f_mot = ind_fotos(imgs, reglas["fotos"])
@@ -273,12 +283,13 @@ def main():
             "url_oficial": p.get("url_oficial", ""), "fuentes": p.get("fuentes", []),
             "investigacion": {k: p["investigacion"].get(k, "") for k in ("estado", "confianza", "encontrado_por", "notas", "notas_imagenes", "sesion")},
             "ind": {"descripcion": d_ind, "descripcion_motivo": d_mot, "fotos": f_ind, "fotos_motivo": f_mot, "precios": p_ind, "precios_motivo": p_mot},
-            "pend": pend, "descartado": descartado,
+            "pend": pend, "descartado": descartado, "sin_titulo": not p["titulo"],
         })
     os.makedirs(os.path.dirname(CACHE), exist_ok=True)
     json.dump(cache, open(CACHE, "w"))
     datos = {"generado": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"), "total": len(productos),
-             "reglas": reglas, "pendientes": {k: cfg_pend[k] for k in ("acciones", "tipos", "pendientes")}, "productos": productos}
+             "reglas": reglas, "pendientes": {k: cfg_pend[k] for k in ("acciones", "tipos", "pendientes")},
+             "meli": datos_layout_meli(cfg), "productos": productos}
     os.makedirs(os.path.dirname(a.salida), exist_ok=True)
     with open(a.salida, "w", encoding="utf-8") as fh:
         fh.write("// Generado por scripts/build_visor.py. No editar a mano.\nwindow.CATALOGO = ")

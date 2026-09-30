@@ -56,6 +56,27 @@ N_IMG = 6
 IMG0 = get_column_letter(16 + 18)
 IMG1 = get_column_letter(16 + 18 + N_IMG - 1)
 ESTADOS = {"verificado": "Verificado", "sin_verificar": "Sin verificar", "pendiente": "Pendiente de investigar"}
+IMG_BASE = "https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products"
+ENVIO_GRATIS = "Envío gratis (obligatorio en Mercado Libre)"
+LAYOUT_HDR = (["SKU", "Código universal de producto", "Título", "Categoría (ID)", "Categoría (ruta)", "Precio [$]", "Cantidad",
+               "Condición", "Tipo de publicación", "Descripción", "Forma de envío", "Costo de envío", "Retiro en persona",
+               "Tipo de garantía", "ID de catálogo ML"]
+              + [h for _, h in FICHA_COLS]
+              + [f"Imagen {i}" for i in range(1, N_IMG + 1)])
+AUX_HDR = ["Línea de origen", "Nombre en sistema", "Estado de investigación"]
+
+
+def titulo_layout(p):
+    """Título que va al layout; si falta, se marca como pendiente."""
+    return p["titulo"] or f"PENDIENTE: {p['nombre_sistema']}"
+
+
+def valor_ficha(v):
+    return json.dumps(v, ensure_ascii=False) if isinstance(v, (dict, list)) else v
+
+
+def urls_imagenes(p):
+    return [f"{IMG_BASE}/{p['gtin']}/images/{im['archivo']}" for im in p.get("imagenes", [])][:N_IMG]
 
 
 def load_products():
@@ -198,12 +219,8 @@ def build(precios_csv, salida, competencia_csv=None):
     par.column_dimensions["D"].width = 90
 
     # ---------------- Layout ----------------
-    lay_hdr = (["SKU", "Código universal de producto", "Título", "Categoría (ID)", "Categoría (ruta)", "Precio [$]", "Cantidad",
-                "Condición", "Tipo de publicación", "Descripción", "Forma de envío", "Costo de envío", "Retiro en persona",
-                "Tipo de garantía", "ID de catálogo ML"]
-               + [h for _, h in FICHA_COLS]
-               + [f"Imagen {i}" for i in range(1, N_IMG + 1)])
-    aux_hdr = ["Línea de origen", "Nombre en sistema", "Estado de investigación"]
+    lay_hdr = LAYOUT_HDR
+    aux_hdr = AUX_HDR
     for j, h in enumerate(lay_hdr + aux_hdr, start=1):
         lay.cell(row=1, column=j, value=h)
     style_header(lay, 1, len(lay_hdr))
@@ -236,7 +253,6 @@ def build(precios_csv, salida, competencia_csv=None):
         rev.cell(row=1, column=j, value=h)
     style_header(rev, 1, len(rev_hdr))
 
-    img_base = "https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products/{g}/images/{f}"
     used_cats = {}
     for i, r in enumerate(rows, start=2):
         g = r["gtin"]
@@ -244,20 +260,17 @@ def build(precios_csv, salida, competencia_csv=None):
         ml = p["marketplaces"]["mercadolibre"]
         inv = p["investigacion"]
         estado = ESTADOS.get(inv["estado"], inv["estado"])
-        titulo = p["titulo"] or f"PENDIENTE: {p['nombre_sistema']}"
+        titulo = titulo_layout(p)
         ficha = p.get("ficha") or {}
-        imgs = [img_base.format(g=g, f=im["archivo"]) for im in p.get("imagenes", [])][:N_IMG]
+        imgs = urls_imagenes(p)
 
         vals = [g, g, titulo, ml["categoria_id"], ml["categoria_ruta"],
                 f"=Precios!N{i}", int(float(r["stock"])),
                 "=Parámetros!$B$28", "=Parámetros!$B$29", p["descripcion"], "=Parámetros!$B$30",
-                f'=IF(F{i}>=Parámetros!$B$7,"Envío gratis (obligatorio en Mercado Libre)",Parámetros!$B$31)',
+                f'=IF(F{i}>=Parámetros!$B$7,"{ENVIO_GRATIS}",Parámetros!$B$31)',
                 "=Parámetros!$B$32", "=Parámetros!$B$33", ml.get("catalogo_id", "")]
         for k, _ in FICHA_COLS:
-            v = ficha.get(k, "")
-            if isinstance(v, (dict, list)):
-                v = json.dumps(v, ensure_ascii=False)
-            vals.append(v)
+            vals.append(valor_ficha(ficha.get(k, "")))
         vals += imgs + [""] * (N_IMG - len(imgs))
         vals += [p["linea"], p["nombre_sistema"], estado]
         for j, v in enumerate(vals, start=1):
