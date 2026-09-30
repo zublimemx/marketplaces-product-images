@@ -23,7 +23,11 @@
       "categoria_id": "MLM178504",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "",
+      "descartado": {
+        "motivo": "Indicación del dueño (29 sep 2026): producto sin fotos; no se encontraron fotos válidas en internet",
+        "fecha": "2026-09-29"
+      }
     },
     "amazon": {},
     "shopify": {},

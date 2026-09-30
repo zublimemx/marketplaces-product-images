@@ -51,11 +51,18 @@ python scripts/envios.py                        # si cambiaron fichas o tramos d
 python scripts/ajustes_precios.py <archivo.xlsx> # si el dueño mandó ajustes de precio del visor
 python scripts/build_mercadolibre.py --precios insumos/precios_existencias.csv --salida layouts/mercadolibre/layout_mercadolibre.xlsx
 python scripts/build_visor.py
+python scripts/build_db.py                       # base de datos data/catalogo.db (siempre después del visor)
 ```
 
 `build_mercadolibre.py` escribe fórmulas sin valores calculados. Antes de versionarlo, recalcúlalo para que la copia del repositorio traiga valores: en Claude, con el `recalc.py` de la habilidad xlsx; en otro entorno, abriéndolo y guardándolo en LibreOffice o Excel. Si no hay `insumos/precios_existencias.csv` (por ejemplo, en otra IA sin los Excel del ERP), no regeneres el layout: `build_visor.py` toma precios y existencias del layout versionado.
 
 Revisa el resultado en el visor (`visor/index.html`, ver `docs/VISOR.md`): filtra por indicador «mala» para ver qué falta.
+
+## 4 quater. Precios en otros marketplaces
+
+- **Con subagentes:** lotes `trabajo/sesion_NN/lotes/precios_XX.json` (25 productos por prioridad de ventas: `orden`, `gtin`, `titulo`, `nombre_sistema`, `presentacion`, `contenido`, `fuentes`) con `docs/agentes/precios_otros.md`; luego `python scripts/otros_marketplaces.py integrar --sesion NN`.
+- **Del dueño:** visor → «Comparar precios» → «Exportar comparación»; el dueño llena la hoja Captura y la adjunta → `python scripts/otros_marketplaces.py excel <archivo.xlsx>`.
+- Luego §4 (layout, visor y base de datos).
 
 ## 4 ter. Procesar un Excel de pendientes del dueño
 

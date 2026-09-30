@@ -432,3 +432,33 @@ button, input, select { font: inherit; color: inherit; }
 .desc-form-fila { display: flex; flex-wrap: wrap; gap: 6px; }
 .desc-form-fila input { flex: 1 1 16em; min-width: 0; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--ink); font: inherit; }
 .aviso-reactivado { background: var(--ok-soft); }
+
+/* Comparar precios */
+.comp { display: grid; gap: 10px; }
+.comp-barra { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: flex-end; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; }
+.comp-barra .btn-primario { margin-left: auto; }
+.comp-chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.comp-ayuda { margin: 0; color: var(--muted); font-size: 0.85rem; }
+.comp-wrap { max-height: 75vh; }
+.comp-tabla td, .comp-tabla th { white-space: nowrap; }
+.comp-tabla td.prod { white-space: normal; min-width: 16em; max-width: 26em; }
+.comp-tabla th:nth-child(2), .comp-tabla td:nth-child(2) { position: sticky; left: 0; background: var(--surface); z-index: 1; box-shadow: 1px 0 0 var(--line); }
+.comp-tabla th:nth-child(2) { background: var(--surface-2); z-index: 2; }
+.comp-tabla td a { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--muted); }
+.comp-tabla td.cmp-hi { background: var(--bad-soft); color: var(--bad); font-weight: 700; }
+.comp-tabla td.cmp-lo { background: var(--ok-soft); color: var(--ok); font-weight: 700; }
+.comp-tabla td.cmp-nos, .comp-tabla th.cmp-nos { box-shadow: inset 2px 0 0 var(--accent), inset -2px 0 0 var(--accent); }
+.comp-tabla th.cmp-nos button { color: var(--accent); }
+small.lista { display: block; text-decoration: line-through; color: var(--muted); font-weight: 400; font-size: 0.75rem; }
+.q-nos { font-weight: 700; color: var(--accent); }
+.pos { border-radius: 999px; padding: 1px 9px; font-size: 0.78rem; font-weight: 600; white-space: nowrap; }
+.pos-mas_caro { background: var(--bad-soft); color: var(--bad); }
+.pos-mas_barato { background: var(--ok-soft); color: var(--ok); }
+.pos-intermedio { background: var(--warn-soft); color: var(--warn); }
+.pos-sin_comparacion { background: var(--surface-2); color: var(--muted); }
+.pos-chip[aria-pressed="true"] { outline: 2px solid currentColor; }
+.dif-mas { color: var(--bad); font-weight: 600; }
+.dif-menos { color: var(--ok); font-weight: 600; }
+.pos-linea { margin: 0 0 6px; }
+.otros-tabla td.num { text-align: right; white-space: nowrap; }
+.otros-tabla td.sd { padding-left: 12px; }

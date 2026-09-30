@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import precios  # noqa: E402
 import build_mercadolibre as bml  # noqa: E402
 import envios  # noqa: E402
+import otros_marketplaces as otros_mk  # noqa: E402
 from revisar_fotos import fondo_no_blanco  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -258,6 +259,7 @@ def main():
     SECCIONES[:] = reglas["descripcion"]["secciones_reconocidas"]
     pv = leer_precios(a.precios)
     comp = leer_competencia(a.competencia)
+    otros = otros_mk.leer()
     ajustes = precios.cargar_ajustes()
     cfg_env = envios.cargar_config()
     cache = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
@@ -298,6 +300,8 @@ def main():
             "investigacion": {k: p["investigacion"].get(k, "") for k in ("estado", "confianza", "encontrado_por", "notas", "notas_imagenes", "sesion")},
             "ind": {"descripcion": d_ind, "descripcion_motivo": d_mot, "fotos": f_ind, "fotos_motivo": f_mot, "precios": p_ind, "precios_motivo": p_mot},
             "pend": pend, "descartado": descartado, "sin_titulo": not p["titulo"],
+            "otros": [{"m": r["marketplace"], "p": r["precio"], "pl": r["precio_lista"], "u": r["url"], "f": r["fecha"], "n": r["nota"]}
+                      for r in otros.get(g, [])],
         })
     os.makedirs(os.path.dirname(CACHE), exist_ok=True)
     json.dump(cache, open(CACHE, "w"))
@@ -306,6 +310,8 @@ def main():
              "meli": datos_layout_meli(cfg),
              "calculo": {"costos_fijos": cfg["costos_fijos_clasica"], "umbral": cfg["umbral_envio_gratis_obligatorio"],
                          "envio": {k: cfg["envio"][k] for k in ("minimo", "maximo", "tramos")}, "campos": list(precios.CAMPOS)},
+             "marketplaces": [m for m, _ in sorted(__import__("collections").Counter(o["m"] for x in productos for o in x["otros"]).items(),
+                                                   key=lambda kv: (-kv[1], kv[0]))],
              "productos": productos}
     os.makedirs(os.path.dirname(a.salida), exist_ok=True)
     with open(a.salida, "w", encoding="utf-8") as fh:

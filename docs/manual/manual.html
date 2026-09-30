@@ -173,6 +173,12 @@
     <p><b>Fotos:</b> Mercado Libre descarga las imágenes de las URLs de GitHub, que solo funcionan mientras el repositorio es <b>público</b>. Antes de importar, en GitHub ve a <span class="ui">Settings → Danger Zone → Change repository visibility</span> y hazlo público; al terminar la importación, regrésalo a privado.</p>
   </div>
   <p>Los productos descartados de Meli no se exportan. Los precios que editaste en tu navegador sí van en el archivo.</p>
+  <p><b>Comparar precios:</b> el botón <span class="ui">Comparar precios</span> (arriba) muestra una lista tipo Excel con nuestro Precio Meli final (o el de tienda), el mejor vendedor de Mercado Libre y el precio en cada tienda en línea (Benavides, YZA, del Ahorro, Chedraui…). En cada renglón el más alto va en rojo y el más bajo en verde, y la columna «Nuestra posición» dice si somos el más caro, el más barato o intermedio. <span class="ui">Exportar comparación</span> descarga el Excel; en su hoja <i>Captura</i> puedes agregar precios de otras tiendas y pedir «Versiona estos precios de otros marketplaces».</p>
+  <figure>
+    <img src="img/07_comparar.png" alt="Pantalla Comparar precios con nuestro precio, Mercado Libre y otras tiendas">
+    <figcaption>Comparar precios: el más alto de cada renglón en rojo, el más bajo en verde y nuestra columna resaltada.</figcaption>
+  </figure>
+  <p><b>Base de datos:</b> todos los datos están también en <code>data/catalogo.db</code> (SQLite), que se abre con DB Browser for SQLite o DBeaver. La IA la regenera en cada cambio.</p>
   <p><b>Descartar un producto de Meli:</b> botón <span class="ui">Descartar de Meli</span> en la tarjeta, en la columna <span class="ui">Meli</span> de la lista o en el detalle (ahí escribes el motivo); para varios, selecciónalos y usa <span class="ui">Descartar de Meli (N)</span> en la barra. Sale del layout al momento en tu navegador; <span class="ui">Reactivar en Meli</span> lo regresa. Para dejarlo en el repositorio, en la barra roja pulsa <span class="ui">Exportar descartes</span>, adjunta el Excel en el chat y pide «Versiona estos descartes».</p>
 </section>
 
@@ -180,14 +186,14 @@
   <h2><span class="n">5</span>Pendientes: pedir acciones a la IA</h2>
   <p>La sección <span class="ui">Pendientes</span> (arriba a la derecha) lista cada producto con lo que le falta: <b>errores</b> (impiden o ponen en riesgo la publicación), <b>pendientes</b> (falta un dato o una confirmación) y <b>mejoras</b>, cada uno con su acción sugerida.</p>
   <ol>
-    <li>Filtra por tipo o por pendiente (por ejemplo, «Sin fotos») y selecciona los productos.</li>
+    <li>Filtra por tipo o por pendiente (por ejemplo, «Una sola foto») y selecciona los productos.</li>
     <li>Elige la <span class="ui">Acción a solicitar</span>: Completar información, Buscar más imágenes, Completar precios, Revisar con el dueño o Descartar de Meli. También puedes dejarla vacía y elegirla renglón por renglón en Excel.</li>
     <li>Pulsa <span class="ui">Exportar pendientes</span>. En el Excel puedes cambiar la acción y escribir comentarios (por ejemplo, el dato correcto del empaque).</li>
     <li>Adjunta el archivo en el chat y pide <span class="pedido">«Procesa las solicitudes de este archivo»</span>.</li>
   </ol>
   <figure>
-    <img src="img/06_pendientes.png" alt="Sección de pendientes filtrada por productos sin fotos">
-    <figcaption>Pendientes filtrados por «Sin fotos», con la barra de selección, la acción a solicitar y la exportación.</figcaption>
+    <img src="img/06_pendientes.png" alt="Sección de pendientes filtrada por productos con una sola foto">
+    <figcaption>Pendientes filtrados por «Una sola foto», con la barra de selección, la acción a solicitar y la exportación.</figcaption>
   </figure>
 </section>
 
@@ -214,6 +220,7 @@
     <tr><td>Guardar precios editados</td><td>Adjunta el Excel de ajustes: <span class="pedido">«Versiona estos ajustes de precio»</span></td></tr>
     <tr><td>Resolver pendientes</td><td>Adjunta el Excel de pendientes: <span class="pedido">«Procesa las solicitudes de este archivo»</span></td></tr>
     <tr><td>Actualizar precios de competencia</td><td class="pedido">«Actualiza los precios de competencia con la API de Mercado Libre» (con un token o código de autorización vigente)</td></tr>
+    <tr><td>Precios en otras tiendas</td><td class="pedido">«Busca precios en otros marketplaces para los siguientes 100 productos» o adjunta el Excel de Comparar precios: «Versiona estos precios de otros marketplaces»</td></tr>
     <tr><td>Actualizar precios y existencias</td><td>Adjunta los Excel del sistema: <span class="pedido">«Actualiza precios y existencias y regenera el layout y el visor»</span></td></tr>
     <tr><td>Otro marketplace</td><td class="pedido">«Arma el layout de importación para Shopify» (u Odoo, Amazon)</td></tr>
   </table>

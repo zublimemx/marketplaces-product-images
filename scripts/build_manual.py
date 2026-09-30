@@ -86,9 +86,20 @@ def capturas(p):
     pg.click("#sel-quitar")
     pg.click("#sec-pendientes")
     pg.wait_for_timeout(500)
-    pg.locator("#f-pend label.toggle", has_text="Sin fotos").click()
+    pg.locator("#f-pend label.toggle", has_text="Una sola foto").click()
     pg.wait_for_timeout(400)
     pg.screenshot(path=os.path.join(IMG, "06_pendientes.png"), clip={"x": 320, "y": 190, "width": 1040, "height": 560})
+    pg.locator("#f-pend label.toggle", has_text="Una sola foto").click()
+
+    # 7. Comparar precios
+    pg.click("#sec-comparar")
+    pg.check("#comp-solo-otros")
+    pg.wait_for_timeout(500)
+    pg.evaluate("window.scrollTo(0, 0)")
+    top = pg.locator("#vista-comp").bounding_box()["y"] - 8
+    pg.screenshot(path=os.path.join(IMG, "07_comparar.png"), clip={"x": 320, "y": top, "width": 1040, "height": 560})
+    pg.uncheck("#comp-solo-otros")
+    pg.click("#sec-catalogo")
     b.close()
 
 

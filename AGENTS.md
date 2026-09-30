@@ -29,12 +29,14 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | **Procesar un Excel de pendientes que adjunta el dueño** | `python scripts/solicitudes.py <archivo.xlsx>` agrupa por «Acción solicitada»; `--aplicar-descartes` descarta; el resto según `docs/VISOR.md` («Pedir acciones con el Excel»). Luego regenerar layout y visor y abrir PR |
 | Entregar el layout de Meli de un subconjunto de productos | Visor → seleccionar (o «Seleccionar los N filtrados») → «Exportar layout Meli». Mismo contenido que el layout versionado (`docs/VISOR.md`) |
 | Actualizar el manual del usuario (`MANUAL.pdf`) cuando cambie el visor | Editar `docs/manual/manual.html` y correr `python scripts/build_manual.py --capturas` (Playwright + Chromium) |
+| Precios en otros marketplaces (San Pablo, Del Ahorro, Benavides, Walmart…) | Subagentes con `docs/agentes/precios_otros.md` → `python scripts/otros_marketplaces.py integrar --sesion NN`; o el Excel «Exportar comparación» del visor (hoja Captura) → `python scripts/otros_marketplaces.py excel <archivo.xlsx>` (`docs/PROCEDIMIENTO_SESION.md` §4 quater) |
+| Consultar o entregar todos los datos en una base de datos | `data/catalogo.db` (SQLite); se regenera con `python scripts/build_db.py` después de `build_visor.py` (`docs/BASE_DE_DATOS.md`) |
 | Descartar o reactivar productos de Mercado Libre | Desde el visor (botón «Descartar de Meli»; el dueño adjunta el Excel «Exportar descartes») → `python scripts/descartar.py --excel <archivo.xlsx>`; o `python scripts/descartar.py --gtin … --motivo …` / `--reactivar` / `--lista` |
 | Layouts de Odoo, Shopify y Amazon | Nuevos `scripts/build_<canal>.py` que lean `product.json` + `insumos/`; reglas en `config/<canal>.json`; ver `docs/CONTRATOS.md` §7 |
 
 ## Reglas de trabajo
 
-- Fuente de verdad: `products/<GTIN>/product.json`. Las fotos solo se agregan o quitan con `scripts/imagenes.py`, que también las registra en `product.json`.
+- Fuente de verdad: `products/<GTIN>/product.json` y los archivos de `data/`; `data/catalogo.db` es la base de datos que los reúne y se regenera (no se edita a mano). Las fotos solo se agregan o quitan con `scripts/imagenes.py`, que también las registra en `product.json`.
 - **Qué se versiona y qué no.** Por decisión del dueño se versionan el layout completo (`layouts/mercadolibre/layout_mercadolibre.xlsx`) y los datos del visor (`visor/data/productos.js`), que traen precios y existencias; al hacer público el repositorio durante una importación, esos datos quedan visibles. **No se versionan** los Excel del ERP ni los CSV de `insumos/` (ignorado por git; se generan con `scripts/preparar_insumos.py` a partir de los Excel que entrega el dueño en `insumos/originales/`), las cifras de venta ni las credenciales (`.env`, ignorado; plantilla en `.env.example`). Solo los `.xlsx` bajo `layouts/` están exentos del `*.xlsx` de `.gitignore`.
 - El repositorio **nunca se borra**. Normalmente es privado; el dueño lo hace público solo durante importaciones (las URLs de fotos `raw.githubusercontent.com` solo funcionan entonces).
 - Fotos: siempre de internet (nunca llegan en ZIP), descargadas y versionadas aquí. Preferencia: fabricante > catálogo de Mercado Libre > tienda. Nada de marcas de agua, logos de tienda, texto promocional ni precios.
@@ -66,6 +68,8 @@ data/ajustes_precios.json        Ajustes de precio por producto hechos en el vis
 data/envios.csv                  Costo de envío estimado por producto (peso y tamaño)
 data/competencia_meli.csv        Precios de competencia de la API de Mercado Libre (29 sep 2026)
 data/catalogo_ml_rechazados.csv  Catálogos de Mercado Libre que no corresponden al GTIN (no se usan)
+data/precios_otros_marketplaces.csv  Precio de venta de cada producto en otras tiendas en línea (uno por tienda)
+data/catalogo.db                 Base de datos SQLite con todos los datos (generada por scripts/build_db.py; docs/BASE_DE_DATOS.md)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg
