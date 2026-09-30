@@ -28,6 +28,7 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; sección Pendientes o filtro por indicador «mala» (`docs/VISOR.md`) |
 | **Procesar un Excel de pendientes que adjunta el dueño** | `python scripts/solicitudes.py <archivo.xlsx>` agrupa por «Acción solicitada»; `--aplicar-descartes` descarta; el resto según `docs/VISOR.md` («Pedir acciones con el Excel»). Luego regenerar layout y visor y abrir PR |
 | Entregar el layout de Meli de un subconjunto de productos | Visor → seleccionar (o «Seleccionar los N filtrados») → «Exportar layout Meli». Mismo contenido que el layout versionado (`docs/VISOR.md`) |
+| Actualizar el manual del usuario (`MANUAL.pdf`) cuando cambie el visor | Editar `docs/manual/manual.html` y correr `python scripts/build_manual.py --capturas` (Playwright + Chromium) |
 | Descartar o reactivar productos de Mercado Libre | `python scripts/descartar.py --gtin … --motivo …` / `--reactivar` / `--lista` |
 | Layouts de Odoo, Shopify y Amazon | Nuevos `scripts/build_<canal>.py` que lean `product.json` + `insumos/`; reglas en `config/<canal>.json`; ver `docs/CONTRATOS.md` §7 |
 
@@ -53,6 +54,7 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 
 ```
 AGENTS.md / CLAUDE.md            Guías para agentes (Codex lee AGENTS.md; Claude Code lee CLAUDE.md)
+MANUAL.pdf                       Manual breve para el usuario (fuente en docs/manual/, se genera con scripts/build_manual.py)
 PENDIENTES.md                    Pendientes abiertos y próximas tareas
 PROGRESO.md                      Avance de fichas y fotos (lo genera scripts/progreso.py)
 docs/                            Contexto, reglas, contratos, procedimiento, API de Mercado Libre, instrucciones de subagentes

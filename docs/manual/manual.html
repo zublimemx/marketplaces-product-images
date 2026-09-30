@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<title>Manual del visor de productos</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  /* Fuente del PDF de la raíz (MANUAL.pdf). Se genera con: python scripts/build_manual.py */
+  :root {
+    --ink: #16202b; --muted: #586473; --line: #d7dde5; --accent: #1f4e8c; --accent-soft: #e6eef8;
+    --warn: #93600f; --warn-soft: #fbeed6; --bad: #b1362b; --bad-soft: #f8e1de; --ok: #1d7a4e; --ok-soft: #e0f2e8;
+    --paper: #ffffff; --tint: #f3f5f8;
+  }
+  @page { size: Letter; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--paper); color: var(--ink); }
+  body { font: 10.5pt/1.5 "Atkinson Hyperlegible", "DejaVu Sans", Arial, sans-serif; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  code, .mono { font-family: "IBM Plex Mono", "DejaVu Sans Mono", monospace; font-size: 0.88em; }
+  code { background: var(--tint); border-radius: 3px; padding: 0 3px; }
+  h1, h2, h3 { line-height: 1.2; text-wrap: balance; }
+  h2 { font-size: 15pt; margin: 0 0 6pt; color: var(--accent); display: flex; gap: 8pt; align-items: center; break-after: avoid; break-inside: avoid; }
+  h2 .n { font-size: 11pt; line-height: 1; color: var(--paper); background: var(--accent); border-radius: 50%; width: 20pt; height: 20pt; display: inline-flex; align-items: center; justify-content: center; flex: none; }
+  h3 { font-size: 11.5pt; margin: 12pt 0 4pt; break-after: avoid; }
+  p { margin: 0 0 6pt; }
+  ul, ol { margin: 0 0 8pt; padding-left: 16pt; }
+  li { margin: 0 0 3pt; break-inside: avoid; }
+  li::marker { color: var(--accent); font-weight: 700; }
+  b, strong { font-weight: 700; }
+  .ui { font-weight: 700; color: var(--accent); white-space: nowrap; }
+  section { margin: 0 0 18pt; }
+  .salto { break-before: page; }
+
+  /* Portada breve */
+  .portada { border-bottom: 3pt solid var(--accent); padding: 4pt 0 12pt; margin-bottom: 14pt; }
+  .portada .marca { font-size: 9pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0 0 6pt; }
+  .portada h1 { font-size: 26pt; margin: 0 0 6pt; }
+  .portada .sub { font-size: 12pt; color: var(--muted); margin: 0 0 10pt; max-width: 34em; }
+  .portada .meta { font-size: 9pt; color: var(--muted); }
+  .indice { display: grid; grid-template-columns: 1fr 1fr; gap: 4pt 20pt; background: var(--tint); border-radius: 6pt; padding: 10pt 14pt; margin: 0 0 14pt; font-size: 10pt; }
+  .indice span { display: flex; gap: 6pt; }
+  .indice i { font-style: normal; color: var(--accent); font-weight: 700; width: 12pt; }
+
+  figure { margin: 6pt 0 10pt; break-inside: avoid; }
+  figure img { display: block; width: 100%; border: 0.75pt solid var(--line); border-radius: 4pt; }
+  figcaption { font-size: 8.5pt; color: var(--muted); margin-top: 3pt; }
+  .dos { display: grid; grid-template-columns: 1.75fr 1fr; gap: 14pt; align-items: start; break-inside: avoid; }
+
+  table { width: 100%; border-collapse: collapse; margin: 4pt 0 10pt; font-size: 9.5pt; break-inside: avoid; }
+  th, td { text-align: left; vertical-align: top; padding: 4pt 6pt; border-bottom: 0.75pt solid var(--line); }
+  th { background: var(--tint); font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); }
+  td:first-child { font-weight: 700; width: 32%; }
+
+  .nota { border-left: 3pt solid var(--accent); background: var(--accent-soft); border-radius: 0 4pt 4pt 0; padding: 7pt 10pt; margin: 6pt 0 10pt; font-size: 9.5pt; break-inside: avoid; }
+  .nota.alerta { border-color: var(--warn); background: var(--warn-soft); }
+  .nota p:last-child, .nota ul:last-child { margin-bottom: 0; }
+  .muestra { display: inline-block; width: 10pt; height: 10pt; border-radius: 2pt; border: 0.75pt solid; vertical-align: -1pt; margin-right: 3pt; }
+  .m-local { background: var(--warn-soft); border-color: var(--warn); }
+  .m-repo { background: var(--accent-soft); border-color: var(--accent); }
+  .m-bad { background: var(--bad-soft); border-color: var(--bad); }
+  .pedido { font-style: italic; }
+</style>
+</head>
+<body>
+
+<header class="portada">
+  <p class="marca">Catálogo Farma y Mark · Mercado Libre</p>
+  <h1>Manual del visor de productos</h1>
+  <p class="sub">Cómo filtrar productos, editar precios, descargar el layout de importación para Mercado Libre y seguir trabajando el repositorio con Claude o Codex.</p>
+  <p class="meta">Repositorio <span class="mono">zublimemx/marketplaces-product-images</span> · Versión del 29 de septiembre de 2026</p>
+</header>
+
+<div class="indice">
+  <span><i>1</i> Abrir el visor</span>
+  <span><i>4</i> Descargar el layout para Mercado Libre</span>
+  <span><i>2</i> Encontrar y filtrar productos</span>
+  <span><i>5</i> Pendientes: pedir acciones a la IA</span>
+  <span><i>3</i> Editar precios</span>
+  <span><i>6</i> Seguir trabajando con Claude o Codex</span>
+</div>
+
+<section>
+  <h2><span class="n">1</span>Abrir el visor</h2>
+  <ol>
+    <li>Descarga el repositorio completo desde GitHub: botón <span class="ui">Code → Download ZIP</span> (o <code>git clone https://github.com/zublimemx/marketplaces-product-images</code>) y descomprímelo. Si el repositorio está privado, entra con una cuenta de GitHub que tenga acceso.</li>
+    <li>Abre el archivo <code>visor/index.html</code> con doble clic, en Chrome o Edge. No hay que instalar nada; las fotos se leen de la carpeta <code>products/</code>, así que no muevas el archivo fuera del repositorio.</li>
+    <li>Arriba a la izquierda aparece la fecha de los datos («datos del …»). Si la IA actualizó el repositorio, vuelve a descargarlo para ver los cambios.</li>
+  </ol>
+  <p>Para abrir un producto directo, agrega <code>#p</code> y su código al final de la dirección, por ejemplo <code>…/visor/index.html#p7501058623300</code>.</p>
+  <figure>
+    <img src="img/01_catalogo.png" alt="Visor en la vista de cuadrícula">
+    <figcaption>Vista de cuadrícula: resumen de indicadores arriba, filtros a la izquierda y cada producto con su carrusel de fotos, precio final, envío e indicadores.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <h2><span class="n">2</span>Encontrar y filtrar productos</h2>
+  <ul>
+    <li><b>Nombre, Código y Categoría:</b> escribe y elige de la lista. Puedes agregar varios valores (se suman: «esto o aquello»). «Contiene "texto"» busca por fragmento. Quita un valor con la <b>×</b>.</li>
+    <li><b>Casillas de grupo:</b> línea, inventario, descripción, fotos, precios, publicación en Meli, ajustes de precio, tipo de pendiente y pendiente. El número junto a cada opción dice cuántos productos quedarían al marcarla.</li>
+    <li>Filtros distintos se combinan: solo quedan los productos que cumplen todos. <span class="ui">Limpiar todo</span> los quita.</li>
+    <li><b>Resumen de arriba:</b> haz clic en un indicador (por ejemplo, «fotos mala 43») para filtrar por él.</li>
+    <li><b>Vista:</b> <span class="ui">Cuadrícula</span> (tarjetas) o <span class="ui">Lista</span> (tabla). En la lista, un clic en un encabezado ordena y otro invierte el orden; <span class="ui">Columnas</span> muestra u oculta columnas. <span class="ui">Ordenar por</span> y <span class="ui">Por página</span> están arriba de los resultados.</li>
+    <li><b>Detalle:</b> clic en un producto para ver sus fotos, precios, categoría, descripción, ficha técnica, pendientes y productos similares.</li>
+  </ul>
+  <figure>
+    <img src="img/02_filtros.png" alt="Autocompletado del filtro de categoría">
+    <figcaption>Filtro de categoría con autocompletado y el filtro «Fotos: regulares» aplicado; el resumen se ajusta a lo filtrado.</figcaption>
+  </figure>
+  <table>
+    <tr><th>Indicador</th><th>Qué significa</th></tr>
+    <tr><td>Descripción: buena / regular / mala</td><td>Buena: verificada con confianza alta, 800 caracteres o más y 3 secciones. Regular: verificada pero más corta o con confianza media. Mala: sin verificar o muy corta.</td></tr>
+    <tr><td>Fotos: buena / regular / mala</td><td>Buena: 2 fotos o más y la principal de 800 px o más. Regular: una sola foto o la principal chica. Mala: sin fotos o todas chicas.</td></tr>
+    <tr><td>Precios: completos / incompletos</td><td>Completos cuando se conocen el precio de venta, el precio Meli calculado y el precio del mejor vendedor.</td></tr>
+  </table>
+</section>
+
+<section class="salto">
+  <h2><span class="n">3</span>Editar precios</h2>
+  <p>Los parámetros de precio de cada producto se editan en tres lugares, y en los tres se recalcula todo al salir del campo (o al presionar Enter):</p>
+  <ul>
+    <li><b>Lista:</b> las celdas con recuadro son editables (precio de venta, envío, promedio y mejor vendedor; con <span class="ui">Columnas</span> aparecen empaque, comisión y descuento).</li>
+    <li><b>Cuadrícula:</b> botón <span class="ui">Editar precios</span> de cada tarjeta.</li>
+    <li><b>Detalle:</b> bloque <span class="ui">Precios e inventario</span>.</li>
+  </ul>
+  <table>
+    <tr><th>Parámetro</th><th>Qué es</th></tr>
+    <tr><td>Precio de venta</td><td>Precio del catálogo del sistema, IVA incluido.</td></tr>
+    <tr><td>Costo de empaque y logística</td><td>Se suma al precio de venta (por omisión $4).</td></tr>
+    <tr><td>Comisión Meli</td><td>Porcentaje de la publicación Clásica, IVA incluido. Escríbela como 14 para 14&nbsp;%.</td></tr>
+    <tr><td>Costo de envío</td><td>Lo que Mercado Libre cobra por el envío gratis cuando el precio queda en $299 o más. Viene estimado de $75 a $150 por peso y tamaño.</td></tr>
+    <tr><td>Promedio otros vendedores</td><td>Referencia; lo trae la API de Mercado Libre.</td></tr>
+    <tr><td>Precio mejor vendedor</td><td>Precio de la publicación del vendedor con más ventas; lo trae la API.</td></tr>
+    <tr><td>Descuento contra mejor vendedor</td><td>Cuánto abajo del mejor vendedor se publica (por omisión $1).</td></tr>
+  </table>
+  <div class="nota">
+    <p><b>Cómo se calcula.</b> Precio marketplaces = precio de venta + empaque. Precio Meli calculado = lo mínimo para recibir el precio marketplaces después de la comisión y el costo fijo; si el precio queda en $299 o más, en lugar del costo fijo incluye el envío. <b>Precio Meli final</b> = mejor vendedor − descuento, siempre que no quede abajo del calculado; si no, el calculado. Es el precio que va al layout.</p>
+  </div>
+  <div class="nota alerta">
+    <p><b>Guardar para todos.</b> Lo editado se guarda solo en tu navegador, pero ya cuenta en indicadores y exportaciones. La barra naranja muestra cuántos productos editaste: <span class="ui">Exportar ajustes de precio</span> descarga un Excel; adjúntalo en el chat con la IA y pide <span class="pedido">«Versiona estos ajustes de precio»</span>. <span class="ui">Deshacer lo editado aquí</span> borra lo local (pide dos clics).</p>
+  </div>
+  <div class="dos">
+    <figure>
+      <img src="img/04_detalle_precios.png" alt="Formulario de precios en el detalle">
+      <figcaption>Formulario del detalle: parámetros arriba y resultados abajo.</figcaption>
+    </figure>
+    <div>
+      <figure>
+        <img src="img/05_tarjeta.png" alt="Tarjeta con botón Editar precios">
+        <figcaption>Tarjeta con el envío estimado y el botón «Editar precios».</figcaption>
+      </figure>
+      <p><span class="muestra m-local"></span><b>Naranja:</b> editado en este navegador.<br>
+         <span class="muestra m-repo"></span><b>Azul:</b> ajustado en el repositorio.<br>
+         <span class="muestra m-bad"></span><b>Rojo:</b> valor inválido; no se guarda.<br>
+         Borrar un campo regresa al valor original.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="n">4</span>Descargar el layout para Mercado Libre</h2>
+  <ol>
+    <li>Filtra los productos que quieres publicar (o limpia los filtros para todos).</li>
+    <li>Selecciónalos: casilla en cada renglón o tarjeta; la casilla del encabezado de la lista marca todos los filtrados, igual que <span class="ui">Seleccionar los N filtrados</span>. <span class="ui">Deseleccionar los N filtrados</span> quita solo los del filtro actual. La selección se conserva al cambiar filtros.</li>
+    <li>Pulsa <span class="ui">Exportar layout Meli (N)</span>. Se descarga <code>layout_meli_AAAA-MM-DD_HHMM.xlsx</code> con tres hojas: <b>Layout Mercado Libre</b> (SKU, título, categoría, precio = Precio Meli final, cantidad, descripción, ficha técnica e Imagen 1 a 6 con las URLs de GitHub), <b>Precios</b> (desglose) e <b>Instrucciones</b>.</li>
+    <li>Revisa la columna gris <b>Errores a revisar</b> (por ejemplo, productos sin fotos). Las columnas grises son de control y no se suben.</li>
+    <li>Copia los datos a la plantilla de carga masiva que Mercado Libre da para cada categoría (o usa el archivo como hoja maestra).</li>
+  </ol>
+  <figure>
+    <img src="img/03_lista.png" alt="Lista con productos seleccionados y precios editables">
+    <figcaption>Lista con tres productos seleccionados, un envío editado (naranja) y el botón «Exportar layout Meli».</figcaption>
+  </figure>
+  <div class="nota alerta">
+    <p><b>Fotos:</b> Mercado Libre descarga las imágenes de las URLs de GitHub, que solo funcionan mientras el repositorio es <b>público</b>. Antes de importar, en GitHub ve a <span class="ui">Settings → Danger Zone → Change repository visibility</span> y hazlo público; al terminar la importación, regrésalo a privado.</p>
+  </div>
+  <p>Los productos descartados de Meli no se exportan. Los precios que editaste en tu navegador sí van en el archivo.</p>
+</section>
+
+<section>
+  <h2><span class="n">5</span>Pendientes: pedir acciones a la IA</h2>
+  <p>La sección <span class="ui">Pendientes</span> (arriba a la derecha) lista cada producto con lo que le falta: <b>errores</b> (impiden o ponen en riesgo la publicación), <b>pendientes</b> (falta un dato o una confirmación) y <b>mejoras</b>, cada uno con su acción sugerida.</p>
+  <ol>
+    <li>Filtra por tipo o por pendiente (por ejemplo, «Sin fotos») y selecciona los productos.</li>
+    <li>Elige la <span class="ui">Acción a solicitar</span>: Completar información, Buscar más imágenes, Completar precios, Revisar con el dueño o Descartar de Meli. También puedes dejarla vacía y elegirla renglón por renglón en Excel.</li>
+    <li>Pulsa <span class="ui">Exportar pendientes</span>. En el Excel puedes cambiar la acción y escribir comentarios (por ejemplo, el dato correcto del empaque).</li>
+    <li>Adjunta el archivo en el chat y pide <span class="pedido">«Procesa las solicitudes de este archivo»</span>.</li>
+  </ol>
+  <figure>
+    <img src="img/06_pendientes.png" alt="Sección de pendientes filtrada por productos sin fotos">
+    <figcaption>Pendientes filtrados por «Sin fotos», con la barra de selección, la acción a solicitar y la exportación.</figcaption>
+  </figure>
+</section>
+
+<section>
+  <h2><span class="n">6</span>Seguir trabajando con Claude o Codex</h2>
+  <p>El repositorio guarda todo lo necesario para que otra sesión de IA continúe sin perder contexto: la guía para agentes (<code>AGENTS.md</code>, y <code>CLAUDE.md</code> para Claude), el estado y las próximas tareas (<code>PENDIENTES.md</code>), las reglas de negocio y los procedimientos (<code>docs/</code>). Cada cambio se hace en una rama con un PR que se fusiona, y <code>PENDIENTES.md</code> queda siempre al día.</p>
+
+  <h3>Con Claude</h3>
+  <ol>
+    <li>Abre una sesión de Claude Code (en claude.ai o en la app de escritorio) con el repositorio <code>zublimemx/marketplaces-product-images</code>.</li>
+    <li>Claude lee <code>CLAUDE.md</code> y <code>AGENTS.md</code> por su cuenta. Pídele lo que necesitas en lenguaje normal (tabla de abajo).</li>
+  </ol>
+
+  <h3>Con Codex</h3>
+  <ol>
+    <li>En Codex en la nube, crea un entorno con el repositorio, <b>activa el acceso a internet</b> y pon <code>bash scripts/setup.sh</code> como script de preparación. En Codex CLI, habilita la red del sandbox y la búsqueda web (<code>codex --search</code>).</li>
+    <li>Codex lee <code>AGENTS.md</code> por su cuenta; las peticiones son las mismas.</li>
+  </ol>
+
+  <table>
+    <tr><th>Qué quieres</th><th>Qué pedir</th></tr>
+    <tr><td>Saber cómo va el proyecto</td><td class="pedido">«Lee PENDIENTES.md y dime el estado y las próximas tareas»</td></tr>
+    <tr><td>Continuar el trabajo</td><td class="pedido">«Continúa con la siguiente tarea de PENDIENTES.md»</td></tr>
+    <tr><td>Guardar precios editados</td><td>Adjunta el Excel de ajustes: <span class="pedido">«Versiona estos ajustes de precio»</span></td></tr>
+    <tr><td>Resolver pendientes</td><td>Adjunta el Excel de pendientes: <span class="pedido">«Procesa las solicitudes de este archivo»</span></td></tr>
+    <tr><td>Actualizar precios de competencia</td><td class="pedido">«Actualiza los precios de competencia con la API de Mercado Libre» (con un token o código de autorización vigente)</td></tr>
+    <tr><td>Actualizar precios y existencias</td><td>Adjunta los Excel del sistema: <span class="pedido">«Actualiza precios y existencias y regenera el layout y el visor»</span></td></tr>
+    <tr><td>Otro marketplace</td><td class="pedido">«Arma el layout de importación para Shopify» (u Odoo, Amazon)</td></tr>
+  </table>
+
+  <div class="nota">
+    <p><b>Lo que la IA necesita de ti</b> (no está en el repositorio, a propósito):</p>
+    <ul>
+      <li>Los Excel del sistema (más vendidos y catálogos Farma y Mark) cuando cambien precios o existencias.</li>
+      <li>Las credenciales de la API de Mercado Libre y un token vigente (dura 6 horas) o un código de autorización. Se guardan en el archivo local <code>.env</code>, nunca en GitHub.</li>
+      <li>Los Excel que exporta el visor (ajustes de precio y pendientes).</li>
+    </ul>
+  </div>
+  <div class="nota alerta">
+    <p><b>Reglas del repositorio:</b> nunca se borra; es privado normalmente y público solo durante la importación a un marketplace; ninguna credencial se sube a GitHub; todo cambio va por PR con los pendientes actualizados.</p>
+  </div>
+</section>
+
+</body>
+</html>
