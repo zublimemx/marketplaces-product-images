@@ -1,7 +1,8 @@
 /* Escritor mínimo de libros .xlsx (Office Open XML), sin dependencias, para exportar desde el visor.
    Uso: XLSXSimple.descargar("archivo.xlsx", [{ nombre, columnas: [{ titulo, ancho, formato }], filas: [[...]],
         lista: { columna, opciones }, filtro: true }])
-   formato: "texto" (por omisión), "codigo" (texto que no se convierte a número), "dinero", "entero", "largo" (texto con ajuste). */
+   formato: "texto" (por omisión), "codigo" (texto que no se convierte a número), "dinero", "entero", "porcentaje",
+   "largo" (texto con ajuste) o "auto" (número como número, texto como texto). Columna con aux: true = encabezado gris (control interno). */
 (function () {
   "use strict";
   const enc = new TextEncoder();
@@ -57,12 +58,13 @@
   const letra = (i) => { let s = ""; i += 1; while (i > 0) { const m = (i - 1) % 26; s = String.fromCharCode(65 + m) + s; i = Math.floor((i - 1) / 26); } return s; };
   const nombreHoja = (s) => String(s).replace(/[\[\]:*?\/\\]/g, " ").slice(0, 31);
   // índices de estilo (cellXfs)
-  const ESTILO = { encabezado: 1, largo: 2, dinero: 3, entero: 4, texto: 5, codigo: 6 };
+  const ESTILO = { encabezado: 1, largo: 2, dinero: 3, entero: 4, texto: 5, codigo: 6, porcentaje: 7, numero: 8, encabezadoAux: 9 };
 
   function celda(ref, v, formato) {
     if (v == null || v === "") return "";
     if (typeof v === "number" && Number.isFinite(v) && formato !== "codigo" && formato !== "texto" && formato !== "largo") {
-      return `<c r="${ref}" s="${ESTILO[formato] || ESTILO.entero}"><v>${v}</v></c>`;
+      const s = formato === "auto" ? ESTILO.numero : (ESTILO[formato] || ESTILO.entero);
+      return `<c r="${ref}" s="${s}"><v>${v}</v></c>`;
     }
     const t = String(v).slice(0, 32000);
     return `<c r="${ref}" t="inlineStr" s="${ESTILO[formato] || ESTILO.texto}"><is><t xml:space="preserve">${xml(t)}</t></is></c>`;
@@ -80,7 +82,7 @@
       + '</sheetView></sheetViews><sheetFormatPr defaultRowHeight="15"/><cols>'
       + cols.map((c, i) => `<col min="${i + 1}" max="${i + 1}" width="${c.ancho || 14}" customWidth="1"/>`).join("")
       + '</cols><sheetData>';
-    out += '<row r="1">' + cols.map((c, i) => `<c r="${letra(i)}1" t="inlineStr" s="${ESTILO.encabezado}"><is><t xml:space="preserve">${xml(c.titulo)}</t></is></c>`).join("") + "</row>";
+    out += '<row r="1">' + cols.map((c, i) => `<c r="${letra(i)}1" t="inlineStr" s="${c.aux ? ESTILO.encabezadoAux : ESTILO.encabezado}"><is><t xml:space="preserve">${xml(c.titulo)}</t></is></c>`).join("") + "</row>";
     h.filas.forEach((f, k) => {
       const r = k + 2;
       out += `<row r="${r}">` + cols.map((c, i) => celda(`${letra(i)}${r}`, f[i], c.formato)).join("") + "</row>";
@@ -97,12 +99,14 @@
   const ESTILOS = '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n'
     + '<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
     + '<numFmts count="1"><numFmt numFmtId="164" formatCode="&quot;$&quot;#,##0.00"/></numFmts>'
-    + '<fonts count="2"><font><sz val="11"/><name val="Calibri"/><family val="2"/></font><font><b/><sz val="11"/><name val="Calibri"/><family val="2"/></font></fonts>'
-    + '<fills count="3"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill>'
-    + '<fill><patternFill patternType="solid"><fgColor rgb="FFDCE6F2"/><bgColor indexed="64"/></patternFill></fill></fills>'
+    + '<fonts count="3"><font><sz val="11"/><name val="Calibri"/><family val="2"/></font><font><b/><sz val="11"/><name val="Calibri"/><family val="2"/></font>'
+    + '<font><b/><sz val="11"/><color rgb="FFFFFFFF"/><name val="Calibri"/><family val="2"/></font></fonts>'
+    + '<fills count="4"><fill><patternFill patternType="none"/></fill><fill><patternFill patternType="gray125"/></fill>'
+    + '<fill><patternFill patternType="solid"><fgColor rgb="FFDCE6F2"/><bgColor indexed="64"/></patternFill></fill>'
+    + '<fill><patternFill patternType="solid"><fgColor rgb="FF595959"/><bgColor indexed="64"/></patternFill></fill></fills>'
     + '<borders count="1"><border><left/><right/><top/><bottom/><diagonal/></border></borders>'
     + '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>'
-    + '<cellXfs count="7">'
+    + '<cellXfs count="10">'
     + '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>'
     + '<xf numFmtId="0" fontId="1" fillId="2" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment vertical="center" wrapText="1"/></xf>'
     + '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyAlignment="1"><alignment vertical="top" wrapText="1"/></xf>'
@@ -110,6 +114,9 @@
     + '<xf numFmtId="3" fontId="0" fillId="0" borderId="0" xfId="0" applyNumberFormat="1" applyAlignment="1"><alignment vertical="top"/></xf>'
     + '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyAlignment="1"><alignment vertical="top"/></xf>'
     + '<xf numFmtId="49" fontId="0" fillId="0" borderId="0" xfId="0" applyNumberFormat="1" applyAlignment="1"><alignment vertical="top"/></xf>'
+    + '<xf numFmtId="10" fontId="0" fillId="0" borderId="0" xfId="0" applyNumberFormat="1" applyAlignment="1"><alignment vertical="top"/></xf>'
+    + '<xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0" applyAlignment="1"><alignment vertical="top"/></xf>'
+    + '<xf numFmtId="0" fontId="2" fillId="3" borderId="0" xfId="0" applyFont="1" applyFill="1" applyAlignment="1"><alignment vertical="center" wrapText="1"/></xf>'
     + '</cellXfs><cellStyles count="1"><cellStyle name="Normal" xfId="0" builtinId="0"/></cellStyles></styleSheet>';
 
   function libro(hojas) {

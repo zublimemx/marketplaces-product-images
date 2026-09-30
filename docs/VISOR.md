@@ -1,6 +1,6 @@
 # Visor de productos
 
-Página para revisar a ojo la calidad y la cantidad de los productos antes de importarlos: fotos, descripción, ficha técnica, categoría, inventario y precios, con indicadores de calidad por producto. La sección **Pendientes** lista lo que le falta o conviene mejorar a cada producto y exporta a Excel los que selecciones, para pedir acciones concretas.
+Página para revisar a ojo la calidad y la cantidad de los productos antes de importarlos: fotos, descripción, ficha técnica, categoría, inventario y precios, con indicadores de calidad por producto. La sección **Pendientes** lista lo que le falta o conviene mejorar a cada producto y exporta a Excel los que selecciones, para pedir acciones concretas. Desde cualquier vista se exporta el **layout de Mercado Libre** listo para importar, con las URLs de las fotos en GitHub.
 
 Archivos (HTML, CSS y JS por separado, sin dependencias ni compilación):
 
@@ -8,7 +8,7 @@ Archivos (HTML, CSS y JS por separado, sin dependencias ni compilación):
 visor/index.html          Estructura de la página
 visor/styles.css          Estilos (tema claro y oscuro según el sistema)
 visor/app.js              Filtros, cuadrícula, tabla, paginación, detalle y sección Pendientes
-visor/xlsx.js             Escritor de .xlsx sin dependencias (exportación de pendientes)
+visor/xlsx.js             Escritor de .xlsx sin dependencias (exportación del layout Meli y de pendientes)
 visor/data/productos.js   Datos (window.CATALOGO = …), generado por scripts/build_visor.py
 config/indicadores.json   Reglas de los indicadores
 config/pendientes.json    Catálogo de pendientes (tipo, título, acción sugerida), umbrales y acciones que se pueden pedir
@@ -35,7 +35,19 @@ Enlace directo a un producto: `visor/index.html#p<GTIN>` (por ejemplo `#p7501058
 - **Filtros** multiselección con autocompletado por nombre, código (GTIN o ID de catálogo) y categoría de Mercado Libre; cada filtro acepta varios valores (se combinan con «o») y «Contiene «texto»» para buscar por fragmento. Además: línea, con o sin existencia, los tres indicadores, publicación en Meli (se publica o descartado), tipo de pendiente y pendiente. Filtros distintos se combinan con «y». Los números junto a cada opción cuentan los productos que quedarían al marcarla.
 - **Resumen** arriba: conteo por indicador y por tipo de pendiente (clic para filtrar), piezas en inventario, productos sin existencia y descartados.
 - **Detalle** (clic en un producto): indicadores con el motivo, botón «Seleccionar para exportar», fotos con miniaturas y datos de cada foto (origen, tamaño útil, fuente), precios e inventario, categoría y catálogo de Mercado Libre, pendientes, errores y mejoras, descripción, ficha técnica, investigación (estado, confianza, notas, fuentes) y hasta 12 productos similares de la misma categoría hoja (si hay pocos, se completa con categorías hermanas).
+- **Selección**: casilla en cada renglón de la lista, en cada tarjeta y en cada renglón de Pendientes; la casilla del encabezado de la lista selecciona o deselecciona todos los filtrados (queda a medias si solo hay algunos). La barra de selección tiene «Seleccionar los N filtrados», «Deseleccionar los N filtrados», «Seleccionar esta página», «Quitar toda la selección» y «Ver solo seleccionados». La selección se conserva al cambiar filtros, vista o sección.
+- **Exportar layout Meli**: descarga `layout_meli_AAAA-MM-DD_HHMM.xlsx` con los productos seleccionados (ver abajo).
 - Recuerda en el navegador la sección, la vista, los productos por página, las columnas ocultas, la selección y la acción elegida.
+
+## Exportar el layout de Mercado Libre
+
+Selecciona productos (por ejemplo, filtra y usa «Seleccionar los N filtrados», o todos con los filtros limpios) y pulsa **Exportar layout Meli**. El archivo trae:
+
+- **Layout Mercado Libre**: las mismas columnas y valores que `layouts/mercadolibre/layout_mercadolibre.xlsx` (SKU, código universal, título, categoría, Precio [$] = Precio Meli Final, cantidad, valores fijos de publicación, descripción, ficha técnica e Imagen 1 a 6), con valores en lugar de fórmulas, más las columnas grises de control (línea de origen, nombre en sistema, estado de investigación y «Errores a revisar»).
+- **Precios**: desglose de cada precio (venta, marketplaces, comisión, calculado, promedio, mejor vendedor, final, costo fijo, envío, ingreso neto y margen).
+- **Instrucciones**: productos exportados, descartados omitidos, productos con errores, filtros aplicados y notas de importación.
+
+Las URLs de las fotos apuntan al repositorio: `https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products/<GTIN>/images/<GTIN>_<n>.jpg`. Mercado Libre solo puede descargarlas mientras el repositorio es público. Los productos descartados no se exportan. La exportación de los 1,163 productos se comparó celda por celda con el layout versionado (0 diferencias). Las constantes del layout (encabezados, ficha, número de fotos, URL base, valores fijos) salen de `scripts/build_mercadolibre.py` y viajan en `visor/data/productos.js`, así que el visor y el script siempre coinciden.
 
 ## Sección Pendientes
 
@@ -76,9 +88,9 @@ Reglas y umbrales en `config/pendientes.json`; el cálculo está en `pendientes(
 
 ### Pedir acciones con el Excel
 
-1. Filtra (por ejemplo, Pendiente = «Sin fotos») y selecciona productos: casilla por renglón, «Seleccionar esta página», «Seleccionar los N filtrados» o desde el detalle. La selección se conserva al cambiar filtros; «Ver solo seleccionados» la revisa.
+1. Filtra (por ejemplo, Pendiente = «Sin fotos») y selecciona productos: casilla por renglón, «Seleccionar esta página», «Seleccionar los N filtrados» o desde el detalle. La selección es la misma que en el catálogo; «Ver solo seleccionados» la revisa.
 2. Elige la **acción a solicitar** (Completar información, Buscar más imágenes, Completar precios, Revisar con el dueño o Descartar de Meli) o déjala vacía para elegirla por renglón en Excel.
-3. **Exportar a Excel** descarga `pendientes_meli_AAAA-MM-DD_HHMM.xlsx` con tres hojas: **Productos** (un renglón por producto, con detalle de pendientes, acciones sugeridas, «Acción solicitada» con lista desplegable y «Comentarios»), **Detalle** (un renglón por pendiente) e **Instrucciones** (filtros aplicados y qué hace cada acción).
+3. **Exportar pendientes** descarga `pendientes_meli_AAAA-MM-DD_HHMM.xlsx` con tres hojas: **Productos** (un renglón por producto, con detalle de pendientes, acciones sugeridas, «Acción solicitada» con lista desplegable y «Comentarios»), **Detalle** (un renglón por pendiente) e **Instrucciones** (filtros aplicados y qué hace cada acción).
 4. El dueño ajusta «Acción solicitada» y «Comentarios» y adjunta el archivo en el chat.
 5. El agente lo procesa: `python scripts/solicitudes.py <archivo.xlsx>` agrupa los productos por acción; `--aplicar-descartes` descarta los marcados con «Descartar de Meli». Las demás acciones se trabajan con `docs/agentes/` (información e imágenes), `docs/MERCADOLIBRE_API.md` (precios) o con el dato que el dueño escribió en Comentarios. Al terminar: regenerar layout y visor y abrir PR.
 

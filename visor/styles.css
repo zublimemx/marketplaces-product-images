@@ -212,6 +212,13 @@ button, input, select { font: inherit; color: inherit; }
   border-radius: var(--radius); padding: 10px; cursor: pointer; min-width: 0;
 }
 .card:hover { border-color: var(--accent); box-shadow: var(--shadow); }
+.card { position: relative; }
+.card.sel { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent); }
+.card-sel {
+  position: absolute; top: 16px; left: 16px; z-index: 2; display: grid; place-items: center;
+  width: 30px; height: 30px; border-radius: 8px; background: rgb(255 255 255 / 0.92); border: 1px solid rgb(22 32 43 / 0.2); cursor: pointer;
+}
+.card-sel input, .tsel input, .col-sel > input { width: 18px; height: 18px; margin: 0; accent-color: var(--accent); cursor: pointer; }
 .card h3 { margin: 0; font-size: 0.95rem; line-height: 1.3; min-height: 2.6em; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 .card .meta { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2px 6px; font-size: 0.78rem; color: var(--muted); }
 .card .cat { font-size: 0.8rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -231,6 +238,10 @@ button, input, select { font: inherit; color: inherit; }
 .tabla th.num, .tabla td.num { text-align: right; }
 .tabla tbody tr { cursor: pointer; }
 .tabla tbody tr:hover td { background: var(--accent-soft); }
+.tabla .col-sel { width: 44px; text-align: center; padding-left: 12px; padding-right: 4px; }
+.tsel { display: inline-grid; place-items: center; padding: 6px; margin: -6px; cursor: pointer; }
+.tabla tbody tr.sel td { background: var(--accent-soft); }
+.tabla tbody tr.sel td.col-sel { box-shadow: inset 3px 0 0 var(--accent); }
 .tabla td.prod { min-width: 220px; max-width: 360px; }
 .tabla td.prod small { display: block; color: var(--muted); }
 .tabla td.cat { min-width: 160px; color: var(--muted); }

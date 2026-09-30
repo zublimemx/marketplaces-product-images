@@ -94,7 +94,7 @@
     if (sin !== "publicacion" && f.publicacion.size && !f.publicacion.has(p.descartado ? "descartado" : "publica")) return false;
     if (sin !== "tipo" && f.tipo.size && !p._pend.some((x) => f.tipo.has(x.t))) return false;
     if (sin !== "pend" && f.pend.size && !p._pend.some((x) => f.pend.has(x.c))) return false;
-    if (estado.soloSel && estado.seccion === "pendientes" && !estado.sel.has(p.gtin)) return false;
+    if (estado.soloSel && !estado.sel.has(p.gtin)) return false;
     return true;
   }
   // Pendientes del producto que coinciden con los filtros de tipo y pendiente (todos si no hay esos filtros)
@@ -372,11 +372,24 @@
   }
 
   // ---------------- Vistas ----------------
+  // Casilla de selección que no abre el detalle al hacer clic
+  function casillaSel(p, clase, alCambiar) {
+    const lab = document.createElement("label");
+    lab.className = clase;
+    lab.innerHTML = `<input type="checkbox" ${estado.sel.has(p.gtin) ? "checked" : ""} aria-label="Seleccionar ${esc(p.titulo)}">`;
+    const inp = lab.querySelector("input");
+    lab.addEventListener("click", (e) => e.stopPropagation());
+    inp.addEventListener("keydown", (e) => e.stopPropagation());
+    inp.addEventListener("change", () => { if (alCambiar) alCambiar(inp.checked); alternarSel(p.gtin, inp.checked); });
+    return lab;
+  }
+
   function tarjeta(p) {
     const el = document.createElement("article");
-    el.className = "card";
+    el.className = "card" + (estado.sel.has(p.gtin) ? " sel" : "");
     el.tabIndex = 0;
     el.setAttribute("aria-label", p.titulo);
+    el.appendChild(casillaSel(p, "card-sel", (on) => el.classList.toggle("sel", on)));
     el.appendChild(carrusel(p.imagenes));
     const info = document.createElement("div");
     info.style.display = "contents";
@@ -417,6 +430,19 @@
   function cabecera() {
     const tr = $("tabla-head");
     tr.innerHTML = "";
+    const thSel = document.createElement("th");
+    thSel.scope = "col";
+    thSel.className = "col-sel";
+    thSel.innerHTML = '<input type="checkbox" id="sel-todos">';
+    thSel.querySelector("input").addEventListener("change", (e) => {
+      const lista = vistaActual.lista;
+      const todos = lista.length && lista.every((p) => estado.sel.has(p.gtin));
+      lista.forEach((p) => (todos ? estado.sel.delete(p.gtin) : estado.sel.add(p.gtin)));
+      e.target.checked = !todos;
+      guardarSel();
+      render();
+    });
+    tr.appendChild(thSel);
     COLUMNAS.filter((c) => !estado.ocultas.has(c.id)).forEach((c) => {
       const th = document.createElement("th");
       th.scope = "col";
@@ -474,19 +500,14 @@
 
   // ---------------- Sección Pendientes ----------------
   let vistaActual = { lista: [], pagina: [] };
+  let ayudaMsg = "";
   const guardarSel = () => guardar("sel", [...estado.sel]);
 
   function filaPend(p) {
     const el = document.createElement("article");
     el.className = "pfila" + (estado.sel.has(p.gtin) ? " sel" : "");
     const vis = pendVisibles(p);
-    const chk = document.createElement("label");
-    chk.className = "psel";
-    chk.innerHTML = `<input type="checkbox" ${estado.sel.has(p.gtin) ? "checked" : ""} aria-label="Seleccionar ${esc(p.titulo)}">`;
-    chk.querySelector("input").addEventListener("change", (e) => {
-      el.classList.toggle("sel", e.target.checked);
-      alternarSel(p.gtin, e.target.checked);
-    });
+    const chk = casillaSel(p, "psel", (on) => el.classList.toggle("sel", on));
     const foto = document.createElement("div");
     foto.className = "pfoto";
     foto.appendChild(carrusel(p.imagenes, { mini: true }));
@@ -507,15 +528,28 @@
   function actualizarBarra() {
     const { lista, pagina } = vistaActual;
     const n = estado.sel.size;
+    const nFil = lista.reduce((s, p) => s + (estado.sel.has(p.gtin) ? 1 : 0), 0);
     $("sel-n").textContent = ENT.format(n);
-    $("sel-txt").textContent = n === 1 ? "seleccionado" : "seleccionados";
-    $("sel-filtrados").textContent = `Seleccionar los ${ENT.format(lista.length)} filtrados`;
-    $("sel-filtrados").disabled = !lista.length;
-    $("sel-pagina").disabled = !pagina.length;
+    $("sel-txt").textContent = (n === 1 ? "seleccionado" : "seleccionados") + (n && nFil !== n ? ` (${ENT.format(nFil)} con los filtros actuales)` : "");
+    $("sel-filtrados").textContent = lista.length === 1 ? "Seleccionar 1 filtrado" : `Seleccionar los ${ENT.format(lista.length)} filtrados`;
+    $("sel-filtrados").disabled = !lista.length || nFil === lista.length;
+    $("desel-filtrados").textContent = nFil === 1 ? "Deseleccionar 1 filtrado" : `Deseleccionar los ${ENT.format(nFil)} filtrados`;
+    $("desel-filtrados").disabled = !nFil;
+    $("sel-pagina").disabled = !pagina.length || pagina.every((p) => estado.sel.has(p.gtin));
     $("sel-quitar").disabled = !n;
     $("solo-sel").checked = estado.soloSel;
+    const nMeli = [...estado.sel].filter((g) => !porGtin.get(g).descartado).length;
+    $("exportar-meli").disabled = !nMeli;
+    $("exportar-meli").textContent = nMeli ? `Exportar layout Meli (${ENT.format(nMeli)})` : "Exportar layout Meli";
     $("exportar").disabled = !n;
-    $("exportar").textContent = n ? `Exportar ${ENT.format(n)} a Excel` : "Exportar a Excel";
+    $("exportar").textContent = n ? `Exportar pendientes (${ENT.format(n)})` : "Exportar pendientes";
+    const todos = $("sel-todos");
+    if (todos) {
+      todos.checked = lista.length > 0 && nFil === lista.length;
+      todos.indeterminate = nFil > 0 && nFil < lista.length;
+      todos.setAttribute("aria-label", todos.checked ? `Deseleccionar los ${lista.length} filtrados` : `Seleccionar los ${lista.length} filtrados`);
+      todos.title = todos.getAttribute("aria-label");
+    }
   }
 
   function alternarSel(gtin, on) {
@@ -596,7 +630,93 @@
       { nombre: "Detalle", columnas: colsD, filas: filasD, filtro: true },
       { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 30, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: inst },
     ]);
-    $("pb-ayuda").textContent = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos. Adjúntalo en el chat y pide: «Procesa las solicitudes de este archivo».`;
+    ayudaMsg = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos. Adjúntalo en el chat y pide: «Procesa las solicitudes de este archivo».`;
+    $("pb-ayuda").textContent = ayudaMsg;
+  }
+
+  // ---------------- Layout de Mercado Libre (igual al de scripts/build_mercadolibre.py, con valores) ----------------
+  // json.dumps de Python (con ", " y ": ") para los atributos de ficha que son objetos o listas
+  const pyJson = (v) => (Array.isArray(v) ? `[${v.map(pyJson).join(", ")}]`
+    : v && typeof v === "object" ? `{${Object.entries(v).map(([k, x]) => `${JSON.stringify(k)}: ${pyJson(x)}`).join(", ")}}`
+      : JSON.stringify(v));
+
+  function exportarLayout() {
+    const M = DATA.meli;
+    if (!M) return;
+    const sel = P.filter((p) => estado.sel.has(p.gtin)).sort(comparador());
+    const omitidos = sel.filter((p) => p.descartado);
+    const prods = sel.filter((p) => !p.descartado);
+    if (!prods.length) return;
+    const pub = M.publicacion;
+    const filas = prods.map((p) => {
+      const pr = p.precios, f = p.ficha || {};
+      const final = pr.precio_meli_final;
+      const imgs = p.imagenes.slice(0, M.n_imagenes).map((im) => `${M.url_imagenes}/${p.gtin}/images/${im.a}`);
+      while (imgs.length < M.n_imagenes) imgs.push("");
+      const ficha = M.ficha.map((k) => {
+        const v = f[k];
+        return v == null || v === "" ? "" : typeof v === "object" ? pyJson(v) : v;
+      });
+      return [p.gtin, p.gtin, p.sin_titulo ? `PENDIENTE: ${p.nombre_sistema}` : p.titulo, p.categoria_id, p.categoria_ruta, final, p.stock,
+        pub.condicion, pub.tipo_publicacion, p.descripcion, pub.forma_envio,
+        final >= M.umbral_envio_gratis ? M.texto_envio_gratis : pub.costo_envio,
+        pub.retiro_en_persona, pub.tipo_garantia, p.catalogo_id, ...ficha, ...imgs,
+        p.linea, p.nombre_sistema, M.estados[p.investigacion.estado] || p.investigacion.estado,
+        p._pend.filter((x) => x.t === "error").map((x) => x.titulo).join("; ")];
+    });
+    const formato = (h, i) => {
+      if (i < 2) return { formato: "codigo", ancho: 16 };
+      if (h === "Título") return { formato: "texto", ancho: 58 };
+      if (h === "Categoría (ruta)") return { formato: "texto", ancho: 60 };
+      if (h === "Precio [$]") return { formato: "dinero", ancho: 12 };
+      if (h === "Cantidad") return { formato: "entero", ancho: 10 };
+      if (h === "Descripción") return { formato: "texto", ancho: 60 };
+      if (h.startsWith("Imagen ")) return { formato: "texto", ancho: 30 };
+      return { formato: "auto", ancho: 16 };
+    };
+    const cols = M.encabezados.map((h, i) => ({ titulo: h, ...formato(h, i) }))
+      .concat(M.encabezados_aux.map((h) => ({ titulo: h, formato: "texto", ancho: 22, aux: true })))
+      .concat([{ titulo: "Errores a revisar", formato: "texto", ancho: 40, aux: true }]);
+    const colsP = [
+      ["SKU", 16, "codigo"], ["Título", 50, "texto"], ["Categoría (ruta)", 50, "texto"], ["Precio de venta", 13, "dinero"],
+      ["Precio de venta Marketplaces", 14, "dinero"], ["Comisión Meli", 11, "porcentaje"], ["Precio Meli calculado", 13, "dinero"],
+      ["Precio Meli promedio otros vendedores", 15, "dinero"], ["Precio mejor vendedor", 13, "dinero"], ["Precio Meli Final", 13, "dinero"],
+      ["Diferencia contra mejor vendedor", 13, "porcentaje"], ["Costo fijo aplicado", 12, "dinero"], ["Envío a cargo del vendedor", 13, "dinero"],
+      ["Ingreso neto estimado", 13, "dinero"], ["Margen contra Precio de venta Marketplaces", 15, "dinero"],
+    ].map(([titulo, ancho, f]) => ({ titulo, ancho, formato: f }));
+    const filasP = prods.map((p) => {
+      const pr = p.precios;
+      return [p.gtin, p.titulo, p.categoria_ruta, pr.precio_venta, pr.precio_marketplaces, pr.comision, pr.precio_meli_calculado,
+        pr.precio_promedio_otros, pr.precio_mejor_vendedor, pr.precio_meli_final, pr.diferencia_mejor_vendedor, pr.costo_fijo,
+        pr.envio_vendedor, pr.ingreso_neto, pr.margen];
+    });
+    const conError = prods.filter((p) => p._n.error);
+    const ahora = new Date();
+    const dos = (v) => String(v).padStart(2, "0");
+    const nombre = `layout_meli_${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}.xlsx`;
+    const inst = [
+      ["Exportado", ahora.toLocaleString("es-MX")],
+      ["Datos del visor", DATA.generado || ""],
+      ["Productos en el layout", prods.length],
+      ["Descartados omitidos", omitidos.length ? `${omitidos.length}: ${omitidos.map((p) => p.gtin).join(", ")}` : "0"],
+      ["Con errores (columna «Errores a revisar»)", conError.length ? `${conError.length}. Mercado Libre podría rechazar los que no tienen fotos o categoría; revísalos en la sección Pendientes del visor.` : "0"],
+      ["Filtros aplicados al seleccionar", describirFiltros()],
+      ["", ""],
+      ["Fotos", `Las columnas Imagen 1 a Imagen ${M.n_imagenes} apuntan al repositorio de GitHub (${M.url_imagenes}/<GTIN>/images/…). Solo se pueden descargar mientras el repositorio es público: hazlo público antes de importar y vuelve a hacerlo privado al terminar.`],
+      ["Precio [$]", "Precio Meli Final: precio del mejor vendedor − $1 si no queda abajo del Precio Meli calculado; si no, el calculado. Detalle en la hoja Precios."],
+      ["Columnas grises", "Línea de origen, Nombre en sistema, Estado de investigación y Errores a revisar son de control interno; no se suben a Mercado Libre."],
+      ["Cómo importarlo", "Copia los datos a la plantilla de carga masiva que Mercado Libre da para cada categoría (o úsalo como hoja maestra), respetando la categoría de cada producto. Es el mismo contenido que layouts/mercadolibre/layout_mercadolibre.xlsx del repositorio, con valores en lugar de fórmulas."],
+    ];
+    XLSXSimple.descargar(nombre, [
+      { nombre: "Layout Mercado Libre", columnas: cols, filas, filtro: true },
+      { nombre: "Precios", columnas: colsP, filas: filasP, filtro: true },
+      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 34, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: inst },
+    ]);
+    ayudaMsg = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos`
+      + (omitidos.length ? `; se omitieron ${ENT.format(omitidos.length)} descartados` : "")
+      + (conError.length ? `; ${ENT.format(conError.length)} tienen errores (columna «Errores a revisar»)` : "")
+      + ". Las URLs de fotos solo funcionan mientras el repositorio es público.";
+    $("pb-ayuda").textContent = ayudaMsg;
   }
 
   function render() {
@@ -608,7 +728,7 @@
     vistaActual = { lista, pagina };
     const enPend = estado.seccion === "pendientes";
     $("vacio").hidden = lista.length > 0;
-    $("vacio").textContent = enPend && estado.soloSel && !estado.sel.size
+    $("vacio").textContent = estado.soloSel && !estado.sel.size
       ? "No hay productos seleccionados. Quita «Ver solo seleccionados» o selecciona alguno."
       : enPend ? "Ningún producto con pendientes coincide con los filtros. Quita alguno o usa «Limpiar todo»."
         : "Ningún producto coincide con los filtros. Quita alguno o usa «Limpiar todo».";
@@ -616,7 +736,13 @@
     $("sec-catalogo").setAttribute("aria-pressed", String(!enPend));
     $("sec-pendientes").setAttribute("aria-pressed", String(enPend));
     $("vistas").hidden = enPend;
-    $("pend-barra").hidden = !enPend;
+    $("accion-wrap").hidden = !enPend;
+    $("exportar").hidden = !enPend;
+    $("exportar").classList.toggle("btn-primario", enPend);
+    $("exportar-meli").classList.toggle("btn-primario", !enPend);
+    $("pb-ayuda").textContent = ayudaMsg || (enPend
+      ? "Selecciona productos, elige la acción que quieres pedir (o déjala vacía y elígela por renglón en Excel), exporta los pendientes y adjunta el archivo en el chat."
+      : "Selecciona productos (casillas de la lista o de las tarjetas, o «Seleccionar los N filtrados») y exporta el layout de Mercado Libre con las URLs de las fotos en GitHub. Los descartados se omiten.");
     $("vista-pend").hidden = !enPend || !lista.length;
     $("vista-grid").hidden = enPend || !grid;
     $("vista-tabla").hidden = enPend || grid || !lista.length;
@@ -626,7 +752,6 @@
     $("orden-dir").textContent = estado.asc ? "↑ Ascendente" : "↓ Descendente";
     if (enPend) {
       $("vista-pend").replaceChildren(...pagina.map(filaPend));
-      actualizarBarra();
     } else if (grid) {
       const g = $("vista-grid");
       g.replaceChildren(...pagina.map(tarjeta));
@@ -637,12 +762,19 @@
       body.replaceChildren(...pagina.map((p) => {
         const tr = document.createElement("tr");
         tr.tabIndex = 0;
+        if (estado.sel.has(p.gtin)) tr.className = "sel";
+        const tdSel = document.createElement("td");
+        tdSel.className = "col-sel";
+        tdSel.appendChild(casillaSel(p, "tsel", (on) => tr.classList.toggle("sel", on)));
+        tdSel.addEventListener("click", (e) => e.stopPropagation());
+        tr.appendChild(tdSel);
         cols.forEach((c) => tr.appendChild(celda(p, c)));
         tr.addEventListener("click", () => abrir(p.gtin));
         tr.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(p.gtin); });
         return tr;
       }));
     }
+    actualizarBarra();
   }
 
   function aplicar() { estado.pagina = 1; render(); }
@@ -832,7 +964,7 @@
     const pp = $("por-pagina");
     pp.value = String(estado.porPagina);
     pp.addEventListener("change", () => { estado.porPagina = +pp.value; guardar("porPagina", estado.porPagina); aplicar(); });
-    const seccion = (s) => { estado.seccion = s; guardar("seccion", s); estado.pagina = 1; render(); };
+    const seccion = (s) => { estado.seccion = s; guardar("seccion", s); estado.pagina = 1; ayudaMsg = ""; render(); };
     $("sec-catalogo").addEventListener("click", () => seccion("catalogo"));
     $("sec-pendientes").addEventListener("click", () => seccion("pendientes"));
     const acc = $("accion");
@@ -843,6 +975,12 @@
     acc.addEventListener("change", () => { estado.accion = acc.value; guardar("accion", estado.accion); });
     $("sel-filtrados").addEventListener("click", () => { vistaActual.lista.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
     $("sel-pagina").addEventListener("click", () => { vistaActual.pagina.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
+    $("desel-filtrados").addEventListener("click", () => {
+      vistaActual.lista.forEach((p) => estado.sel.delete(p.gtin));
+      guardarSel();
+      if (estado.soloSel) aplicar(); else render();
+    });
+    $("exportar-meli").addEventListener("click", exportarLayout);
     $("sel-quitar").addEventListener("click", () => { estado.sel.clear(); estado.soloSel = false; guardarSel(); aplicar(); });
     $("solo-sel").addEventListener("change", (e) => { estado.soloSel = e.target.checked; aplicar(); });
     $("exportar").addEventListener("click", exportar);
