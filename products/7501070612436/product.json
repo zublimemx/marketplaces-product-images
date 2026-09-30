@@ -54,7 +54,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en fichas como 'Treda 20+10 tab C/30'. La composición sale de la ficha de Yza de Treda de 20 tabletas (misma fórmula) y coincide con la caja de 20+10 (neomicina, caolín, pectina; 129 mg, 280 mg, 30 mg). Una ficha de tienda describe Treda como sulfametoxazol/trimetoprima, dato que se descartó por contradecir la caja. Condición de venta dudosa: las farmacias la marcan sin receta, pero contiene un antibiótico; por eso 'Revisar'. La ficha de Yza de la presentación de 30 no abrió.",
-    "notas_imagenes": "1 foto de tienda (caja de Treda 20+10 tabletas, 600 px de origen con el producto pequeño en el lienzo) de una farmacia. La caja lleva el marbete 20+10 impreso. No se halló una foto de mayor resolución de esta presentación.",
+    "notas_imagenes": "Sin cambios: se queda 1 foto de tienda (Farmacia PVR, 600 px de origen, 367 px útiles; caja con marbete 20+10). Búsqueda web (1): solo aparecen fichas de Treda de 20 tabletas (GTIN 7501070612368). Sus fotos (YZA 1000 px, Farmapronto 1280 px) son de la caja de 20 y no de la presentación de 30 (20+10), por eso no se usaron; YZA no tiene el GTIN 7501070612436.",
     "fecha": "2026-09-29",
     "sesion": 4
   }

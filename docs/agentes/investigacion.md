@@ -42,6 +42,13 @@ No edites a mano product.json ni la carpeta images; usa solo el script.
 
 Si no encuentras el producto, llena lo que se deduce con seguridad del nombre, descripción breve y neutral, `confianza` = "baja", y explícalo en `notas`.
 
+## Fuentes de fotos que han funcionado (sesión 7)
+
+- **Farmacias YZA** sirve fotos limpias por GTIN sin buscador, de unos 1,000 px: `https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/<gtin>_1.jpg` (también `_2`, `_3`). Ficha: `https://www.yza.mx/x/MXYZ_<gtin>.html` (usa su `og:url` como `--pagina`). No agregues `?sw=`: solo escala.
+- **Walmart México** (CDN): `https://i5-mx.walmartimages.com/gr/images/product-images/img_large/<ID>L.jpg` (variantes `L1`, `L2`…), con `<ID>` = `00` + primeros 12 dígitos del GTIN-13 (para UPC-A de 12 dígitos: `000` + primeros 11). Fotos de ~1,000 px. Cuidado: hay una imagen de relleno idéntica para productos sin foto y algunas traen insignias de tienda ("Requiere receta médica", cintillos): descártalas. Sus páginas piden verificación; deja `--pagina` vacío y dilo en `notas_imagenes`.
+- **Farmacias del Ahorro** (`production-media.fahorro.com/media/catalog/product/…/<gtin>.jpg`, quitando los parámetros de tamaño) suele dar 1,200–1,600 px.
+- **Ampliaciones falsas:** algunas tiendas VTEX (p. ej. Klyns), Benavides y Farmacias del Ahorro sirven versiones de 1,000–2,000 px que son ampliaciones de un original de ~500 px. Compara con la URL sin sufijo de tamaño; no las uses para "mejorar" resolución.
+
 ## Salida
 Escribe `trabajo/sesion_NN/resultados/inv_XX.json` (mismo número de lote): arreglo JSON, un objeto por producto en el mismo orden, con las llaves `id`, `gtin`, `titulo`, `descripcion`, `categoria_id`, `categoria_ruta`, `ficha`, `receta_mx`, `categoria_rx_sugerida`, `catalogo_ml`, `url_oficial`, `fuentes`, `encontrado_por`, `confianza`, `notas`, `notas_imagenes`. JSON válido (escapa comillas, `\n` en cadenas). Puedes escribir el archivo al final o ir guardándolo por partes.
 

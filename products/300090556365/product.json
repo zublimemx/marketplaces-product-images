@@ -19,7 +19,7 @@
     "via_administracion": "Intramuscular o intravenosa",
     "edad_etapa": "Adultos",
     "registro_sanitario": "62014 SSA",
-    "otros": "Antibiótico; Requiere receta médica; Formato de venta: Unidad"
+    "otros": "Antibiótico; Requiere receta médica; Formato de venta: Unidad; Presentación según empaque: caja con 6 jeringas prellenadas de 2 mL en envase de burbuja"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "300090556365_1.jpg",
+      "archivo": "300090556365_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/169483/300090556365.jpg",
-      "pagina": "https://www.klyns.mx/lincocin-600-c-6-amp/p",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 396
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/300090556365_1.jpg",
+      "pagina": "",
+      "ancho_original": 1066,
+      "alto_original": 914,
+      "lado_final": 631,
+      "lado_util": 583,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -57,7 +57,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN de 12 dígitos (300090556365) identificado por la ficha de una farmacia mexicana y por el nombre de archivo de su foto; la presentación de 6 piezas coincide con el nombre del sistema. Algunas fuentes describen la presentación como jeringa precargada y otras como ampolleta. Registro sanitario tomado de la ficha de referencia (Vademecum). El registro infocode no lista este GTIN. Validar contra el empaque.",
-    "notas_imagenes": "1 foto de tienda de la caja de frente, de baja resolución (500 px originales, 540 px finales); no se encontró una versión de mayor tamaño.",
+    "notas_imagenes": "1 foto nueva (tienda, catálogo de imágenes de YZA por GTIN, archivo 300090556365_1.jpg; su ficha web no se encontró): frente de la caja Pfizer Lincocin 600 mg/2 mL, 1066x914 px de origen, 583 px útiles. Se borró la vieja de Klyns (396 px; Klyns solo da 500 px reales). La caja dice 'Caja con 6 jeringas prellenadas con 2 mL', lo que confirma la duda ampolleta/jeringa de la investigación. Sin búsqueda web.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

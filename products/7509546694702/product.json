@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO NEXT LEVEL SPY150MLN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Stefano Next Level Aerosol 150 ml",
+  "descripcion": "Descripción:\nStefano Next Level es un desodorante en aerosol para hombre que ofrece protección contra el mal olor y mantiene la sensación de frescura durante todo el día. Su fragancia masculina, fresca y duradera, combina notas de bergamota y menta con ámbar y pachulí, y matices amaderados y frutales (Esencia ganadora). Es un producto de Colgate-Palmolive.\n\nCaracterísticas:\n- Protección contra el mal olor.\n- Fragancia fresca y duradera con fondo amaderado.\n- Notas de bergamota, menta, ámbar y pachulí.\n- Formato aerosol de 150 ml.\n\nIngredientes:\nAlcohol, Butane, Propane, Isobutane, Parfum.\n\nModo de uso:\nAgite bien antes de usarse. Aplique oprimiendo la válvula desde una distancia aproximada de 15 cm. Limpie cualquier residuo.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\nNo se deje al alcance de los niños. Para uso exclusivo en las axilas. No se aplique sobre piel irritada o lastimada. Descontinúe su uso en caso de presentar irritación o alguna molestia.",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Next Level",
+    "variante": "Esencia ganadora",
+    "presentacion": "Aerosol de 150 ml",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Bergamota, menta, ámbar y pachulí",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Peso del empaque: 150 g; Dimensiones del empaque: 17.7 x 4.2 x 3.9 cm; Origen: México"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546694702_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/476468/476468_01.webp?v=d08147f9",
+      "pagina": "https://www.heb.com.mx/stefano-desodorante-next-level-en-aerosol-para-caballero-150-ml-998704/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 673,
+      "lado_util": 624,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7509546694702_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/476468/476468_03.webp?v=1d80f8bc",
+      "pagina": "https://www.heb.com.mx/stefano-desodorante-next-level-en-aerosol-para-caballero-150-ml-998704/p",
+      "ancho_original": 720,
+      "alto_original": 720,
+      "lado_final": 673,
+      "lado_util": 624,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/stefano-desodorante-next-level-en-aerosol-para-caballero-150-ml-998704/p",
+    "https://www.chedraui.com.mx/desodorante-en-spray-stefano-next-level-150ml-3838374/p",
+    "https://www.amazon.com.mx/Stefano-Desodorante-Aerosol-Hombre-Protecci%C3%B3n/dp/B0DKG19SBX"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Algunas fichas dicen 159 ml en el texto o 'antitranspirante' en el título; el empaque y el nombre del sistema indican 150 ml y la descripción habla de protección contra el mal olor, por lo que se usa desodorante 150 ml.",
+    "notas_imagenes": "2 fotos de tienda (673 px): frente y contraetiqueta del aerosol. Se descartaron dos imágenes promocionales con frases publicitarias.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

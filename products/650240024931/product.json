@@ -34,51 +34,30 @@
   },
   "imagenes": [
     {
-      "archivo": "650240024931_1.jpg",
+      "archivo": "650240024931_4.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20250918_1020692.jpg",
-      "pagina": "https://www.benavides.com.mx/nikzon-40-tabletas-masticables",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 416
-    },
-    {
-      "archivo": "650240024931_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciagloria.mx/8219-large_default/nikzon-con-40-tabletas-masticables.webp",
-      "pagina": "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
-      "ancho_original": 643,
-      "alto_original": 674,
-      "lado_final": 522,
-      "fecha": "2026-09-29",
-      "lado_util": 483
-    },
-    {
-      "archivo": "650240024931_3.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciagloria.mx/8220-large_default/nikzon-con-40-tabletas-masticables.webp",
-      "pagina": "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
-      "ancho_original": 643,
-      "alto_original": 674,
-      "lado_final": 519,
-      "fecha": "2026-09-29",
-      "lado_util": 481
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/650240024931_1.jpg",
+      "pagina": "https://www.yza.mx/nikzon-40-tabs/MXYZ_650240024931.html",
+      "ancho_original": 985,
+      "alto_original": 1000,
+      "lado_final": 622,
+      "lado_util": 574,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciagloria.mx/Analgesicos/2696-nikzon-con-40-tabletas-masticables.html",
     "https://www.benavides.com.mx/nikzon-40-tabletas-masticables",
-    "https://farmaciasfleming.mx/producto/nikzon-c-40-tab-mast/"
+    "https://farmaciasfleming.mx/producto/nikzon-c-40-tab-mast/",
+    "https://www.yza.mx/nikzon-40-tabs/MXYZ_650240024931.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN de 12 dígitos (ponerle 0 al inicio); coincide con la imagen de una farmacia. Una tienda anuncia Ruscus 2 mg y otra 20 mg; se usó 20 mg (dos fichas). Fórmula de ficha de farmacia; reverso lateral de la caja leído para advertencias.",
-    "notas_imagenes": "3 fotos (tienda: Farmacia Gloria y Benavides): frente, ángulo y costado con advertencias. Se descartó una foto pequeña en fondo blanco.",
+    "notas_imagenes": "1 foto nueva (tienda, YZA): frente de la caja 'Diseño nuevo', 574 px útiles. Se borraron las 3 viejas (416 a 483 px), por lo que ya no hay vista de ángulo ni del costado con advertencias; ninguna otra fuente pasa de 484 px útiles (Farmacia Gloria 643x674, Benavides 440 px, Fleming 940x788 pero con el producto pequeño, 379 px). Sin búsqueda web.",
     "fecha": "2026-09-29"
   }
 }

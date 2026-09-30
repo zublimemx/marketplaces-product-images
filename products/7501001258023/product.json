@@ -16,7 +16,8 @@
     "principio_activo": "Subsalicilato de bismuto",
     "concentracion": "262 mg",
     "via_administracion": "Oral",
-    "otros": "Presentación en sobres dentro de caja; Formato de venta: Unidad"
+    "otros": "Presentación en sobres dentro de caja; Formato de venta: Unidad",
+    "sabor_aroma": "Anís"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -32,29 +33,30 @@
   },
   "imagenes": [
     {
-      "archivo": "7501001258023_1.jpg",
+      "archivo": "7501001258023_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.zedelvallarta.com.mx/wp-content/uploads/2020/07/med-ulc-y-antiaci-pepto-tabletas-100.jpg",
-      "pagina": "https://www.zedelvallarta.com.mx/catalogo/pepto-bismol-tabletas-masticables-100-tabletas/",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 519,
-      "fecha": "2026-09-29",
-      "lado_util": 480
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__c0a33ca7-5dd7-4fbf-8d0d-81f7ba94e3ce_1200x1200.jpg?v=1744715054",
+      "pagina": "https://wecarepharma.mx/en/products/pepto-bismol-tabletas-caja-con-100",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1246,
+      "lado_util": 1154,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.zedelvallarta.com.mx/catalogo/pepto-bismol-tabletas-masticables-100-tabletas/",
     "https://world.openfoodfacts.org/product/7501001258023/pepto-bismol",
-    "https://www.amazon.com.mx/Pepto-Bismol-7501001258023-Pepto-Bismol-Tabletas/dp/B074KFNHYQ"
+    "https://www.amazon.com.mx/Pepto-Bismol-7501001258023-Pepto-Bismol-Tabletas/dp/B074KFNHYQ",
+    "https://wecarepharma.mx/en/products/pepto-bismol-tabletas-caja-con-100"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias tiendas (100 tabletas masticables). No se pudo abrir la página oficial ni ninguna ficha con dosis; las advertencias de salicilato y lengua oscura son las generales del producto y conviene validarlas contra el empaque. El fabricante no se pudo confirmar en las fuentes.",
-    "notas_imagenes": "1 foto de tienda (Distribuidora Zedel): caja exhibidor con sobres, se lee 'subsalicilato de bismuto 262 mg'. Se descartó una foto de Open Food Facts tomada con la mano.",
+    "notas_imagenes": "1 foto (tienda): _2.jpg de wecarepharma.mx (original 1200 px, producto de 1154 px), frente de la caja dispensadora 'Dispensador con 100 tabletas', sin logotipos ni precios. Descartada la de Open Food Facts (foto tomada en mano, fondo sucio). Se borró la foto anterior de zedelvallarta (480 px). Sabor anís visto en el empaque.",
     "fecha": "2026-09-29"
   }
 }

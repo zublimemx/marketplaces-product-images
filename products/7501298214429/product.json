@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "EUTIROX 112MCG TAB C50",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Eutirox Levotiroxina Sódica 112 mcg 50 Tabletas",
+  "descripcion": "Descripción:\nEutirox es un medicamento de Merck cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética. Se administra por vía oral en tabletas y se indica como terapia de reemplazo en el hipotiroidismo congénito o adquirido de cualquier origen, incluido el hipotiroidismo subclínico. Esta presentación contiene 50 tabletas de 112 µg (112 mcg).\n\nCaracterísticas:\n- Indicado en el hipotiroidismo primario (tiroides), secundario (hipófisis) o terciario (hipotálamo) y en el hipotiroidismo subclínico.\n- Se utiliza también en el tratamiento o la prevención de distintos tipos de bocio eutiroideo y como coadyuvante en el manejo de ciertos cánceres de tiroides, bajo indicación médica.\n- La dosis se ajusta a las necesidades y a la respuesta de cada paciente.\n\nFórmula:\nCada tableta contiene levotiroxina sódica 112 µg y excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. La dosis la determina el médico con base en estudios de laboratorio y en la evaluación clínica; el tratamiento suele iniciarse con dosis bajas que se aumentan de manera gradual.\n\nPresentación:\nCaja con 50 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica. El tratamiento con hormonas tiroideas debe continuarse durante el embarazo y la lactancia bajo supervisión médica. Pueden presentarse reacciones alérgicas en caso de hipersensibilidad a alguno de los componentes de la fórmula. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Eutirox",
+    "fabricante": "Merck",
+    "presentacion": "Caja con 50 tabletas",
+    "contenido_neto": 50,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 50,
+    "principio_activo": "Levotiroxina sódica",
+    "concentracion": "112 µg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "297M89 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; hormona tiroidea"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501298214429_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298214429_1.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-112-mcg-oral-50-tabletas.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1153,
+      "lado_util": 1068,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501298214429_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_1016402.jpg",
+      "pagina": "https://www.fahorro.com/eutirox-112-mcg-oral-50-tabletas.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "lado_util": 799,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/eutirox.tabletas/115/101/7592/210",
+    "https://www.fahorro.com/eutirox-112-mcg-oral-50-tabletas.html",
+    "https://www.benavides.com.mx/eutirox-112-mcg-levotiroxina-sodica-50-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una tienda marca 'receta no obligatoria' pero indica en advertencia que su venta requiere prescripción; PLM y el registro SSA IV confirman receta. La ficha de PLM cubre todas las concentraciones de la línea (incluida 112 µg).",
+    "notas_imagenes": "2 fotos de tienda (1,153 y 862 px): empaque actual con leyenda 'Excipientes modificados' y empaque de diseño anterior; ambas dicen 112 mcg, caja con 50 tabletas.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

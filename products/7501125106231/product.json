@@ -33,29 +33,42 @@
   },
   "imagenes": [
     {
-      "archivo": "7501125106231_1.jpg",
+      "archivo": "7501125106231_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125106231_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
-      "pagina": "https://www.farmaciasespecializadas.com/medicamentos/detalle/2476-cefaxona-im-1-g-1-fam-c35-ml",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 397
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125106231_8.jpg",
+      "pagina": "https://www.fahorro.com/cefaxona-i-m-1-g-frasco-ampula-con-3-5-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1445,
+      "lado_util": 1339,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501125106231_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/product_image__1__3320e595-9029-4793-9045-f1d7a8d8478d_1200x1200.jpg?v=1744666558",
+      "pagina": "https://wecarepharma.mx/en/products/cefaxona-im-1g-con-1-ampulas-ceftriaxona",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1165,
+      "lado_util": 1079,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/medicamentos/detalle/2476-cefaxona-im-1-g-1-fam-c35-ml",
     "https://grupofarmapronto.com/producto/cefaxona-im-f-a-1gr/",
-    "https://mx.ivademecum.com/medicamento-cefaxona-im-pisa-cod-DA7A50B04485F7ED"
+    "https://mx.ivademecum.com/medicamento-cefaxona-im-pisa-cod-DA7A50B04485F7ED",
+    "https://www.fahorro.com/cefaxona-i-m-1-g-frasco-ampula-con-3-5-ml.html",
+    "https://wecarepharma.mx/en/products/cefaxona-im-1g-con-1-ampulas-ceftriaxona"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "No se encontró una ficha con la composición del diluyente (posible lidocaína) ni registro sanitario; se dejó genérico. Descripción basada en datos generales de ceftriaxona.",
-    "notas_imagenes": "1 foto de tienda (frente de la caja Cefaxona I.M. 1 g; el empaque ocupa poco espacio del cuadro).",
+    "notas_imagenes": "2 fotos (tienda): _2.jpg de fahorro.com (original 1600 px, producto de 1339 px, frente) y _3.jpg de wecarepharma.mx (1200 px, producto de 1079 px, caja en ángulo). Se borró la foto anterior de farmaciasespecializadas (397 px). Revisadas en hoja de contacto: Cefaxona I.M. 1 g, sin logotipos ni precios.",
     "fecha": "2026-09-29"
   }
 }

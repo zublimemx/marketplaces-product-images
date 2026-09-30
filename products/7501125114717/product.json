@@ -4,29 +4,58 @@
   "linea": "Farma",
   "nombre_sistema": "FICONAX 850MG T30 METFORMINA PISA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ficonax Metformina 850 mg 30 Tabletas",
+  "descripcion": "Descripción:\nFiconax 850 mg es un medicamento antidiabético cuyo principio activo es la metformina. Está indicado en la diabetes mellitus tipo 2 (diabetes mellitus no insulinodependiente) que cursa con obesidad exógena, en pacientes en quienes se ha presentado falla primaria o secundaria a la restricción calórica y al ejercicio, o a la administración de hipoglucemiantes orales. La metformina actúa reduciendo la producción de glucosa en el hígado y mejorando la sensibilidad a la insulina en los tejidos. Se presenta en tabletas de 850 mg, en caja con 30 piezas, de Laboratorios PiSA.\n\nBeneficios:\n- Antidiabético oral para el control de la glucosa en sangre en diabetes tipo 2\n- Reduce la producción de glucosa en el hígado\n- Mejora la sensibilidad a la insulina de los tejidos\n- Indicado en diabetes tipo 2 con obesidad exógena\n\nComposición:\nCada tableta contiene metformina 850 mg.\n\nModo de uso:\nVía oral. La dosis y el esquema los establece el médico según el control de glucosa y la tolerancia de cada paciente.\n\nPresentación:\nCaja con 30 tabletas de 850 mg.\n\nAdvertencias:\nNo se use en caso de insuficiencia renal severa. Debe utilizarse bajo supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ficonax",
+    "fabricante": "Laboratorios PiSA",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Metformina",
+    "concentracion": "850 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antidiabético; Indicado en diabetes mellitus tipo 2"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "categoria_rx_sugerida": "MLM457828",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501125114717_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://farmacialapaz.com.mx/cdn/shop/files/7501125114717_abe1ace1-c333-4440-bbef-e4122cbca1b3.jpg?v=1774374725&width=1920",
+      "pagina": "https://farmacialapaz.com.mx/products/ficonax-850-mg-metformina-caj-c-30-tab",
+      "ancho_original": 1920,
+      "alto_original": 1920,
+      "lado_final": 710,
+      "lado_util": 658,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ficonax-850-mg-oral-30-tabletas.html",
+    "https://www.benavides.com.mx/ficonax-850-mg-30-tabletas",
+    "https://farmacialapaz.com.mx/products/ficonax-850-mg-metformina-caj-c-30-tab"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501125114717 confirmado en varias tiendas (Ficonax 850 mg, 30 tabletas). Indicación de fichas de tienda; sin ficha oficial ni registro sanitario. Receta 'Sí' porque la metformina es un antidiabético de venta con receta en México (dos tiendas la marcan sin receta obligatoria). Se ignoró 'T30' y 'PISA' del nombre como abreviaturas.",
+    "notas_imagenes": "1 foto de tienda (Farmacia La Paz, 710 px): caja Ficonax 850 mg de frente. Otra foto de tienda de 400 px se rechazó por pequeña.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

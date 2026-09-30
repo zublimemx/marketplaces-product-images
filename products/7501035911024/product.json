@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "C D COLGATE MFP 125ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Crema Dental Colgate Máxima Protección Anticaries 125 ml",
+  "descripcion": "Descripción:\nCrema dental con flúor Colgate Máxima Protección Anticaries, con calcio, de sabor original. Gracias a su fórmula reforzada con Micro-Calcio, penetra en los dientes para fortalecer el esmalte y atrapar el calcio natural, creando un escudo protector que combate las caries incluso entre las limpiezas.\n\nBeneficios:\n- Fortalece los dientes y ayuda a combatir las caries.\n- Refresca el aliento con su rico sabor original.\n- Fórmula con flúor y calcio (Micro-Calcio) para proteger el esmalte.\n- Para uso diario en la higiene bucal.\n\nPresentación:\nTubo con 125 ml de crema dental (181.3 g de contenido neto).",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Máxima Protección Anticaries",
+    "variante": "Sabor original",
+    "presentacion": "Tubo",
+    "contenido_neto": 125,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Original",
+    "otros": "Contenido neto: 125 ml (181.3 g); Con flúor y calcio (Micro-Calcio)"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM168075",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501035911024_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501035911024.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/colgate-maxima-proteccion-anticaries-125-ml-crema-dental/",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1031,
+      "lado_util": 956,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.lagranbodega.com.mx/colgate-crema-dental-mfp-125/p",
+    "https://grupofarmapronto.com/producto/colgate-maxima-proteccion-anticaries-125-ml-crema-dental/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "MFP en el nombre del sistema se refiere a la crema Máxima Protección Anticaries (monofluorofosfato). El tubo de la foto muestra un sello de aval odontológico de la Federación Odontológica Colombiana; confirmar que el empaque vigente en México sea igual.",
+    "notas_imagenes": "1 foto de frente del tubo (1031 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

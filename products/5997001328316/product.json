@@ -8,7 +8,7 @@
   "descripcion": "Descripción:\nEvra es un parche transdérmico anticonceptivo de uso femenino que libera dos hormonas, norelgestromina y etinilestradiol, a través de la piel. La caja contiene 3 parches, que corresponden a un ciclo de tratamiento de 3 semanas. Es un medicamento de prescripción: su venta requiere receta médica.\n\nComposición:\nCada parche contiene 6.00 mg de norelgestromina y 0.60 mg de etinilestradiol.\n\nModo de uso:\nVía transdérmica. Se coloca un parche una vez por semana durante 3 semanas seguidas, en el mismo día de la semana. Después se descansa una semana sin parche. El médico indicará cómo iniciar el esquema y en qué zonas del cuerpo debe colocarse; siga también el instructivo anexo.\n\nPresentación:\nCaja con 3 parches transdérmicos.\n\nAdvertencias:\nSu venta requiere receta médica. No lo use si tiene o ha tenido tromboflebitis o tromboembolismo, enfermedad cerebrovascular o de las arterias coronarias, hipertensión severa, cáncer de mama, sangrado vaginal sin diagnosticar, ni durante el embarazo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Evra",
-    "fabricante": "Janssen-Cilag",
+    "fabricante": "Gedeon Richter",
     "linea": "Evra",
     "variante": "Parche transdérmico",
     "presentacion": "parches transdérmicos",
@@ -19,7 +19,8 @@
     "concentracion": "6.00 mg de norelgestromina y 0.60 mg de etinilestradiol por parche",
     "via_administracion": "Transdérmica",
     "genero": "Mujer",
-    "otros": "Esquema: 1 parche por semana durante 3 semanas y 1 semana de descanso; Uso: anticonceptivo; Formato de venta: caja con 3 parches"
+    "otros": "Esquema: 1 parche por semana durante 3 semanas y 1 semana de descanso; Uso: anticonceptivo; Formato de venta: caja con 3 parches; Liberación prolongada; matriz activa de liberación controlada (según la caja)",
+    "registro_sanitario": "381M2002 SSA IV"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -33,19 +34,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "5997001328316_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Evra-3-Parches-5997001328316-638780702963121792-1.jpg",
+      "pagina": "https://pacientes.sfe.com.mx/Productos/4292/evra-3-parches",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 597,
+      "lado_util": 553,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmatodo.com.mx/evra-parche-transdermico-caja-c-3-parches/p",
     "https://www.medicamentosplm.com/Home/productos/evra.parche/2799/101/71356/116",
-    "https://astuto.la/productos/5997001328316/evra-parche-transdrmico-anticonceptivo-3-parche-sobre-norelgrestromina-6-mg-etinilestradiol-006-mg"
+    "https://astuto.la/productos/5997001328316/evra-parche-transdrmico-anticonceptivo-3-parche-sobre-norelgrestromina-6-mg-etinilestradiol-006-mg",
+    "https://pacientes.sfe.com.mx/Productos/4292/evra-3-parches"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "GTIN 5997001328316 (prefijo húngaro) confirmado en una ficha de tienda extranjera y en tiendas mexicanas por nombre. El nombre del sistema dice Gedeon Richter, pero las fichas y PLM indican Janssen-Cilag como titular de Evra; se anotó Janssen-Cilag y hay que revisarlo contra el empaque, que puede ser de importación paralela. Composición y esquema tomados de PLM.",
-    "notas_imagenes": "Sin fotos: la única imagen con este GTIN era un marcador de posición ('sin imagen') y la otra fuente era una caja de otro país (Chile), ambas descartadas.",
+    "notas_imagenes": "1 foto (tienda) de la tienda de pacientes de Gedeon Richter (pacientes.sfe.com.mx, archivo cdn.gdar.com.mx con el GTIN en el nombre): caja de Evra con 3 parches, sin marcas de agua ni texto promocional; 1000 px originales (597 px útiles tras recortar, menos de los 800 preferidos, no hay otra foto). Farmatodo, Medicity y San Jorge no traen imagen; Fahorro y Herrera tienen otro código o imagen genérica. Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 3
   }

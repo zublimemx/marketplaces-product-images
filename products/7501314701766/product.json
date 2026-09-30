@@ -32,33 +32,23 @@
   },
   "imagenes": [
     {
-      "archivo": "7501314701766_1.jpg",
+      "archivo": "7501314701766_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/7501314701766.jpg",
-      "pagina": "https://www.emeritafarmacias.com/wp-content/uploads/7501314701766.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 402
-    },
-    {
-      "archivo": "7501314701766_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/5/1/5183_zpnxbpxo9neamsaq.png",
-      "pagina": "https://www.farmaciasespecializadas.com/fosfocil-500mg-cap-caj-c-12.html",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 460
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314701766.jpg",
+      "pagina": "https://www.fahorro.com/fosfocil-500-mg-oral-12-capsulas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1656,
+      "lado_util": 1534,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasmedina.com/detalleProducto/Fosfocil-12-Capsulas-Caja/7501314701766",
     "https://www.farmaciasespecializadas.com/fosfocil-500mg-cap-caj-c-12.html",
-    "https://www.emeritafarmacias.com/wp-content/uploads/7501314701766.jpg"
+    "https://www.emeritafarmacias.com/wp-content/uploads/7501314701766.jpg",
+    "https://www.fahorro.com/fosfocil-500-mg-oral-12-capsulas.html"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -66,6 +56,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (Fosfocil 500 mg, 12 cápsulas; una la marca como antibiótico con receta). Solo se vieron títulos de las fichas, por lo que no hay fabricante ni indicación específica; descripción general.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "2 foto(s), origen tienda: 1 de emeritafarmacias.com (7501314701766_1.jpg; 1000 px); 1 de farmaciasespecializadas.com (7501314701766_2.jpg; 500 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
+    "notas_imagenes": "1 foto (tienda): _3.jpg de fahorro.com (original 1600 px, producto de 1534 px), caja Fosfocil 500 mg con 12 cápsulas en ángulo, sin logotipos de tienda ni precios. Se borraron las 2 fotos anteriores (402 y 460 px). No hallé una segunda foto de 500 px o más (yza.mx solo da 402 px)."
   }
 }

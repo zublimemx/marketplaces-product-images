@@ -4,29 +4,70 @@
   "linea": "Farma",
   "nombre_sistema": "BIOMICS 100ML SUSP 100MG 5ML FEBRERO 27CEFIXIMA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Biomics Cefixima 100 mg/5 ml Suspensión 100 ml",
+  "descripcion": "Descripción:\nBiomics es un antibiótico de Laboratorios Senosiain (Altia) cuyo principio activo es la cefixima, una cefalosporina de tercera generación de amplio espectro. Se presenta como polvo para preparar suspensión oral con 100 mg de cefixima por cada 5 mL, en presentación de 100 mL. Está indicado en infecciones causadas por microorganismos sensibles, como las de vías respiratorias altas y bajas, la otitis media y las infecciones no complicadas de vías urinarias, siempre por indicación médica.\n\nFórmula:\n- Cefixima 100 mg por cada 5 mL de suspensión preparada.\n\nModo de uso:\nVía oral. Se prepara agregando el diluyente al polvo, según las instrucciones del empaque. La dosis y la duración del tratamiento las indica el médico y se mide con la pipeta dosificadora incluida.\n\nPresentación:\nCaja con frasco No. 1 con diluyente, frasco No. 2 con polvo para preparar 100 mL y pipeta dosificadora.\n\nAdvertencias:\nSu venta requiere receta médica. Contraindicado en hipersensibilidad a la cefixima, a otras cefalosporinas o a cefamicinas, y en caso de reacción previa, inmediata o intensa a la penicilina o a cualquier antibiótico betalactámico. Si aparece una reacción alérgica o de hipersensibilidad, suspenda el tratamiento y consulte al médico. Durante el embarazo debe evaluarse el riesgo y el beneficio; se recomienda evitarlo durante la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Biomics",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Caja con polvo y diluyente para preparar 100 mL de suspensión, con pipeta dosificadora",
+    "contenido_neto": 100,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Cefixima",
+    "concentracion": "100 mg por cada 5 mL",
+    "via_administracion": "Oral",
+    "registro_sanitario": "188M2009 SSA",
+    "otros": "Forma farmacéutica: polvo para suspensión oral; antibiótico cefalosporina de tercera generación; línea Altia de Senosiain"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457823",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314701360_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_1010023.jpg",
+      "pagina": "https://www.benavides.com.mx/biomics-100-mg-5-ml-cefixima-100-ml-suspension",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 862,
+      "lado_util": 798,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501314701360_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__67833012-12c3-4bad-b2f9-55f26547f7eb.jpg",
+      "pagina": "https://www.benavides.com.mx/biomics-100-mg-5-ml-cefixima-100-ml-suspension",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "lado_util": 1852,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1191611/biomics-suspension-100-mg-5-ml",
+    "https://www.benavides.com.mx/biomics-100-mg-5-ml-cefixima-100-ml-suspension",
+    "https://wecarepharma.mx/products/biomics-suspension-100mg-5ml-100ml-cefixima"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema trae 'FEBRERO 27' (caducidad), ignorado. Registro tomado de una base de medicamentos (Vademecum). Categoría de venta libre: Antiinfecciosos Venta Libre; la de receta va en categoria_rx_sugerida.",
+    "notas_imagenes": "2 fotos de tienda: frente del empaque (862 px) y otra vista frontal (2,000 px, diseño con otro tono de color).",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

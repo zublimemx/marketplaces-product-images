@@ -32,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "736085400519_1.jpg",
+      "archivo": "736085400519_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/08/736085400519-13513.png",
-      "pagina": "https://farmaciasfleming.mx/producto/sophixin-oft-5-ml/",
-      "ancho_original": 940,
-      "alto_original": 788,
-      "lado_final": 1015,
-      "fecha": "2026-09-29",
-      "lado_util": 453
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00073608540051L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 978,
+      "lado_util": 906,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "736085400519_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00073608540051L2.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 868,
+      "lado_util": 800,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -53,7 +64,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN 736085400519 (UPC de 12 dígitos) confirmado por la ficha y foto de farmacia nombradas con el GTIN; la caja de la foto dice Sophixin Ofteno ciprofloxacino 3 mg/ml. No confundir con Sophixin DX Ofteno (con dexametasona). Registro sanitario no visto.",
-    "notas_imagenes": "1 foto (tienda, 1015 px, original de 940x788) de la caja y el frasco Sophixin Ofteno; el producto se ve algo pequeño en el cuadro.",
+    "notas_imagenes": "Fotos nuevas: 736085400519_2.jpg (caja Sophixin Ofteno ciprofloxacino 0.3% 5 mL de frente, 1000x1000, 906 px útiles) y 736085400519_3.jpg (caja con frasco gotero, 800 px útiles); origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartó la imagen con leyenda 'Consulta a un profesional de la salud' (Medimart). Borrada la foto anterior de Farmacias Fleming (453 px útiles).",
     "fecha": "2026-09-29",
     "sesion": 5
   }

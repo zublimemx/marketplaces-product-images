@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "37501023108888_1.jpg",
+      "archivo": "37501023108888_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501023104216_1.jpg",
-      "pagina": "https://www.fahorro.com/nexcare-cinta-micropore-piel-1-25-cm-x-5-m.html",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 387
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750102310421L.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 996,
+      "lado_util": 923,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -51,7 +51,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN de 14 dígitos (37501023108888) no aparece en las fuentes; se identificó por el nombre como Nexcare Micropore Piel de 1.25 cm. El nombre indica C24 (probable caja con 24 rollos) pero el precio parece de una sola pieza: confirmar el formato de venta antes de publicar.",
-    "notas_imagenes": "1 foto de frente al empaque de un rollo (tienda, 540 px, menor a 800 px). Corresponde a la pieza individual, no a la caja de 24.",
+    "notas_imagenes": "Foto nueva 37501023108888_2.jpg: caja Nexcare Micropore piel 1.25 cm x 5 m (GTIN de pieza 7501023104216), 1000x1000, producto de 923 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartó la variante con cintillo promocional 'La original 1.25 cm x 5 m' y las de infografía. Borrada la foto anterior de Farmacias del Ahorro (500 px, 387 útiles).",
     "fecha": "2026-09-29",
     "sesion": 5
   }

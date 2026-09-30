@@ -4,14 +4,25 @@
   "linea": "Mark",
   "nombre_sistema": "SH PANTENE BAMBÚ 750ML C12",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Pantene Pro-V Bambú Nutre & Crece 750 ml",
+  "descripcion": "Descripción:\nEl Shampoo Pantene Pro-V Bambú Nutre & Crece está diseñado para fortalecer el cabello y ayudar a reducir su caída. Limpia profundamente, eliminando la grasa, mientras acondiciona, y nutre el cabello desde la raíz para ayudar al ciclo de quiebre del cabello. La colección Bambú Nutre & Crece de Pantene incluye ingredientes focalizados como el bambú y el aceite de ricino. Se presenta en botella de 750 ml.\n\nBeneficios:\n- Fortalece el cabello y ayuda a reducir la rotura\n- Ayuda a reducir la caída del cabello para un crecimiento más fuerte\n- Contiene aceite de ricino, rico en omega-9, con propiedades hidratantes\n- Nutre el cabello desde la raíz\n- Limpia profundamente eliminando la grasa\n- pH equilibrado\n\nPresentación:\nBotella de 750 ml, línea Pantene Pro-V, variante Bambú Nutre & Crece.",
+  "ficha": {
+    "marca": "Pantene",
+    "fabricante": "Procter & Gamble",
+    "linea": "Pro-V",
+    "variante": "Bambú Nutre & Crece",
+    "presentacion": "Botella de 750 ml",
+    "contenido_neto": 750,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello con caída y tendencia a quebrarse",
+    "otros": "Shampoo; Control caída; Con bambú y aceite de ricino; pH equilibrado"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435155854_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://walmartgt.vtexassets.com/arquivos/ids/1027136/shampoo-pantene-pro-v-bambu-nutre-crece-750-ml-7500435155854.jpg",
+      "pagina": "https://www.walmart.com.gt/pantene-sh-bambu-750ml/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 995,
+      "lado_util": 922,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.walmart.com.mx/ip/shampoo-pantene-pro-v-bambu-nutre-crece-750-ml/00750043515585",
+    "https://alsuper.com/producto/shampoo-444737",
+    "https://www.walmart.com.gt/pantene-sh-bambu-750ml/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7500435155854 confirmado como EAN de un frasco individual de 750 ml en la ficha de una tienda (Guatemala); las de México coinciden en nombre y contenido. 'C12' del nombre se interpretó como caja con 12 del sistema y se ignoró: el GTIN es de una pieza. Fabricante Procter & Gamble por ser marca Pantene (no aparece en las fuentes). Sin ingredientes ni modo de uso en las fuentes.",
+    "notas_imagenes": "1 foto de tienda (Walmart Guatemala, 1000 px, mismo GTIN), botella de frente. No se consiguió foto de fabricante ni de tienda mexicana descargable.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

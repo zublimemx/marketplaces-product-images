@@ -14,7 +14,8 @@
     "unidades_por_envase": 12,
     "principio_activo": "Dexametasona; Maleato de clorfenamina (clorfeniramina)",
     "via_administracion": "Oral",
-    "otros": "Antialérgico y desinflamante; caja con 12 tabletas; concentración por tableta no confirmada"
+    "otros": "Antialérgico y desinflamante; caja con 12 tabletas; concentración por tableta no confirmada",
+    "fabricante": "Medicam"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -32,14 +33,15 @@
   "url_oficial": "",
   "fuentes": [
     "https://www.rappi.com.mx/p/dexclor-tabletas-dexametasonaclorfe-2808119",
-    "https://www.rappi.com.mx/p/dexametasonamaleato-de-clorfenirami-2354535"
+    "https://www.rappi.com.mx/p/dexametasonamaleato-de-clorfenirami-2354535",
+    "https://mayoreofarmaceutico.com.mx/productos/1306881052244/"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
     "notas": "El código 1306881052244 no es un GTIN estándar; solo aparece como código de producto en un resultado de búsqueda de una farmacia (Dexametasona/Clorfenamina C/12 tab, Dexclor) cuya página no cargó. No se confirmaron la concentración por tableta, el laboratorio ni la condición de venta; los corticosteroides orales suelen requerir receta, revisar antes de publicar.",
-    "notas_imagenes": "Sin fotos: las páginas con el producto no traían imagen del empaque (Rappi) o no cargaron (error de conexión segura).",
+    "notas_imagenes": "Sin fotos. Mayoreo Farmacéutico (caja Dex·Clor de 12 tabletas, 914 px) trae el logotipo de la tienda sobre la imagen: descartada. Rappi no trae imagen del empaque; la página de Farmacias Genética no abre (error TLS). La foto confirma el logotipo de Medicam en la caja.",
     "fecha": "2026-09-29",
     "sesion": 5
   }

@@ -33,22 +33,35 @@
   },
   "imagenes": [
     {
-      "archivo": "7501086301393_1.jpg",
+      "archivo": "7501086301393_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501086301393_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
-      "pagina": "https://www.farmaciasespecializadas.com/cetolan-630mg-tab-caj-c-100.html",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/c/e/cetolan-100-g-suplemento-alimenticio-100-g-100-gra_2.jpg",
+      "pagina": "https://www.fahorro.com/cetolan-630-mg-100-tabs.html",
+      "ancho_original": 1201,
+      "alto_original": 1201,
+      "lado_final": 1162,
+      "lado_util": 1075,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501086301393_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://cdn.gdar.com.mx/archivos/Cetolan-Tabletas-7501086301393-638252967850348827-1.png",
+      "pagina": "https://pacientes.sfe.com.mx/eCommerce/item/3362/cetolan-tabletas",
       "ancho_original": 1000,
       "alto_original": 1000,
-      "lado_final": 513,
-      "fecha": "2026-09-29",
-      "lado_util": 474
+      "lado_final": 549,
+      "lado_util": 509,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.farmaciasespecializadas.com/cetolan-630mg-tab-caj-c-100.html",
     "https://www.farmalisto.com.mx/nefrologia-y-urologia/3173-cetolan-630-mg-caja-con-100-tabletas-7501086301393.html",
-    "https://farmaciasmedina.com/detalleProducto/Cetolan-100-Tabletas-Caja/7501086301393"
+    "https://farmaciasmedina.com/detalleProducto/Cetolan-100-Tabletas-Caja/7501086301393",
+    "https://www.fahorro.com/cetolan-630-mg-100-tabs.html",
+    "https://pacientes.sfe.com.mx/eCommerce/item/3362/cetolan-tabletas"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -56,6 +69,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias en línea (aparece en la URL de Farmalisto y de Farmacias Medina) con caja de 100 tabletas de 630 mg. La ficha detallada sale de la página de Farmacias Especializadas; la página de Farmalisto no abrió (404) y solo se usó el resultado de búsqueda. No se encontró registro sanitario ni catálogo ML exacto. Existen otros productos Cetolan (973 mg grageas, Cetolan III sobres) que son distintos. Si en México requiere receta no se pudo confirmar: revisar el empaque.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmacias Especializadas): caja Cetolan 630 mg c/100 tabletas, 1000 px."
+    "notas_imagenes": "2 fotos (tienda): _2.jpg de fahorro.com (original 1201 px, producto de 1075 px, caja en ángulo) y _3.jpg de pacientes.sfe.com.mx (1000 px, producto de 509 px). Cetolán alfa cetoanálogos 630 mg, caja con 100 tabletas, sin logotipos ni precios. Se borró la foto anterior de farmaciasespecializadas (474 px)."
   }
 }

@@ -42,7 +42,7 @@
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "El GTIN 714706907654 no apareció en ninguna página; se identificó por nombre. La descripción usa datos de otras variedades de Bronco Fresh (miel-mentol, miel-limón) y del formato de 12 piezas de 33 g. No se pudo confirmar qué sabores incluye el surtido.",
-    "notas_imagenes": "Sin fotos: solo se encontró la foto del exhibidor de miel-eucalipto (otro GTIN, vista lateral) y se descartó por no ser el surtido.",
+    "notas_imagenes": "Sin fotos. La única ficha del exhibidor surtido de 12 piezas es un listado de Mercado Libre ('12 piezas de 33 g c/u 4 sabores mixtos'), que no se puede abrir (robots/verificación) ni se debe raspar. Las páginas alcanzables (Vitau, Farmalisto, Amazon charola miel-eucalipto) son de otros sabores y GTIN (p. ej. 714706903403) y se descartaron.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

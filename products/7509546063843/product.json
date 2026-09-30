@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD LADYSS POW FRESH 24/7 SPY 91G ENE27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Lady Speed Stick 24/7 Powder Fresh 91 g",
+  "descripcion": "Descripción:\nAntitranspirante en aerosol Lady Speed Stick 24/7 Powder Fresh de 91 g, de Colgate-Palmolive. Con su fragancia femenina te mantiene fresca y protegida en los momentos más exigentes, con una barrera protectora que actúa durante 48 horas los 7 días de la semana.\n\nCaracterísticas:\n- Fórmula sin alcohol, por lo que no daña ni irrita la piel.\n- Barrera protectora que combate el mal olor durante 48 horas.\n- No deja residuos blancos en la piel y no mancha la ropa.\n- Aroma Powder Fresh, de tipo femenino.\n- Útil en la rutina de ejercicio, al caminar bajo el sol o en cualquier actividad diaria.\n\nModo de uso:\nAplíquelo oprimiendo la válvula desde una distancia aproximada de 15 centímetros.\n\nPresentación:\n1 envase en aerosol con 91 g.",
+  "ficha": {
+    "marca": "Lady Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "24/7",
+    "variante": "Powder Fresh",
+    "presentacion": "Aerosol",
+    "contenido_neto": 91,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "genero": "Mujer",
+    "sabor_aroma": "Powder Fresh",
+    "otros": "Formato de venta: pieza individual; Protección: 48 horas; Sin alcohol"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,30 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546063843_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7509546063843_5.jpg",
+      "pagina": "https://www.fahorro.com/desodorante-lady-speed-stick-powder-fresh-91-g-aerosol.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1555,
+      "lado_util": 1440,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-lady-speed-stick-powder-fresh-91-g-aerosol.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En el sistema aparece como LADYSS; corresponde a la marca Lady Speed Stick.",
+    "notas_imagenes": "1 foto de frente del envase (1555 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

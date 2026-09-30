@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "TIAMINAL B12 TRI AP C 3",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tiaminal B12 Trivalente AP 3 Ampolletas de 2 ml",
+  "descripcion": "Descripción:\nTiaminal B12 Trivalente AP es una solución inyectable de vitaminas neurótropas (B1, B6 y B12) de Laboratorios Silanes. Está indicada en la prevención y el tratamiento de deficiencias de las vitaminas de su fórmula, incluso cuando aumentan los requerimientos por diabetes, alcoholismo o actividad física intensa. Como auxiliar se emplea en radiculitis, polineuritis de origen alcohólico o diabético, neuritis del embarazo, neuralgias periféricas, faciales y del trigémino, así como en el manejo de anemia perniciosa.\n\nComposición:\nCada ampolleta de 2 ml contiene: hidroxocobalamina (vitamina B12) 5,000 µg, clorhidrato de tiamina (vitamina B1) 200 mg y clorhidrato de piridoxina (vitamina B6) 100 mg. Vehículo cbp 2 ml.\n\nModo de uso:\nVía intramuscular profunda. Según la información para prescribir, 1 a 2 ml diarios o cada 2 a 3 días, de acuerdo con la intensidad y evolución del cuadro; la indicación la determina el médico.\n\nPresentación:\nCaja con 3 ampolletas de 2 ml, con 3 jeringas y agujas estériles desechables.\n\nAdvertencias:\nNo debe usarse en personas hipersensibles a los componentes de la fórmula (por ejemplo, al cobalto) ni con policitemia vera. Puede causar reacciones de hipersensibilidad; por su contenido de tiamina puede presentarse enrojecimiento de cara, náusea, vómito, rash y diarrea transitorios. Durante el embarazo y la lactancia, su uso queda a criterio del médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tiaminal",
+    "fabricante": "Silanes",
+    "linea": "B12 Trivalente AP",
+    "presentacion": "Caja con 3 ampolletas de 2 ml",
+    "contenido_neto": 2,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 3,
+    "principio_activo": "Hidroxocobalamina, tiamina y piridoxina",
+    "concentracion": "Por ampolleta de 2 ml: hidroxocobalamina 5,000 µg; tiamina 200 mg; piridoxina 100 mg",
+    "via_administracion": "Intramuscular",
+    "otros": "Forma farmacéutica: solución inyectable; Incluye 3 jeringas y agujas estériles desechables"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM438195",
+      "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501101624636_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/t/i/tiaminal-b12-ap_inyec_03.png?format=jpeg",
+      "pagina": "https://www.fahorro.com/tiaminal-b-12-ap-trivalente-caja-3-ampolletas-2-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1169,
+      "lado_util": 1083,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/tiaminal.b12.trivalente.ap.solucion.inyectable/171/101/10099/162",
+    "https://www.fahorro.com/tiaminal-b-12-ap-trivalente-caja-3-ampolletas-2-ml.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Es un inyectable; una farmacia lo maneja sin receta pero conviene confirmar su condición de venta. Categoría de vitaminas MLM438195 por la regla del repositorio.",
+    "notas_imagenes": "1 foto de frente del empaque (1169 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

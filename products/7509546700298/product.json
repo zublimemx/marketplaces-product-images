@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD NEUTRO B +COLAGENO SPY 91G N",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Neutro Balance + Colágeno Aerosol 91 g",
+  "descripcion": "Descripción:\nDesodorante antitranspirante en aerosol Palmolive Neutro Balance Dermoprotector + Colágeno, de 91 g. Pertenece a la línea Neutro Balance con colágeno, que ofrece hidratación, frescura y protección contra el sudor y el mal olor, cuidando la piel de las axilas.\n\nCaracterísticas:\n- Fórmula con colágeno para cuidar la piel.\n- Fórmula sin alcohol, pensada para no irritar la piel.\n- Protege contra el sudor y el mal olor.\n- Práctico formato en aerosol de 91 g.\n\nModo de uso:\nAplíquelo diariamente después del baño habitual.\n\nPresentación:\n1 envase en aerosol con 91 g.",
+  "ficha": {
+    "marca": "Palmolive Neutro Balance",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Neutro Balance Dermoprotector",
+    "variante": "Colágeno",
+    "presentacion": "Aerosol",
+    "contenido_neto": 91,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "otros": "Formato de venta: pieza individual; Tipo: antitranspirante en aerosol; Sin alcohol"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -20,13 +30,18 @@
     "odoo": {}
   },
   "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "url_oficial": "https://www.neutrobalance.com.mx/productos/cuidado-del-cuerpo/desodorante-antitranspirante-roll-on-neutro-balance-dermoprotector-colageno",
+  "fuentes": [
+    "https://www.fahorro.com/desodorante-neutro-balance-91-g-spray.html",
+    "https://www.neutrobalance.com.mx/productos/cuidado-del-cuerpo/desodorante-antitranspirante-roll-on-neutro-balance-dermoprotector-colageno"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "No se pudo abrir la ficha exacta de la versión con colágeno en aerosol (bloqueada); la descripción combina la ficha del aerosol Neutro Balance de 91 g y la de la línea con colágeno de la marca. Confirmar aroma, horas de protección y GTIN en el empaque.",
+    "notas_imagenes": "Sin fotos: la ficha exacta de este GTIN no se pudo abrir (sitio de la marca, Soriana y otra farmacia bloquean el acceso) y las demás tiendas solo muestran otra versión del aerosol Neutro Balance. Falta buscar foto.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

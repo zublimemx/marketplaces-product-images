@@ -5,17 +5,19 @@
   "nombre_sistema": "NEUROCER ACIDO GLUTAMICO NEURO-CEREBRAL C/30 MEDICAM",
   "nombres_sistema_alternos": [],
   "titulo": "Neurocer Ácido Glutámico Vitaminas 30 Grageas",
-  "descripcion": "Descripción:\nNeurocer es un producto en grageas a base de ácido glutámico combinado con complejo B y otras vitaminas, presentado como revitalizante neuro-cerebral. Se comercializa en caja con 30 grageas.\n\nComposición:\nContiene ácido glutámico, complejo B y vitaminas. Las fuentes consultadas no detallan las cantidades de cada componente; consulte la información impresa en el empaque.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nLea las instrucciones del empaque. Consulte a su médico antes de usarlo. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nNeurocer es un producto de laboratorios Medicam en grageas, a base de ácido glutámico combinado con vitaminas del complejo B y con las vitaminas E y C, presentado como revitalizante neuro-cerebral. Se comercializa en caja con 30 grageas para administración por vía oral.\n\nComposición:\nÁcido glutámico, complejo B, vitamina E y vitamina C. Las fuentes consultadas no detallan las cantidades de cada componente ni la dosis recomendada; consulte la información impresa en el empaque.\n\nPresentación:\nCaja con 30 grageas.\n\nAdvertencias:\nConsulte a su médico antes de usarlo si está embarazada o en lactancia, o si toma otros medicamentos o suplementos. Lea las instrucciones del empaque. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Neurocer",
+    "fabricante": "Medicam",
     "linea": "Neurocer",
-    "variante": "Ácido glutámico con complejo B y vitaminas",
+    "variante": "Ácido glutámico con complejo B y vitaminas E y C",
     "presentacion": "Caja con 30 grageas",
     "contenido_neto": 30,
     "unidad_contenido": "grageas",
     "unidades_por_envase": 30,
-    "principio_activo": "Ácido glutámico, complejo B y vitaminas",
-    "otros": "Formato: grageas"
+    "principio_activo": "Ácido glutámico, complejo B, vitamina E y vitamina C",
+    "via_administracion": "Oral",
+    "otros": "Revitalizante neuro-cerebral; Formato de venta: Unidad"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -32,15 +34,15 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://mayoreofarmaceutico.com.mx/productos/1306881057034/"
+    "https://cedismed.com/producto/neurocer/"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
+    "estado": "verificado",
+    "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "Solo se encontraron títulos de listados (NEUROCER GRAG 30 con el mismo GTIN; ácido glutámico, complejo B y vitaminas). Las páginas de detalle no cargaron (404) o están bloqueadas por el proxy, así que no hay composición, laboratorio ni indicaciones confiables. Verificar con el empaque.",
-    "notas_imagenes": "Sin fotos: no se pudo abrir ninguna ficha con imagen del producto (páginas caídas o bloqueadas).",
+    "notas": "El GTIN 1306881057034 aparece como código de barras de NEUROCER GRA C/30 de laboratorio Medicam (ácido glutámico, complejo B, vitamina E y C) en un distribuidor y en los títulos de otros listados (Fiel Farmacias, Mayoreo Farmacéutico, Mercado Libre 'Neurocer revitalizador neuro-cerebral caja c/30'). Ninguna página abrible da cantidades por grajea, indicaciones ni dosis, y no se sabe si es medicamento o suplemento; se dejó en Suplementos Alimenticios por regla del dueño para vitaminas. Verificar con el empaque antes de publicar.",
+    "notas_imagenes": "Sin fotos: las páginas con imagen del producto están bloqueadas por el proxy (Fiel Farmacias, Sistema3, Genética) o son de Mercado Libre, que no se consulta.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

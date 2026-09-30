@@ -4,29 +4,56 @@
   "linea": "Farma",
   "nombre_sistema": "NOCOLODI 160MG C/30 TABS FENOFIBRATO GROSSMAN",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Nocolodi Fenofibrato 160 mg 30 Cápsulas",
+  "descripcion": "Descripción:\nNocolodi es un medicamento de Laboratorios Grossman cuyo principio activo es el fenofibrato en cápsulas de 160 mg. Se receta para controlar la elevación de triglicéridos y/o colesterol en la sangre. La dosis debe ser la que indique su médico.\n\nCaracterísticas:\n- Principio activo: fenofibrato, 160 mg por cápsula.\n- Presentación en cápsulas de administración oral.\n- Medicamento de prescripción médica, indicado para trastornos de los lípidos en sangre.\n\nComposición:\nCada cápsula contiene fenofibrato 160 mg.\n\nModo de uso:\nVía oral. Tome las cápsulas de acuerdo con las indicaciones de su médico.\n\nPresentación:\nCaja con 30 cápsulas de 160 mg.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Nocolodi",
+    "fabricante": "Grossman",
+    "presentacion": "Caja con 30 cápsulas",
+    "contenido_neto": 30,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 30,
+    "principio_activo": "Fenofibrato",
+    "concentracion": "160 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: cápsulas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "categoria_id": "MLM457817",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "categoria_rx_sugerida": "MLM457830",
+      "catalogo_id": "MLM51763168"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501123002085_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501123002085_1_1.jpg",
+      "pagina": "https://www.fahorro.com/nocolodir-160-mg-oral-30-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1621,
+      "lado_util": 1501,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/nocolodir-160-mg-oral-30-caps.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice TABS, pero el producto es en cápsulas. Una farmacia lo marca sin receta; el fenofibrato normalmente se vende con receta.",
+    "notas_imagenes": "1 foto de frente del empaque (1621 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

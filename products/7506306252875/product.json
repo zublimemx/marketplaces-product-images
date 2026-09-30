@@ -4,14 +4,24 @@
   "linea": "Mark",
   "nombre_sistema": "SERUM DOVE CORP NIACI T UNI 400 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Sérum Corporal Dove Niacinamida Tono Uniforme 400 ml",
+  "descripcion": "Descripción:\nEl Sérum Corporal Dove con Niacinamida y Tono Uniforme es un cuidado avanzado para la piel del cuerpo, cocreado con dermatólogos, que reduce las manchas oscuras e hidrata profundamente. Ayuda a recuperar el tono natural de la piel mientras elimina la resequedad, y tiene una textura ligera de rápida absorción. Se presenta en frasco de 400 ml con dosificador.\n\nBeneficios:\n- Contiene niacinamida, que ayuda a reducir las manchas oscuras y a recuperar el tono natural de la piel\n- Hasta 48 horas de humectación regenerativa para una piel suave y radiante\n- Probado clínicamente\n- Textura ligera con absorción rápida\n- Contiene colágeno vegano, vitamina C y aceite de rosa mosqueta 100 % natural\n- Para todo el cuerpo\n\nModo de uso:\nPara uso diario en todo el cuerpo. Úselo como su crema corporal habitual, siempre que sea necesario.\n\nPresentación:\nFrasco con dosificador de 400 ml, línea Dove Sérum Corporal, variante Niacinamida + Tono Uniforme.",
+  "ficha": {
+    "marca": "Dove",
+    "fabricante": "Unilever",
+    "linea": "Sérum Corporal",
+    "variante": "Niacinamida + Tono Uniforme",
+    "presentacion": "Frasco con dosificador de 400 ml",
+    "contenido_neto": 400,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "otros": "Con niacinamida; 48 horas de humectación; Probado clínicamente; Con colágeno vegano, vitamina C y aceite de rosa mosqueta"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM178755",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306252875_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://media03.farmaciaslider.com.ar/36514/dove-niacinamida-serum-corporal-x-400-ml.jpg",
+      "pagina": "https://farmaciaslider.com.ar/cuidado-de-la-piel/12954-dove-niacinamida-serum-corporal-x-400-ml-7506306252875.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1013,
+      "lado_util": 938,
+      "fecha": "2026-09-29"
+    }
+  ],
+  "url_oficial": "https://www.dove.com/mx/p/dove-serum-corporal-tonounif-niaci400.html/07506306252875",
+  "fuentes": [
+    "https://www.dove.com/mx/p/dove-serum-corporal-tonounif-niaci400.html/07506306252875",
+    "https://farmaciaslider.com.ar/cuidado-de-la-piel/12954-dove-niacinamida-serum-corporal-x-400-ml-7506306252875.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7506306252875 confirmado en la URL del sitio oficial de Dove México y en tiendas. Página oficial leída con WebFetch (curl da 403). No se pudo obtener la lista de ingredientes (SmartLabel y otras fuentes bloquearon el acceso). Los datos de la ficha vienen del sitio oficial.",
+    "notas_imagenes": "1 foto de tienda (Farmacias Líder Argentina, 1000 px, mismo GTIN): frasco con dosificador de frente. Las imágenes del sitio oficial (assets.unileversolutions.com) devuelven 403; se descartó una segunda foto idéntica de otra tienda.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

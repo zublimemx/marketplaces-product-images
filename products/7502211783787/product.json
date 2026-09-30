@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "ERBITRAX T 250MG C28 TAB TERBINAFINA LOEFFLER 108",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Erbitrax-T Terbinafina 250 mg 28 Tabletas",
+  "descripcion": "Descripción:\nErbitrax-T es un medicamento antimicótico de uso oral de Loeffler cuyo principio activo es la terbinafina. Se utiliza en el tratamiento de las infecciones por hongos de las uñas de los pies y las manos (onicomicosis) y de la piel (tiña), siempre por indicación médica. Esta presentación contiene 28 tabletas de 250 mg.\n\nCaracterísticas:\n- Pertenece al grupo de los antifúngicos: actúa deteniendo el crecimiento de los hongos.\n- Tabletas de 250 mg de terbinafina para administración oral.\n- El médico determina la duración del tratamiento según el tipo y la gravedad de la infección.\n\nComposición:\nCada tableta contiene terbinafina 250 mg.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las indica el médico.\n\nPresentación:\nCaja con 28 tabletas de 250 mg.\n\nAdvertencias:\nSu venta requiere receta médica. Contraindicado en caso de hipersensibilidad a la terbinafina o a los componentes de la fórmula. Debe tenerse precaución en pacientes con antecedentes de enfermedad hepática; el médico puede solicitar vigilar la función del hígado durante el tratamiento. No se recomienda su uso durante el embarazo y la lactancia sin indicación médica. Informe a su médico de cualquier síntoma o efecto adverso inusual. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Erbitrax-T",
+    "fabricante": "Loeffler",
+    "linea": "Erbitrax-T",
+    "presentacion": "Caja con 28 tabletas",
+    "contenido_neto": 28,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 28,
+    "principio_activo": "Terbinafina",
+    "concentracion": "250 mg por tableta",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; antifúngico"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194690",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
+      "categoria_rx_sugerida": "MLM457827",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7502211783787_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://wecarepharma.mx/cdn/shop/files/planogram__1__ba8b2e1f-aa3d-49b0-996b-57ab07a83614.jpg",
+      "pagina": "https://farmaciaherrera.com.mx/products/terbinafina-erbitrax-t-250-mg-con-28-tabletas",
+      "ancho_original": 2401,
+      "alto_original": 2401,
+      "lado_final": 2000,
+      "lado_util": 1852,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://wecarepharma.mx/en/products/erbitrax-t-250mg-con-28-tabletas-terbinafina",
+    "https://phemedica.com.mx/product/erbitrax-t-terbinafina-250-mg-c-28-tabs-loeffler/",
+    "https://grupofarmapronto.com/producto/terbinafina-250-mg-c-28-tabletas-erbitrax-t-2/"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema trae '108' (código o lote), ignorado. No se vio el número de registro sanitario. Categoría de venta libre: Antimicóticos; para receta se sugiere Antiinfecciosos con Receta.",
+    "notas_imagenes": "1 foto de tienda (2,000 px): frente del empaque. Se descartó una foto de 540 px en ángulo.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

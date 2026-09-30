@@ -5,7 +5,7 @@
   "nombre_sistema": "NEXCARE BCO 2 5CM C12",
   "nombres_sistema_alternos": [],
   "titulo": "Cinta Micropore Nexcare Blanca 2.5 cm 12 Piezas",
-  "descripcion": "Descripción:\nCinta adhesiva microporosa blanca de la marca Nexcare, de 2.5 cm de ancho, en presentación de caja con 12 piezas. La línea Nexcare Micropore es una cinta de papel con respaldo de rayón no tejido, microporosa, hipoalergénica y libre de látex.\n\nCaracterísticas:\n- Permite la respiración de la piel.\n- Adhesivo hipoalergénico, apto para pieles delicadas.\n- Fácil de cortar con la mano y de retirar.\n- Especialmente indicada para personas con piel sensible o frágil y para uso pediátrico.\n\nUsos recomendados:\n- Fijación de apósitos que requieren cambios frecuentes.\n- Fijación de vendajes y catéteres.\n- Señalización de vendajes y catéteres.\n\nPresentación:\nCaja con 12 piezas de 2.5 cm de ancho. El largo de cada pieza no se pudo confirmar.\n\nAdvertencias:\nSuspenda su uso si aparece irritación o enrojecimiento de la piel. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nCinta adhesiva microporosa blanca de la marca Nexcare (3M), de 2.5 cm de ancho, en presentación de caja con 12 piezas. Nexcare Micropore es una cinta adhesiva de papel para asegurar vendajes suaves, gasas y apósitos que requieren cambiarse con frecuencia; también puede usarse en aplicaciones posquirúrgicas.\n\nCaracterísticas:\n- Respaldo no tejido de fibras de rayón, suave y flexible, que permite la transpiración de la piel.\n- Adhesivo hipoalergénico a base de acrilato.\n- Libre de látex.\n- Conformable: se adapta a los contornos del cuerpo.\n- Color blanco.\n- Ancho de 2.5 cm (1 pulgada).\n\nUsos recomendados:\n- Fijación de apósitos, gasas y vendajes suaves.\n- Fijación de curaciones que se cambian con frecuencia.\n- Aplicaciones posquirúrgicas.\n\nPresentación:\nCaja con 12 piezas de cinta de 2.5 cm de ancho. El largo de cada pieza no se pudo confirmar (la presentación individual de Nexcare Micropore blanca de 2.5 cm mide 5 m).\n\nAdvertencias:\n- Uso externo. Suspenda su uso si aparece irritación o enrojecimiento de la piel.\n- No la aplique sobre heridas abiertas.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Nexcare",
     "fabricante": "3M",
@@ -15,7 +15,7 @@
     "contenido_neto": 12,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 12,
-    "otros": "Ancho: 2.5 cm; Largo por pieza sin confirmar; Papel con respaldo de rayón no tejido; Hipoalergénica; Libre de látex; Fácil de cortar a mano"
+    "otros": "Ancho: 2.5 cm; Largo por pieza sin confirmar (la presentación individual mide 5 m); Respaldo de rayón no tejido; Adhesivo hipoalergénico a base de acrilato; Libre de látex; Color: blanco; Formato de venta: Caja"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -32,16 +32,16 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://www.3m.com.pe/3M/es_PE/p/d/v000504983/",
-    "https://www.fahorro.com/nexcare-cinta-micropore-blanca-2-5-cm-x-5-m.html"
+    "https://www.heb.com.mx/nexcare-cinta-medica-micropore-blanco-2-5-cm-x-5-m-1-pz-18294/p",
+    "https://www.benavides.com.mx/nexcare-micropore-blanco-cinta-adhesiva-2-5cm-x-5m-1-ud"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "no_encontrado",
-    "notas": "El GTIN de 14 dígitos (37501023108857) parece ser un empaque múltiple del artículo 7501023108857, que no apareció en ninguna página. La descripción se basa en la ficha general de Nexcare Micropore; no se confirmó el largo del rollo ni si son 12 rollos. Verificar contra el empaque.",
-    "notas_imagenes": "Sin fotos: no se halló ninguna página con este GTIN ni con la caja de 12; las fotos de Nexcare Micropore encontradas son de rollos individuales de otras medidas y no se usaron.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "La búsqueda con el GTIN de 14 dígitos no devolvió ninguna ficha con ese código; solo Nexcare Micropore blanca de 2.5 cm x 5 m en presentación individual y micropore de 3M en cajas de 12 rollos de 9.1 m (otra línea). El GTIN de 14 dígitos parece un empaque múltiple de un artículo Nexcare. La línea y el ancho están confirmados por fichas de tienda; que sea una caja de 12 piezas sale del nombre del sistema (C12) y el largo por rollo no se confirmó. Verificar contra el empaque.",
+    "notas_imagenes": "Sin fotos: no se halló ninguna página con este GTIN ni con la caja de 12; las fotos de Nexcare Micropore encontradas son de la pieza individual de 5 m y no representan la caja de 12.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

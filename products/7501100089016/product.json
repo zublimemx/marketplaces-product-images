@@ -4,29 +4,59 @@
   "linea": "Farma",
   "nombre_sistema": "TYLEX 750MG 20TABS AGOSTO 27",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylex 750 mg Paracetamol 20 Tabletas",
+  "descripcion": "Descripción:\nTylex 750 es un analgésico y antipirético de Janssen cuyo principio activo es el paracetamol en dosis de 750 mg por tableta. Está indicado para el alivio temporal del dolor leve a moderado, como dolor de cabeza, dolor muscular, dolor de espalda baja, dolor relacionado con artritis, dolor dental y dolor premenstrual y menstrual. Además, alivia de forma transitoria la fiebre.\n\nComposición:\nCada tableta contiene paracetamol DC 90% equivalente a 750 mg de paracetamol. Excipiente cbp.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento deben ser las que indique su médico.\n\nPresentación:\nCaja con 20 tabletas de 750 mg.\n\nAdvertencias:\nNo debe usarse en personas con hipersensibilidad a los componentes de la fórmula, enfermedades hepáticas, trastornos de la coagulación, úlcera péptica activa ni con ingestión de anticoagulantes. Durante el embarazo y la lactancia solo debe usarse si el médico considera que los beneficios superan los posibles riesgos. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylex",
+    "fabricante": "Janssen-Cilag",
+    "linea": "Tylex 750",
+    "presentacion": "Caja con 20 tabletas",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 20,
+    "principio_activo": "Paracetamol",
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
+      "categoria_rx_sugerida": "MLM457836",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501100089016_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7002874/7501100089016_01.jpg",
+      "pagina": "https://www.farmatodo.com.mx/tylex-750-mg-caja-c-20-tabletas/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 974,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.farmatodo.com.mx/tylex-750-mg-caja-c-20-tabletas/p",
+    "https://farmaciagloria.mx/medicamentos-de-a-z/3985-tylex-750-mg-con-20-tabletas.html",
+    "https://wecarepharma.mx/en/products/tylex-750mg-con-20-tabletas-paracetamol"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Dos fuentes indican que su venta requiere receta médica (fracción IV); una farmacia grande lo maneja sin receta. Confirmar en el empaque.",
+    "notas_imagenes": "1 foto de frente del empaque (974 px), de una farmacia en línea; es la foto oficial de Janssen, sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -35,22 +35,23 @@
   },
   "imagenes": [
     {
-      "archivo": "7501088509766_1.jpg",
+      "archivo": "7501088509766_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/8/0/808_jp8pgk6dkfdgcmjj.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=1200&width=1200&canvas=1200:1200",
-      "pagina": "https://farmaciasespecializadas.com/antiflu-des-jr-500-20-30mg-ml-sol-c-60ml.html",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 448
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw483cac9c/images/large/7501088509766_1.jpg",
+      "pagina": "https://www.yza.mx/antiflu-des-jr-solucion-60ml/MXYZ_7501088509766.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 996,
+      "lado_util": 922,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasespecializadas.com/antiflu-des-jr-500-20-30mg-ml-sol-c-60ml.html",
     "https://farmaciasmedina.com/detalleProducto?producto=7501088509766",
-    "https://farmasmart.com/antiflu-des-jr-1-sol-0-50-02-3-g-60-ml"
+    "https://farmasmart.com/antiflu-des-jr-1-sol-0-50-02-3-g-60-ml",
+    "https://www.yza.mx/antiflu-des-jr-solucion-60ml/MXYZ_7501088509766.html"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -58,6 +59,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en varias farmacias (fabricante Chinoin). Las tiendas lo llaman jarabe, solución o suspensión. La concentración se interpretó de dos fichas (0.50/0.02/3 g por 60 ml en una; 500/20/30 mg/ml en otra) como 500 mg, 20 mg y 3 g por 100 ml; verificar en el empaque. Una tienda pide receta, pero suele venderse sin ella: revisar la clasificación.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmacias Especializadas): caja y frasco Antiflu-Des Jr 60 ml, 500 px (mínimo aceptado)."
+    "notas_imagenes": "1 foto (tienda): _2.jpg de yza.mx (original 1000 px, producto de 922 px), caja y frasco de Antiflu-Des Jr jarabe de 60 ml, sin logotipos de tienda ni precios. Se borró la foto anterior de farmaciasespecializadas (448 px). No hallé una segunda foto de 500 px o más."
   }
 }

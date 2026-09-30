@@ -35,9 +35,9 @@
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "nombre",
-    "notas": "El GTIN 7502256732016 no aparece en ninguna página. Existen varios modelos InhalaCare/Homecare con GTIN distintos (INH01 = 7502256731934, FS10E, FS20E y otro con 7502256729917) y no se pudo saber cuál corresponde. Descripción genérica de oxímetro de dedo, sin datos técnicos (rango, batería, dimensiones); verificar el modelo con el empaque.",
+    "notas": "El GTIN 7502256732016 no aparece en ninguna de las páginas abiertas (INH01, FS10E, FS20E, listados de Homecare). Existen varios modelos InhalaCare/Homecare con GTIN distintos (INH01 = 7502256731934, FS10E, FS20E, un modelo con pantalla OLED y otros como 7502256729917) y no se pudo saber cuál corresponde. Descripción genérica de oxímetro de dedo, sin datos técnicos (rango, batería, dimensiones); verificar el modelo con el empaque. La ficha de catálogo de Mercado Libre del INH01 (MLM18224574) no se anota porque no se confirmó que sea este modelo.",
     "notas_imagenes": "Sin fotos: al no saberse el modelo exacto, las fotos de INH01, FS10E o FS20E podrían no corresponder al producto vendido.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

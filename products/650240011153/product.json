@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "LOMECAN TUBO 20 GR",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Lomecan V Clotrimazol 2% Crema Vaginal 20 g",
+  "descripcion": "Descripción:\nLomecan V es una crema vaginal antimicótica con clotrimazol al 2 %, en tubo de 20 g con aplicador. Está indicada para combatir las infecciones causadas por hongos o levaduras, como la candidiasis vaginal (infección provocada por levaduras del género Candida), y en infecciones cervicovaginales y vulvovaginales causadas por estos microorganismos. Los síntomas comunes de estas infecciones son la comezón, el ardor y la inflamación vaginal, que pueden acompañarse de molestias al orinar o al tener relaciones sexuales.\n\nBeneficios:\n- Antimicótico vaginal en crema con clotrimazol al 2 %\n- Ayuda a aliviar la comezón, el ardor y la inflamación causados por la infección\n- Esquema de una aplicación al día durante 3 días\n- Incluye aplicador para introducir la dosis por vía vaginal\n\nComposición:\nCada 100 g de crema contienen 2 g de clotrimazol.\n\nModo de uso:\nVía vaginal. En vulvovaginitis, con ayuda del aplicador introduzca 5 g de crema al 2 % una vez al día durante 3 días. Se recomienda aplicarla por la noche, antes de dormir: con la paciente acostada sobre la espalda, con las piernas separadas y semiflexionadas, se introduce el aplicador con la crema, se deposita y se permanece en esa posición unos 15 minutos.\n\nPresentación:\nCaja con un tubo con 20 g de crema vaginal y aplicador. Elaborado por Genomma Lab.\n\nAdvertencias:\nÚsese de acuerdo con las instrucciones de la etiqueta y solo contra el padecimiento para el que está indicado. En caso de embarazo o lactancia consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Lomecan",
+    "fabricante": "Genomma Lab",
+    "linea": "Lomecan V",
+    "presentacion": "Caja con tubo de 20 g y aplicador",
+    "contenido_neto": 20,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Clotrimazol",
+    "concentracion": "2 % (2 g/100 g)",
+    "via_administracion": "Vaginal",
+    "genero": "Mujer",
+    "otros": "Forma farmacéutica: crema vaginal; Incluye aplicador; Esquema de 3 días; Venta libre"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457818",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455484"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240011153_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/6/5/650240011153.jpg",
+      "pagina": "https://www.fahorro.com/lomecan-v-crema-vaginal-20-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1213,
+      "lado_util": 1124,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/lomecan-v-crema-vaginal-20-g.html",
+    "https://www.yza.mx/lomecan-v-crema-vaginal-20g/MXYZ_650240011153.html",
+    "https://farmaciagloria.mx/Medicamentos_de_patente/2344-lomecan-crema-vaginal-20-g.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 650240011153 confirmado como SKU y en la URL de tiendas (Lomecan V crema vaginal 20 g). Catálogo de Mercado Libre MLM39455484 tomado de un resultado de búsqueda (no se abrió). Fabricante según la ficha de tienda (Genomma Lab).",
+    "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px), caja de frente. Se descartó otra foto de un diseño distinto de empaque (versión con 3 aplicadores).",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

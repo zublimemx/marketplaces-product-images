@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ALLI TRIPLE C6 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Alli-Triple Diclofenaco y Vitaminas B 6 Tabletas",
+  "descripcion": "Descripción:\nAlli-Triple es un medicamento en tabletas de uso oral de Genomma Lab que combina diclofenaco, un antiinflamatorio no esteroideo, con vitaminas del complejo B (B1, B6 y B12). Su empaque lo presenta como un analgésico de mayor potencia para el alivio del dolor. Se vende en caja con 6 tabletas.\n\nBeneficios:\n- Alivia el dolor.\n- Actúa sobre las fibras nerviosas.\n- Disminuye la inflamación.\n\nComposición:\nCada tableta contiene diclofenaco 50 mg, clorhidrato de tiamina (vitamina B1) 50 mg, clorhidrato de piridoxina (vitamina B6) 50 mg y cianocobalamina (vitamina B12) 0.25 mg.\n\nModo de uso:\nVía oral. La dosis debe ser señalada por el médico tratante.\n\nPresentación:\nCaja con 6 tabletas.\n\nAdvertencias:\nNo se use durante el embarazo ni la lactancia. Está contraindicado en caso de hipersensibilidad a los componentes de la fórmula. No usar en menores de 12 años. Consérvese a no más de 30 °C y bien cerrado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Alli-Triple",
+    "fabricante": "Genomma Lab",
+    "presentacion": "Caja con 6 tabletas",
+    "contenido_neto": 6,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 6,
+    "principio_activo": "Diclofenaco, tiamina, piridoxina y cianocobalamina",
+    "concentracion": "Diclofenaco 50 mg; tiamina 50 mg; piridoxina 50 mg; cianocobalamina 0.25 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "100M2020 SSA V",
+    "otros": "Forma farmacéutica: tabletas"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "650240053634_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/320818/320818_01.webp?v=d2d3cf4e",
+      "pagina": "https://www.heb.com.mx/alli-triple-analgesico-con-6-pz-807732/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 619,
+      "lado_util": 575,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240053634_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/320818/320818_02.webp?v=6ee7c727",
+      "pagina": "https://www.heb.com.mx/alli-triple-analgesico-con-6-pz-807732/p",
+      "ancho_original": 600,
+      "alto_original": 600,
+      "lado_final": 594,
+      "lado_util": 550,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.heb.com.mx/alli-triple-analgesico-con-6-pz-807732/p",
+    "https://sanorim.mx/products/alli-triple-diclofenaco-vitamina-b-1-6-y-12-caja-con-6-tabletas",
+    "https://www.farmatodo.com.mx/alli-triple-50-025-50-mg-caja-c-6-tabletas/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN de 12 dígitos buscado con 0 inicial. Una ficha de farmacia da registro '100M2020 SSA V' (fracción de venta sin receta solo en farmacias) pero no se confirmó en el empaque; por eso receta_mx queda en Revisar. Categoría elegida por ser analgésico (alternativa: Musculoarticulares Venta Libre MLM457822).",
+    "notas_imagenes": "2 fotos de tienda (HEB, ~600 px): frente del empaque y vista 3/4 con blíster. Se descartaron una imagen promocional y una de diseño anterior del empaque.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -4,29 +4,73 @@
   "linea": "Farma",
   "nombre_sistema": "SERETIDE DISKUS 50 250 60 DOSIS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Seretide Diskus 50/250 mcg Polvo para Inhalación 60 Dosis",
+  "descripcion": "Descripción:\nSeretide Diskus es un medicamento de GSK en polvo para inhalación que combina salmeterol (un broncodilatador de acción prolongada) y propionato de fluticasona (un corticoesteroide inhalado). Esta presentación de 50 µg/250 µg se entrega en un dispositivo inhalador Diskus con 60 dosis, cada una con 50 µg de salmeterol y 250 µg de fluticasona.\n\nBeneficios:\n- Indicado para el tratamiento periódico del asma (enfermedad obstructiva reversible de la vía aérea), incluso en pacientes que continúan con síntomas a pesar de recibir corticoesteroides inhalados o que requieren añadir un corticoesteroide inhalado a su broncodilatador.\n- Indicado para el tratamiento regular de la enfermedad pulmonar obstructiva crónica (EPOC), incluidas la bronquitis crónica y el enfisema, según lo determine el médico.\n\nFórmula:\nCada dosis contiene xinafoato de salmeterol equivalente a 50 µg de salmeterol y 250 µg de propionato de fluticasona, con excipiente c.b.p. 12.5 mg.\n\nModo de uso:\nVía bucal, por inhalación con el dispositivo Diskus. La dosis y la concentración adecuadas las determina el médico según la severidad de la enfermedad.\n\nPresentación:\nCaja con dispositivo inhalador Diskus con 60 dosis de 50 µg/250 µg e instructivo.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- No debe utilizarse para aliviar síntomas agudos; para ello se requiere un broncodilatador de acción rápida y corta duración, que el paciente debe llevar consigo.\n- Si aumenta el uso de broncodilatadores de acción corta o el asma empeora, acuda a su médico.\n- Contraindicado en pacientes con hipersensibilidad a alguno de sus ingredientes y en personas con alergia grave a la proteína de la leche.\n- Conserve el dispositivo a no más de 30 °C y en lugar seco.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Seretide",
+    "fabricante": "GSK (GlaxoSmithKline México)",
+    "linea": "Diskus",
+    "variante": "50 µg/250 µg",
+    "presentacion": "Caja con dispositivo inhalador con 60 dosis",
+    "contenido_neto": 60,
+    "unidad_contenido": "dosis",
+    "unidades_por_envase": 1,
+    "principio_activo": "Salmeterol (como xinafoato), propionato de fluticasona",
+    "concentracion": "Salmeterol 50 µg; fluticasona 250 µg por dosis",
+    "via_administracion": "Inhalada (bucal)",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "340M99 SSA IV",
+    "otros": "Polvo para inhalación; Requiere receta médica; Titular: Glaxo Wellcome; Formato de venta: Unidad"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "categoria_rx_sugerida": "MLM457837",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501027800053_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_674052.jpg",
+      "pagina": "https://www.fahorro.com/seretide-disk-50-mcg-250-mcg-oral-60-dosiss.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 859,
+      "lado_util": 796,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501027800053_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501027800053.jpg",
+      "pagina": "https://www.fahorro.com/seretide-disk-50-mcg-250-mcg-oral-60-dosiss.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1578,
+      "lado_util": 1462,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/seretide.diskus.polvo/64/101/9739/126",
+    "https://www.benavides.com.mx/seretide-diskus-50-mcg-salmeterol250-mcg-fluticasona-polvo-para-inhalacion-60-dosis",
+    "https://www.fahorro.com/seretide-disk-50-mcg-250-mcg-oral-60-dosiss.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Producto y presentación confirmados (Seretide Diskus 50/250 µg, 60 dosis, con la caja a la vista); la foto de una tienda está nombrada con el GTIN 7501027800053. Composición, indicaciones, contraindicaciones y registro (340M99 SSA IV) de la monografía PLM, que trae 'Su venta requiere receta médica'. La caja en las fotos dice 'Nueva imagen' (parte del empaque). La monografía cubre las tres concentraciones (50/100, 50/250 y 50/500); las indicaciones se dejaron generales.",
+    "notas_imagenes": "2 fotos de tienda (frente de la caja, 859 px, y caja con el inhalador, 1578 px). Ambas muestran la banda 'Nueva imagen', que es parte del empaque. No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "CAPENT 110GR POMADA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Capent Pomada para Rozaduras del Bebé 110 g",
+  "descripcion": "Descripción:\nCapent es una pomada para rozaduras creada para proteger la delicada piel del bebé. Forma una capa protectora que evita el contacto de la piel con agentes nocivos, calma el dolor y la comezón, y su acción antiséptica ayuda a aliviar y a prevenir infecciones en la piel. Es una fórmula hipoalergénica y dermatológicamente comprobada, en tubo de 110 g.\n\nBeneficios:\n- Proporciona un alivio rápido y eficaz de las rozaduras del bebé\n- Forma una capa protectora sobre la piel\n- Calma el dolor y la comezón de la zona irritada\n- Acción antiséptica que ayuda a aliviar y a prevenir infecciones en la piel del bebé\n- Hipoalergénica\n\nFórmula:\nCada 1 g de pomada contiene óxido de zinc 0.25 g y cloruro de benzalconio 0.001 g, con excipiente c.b.p.\n\nModo de uso:\n- Si su bebé está rozado: limpie suavemente la zona afectada y aplique una capa generosa de pomada en cada cambio de pañal.\n- Para prevenir rozaduras: aplique una capa delgada en cada cambio de pañal y, en especial, por la noche.\n- Antes de aplicar la pomada, verifique que la piel del bebé esté totalmente seca.\n- En irritaciones y quemaduras leves: lave la zona afectada, séquela y aplique suavemente una ligera capa de pomada; repita la operación tres veces al día.\n\nPresentación:\nCaja con un tubo con 110 g. Vía cutánea. Material de curación.\n\nAdvertencias:\nSi persisten las molestias, consulte a su médico. No se deje al alcance de los niños. Consérvese a temperatura ambiente, a no más de 30 °C.",
+  "ficha": {
+    "marca": "Capent",
+    "fabricante": "Grisi Hnos.",
+    "linea": "Pomada para rozaduras",
+    "presentacion": "Tubo de 110 g",
+    "contenido_neto": 110,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Óxido de zinc y cloruro de benzalconio",
+    "concentracion": "Óxido de zinc 0.25 g/g; cloruro de benzalconio 0.001 g/g",
+    "via_administracion": "Cutánea",
+    "edad_etapa": "Bebés",
+    "registro_sanitario": "53922 SSA",
+    "otros": "Hipoalergénica; Material de curación; Hecho en México por GlaxoSmithKline Consumer Healthcare México para Grisi Hnos."
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM193807",
+      "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "037836012341_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/425262/425262_01.webp?v=29928f5a",
+      "pagina": "https://www.heb.com.mx/capent-pomada-para-rozaduras-110-gr-828851/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 930,
+      "lado_util": 862,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "037836012341_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/425262/425262_02.webp?v=c462f177",
+      "pagina": "https://www.heb.com.mx/capent-pomada-para-rozaduras-110-gr-828851/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 938,
+      "lado_util": 869,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "037836012341_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/425262/425262_03.webp?v=db9d82f7",
+      "pagina": "https://www.heb.com.mx/capent-pomada-para-rozaduras-110-gr-828851/p",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 853,
+      "lado_util": 790,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/capent.pomada/122/101/6795/139",
+    "https://www.heb.com.mx/capent-pomada-para-rozaduras-110-gr-828851/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 037836012341 (12 dígitos) coincide con la URL de una tienda (37836012341) para Capent pomada 110 g. Fórmula y modo de uso de la ficha de PLM (marca antes de Novartis, información no actualizada); fabricante y registro tomados del reverso del empaque (Grisi Hnos., Reg. 53922 SSA). El empaque lo declara material de curación, por eso 'No aplica'.",
+    "notas_imagenes": "3 fotos de tienda (HEB, 853 a 938 px): frente, reverso con datos legales y vista en ángulo del empaque de 110 g. Se rechazó una miniatura de 200 px.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

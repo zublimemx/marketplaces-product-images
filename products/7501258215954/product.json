@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "MURREOLAK ACETILCISTEINA 600MG C/20 TAB LAB SERRAL LYSOMUCIL",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Murreolak Acetilcisteína 600 mg 20 Tabletas Efervescentes",
+  "descripcion": "Descripción:\nMurreolak es un mucolítico en tabletas efervescentes de 600 mg de acetilcisteína, de laboratorios Serral. Ayuda a disminuir la viscosidad del moco y a facilitar su expulsión, por lo que se presenta como auxiliar en el alivio de la tos y para ablandar flemas en procesos catarrales o gripales. La caja contiene dos tubos con 10 tabletas cada uno, es decir, 20 tabletas en total.\n\nBeneficios:\n- Auxiliar en el alivio de la tos.\n- Auxiliar en ablandar flemas.\n- Facilita la expulsión de la secreción mucosa en procesos catarrales o gripales.\n- Coadyuvante en padecimientos respiratorios con secreción mucosa excesiva o espesa, como la bronquitis aguda o crónica, según indicación médica.\n\nFórmula:\nCada tableta efervescente contiene 600 mg de acetilcisteína.\n\nModo de uso:\nVía oral. Disuelva la tableta efervescente en agua antes de tomarla. En adultos, la dosis es de 600 mg (una tableta) en una toma, sin exceder 600 mg al día, o según la indicación de su médico.\n\nPresentación:\nCaja con 2 tubos de 10 tabletas efervescentes de 600 mg (20 tabletas).\n\nAdvertencias:\n- No se recomienda su uso durante el embarazo ni la lactancia.\n- Puede causar de forma poco frecuente reacciones de hipersensibilidad (comezón, urticaria, erupción, broncoespasmo), dolor de cabeza, zumbido de oídos, dolor abdominal, náuseas, vómito o diarrea.\n- Úselo con precaución si su actividad requiere atención y presenta somnolencia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Murreolak",
+    "fabricante": "Laboratorios Serral",
+    "presentacion": "Caja con 2 tubos de 10 tabletas efervescentes",
+    "contenido_neto": 20,
+    "unidad_contenido": "tabletas efervescentes",
+    "unidades_por_envase": 20,
+    "principio_activo": "Acetilcisteína",
+    "concentracion": "600 mg por tableta",
+    "via_administracion": "Oral",
+    "registro_sanitario": "046M2023 SSA",
+    "otros": "Forma farmacéutica: tableta efervescente; Mucolítico; Caja con dos tubos de 10 tabletas; Formato de venta: Unidad"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457814",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,43 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501258215954_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1ac53e55/images/large/P12/7501258215954_1.jpg",
+      "pagina": "https://www.yza.mx/murreolak-600mg-20-tabs/MXYZ_7501258215954.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 908,
+      "lado_util": 842,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501258215954_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw60ce8049/images/large/P12/7501258215954_2.jpg",
+      "pagina": "https://www.yza.mx/murreolak-600mg-20-tabs/MXYZ_7501258215954.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 979,
+      "lado_util": 907,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.vademecum.es/mexico/medicamento/1523050/murreolak-tableta-efervescente-600-mg",
+    "https://farmaciaherrera.com.mx/products/acetilcisteina-murreolak-600-mg-2-tubos-con-10-tabletas-efervecentes",
+    "https://www.yza.mx/murreolak-600mg-20-tabs/MXYZ_7501258215954.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en fichas de tienda (Murreolak 600 mg, dos tubos de 10 tabletas efervescentes; la caja lo dice) y registro 046M2023 SSA en Vademecum. Receta 'Revisar': el registro no lleva fracción IV (sugiere venta libre) pero una tienda lo marca como 'receta retenida'; en otros productos con acetilcisteína del repositorio se usó 'No'. El nombre del sistema menciona 'Lysomucil', que es otra marca (Zambon) y se ignoró. La dosis sale de la monografía de acetilcisteína de Vademecum; sin página del fabricante.",
+    "notas_imagenes": "2 fotos de tienda (frente y tres cuartos de la caja, 908 y 979 px). Se borró una tercera foto por ser el mismo frente que la primera. No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

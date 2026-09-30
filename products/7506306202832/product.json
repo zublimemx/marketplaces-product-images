@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD AXE COLLISION SPY150ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Axe Collision en Aerosol para Hombre 150 ml",
+  "descripcion": "Descripción:\nEl Desodorante en Aerosol Axe Collision para hombre es un desodorante en spray con 48 horas de máxima protección contra el mal olor, con una fragancia sofisticada e irresistible de cuero y galletas. Es un body spray de aroma intenso para hombre y se presenta en una lata negra de aluminio de 150 ml, con detalles en naranja y la leyenda '48h fragancia máxima duración, destruye el mal olor'.\n\nBeneficios:\n- Hasta 48 horas de máxima protección contra el mal olor\n- Tecnología destructora de olor para una protección prolongada\n- Fórmula con 0 % de sales de aluminio\n- Fragancia de cuero y galletas\n- Lata de aluminio reciclable\n- Formato aerosol de 150 ml\n\nModo de uso:\nAbra el envase, gire y aplique directamente en las axilas. Evite aplicarlo sobre piel muy húmeda, irritada o dañada.\n\nPresentación:\nAerosol de 150 ml, línea Axe Collision, para hombre.",
+  "ficha": {
+    "marca": "Axe",
+    "fabricante": "Unilever",
+    "linea": "Collision",
+    "variante": "Cuero y galletas",
+    "presentacion": "Aerosol de 150 ml",
+    "contenido_neto": 150,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Cuero y galletas",
+    "genero": "Hombre",
+    "otros": "Body spray; Protección de 48 horas; 0 % sales de aluminio; Lata de aluminio reciclable"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
-  "url_oficial": "",
-  "fuentes": [],
+  "imagenes": [
+    {
+      "archivo": "7506306202832_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7506306202832-1.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-axe-aerosol-collision-96g",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1013,
+      "lado_util": 938,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506306202832_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7506306202832-2.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-axe-aerosol-collision-96g",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1022,
+      "lado_util": 947,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506306202832_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7506306202832-3.jpg",
+      "pagina": "https://www.delsol.com.mx/desodorante-axe-aerosol-collision-96g",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1022,
+      "lado_util": 947,
+      "fecha": "2026-09-29"
+    }
+  ],
+  "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-collision-150-ml.html/07506306202832",
+  "fuentes": [
+    "https://www.axe.com/mx/p/desodorante-en-aerosol-collision-150-ml.html/07506306202832",
+    "https://www.delsol.com.mx/desodorante-axe-aerosol-collision-96g"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7506306202832 confirmado en la URL del sitio oficial de Axe México y en una tienda (imágenes con el GTIN). Página oficial leída con WebFetch (curl da 403). Sin lista de ingredientes. Se ignoró 'SPY150ML' como abreviatura de spray 150 ml.",
+    "notas_imagenes": "3 fotos de tienda (Del Sol, 1000 px): lata de frente y dos vistas laterales del reverso.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

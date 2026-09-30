@@ -4,14 +4,28 @@
   "linea": "Farma",
   "nombre_sistema": "TYLEX 750MG 40TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Tylex 750 Paracetamol 750 mg 40 Tabletas",
+  "descripcion": "Descripción:\nTylex 750 es un medicamento analgésico y antipirético cuyo principio activo es el paracetamol, en tabletas de 750 mg. Está indicado en el alivio temporal del dolor leve a moderado en casos de dolor de cabeza, dolor muscular, dolor de espalda baja, dolor relacionado con artritis, dolor dental y dolor premenstrual y menstrual. Además, alivia transitoriamente la fiebre. Se presenta en caja con 40 tabletas.\n\nBeneficios:\n- Alivio temporal del dolor leve a moderado\n- Ayuda en dolor de cabeza, muscular, de espalda baja, dental, premenstrual y menstrual\n- Alivia el dolor relacionado con la artritis\n- Alivia transitoriamente la fiebre\n- Analgésico de acción central, no opiáceo y no salicílico\n\nComposición:\nCada tableta contiene paracetamol 750 mg, con excipiente cbp 1 tableta.\n\nModo de uso:\nVía oral. Tomar 1 tableta 3 o 4 veces al día. En adultos y niños mayores de 12 años, la dosis de paracetamol es de 650 a 1,000 mg cada 4 a 6 horas, sin exceder 4,000 mg al día. No lo tome por más de 10 días en caso de dolor ni por más de 3 días para controlar la fiebre, a menos que su médico lo indique. No lo combine con otros productos que contengan paracetamol.\n\nPresentación:\nCaja con 40 tabletas de 750 mg en envase de burbuja. Elaborado por Janssen-Cilag.\n\nAdvertencias:\nNo lo use si es alérgico al paracetamol o a los componentes de la fórmula, ni en caso de enfermedad del hígado, uso de anticoagulantes, trastornos de la coagulación o úlcera péptica activa. En embarazo o lactancia úselo solo si su médico lo indica. Las reacciones más frecuentes son náusea, vómito, estreñimiento, dolor abdominal y comezón. No se use por periodos prolongados. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Tylex",
+    "fabricante": "Janssen-Cilag",
+    "linea": "Tylex 750",
+    "presentacion": "Caja con 40 tabletas en envase de burbuja",
+    "contenido_neto": 40,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Paracetamol",
+    "concentracion": "750 mg",
+    "via_administracion": "Oral",
+    "edad_etapa": "Adultos y niños mayores de 12 años",
+    "registro_sanitario": "307M93 SSA IV",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: analgésico y antipirético"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194673",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +33,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007535876_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20241015_1042000.jpg",
+      "pagina": "https://www.benavides.com.mx/tylex-750-mg-paracetamol-40-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 851,
+      "lado_util": 788,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.medicamentosplm.com/Home/productos/tylex.750.tabletas/84/101/10237/210",
+    "https://www.benavides.com.mx/tylex-750-mg-paracetamol-40-tabletas"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501007535876 confirmado en la ficha de tienda (Tylex 750 mg, 40 tabletas); datos de la ficha de PLM. Receta 'Revisar': el registro sanitario que muestra PLM termina en 'SSA IV' (categoría con receta), una tienda la marca sin receta obligatoria y otra con receta.",
+    "notas_imagenes": "1 foto de tienda (Benavides, 1000 px): caja Tylex 750 de frente, con banda informativa 'Paracetamol 750 mg, 40 tabs'.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

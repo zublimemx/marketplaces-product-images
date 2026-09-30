@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD SPEED S XTRE ULT 24/7 SPY 91G SEP26",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Antitranspirante Speed Stick 24/7 Xtreme Ultra Aerosol 91 g",
+  "descripcion": "Descripción:\nEl Antitranspirante Speed Stick 24/7 Xtreme Ultra en aerosol es un desodorante antitranspirante para hombre que combate el mal olor provocado por la sudoración y ayuda a controlar la humedad en la zona de las axilas. Forma parte de la línea Xtreme de Speed Stick, con protección contra el sudor y el mal olor durante todo el día, y se presenta en una lata de aerosol de 91 g, práctica para llevar y aplicar a diario.\n\nBeneficios:\n- Neutraliza el mal olor que provoca la sudoración\n- Controla la cantidad de humedad en la zona axilar las 24 horas y los 7 días de la semana\n- Fragancia varonil que acompaña hasta por 48 horas\n- Tecnología termo-activada (control-tech): se activa y se adapta a los cambios de temperatura para no dejarte desprotegido\n- Brinda frescura duradera y cuida tu piel\n- Formato aerosol de 91 g\n\nPresentación:\nLata de aerosol con 91 g, variante Xtreme Ultra, para hombre.",
+  "ficha": {
+    "marca": "Speed Stick",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "24/7 Xtreme Ultra",
+    "variante": "Xtreme Ultra",
+    "presentacion": "Aerosol de 91 g",
+    "contenido_neto": 91,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Xtreme Ultra (fragancia varonil)",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol; Antitranspirante; Protección de hasta 48 horas; Tecnología termo-activada"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546063706_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://chedrauimx.vtexassets.com/arquivos/ids/77846370/7509546063706_00.jpg",
+      "pagina": "https://www.chedraui.com.mx/antitranspirante-speed-stick-247-xtreme-ultra-en-aerosol-91g-3515232/p",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1192,
+      "lado_util": 1104,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.chedraui.com.mx/antitranspirante-speed-stick-247-xtreme-ultra-en-aerosol-91g-3515232/p",
+    "https://www.speedstick.com/es-co/products/xtreme-tech-ultra"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7509546063706 confirmado en la ficha de tienda (foto y descripción de Antitranspirante Speed Stick 24/7 Xtreme Ultra 91 g). La página oficial de México no abrió (403); solo se consultó la de Colombia, con información escasa. Fabricante Colgate-Palmolive inferido del prefijo GS1 7509546 (el mismo de Stefano, que las tiendas listan como Colgate-Palmolive). Sin ingredientes ni modo de uso en las fuentes, por eso la descripción es breve. Se ignoró 'SEP26' del nombre.",
+    "notas_imagenes": "1 foto de tienda (Chedraui, 1200 px), lata de frente.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

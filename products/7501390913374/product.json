@@ -4,29 +4,60 @@
   "linea": "Farma",
   "nombre_sistema": "ITALDERMOL G CRA 10G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Italdermol G Crema Triticum Vulgare Gentamicina 10 g",
+  "descripcion": "Descripción:\nItaldermol G es una crema de Italmex Pharma que combina un extracto acuoso de Triticum vulgare (trigo) con gentamicina. Se presenta como cicatrizante y antiséptico, indicado en heridas y quemaduras, y por su contenido de gentamicina actúa frente a bacterias sensibles a este antibiótico.\n\nCaracterísticas:\n- Combina extracto de Triticum vulgare (trigo) y gentamicina, un antibiótico de uso tópico.\n- Propiedades antisépticas indicadas para heridas y quemaduras.\n- Crema en tubo de 10 g.\n\nComposición:\nCada gramo de crema contiene: extracto acuoso de Triticum vulgare 150 mg y sulfato de gentamicina equivalente a 1 mg de gentamicina. Excipiente cbp.\n\nModo de uso:\nUso tópico, siguiendo las indicaciones del médico sobre la zona a tratar y la duración.\n\nPresentación:\nCaja con tubo de 10 g de crema.\n\nAdvertencias:\nNo debe usarse en caso de hipersensibilidad a alguno de los componentes. Evite el contacto con los ojos. Si aparece irritación o reacción alérgica, suspenda su uso y consulte a su médico. No lo use en grandes áreas de la piel ni por periodos prolongados sin supervisión médica. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Italdermol",
+    "fabricante": "Italmex Pharma",
+    "linea": "Italdermol G",
+    "presentacion": "Caja con tubo de crema",
+    "contenido_neto": 10,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "principio_activo": "Extracto acuoso de Triticum vulgare y gentamicina",
+    "concentracion": "Por gramo: Triticum vulgare 150 mg; gentamicina 1 mg",
+    "via_administracion": "Tópica",
+    "registro_sanitario": "279M2009 SSA IV",
+    "otros": "Forma farmacéutica: crema"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457819",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "categoria_rx_sugerida": "MLM457831",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501390913374_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501390913374.jpg",
+      "pagina": "https://www.fahorro.com/italdermol-g-cicatrizante-10-g.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1419,
+      "lado_util": 1314,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/italdermol-g-cicatrizante-10-g.html",
+    "https://wecarepharma.mx/en/products/italdermol-g-crema-150mg-1mg-1g-10g-triticum-vulgare-gentamicina",
+    "https://farmaciasmedina.com/detalleProducto/Italdermol-G-10-G-Crema-Tubo/7501390913374"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El empaque muestra registro con leyenda SSA IV y contiene gentamicina, por eso se marca con receta aunque una farmacia dice que no la requiere. Una tienda reporta 180 mg de Triticum vulgare; se usó 150 mg, que es lo que muestra el empaque.",
+    "notas_imagenes": "1 foto de frente del empaque (1419 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

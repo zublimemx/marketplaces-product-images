@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "MELOX NOCHE 180ML SUSP",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Melox Noche Suspensión Antiácida 180 ml",
+  "descripcion": "Descripción:\nMelox Noche es una suspensión antiácida y antirreflujo de Sanofi, indicada como auxiliar en el alivio de los trastornos ácido-pépticos: hiperacidez, enfermedad por reflujo gastroesofágico, gastritis, úlcera gastroduodenal, hernia hiatal, úlcera péptica y esofagitis péptica. Su fórmula está pensada para las molestias de reflujo y acidez nocturna.\n\nBeneficios:\n- Doble acción: neutraliza el ácido y forma una barrera protectora.\n- El alginato de magnesio reacciona con el ácido del estómago y forma un gel que flota sobre el contenido gástrico, protegiendo la mucosa del esófago y del estómago.\n- Ayuda en gastritis, reflujo e hiperacidez.\n\nComposición:\nCada 100 ml contienen: carbonato de magnesio 3.5 g; hidróxido de aluminio/carbonato de magnesio coprecipitado gel seco 2.8 g; alginato de magnesio 5.0 g; carbonato de calcio 1.5 g. Vehículo cbp 100 ml.\n\nModo de uso:\nVía oral. Una o dos cucharadas (10 a 20 ml) de suspensión, una hora después de cada alimento y antes de acostarse.\n\nPresentación:\nFrasco con 180 ml de suspensión.\n\nAdvertencias:\nNo debe usarse en caso de insuficiencia renal severa, hipersensibilidad a los componentes, deshidratación, retención de líquidos, cálculos en vías urinarias u obstrucción intestinal. Durante el embarazo y la lactancia su uso queda a juicio del médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Melox",
+    "fabricante": "Sanofi",
+    "linea": "Melox Noche",
+    "presentacion": "Frasco con suspensión",
+    "contenido_neto": 180,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "principio_activo": "Carbonato de magnesio, hidróxido de aluminio, alginato de magnesio y carbonato de calcio",
+    "concentracion": "Por 100 ml: carbonato de magnesio 3.5 g; hidróxido de aluminio/carbonato de magnesio 2.8 g; alginato de magnesio 5.0 g; carbonato de calcio 1.5 g",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: suspensión oral"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891317048808_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/8/7891317048808.jpg",
+      "pagina": "https://www.fahorro.com/melox-noche-suspension-180-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1488,
+      "lado_util": 1378,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/melox-noche-suspension-180-ml.html",
+    "https://medicamentosplm.com/home/productos/melox-noche-suspension/2945/101/81022/194"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de frente del frasco (1488 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

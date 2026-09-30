@@ -28,15 +28,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501868900134_1.jpg",
+      "archivo": "7501868900134_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/64274/image_1920?unique=914cca9",
-      "pagina": "https://farmasuper.com.mx/en/shop/7501868900134-gasas-dibar-10x10-exhbidor-c-100-100-pza-64274",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 375
+      "fuente_url": "https://dcdn-us.mitiendanube.com/stores/003/292/109/products/gasa-10x10-png-esteril1-0b4527a66def78d35a16886628001198-1024-1024.webp",
+      "pagina": "https://tienda.biorent.com.mx/productos/gasa-esteril-10x10-dibar-caja-con-100/",
+      "ancho_original": 497,
+      "alto_original": 597,
+      "lado_final": 644,
+      "lado_util": 597,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -50,7 +50,7 @@
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en la URL de una tienda (gasas Dibar 10x10 exhibidor con 100 piezas). Datos de esterilización y sobres individuales tomados de la caja (foto); medidas y tejido 20 x 12 de 8 capas de fichas de distribuidores. Fabricante no identificado.",
-    "notas_imagenes": "1 foto de tienda (500 px, límite mínimo): caja Dibar 'Gasa simple esterilizada con óxido de etileno, 100 piezas' con un sobre al frente.",
+    "notas_imagenes": "1 foto (tienda): 7501868900134_2.jpg de tienda.biorent.com.mx (original 497x597, producto de 597 px), caja Dibar 'Contenido: 100 piezas' con un sobre. Cumple el mínimo de 500 px pero no llega a 800 px; no hallé nada mejor y limpio. Defecto menor: el archivo de origen trae una línea negra delgada en el borde izquierdo, visible en la foto (revisar o reemplazar si se prefiere). Descartada la de pmhyl.com (800 px pero con logotipo de la tienda PMHYL). Se borró la foto anterior de farmasuper (producto de 375 px, limpia; sigue en el historial de git).",
     "fecha": "2026-09-29"
   }
 }

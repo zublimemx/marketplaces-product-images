@@ -4,14 +4,24 @@
   "linea": "Farma",
   "nombre_sistema": "DOLO NEUROBION C10 TAB",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Dolo-Neurobión Diclofenaco y Vitaminas B 10 Tabletas",
+  "descripcion": "Descripción:\nDolo-Neurobión es un medicamento que combina diclofenaco con vitaminas del complejo B (B1, B6 y B12). Está indicado para el alivio del dolor y la inflamación de los músculos, las articulaciones y las fibras nerviosas del cuerpo, como los dolores provocados por golpes, torceduras y caídas, el dolor de espalda baja y de cuello, y los causados por contracturas o mala postura.\n\nBeneficios:\n- Triple acción: analgésica, antiinflamatoria y sobre las fibras nerviosas del cuerpo.\n- Por su combinación sinérgica con vitaminas del complejo B, ofrece mayor potencia analgésica y antiinflamatoria que el diclofenaco solo, según la ficha de la marca (comparado en pacientes con dolor de espalda baja).\n- Presentación en tabletas de uso oral.\n\nComposición:\nCada tableta contiene: diclofenaco sódico 50.00 mg, mononitrato de tiamina 50.00 mg, clorhidrato de piridoxina 50.00 mg, cianocobalamina 0.25 mg. Excipiente cbp 1 tableta.\n\nPresentación:\nCaja con 10 tabletas.\n\nAdvertencias:\nContiene diclofenaco: no debe usarse en caso de alergia a alguno de sus componentes o a otros antiinflamatorios no esteroideos, con úlcera o sangrado gastrointestinal, ni durante el embarazo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Dolo-Neurobión",
+    "presentacion": "Caja con 10 tabletas",
+    "contenido_neto": 10,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 10,
+    "principio_activo": "Diclofenaco sódico, tiamina, piridoxina y cianocobalamina",
+    "concentracion": "Diclofenaco 50 mg; tiamina 50 mg; piridoxina 50 mg; cianocobalamina 0.25 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Indicación: dolor articular, muscular y nervioso"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457822",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +29,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435251099_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435251099_1.jpg",
+      "pagina": "https://www.fahorro.com/dolo-neurobion-joints-10-tabs.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1280,
+      "lado_util": 1185,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/dolo-neurobion-joints-10-tabs.html",
+    "https://www.medicamentosplm.com/Home/productos/doloneurobion.forte.tabletas/137/101/67788/210"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Una farmacia indica que no requiere receta, pero contiene diclofenaco; confirmar condición de venta. Las contraindicaciones se tomaron de la información de la línea Dolo-Neurobión (PLM) y de las generales del diclofenaco. No se incluye posología porque la información abierta corresponde a la versión Forte.",
+    "notas_imagenes": "1 foto de frente del empaque de 10 tabletas (1280 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

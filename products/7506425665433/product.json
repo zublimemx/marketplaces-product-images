@@ -31,18 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425665433_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://tb-static.uber.com/prod/image-proc/processed_images/973f6f3f25c4bd9918bbd67349e332c1/b4665c191b34baf3d0e0fa45dfdd3d1d.jpeg",
+      "pagina": "https://www.ubereats.com/mx/product/b/43973a83-9aae-5e65-aee4-d7efe485359d",
+      "ancho_original": 984,
+      "alto_original": 428,
+      "lado_final": 992,
+      "lado_util": 916,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.amazon.com.mx/Huggies-Toallitas-H%C3%BAmedas-Paquetes-toallitas/dp/B0FCZBCQLP",
-    "https://www.mercadolibre.com.mx/toallitas-humedas-huggies-black-label-c56pz/p/MLM61578605"
+    "https://www.mercadolibre.com.mx/toallitas-humedas-huggies-black-label-c56pz/p/MLM61578605",
+    "https://www.ubereats.com/mx/product/b/43973a83-9aae-5e65-aee4-d7efe485359d"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "No se pudo abrir la ficha de catálogo (bloqueada) ni encontrar una ficha de tienda con este GTIN; la información sale de la ficha de la caja de 8 paquetes en Amazon y del título del catálogo. En el nombre del sistema 'C8' probablemente indica la caja de surtido; se tomó como paquete individual de 56 por el precio. El sitio oficial de Huggies México no lista esta toallita.",
-    "notas_imagenes": "Sin fotos válidas: las disponibles eran de la caja de 8 paquetes (448 piezas) o gráficos publicitarios, presentación distinta a la de este SKU. Acceso al catálogo de Mercado Libre bloqueado.",
+    "notas_imagenes": "1 foto (tienda, listado de Uber Eats 'Huggies Black label toallas húmedas infantiles, 56 un'): 7506425665433_1.jpg, paquete individual de 56 toallitas de frente, fondo blanco, sin marcas de agua ni promociones; ~984 px de ancho útil. Resuelve la duda de la sesión 6: es el paquete individual de 56 y no la caja de 8. GTIN no confirmado en la página (identificado por nombre y conteo). Catálogo de Mercado Libre bloqueado por robots/verificación; Amazon solo tiene la caja de 448.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

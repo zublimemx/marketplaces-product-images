@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501070613549_1.jpg",
+      "archivo": "7501070613549_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/169893/7501070613549_9c6ca91f-b9dc-4951-9839-09dd153efc9b.jpg",
-      "pagina": "https://www.klyns.mx/amoxil-250-mg-susp-75-ml-ped/p",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 521,
-      "fecha": "2026-09-29",
-      "lado_util": 483
+      "fuente_url": "https://i5-mx.walmartimages.com/gr/images/product-images/img_large/00750107061354L1.jpg",
+      "pagina": "",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 886,
+      "lado_util": 820,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -59,6 +59,6 @@
     "encontrado_por": "gtin",
     "notas": "Antibiótico que requiere receta. El nombre del sistema dice 250MG 5M; el GTIN corresponde a la presentación de 75 ml.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmacias Klyns, 500x500): caja Amoxil suspensión 250 mg/5 mL. Medina solo tenía 480x480 (rechazada)."
+    "notas_imagenes": "Foto nueva 7501070613549_2.jpg: caja de Amoxil suspensión 250 mg/5 mL, frasco de 75 mL con cucharita, sin rótulos; 1000x1000 originales, producto de 820 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartó la primera imagen de ese CDN porque trae la leyenda 'Requiere receta médica.' agregada por la tienda. Borrada la foto anterior (Klyns, 500x500, 483 px útiles: el original de Klyns es de 500 px y sus variantes de 1500 y 2000 px son ampliaciones, no se usaron)."
   }
 }

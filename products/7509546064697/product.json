@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "DESOD STEFANO PLAY AER SPY 113G",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Desodorante Stefano Play en Aerosol para Hombre 113 g",
+  "descripcion": "Descripción:\nEl Desodorante en Aerosol Stefano Play para caballero te ayuda a combatir el mal olor y a sentirte fresco todo el día. Su fragancia oriental ámbar aromática combina ámbar, almizcle y vainilla con notas de cardamomo y albahaca, con un carácter cálido, juvenil y muy seductor. Es un desodorante de uso diario, con el lema 'Let's Play', y se presenta en lata de aerosol de 113 g (159 ml).\n\nBeneficios:\n- Protege contra los malos olores provocados por la sudoración\n- Duración de hasta 24 horas o más\n- Fragancia oriental ámbar aromática con notas de cardamomo y albahaca\n- No deja manchas en la ropa\n- Fórmula que no irrita la piel\n- Para uso diario\n\nModo de uso:\nAgite bien el aerosol antes de usarlo y aplique a unos 15 cm de distancia de las axilas.\n\nPresentación:\nAerosol de 113 g (159 ml), línea Stefano, variante Play, para hombre.",
+  "ficha": {
+    "marca": "Stefano",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Stefano",
+    "variante": "Play",
+    "presentacion": "Aerosol de 113 g (159 ml)",
+    "contenido_neto": 113,
+    "unidad_contenido": "g",
+    "unidades_por_envase": 1,
+    "sabor_aroma": "Oriental ámbar aromática: ámbar, almizcle, vainilla, cardamomo y albahaca",
+    "genero": "Hombre",
+    "otros": "Formato: aerosol (spray); Contenido: 159 ml; Duración de hasta 24 horas o más"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167989",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546064697_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546064697-01.jpg",
+      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-stefano-play-113g-aerosol-ocean",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "lado_util": 1082,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-stefano-play-113g-aerosol-ocean",
+    "https://www.claroshop.com/producto/17422117/stefano-play-desodorante-con-113-g",
+    "https://www.klyns.mx/stefano-play-aer-113-gr/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7509546064697 confirmado en varias tiendas (113 g; una lista el mismo GTIN como 159 ml). Fragancia y atributos tomados de fichas de tienda; el modo de uso es genérico de una ficha de tienda. Se ignoró 'AER' y 'SPY' del nombre. Fabricante Colgate-Palmolive según una ficha de tienda.",
+    "notas_imagenes": "1 foto de tienda (Del Sol, 1200 px), lata de frente. Se descartaron 2 fotos de otros diseños de lata.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

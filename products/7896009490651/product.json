@@ -32,22 +32,34 @@
   },
   "imagenes": [
     {
-      "archivo": "7896009490651_1.jpg",
+      "archivo": "7896009490651_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/COREGA-ULTRA-CRA-40G-ULTRA-CRA-GLAXOSMITHKLINE-CONSUMER.-Disponible-en-Farmasmart.-Compra-en-linea-7896009490651.webp",
-      "pagina": "https://farmasmart.com/corega-ultra-cra-40g",
-      "ancho_original": 700,
-      "alto_original": 700,
-      "lado_final": 533,
-      "fecha": "2026-09-29",
-      "lado_util": 494
+      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw942d7f4f/images/large/7896009490651_1.jpg",
+      "pagina": "https://yza.mx/corega-crema-adhesiva-sin-sabor-40-g/MXYZ_7896009490651.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 994,
+      "lado_util": 922,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7896009490651_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwde527860/images/large/7896009490651_2.jpg?sw=1000&sh=1000",
+      "pagina": "https://yza.mx/corega-crema-adhesiva-sin-sabor-40-g/MXYZ_7896009490651.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 993,
+      "lado_util": 920,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://farmasmart.com/corega-ultra-cra-40g",
     "https://www.farmaciasmedina.com/detalleProducto/Corega-Ultra-Ultra-Crema-Adhesiva-Para-Protesis-Dentales-Sin-Sabor/7896009490651",
-    "https://cosmos.bluesoft.com.br/produtos/7896009490651-fixador-de-dentadura-creme-sem-sabor-ultra-corega-max-caixa-40g"
+    "https://cosmos.bluesoft.com.br/produtos/7896009490651-fixador-de-dentadura-creme-sem-sabor-ultra-corega-max-caixa-40g",
+    "https://yza.mx/corega-crema-adhesiva-sin-sabor-40-g/MXYZ_7896009490651.html"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -55,6 +67,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en fichas mexicanas (crema sin sabor, tubo de 40 g). El GTIN también aparece en fichas de Brasil y Argentina. Las fichas leídas no traen modo de uso ni advertencias; esas secciones son generales de adhesivos para prótesis y conviene compararlas con el empaque. No existe una categoría específica de adhesivos para prótesis en el CSV; se usó Cuidado Bucal > Otros.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "1 foto (tienda, Farmasmart): tubo y caja Corega Ultra sin sabor 40 g, 700 px."
+    "notas_imagenes": "2 fotos (tienda): _2.jpg de yza.mx (original 1000 px, producto de 922 px, frente del estuche, diseño actual con marca Haleon) y _3.jpg de yza.mx (1000 px, 920 px, reverso con instrucciones). Descartadas fahorro (composición con rótulo promocional) y farmaciaherrera (diseño anterior 'Fija en 3 direcciones'). Se borró la foto anterior de farmasmart (494 px, diseño anterior del estuche). El estuche actual dice Haleon como fabricante; la ficha conserva GlaxoSmithKline Consumer Healthcare."
   }
 }

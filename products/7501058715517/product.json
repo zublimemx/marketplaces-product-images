@@ -4,14 +4,29 @@
   "linea": "Farma",
   "nombre_sistema": "GRANEODIN B MTA TAB C24 PAST",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Graneodín B Benzocaína 10 mg 24 Pastillas Menta",
+  "descripcion": "Descripción:\nGraneodín B son pastillas con benzocaína y sabor menta-eucalipto que alivian el dolor y la irritación de garganta de leve a moderada. Su efecto anestésico brinda alivio temporal contra el dolor, el ardor y la irritación de garganta. Es un producto de Reckitt.\n\nCaracterísticas:\n- Principio activo: benzocaína 10 mg por pastilla.\n- Sabor menta-eucalipto.\n- No contiene azúcar; contiene sucralosa.\n- Presentación práctica en caja con 24 pastillas.\n\nModo de uso:\nAdultos y mayores de 6 años: disolver lentamente en la boca una pastilla cada 2 horas, sin exceder 8 pastillas al día.\n\nPresentación:\nCaja con 24 pastillas sabor menta-eucalipto.\n\nAdvertencias:\nSi persisten las molestias, consulte a su médico. No exceda la dosis indicada. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Graneodín",
+    "fabricante": "Reckitt",
+    "linea": "Graneodín B",
+    "variante": "Menta-eucalipto",
+    "presentacion": "Caja con 24 pastillas",
+    "contenido_neto": 24,
+    "unidad_contenido": "pastillas",
+    "unidades_por_envase": 24,
+    "principio_activo": "Benzocaína",
+    "concentracion": "10 mg por pastilla",
+    "via_administracion": "Oral (disolver en la boca)",
+    "sabor_aroma": "Menta-eucalipto",
+    "edad_etapa": "Adultos y mayores de 6 años",
+    "otros": "Sin azúcar (contiene sucralosa); Forma farmacéutica: pastillas"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM194717",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +34,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501058715517_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058715517_8.jpg",
+      "pagina": "https://www.fahorro.com/graneodin-b-sabor-menta-eucalipto-caja-24-pastillas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1726,
+      "lado_util": 1600,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/graneodin-b-sabor-menta-eucalipto-caja-24-pastillas.html",
+    "https://farmaciasmedina.com/detalleProducto/Graneodin_B_Menta_-_Eucalipto/7501058715517"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
     "notas": "",
-    "fecha": "2026-09-29"
+    "notas_imagenes": "1 foto de frente del empaque (1726 px), de una farmacia en línea; incluye un panel informativo lateral del fabricante (sin precio ni logo de tienda).",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

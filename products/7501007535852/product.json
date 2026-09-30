@@ -4,14 +4,25 @@
   "linea": "Farma",
   "nombre_sistema": "MOTILIUM 10MG C30 TAB DOMPERIDONA",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Motilium Domperidona 10 mg 30 Tabletas",
+  "descripcion": "Descripción:\nMotilium 10 mg es un medicamento cuyo principio activo es la domperidona, un antiemético y procinético gastrointestinal, indicado para el alivio de los síntomas de la indigestión como náusea, vómito, ardor, eructos, flatulencia y dolor abdominal. Se utiliza en náusea y vómito y en la dispepsia con sensación de llenura gástrica, saciedad temprana, flatulencia o dolor epigástrico, así como en trastornos funcionales del aparato digestivo. Se presenta en tabletas de 10 mg, en caja con 30 piezas.\n\nBeneficios:\n- Alivia síntomas de indigestión como náusea, vómito, ardor, eructos, flatulencia y dolor abdominal\n- Indicado en dispepsia con llenura gástrica, saciedad temprana o dolor epigástrico\n- Ayuda en los trastornos de la motilidad gástrica\n\nComposición:\nCada tableta contiene domperidona 10 mg, con excipientes.\n\nModo de uso:\nVía oral. La dosis y la duración del tratamiento las establece el médico o se indican en el empaque.\n\nPresentación:\nCaja con 30 tabletas de 10 mg. Elaborado por Janssen-Cilag.\n\nAdvertencias:\nNo lo use si es alérgico a la domperidona o a alguno de los componentes, ni en caso de hemorragia gastrointestinal, obstrucción mecánica, perforación intestinal, enfermedad hepática grave o tumor hipofisario que produce prolactina. Úselo con precaución si tiene enfermedad hepática leve o moderada, antecedentes de arritmias cardiacas o si usa medicamentos que prolongan el intervalo QT. Evite el uso prolongado. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Motilium",
+    "fabricante": "Janssen-Cilag",
+    "presentacion": "Caja con 30 tabletas",
+    "contenido_neto": 30,
+    "unidad_contenido": "tabletas",
+    "unidades_por_envase": 1,
+    "principio_activo": "Domperidona",
+    "concentracion": "10 mg",
+    "via_administracion": "Oral",
+    "otros": "Forma farmacéutica: tabletas; Grupo terapéutico: antiemético y procinético"
+  },
+  "receta_mx": "Revisar",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +30,32 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501007535852_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240614_98116.jpg",
+      "pagina": "https://www.benavides.com.mx/motilium-10-mg-30-tabletas",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 870,
+      "lado_util": 807,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.benavides.com.mx/motilium-10-mg-30-tabletas",
+    "https://wecarepharma.mx/en/products/motilium-10mg-con-30-tabletas-domperidona",
+    "https://www.chedraui.com.mx/tabletas-motilium-10mg-caja-con-30-tabletas-3035109/p"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN 7501007535852 confirmado en la ficha de tienda (Motilium 10 mg, 30 tabletas). Las indicaciones y advertencias vienen de tiendas (una en inglés) y no del registro sanitario; no se vio el registro. Receta 'Revisar': las tiendas la marcan sin receta obligatoria, pero no se confirmó la leyenda del empaque.",
+    "notas_imagenes": "1 foto de tienda (Benavides, 1000 px): caja y blíster con 30 tabletas, con banda informativa 'Indigestión 30 tabs'.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

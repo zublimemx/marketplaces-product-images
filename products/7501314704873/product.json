@@ -4,14 +4,26 @@
   "linea": "Farma",
   "nombre_sistema": "ULSEN 20 MG C 7 CAPS 1 1",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Ulsen Omeprazol 20 mg 1+1 Dos Cajas con 7 Cápsulas",
+  "descripcion": "Descripción:\nUlsen es un medicamento en cápsulas de Laboratorios Senosiain (Altia) cuyo principio activo es el omeprazol. Esta presentación 1+1 incluye dos cajas con 7 cápsulas de 20 mg cada una, es decir, 14 cápsulas en total, las necesarias para el esquema de una cápsula al día durante 14 días.\n\nBeneficios:\n- Para el tratamiento, la prevención y el alivio de agruras y de la acidez estomacal producida por el exceso al comer, fumar o beber, y por indigestión.\n- 24 horas de alivio, prevención y tratamiento de agruras, acidez y dolor de estómago por indigestión.\n\nFórmula:\nCada cápsula contiene omeprazol 20 mg y excipiente cbp 1 cápsula.\n\nModo de uso:\nVía oral. Una cápsula por la mañana durante 14 días.\n\nPresentación:\nPaquete 1+1: dos cajas con 7 cápsulas cada una (14 cápsulas).\n\nAdvertencias:\nNo se use en menores de 18 años. No se use en el embarazo ni en la lactancia. Contraindicado en caso de alergia conocida al omeprazol o a los ingredientes de la fórmula. En caso de dificultad o dolor para tragar los alimentos, vómito con sangre, sangrado o heces negras, consulte a su médico. Pueden presentarse diarrea, náuseas, dolor abdominal, cansancio, mareos o dolor de cabeza. Si está tomando medicamentos como warfarina, diazepam, digoxina o contra los hongos, consulte a su médico. Consérvese a temperatura ambiente a no más de 30 °C, en lugar seco y protegido de la luz. Si persisten las molestias consulte a su médico. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Ulsen",
+    "fabricante": "Laboratorios Senosiain",
+    "presentacion": "Paquete 1+1: dos cajas con 7 cápsulas cada una",
+    "contenido_neto": 14,
+    "unidad_contenido": "cápsulas",
+    "unidades_por_envase": 14,
+    "principio_activo": "Omeprazol",
+    "concentracion": "20 mg por cápsula",
+    "via_administracion": "Oral",
+    "registro_sanitario": "039M91 SSA VI",
+    "otros": "Formato de venta: 1+1 (2 cajas con 7 cápsulas); Forma farmacéutica: cápsulas; Línea Altia de Senosiain"
+  },
+  "receta_mx": "No",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM457821",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,53 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501314704873_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704873_3.jpg",
+      "pagina": "https://www.fahorro.com/ulsen-20-mg-oral-7-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1353,
+      "lado_util": 1253,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501314704873_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704873_1.jpg",
+      "pagina": "https://www.fahorro.com/ulsen-20-mg-oral-7-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1398,
+      "lado_util": 1295,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501314704873_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501314704873_2.jpg",
+      "pagina": "https://www.fahorro.com/ulsen-20-mg-oral-7-caps.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1377,
+      "lado_util": 1275,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/ulsen-20-mg-oral-7-caps.html",
+    "https://farmalisto.com.mx/antiacidos-malestar-estomacal/6059-comprar-ulsen-1-1-20-mg-caja-con-7-capsulas-gastritis-precio-7501314704873.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "Datos de la contraetiqueta del empaque (registro SSA VI, sin receta). El 1+1 corresponde a dos cajas de 7 cápsulas según la foto del empaque y las fichas de tienda. Categoría: Digestivos Venta Libre (más publicaciones que Digestivos).",
+    "notas_imagenes": "3 fotos de tienda (~1,350 px): frente con 1+1, contraetiqueta con fórmula y vista 3/4 con las dos cajas.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

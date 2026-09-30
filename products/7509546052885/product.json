@@ -4,14 +4,23 @@
   "linea": "Mark",
   "nombre_sistema": "KIT PORTA COLGATE 1CEP+1CD+1EST",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Colgate Kit Portátil Cepillo Dental y Crema Dental",
+  "descripcion": "Descripción:\nKit portátil Colgate para llevar la higiene bucal a todas partes. Incluye 1 cepillo dental plegable, 1 crema dental Colgate Máxima Protección Anticaries de 22 ml y 1 estuche, en un formato compacto que cabe en la bolsa, la mochila o el maletín. Está pensado para mantener los tres cepillados diarios en la oficina, el gimnasio, la escuela o de viaje.\n\nCaracterísticas:\n- Cepillo dental plegable de cerdas suaves que limpian con delicadeza cada pieza dental.\n- Crema dental Colgate Máxima Protección Anticaries de 22 ml, con el contenido necesario para una higiene dental completa fuera de casa.\n- Estuche práctico que protege el cepillo del exterior y facilita transportarlo.\n- Ayuda a combatir la caries, el mal aliento y las bacterias que se alojan en dientes, mejillas, lengua y encías.\n- Presentación de 3 piezas: cepillo, crema dental y estuche.\n\nModo de uso:\nDespliegue el cepillo, aplique la crema dental sobre las cerdas y cepille dientes, encías y lengua con movimientos suaves. Se recomienda realizar tres cepillados al día. Enjuague la boca y el cepillo, deje secar y guárdelo en el estuche.\n\nPresentación:\nKit de 3 piezas: 1 cepillo dental plegable, 1 crema dental de 22 ml y 1 estuche.\n\nAdvertencias:\nManténgase fuera del alcance de los niños. No degluta la crema dental.",
+  "ficha": {
+    "marca": "Colgate",
+    "fabricante": "Colgate-Palmolive",
+    "linea": "Kit Portátil",
+    "presentacion": "Kit con 1 cepillo dental plegable, 1 crema dental de 22 ml y 1 estuche",
+    "contenido_neto": 3,
+    "unidad_contenido": "piezas",
+    "unidades_por_envase": 3,
+    "otros": "Incluye crema dental Colgate Máxima Protección Anticaries de 22 ml; Cepillo dental plegable; Estuche para transportarlo; Formato de venta: Kit"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM167988",
+      "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +28,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546052885_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw696c0ef4/images/large/7509546052885_1.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/colgate-kit-portatil-cepillopastaest/MXYZ_7509546052885.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1046,
+      "lado_util": 969,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7509546052885_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw7e975731/images/large/7509546052885_7.jpg?sw=1000&sh=1000",
+      "pagina": "https://www.yza.mx/colgate-kit-portatil-cepillopastaest/MXYZ_7509546052885.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1027,
+      "lado_util": 950,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.yza.mx/colgate-kit-portatil-cepillopastaest/MXYZ_7509546052885.html",
+    "https://www.benavides.com.mx/colgate-kit-portatil-cepillo-dental-crema-dental-estuche-3-ud-kit"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado como SKU en una ficha de tienda (Colgate Kit Portátil cepillo + pasta + estuche) y por fotos de la misma tienda nombradas con el GTIN; otra tienda vende el mismo kit (1 cepillo, pasta de 22 ml, estuche, 3 piezas) con su propio SKU. Sin página del fabricante accesible (Colgate devolvió 403). La descripción sale de las fichas de tienda; no se anotó la fórmula de la crema dental por no estar confirmada.",
+    "notas_imagenes": "2 fotos de tienda (frente del blíster, 1046 px, y reverso con código de barras, 1027 px). Se borró una tercera foto por ser igual al frente. No hay foto del fabricante.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

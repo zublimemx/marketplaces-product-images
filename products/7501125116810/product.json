@@ -33,33 +33,35 @@
   },
   "imagenes": [
     {
-      "archivo": "7501125116810_1.jpg",
+      "archivo": "7501125116810_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 379
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501125116810_3.jpg",
+      "pagina": "https://www.fahorro.com/agrifen-oral-10-tabletas.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1541,
+      "lado_util": 1427,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7501125116810_2.jpg",
+      "archivo": "7501125116810_4.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_4.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 391
+      "fuente_url": "https://grupofarmapronto.com/wp-content/uploads/2022/11/7501125116810.jpeg",
+      "pagina": "https://grupofarmapronto.com/producto/agrifen-500mg-25mg-5mg-4mg-tabletas-c-10-2/",
+      "ancho_original": 1280,
+      "alto_original": 1280,
+      "lado_final": 833,
+      "lado_util": 772,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://wecarepharma.mx/en/products/agrifen-500mg-25mg-5mg-4mg-con-10-tabletas-paracetamol-cafeina-fenilefrina",
     "https://farmaciasmedina.com/detalleProducto/Agrifen/7501125116810",
-    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg"
+    "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501125116810_1.jpg",
+    "https://www.fahorro.com/agrifen-oral-10-tabletas.html",
+    "https://grupofarmapronto.com/producto/agrifen-500mg-25mg-5mg-4mg-tabletas-c-10-2/"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -67,6 +69,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado (Agrifen 500/25/5/4 mg, 10 tabletas, Pisa). La ficha en línea lista paracetamol, cafeína y fenilefrina y cortó el cuarto componente de 4 mg; se asumió clorfenamina por conocimiento del producto, verificar en el empaque. El precio del sistema (16.11) es muy bajo para una caja de 10, posiblemente es venta por blíster o pieza; revisar la presentación real.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501125116810_1.jpg, 7501125116810_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
+    "notas_imagenes": "2 fotos (tienda): _3.jpg de fahorro.com (original 1600 px, producto de 1427 px, frente) y _4.jpg de grupofarmapronto.com (1280 px, producto de 772 px, caja en ángulo). Se borraron las 2 fotos anteriores de farmaciasespecializadas (379 y 391 px). Revisadas en hoja de contacto: Agrifen tabletas caja con 10, sin logotipos ni precios."
   }
 }

@@ -35,16 +35,16 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://cedismed.com/producto/b-tracet-pl/",
-    "https://www.farmaciasantonio.com/b-tracet-pl-3-iny-promocion"
+    "https://www.farmaciasantonio.com/b-tracet-pl-3-iny-promocion",
+    "https://cedismed.com/producto/b-tracet-ex/"
   ],
   "investigacion": {
     "estado": "sin_verificar",
     "confianza": "baja",
     "encontrado_por": "gtin",
-    "notas": "Conflicto de identidad: tres distribuidores (Cedismed, Farmacias San Antonio y un mayorista) asocian el GTIN 1306881052251 a B-Tracet-PL de Medicam (tramadol 50 mg, ketorolaco 10 mg, tiamina 100 mg y cianocobalamina 1000 mcg por ampolleta de 2 ml, caja con 3), mientras que el nombre del sistema dice XL con ketorolaco, lidocaína, tiamina y cianocobalamina. No se encontró ninguna ficha de B-Tracet XL ni mención de una variante con lidocaína. La descripción sigue el nombre del sistema; verificar con el empaque físico antes de publicar (si fuera el PL, contiene tramadol y cambia la composición y la categoría).",
+    "notas": "Conflicto de identidad: al buscar el GTIN 1306881052251 varios distribuidores (Farmacias San Antonio, Farmaimagen, Mayoreo Farmacéutico, Cedismed) lo asocian a B-Tracet-PL de Medicam (tramadol 50 mg, ketorolaco 10 mg, tiamina 100 mg y cianocobalamina 1000 mcg por ampolleta de 2 ml, caja con 3), mientras que el nombre del sistema dice XL con ketorolaco, lidocaína, tiamina y cianocobalamina. No se encontró ninguna ficha de B-Tracet XL ni mención de una variante con lidocaína. La descripción sigue el nombre del sistema; verificar con el empaque físico antes de publicar (si fuera el PL, contiene tramadol y cambia la composición, la categoría y el tipo de receta).",
     "notas_imagenes": "Sin fotos: no se encontró foto de B-Tracet XL; las fotos de B-Tracet-PL no corresponden al nombre del sistema.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

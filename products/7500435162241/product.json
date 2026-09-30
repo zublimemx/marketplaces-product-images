@@ -4,14 +4,26 @@
   "linea": "Mark",
   "nombre_sistema": "SH H&S SVE-MAN 2 EN 1 650 ML",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Shampoo Head & Shoulders 2 en 1 Suave y Manejable 650 ml",
+  "descripcion": "Descripción:\nShampoo anticaspa 2 en 1 Head & Shoulders Suave y Manejable de 650 ml, que combina limpieza y acondicionamiento en un solo paso. Transforma el cabello seco y con frizz en un cabello hidratado, suave y manejable, con un agradable aroma floral, y ayuda a controlar la caspa.\n\nBeneficios:\n- 2 en 1: limpia el cuero cabelludo y acondiciona el cabello en un solo paso.\n- Su mezcla de ingredientes limpia e hidrata desde la raíz, para que el cabello crezca suave y sin caspa visible con uso regular.\n- Tecnología de microburbujas que limpia desde la raíz y cuida el cuero cabelludo.\n- Formulado para usarse con frecuencia, incluso diariamente.\n- Textura cremosa que forma abundante espuma y es fácil de enjuagar.\n- Aroma floral.\n\nModo de uso:\nAplique sobre el cabello mojado, masajee el cuero cabelludo, deje actuar unos instantes y enjuague. Para mejores resultados, úselo de forma frecuente.\n\nPresentación:\nFrasco con 650 ml.",
+  "ficha": {
+    "marca": "Head & Shoulders",
+    "fabricante": "Procter & Gamble",
+    "linea": "Suave y Manejable",
+    "variante": "2 en 1",
+    "presentacion": "Frasco",
+    "contenido_neto": 650,
+    "unidad_contenido": "ml",
+    "unidades_por_envase": 1,
+    "tipo_piel_cabello": "Cabello seco o con frizz; cuero cabelludo con caspa",
+    "sabor_aroma": "Floral",
+    "otros": "Tipo: shampoo anticaspa 2 en 1; Formato de venta: pieza individual"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM430117",
+      "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -19,14 +31,31 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7500435162241_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435162241_1.jpg",
+      "pagina": "https://www.fahorro.com/head-shoulders-shampoo-control-caspa-2-en-1-suave-y-manejable-650-ml.html",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1728,
+      "lado_util": 1600,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://www.fahorro.com/head-shoulders-shampoo-control-caspa-2-en-1-suave-y-manejable-650-ml.html",
+    "https://www.dax.com.mx/producto/head-&-shoulders-shampoo-2-en-1-suave-y-manejable-650ml-7500435162241.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "En el sistema aparece como SVE-MAN (Suave y Manejable). El modo de uso es el habitual de un shampoo, no una instrucción textual de la ficha.",
+    "notas_imagenes": "1 foto de frente del frasco (1728 px), de una farmacia en línea; sin marcas de agua.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

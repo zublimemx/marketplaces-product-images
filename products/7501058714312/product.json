@@ -18,7 +18,8 @@
     "concentracion": "100 mg/ml",
     "via_administracion": "Oral",
     "edad_etapa": "0 a 36 meses",
-    "otros": "Incluye gotero; Dosificación: 1 ml = 20 gotas = 100 mg de paracetamol; Formato de venta: Unidad"
+    "otros": "Incluye gotero; Dosificación: 1 ml = 20 gotas = 100 mg de paracetamol; Formato de venta: Unidad",
+    "sabor_aroma": "Uva"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -34,32 +35,34 @@
   },
   "imagenes": [
     {
-      "archivo": "7501058714312_1.jpg",
+      "archivo": "7501058714312_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501058714312_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 527,
-      "fecha": "2026-09-29",
-      "lado_util": 488
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058714312_1_2.jpg",
+      "pagina": "https://www.fahorro.com/tempra-solucion-pediatrica-gotas-paracetamol-sabor-uva-30-ml.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1157,
+      "lado_util": 1072,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7501058714312_2.jpg",
+      "archivo": "7501058714312_4.jpg",
       "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501058714312_4.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 458
+      "fuente_url": "https://farmacialapaz.com.mx/cdn/shop/files/7501058714312_2.jpg?v=1774374672",
+      "pagina": "https://farmacialapaz.com.mx/products/tempra-gotas-100-mg-1-ml-paracetamol-caj-c-1-fco-c-30-ml-y-gotero-integrado",
+      "ancho_original": 2093,
+      "alto_original": 2093,
+      "lado_final": 1266,
+      "lado_util": 1173,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://phemedica.com.mx/product/tempra-solucion-pediatrica-0-36-meses-paracetamol-100-mg-1-ml-fco-30-ml-reckitt-benckiser/",
-    "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html"
+    "https://www.farmaciasespecializadas.com/tempra-ped-100-mg-ml-1-got-c-30-ml.html",
+    "https://www.fahorro.com/tempra-solucion-pediatrica-gotas-paracetamol-sabor-uva-30-ml.html",
+    "https://farmacialapaz.com.mx/products/tempra-gotas-100-mg-1-ml-paracetamol-caj-c-1-fco-c-30-ml-y-gotero-integrado"
   ],
   "investigacion": {
     "estado": "verificado",
@@ -67,6 +70,6 @@
     "encontrado_por": "gtin",
     "notas": "GTIN y presentación de 30 ml confirmados. El 96 del nombre del sistema es un código. Una farmacia menciona sabor uva, no confirmado en otra fuente, por eso no se incluyó.",
     "fecha": "2026-09-29",
-    "notas_imagenes": "2 foto(s), origen tienda: 2 de farmaciasespecializadas.com (7501058714312_1.jpg, 7501058714312_2.jpg; 1000 px). Revisadas en hoja de contacto: producto y presentación correctos, sin logotipos de tienda ni precios."
+    "notas_imagenes": "2 fotos (tienda): _3.jpg de fahorro.com (original 1200 px, producto de 1072 px, frente) y _4.jpg de farmacialapaz.com.mx (2093 px, producto de 1173 px, cara lateral con gotero). Presentación Tempra pediátrico 100 mg/ml, 30 ml, sabor uva, mismo diseño de caja que las fotos anteriores. Descartadas wecarepharma (diseño de caja más claro, otra edición del empaque) y grupofarmapronto (recorte de etiqueta). Se borraron las 2 fotos anteriores de farmaciasespecializadas (488 y 458 px)."
   }
 }

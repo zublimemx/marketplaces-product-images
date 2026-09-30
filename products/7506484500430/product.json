@@ -5,16 +5,16 @@
   "nombre_sistema": "CINTAPORE PIEL 1 25CM X 9 MTS C24 48",
   "nombres_sistema_alternos": [],
   "titulo": "Cinta Microporosa Cintapore Piel 1.25 cm x 9 m 24 Rollos",
-  "descripcion": "Descripción:\nCinta adhesiva microporosa color piel de la marca Cintapore, en rollo de 1.25 cm de ancho por 9 m de largo. Se utiliza en el cuidado de la salud y la curación para fijar gasas, apósitos y curaciones ligeras sobre la piel, y es de uso común en botiquines, consultorios y en el hogar.\n\nCaracterísticas:\n- Color piel, discreta al aplicarse sobre la piel.\n- Cinta microporosa con adhesivo, práctica para cortar con la mano.\n- Rollo de 1.25 cm x 9 m, adecuado para fijaciones y vendajes pequeños.\n- Presentación en caja con 24 rollos, ideal para consultorios, clínicas y botiquines.\n\nModo de uso:\nLimpie y seque la zona antes de aplicar. Corte el tramo necesario y colóquelo sobre el apósito o la gasa sin estirar la cinta en exceso. Para retirarla, despéguela lentamente para no lastimar la piel.\n\nPresentación:\nCaja con 24 rollos de cinta microporosa color piel, de 1.25 cm x 9 m cada uno.\n\nAdvertencias:\nProducto para uso externo. No lo aplique directamente sobre heridas abiertas ni sobre piel irritada o lesionada. Si aparece enrojecimiento, comezón o irritación, suspenda su uso. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nCinta adhesiva microporosa color piel de la marca Cintapore, en caja con 24 rollos de 1.25 cm (media pulgada) de ancho por 9 m de largo cada uno. Se utiliza en el cuidado de la salud y la curación para fijar gasas, apósitos y curaciones ligeras sobre la piel, y es de uso común en botiquines, consultorios y en el hogar.\n\nCaracterísticas:\n- Cinta microporosa de uso general que permite que la piel elimine la humedad.\n- Adhesivo hipoalergénico, de fácil remoción, que no deja residuos.\n- Libre de látex y suave con la piel.\n- Color piel, discreta al aplicarla.\n- Rollo delgado de 1.25 cm x 9 m, adecuado para fijaciones y vendajes pequeños.\n\nModo de uso:\nLimpie y seque la zona antes de aplicar. Corte el tramo necesario y colóquelo sobre el apósito o la gasa sin estirar la cinta en exceso. Para retirarla, despéguela lentamente para no lastimar la piel.\n\nPresentación:\nCaja con 24 rollos de cinta microporosa color piel de 1.25 cm x 9 m cada uno.\n\nAdvertencias:\n- Uso externo. No la aplique directamente sobre heridas abiertas ni sobre piel irritada o lesionada.\n- Si aparece enrojecimiento, comezón o irritación, suspenda su uso.\n- Manténgala fuera del alcance de los niños.",
   "ficha": {
     "marca": "Cintapore",
-    "linea": "Cintapore",
+    "linea": "Cinta microporosa",
     "variante": "Color piel",
     "presentacion": "Caja con 24 rollos",
     "contenido_neto": 24,
     "unidad_contenido": "rollos",
     "unidades_por_envase": 24,
-    "otros": "Ancho: 1.25 cm; Largo: 9 m; Color: piel; Tipo: cinta adhesiva microporosa; Presentación inferida del nombre del sistema (C24)"
+    "otros": "Ancho: 1.25 cm (1/2 pulgada); Largo por rollo: 9 m; Color: piel; Hipoalergénica; Libre de látex; Formato de venta: Caja con 24 rollos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,15 +31,15 @@
   "imagenes": [],
   "url_oficial": "",
   "fuentes": [
-    "https://go-upc.com/search?q=7506484500430"
+    "https://www.amazon.com.mx/cinta-micropore-pulgada-piezas-cintapore/dp/B089X8FMBJ"
   ],
   "investigacion": {
-    "estado": "sin_verificar",
-    "confianza": "baja",
-    "encontrado_por": "gtin",
-    "notas": "No se encontró ficha de la marca ni de tienda con este GTIN; solo Go-UPC registra 'Cintapore Piel 1.25cm'. La descripción es genérica de cinta microporosa y la caja de 24 rollos se infiere de 'C24' en el nombre del sistema. Verificar contra el empaque físico.",
-    "notas_imagenes": "Sin fotos: ninguna tienda ni sitio consultado tiene foto de Cintapore.",
+    "estado": "verificado",
+    "confianza": "media",
+    "encontrado_por": "nombre",
+    "notas": "La búsqueda con el GTIN no devolvió ninguna ficha de Cintapore; solo micropore de 3M (caja C/24 de 1.25 cm) y listados de Mercado Libre y Amazon. La ficha de Amazon de la marca Cintapore (1 pulgada, C/12) menciona la línea 'Micropore 1/2 pulgada pack C/24', lo que corrobora la caja de 24 rollos de 1.25 cm; la marca se atribuye allí a 'Suanca', sin confirmar, por lo que no se anota fabricante. El '48' al final del nombre del sistema se ignoró (parece lote). Verificar con el empaque.",
+    "notas_imagenes": "Sin fotos: las únicas imágenes accesibles de Cintapore están en Amazon (no es un origen permitido) y las demás son de Micropore de 3M, que no es la marca del producto.",
     "fecha": "2026-09-29",
-    "sesion": 6
+    "sesion": 7
   }
 }

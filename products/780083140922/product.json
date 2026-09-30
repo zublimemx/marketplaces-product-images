@@ -34,40 +34,30 @@
   },
   "imagenes": [
     {
-      "archivo": "780083140922_2.jpg",
+      "archivo": "780083140922_3.jpg",
       "origen": "tienda",
-      "fuente_url": "https://distribuidorasanantonio.com/wp-content/uploads/2023/08/AMPIGRIN.webp",
-      "pagina": "https://distribuidorasanantonio.com/producto/ampigrin/",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 403
-    },
-    {
-      "archivo": "780083140922_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://phemedica.com.mx/wp-content/uploads/2024/05/imgi_31_ampigrin-adulto-sol-iny-collins.png",
-      "pagina": "https://phemedica.com.mx/product/ampigrin-adulto-ampicilinametamizolguaifenesinalidocainaclorfenamina-sol-iny-c-3-fco-amp-500-mg-y-3-jeringas-collins/",
-      "ancho_original": 591,
-      "alto_original": 591,
-      "lado_final": 517,
-      "fecha": "2026-09-29",
-      "lado_util": 479
+      "fuente_url": "https://regiofarma.mx/cdn/shop/files/16_780083140922_f570a407-c87f-4f5f-9b17-3825230e5c87.jpg?v=1753479851",
+      "pagina": "https://regiofarma.mx/products/ampigrin-ampicilina-500-mg-3iny",
+      "ancho_original": 900,
+      "alto_original": 900,
+      "lado_final": 754,
+      "lado_util": 699,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://www.medicamentosplm.com/Home/productos/ampigrin.solucion.inyectable/138/101/46670/162",
     "https://phemedica.com.mx/product/ampigrin-adulto-ampicilinametamizolguaifenesinalidocainaclorfenamina-sol-iny-c-3-fco-amp-500-mg-y-3-jeringas-collins/",
-    "https://distribuidorasanantonio.com/producto/ampigrin/"
+    "https://distribuidorasanantonio.com/producto/ampigrin/",
+    "https://regiofarma.mx/products/ampigrin-ampicilina-500-mg-3iny"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN de 12 dígitos (se buscó con 0 al inicio) aparece como SKU en distribuidores; presentación adulto 500 mg con 3 frascos ámpula coincide. Composición e indicación de la información para prescribir (PLM). El nombre del sistema dice ampolletas; el producto es polvo en frasco ámpula con ampolleta de diluyente. Antibiótico con receta; va en venta libre por instrucción del dueño.",
-    "notas_imagenes": "2 fotos de tienda (Distribuidora San Antonio y Phemedica), caja de frente. Se descartó una tercera por traer marca de agua.",
+    "notas_imagenes": "1 foto (tienda): _3.jpg de regiofarma.mx (original 900 px, producto de 699 px), caja Ampigrin Adulto ampicilina 500 mg (diseño anterior del empaque), sin logotipos ni precios. Cumple el mínimo de 500 px pero no llega a 800 px; el resto de fuentes da 600 px o menos. Se borraron las 2 fotos anteriores (403 px de distribuidorasanantonio y 479 px de phemedica, esta con el diseño nuevo del empaque).",
     "fecha": "2026-09-29"
   }
 }

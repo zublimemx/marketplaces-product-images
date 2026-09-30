@@ -4,14 +4,17 @@
   "linea": "Farma",
   "nombre_sistema": "ROLLO P MINI PRINTER 80X70MTS 75",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Rollo de Papel Térmico Mini Printer 80 x 70",
+  "descripcion": "Descripción:\nRollo de papel térmico para mini impresora (mini printer) de punto de venta, con medidas de 80 x 70. El papel térmico imprime por calor, por lo que no requiere tinta ni tóner. Se usa en impresoras térmicas compatibles con este formato para emitir tickets y comprobantes.\n\nPresentación:\nRollo de papel térmico 80 x 70.",
+  "ficha": {
+    "presentacion": "Rollo de papel térmico",
+    "otros": "Medidas según el nombre del sistema: 80 x 70; Tipo: papel térmico para mini impresora"
+  },
+  "receta_mx": "No aplica",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
+      "categoria_id": "MLM1684",
+      "categoria_ruta": "Computación > Impresión > Insumos de Impresión > Papeles para Impresión",
       "categoria_rx_sugerida": "",
       "catalogo_id": ""
     },
@@ -23,10 +26,12 @@
   "url_oficial": "",
   "fuentes": [],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "sin_verificar",
+    "confianza": "baja",
+    "encontrado_por": "no_encontrado",
+    "notas": "Producto no identificado: las páginas abiertas (listados de rollos térmicos genéricos de otras marcas) no muestran este GTIN (prefijo 503, posible origen distinto de México). No se sabe si 80 x 70 son mm de ancho y diámetro o mm por metros, ni qué significa el 75 del nombre; tampoco marca ni piezas por paquete. Categoría alterna equivalente: MLM416632 (Arte, Papelería y Mercería > Papeles para Impresión, más publicaciones).",
+    "notas_imagenes": "Sin fotos: no se encontró una página del producto con este GTIN; no se guardaron fotos de rollos genéricos de otras marcas para no publicar una imagen que no sea exactamente el producto.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }

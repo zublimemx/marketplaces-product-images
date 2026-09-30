@@ -11,12 +11,12 @@
     "fabricante": "BIC",
     "linea": "Soleil",
     "variante": "Color Collection",
-    "presentacion": "Paquete con 12 rastrillos desechables",
+    "presentacion": "Exhibidor (blíster) con 12 rastrillos desechables",
     "contenido_neto": 12,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 12,
     "genero": "Mujer",
-    "otros": "Hojas: 3 de acero inoxidable; Banda lubricante; Mango ergonómico; Colores surtidos; Tipo: desechable"
+    "otros": "Hojas: 3 de acero inoxidable; Banda lubricante enriquecida con leche de coco y vitamina E; Mango ergonómico; Colores surtidos; Tipo: desechable"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -30,18 +30,42 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "070330731813_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4943218/64c1d3cae220e-0f81a6b8-5664-4b7e-9ba2-28d51053d285-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16986937/rastrillo-bic-soleil-blister-exhibidor-12-piezas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1546,
+      "lado_util": 1430,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "070330731813_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://resources.claroshop.com/medios-plazavip/s2/62301/4943218/64c1d3ce7ee0a-c32760d5-72ff-4a6f-880c-08dda5297285-1600x1600.jpg",
+      "pagina": "https://www.claroshop.com/producto/16986937/rastrillo-bic-soleil-blister-exhibidor-12-piezas",
+      "ancho_original": 1600,
+      "alto_original": 1600,
+      "lado_final": 1111,
+      "lado_util": 1029,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.fahorro.com/bic-rastrillo-soleil-color-collection-4-piezas.html",
-    "https://www.chedraui.com.mx/rastrillo-bic-soleil-color-collection-3-hojas-de-acero-inoxidable-4-piezas-3320337/p"
+    "https://www.chedraui.com.mx/rastrillo-bic-soleil-color-collection-3-hojas-de-acero-inoxidable-4-piezas-3320337/p",
+    "https://www.claroshop.com/producto/16986937/rastrillo-bic-soleil-blister-exhibidor-12-piezas"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
     "notas": "Solo se encontraron fichas de la misma línea en presentaciones de 4 y 10 piezas; la presentación de 12 piezas proviene del nombre del sistema y no se confirmó el GTIN. Se ignoró 'OFERTA 20%'.",
-    "notas_imagenes": "Sin fotos: no se encontró ninguna foto de la presentación de 12 piezas (solo de 4 piezas, con otro GTIN, que se descartó). Amazon y Mercado Libre bloquean el acceso.",
+    "notas_imagenes": "2 fotos (tienda, ClaroShop 'Rastrillo Bic Soleil Blister Exhibidor 12 piezas', SKU 70330731813 = este GTIN): 070330731813_1.jpg (exhibidor con 2 tiras de 6 rastrillos, de frente, 1546 px) y 070330731813_2.jpg (blíster individual Soleil de 3 láminas, 1111 px). Descartada la 3ª foto del listado (cabezal de rastrillo con mango azul, sin empaque). Ojo: las fotos muestran empaque Soleil rosa, sin la leyenda 'Color Collection' ni colores surtidos; ClaroShop lo titula solo 'Soleil'. Se dejaron variante 'Color Collection' y 'Colores surtidos' como en el nombre del sistema; conviene confirmarlo.",
     "fecha": "2026-09-29",
     "sesion": 6
   }

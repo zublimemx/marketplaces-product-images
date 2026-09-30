@@ -34,28 +34,29 @@
   },
   "imagenes": [
     {
-      "archivo": "7501008491966_1.jpg",
+      "archivo": "7501008491966_2.jpg",
       "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/ASPIRINA.jpg?v=1682572121",
-      "pagina": "https://sanorim.mx/products/aspirina-500-mg-caja-con-40-tabletas",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 438
+      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501008491966_1.jpg",
+      "pagina": "https://www.yza.mx/aspirina-40-tabs/MXYZ_7501008491966.html",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1032,
+      "lado_util": 955,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
   "fuentes": [
     "https://sanorim.mx/products/aspirina-500-mg-caja-con-40-tabletas",
-    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/1290-comprar-aspirina-500-mg-caja-con-40-tabletas-precio-7501008491966.html"
+    "https://farmalisto.com.mx/analgesicos-antiinflamatorios/1290-comprar-aspirina-500-mg-caja-con-40-tabletas-precio-7501008491966.html",
+    "https://www.yza.mx/aspirina-40-tabs/MXYZ_7501008491966.html"
   ],
   "investigacion": {
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
     "notas": "GTIN confirmado en tiendas. Las fichas no traen dosis ni advertencias detalladas; se redactaron advertencias generales del ácido acetilsalicílico y modo de uso remitiendo al empaque. El sitio oficial de la marca bloqueó el acceso. El nombre del sistema incluye '120' (código interno, ignorado).",
-    "notas_imagenes": "1 foto de tienda (frente del empaque); otra fuente no pudo descargarse.",
+    "notas_imagenes": "1 foto nueva (tienda, YZA): frente de la caja de 40 tabletas, 1000x1000 px de origen, 955 px útiles. Se borró la vieja de Sanorim (438 px). Es el diseño actual de la caja ('Ayuda en el alivio del dolor y la fiebre'); Klyns y Sanorim muestran el diseño anterior (679 px como máximo), por eso no se usaron. Sin búsqueda web.",
     "fecha": "2026-09-29"
   }
 }

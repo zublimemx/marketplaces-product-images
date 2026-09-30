@@ -4,29 +4,80 @@
   "linea": "Farma",
   "nombre_sistema": "KARET 100 MG C 50 TABS",
   "nombres_sistema_alternos": [],
-  "titulo": "",
-  "descripcion": "",
-  "ficha": {},
-  "receta_mx": "",
+  "titulo": "Karet Levotiroxina Sódica 100 mcg 50 Comprimidos",
+  "descripcion": "Descripción:\nKaret es un medicamento en comprimidos cuyo principio activo es la levotiroxina sódica, una hormona tiroidea sintética de administración oral. Lo comercializa en México Armstrong Laboratorios de México. Esta presentación contiene 50 comprimidos de 100 µg (100 mcg).\n\nCaracterísticas:\n- La levotiroxina se utiliza como terapia de reemplazo en el hipotiroidismo, es decir, cuando la glándula tiroides no produce suficiente hormona.\n- También se emplea en el tratamiento o la prevención de ciertos tipos de bocio, según lo determine el médico.\n- Su uso y su dosis deben estar siempre bajo indicación y vigilancia médica.\n\nFórmula:\nCada comprimido contiene levotiroxina sódica 100 µg y excipiente cbp 1 comprimido.\n\nModo de uso:\nVía oral. La dosis es la que el médico señale.\n\nPresentación:\nCaja con 50 comprimidos.\n\nAdvertencias:\nSu venta requiere receta médica. Su uso durante la lactancia queda bajo responsabilidad del médico. Consérvese a no más de 25 °C, con la caja bien cerrada y protegido de la luz. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "ficha": {
+    "marca": "Karet",
+    "fabricante": "Armstrong Laboratorios de México",
+    "presentacion": "Caja con 50 comprimidos",
+    "contenido_neto": 50,
+    "unidad_contenido": "comprimidos",
+    "unidades_por_envase": 50,
+    "principio_activo": "Levotiroxina sódica",
+    "concentracion": "100 µg por comprimido",
+    "via_administracion": "Oral",
+    "registro_sanitario": "174M2006 SSA IV",
+    "otros": "Forma farmacéutica: comprimidos; Hecho en Argentina por Química Montpellier e importado por Armstrong Laboratorios de México"
+  },
+  "receta_mx": "Sí",
   "marketplaces": {
     "mercadolibre": {
-      "categoria_id": "",
-      "categoria_ruta": "",
-      "categoria_rx_sugerida": "",
+      "categoria_id": "MLM457813",
+      "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "categoria_rx_sugerida": "MLM457834",
       "catalogo_id": ""
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7501089803177_1.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089803177_1.jpg",
+      "pagina": "https://www.fahorro.com/karet-100-mg-oral.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1167,
+      "lado_util": 1081,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089803177_2.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089803177_2.jpg",
+      "pagina": "https://www.fahorro.com/karet-100-mg-oral.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "lado_util": 1082,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089803177_3.jpg",
+      "origen": "tienda",
+      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501089803177_3.jpg",
+      "pagina": "https://www.fahorro.com/karet-100-mg-oral.html",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1166,
+      "lado_util": 1080,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
-  "fuentes": [],
+  "fuentes": [
+    "https://farmalisto.com.mx/endocrinologia/3419-karet-100-mcg-caja-con-50-comprimidos-7501089803177.html",
+    "https://www.fahorro.com/karet-100-mg-oral.html"
+  ],
   "investigacion": {
-    "estado": "pendiente",
-    "confianza": "",
-    "encontrado_por": "",
-    "notas": "",
-    "fecha": "2026-09-29"
+    "estado": "verificado",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "El nombre del sistema dice 100 MG, pero el empaque y las fichas indican 100 µg (mcg). Categoría de venta libre por grupo terapéutico hormonal; la de receta va en categoria_rx_sugerida.",
+    "notas_imagenes": "3 fotos de tienda (~1,167 px): frente, vista en ángulo y lateral con fórmula y código de barras; el GTIN del empaque coincide.",
+    "fecha": "2026-09-29",
+    "sesion": 7
   }
 }
