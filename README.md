@@ -2,6 +2,8 @@
 
 Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en marketplaces: Mercado Libre (en curso), Odoo, Shopify y Amazon. Guarda por GTIN la ficha, la descripción, la ficha técnica, las categorías por marketplace y las fotos, además del layout de importación de Mercado Libre (con precios y existencias, por decisión del dueño) y un visor web para revisar la calidad de los productos. Las cifras de venta, los Excel del ERP y las credenciales no se guardan aquí.
 
+**Manual para el usuario: [`MANUAL.pdf`](MANUAL.pdf)** (visor, edición de precios, layout de Mercado Libre y cómo seguir con Claude o Codex).
+
 **Si eres un agente de IA (Codex, Claude u otro), empieza por `AGENTS.md`.** Preparación: `bash scripts/setup.sh`.
 
 ## Documentación
@@ -46,6 +48,7 @@ scripts/descartar.py             Descarta o reactiva productos del layout de Mer
 scripts/envios.py                Estima el costo de envío por producto ($75–$150 por peso y tamaño)
 scripts/ajustes_precios.py       Versiona los ajustes de precio exportados desde el visor
 scripts/meli_auth.py             Obtiene el token de la API de Mercado Libre con un código de autorización
+scripts/build_manual.py          Genera MANUAL.pdf desde docs/manual/manual.html (--capturas retoma las capturas del visor)
 scripts/solicitudes.py           Lee el Excel de pendientes que devuelve el dueño y agrupa por acción
 scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
 scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
