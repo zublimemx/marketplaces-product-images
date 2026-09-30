@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48937609"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7506425662920_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://lagranbodega.vteximg.com.br/arquivos/ids/304227-1000-1000/7506425662920.jpg?v=638882064798300000",
-      "pagina": "https://www.lagranbodega.com.mx/panal-huggies-etapa-7-ultra-confort-nino-40-piezas/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 964,
-      "fecha": "2026-09-29",
-      "lado_util": 892
+      "archivo": "7506425662920_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_911767-MLA84900160122_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM48937609",
+      "ancho_original": 947,
+      "alto_original": 490,
+      "lado_final": 930,
+      "lado_util": 862,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425662920_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_895182-MLA85200619397_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM48937609",
+      "ancho_original": 398,
+      "alto_original": 997,
+      "lado_final": 979,
+      "lado_util": 907,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

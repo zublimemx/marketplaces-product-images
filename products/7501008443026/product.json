@@ -16,7 +16,9 @@
     "unidades_por_envase": 100,
     "principio_activo": "Bicarbonato de sodio, Ácido cítrico, Ácido acetilsalicílico",
     "via_administracion": "Oral",
-    "otros": "Forma farmacéutica: tableta efervescente; Formato de venta: caja con 100 tabletas"
+    "otros": "Forma farmacéutica: tableta efervescente; Formato de venta: caja con 100 tabletas",
+    "registro_sanitario": "17518 SSA",
+    "concentracion": "Ácido acetilsalicílico 324 mg / Bicarbonato de sodio 1.976 g / Ácido cítrico 1 g (por tableta)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -24,24 +26,13 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455589"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501008443026_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501008443026_1.jpg",
-      "pagina": "https://farma-ya.com/farma-ya/product/7501008443026",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 729,
-      "fecha": "2026-09-29",
-      "lado_util": 675
-    },
     {
       "archivo": "7501008443026_2.jpg",
       "origen": "tienda",
@@ -63,6 +54,17 @@
       "lado_final": 999,
       "fecha": "2026-09-29",
       "lado_util": 925
+    },
+    {
+      "archivo": "7501008443026_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_682146-MLA86297333972_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455589",
+      "ancho_original": 413,
+      "alto_original": 1189,
+      "lado_final": 1168,
+      "lado_util": 1082,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -72,9 +74,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El nombre del sistema es un paquete promocional (exhibidor con 100 tabletas más un Alka Defense de regalo); el título y la ficha describen solo el Alka-Seltzer de 100 tabletas. Composición e indicaciones leídas de la caja; no se encontraron cantidades por tableta ni registro sanitario. El modo de uso es el estándar de una tableta efervescente.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39455589, 2026-09-29). Comparado: marca Alka-Seltzer, laboratorio Bayer de México, tabletas efervescentes, 100 tabletas, ácido acetilsalicílico + bicarbonato sódico + ácido cítrico. Todo coincide. El catálogo aporta el registro 17518 SSA, las cantidades (0.324 g / 1.976 g / 1 g; se anotan por tableta, que es la única lectura posible en una presentación de 100 tabletas) y receta no requerida. Nota: el nombre del sistema es una promoción (exhibidor con 100 tabletas más un Alka Defense de regalo); el catálogo, el título y la ficha describen solo las 100 tabletas de Alka-Seltzer.",
     "notas_imagenes": "3 fotos de tienda (729 a 999 px): frente y dos ángulos de la caja de 100 tabletas.",
     "fecha": "2026-09-29",
     "sesion": 3

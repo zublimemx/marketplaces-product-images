@@ -23,7 +23,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM76444770"
     },
     "amazon": {},
     "shopify": {},
@@ -40,6 +40,28 @@
       "lado_final": 1613,
       "fecha": "2026-09-29",
       "lado_util": 1494
+    },
+    {
+      "archivo": "7506306257603_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_933192-MLA115682549027_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM76444770",
+      "ancho_original": 398,
+      "alto_original": 975,
+      "lado_final": 957,
+      "lado_util": 887,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506306257603_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_908713-MLA115682260589_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM76444770",
+      "ancho_original": 398,
+      "alto_original": 974,
+      "lado_final": 956,
+      "lado_util": 886,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -51,7 +73,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "El GTIN solo se vio como nombre de archivo de una foto de tienda; no se abrió una ficha con el GTIN. Información tomada de la ficha del mismo producto en 200 g (Antibacterial Protection).",
+    "notas": "El GTIN solo se vio como nombre de archivo de una foto de tienda; no se abrió una ficha con el GTIN. Información tomada de la ficha del mismo producto en 200 g (Antibacterial Protection). Catálogo de Mercado Libre MLM76444770 no coincide: El catálogo MLM76444770 es inconsistente en el contenido: el título dice 200 gr pero el atributo 'peso neto' dice 250 g; los 200 g de la ficha no se pueden confirmar con este catálogo. Coinciden marca Rexona, línea Efficient, formato polvo/talco antibacterial para pies y envase tipo botella. El contenido queda sin confirmar por la contradicción interna del catálogo (200 g en el título, 250 g en el atributo).",
     "notas_imagenes": "1 foto de tienda (bote Efficient Antibacterial Protection, 1613 px).",
     "fecha": "2026-09-29",
     "sesion": 6

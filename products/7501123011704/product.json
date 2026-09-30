@@ -23,7 +23,7 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45284448"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501123011704_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw24e62750/images/large/7501123011704_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/fitoestimulina-crema-30g/MXYZ_7501123011704.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 811,
-      "fecha": "2026-09-29",
-      "lado_util": 751
+      "archivo": "7501123011704_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_945571-MLA83041243070_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45284448",
+      "ancho_original": 990,
+      "alto_original": 224,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

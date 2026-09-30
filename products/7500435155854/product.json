@@ -24,7 +24,7 @@
       "categoria_id": "MLM430117",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19701336"
     },
     "amazon": {},
     "shopify": {},
@@ -32,14 +32,14 @@
   },
   "imagenes": [
     {
-      "archivo": "7500435155854_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://walmartgt.vtexassets.com/arquivos/ids/1027136/shampoo-pantene-pro-v-bambu-nutre-crece-750-ml-7500435155854.jpg",
-      "pagina": "https://www.walmart.com.gt/pantene-sh-bambu-750ml/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 995,
-      "lado_util": 922,
+      "archivo": "7500435155854_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_768785-MLA99821653543_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19701336",
+      "ancho_original": 503,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
       "fecha": "2026-09-29"
     }
   ],

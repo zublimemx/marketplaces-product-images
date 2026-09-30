@@ -24,24 +24,13 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "MLM457830",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48931629"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501070615529_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20230731_1042065.jpg",
-      "pagina": "https://benavides.com.mx/daflon-60-tabletas.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 862,
-      "fecha": "2026-09-29",
-      "lado_util": 798
-    },
     {
       "archivo": "7501070615529_2.jpg",
       "origen": "tienda",
@@ -52,6 +41,17 @@
       "lado_final": 1324,
       "fecha": "2026-09-29",
       "lado_util": 1227
+    },
+    {
+      "archivo": "7501070615529_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_760816-MLA84036362693_042025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM48931629",
+      "ancho_original": 992,
+      "alto_original": 676,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

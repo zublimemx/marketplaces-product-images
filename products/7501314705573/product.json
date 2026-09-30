@@ -8,7 +8,7 @@
   "descripcion": "Descripción:\nLurmivi es un medicamento de patente en tabletas del laboratorio Itra que combina tinidazol, clindamicina y fluconazol, en concentración de 500 mg, 312.5 mg y 37.5 mg por tableta. Reúne en un mismo producto principios activos con acción antiprotozoaria, antibiótica y antifúngica, y se comercializa en el área de ginecología. Se presenta en caja con 4 tabletas. Su venta requiere receta médica, y el médico determina si está indicado y en qué dosis.\n\nComposición:\nCada tableta contiene tinidazol 500 mg, clindamicina 312.5 mg y fluconazol 37.5 mg, y excipientes.\n\nModo de uso:\nVía oral. La dosis, la frecuencia y la duración del tratamiento son las que indique el médico.\n\nPresentación:\nCaja con 4 tabletas.\n\nAdvertencias:\nSu venta requiere receta médica y debe surtirse en mostrador autorizado. Contiene un antibiótico, por lo que su uso incorrecto puede causar resistencia bacteriana. No lo use si es alérgico a alguno de los componentes de la fórmula. Consulte a su médico sobre su uso durante el embarazo y la lactancia. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Lurmivi",
-    "fabricante": "Itra",
+    "fabricante": "Laboratorios Senosiain",
     "presentacion": "tabletas",
     "contenido_neto": 4,
     "unidad_contenido": "tabletas",
@@ -17,7 +17,8 @@
     "concentracion": "500 mg / 312.5 mg / 37.5 mg",
     "via_administracion": "Oral",
     "genero": "Mujer",
-    "otros": "Medicamento de patente; Forma farmacéutica: tableta; Formato de venta: unidad"
+    "otros": "Medicamento de patente; Forma farmacéutica: tableta; Formato de venta: unidad; Receta requerida (simple); Fracción IV; Antibiótico: Sí",
+    "registro_sanitario": "304M2016 SSA"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -25,13 +26,24 @@
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
       "categoria_rx_sugerida": "MLM457827",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473294"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501314705573_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_920203-MLU78656508715_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473294",
+      "ancho_original": 993,
+      "alto_original": 547,
+      "lado_final": 974,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501314705573_2.jpg",
       "origen": "tienda",
@@ -52,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado en varias tiendas y la caja dice tinidazol/clindamicina/fluconazol 500 mg 312.5 mg 37.5 mg, caja con 4 tabletas (Itra). Una ficha de tienda asigna a Lurmivi loratadina, paracetamol y pseudoefedrina, lo cual contradice la caja y se ignoró. No se encontró una ficha con indicaciones ni modo de uso; la indicación específica (probablemente infecciones ginecológicas) queda por confirmar. Categoría: antiinfeccioso; alternativa: Uroginecológicos (MLM457818).",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39473294, 2026-09-29). Comparado: marca Lurmivi, tabletas (comprimido), 4 por caja, tinidazol 500 mg + clindamicina 312.5 mg + fluconazol 37.5 mg. Todo coincide; el catálogo confirma la composición del empaque y descarta la ficha errónea de otra tienda. Aporta registro 304M2016 SSA, receta requerida (simple), fracción IV y que es antibiótico. Discrepancia menor: el catálogo indica laboratorio Senosiain y la ficha decía 'Itra' (según la caja); se propone Laboratorios Senosiain, verificar en el empaque. 'otros' se entrega completo.",
     "notas_imagenes": "1 foto de frente de la caja (tienda, 654 px). Se descartó una versión con el empaque muy pequeño dentro del cuadro.",
     "fecha": "2026-09-29",
     "sesion": 3

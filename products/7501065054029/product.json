@@ -24,7 +24,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170389"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501065054029_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw0727bf71/images/large/7501065054029_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/tums-extra-surtido-48-tabs/MXYZ_7501065054029.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 980,
-      "fecha": "2026-09-29",
-      "lado_util": 908
+      "archivo": "7501065054029_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_945952-MLU78661595328_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170389",
+      "ancho_original": 695,
+      "alto_original": 1198,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

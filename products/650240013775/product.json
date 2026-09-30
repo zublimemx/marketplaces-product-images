@@ -16,7 +16,8 @@
     "principio_activo": "Bifonazol",
     "concentracion": "1 g por 100 g",
     "via_administracion": "Cutánea",
-    "otros": "Formato de venta: Paquete de 2 cajas con tubo de 20 g cada una; Antimicótico para uñas"
+    "otros": "Formato de venta: Paquete de 2 cajas con tubo de 20 g cada una; Antimicótico para uñas",
+    "registro_sanitario": "010M2009 SSA"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -24,7 +25,7 @@
       "categoria_id": "MLM194690",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455709"
     },
     "amazon": {},
     "shopify": {},
@@ -61,9 +62,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El GTIN 650240013775 (12 dígitos) aparece en el sitio de Genomma Lab como 'Unesia 2 Pack'; el empaque lateral dice '2 cajas con tubo de 20 g c/u'. La concentración de bifonazol viene de una farmacia y del empaque (1 g/100 g). No se confirmó si requiere receta; se asumió que no (antimicótico tópico).",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39455709, 2026-09-29). Comparado: marca Unesia, Genomma Laboratories México, bifonazol 1 g, ungüento, 2 tubos de 20 g (40 g en total). Todo coincide. El catálogo aporta el registro 010M2009 SSA y confirma que no requiere receta (antes asumido). El catálogo no indica la base de la concentración; se conserva '1 g por 100 g' de la ficha (tomada del empaque).",
     "notas_imagenes": "2 fotos del sitio del fabricante (Genomma Lab): frente del paquete y costado con el código de barras. El frente muestra las leyendas impresas 'Precio especial' y 'Nuevo', que forman parte del empaque; no se encontró otra foto del paquete de 2.",
     "fecha": "2026-09-29",
     "sesion": 3

@@ -24,7 +24,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18980611"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501035911017_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035911017_5.jpg",
-      "pagina": "https://www.fahorro.com/crema-dental-colgate-mfp-150-ml.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1556,
-      "fecha": "2026-09-29",
-      "lado_util": 1441
+      "archivo": "7501035911017_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_908666-MLA95647163192_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18980611",
+      "ancho_original": 1189,
+      "alto_original": 568,
+      "lado_final": 1167,
+      "lado_util": 1081,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035911017_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_832375-MLA95647331024_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18980611",
+      "ancho_original": 1200,
+      "alto_original": 313,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -24,7 +24,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40655856"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501070903473_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwd35717ea/images/large/7501070903473_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/ciprolisina-solucion-220ml/MXYZ_7501070903473.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 775,
-      "fecha": "2026-09-29",
-      "lado_util": 718
+      "archivo": "7501070903473_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_956616-MLA86297430084_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40655856",
+      "ancho_original": 531,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501070903473_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_846836-MLA86297380946_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40655856",
+      "ancho_original": 544,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

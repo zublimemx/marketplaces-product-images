@@ -5,14 +5,14 @@
   "nombre_sistema": "GASA SIMPLE GALIA EST 10X10 C/10",
   "nombres_sistema_alternos": [],
   "titulo": "Gasa Simple Estéril Galia 10 x 10 cm 10 Sobres",
-  "descripcion": "Descripción:\nGasa simple esterilizada Galia de 10 x 10 cm, absorbente y libre de impurezas, elaborada 100% con algodón. Es un material de curación. Se presenta en un paquete de 10 sobres; según indica el empaque de la marca, el contenido es de 10 sobres y las gasas vienen esterilizadas, de modo que puede usar una pieza a la vez.\n\nCaracterísticas:\n- Gasa absorbente estéril\n- 100% algodón\n- Libre de impurezas\n- Medida de 10 x 10 cm\n- Paquete con 10 sobres (10 piezas)\n\nPresentación:\nPaquete con 10 sobres de gasa simple esterilizada de 10 x 10 cm.\n\nAdvertencias:\nLea las instrucciones del empaque.",
+  "descripcion": "Descripción:\nGasa simple estéril Galia de 10 x 10 cm, un material de curación elaborado con algodón 100 % puro, de tipo hidrófilo. Se utiliza para limpiar, proteger y cubrir heridas superficiales y, por su alta capacidad de absorción, resulta útil en botiquines familiares y en consultorios. Cada pieza es de un solo uso y viene esterilizada, lista para emplearse.\n\nBeneficios:\n- Algodón 100 % puro, con alta absorción de líquidos\n- Estéril, para un uso más seguro sobre heridas\n- Flexible, se adapta a distintas zonas del cuerpo\n- Libre de impurezas\n- Tamaño de 10 x 10 cm para diversos usos\n- No es autoadhesiva\n\nModo de uso:\nAbra el sobre justo antes de usarla y utilice una pieza a la vez para conservar la esterilidad de las demás.\n\nPresentación:\nPaquete con 10 sobres de gasa simple esterilizada de 10 x 10 cm (10 piezas en total).\n\nAdvertencias:\n- Producto de un solo uso: no lo reutilice.\n- No lo utilice si el empaque está dañado.\n- Almacene en un lugar seco y fresco.\n- Lea las instrucciones del empaque.",
   "ficha": {
     "marca": "Galia",
     "presentacion": "Paquete con 10 sobres",
     "contenido_neto": 10,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 10,
-    "otros": "Medida: 10 x 10 cm; 100% algodón; estéril; libre de impurezas"
+    "otros": "Medida: 10 x 10 cm; 100% algodón; Tipo: hidrófila; Estéril; De un solo uso; No autoadhesiva; Color: blanco; Libre de impurezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -20,7 +20,7 @@
       "categoria_id": "MLM191087",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM52067871"
     },
     "amazon": {},
     "shopify": {},
@@ -48,7 +48,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "No se encontró sitio del fabricante. La descripción es breve por la poca información disponible.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM52067871, 2026-09-29). Catálogo ML MLM52067871 (origen gtin): Galia gasa simple 10x10 cm, 10 piezas esterilizadas, algodón; coincide en marca, medida y cantidad (el catálogo dice 'bolsa con 10 piezas' y el título 'sobres': se tomó como la misma presentación de 10 unidades). Fuentes: catálogo (hidrófila, algodón puro, estéril, flexible, no autoadhesiva, advertencias de un solo uso, empaque dañado y almacenamiento) y descripción actual (10 sobres, libre de impurezas, una pieza a la vez). No se encontró sitio del fabricante.",
     "notas_imagenes": "1 foto de frente al paquete (tienda, 1392 px). Otra foto disponible era menor a 500 px y se rechazó.",
     "fecha": "2026-09-29",
     "sesion": 5

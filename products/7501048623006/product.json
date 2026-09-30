@@ -22,7 +22,7 @@
       "categoria_id": "MLM179203",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Limpieza Facial > Desmaquillantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22479517"
     },
     "amazon": {},
     "shopify": {},
@@ -39,6 +39,28 @@
       "lado_final": 1483,
       "fecha": "2026-09-29",
       "lado_util": 1374
+    },
+    {
+      "archivo": "7501048623006_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_969885-MLM52642939611_112022-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22479517",
+      "ancho_original": 626,
+      "alto_original": 1200,
+      "lado_final": 1172,
+      "lado_util": 1086,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501048623006_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_828308-MLA82347362412_022025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22479517",
+      "ancho_original": 416,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

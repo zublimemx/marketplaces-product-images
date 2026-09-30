@@ -26,13 +26,24 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379832"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7506425605880_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_706756-MLA109276871370_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379832",
+      "ancho_original": 799,
+      "alto_original": 914,
+      "lado_final": 899,
+      "lado_util": 833,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7506425605880_1.jpg",
       "origen": "tienda",
@@ -54,6 +65,28 @@
       "lado_final": 586,
       "fecha": "2026-09-29",
       "lado_util": 543
+    },
+    {
+      "archivo": "7506425605880_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_934028-MLA109277547236_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379832",
+      "ancho_original": 661,
+      "alto_original": 920,
+      "lado_final": 905,
+      "lado_util": 838,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425605880_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_870549-MLA109277487598_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379832",
+      "ancho_original": 661,
+      "alto_original": 919,
+      "lado_final": 906,
+      "lado_util": 839,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

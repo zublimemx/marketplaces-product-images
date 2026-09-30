@@ -24,7 +24,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19541765"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546007083_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7509546007083.png?v=1726161816&width=1920",
-      "pagina": "https://farmaciaherrera.com.mx/products/crema-dental-colgate-total-12-clean-mint-50-ml",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 461
+      "archivo": "7509546007083_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_941136-MLU74966189653_032024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19541765",
+      "ancho_original": 1198,
+      "alto_original": 297,
+      "lado_final": 1176,
+      "lado_util": 1089,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

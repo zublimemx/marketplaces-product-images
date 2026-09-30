@@ -28,7 +28,7 @@
       "categoria_id": "MLM457814",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455777"
     },
     "amazon": {},
     "shopify": {},
@@ -36,15 +36,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7590002037157_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7590002037157_1.jpg",
-      "pagina": "https://www.fahorro.com/vick-44-jarabe-expectorante-miel-120-ml.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1466,
-      "fecha": "2026-09-29",
-      "lado_util": 1356
+      "archivo": "7590002037157_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_867827-MLA86960928684_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455777",
+      "ancho_original": 420,
+      "alto_original": 1088,
+      "lado_final": 1065,
+      "lado_util": 986,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

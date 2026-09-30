@@ -34,14 +34,14 @@
   },
   "imagenes": [
     {
-      "archivo": "7501008496725_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/files/7501008496725_1.jpg?v=1787153156&width=1080",
-      "pagina": "https://farmaciasanjorge.com/products/3000",
-      "ancho_original": 1080,
-      "alto_original": 1080,
-      "lado_final": 1067,
-      "lado_util": 988,
+      "archivo": "7501008496725_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_873294-MLA87285676769_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455514",
+      "ancho_original": 517,
+      "alto_original": 1107,
+      "lado_final": 1087,
+      "lado_util": 1007,
       "fecha": "2026-09-29"
     }
   ],

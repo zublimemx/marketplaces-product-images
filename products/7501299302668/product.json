@@ -19,7 +19,8 @@
     "concentracion": "20 mg por cápsula",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Forma farmacéutica: cápsula; Inhibidor de la bomba de protones; Liomont lo lista entre sus productos de libre venta"
+    "otros": "Forma farmacéutica: cápsula; Inhibidor de la bomba de protones; Liomont lo lista entre sus productos de libre venta; Sin receta (según catálogo ML)",
+    "registro_sanitario": "277M91 SSA"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -34,6 +35,17 @@
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501299302668_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_929560-MLU78636656257_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455603",
+      "ancho_original": 990,
+      "alto_original": 560,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501299302668_1.jpg",
       "origen": "tienda",
@@ -56,7 +68,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "Presentación ambigua: las tiendas que traen este GTIN (Medina, Farmalisto, Farmapronto) dicen caja con 14 cápsulas, igual que el nombre del sistema; otras fichas 'Dual' y la foto guardada hablan de 28 cápsulas (14+14). Verificar en el empaque físico.",
+    "notas": "Presentación ambigua: las tiendas que traen este GTIN (Medina, Farmalisto, Farmapronto) dicen caja con 14 cápsulas, igual que el nombre del sistema; otras fichas 'Dual' y la foto guardada hablan de 28 cápsulas (14+14). Verificar en el empaque físico. Catálogo de Mercado Libre MLM39455603 no coincide: El catálogo MLM39455603 indica 28 cápsulas (unidades por envase: 28), no 14 como la ficha y el nombre del sistema; tampoco menciona la variante 'Dual'. Coinciden marca, omeprazol 20 mg, cápsula y laboratorio Liomont; el catálogo confirma venta sin receta y aporta el registro. Se conservó 14 cápsulas en la ficha porque tres tiendas con este GTIN dicen 14; la discrepancia 14 vs 28 (28 coincide con la presentación Dual de 14 + 14) sigue sin resolver y requiere revisar el empaque físico.",
     "notas_imagenes": "1 foto de tienda (Benavides), 1000 px; la caja se lee como 'Dual' con 28 cápsulas, por eso se anotó la duda de presentación. La imagen de Medina se rechazó por chica (240x300).",
     "fecha": "2026-09-29",
     "sesion": 6

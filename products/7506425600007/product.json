@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 1",
     "talla": "Recién Nacido",
     "genero": "Unisex",
-    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete; Peso del bebé: 3 a 5.5 kg; Protección de hasta 12 h; Con barreras reforzadas anti-derrames: Sí; Con gel superabsorbente: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí; Sin fragancia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM58752506"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Este GTIN (7506425600007) no sigue la serie 750642560434x de los otros UltraConfort del lote, así que la línea (UltraConfort vs. otra de Huggies) y las 44 piezas quedan por confirmar en el empaque. HU CONF UNI RN/E1 se interpretó como Huggies UltraConfort Unisex Recién Nacido Etapa 1. La página oficial lista la etapa RN/1 pero no pesos ni piezas.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM58752506, 2026-09-29). Comparado: marca Huggies, línea UltraConfort (catálogo: 'UltraConfort Etapa RN1'), Recién nacido, 44 piezas, sin género, peso 3 a 5.5 kg. Todo coincide y resuelve las dudas del GTIN fuera de serie: la línea es UltraConfort y las piezas son 44. Discrepancia menor, no de identidad: el catálogo dice 'Con indicador de humedad: No' y la ficha dice 'Sí'; se dejó la ficha sin cambio, verificar en el empaque. El catálogo aporta el peso. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro, 1600 px): frente y 3/4 del empaque nuevo Ultra Confort Recién Nacido RN-1 44 pzas. Se descartó el diseño anterior (40 pzas)."
   }

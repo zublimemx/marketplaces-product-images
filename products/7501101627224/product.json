@@ -27,13 +27,24 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45287902"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501101627224_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_676561-MLA112808312469_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45287902",
+      "ancho_original": 1200,
+      "alto_original": 1028,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501101627224_1.jpg",
       "origen": "tienda",
@@ -66,6 +77,17 @@
       "lado_final": 1080,
       "fecha": "2026-09-29",
       "lado_util": 456
+    },
+    {
+      "archivo": "7501101627224_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_695747-MLA112808312487_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45287902",
+      "ancho_original": 1200,
+      "alto_original": 1031,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

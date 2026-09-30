@@ -26,7 +26,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "MLM457826",
-      "catalogo_id": ""
+      "catalogo_id": "MLM29010145"
     },
     "amazon": {},
     "shopify": {},
@@ -55,7 +55,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "El GTIN (código interno de 13 dígitos) aparece como SKU en varias farmacias y la caja de 20 tabletas coincide. La concentración 0.5 mg/10 mg sale solo del título de un marketplace y no hay ficha oficial ni información para prescribir; validar contra el empaque. Las advertencias son las generales de ketorolaco y corticoesteroides.",
+    "notas": "El GTIN (código interno de 13 dígitos) aparece como SKU en varias farmacias y la caja de 20 tabletas coincide. La concentración 0.5 mg/10 mg sale solo del título de un marketplace y no hay ficha oficial ni información para prescribir; validar contra el empaque. Las advertencias son las generales de ketorolaco y corticoesteroides. Catálogo de Mercado Libre MLM29010145 no coincide: El catálogo ML describe 'Scarpett K' como suplemento nutricional/vitamina (marca DMC, sin sabor, comprimido, 'peso de porción 100 g', libre de gluten, desde 18 años, sin betametasona ni ketorolaco). La ficha es un medicamento con receta de betametasona 0.5 mg + ketorolaco 10 mg (fabricante Medicam). Solo coinciden el nombre 'Scarpett K' y las 20 tabletas por caja. La naturaleza del producto (suplemento vs medicamento con receta), la marca (DMC vs Medicam) y la composición no coinciden. No se toma ningún dato del catálogo, que no sirve para confirmar ni descartar la concentración 0.5 mg/10 mg.",
     "notas_imagenes": "1 foto de tienda (Farmacia Herrera): frente de la caja con 20 tabletas.",
     "fecha": "2026-09-29"
   }

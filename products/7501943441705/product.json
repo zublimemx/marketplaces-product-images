@@ -5,7 +5,7 @@
   "nombre_sistema": "HU SUP UNISEX E2 C38 C/6",
   "nombres_sistema_alternos": [],
   "titulo": "Pañales Huggies Supreme Unisex Etapa 2 38 Piezas",
-  "descripcion": "Descripción:\nPañales desechables Huggies Supreme Unisex, Etapa 2, en presentación de 38 piezas. La línea Supreme de Huggies está enfocada en ofrecer suavidad superior y cuidado superior para la delicada piel del bebé, según el fabricante.\n\nCaracterísticas:\n- Línea Supreme de Huggies, con protección superior para la delicada piel del bebé.\n- Versión unisex, para niño o niña.\n- Etapa 2 (talla Chico).\n\nPresentación:\nPaquete con 38 pañales desechables.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Mantenga el producto fuera del alcance de los niños. Deseche el pañal usado en la basura, no en el drenaje.",
+  "descripcion": "Descripción:\nPañales desechables Huggies Supreme Etapa 2, versión unisex, para bebés de 5 a 7.5 kg. Están elaborados con materiales Delicate Care y adicionados con ingredientes como aloe vera, manzanilla, vitamina E y avena, pensados para cuidar la piel delicada del bebé y ayudar a evitar irritaciones. Incorporan tecnología de comodidad en movimiento para que el pequeño juegue y se desplace sin sentirse limitado.\n\nBeneficios:\n- Gel superabsorbente y absorción focalizada que ayudan a retener la humedad y a prevenir fugas\n- Barreras reforzadas anti-derrames y una bolsa interna que contiene el líquido, mejora el ajuste y ayuda a evitar escurrimientos por la parte trasera\n- Cubierta ultrarespirable y canales de aire que ayudan a mantener la piel fresca\n- Cubierta suave, cintura elastizada y cintas elastizadas para un ajuste cómodo\n- Indicador de humedad que avisa cuándo es momento de cambiar el pañal\n- Protección de hasta 12 horas\n- Hipoalergénico, libre de parabenos y libre de látex, con fragancia\n\nPresentación:\nPaquete con 38 pañales desechables, talla P (Chico), unisex.\n\nAdvertencias:\n- Consulte la guía de peso del empaque para elegir la etapa adecuada para su bebé.\n- Cambie el pañal con frecuencia y mantenga la piel del bebé limpia y seca.\n- Deseche el pañal usado en la basura, no en el drenaje. Mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
@@ -16,9 +16,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 38,
     "edad_etapa": "Etapa 2",
-    "talla": "Chico",
+    "talla": "Chico (P)",
     "genero": "Unisex",
-    "otros": "Tipo de pañal: Desechable"
+    "otros": "Tipo de pañal: Desechable; Rango de peso: 5 a 7.5 kg; Con gel superabsorbente; Con indicador de humedad; Cintura y cintas elastizadas; Hipoalergénico; Libre de parabenos; Libre de látex; Protección de hasta 12 horas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379811"
     },
     "amazon": {},
     "shopify": {},
@@ -54,7 +54,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre y por la línea Supreme de la página oficial (pañales de RN a Etapa 7); la descripción es breve porque el sitio oficial no detalla características. El C/6 del nombre no se pudo interpretar; el precio sugiere un paquete de 38 piezas.",
+    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre y por la línea Supreme de la página oficial (pañales de RN a Etapa 7); la descripción es breve porque el sitio oficial no detalla características. El C/6 del nombre no se pudo interpretar; el precio sugiere un paquete de 38 piezas. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. Fuentes: catálogo ML MLM17379811 (origen gtin: peso 5 a 7.5 kg, características, atributos, texto del fabricante reescrito), texto de otro vendedor (solo como dato) y descripción actual. No se confirma: el nombre del catálogo dice 40 piezas, pero su atributo 'Unidades por envase' y un texto de otro vendedor dicen 38; el título y el sistema (C38) dicen 38. Si el empaque trae 38, puede marcarse confirmado. Se ignoró 'Vida útil: 1 días' del catálogo (dato absurdo). Ficha: talla 'Chico (P)' y 'otros' ampliado con datos del catálogo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): 3/4 del empaque Huggies Supreme Etapa 2 unisex con 38 pañales (diseño rojo Pure & Natural). Se descartó el empaque beige nuevo porque trae 40 pzas; las demás fotos eran infografías."
   }

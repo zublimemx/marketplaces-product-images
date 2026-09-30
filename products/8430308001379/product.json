@@ -26,7 +26,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170627"
     },
     "amazon": {},
     "shopify": {},
@@ -34,14 +34,25 @@
   },
   "imagenes": [
     {
-      "archivo": "8430308001379_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/8430308001379_1.jpg",
-      "pagina": "https://www.yza.mx/dimoflax-45-caps/MXYZ_8430308001379.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 797,
-      "lado_util": 738,
+      "archivo": "8430308001379_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_757960-MLA88129492209_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170627",
+      "ancho_original": 1023,
+      "alto_original": 575,
+      "lado_final": 1005,
+      "lado_util": 931,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "8430308001379_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_839978-MLA88129605733_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170627",
+      "ancho_original": 993,
+      "alto_original": 606,
+      "lado_final": 974,
+      "lado_util": 902,
       "fecha": "2026-09-29"
     }
   ],

@@ -28,7 +28,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "MLM457826",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473482"
     },
     "amazon": {},
     "shopify": {},
@@ -36,15 +36,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7503027446279_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasmedina.com/assets/images/articulosNuevoNombre/7503027446279_Gelubrin_Ibuprofeno_600mg.webp",
-      "pagina": "https://farmaciasmedina.com/detalleProducto/Gelubrin-600-Mg-Caps-C-10/7503027446279",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 636,
-      "fecha": "2026-09-29",
-      "lado_util": 589
+      "archivo": "7503027446279_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_730399-MLU78656538491_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473482",
+      "ancho_original": 974,
+      "alto_original": 672,
+      "lado_final": 956,
+      "lado_util": 886,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

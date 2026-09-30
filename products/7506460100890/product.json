@@ -33,7 +33,19 @@
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506460100890_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_976065-MLA87271810545_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455605",
+      "ancho_original": 1110,
+      "alto_original": 596,
+      "lado_final": 1091,
+      "lado_util": 1011,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.benavides.com.mx/graneodin-f-miel-limon-24-pastillas",

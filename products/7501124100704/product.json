@@ -26,24 +26,13 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172132"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501124100704_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://cdn.gdar.com.mx/archivos/Carnotprim-10-Mg-7501124100704-638573423838622640-1.jpg",
-      "pagina": "https://pacientes.sfe.com.mx/eCommerce/item/3914/carnotprim-10-mg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 600
-    },
     {
       "archivo": "7501124100704_2.jpg",
       "origen": "tienda",
@@ -54,6 +43,17 @@
       "lado_final": 1618,
       "fecha": "2026-09-29",
       "lado_util": 1499
+    },
+    {
+      "archivo": "7501124100704_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_759836-MLU78896535165_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172132",
+      "ancho_original": 991,
+      "alto_original": 509,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://pacientes.sfe.com.mx/eCommerce/item/3914/carnotprim-10-mg",

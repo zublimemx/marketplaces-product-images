@@ -26,7 +26,7 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45284102"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501390911042_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwce14849e/images/large/7501390911042_1.jpg",
-      "pagina": "https://www.yza.mx/italdermol-crema-12g-3-gasas/MXYZ_7501390911042.html",
-      "ancho_original": 1000,
-      "alto_original": 667,
-      "lado_final": 644,
-      "fecha": "2026-09-29",
-      "lado_util": 597
+      "archivo": "7501390911042_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_981950-MLA81500335114_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45284102",
+      "ancho_original": 817,
+      "alto_original": 992,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501390911042_2.jpg",

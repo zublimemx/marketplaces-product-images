@@ -12,7 +12,7 @@
     "contenido_neto": 6,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 6,
-    "otros": "Tipo de pila: alcalina AA; Voltaje: 1.5 V; Modelo de referencia: MN1500B1"
+    "otros": "Tipo de pila: alcalina AA; Voltaje: 1.5 V; Modelo de referencia: MN1500B1; No recargable; Composición: Zn-MnO2; Presentación: tira desprendible de 6 pilas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -20,7 +20,7 @@
       "categoria_id": "MLM7552",
       "categoria_ruta": "Electrónica, Audio y Video > Pilas y Cargadores > Pilas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM36457563"
     },
     "amazon": {},
     "shopify": {},
@@ -28,15 +28,15 @@
   },
   "imagenes": [
     {
-      "archivo": "20041333666420_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://urrea.com/media/catalog/product/M/N/MN1500B1_20260904182454.jpg",
-      "pagina": "https://urrea.com/tira-de-pilas-alcalinas-duracellr-aa-6-piezas-mn1500b1",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1071,
-      "fecha": "2026-09-29",
-      "lado_util": 992
+      "archivo": "20041333666420_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_933068-MLA99851290709_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM36457563",
+      "ancho_original": 333,
+      "alto_original": 1178,
+      "lado_final": 1157,
+      "lado_util": 1072,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -46,9 +46,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN del sistema (20041333666420) es un GTIN-14 de caja; su UPC base 041333666426 aparece en un listado de 'Duracell Pila Alcalina AA 6 piezas' (tira), pero el GTIN-14 no se vio publicado. Otras tiendas venden el blíster de 6 (UPC 041333900483), presentación distinta que no se usó. Las advertencias son las estándar de pilas alcalinas.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM36457563, 2026-09-29). Catálogo MLM36457563 (Tira Pila Duracell AA 6 pz, alcalina, no recargable, código MN1500B1). Coinciden marca, tamaño AA, tipo alcalina, 6 piezas en tira y modelo MN1500B1. Se descartan el 1.2 V y los 2500 mAh del catálogo por no ser coherentes con una pila alcalina; se conserva 1.5 V de la ficha. El GTIN del sistema es un GTIN-14; el catálogo describe la tira de 6 y no informa cuántas tiras trae la caja.",
     "notas_imagenes": "1 foto de tienda (Urrea, 1000 px): tira con 6 pilas AA. Se descartaron el blíster promopack y su vista trasera (presentación diferente) y una foto duplicada de menor resolución.",
     "fecha": "2026-09-29",
     "sesion": 5

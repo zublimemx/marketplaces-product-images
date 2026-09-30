@@ -13,7 +13,7 @@
     "variante": "HEM-7121J",
     "presentacion": "Pieza",
     "unidades_por_envase": 1,
-    "otros": "Modelo: HEM-7121J; Tipo: digital automático de brazo; Mide presión sistólica, diastólica y pulso; Memoria: últimas 30 mediciones; Sensor de posición; Control de inflado óptimo"
+    "otros": "Modelo: HEM-7121J; Tipo: digital automático de brazo; Mide presión sistólica, diastólica y pulso; Memoria: últimas 30 mediciones; Sensor de posición; Control de inflado óptimo; Brazalete ajustable de 22 a 42 cm incluido; Alimentación: pilas AA incluidas; Indicador de error de movimiento; Detecta latidos irregulares; Sin Bluetooth; Para 1 usuario"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,6 +28,17 @@
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "073796712105_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_756681-MLA80589619628_112024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22960283",
+      "ancho_original": 1110,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "073796712105_1.jpg",
       "origen": "tienda",
@@ -49,17 +60,6 @@
       "lado_final": 648,
       "fecha": "2026-09-29",
       "lado_util": 354
-    },
-    {
-      "archivo": "073796712105_5.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://resources.claroshop.com/medios-plazavip/mkt/60882ae9efe1d_41coxnrdnsl_ac_jpg.jpg?scale=1500&qlty=90",
-      "pagina": "https://www.claroshop.com/producto/13806428/baumanometro-brazo-omron-monitor-de-presion-arterial-hem-7121j",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 500
     }
   ],
   "url_oficial": "",
@@ -69,9 +69,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "Identificado por el modelo HEM-7121J del nombre; el UPC 073796712105 coincide con el nombre del archivo de la foto de dvcmedical, pero ninguna página lo mostró como texto. Rango de medición, medidas del brazalete, alimentación y garantía no se pudieron confirmar en las fuentes abiertas (Amazon y Mercado Libre bloquean el acceso); la ficha de catálogo MLM22960283 coincide en nombre.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM22960283, 2026-09-29). Catálogo MLM22960283 (Omron HEM-7121J, tensiómetro digital de brazo, mide sistólica, diastólica y frecuencia cardíaca, inflado automático). Coinciden marca, modelo, tipo y mediciones. La memoria de 30 mediciones y el sensor de posición de la ficha no aparecen en el catálogo (que indica 'cantidad de memorias: 1', sin contradecirlos); se conservan. Se agregan brazalete 22 a 42 cm, pilas AA incluidas y detector de movimiento, datos que la investigación no pudo confirmar.",
     "notas_imagenes": "3 fotos de tienda (dvcmedical y ClaroShop): caja con monitor y brazalete, monitor solo y monitor con brazalete; miden entre 540 y 703 px (menos de 800 px) y no se encontró una fuente de mayor resolución. Se descartaron una foto de estilo de vida y un banner con texto promocional.",
     "fecha": "2026-09-29",
     "sesion": 5

@@ -23,7 +23,7 @@
       "categoria_id": "MLM189840",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Sets de Cuidado para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM26501112"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501022141571_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://costofarma.mx/cdn/shop/files/7501022141571_01.jpg?v=1756265484&width=1920",
-      "pagina": "https://costofarma.mx/products/kitricitosdeoroave-vainc-4pz",
-      "ancho_original": 1500,
-      "alto_original": 1500,
-      "lado_final": 930,
-      "fecha": "2026-09-29",
-      "lado_util": 861
+      "archivo": "7501022141571_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_863675-MLA85072669965_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM26501112",
+      "ancho_original": 1200,
+      "alto_original": 841,
+      "lado_final": 1180,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501022141571_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_970099-MLA85072796559_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM26501112",
+      "ancho_original": 1200,
+      "alto_original": 843,
+      "lado_final": 1180,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

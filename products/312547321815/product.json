@@ -16,7 +16,7 @@
     "unidades_por_envase": 1,
     "sabor_aroma": "Menta (Cool Mint)",
     "principio_activo": "Aceites esenciales (eucaliptol, mentol, salicilato de metilo, timol)",
-    "otros": "Tipo de producto: enjuague bucal antiséptico"
+    "otros": "Tipo de producto: enjuague bucal antiséptico; Con alcohol; Fórmula de 4 aceites esenciales; Contra gérmenes que causan placa, caries y mal aliento; No apto para niños"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +24,7 @@
       "categoria_id": "MLM189205",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25850225"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,28 @@
       "lado_final": 1542,
       "fecha": "2026-09-29",
       "lado_util": 1428
+    },
+    {
+      "archivo": "312547321815_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_852003-MLA99924946903_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25850225",
+      "ancho_original": 463,
+      "alto_original": 1057,
+      "lado_final": 1035,
+      "lado_util": 959,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "312547321815_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_607764-MLA117215362579_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25850225",
+      "ancho_original": 1024,
+      "alto_original": 1024,
+      "lado_final": 1105,
+      "lado_util": 1024,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -50,9 +72,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN de 12 dígitos (UPC) no apareció confirmado en ninguna página; se identificó por nombre y contenido (Listerine Cool Mint 500 ml, listados de EE. UU.). Ingredientes activos son los estándar de la línea Cool Mint; verificar contra el empaque que se vende en México.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM25850225, 2026-09-29). Catálogo MLM25850225 (Listerine Cool Mint 500 ml, sabor menta, 4 aceites esenciales: mentol, timol, eucaliptol y salicilato de metilo, con alcohol). Coincide todo lo comparable y confirma los cuatro aceites esenciales que la investigación había supuesto; el texto del catálogo es de la versión de México.",
     "notas_imagenes": "1 foto de frente a la botella (Listerine Cool Mint 500 ml), origen tienda de EE. UU., 1542 px; el empaque puede variar respecto al que se vende en México. Se eliminó una segunda foto con texto promocional.",
     "fecha": "2026-09-29",
     "sesion": 5

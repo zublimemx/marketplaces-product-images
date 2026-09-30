@@ -18,7 +18,9 @@
     "via_administracion": "Oral",
     "edad_etapa": "Adultos y niños mayores de 12 años",
     "sabor_aroma": "Original",
-    "otros": "Formato: frasco; Condición de venta: sin receta"
+    "otros": "Formato: frasco; Condición de venta: sin receta",
+    "registro_sanitario": "30310 SSA",
+    "concentracion": "Subsalicilato de bismuto 1.75 g (base de referencia no indicada en el catálogo ML; verificar en la etiqueta)"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -26,24 +28,13 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40243609"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "020800753067_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciapvr.com/wp-content/uploads/2020/01/antiacidos-pepto-bismol-original-118ml.jpg",
-      "pagina": "https://farmaciapvr.com/en/producto/pepto-bismol-118ml-2/",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 522,
-      "fecha": "2026-09-29",
-      "lado_util": 484
-    },
     {
       "archivo": "020800753067_1.jpg",
       "origen": "tienda",
@@ -54,6 +45,17 @@
       "lado_final": 1368,
       "fecha": "2026-09-29",
       "lado_util": 1267
+    },
+    {
+      "archivo": "020800753067_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_908026-MLU78929254967_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40243609",
+      "ancho_original": 360,
+      "alto_original": 991,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -64,9 +66,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El GTIN (UPC 20800753067) solo se confirmó en un listado de Panamá; la ficha de uso viene de un listado mexicano del mismo producto de 118 ml. No se anotó la concentración por no verse legible en la etiqueta.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM40243609, 2026-09-29). Comparado: marca Pepto-Bismol, laboratorio Procter & Gamble, suspensión oral, 118 ml, 1 frasco, subsalicilato de bismuto. Todo coincide y confirma el GTIN con un listado mexicano. Aporta registro 30310 SSA, receta no requerida y la cantidad de 1.75 g de subsalicilato de bismuto; el catálogo no indica la base de referencia (por 100 ml u otra), por eso se anota con esa salvedad. Verificar en la etiqueta.",
     "notas_imagenes": "2 fotos de frente del frasco (tienda). Se descartó una con marca de agua de tienda.",
     "fecha": "2026-09-29"
   }

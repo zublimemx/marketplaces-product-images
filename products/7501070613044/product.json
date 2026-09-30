@@ -26,13 +26,24 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45356628"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501070613044_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_779001-MLA98663905999_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45356628",
+      "ancho_original": 907,
+      "alto_original": 382,
+      "lado_final": 889,
+      "lado_util": 824,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501070613044_1.jpg",
       "origen": "tienda",
@@ -54,6 +65,17 @@
       "lado_final": 854,
       "fecha": "2026-09-29",
       "lado_util": 790
+    },
+    {
+      "archivo": "7501070613044_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_771783-MLA81563375764_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45356628",
+      "ancho_original": 770,
+      "alto_original": 314,
+      "lado_final": 757,
+      "lado_util": 701,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

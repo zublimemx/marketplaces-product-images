@@ -41,6 +41,28 @@
       "lado_final": 1080,
       "fecha": "2026-09-29",
       "lado_util": 986
+    },
+    {
+      "archivo": "7501088505126_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_925746-MLU78738594328_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40292559",
+      "ancho_original": 895,
+      "alto_original": 990,
+      "lado_final": 973,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501088505126_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_800737-MLA87286074955_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40292559",
+      "ancho_original": 630,
+      "alto_original": 748,
+      "lado_final": 733,
+      "lado_util": 679,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -28,7 +28,7 @@
       "categoria_id": "MLM194717",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dolor de Garganta",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455533"
     },
     "amazon": {},
     "shopify": {},
@@ -36,14 +36,14 @@
   },
   "imagenes": [
     {
-      "archivo": "7501058715517_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501058715517_8.jpg",
-      "pagina": "https://www.fahorro.com/graneodin-b-sabor-menta-eucalipto-caja-24-pastillas.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1726,
-      "lado_util": 1600,
+      "archivo": "7501058715517_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_860407-MLA87272004869_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455533",
+      "ancho_original": 993,
+      "alto_original": 720,
+      "lado_final": 975,
+      "lado_util": 903,
       "fecha": "2026-09-29"
     }
   ],

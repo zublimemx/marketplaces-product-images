@@ -23,7 +23,7 @@
       "categoria_id": "MLM430117",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18977564"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "75002794_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/75002794_1_2.jpg",
-      "pagina": "https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-200-ml.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1572,
-      "fecha": "2026-09-29",
-      "lado_util": 1456
+      "archivo": "75002794_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_948329-MLU74822840198_032024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18977564",
+      "ancho_original": 447,
+      "alto_original": 1197,
+      "lado_final": 1172,
+      "lado_util": 1084,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

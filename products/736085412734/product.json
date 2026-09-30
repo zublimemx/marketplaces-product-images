@@ -17,7 +17,8 @@
     "principio_activo": "Latanoprost",
     "concentracion": "0.005% (0.05 mg por ml)",
     "via_administracion": "Oftálmica",
-    "otros": "Forma farmacéutica: solución oftálmica estéril; Libre de conservadores (PF); Venta con receta médica"
+    "otros": "Forma farmacéutica: solución oftálmica estéril; Libre de conservadores (PF); Venta con receta médica",
+    "registro_sanitario": "285M2004 SSA"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48917970"
     },
     "amazon": {},
     "shopify": {},
@@ -73,9 +74,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN de 12 dígitos no apareció en las páginas revisadas. Datos clínicos de la ficha PLM de Gaap Ofteno (versión con conservador); la versión PF tiene la misma sustancia y concentración. Fotos de una tienda de Chile con el empaque Gaap Ofteno PF; el empaque de México podría variar. Registro sanitario no confirmado para la versión PF.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM48917970, 2026-09-29). Catálogo MLM48917970 (Gaap PF Ofteno latanoprost 0.05 mg/ml = 0.005 %, frasco gotero 3 ml, Laboratorios Sophia, receta requerida, registro 285M2004 SSA). Coinciden marca, línea Ofteno PF, principio activo, concentración, 3 ml, forma oftálmica y receta. El catálogo aporta el registro sanitario que la investigación no había confirmado para la versión PF.",
     "notas_imagenes": "3 fotos (caja de frente, caja con frasco y frasco) del empaque Gaap Ofteno PF 3 ml, origen tienda de Chile, 807 a 886 px.",
     "fecha": "2026-09-29",
     "sesion": 5

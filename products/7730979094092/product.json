@@ -27,7 +27,7 @@
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "MLM457832",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39472479"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7730979094092_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 448
+      "archivo": "7730979094092_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_923149-MLU78655611479_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39472479",
+      "ancho_original": 991,
+      "alto_original": 779,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7730979094092_2.jpg",
@@ -66,17 +66,6 @@
       "lado_final": 866,
       "fecha": "2026-09-29",
       "lado_util": 802
-    },
-    {
-      "archivo": "7730979094092_4.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_4.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/7/7730979094092_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 455
     }
   ],
   "url_oficial": "",

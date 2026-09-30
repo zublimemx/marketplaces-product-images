@@ -28,7 +28,7 @@
       "categoria_id": "MLM194695",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": "MLM19718276"
+      "catalogo_id": "MLM45287887"
     },
     "amazon": {},
     "shopify": {},
@@ -36,15 +36,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7590002012468_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7590002012468_1.jpg",
-      "pagina": "https://www.fahorro.com/vick-vaporub-unguento-50-g.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1032,
-      "fecha": "2026-09-29",
-      "lado_util": 955
+      "archivo": "7590002012468_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_643846-MLA81503678464_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45287887",
+      "ancho_original": 991,
+      "alto_original": 957,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7590002012468_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_615830-MLA86960978194_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45287887",
+      "ancho_original": 1096,
+      "alto_original": 1093,
+      "lado_final": 1077,
+      "lado_util": 998,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

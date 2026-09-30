@@ -25,7 +25,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM42479285"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,17 @@
       "lado_final": 1594,
       "fecha": "2026-09-29",
       "lado_util": 1476
+    },
+    {
+      "archivo": "7501124820640_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_930815-MLA80077610516_102024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM42479285",
+      "ancho_original": 726,
+      "alto_original": 1200,
+      "lado_final": 1181,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -51,9 +62,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 7501124820640 no apareció en las páginas abiertas (la ficha de tienda usa otro código, 7501088604058, para Patanol 0.2%). Concentración y contenido coinciden con el nombre. La dosis de una vez al día puede confirmarse en el prospecto.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM42479285, 2026-09-29). Catálogo MLM42479285 (Patanol 0.2 %, frasco gotero 2.5 ml, Novartis Pharma AG, olopatadina 2 mg, receta requerida, registro 463M98 SSA). Coinciden marca, principio activo, concentración (consistente con 0.2 % = 2 mg/ml), 2.5 ml, forma oftálmica, receta y registro (la ficha añade el sufijo IV). El fabricante de la ficha (Alcon, Novartis) no contradice al catálogo; sin cambios.",
     "notas_imagenes": "1 foto de tienda (CDN de Farmacias del Ahorro), 1,594 px, caja y frasco de Patanol 0.2% marca Alcon.",
     "fecha": "2026-09-29",
     "sesion": 6

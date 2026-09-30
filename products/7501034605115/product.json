@@ -27,7 +27,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40173332"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501034605115_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://cdn.gdar.com.mx/archivos/Jardianz-25-Mg-30-Tabletas-7501034605115-638866455770426254-1.jpg",
-      "pagina": "https://storeboehringer.com/jardianz/25mg-30-tabletas",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 600
+      "archivo": "7501034605115_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_974129-MLU78896676299_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40173332",
+      "ancho_original": 568,
+      "alto_original": 992,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501034605115_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_696411-MLA87285996775_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40173332",
+      "ancho_original": 782,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://storeboehringer.com/jardianz/25mg-30-tabletas",

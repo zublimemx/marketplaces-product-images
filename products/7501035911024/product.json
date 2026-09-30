@@ -5,7 +5,7 @@
   "nombre_sistema": "C D COLGATE MFP 125ML",
   "nombres_sistema_alternos": [],
   "titulo": "Crema Dental Colgate Máxima Protección Anticaries 125 ml",
-  "descripcion": "Descripción:\nCrema dental con flúor Colgate Máxima Protección Anticaries, con calcio, de sabor original. Gracias a su fórmula reforzada con Micro-Calcio, penetra en los dientes para fortalecer el esmalte y atrapar el calcio natural, creando un escudo protector que combate las caries incluso entre las limpiezas.\n\nBeneficios:\n- Fortalece los dientes y ayuda a combatir las caries.\n- Refresca el aliento con su rico sabor original.\n- Fórmula con flúor y calcio (Micro-Calcio) para proteger el esmalte.\n- Para uso diario en la higiene bucal.\n\nPresentación:\nTubo con 125 ml de crema dental (181.3 g de contenido neto).",
+  "descripcion": "Descripción:\nColgate Máxima Protección Anticaries es una crema dental con flúor y calcio (Micro-Calcio), de sabor original a menta y de uso diario. Su fórmula fortalece los dientes y ayuda a combatir las caries, incluso en los espacios entre los dientes, además de dejar una sensación de limpieza y un aliento fresco por más tiempo.\n\nBeneficios:\n- Protección anticaries con flúor (monofluorofosfato de sodio).\n- Fórmula con calcio (Micro-Calcio) para proteger el esmalte.\n- Limpieza profunda desde el primer uso.\n- Aliento fresco con su sabor original a menta.\n- Tubo familiar de 125 ml, para el uso diario en la higiene bucal.\n\nIngredientes:\nDicalcium Phosphate Dihydrate, Aqua, Glycerin, Sodium Lauryl Sulfate, Cellulose Gum, Sodium Monofluorophosphate, Hydrated Silica, Aroma, Tetrasodium Pyrophosphate, Sodium Saccharin, Limonene.\n\nModo de uso:\nCepíllese los dientes tres veces al día, después de cada comida, durante 2 minutos como mínimo, y enjuague bien al terminar.\n\nPresentación:\nTubo con 125 ml de crema dental (181.3 g de contenido neto).\n\nAdvertencias:\nNo ingerir. Este producto no está indicado para niños. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Colgate",
     "fabricante": "Colgate-Palmolive",
@@ -15,7 +15,7 @@
     "contenido_neto": 125,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "sabor_aroma": "Original",
+    "sabor_aroma": "Menta (sabor original)",
     "otros": "Contenido neto: 125 ml (181.3 g); Con flúor y calcio (Micro-Calcio)"
   },
   "receta_mx": "No aplica",
@@ -24,7 +24,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18971900"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,39 @@
       "lado_final": 1031,
       "lado_util": 956,
       "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035911024_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_629197-MLA99927318043_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18971900",
+      "ancho_original": 1200,
+      "alto_original": 559,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035911024_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_724426-MLA110058324553_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18971900",
+      "ancho_original": 1200,
+      "alto_original": 296,
+      "lado_final": 1180,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035911024_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_735737-MLA102469093707_122025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18971900",
+      "ancho_original": 1200,
+      "alto_original": 359,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -52,7 +85,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "MFP en el nombre del sistema se refiere a la crema Máxima Protección Anticaries (monofluorofosfato). El tubo de la foto muestra un sello de aval odontológico de la Federación Odontológica Colombiana; confirmar que el empaque vigente en México sea igual.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM18971900, 2026-09-29). Fuentes: catálogo ML MLM18971900 (origen gtin, Pasta dental Colgate Máxima Protección Anticaries 125 ml, sabor menta, con flúor) y descripción de otro vendedor (ingredientes, modo de uso y precauciones, usadas solo como datos); descripción y ficha actuales (Micro-Calcio, 181.3 g). Se omitió la afirmación de otro vendedor de que previene la gingivitis, porque la marca no la respalda en las demás fuentes. 'Contraindicado para niños' de otro vendedor se redactó como 'no está indicado para niños'. El aval odontológico del tubo de la foto no se menciona (la investigación pide confirmar el empaque vigente en México). Redacción propia.",
     "notas_imagenes": "1 foto de frente del tubo (1031 px), de una farmacia en línea; sin marcas de agua.",
     "fecha": "2026-09-29",
     "sesion": 7

@@ -25,13 +25,24 @@
       "categoria_id": "MLM194260",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM24826830"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7506295337454_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_920538-MLU73568821888_122023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24826830",
+      "ancho_original": 509,
+      "alto_original": 1200,
+      "lado_final": 1175,
+      "lado_util": 1088,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7506295337454_1.jpg",
       "origen": "tienda",
@@ -53,6 +64,28 @@
       "lado_final": 663,
       "fecha": "2026-09-29",
       "lado_util": 614
+    },
+    {
+      "archivo": "7506295337454_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_930499-MLU79289419217_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24826830",
+      "ancho_original": 1188,
+      "alto_original": 251,
+      "lado_final": 1165,
+      "lado_util": 1079,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506295337454_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_970720-MLA85734937054_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24826830",
+      "ancho_original": 318,
+      "alto_original": 761,
+      "lado_final": 748,
+      "lado_util": 693,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

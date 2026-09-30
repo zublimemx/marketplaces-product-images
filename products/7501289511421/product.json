@@ -5,7 +5,7 @@
   "nombre_sistema": "PASTA LASSAR 30GR TARRO ANDROMACO",
   "nombres_sistema_alternos": [],
   "titulo": "Pasta Lassar Andrómaco Óxido de Zinc 25% Tarro 30 g",
-  "descripcion": "Descripción:\nPasta Lassar Andrómaco es una pomada dermatológica de uso tópico con óxido de zinc al 25%, elaborada por Industria Farmacéutica Andrómaco. Forma una capa protectora sobre la piel irritada y ayuda a aliviar el ardor y la comezón en irritaciones leves. Se presenta en tarro de 30 g.\n\nBeneficios:\n- Alivio del ardor y la comezón en irritaciones leves de la piel\n- Indicada en quemaduras superficiales, heridas leves, piquetes de insectos y rozaduras\n- Forma una capa protectora sobre la piel\n\nFórmula:\nÓxido de zinc 25% (25 g por cada 100 g de producto).\n\nPresentación:\nTarro con 30 g de pasta.\n\nAdvertencias:\n- Uso externo.\n- Mantenga el envase bien cerrado, a no más de 30 °C, en un lugar seco y fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nPasta Lassar Andrómaco es una preparación dermatológica de uso tópico con óxido de zinc al 25 %, elaborada por Industria Farmacéutica Andrómaco. Su consistencia de pasta se extiende sobre la piel y forma una capa que la protege y ayuda a calmar las irritaciones leves. Se presenta en tarro de 30 g.\n\nBeneficios:\n- Forma una barrera protectora sobre la piel\n- Ayuda a aliviar el ardor y la comezón en irritaciones leves\n- Ayuda a prevenir irritaciones cutáneas y favorece la cicatrización\n- Indicada en rozaduras, escoceduras, quemaduras superficiales, heridas leves y piquetes de insectos\n\nFórmula:\nÓxido de zinc al 25 % (25 g por cada 100 g de producto).\n\nModo de uso:\nUso tópico. Se aplica y se extiende sobre la zona afectada de la piel; siga las indicaciones del empaque o de su médico.\n\nPresentación:\nTarro con 30 g de pasta.\n\nAdvertencias:\n- Uso externo.\n- Mantenga el envase bien cerrado, a no más de 30 °C y en un lugar seco.\n- Si la irritación persiste o empeora, suspenda su uso y consulte a su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Andrómaco",
     "fabricante": "Industria Farmacéutica Andrómaco, S.A. de C.V.",
@@ -25,7 +25,7 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19895679"
     },
     "amazon": {},
     "shopify": {},
@@ -65,7 +65,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado. La etiqueta del empaque y otra ficha dicen óxido de zinc 25%; una ficha de farmacia dice 35%. No se encontró modo de uso detallado ni registro sanitario.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM19895679, 2026-09-29). Catálogo ML MLM19895679 (origen gtin): Pasta Lassar Andrómaco tarro 30 g con óxido de zinc 25 %; coincide. Fuentes: catálogo (barrera protectora, prevenir irritaciones, cicatrización, rozaduras, escoceduras, fácil de extender) y descripción actual (fabricante, ardor y comezón, quemaduras superficiales, piquetes, 25 g por 100 g, conservación a no más de 30 °C). Una ficha de farmacia decía 35 %, pero etiqueta, catálogo y otra ficha dicen 25 %. No hay modo de uso detallado ni registro sanitario en las fuentes; el modo de uso es genérico de aplicación tópica.",
     "notas_imagenes": "2 fotos de tienda: el tarro (Farmatodo, 1000 px) y la etiqueta frontal (Farmacias del Ahorro, 1600 px).",
     "fecha": "2026-09-29",
     "sesion": 4

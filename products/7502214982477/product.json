@@ -5,11 +5,11 @@
   "nombre_sistema": "PRUDENCE C3 FRESA OFERTADO 8%",
   "nombres_sistema_alternos": [],
   "titulo": "Condones Prudence Sabor y Aroma Fresa 3 Piezas",
-  "descripcion": "Descripción:\nCondones masculinos Prudence con sabor y aroma a fresa, de látex lubricado, de Laboratorios DKT. La caja contiene 3 condones de hule látex natural.\n\nCaracterísticas:\n- Condón masculino de látex natural lubricado.\n- Sabor y aroma a fresa.\n- Caja con 3 piezas de un solo uso.\n\nPresentación:\nCaja con 3 condones masculinos de hule látex natural, lubricados, con sabor y aroma a fresa. El empaque muestra la leyenda \"Condones lubricados\" y una imagen de fresas.\n\nAdvertencias:\nUn condón es de un solo uso. Consérvese a no más de 30 °C y en su empaque cerrado. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nLos condones masculinos Prudence con sabor y aroma a fresa son de hule látex natural lubricado y están elaborados por Laboratorios DKT. Pertenecen a la línea Sabor y Aroma de la marca y cada caja contiene 3 condones de un solo uso, con una fragancia y un sabor a fresa que aportan un toque distinto a la experiencia.\n\nBeneficios:\n- Sabor y aroma a fresa.\n- Elaborados con hule látex natural.\n- Lubricados.\n- Caja con 3 piezas de un solo uso.\n\nPresentación:\nCaja con 3 condones masculinos de hule látex natural, lubricados, con sabor y aroma a fresa. El empaque muestra la leyenda \"Condones lubricados\" y una imagen de fresas.\n\nAdvertencias:\n- Contiene látex natural.\n- Cada condón es de un solo uso.\n- Consérvelos a no más de 30 °C y en su empaque cerrado.\n- Lea las instrucciones del empaque antes de usarlos.\n- No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Prudence",
     "fabricante": "DKT México",
-    "linea": "Prudence",
+    "linea": "Sabor y Aroma",
     "variante": "Fresa",
     "presentacion": "Caja con 3 condones",
     "contenido_neto": 3,
@@ -42,6 +42,28 @@
       "lado_final": 1597,
       "lado_util": 1480,
       "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502214982477_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_704262-MLA99830008075_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18978701",
+      "ancho_original": 886,
+      "alto_original": 1200,
+      "lado_final": 1168,
+      "lado_util": 1081,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502214982477_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_937731-MLA84856288795_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18978701",
+      "ancho_original": 1200,
+      "alto_original": 595,
+      "lado_final": 1170,
+      "lado_util": 1083,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -54,7 +76,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El nombre del sistema incluye OFERTADO 8%, que es promoción y se ignoró. Hay poca información de la marca, por eso la descripción es corta. Catálogo de Mercado Libre tomado de un enlace de resultados que coincide con el producto.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM18978701, 2026-09-29). Fuentes: catálogo ML MLM18978701 (origen gtin, Condones de látex Prudence sabor y aroma fresa, 3 unidades; lubricado, con látex, saborizado, línea Sabor y Aroma); descripción y ficha actuales (DKT, advertencias de un solo uso y conservación a no más de 30 °C). Datos reales escasos, sin agregar datos para completar. Se evitaron afirmaciones de eficacia o protección que no están en las fuentes; se remite al empaque. Se omitió 'OFERTADO 8%' del nombre del sistema (promoción). CORRECCIÓN de ficha: linea pasó de 'Prudence' a 'Sabor y Aroma' según catálogo.",
     "notas_imagenes": "1 foto de frente de la caja (1597 px), de una farmacia en línea; sin marcas de agua.",
     "fecha": "2026-09-29",
     "sesion": 7

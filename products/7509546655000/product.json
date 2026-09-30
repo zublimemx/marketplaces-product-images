@@ -24,7 +24,7 @@
       "categoria_id": "MLM191692",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM28038109"
     },
     "amazon": {},
     "shopify": {},
@@ -32,26 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546655000_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/305549/305549_01.webp",
-      "pagina": "https://www.heb.com.mx/caprice-mousse-rizos-definidos-250-gr-363823/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 725,
-      "fecha": "2026-09-29",
-      "lado_util": 672
-    },
-    {
-      "archivo": "7509546655000_4.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/305549/305549_04.webp",
-      "pagina": "https://www.heb.com.mx/caprice-mousse-rizos-definidos-250-gr-363823/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 729,
-      "fecha": "2026-09-29",
-      "lado_util": 675
+      "archivo": "7509546655000_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_827905-MLA99370009410_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM28038109",
+      "ancho_original": 265,
+      "alto_original": 1197,
+      "lado_final": 1176,
+      "lado_util": 1089,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

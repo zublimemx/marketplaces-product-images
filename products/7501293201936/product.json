@@ -26,7 +26,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45356714"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501293201936_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vteximg.com.br/arquivos/ids/179242/7501293201936.png?v=638671392072700000",
-      "pagina": "https://www.klyns.mx/histofil-4000-ui-fco-c-60-tabs/p",
-      "ancho_original": 700,
-      "alto_original": 700,
-      "lado_final": 710,
-      "fecha": "2026-09-29",
-      "lado_util": 658
+      "archivo": "7501293201936_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_942607-MLA81563476266_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45356714",
+      "ancho_original": 850,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501293201936_2.jpg",
@@ -76,6 +76,17 @@
       "lado_final": 933,
       "fecha": "2026-09-29",
       "lado_util": 862
+    },
+    {
+      "archivo": "7501293201936_6.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_942942-MLA87286155267_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45356714",
+      "ancho_original": 665,
+      "alto_original": 1200,
+      "lado_final": 1181,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

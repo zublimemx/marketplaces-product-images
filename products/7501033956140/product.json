@@ -24,24 +24,13 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM29010560"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501033956140_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciaherrera.com.mx/cdn/shop/files/7501033956140_1.png?v=1727296071&width=1920",
-      "pagina": "https://farmaciaherrera.com.mx/products/glucerna-sr-fresa-liq-237-ml",
-      "ancho_original": 247,
-      "alto_original": 600,
-      "lado_final": 646,
-      "fecha": "2026-09-29",
-      "lado_util": 598
-    },
     {
       "archivo": "7501033956140_2.jpg",
       "origen": "tienda",
@@ -54,15 +43,26 @@
       "lado_util": 892
     },
     {
-      "archivo": "7501033956140_3.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaFre_1.jpg?v=1685158365",
-      "pagina": "https://sanorim.mx/products/glucerna-sabor-fresa-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 504,
-      "fecha": "2026-09-29",
-      "lado_util": 467
+      "archivo": "7501033956140_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_951955-MLA99445988004_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29010560",
+      "ancho_original": 509,
+      "alto_original": 1200,
+      "lado_final": 1173,
+      "lado_util": 1087,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501033956140_6.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_997959-MLU73351234804_122023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29010560",
+      "ancho_original": 650,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://glucerna.com.mx/",

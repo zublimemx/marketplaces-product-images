@@ -18,7 +18,7 @@
     "edad_etapa": "Bebés",
     "tipo_piel_cabello": "Cabello delicado de bebé",
     "sabor_aroma": "Lavanda y lechuga (aroma relajante)",
-    "otros": "Formato de venta: duopack de 2 frascos de 400 ml; Hipoalergénico; Ingredientes destacados: extractos de lavanda, lechuga y manzanilla"
+    "otros": "Formato de venta: duopack de 2 frascos de 400 ml; Hipoalergénico; Ingredientes destacados: extractos de lavanda, lechuga y manzanilla; Dermatológicamente probado; Sin cloruro de sodio; Libre de parabenos; Libre de crueldad animal"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM194228",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM37496728"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 037836089190 no apareció en texto de ninguna página. El duopack de lavanda y lechuga (2 x 400 ml, 800 ml) se identificó por el nombre y por la foto de una tienda cuyo código corresponde al GTIN. Descripción tomada de la ficha del frasco individual de 400 ml y de la etiqueta trasera del duopack (fabricante Grisi Hnos., lista de ingredientes solo parcialmente legible).",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM37496728, 2026-09-29). Catálogo MLM37496728 (Shampoo Ricitos de Oro Lavanda y Lechuga 400 ml, pack de 2, 800 ml en total, bebés, hipoalergénico). Coinciden marca, línea y aroma, 2 x 400 ml = 800 ml y edad. No se adopta 'fórmula 2 en 1' porque solo aparece en el catálogo y no se pudo corroborar.",
     "notas_imagenes": "2 fotos del duopack (frente y reverso, 972 y 977 px) de una tienda; la base del empaque trae impresa la leyenda 'Precio especial', que forma parte del empaque de venta.",
     "fecha": "2026-09-29",
     "sesion": 6

@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 2",
     "talla": "Chico",
     "genero": "Unisex",
-    "otros": "Peso del bebé: 5 a 7.5 kg; Con óxido de zinc: Sí; Formato de venta: Paquete"
+    "otros": "Peso del bebé: 5 a 7.5 kg; Con óxido de zinc: Sí; Formato de venta: Paquete; Con gel superabsorbente: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí; Sin fragancia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM36084341"
     },
     "amazon": {},
     "shopify": {},
@@ -63,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE = KleenBebé Suavelastic; el prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos tomados de la página oficial; las 40 piezas salen del nombre del sistema y no se confirmaron en una fuente.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM36084341, 2026-09-29). Comparado: marca KleenBebé, línea Suavelastic, Etapa 2, talla Chico (catálogo: Pequeño/P, nombre interno 'Talla Chica'), 40 piezas (unidades por envase 40), peso 5 a 7.5 kg, unisex y óxido de zinc (descripción). Todo coincide. El catálogo confirma las 40 piezas y el peso, que no tenían fuente. 'Max' de la variante no aparece en el catálogo (no comparable, sin contradicción). 'otros' se entrega completo (lo existente más rasgos del catálogo).",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 foto(s): 2 de yza.mx (tienda). Diseno vigente de Suavelastic segun Yza. Se descartaron fotos de disenos anteriores."
   }

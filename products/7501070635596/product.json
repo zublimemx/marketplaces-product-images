@@ -25,24 +25,13 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473875"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501070635596_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasfleming.mx/wp-content/uploads/2026/02/7501070635596.2-163012-1.png",
-      "pagina": "https://farmaciasfleming.mx/producto/a-s-cor-solucion-gotas-24-mililitros/",
-      "ancho_original": 940,
-      "alto_original": 788,
-      "lado_final": 506,
-      "fecha": "2026-09-29",
-      "lado_util": 469
-    },
     {
       "archivo": "7501070635596_3.jpg",
       "origen": "tienda",
@@ -53,6 +42,17 @@
       "lado_final": 1560,
       "fecha": "2026-09-29",
       "lado_util": 1445
+    },
+    {
+      "archivo": "7501070635596_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_949264-MLU78656324353_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473875",
+      "ancho_original": 365,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

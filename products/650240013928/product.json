@@ -23,7 +23,7 @@
       "categoria_id": "MLM178755",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM23021149"
     },
     "amazon": {},
     "shopify": {},
@@ -40,6 +40,28 @@
       "lado_final": 1237,
       "fecha": "2026-09-29",
       "lado_util": 1145
+    },
+    {
+      "archivo": "650240013928_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_621681-MLA111791318264_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM23021149",
+      "ancho_original": 1081,
+      "alto_original": 1083,
+      "lado_final": 1050,
+      "lado_util": 972,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240013928_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_642039-MLA112891853081_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM23021149",
+      "ancho_original": 1074,
+      "alto_original": 1004,
+      "lado_final": 1046,
+      "lado_util": 969,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -23,7 +23,7 @@
       "categoria_id": "MLM191692",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM57730609"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7500435169035_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435169035_1.jpg",
-      "pagina": "",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1728,
-      "fecha": "2026-09-29",
-      "lado_util": 1600
+      "archivo": "7500435169035_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_964056-MLA107104830927_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM57730609",
+      "ancho_original": 256,
+      "alto_original": 1200,
+      "lado_final": 1141,
+      "lado_util": 1057,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

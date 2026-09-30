@@ -15,7 +15,7 @@
     "contenido_neto": 100,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 100,
-    "otros": "Material: 100% algodón; Medidas: 10 cm x 10 cm; Capas: 8; Tejido: 18 x 24; Estéril con óxido de etileno; Formato de venta: caja o exhibidor con 100 piezas"
+    "otros": "Material: 100% algodón; Medidas: 10 cm x 10 cm; Capas: 8; Tejido: 18 x 24; Estéril con óxido de etileno; Formato de venta: caja o exhibidor con 100 piezas; Empaque individual: cada gasa en su sobre"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,13 +23,24 @@
       "categoria_id": "MLM191087",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25586380"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501868900714_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_601519-MLA110811865767_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25586380",
+      "ancho_original": 696,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501868900714_1.jpg",
       "origen": "fabricante",
@@ -49,9 +60,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No encontré el GTIN 7501868900714 publicado en ninguna página; identificado por nombre y por el catálogo del fabricante (Gasas Monarca 10 x 10 cm, 8 capas, exhibidor con 100 piezas). Existe un catálogo ML (MLM19639133) de gasa simple estéril Dibar 100 piezas, pero es la línea 'simple', no Monarca, por eso no lo anoto. Las secciones de modo de uso y advertencias son indicaciones generales de uso seguro del tipo de producto, no textos copiados de la etiqueta.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM25586380, 2026-09-29). Catálogo MLM25586380 (Dibar Monarca 10 x 10 cm, 8 capas, algodón, tipo simple, estéril, caja con 100 sobres individuales). Coinciden marca, línea, medidas, capas, tipo, esterilidad y 100 piezas por caja. No se adopta el 'peso neto 30 g' del catálogo (no comparable con la ficha).",
     "notas_imagenes": "1 foto oficial del fabricante (caja/exhibidor con 100 piezas de Gasa Simple Estéril Dibar y cajas individuales), 1200 px.",
     "fecha": "2026-09-29",
     "sesion": 4

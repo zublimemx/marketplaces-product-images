@@ -27,7 +27,7 @@
       "categoria_id": "MLM194695",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455507"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7502276040405_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7502276040405_01.jpg?width=1000&height=1000",
-      "pagina": "https://www.fahorro.com/desenfriol-ito-plus-antigripal-paracetamol-80-mg-24-tabletas-masticables.html",
+      "archivo": "7502276040405_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_882103-MLA87285696565_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455507",
       "ancho_original": 1200,
-      "alto_original": 1200,
-      "lado_final": 1296,
-      "fecha": "2026-09-29",
-      "lado_util": 1200
+      "alto_original": 945,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502276040405_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_961029-MLU78636675961_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455507",
+      "ancho_original": 770,
+      "alto_original": 619,
+      "lado_final": 756,
+      "lado_util": 700,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

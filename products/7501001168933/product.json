@@ -28,7 +28,7 @@
       "categoria_id": "MLM194695",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475468"
     },
     "amazon": {},
     "shopify": {},
@@ -36,15 +36,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501001168933_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501001168933_1_2.jpg",
-      "pagina": "https://farmaciasanjorge.com/products/2596",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1439,
-      "fecha": "2026-09-29",
-      "lado_util": 1333
+      "archivo": "7501001168933_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_678583-MLA86960932580_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475468",
+      "ancho_original": 367,
+      "alto_original": 981,
+      "lado_final": 964,
+      "lado_util": 893,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

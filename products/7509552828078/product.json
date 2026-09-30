@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509552828078_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dwc1afdf1c/images/7509552828078/7509552828078_1.jpg",
-      "pagina": "https://www.delsol.com.mx/mascarilla-para-el-cabello-fructis-hair-fod-banana-garnier",
-      "ancho_original": 1200,
-      "alto_original": 1200,
-      "lado_final": 842,
-      "fecha": "2026-09-29",
-      "lado_util": 780
+      "archivo": "7509552828078_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_640143-MLA99932161961_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21732161",
+      "ancho_original": 1002,
+      "alto_original": 874,
+      "lado_final": 982,
+      "lado_util": 910,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7509552828078_3.jpg",

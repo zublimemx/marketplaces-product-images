@@ -25,7 +25,7 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "MLM457830",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475342"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,17 @@
       "lado_final": 1520,
       "fecha": "2026-09-29",
       "lado_util": 1408
+    },
+    {
+      "archivo": "7501124815851_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_997002-MLU78656541377_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475342",
+      "ancho_original": 1200,
+      "alto_original": 1104,
+      "lado_final": 1182,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

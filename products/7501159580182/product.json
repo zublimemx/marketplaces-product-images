@@ -25,7 +25,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM46221663"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501159580182_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb8c92e4a/images/large/7501159580182_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/sinuberase-10-ampolletas-/MXYZ_7501159580182.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 829,
-      "fecha": "2026-09-29",
-      "lado_util": 768
+      "archivo": "7501159580182_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_903461-MLA84935782154_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM46221663",
+      "ancho_original": 1009,
+      "alto_original": 575,
+      "lado_final": 992,
+      "lado_util": 919,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

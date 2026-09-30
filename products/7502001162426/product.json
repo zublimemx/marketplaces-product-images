@@ -24,7 +24,7 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "MLM457826",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39474312"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,17 @@
       "lado_final": 1237,
       "fecha": "2026-09-29",
       "lado_util": 1146
+    },
+    {
+      "archivo": "7502001162426_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_753124-MLU78656451733_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474312",
+      "ancho_original": 993,
+      "alto_original": 436,
+      "lado_final": 974,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -5,7 +5,7 @@
   "nombre_sistema": "BRILL PALMOL LIQ 52ML",
   "nombres_sistema_alternos": [],
   "titulo": "Brillantina Palmolive Líquida con Aceite de Oliva 52 ml",
-  "descripcion": "Descripción:\nBrillantina líquida Palmolive con aceite de oliva en frasco de 52 ml. Es un producto para el arreglo del cabello que ayuda a mantener el peinado durante todo el día y aporta brillo, suavidad y un acabado sedoso sin sensación pesada. Su textura líquida permite aplicarla con muy poca cantidad de producto.\n\nBeneficios:\n- Mantiene el peinado durante todo el día\n- Aporta brillo natural al cabello\n- Ayuda a suavizar el cabello y lo deja más manejable y fácil de peinar\n- Ayuda a controlar el frizz y mejora la apariencia del cabello seco o maltratado\n- Fórmula con aceite de oliva, en presentación líquida y con aroma floral\n- Frasco transparente con tapa negra de 52 ml, práctico para llevar\n\nPresentación:\nFrasco de 52 ml (contenido neto).",
+  "descripcion": "Descripción:\nBrillantina líquida Palmolive con aceite de oliva, en botella de 52 ml. Es un producto para el arreglo del cabello que ayuda a mantener el peinado y aporta brillo, suavidad y un acabado sedoso sin sensación pesada. Su textura líquida se aplica de forma pareja con muy poca cantidad de producto y sin sensación pesada.\n\nBeneficios:\n- Ayuda a mantener el peinado durante el día\n- Aporta brillo natural al cabello\n- Suaviza el cabello y lo deja más manejable y fácil de peinar\n- Ayuda a controlar el frizz y mejora la apariencia del cabello seco o maltratado\n- Enriquecida con aceite de oliva y con aroma floral\n- Fórmula libre de gluten\n- Botella de 52 ml, práctica para llevar a cualquier lugar\n\nPresentación:\nBotella transparente con tapa negra, de 52 ml de contenido neto.\n\nAdvertencias:\n- Producto de uso externo para el cabello.\n- Lea la etiqueta del empaque antes de usarlo.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Palmolive",
     "fabricante": "Colgate-Palmolive",
@@ -16,7 +16,7 @@
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "sabor_aroma": "Floral",
-    "otros": "Formato: brillantina líquida; Ingrediente destacado: aceite de oliva"
+    "otros": "Formato: brillantina líquida; Ingrediente destacado: aceite de oliva; Libre de gluten"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +24,7 @@
       "categoria_id": "MLM191692",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM34498691"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "75001872_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://gruporfp.vteximg.com.br/arquivos/ids/6996985/75001872_01.jpg",
-      "pagina": "https://www.farmatodo.com.mx/palmolive-brillantina-con-aceite-de-oliva-frasco-c-52-ml/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 972,
-      "fecha": "2026-09-29",
-      "lado_util": 900
+      "archivo": "75001872_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_662035-MLA86152841753_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM34498691",
+      "ancho_original": 431,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -53,7 +53,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN de 8 dígitos confirmado en varias tiendas. Los beneficios salen de descripciones de tienda, no del fabricante; no se encontró lista de ingredientes ni modo de uso, y se omitieron.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM34498691, 2026-09-29). Catálogo ML MLM34498691 (origen gtin): Brillantina Palmolive líquida con aceite de oliva, 52 ml; coincide. Fuentes: catálogo (52 ml, líquida, aceite de oliva, brillo, libre de gluten, botella) y descripción actual (peinado, suavidad, frizz, aroma floral, tapa negra, tomados de descripciones de tienda). El catálogo indica 'no dermatológicamente testeada', dato que no se incluyó. Sin ingredientes ni modo de uso en las fuentes, se omitieron esas secciones.",
     "notas_imagenes": "1 foto de Farmatodo (1000 px, frente del frasco).",
     "fecha": "2026-09-29",
     "sesion": 4

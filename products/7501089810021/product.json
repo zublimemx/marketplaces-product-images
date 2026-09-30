@@ -27,7 +27,7 @@
       "categoria_id": "MLM432657",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Tratamientos para Piojos > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM46402471"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501089810021_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw737c7834/images/large/7501089810021_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/herklin-anti-piojos-y-liendres-shampoo-60ml/MXYZ_7501089810021.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 993,
-      "fecha": "2026-09-29",
-      "lado_util": 920
+      "archivo": "7501089810021_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_710665-MLA98662491967_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM46402471",
+      "ancho_original": 447,
+      "alto_original": 1007,
+      "lado_final": 992,
+      "lado_util": 919,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089810021_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_726890-MLA98189750592_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM46402471",
+      "ancho_original": 1009,
+      "alto_original": 1048,
+      "lado_final": 1019,
+      "lado_util": 944,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -25,7 +25,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455542"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,28 @@
       "lado_final": 1040,
       "fecha": "2026-09-29",
       "lado_util": 962
+    },
+    {
+      "archivo": "7501095452505_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_680350-MLA109050286686_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455542",
+      "ancho_original": 1096,
+      "alto_original": 755,
+      "lado_final": 1080,
+      "lado_util": 1000,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501095452505_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_697611-MLA109885167611_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455542",
+      "ancho_original": 1057,
+      "alto_original": 708,
+      "lado_final": 1042,
+      "lado_util": 965,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

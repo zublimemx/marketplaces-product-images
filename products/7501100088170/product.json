@@ -29,7 +29,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM47334951"
     },
     "amazon": {},
     "shopify": {},
@@ -37,15 +37,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501100088170_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/177512-1200-auto?v=638556329183970000&width=1200&height=auto&aspect=true",
-      "pagina": "https://www.klyns.mx/tylenol-sol-inf-120-ml/p",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 586,
-      "fecha": "2026-09-29",
-      "lado_util": 543
+      "archivo": "7501100088170_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_903451-MLA83233864413_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM47334951",
+      "ancho_original": 533,
+      "alto_original": 999,
+      "lado_final": 975,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501100088170_1.jpg",
@@ -57,6 +57,17 @@
       "lado_final": 648,
       "fecha": "2026-09-29",
       "lado_util": 453
+    },
+    {
+      "archivo": "7501100088170_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_725138-MLA82944720156_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM47334951",
+      "ancho_original": 348,
+      "alto_original": 1000,
+      "lado_final": 979,
+      "lado_util": 905,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

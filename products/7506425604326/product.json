@@ -16,9 +16,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 5",
-    "talla": "Etapa 5",
+    "talla": "XG",
     "genero": "Niños",
-    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete; Peso del bebé: 11 a 14.5 kg; Protección de hasta 12 h; Con gel superabsorbente: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí; Sin fragancia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379849"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF NINO E5 = Huggies UltraConfort Niño Etapa 5) y por GTIN hermano 7506425604364 confirmado en el lote 1. La página oficial no lista rangos de peso, por eso no se incluyen. Las 40 piezas salen del nombre del sistema.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17379849, 2026-09-29). Comparado: marca Huggies, línea UltraConfort, Etapa 5, niños, 40 piezas. Todo coincide. Talla: el atributo del catálogo dice XG (consistente con Etapa 5), aunque su título dice 'Talla Grande (G)'; se usa el atributo. El catálogo aporta peso 11 a 14.5 kg. Discrepancia menor, no de identidad: el catálogo dice 'Con indicador de humedad: No' y la ficha dice 'Sí'; se dejó la ficha sin cambio, verificar en el empaque. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos de tienda: Farmacias del Ahorro 1600 px (frente) y farmaciapopularenlinea.com 842 px (vertical), ambas empaque nuevo 'Nueva Ultra cobertura' Etapa 5 niño, 40 pzas. Se descartó el diseño anterior."
   }

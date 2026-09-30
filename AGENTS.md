@@ -20,10 +20,10 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Tarea | Cómo |
 |---|---|
 | Productos que faltan (8 sin verificar, 25 sin fotos; la investigación automática terminó en la sesión 7) | Con datos del dueño o nuevas fuentes: `python scripts/seleccionar_lote.py --sesion 8 --fotos`; cada lote con `docs/agentes/investigacion.md` o `docs/agentes/fotos.md`; integrar con `scripts/integrar_resultados.py` |
-| Precio de la publicación más vendida y promedio de competencia | Credenciales en `.env`; token con `python scripts/meli_auth.py --code TG-… --redirect-uri …` (el dueño entrega el código); luego `scripts/meli_precios.py` (`docs/MERCADOLIBRE_API.md`). Salida versionada en `data/competencia_meli.csv` |
+| Actualizar precios de competencia (mejor vendedor y promedio), fotos y descripciones del catálogo de Mercado Libre | Credenciales en `.env`; token de 6 h que entrega el dueño (`ML_ACCESS_TOKEN`) o `python scripts/meli_auth.py --code TG-… --redirect-uri …`; luego `docs/PROCEDIMIENTO_SESION.md` §4 bis (`meli_precios.py`, `meli_fotos.py`, revisión con `docs/agentes/revision_ml.md`, `aplicar_revision_ml.py`). Salidas versionadas: `data/competencia_meli.csv` y `data/catalogo_ml_rechazados.csv` |
 | Versionar ajustes de precio que exporta el visor | `python scripts/ajustes_precios.py <ajustes_precios_….xlsx>` → `data/ajustes_precios.json`; regenerar layout y visor |
 | Costos de envío estimados ($75–$150) | `python scripts/envios.py` (`data/envios.csv`); tramos en `config/mercadolibre.json → precios.envio` |
-| Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con `scripts/meli_precios.py --fotos-catalogo` |
+| Mejorar fotos de baja resolución o con fondo gris | `python scripts/revisar_fotos.py` lista los casos; reemplazar con `scripts/imagenes.py` (`rm` y `fetch`) o con fotos del catálogo de Mercado Libre (`scripts/meli_fotos.py`, revisadas a la vista con `docs/agentes/revision_ml.md`) |
 | Regenerar el layout de Mercado Libre | `python scripts/preparar_insumos.py …` (Excel del ERP) y `python scripts/build_mercadolibre.py … --salida layouts/mercadolibre/layout_mercadolibre.xlsx`, recalculado antes de versionar (`docs/PROCEDIMIENTO_SESION.md` §4) |
 | Revisar calidad de productos | `python scripts/build_visor.py` y abrir `visor/index.html`; sección Pendientes o filtro por indicador «mala» (`docs/VISOR.md`) |
 | **Procesar un Excel de pendientes que adjunta el dueño** | `python scripts/solicitudes.py <archivo.xlsx>` agrupa por «Acción solicitada»; `--aplicar-descartes` descarta; el resto según `docs/VISOR.md` («Pedir acciones con el Excel»). Luego regenerar layout y visor y abrir PR |
@@ -64,7 +64,8 @@ config/indicadores.json          Reglas de los indicadores de calidad del visor
 config/pendientes.json           Catálogo de pendientes por producto, umbrales y acciones que el dueño puede pedir
 data/ajustes_precios.json        Ajustes de precio por producto hechos en el visor
 data/envios.csv                  Costo de envío estimado por producto (peso y tamaño)
-data/competencia_meli.csv        Precios de competencia de la API de Mercado Libre (cuando se corra)
+data/competencia_meli.csv        Precios de competencia de la API de Mercado Libre (29 sep 2026)
+data/catalogo_ml_rechazados.csv  Catálogos de Mercado Libre que no corresponden al GTIN (no se usan)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg

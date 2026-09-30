@@ -33,17 +33,6 @@
   },
   "imagenes": [
     {
-      "archivo": "4015630067084_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://www.accu-chek.com.mx/sites/g/files/iut326/f/media_root/product_media_files/product_images/accu-chek_instant_tiras_reactivas_reg_sanitario.png",
-      "pagina": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
-      "ancho_original": 356,
-      "alto_original": 505,
-      "lado_final": 545,
-      "fecha": "2026-09-29",
-      "lado_util": 454
-    },
-    {
       "archivo": "4015630067084_3.jpg",
       "origen": "tienda",
       "fuente_url": "https://cdn.shopify.com/s/files/1/0748/7052/2148/files/Tiras.jpg?v=1778685824",
@@ -53,6 +42,28 @@
       "lado_final": 912,
       "fecha": "2026-09-29",
       "lado_util": 845
+    },
+    {
+      "archivo": "4015630067084_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_634989-MLU70464577387_072023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24516212",
+      "ancho_original": 429,
+      "alto_original": 500,
+      "lado_final": 540,
+      "lado_util": 454,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "4015630067084_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_639757-MLU70439045018_072023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24516212",
+      "ancho_original": 430,
+      "alto_original": 500,
+      "lado_final": 540,
+      "lado_util": 453,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-instant",
@@ -64,7 +75,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Instant (presentaciones de 25 y 50 tiras). El registro 2120R2017 SSA aparece en esa página; confirmar en el empaque. Es un insumo de diagnóstico, no un medicamento; se usó Medidores de Glucosa igual que en el lote 1.",
+    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Instant (presentaciones de 25 y 50 tiras). El registro 2120R2017 SSA aparece en esa página; confirmar en el empaque. Es un insumo de diagnóstico, no un medicamento; se usó Medidores de Glucosa igual que en el lote 1. Catálogo de Mercado Libre MLM24516212 no coincide: El catálogo ML describe un listado combinado, no la caja de solo 50 tiras: 'Tiras Reactivas Accu-Chek Instant 50 Unidades con 100 Lancetas Color Blanco' (incluye 100 lancetas) y sus atributos corresponden a un glucómetro (Bluetooth, incluye pilas, accesorios 'Lancetas, Pila', memoria de 720 resultados, 53 g). La ficha describe solo 50 tiras reactivas. Coinciden: marca Accu-Chek, línea Instant, fabricante Roche, 50 unidades de tiras, muestra 0.6 µL y tiempo de 4 s. No coincide la presentación (lancetas incluidas y atributos de medidor). No se toma ningún dato del catálogo. El catálogo tampoco trae registro sanitario.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos: caja Accu-Chek Instant 50 tiras del fabricante (accu-chek.com.mx, 505 px, con leyenda 'Reg. No. 2120R2017 SSA') y foto de tienda 1200 px (sanorim.mx) con empaque en español/portugués."
   }

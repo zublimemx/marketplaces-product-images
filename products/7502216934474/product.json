@@ -25,7 +25,7 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "MLM457826",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473779"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7502216934474_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20231215_1032325.jpg",
-      "pagina": "https://www.benavides.com.mx/cuyulid-70-mg-acido-alendronico5600-ui-colecalciferol-4-comprimidos",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 974,
-      "fecha": "2026-09-29",
-      "lado_util": 902
+      "archivo": "7502216934474_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_889392-MLA96143985703_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473779",
+      "ancho_original": 992,
+      "alto_original": 749,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502216934474_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_750297-MLA96143886351_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473779",
+      "ancho_original": 991,
+      "alto_original": 749,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

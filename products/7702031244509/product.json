@@ -24,7 +24,7 @@
       "categoria_id": "MLM178755",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": "MLM17331875"
+      "catalogo_id": "MLM35911220"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7702031244509_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/7/7702031244509.jpg",
-      "pagina": "https://www.fahorro.com/lubriderm-crema-corporal-humectacion-diaria-400-ml.html",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 596,
-      "fecha": "2026-09-29",
-      "lado_util": 553
+      "archivo": "7702031244509_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_767473-MLU78290187259_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM35911220",
+      "ancho_original": 488,
+      "alto_original": 952,
+      "lado_final": 933,
+      "lado_util": 864,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -5,7 +5,7 @@
   "nombre_sistema": "CRA MENNEN BABY MAGIC UV 300ML",
   "nombres_sistema_alternos": [],
   "titulo": "Crema Mennen Baby Magic con Protección UV 300 ml",
-  "descripcion": "Descripción:\nLa crema Mennen Baby Magic con protección UV es una crema hipoalergénica formulada para la piel delicada del bebé. Combina humectación con protección solar gracias a su filtro UV, y contiene sábila, vitamina E y beta-caroteno que ayudan a mantener la piel suave, hidratada y cuidada. Es un producto de la marca Mennen, de Colgate-Palmolive.\n\nBeneficios:\n- Fórmula hipoalergénica para la piel delicada del bebé.\n- Filtro UV que protege contra los rayos solares intensos.\n- Humecta y cuida la piel del bebé.\n- Con sábila, vitamina E y beta-caroteno.\n- De rápida absorción, sin dejar sensación grasosa.\n- Aroma agradable que refresca la piel.\n\nPresentación:\nBotella de 300 ml con tapa que facilita la dosificación.",
+  "descripcion": "Descripción:\nLa crema Mennen Baby Magic con sábila y protección UV es una crema corporal hipoalergénica para la piel delicada del bebé. Humecta suavemente y, gracias a su filtro solar, ayuda a resguardar la piel de los daños que provocan los rayos UV. Es un producto de la marca Mennen, de Colgate-Palmolive, y no contiene PABA.\n\nBeneficios:\n- Fórmula hipoalergénica.\n- Humecta y cuida la piel del bebé, dejándola suave.\n- Con sábila, que aporta hidratación a la piel.\n- Con filtro UV, para ayudar a proteger la piel de los rayos del sol.\n- No contiene PABA.\n- Recomendada por la Sociedad Mexicana de Pediatría, según la información del producto.\n\nIngredientes:\nAgua, Mineral Oil, Ethylhexyl Methoxycinnamate, Cetyl Alcohol, Cetearyl Alcohol, Propylene Glycol, Phenoxyethanol, Stearic Acid, Triethanolamine, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Aloe Barbadensis Leaf Extract, Caprylyl Glycol, Parfum, Benzophenone-3, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tetrasodium EDTA. Consulte la lista completa y vigente en el empaque.\n\nModo de uso:\nAplique diariamente la cantidad necesaria para humectar la cara y el cuerpo del bebé después del baño.\n\nPresentación:\nBotella de 300 ml con tapa que facilita la dosificación.",
   "ficha": {
     "marca": "Mennen",
     "fabricante": "Colgate-Palmolive",
@@ -17,7 +17,7 @@
     "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
     "tipo_piel_cabello": "Piel delicada de bebé",
-    "otros": "Fórmula hipoalergénica; con sábila, vitamina E y beta-caroteno; filtro UV; formato crema"
+    "otros": "Fórmula hipoalergénica; Con sábila; Con filtro UV; No contiene PABA; Formato: crema; Zona de aplicación: cara y cuerpo; Recomendada por la Sociedad Mexicana de Pediatría"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM193807",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM29910195"
     },
     "amazon": {},
     "shopify": {},
@@ -33,14 +33,14 @@
   },
   "imagenes": [
     {
-      "archivo": "7501035908307_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6996032/7501035908307_01.jpg",
-      "pagina": "https://www.farmatodo.com.mx/mennen-crema-baby-magic-uv-botella-c-300-ml/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 973,
-      "lado_util": 901,
+      "archivo": "7501035908307_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_701592-MLA99829060733_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29910195",
+      "ancho_original": 597,
+      "alto_original": 1200,
+      "lado_final": 1165,
+      "lado_util": 1079,
       "fecha": "2026-09-29"
     }
   ],
@@ -53,7 +53,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "No se encontró lista de ingredientes ni modo de uso en fuentes confiables, por eso esas secciones se omiten. Fabricante tomado de una ficha que lista la marca Colgate.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM29910195, 2026-09-29). Fuentes: catálogo ML MLM29910195 (origen gtin, Crema para bebé Mennen Baby Magic sábila y protector solar 300 ml: hipoalergénica, sábila, UV, no contiene PABA, ingredientes, modo de uso); otro vendedor sin datos útiles; descripción y ficha actuales (botella con tapa, Colgate-Palmolive). CORRECCIÓN de ficha: se quitó 'vitamina E y beta-caroteno' de otros porque la lista de ingredientes del catálogo no los incluye (ni tocoferol ni caroteno). En la lista de ingredientes se corrigieron erratas de espacios y 'Leat' por 'Leaf' y se omitió el ingrediente ilegible 'Carboner'; por eso se remite a la lista completa del empaque. La recomendación de la Sociedad Mexicana de Pediatría sale del texto del catálogo. Se omitieron 'rápida absorción' y 'sin sensación grasosa' de la descripción actual por no estar respaldadas en el catálogo.",
     "notas_imagenes": "1 foto de tienda (973 px): frente de la botella. Se descartó una segunda foto borrosa y con exceso de brillo.",
     "fecha": "2026-09-29",
     "sesion": 7

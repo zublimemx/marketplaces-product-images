@@ -15,7 +15,8 @@
     "principio_activo": "Alcohol etílico desnaturalizado",
     "concentracion": "71.5° G.L.",
     "via_administracion": "Uso externo",
-    "otros": "Formato de venta: caja con 24 piezas; Envase: botella de plástico con tapa de rosca"
+    "otros": "Formato de venta: caja con 24 piezas; Envase: botella de plástico con tapa de rosca; Sin dosificador",
+    "sabor_aroma": "Neutra"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -31,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501868901124_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://distribuidorasanantonio.com/wp-content/uploads/2024/04/image-3.jpg",
-      "pagina": "https://articulosdentalesprofesionales.com.mx/categorias/638-alcohol-500-ml-dibar.html",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 316
+      "archivo": "7501868901124_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_807782-MLA79491222096_102024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM41483348",
+      "ancho_original": 390,
+      "alto_original": 1094,
+      "lado_final": 1075,
+      "lado_util": 996,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501868901124_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_767905-MLA79491289584_102024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM41483348",
+      "ancho_original": 392,
+      "alto_original": 1097,
+      "lado_final": 1078,
+      "lado_util": 999,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -51,7 +63,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "El GTIN 7501868901124 corresponde a la botella individual de 500 ml; el formato 'caja con 24 piezas' se toma del nombre del sistema (precio consistente con 24 piezas). Concentración leída de la etiqueta (71.5° G.L.). Sin ficha del fabricante.",
+    "notas": "El GTIN 7501868901124 corresponde a la botella individual de 500 ml; el formato 'caja con 24 piezas' se toma del nombre del sistema (precio consistente con 24 piezas). Concentración leída de la etiqueta (71.5° G.L.). Sin ficha del fabricante. Catálogo de Mercado Libre MLM41483348 no coincide: El catálogo MLM41483348 describe una sola botella de 500 ml (formato de venta: unidad, 1 por pack), no la caja con 24 botellas de la ficha y del nombre del sistema. El catálogo confirma que este GTIN corresponde a la pieza individual. Coinciden marca Dibar, alcohol desnaturalizado, concentración 71.5 y 500 ml. Solo difiere el número de piezas (1 vs 24). Del catálogo se toman fragancia neutra y sin dosificador; se ignora el texto que lo llama gel/antibacterial porque contradice su propio atributo de formato líquido.",
     "notas_imagenes": "Sin cambios: se queda 1 foto de tienda (Distribuidora San Antonio, 500 px, 316 px útiles). Búsqueda web (1) sin mejor fuente: articulosdentalesprofesionales tiene 800 px pero con marca de agua de 'Depósito Dental'; Medicine Depot Sureste 512 px (471 px útiles, no llega a 500) con un logotipo de tienda en la esquina; Farmasuper 500 px; Farmacia Argentina y Farmaleal bloquean (403/429). No hay foto de la caja de 24.",
     "fecha": "2026-09-29",
     "sesion": 4

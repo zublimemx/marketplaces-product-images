@@ -5,7 +5,7 @@
   "nombre_sistema": "DESOD LADYSS PRO 5EN1 STICK 45G",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante Lady Speed Stick Pro 5 en 1 Barra 45 g",
-  "descripcion": "Descripción:\nLady Speed Stick Pro 5 en 1 es un desodorante antitranspirante en barra de Colgate-Palmolive que brinda protección contra el sudor y el mal olor gracias a una fórmula con 5 beneficios. Su empaque indica hasta 48 horas de protección. El formato en barra de 45 g permite aplicarlo directamente sobre la piel.\n\nCaracterísticas:\n- Formato en barra sólida de 45 g.\n- Fórmula Pro 5 en 1 con 5 beneficios.\n- 48 horas de protección indicadas en el empaque.\n- Línea Lady Speed Stick, para mujer.\n\nModo de uso:\nAplique directamente sobre las axilas limpias y secas.\n\nPresentación:\nBarra de 45 g.",
+  "descripcion": "Descripción:\nLady Speed Stick Pro 5 en 1 es un desodorante antitranspirante en barra para mujer, de Colgate-Palmolive. Ayuda a mantener las axilas secas y sin mal olor hasta por 48 horas, con una fórmula invisible que no transfiere residuos a la piel. Su formato de 45 g permite aplicarlo de forma directa y controlada al hacer girar el tornillo del envase.\n\nBeneficios:\n- Protección contra el sudor y el mal olor hasta por 48 horas.\n- Cinco beneficios en una sola fórmula: seca, invisible, fresca, suave y dermatológicamente probada.\n- Fórmula sin alcohol etílico.\n- Fragancia floral y frutal.\n- Barra de aplicación directa, para uso exclusivo en las axilas.\n\nIngredientes:\nElaeis Guineensis (Palm) Kernel Oil, Aluminum Zirconium Tetrachlorohydrex GLY, Stearyl Alcohol, Cyclopentasiloxane, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, Hydrogenated Soybean Oil, PEG-8 Distearate, Parfum, Behenyl Alcohol, Citric Acid, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Benzyl Salicylate, Hexyl Cinnamal, Citronellol, Geraniol, Coumarin, Limonene, Alpha-Isomethyl Ionone, Linalool, Eugenol, Cinnamyl Alcohol.\n\nModo de uso:\nGire el tornillo hasta que salga la barra y aplíquela sobre las axilas.\n\nPresentación:\nBarra de 45 g, una pieza.\n\nAdvertencias:\nPara uso exclusivo en las axilas. No lo aplique sobre piel irritada o lastimada. Suspenda su uso si presenta irritación, enrojecimiento o alguna molestia. Evite el contacto con los ojos. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Lady Speed Stick",
     "fabricante": "Colgate-Palmolive",
@@ -16,7 +16,8 @@
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "genero": "Mujer",
-    "otros": "Formato: barra; Protección: 48 horas"
+    "otros": "Formato: barra; Protección: 48 horas; Antitranspirante; Sin alcohol etílico; Dermatológicamente probado; Fórmula invisible; Zona de aplicación: axilas",
+    "sabor_aroma": "Floral y frutal"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +25,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17017824"
     },
     "amazon": {},
     "shopify": {},
@@ -64,7 +65,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Las fuentes casi no detallan los 5 beneficios ni los ingredientes; descripción breve. No se encontró la página oficial de la marca en México.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17017824, 2026-09-29). Fuentes: catálogo ML MLM17017824 (origen gtin, Lady Speed Stick Pro 5 Beneficios 45 g, barra): beneficios, 48 horas, sin alcohol etílico, ingredientes, modo de uso, advertencias, fragancia floral y frutal; descripción y ficha actuales (fabricante Colgate-Palmolive). Redacción propia; no se copiaron los eslóganes del catálogo. La lista de ingredientes se transcribe tal cual del catálogo. Sin dudas.",
     "notas_imagenes": "2 fotos de tienda (Claroshop, 1600 px): barra de 45 g de frente y en ángulo.",
     "fecha": "2026-09-29",
     "sesion": 6

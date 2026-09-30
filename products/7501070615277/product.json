@@ -26,7 +26,7 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39476063"
     },
     "amazon": {},
     "shopify": {},
@@ -34,26 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501070615277_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/DAFLON-500MG-TAB-C20-TAB-C20-LABORATORIOS-SANFER-S-A-DE-C.-Disponible-en-Farmasmart.-Compra-en-linea-7501070615277.webp",
-      "pagina": "https://farmasmart.com/daflon-500mg-tab-c20",
-      "ancho_original": 700,
-      "alto_original": 700,
-      "lado_final": 547,
-      "fecha": "2026-09-29",
-      "lado_util": 507
-    },
-    {
-      "archivo": "7501070615277_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501070615277_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/daflon-500-mg-tab-caj-c-20.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 455
+      "archivo": "7501070615277_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_855894-MLU78656464499_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476063",
+      "ancho_original": 992,
+      "alto_original": 740,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501070615277_3.jpg",

@@ -15,7 +15,7 @@
     "contenido_neto": 3,
     "unidad_contenido": "ml",
     "unidades_por_envase": 100,
-    "otros": "Capacidad: 3 ml; Aguja: 21G x 32 mm; Estéril; De un solo uso; Sin látex en el émbolo; Empaque individual"
+    "otros": "Capacidad: 3 ml; Aguja: 21G x 32 mm; Estéril; De un solo uso; Sin látex en el émbolo; Empaque individual; Punta Luer lock; Cilindro transparente con escala graduada; Aguja hipodérmica incluida"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,13 +23,24 @@
       "categoria_id": "MLM189428",
       "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": "MLM22606866"
+      "catalogo_id": "MLM77233911"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "17501073025391_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_871221-MLA116108859117_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM77233911",
+      "ancho_original": 1031,
+      "alto_original": 906,
+      "lado_final": 1004,
+      "lado_util": 930,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "17501073025391_1.jpg",
       "origen": "tienda",
@@ -40,6 +51,17 @@
       "lado_final": 1658,
       "fecha": "2026-09-29",
       "lado_util": 1536
+    },
+    {
+      "archivo": "17501073025391_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_766329-MLA116109390719_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM77233911",
+      "ancho_original": 912,
+      "alto_original": 1168,
+      "lado_final": 1188,
+      "lado_util": 1100,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -49,9 +71,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN de 14 dígitos (17501073025391) es el de la caja de 100; el de la pieza individual es 7501073025394, con el que se localizó la foto. Características generales de la familia BD Plastipak (página del fabricante). Catálogo ML por coincidencia exacta de título (jeringa BD Plastipak 3 ml aguja verde 21G x 32 mm, 100 piezas); página no abierta.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM77233911, 2026-09-29). Catálogo MLM77233911 (BD Plastipak 3 ml, aguja verde 21G x 32 mm, caja con 100, punta Luer lock, estéril, un solo uso, empaque individual). Coinciden marca, línea, capacidad, aguja, color, 100 piezas, esterilidad y empaque individual. El GTIN de 14 dígitos es el de la caja de 100, coherente con el catálogo.",
     "notas_imagenes": "1 foto de tienda de la jeringa individual con aguja verde en su empaque (1600 px), obtenida por el GTIN de la pieza; no se halló foto de la caja de 100.",
     "fecha": "2026-09-29",
     "sesion": 4

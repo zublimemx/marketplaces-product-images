@@ -14,7 +14,7 @@
     "contenido_neto": 50,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 50,
-    "otros": "Medida: 10 x 12 cm; referencia 1626W; apósito transparente con marco de aplicación; hipoalergénico; libre de látex; resistente al agua"
+    "otros": "Medida: 10 x 12 cm; referencia 1626W; apósito transparente con marco de aplicación; hipoalergénico; libre de látex; resistente al agua; Estéril; Cada apósito en empaque individual; Material: poliéster"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,13 +22,24 @@
       "categoria_id": "MLM178504",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Vendas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19713511"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "4001895928765_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_628693-MLU72612716825_112023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19713511",
+      "ancho_original": 1053,
+      "alto_original": 1083,
+      "lado_final": 1060,
+      "lado_util": 981,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "4001895928765_2.jpg",
       "origen": "tienda",
@@ -50,6 +61,17 @@
       "lado_final": 792,
       "fecha": "2026-09-29",
       "lado_util": 734
+    },
+    {
+      "archivo": "4001895928765_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_968620-MLU73211794057_122023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19713511",
+      "ancho_original": 1200,
+      "alto_original": 739,
+      "lado_final": 1161,
+      "lado_util": 1075,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.solventum.com/es-es/home/f/b00035590/",
@@ -60,9 +82,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 4001895928765 no aparece en las páginas consultadas; se identificó por nombre y por la referencia 1626W (10 x 12 cm, caja de 50). La página oficial es de Solventum España (Tegaderm en general).",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM19713511, 2026-09-29). Catálogo MLM19713511 (Tegaderm Film 3M 10 x 12 cm, caja con 50, modelo 1626W, estéril, adhesivo hipoalergénico sin látex). Coinciden marca, línea, medida, modelo 1626W y 50 piezas. Se ignora 'Color: Blanco' del catálogo (el apósito es transparente según su propia descripción).",
     "notas_imagenes": "2 fotos (tienda española de material médico, de 739 px y 792 px): caja de frente y apósito. Se descartaron la foto del sobre individual de baja resolución y una foto de uso en un brazo.",
     "fecha": "2026-09-29",
     "sesion": 5

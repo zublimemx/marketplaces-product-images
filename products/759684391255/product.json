@@ -31,15 +31,26 @@
   },
   "imagenes": [
     {
-      "archivo": "759684391255_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://openfarma.mx/cdn/shop/files/Imagenes_de_planograma__62027a5e-77ee-4fab-b269-34fbeb9278c3__00759684391255.1.jpg?v=1764892455",
-      "pagina": "https://openfarma.mx/products/pomada-labial-jaloma-sabores-60-piezas",
-      "ancho_original": 550,
-      "alto_original": 550,
-      "lado_final": 533,
-      "fecha": "2026-09-29",
-      "lado_util": 494
+      "archivo": "759684391255_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_701451-MLU78444171728_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM20714462",
+      "ancho_original": 1111,
+      "alto_original": 1199,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "759684391255_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_933488-MLA88555885462_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM20714462",
+      "ancho_original": 1006,
+      "alto_original": 1137,
+      "lado_final": 1116,
+      "lado_util": 1034,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

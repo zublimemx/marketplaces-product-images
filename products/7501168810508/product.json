@@ -25,7 +25,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172179"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501168810508_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501168810508_4.jpg",
-      "pagina": "https://www.fahorro.com/ursofalk-250-mg-oral-50-caps.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1625,
-      "fecha": "2026-09-29",
-      "lado_util": 1505
+      "archivo": "7501168810508_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_660039-MLU78661621604_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172179",
+      "ancho_original": 995,
+      "alto_original": 481,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

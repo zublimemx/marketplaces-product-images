@@ -5,7 +5,7 @@
   "nombre_sistema": "TCO MEXSANA MED 160G",
   "nombres_sistema_alternos": [],
   "titulo": "Talco Mexsana Polvo Desodorante Corporal 160 g",
-  "descripcion": "Descripción:\nMexsana es un polvo desodorante corporal para toda la familia que refresca, absorbe la humedad y ayuda a mantener la piel seca y cómoda durante el día. Su presentación en envase de 160 g es práctica para el uso diario en casa.\n\nBeneficios:\n- Aporta hidratación, frescura y reduce asperezas\n- Ayuda a prevenir rozaduras y a absorber el exceso de sudor\n- Ideal para pies, axilas y zonas propensas a la fricción\n- Fórmula sin triclosán\n- Fragancia con notas de alcanfor, romero y cítricos de naranja\n\nPresentación:\nEnvase con 160 g de polvo.",
+  "descripcion": "Descripción:\nMexsana Polvo Desodorante, de Bayer, en presentación de 160 g. Es un talco desodorante de uso externo que ayuda a refrescar la piel, absorber la humedad y controlar el sudor en las zonas donde más se acumula, como pies, axilas y áreas de roce. Su textura fina en polvo ayuda a mantener la piel seca y cómoda durante el día y a reducir la molestia por rozaduras, y su fragancia con notas de alcanfor, romero y cítricos de naranja deja una sensación de frescura.\n\nBeneficios:\n- Ayuda a controlar el olor y la humedad en pies, axilas y zonas propensas a la fricción\n- Contribuye a prevenir rozaduras y a mantener la piel seca\n- En calzado cerrado, ayuda a aliviar la comezón y el olor de los pies asociados a la humedad\n- Producto hipoalergénico y probado dermatológicamente\n- Fragancia con notas de alcanfor, romero y cítricos de naranja\n\nPresentación:\nEnvase tipo botella con 160 g de polvo.\n\nAdvertencias:\n- Uso externo.\n- Consulte en el empaque las indicaciones de uso, las precauciones y la edad a partir de la cual puede aplicarse.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Mexsana",
     "fabricante": "Bayer",
@@ -15,7 +15,7 @@
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "sabor_aroma": "Alcanfor, romero y cítricos de naranja",
-    "otros": "Sin triclosán; Uso: cuerpo y pies; Formato: talco en polvo"
+    "otros": "Uso: cuerpo y pies; Formato: talco en polvo; Envase: botella; Hipoalergénico; Dermatológicamente probado"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,7 +23,7 @@
       "categoria_id": "MLM191691",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Talcos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22264352"
     },
     "amazon": {},
     "shopify": {},
@@ -40,6 +40,17 @@
       "lado_final": 1185,
       "fecha": "2026-09-29",
       "lado_util": 1098
+    },
+    {
+      "archivo": "7502276040603_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_696570-MLA92049101861_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22264352",
+      "ancho_original": 494,
+      "alto_original": 1097,
+      "lado_final": 1078,
+      "lado_util": 999,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -52,7 +63,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado como talco Mexsana de 160 g (en una tienda figura junto con el GTIN 7501050624015 como el mismo artículo). 'MED' del nombre del sistema (medicado) no se pudo confirmar en el empaque; una tienda lo clasifica como medicamento, otras como higiene corporal. No se encontró fórmula ni modo de uso; el fabricante Bayer se tomó del logotipo del envase.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM22264352, 2026-09-29). Catálogo ML MLM22264352 (origen gtin): misma marca, tipo de producto y peso (polvo desodorante Mexsana Bayer 160 g); el catálogo lo presenta como 'para pies', el título como 'corporal' (su texto también dice apto para todo el cuerpo). Fuentes: catálogo (control de olor y sudor, alivio de la picazón en calzado cerrado, hipoalergénico, dermatológicamente testeado, botella) y descripción actual (pies, axilas, rozaduras, fragancia alcanfor/romero/naranja). CONFLICTO: el catálogo dice que contiene triclosán y la descripción/ficha anteriores decían 'sin triclosán'; no se afirma ninguna de las dos cosas y se quitó 'Sin triclosán' de 'otros'. También se omitió 'para toda la familia' porque el catálogo marca 'apta para bebés: No'; se remite al empaque. Falta confirmar en el empaque si es medicado ('MED' del sistema).",
     "notas_imagenes": "1 foto de tienda (1200 px, frente del envase de 160 g).",
     "fecha": "2026-09-29",
     "sesion": 4

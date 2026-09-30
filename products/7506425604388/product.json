@@ -16,9 +16,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 6",
-    "talla": "Etapa 6",
+    "talla": "XXG",
     "genero": "Niñas",
-    "otros": "Peso del bebé: más de 13.5 kg; Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+    "otros": "Peso del bebé: más de 13.5 kg; Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete; Protección de hasta 12 h; Con gel superabsorbente: Sí; Libre de látex: Sí; Libre de parabenos: Sí"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379871"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,17 @@
       "lado_final": 1520,
       "fecha": "2026-09-29",
       "lado_util": 1408
+    },
+    {
+      "archivo": "7506425604388_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_961943-MLA99856046309_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379871",
+      "ancho_original": 1200,
+      "alto_original": 540,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
@@ -52,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF = Huggies UltraConfort) y por el GTIN hermano 7506425604364 (Niño Etapa 6), confirmado en el lote 1. La página oficial no lista pesos; el de más de 13.5 kg viene del lote 1 (Amazon y tiendas). Las 40 piezas salen del nombre del sistema.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17379871, 2026-09-29). Comparado: marca Huggies, línea UltraConfort, Etapa 6, niñas, 40 piezas, peso mínimo 13.5 kg (coincide con 'más de 13.5 kg'). Todo coincide. El catálogo aporta la talla XXG (la ficha traía 'Etapa 6' como talla) y 12 h de protección. El catálogo no menciona indicador de humedad (no comparable). 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 6, 40 pzas. Existen fotos del diseño anterior (rosa) que se descartaron para no mezclar empaques. huggies.com.mx dio 403; farmaciasmedina solo tiene 480 px."
   }

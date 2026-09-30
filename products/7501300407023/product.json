@@ -28,7 +28,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "MLM457826",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39474979"
     },
     "amazon": {},
     "shopify": {},
@@ -36,14 +36,25 @@
   },
   "imagenes": [
     {
-      "archivo": "7501300407023_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/images/large/7501300407023_1.jpg",
-      "pagina": "https://www.yza.mx/dolac-30-mg---caja-con-4-tabletas-sublingual-ketorolaco/MXYZ_7501300407023.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 871,
-      "lado_util": 807,
+      "archivo": "7501300407023_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_657702-MLA112454464950_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474979",
+      "ancho_original": 830,
+      "alto_original": 1092,
+      "lado_final": 1073,
+      "lado_util": 994,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501300407023_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_804458-MLA87285996285_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474979",
+      "ancho_original": 981,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
       "fecha": "2026-09-29"
     }
   ],

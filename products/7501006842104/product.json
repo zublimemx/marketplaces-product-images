@@ -5,7 +5,7 @@
   "nombre_sistema": "POM LAB GOLBA SURTEXH TB60",
   "nombres_sistema_alternos": [],
   "titulo": "Pomada Labial Golba Surtido Exhibidor 60 Tubos 2.5 g",
-  "descripcion": "Descripción:\nExhibidor tipo frasco con 60 protectores labiales Golba surtidos, de 2.5 g cada uno. Los protectores Golba humectan, reparan y protegen los labios y ayudan a prevenir la resequedad ocasionada por el sol, el viento y el frío. Presentación pensada para comercios que ofrecen protectores labiales al detalle, con variedad de colores.\n\nCaracterísticas:\n- Protector para labios en tubo de 2.5 g\n- Con cera de abeja\n- Colores surtidos\n- Exhibidor con 60 piezas listo para colocar en mostrador\n\nPresentación:\nFrasco exhibidor con 60 tubos de 2.5 g (150 g de producto en total).",
+  "descripcion": "Descripción:\nExhibidor con 60 pomadas labiales Golba surtidas, de 2.5 g cada una, en formato de barra. Las pomadas hidratan y ayudan a reparar los labios, y los protegen de la resequedad que provocan el sol, el viento y el frío. Es una presentación pensada para comercios que ofrecen protectores labiales al detalle, con variedad de colores.\n\nBeneficios:\n- Hidrata y ayuda a reparar los labios resecos\n- Protege contra la resequedad por sol, viento y frío\n- Dermatológicamente probada\n- Con cera de abeja\n- Colores surtidos\n- Formato en barra de 2.5 g, práctico para llevar a cualquier lugar\n\nPresentación:\nExhibidor con 60 tubos de 2.5 g cada uno (150 g de producto en total). Los colores son surtidos y pueden variar.\n\nAdvertencias:\n- Producto de uso externo, solo para los labios.\n- Suspenda su uso si aparece irritación.\n- Consulte la fecha de caducidad en el empaque y mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "Golba",
     "linea": "Protector para labios",
@@ -22,7 +22,7 @@
       "categoria_id": "MLM172339",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Bálsamos Labiales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM41443328"
     },
     "amazon": {},
     "shopify": {},
@@ -62,7 +62,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Es presentación de exhibidor con 60 piezas (TB60). Los colores y aromas surtidos no se pudieron detallar; la descripción de beneficios viene de fichas de la misma marca.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM41443328, 2026-09-29). Catálogo ML MLM41443328 (origen gtin): 'Bálsamo labial Laboratorios Azteca Clásico exhibidor 60x2.5 g'; coincide en presentación (exhibidor de 60 piezas de 2.5 g). Diferencias de nombre: el catálogo lo pone como marca Laboratorios Azteca, otro vendedor lo llama Golba con el mismo texto; podría ser el fabricante de Golba, pero no se agregó fabricante a la ficha por no estar confirmado en las fuentes. El catálogo marca sabor menta, pero el título dice surtido, así que no se afirmó sabor ni aroma. Fuentes: catálogo y texto del otro vendedor (humecta, repara, protege, dermatológicamente testeado) y descripción actual (cera de abeja, colores surtidos). Se ignoró 'efecto voluminizador'.",
     "notas_imagenes": "2 fotos del frasco exhibidor con los tubos (tienda, de más de 1,600 px). La imagen de la tienda origen del GTIN era un 'sin imagen' y se descartó.",
     "fecha": "2026-09-29",
     "sesion": 5

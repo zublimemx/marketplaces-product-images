@@ -5,7 +5,7 @@
   "nombre_sistema": "TENA SLIP NOCT GDE C/8",
   "nombres_sistema_alternos": [],
   "titulo": "Pañal para Adulto Tena Slip Nocturno Talla G 8 Piezas",
-  "descripcion": "Descripción:\nTENA Slip Nocturno son pañales para adulto unisex, en talla G (grande), diseñados para dar máxima protección durante la noche a personas con pérdidas de orina abundantes. Están pensados para estar acostado, con un ajuste anatómico en la cintura y cintas adhesivas multiajuste que pueden pegarse varias veces.\n\nCaracterísticas:\n- Absorción superior (súper abundante) con gel súper absorbente que gelatiniza los líquidos y neutraliza el mal olor de la orina\n- Mantiene la piel seca\n- Doble barrera anti-escurrimiento reforzada\n- Cintas ajustables multiajuste para un ajuste cómodo y seguro toda la noche\n- Con ingredientes para el cuidado de la piel, como vitamina E\n- Fácil de poner y quitar a personas con nula movilidad\n\nPresentación:\nPaquete con 8 piezas, talla G (grande).",
+  "descripcion": "Descripción:\nTENA Slip Nocturno es un pañal para adulto con cintas adhesivas, unisex, en talla G (grande), diseñado para dar máxima protección durante la noche a personas con pérdidas de orina abundantes. Está pensado para usarse acostado y busca ofrecer más horas de descanso sin interrupciones, con un ajuste anatómico y una cubierta suave tipo tela.\n\nBeneficios:\n- Absorción súper abundante gracias a un gel absorbente que atrapa el líquido y ayuda a neutralizar el olor\n- Doble barrera anti-escurrimiento reforzada, que ayuda a prevenir fugas durante la noche\n- Cintas ajustables multiajuste, que pueden despegarse y volver a pegarse, y elásticos al frente y atrás para un ajuste cómodo y seguro\n- Ayuda a mantener la piel seca y cuenta con ingredientes para su cuidado, como vitamina E\n- Libre de látex y desechable\n- Fácil de colocar y retirar, incluso en personas con nula movilidad\n\nPresentación:\nPaquete con 8 piezas, talla G (grande). El diseño del empaque puede variar.\n\nAdvertencias:\n- Producto desechable, de un solo uso.\n- Consulte a un profesional de la salud si presenta irritación en la piel o si necesita orientación sobre el nivel de absorción que requiere.\n- Mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "TENA",
     "fabricante": "Essity",
@@ -17,7 +17,7 @@
     "unidades_por_envase": 8,
     "talla": "G (Grande)",
     "genero": "Unisex",
-    "otros": "Tipo: pañal para adulto con cintas adhesivas; Absorción: súper abundante; Uso: nocturno"
+    "otros": "Tipo: pañal para adulto con cintas adhesivas; Absorción: súper abundante; Uso: nocturno; Con gel absorbente; Doble barrera anti-escurrimiento; Cubierta suave tipo tela; Libre de látex; Desechable"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM194512",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM15995537"
     },
     "amazon": {},
     "shopify": {},
@@ -64,7 +64,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN 7501019053283 confirmado en el sitio oficial como talla G de 8 piezas (CH/M es 7501019053276). El empaque cambió de diseño (versión ProSkin más reciente); las fotos muestran ambos diseños.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM15995537, 2026-09-29). Catálogo ML MLM15995537 (origen gtin): Tena Slip Nocturno talla G, 8 piezas; coincide con el título. Fuentes: catálogo (nocturno, acostado, absorción máxima, doble barrera, cubierta tipo tela, cintas y elásticos, gel absorbente, libre de látex, anatómico) y descripción actual (vitamina E, cintas multiajuste, nula movilidad); investigación indica que el diseño del empaque cambió (versión ProSkin). Se omitió el atributo 'a prueba de agua' por ambiguo. Sin modo de uso en las fuentes.",
     "notas_imagenes": "2 fotos: frente del empaque del sitio oficial (1200 px, diseño ProSkin) y vista 3/4 del diseño anterior (Farmacias del Ahorro, 1600 px); se descartaron 2 imágenes promocionales.",
     "fecha": "2026-09-29",
     "sesion": 4

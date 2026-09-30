@@ -27,7 +27,7 @@
       "categoria_id": "MLM457813",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "MLM457834",
-      "catalogo_id": ""
+      "catalogo_id": "MLM57827144"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7703331157506_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw1271c26e/images/large/7703331157506_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/yasmin-3mg0.03mg-21-comp/MXYZ_7703331157506.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 681,
-      "fecha": "2026-09-29",
-      "lado_util": 631
+      "archivo": "7703331157506_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_648068-MLA92973509392_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM57827144",
+      "ancho_original": 991,
+      "alto_original": 430,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -24,7 +24,7 @@
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
       "categoria_rx_sugerida": "MLM457827",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473752"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,17 @@
       "lado_final": 1436,
       "fecha": "2026-09-29",
       "lado_util": 1330
+    },
+    {
+      "archivo": "7501088507922_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_747074-MLU78656509721_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473752",
+      "ancho_original": 993,
+      "alto_original": 390,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

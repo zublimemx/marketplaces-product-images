@@ -26,7 +26,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455579"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,39 @@
       "alto_original": 1000,
       "lado_final": 1032,
       "lado_util": 955,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501008491966_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_925944-MLU78636656203_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455579",
+      "ancho_original": 770,
+      "alto_original": 587,
+      "lado_final": 756,
+      "lado_util": 700,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501008491966_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_888675-MLU78652158422_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455579",
+      "ancho_original": 587,
+      "alto_original": 358,
+      "lado_final": 577,
+      "lado_util": 535,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501008491966_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_774346-MLU78886121765_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455579",
+      "ancho_original": 647,
+      "alto_original": 369,
+      "lado_final": 635,
+      "lado_util": 587,
       "fecha": "2026-09-29"
     }
   ],

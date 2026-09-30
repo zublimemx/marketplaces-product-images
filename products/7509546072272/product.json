@@ -17,7 +17,9 @@
     "unidades_por_envase": 1,
     "sabor_aroma": "Fresa",
     "edad_etapa": "Niños",
-    "otros": "Con flúor; Sabor: fresa; Formato: tubo en caja de cartón"
+    "otros": "Con flúor; Sabor: fresa; Formato: tubo en caja de cartón; Libre de gluten; Baja abrasión",
+    "principio_activo": "Fluoruro de sodio",
+    "concentracion": "0.24 %"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +27,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19533625"
     },
     "amazon": {},
     "shopify": {},
@@ -54,7 +56,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "Otra tienda muestra este GTIN con caja de sabor uva; Del Sol lo muestra como Fresantástico (fresa) y coincide con el sistema. Beneficios y modo de uso de la página oficial de Colgate Colombia (mismo producto en otro país); no se listan ingredientes por posible diferencia de fórmula.",
+    "notas": "Otra tienda muestra este GTIN con caja de sabor uva; Del Sol lo muestra como Fresantástico (fresa) y coincide con el sistema. Beneficios y modo de uso de la página oficial de Colgate Colombia (mismo producto en otro país); no se listan ingredientes por posible diferencia de fórmula. Catálogo de Mercado Libre MLM19533625 no coincide: El catálogo MLM19533625 es 'Gel Dental Colgate Kids Con Fluor Sabores Surtidos 50 g' y dice que el sabor puede ser fresa o uva; no identifica la variante Fresantástico ni el sabor fresa de la ficha (la investigación ya había visto este GTIN con caja de sabor uva). Coinciden marca Colgate, línea Kids, 50 g, con flúor, uso infantil y formato crema. El sabor no se puede confirmar (catálogo: surtidos fresa y uva; ficha: Fresantástico/fresa). Se agregan fluoruro de sodio 0.24 %, libre de gluten y baja abrasión.",
     "notas_imagenes": "1 foto de tienda (Del Sol, 1200 px) de la caja Fresantástico de fresa. Se descartaron 3 fotos del mismo GTIN con caja de sabor uva y una foto casi idéntica.",
     "fecha": "2026-09-29",
     "sesion": 4

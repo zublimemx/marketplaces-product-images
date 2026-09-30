@@ -23,7 +23,7 @@
       "categoria_id": "MLM167991",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Lubricantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM52688702"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7506460101514_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506460101514.jpg",
-      "pagina": "https://www.fahorro.com/sico-softlube-original-lubricante-intimo-envase-56-7-gr.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1728,
-      "fecha": "2026-09-29",
-      "lado_util": 1600
+      "archivo": "7506460101514_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_877886-MLA114453449805_072026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM52688702",
+      "ancho_original": 678,
+      "alto_original": 1172,
+      "lado_final": 1150,
+      "lado_util": 1065,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

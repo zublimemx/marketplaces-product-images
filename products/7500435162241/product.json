@@ -25,25 +25,13 @@
       "categoria_id": "MLM430117",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM53409777"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [
-    {
-      "archivo": "7500435162241_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435162241_1.jpg",
-      "pagina": "https://www.fahorro.com/head-shoulders-shampoo-control-caspa-2-en-1-suave-y-manejable-650-ml.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1728,
-      "lado_util": 1600,
-      "fecha": "2026-09-29"
-    }
-  ],
+  "imagenes": [],
   "url_oficial": "",
   "fuentes": [
     "https://www.fahorro.com/head-shoulders-shampoo-control-caspa-2-en-1-suave-y-manejable-650-ml.html",

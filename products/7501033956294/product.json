@@ -25,7 +25,7 @@
       "categoria_id": "MLM189058",
       "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM33128669"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,28 @@
       "lado_final": 1548,
       "fecha": "2026-09-29",
       "lado_util": 1434
+    },
+    {
+      "archivo": "7501033956294_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_628420-MLA99607284446_122025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM33128669",
+      "ancho_original": 366,
+      "alto_original": 916,
+      "lado_final": 900,
+      "lado_util": 834,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501033956294_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_891429-MLU74413597656_022024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM33128669",
+      "ancho_original": 319,
+      "alto_original": 798,
+      "lado_final": 784,
+      "lado_util": 726,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

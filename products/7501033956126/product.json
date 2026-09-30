@@ -24,7 +24,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19699900"
     },
     "amazon": {},
     "shopify": {},
@@ -32,37 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501033956126_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaV_1.jpg?v=1685158516",
-      "pagina": "https://sanorim.mx/products/glucerna-sabor-vainilla-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 534,
-      "fecha": "2026-09-29",
-      "lado_util": 495
+      "archivo": "7501033956126_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_600717-MLA99992589515_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19699900",
+      "ancho_original": 485,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7501033956126_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GlucernaV.jpg?v=1685158516",
-      "pagina": "https://sanorim.mx/products/glucerna-sabor-vainilla-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 456
-    },
-    {
-      "archivo": "7501033956126_3.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501033956126_6845fe4d-7937-4541-8889-e76bd9442a05.jpg?v=1701391547&width=1000",
-      "pagina": "https://farmaciasanjorge.com/products/18023",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1034,
-      "fecha": "2026-09-29",
-      "lado_util": 958
+      "archivo": "7501033956126_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_918251-MLA92115967450_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19699900",
+      "ancho_original": 781,
+      "alto_original": 1200,
+      "lado_final": 1181,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.contigo.abbott/es-mx/marca/glucerna/glucerna",

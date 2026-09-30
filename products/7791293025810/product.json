@@ -5,7 +5,7 @@
   "nombre_sistema": "DESOD AXE MEN FUSION SPY 150ML",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante en Aerosol Axe Fusion Men 150 ml",
-  "descripcion": "Descripción:\nDesodorante en aerosol AXE Fusion para hombre, en presentación de 150 ml. Ofrece protección contra el sudor y el mal olor por hasta 48 horas y una fragancia intensa de fresh citrus y pimienta, que combina notas frescas con toques picantes para un aroma masculino y sofisticado.\n\nBeneficios:\n- Protección contra el sudor y el mal olor por 48 horas\n- Incluye destructores del mal olor para una protección de larga duración\n- Fórmula con 0% de sales de aluminio\n- Aroma fresco e intenso de fresh citrus y pimienta\n- Lata de aluminio reciclable\n\nModo de uso:\nAbra, gire y aplique directamente en las axilas a no menos de 15 cm de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\n- Evite aplicarlo sobre piel excesivamente húmeda, irritada o lastimada.",
+  "descripcion": "Descripción:\nDesodorante en aerosol AXE Fusion para hombre, en presentación de 150 ml. Está formulado para dar protección contra el sudor y el mal olor por hasta 48 horas, con una fragancia intensa de fresh citrus y pimienta que combina notas frescas con toques picantes para lograr un aroma masculino y sofisticado. Incluye destructores del mal olor y se presenta en una lata de aluminio reciclable.\n\nBeneficios:\n- Protección contra el sudor y el mal olor por hasta 48 horas\n- Destructores del mal olor para una protección de larga duración\n- Fórmula con 0 % de sales de aluminio\n- Aroma fresco e intenso de fresh citrus y pimienta, con toques picantes\n- Lata de aluminio reciclable\n\nModo de uso:\nAplique directamente en las axilas, a una distancia no menor de 15 cm de la piel.\n\nPresentación:\nAerosol de 150 ml.\n\nAdvertencias:\n- Evite aplicarlo sobre piel excesivamente húmeda, irritada o lastimada.\n- Producto en aerosol: lea las precauciones que aparecen en el envase y manténgalo fuera del alcance de los niños.",
   "ficha": {
     "marca": "AXE",
     "fabricante": "Unilever",
@@ -53,7 +53,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado en la página oficial de AXE México. Texto tomado de la página oficial.",
+    "notas": "GTIN confirmado en la página oficial de AXE México. Texto tomado de la página oficial. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. El catálogo ML MLM29490024 asociado al GTIN es un foco solar LED, no un desodorante: no describe este producto, se ignoró por completo y confirmado = false (conviene revisar/quitar ese catalogo_id en el producto). Fuentes: descripción actual e investigación (texto tomado de la página oficial de AXE México, GTIN confirmado allí). El 'Abra, gire' del modo de uso anterior no se conservó por poco claro.",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px, aerosol de frente); la página oficial bloqueó la descarga de sus imágenes.",
     "fecha": "2026-09-29",
     "sesion": 4

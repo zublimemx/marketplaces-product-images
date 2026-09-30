@@ -25,7 +25,7 @@
       "categoria_id": "MLM457815",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
       "categoria_rx_sugerida": "MLM457833",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39989943"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,28 @@
       "lado_final": 1170,
       "fecha": "2026-09-29",
       "lado_util": 1084
+    },
+    {
+      "archivo": "7501089809957_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_716174-MLA96038960743_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39989943",
+      "ancho_original": 992,
+      "alto_original": 728,
+      "lado_final": 975,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089809957_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_979396-MLA96038772501_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39989943",
+      "ancho_original": 987,
+      "alto_original": 727,
+      "lado_final": 970,
+      "lado_util": 899,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

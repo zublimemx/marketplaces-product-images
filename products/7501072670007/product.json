@@ -5,7 +5,7 @@
   "nombre_sistema": "CEP DENT CLINIC ORTHODONCIA",
   "nombres_sistema_alternos": [],
   "titulo": "Kit Cepillo Dental Clinic Ortodoncia Premium Pack 6 Piezas",
-  "descripcion": "Descripción:\nKit Clinic Orthodontic Premium Pack para el cuidado bucal diario de personas con tratamiento de ortodoncia. Reúne en un solo empaque un cepillo dental y accesorios de limpieza interdental para llegar a los espacios entre dientes y alrededor de los aparatos, con protector para la cabeza del cepillo y estuche para llevarlo contigo.\n\nCaracterísticas:\n- Kit de 6 piezas: 1 cepillo dental para ortodoncia, 3 cepillos interdentales de colores, tapa protectora y estuche\n- Pensado para pacientes con brackets o espacios interdentales amplios\n- Cepillos interdentales para complementar el cepillado\n- Estuche y tapa para mantener el cepillo protegido durante el traslado\n- Los colores del mango pueden variar\n\nPresentación:\nBlíster con kit de 6 piezas.",
+  "descripcion": "Descripción:\nKit Clinic Ortodoncia 67 Premium Pack, pensado para el cuidado bucal diario de quienes usan brackets, puentes o aparatos fijos. Reúne en un solo empaque un cepillo dental ortodóntico, cera de ortodoncia con aroma a menta, tres cepillos interdentales de distintas medidas y un capuchón protector para el cepillo: seis piezas en total. Se ofrece en colores rojo, amarillo, azul y verde, y el color que reciba puede variar.\n\nBeneficios:\n- Cepillo dental ortodóntico de dureza media, con cerdas de carbón activado, corte en V que facilita la limpieza alrededor de los accesorios de ortodoncia y mango ergonómico\n- Cera de ortodoncia con aroma a menta para colocar sobre brackets, puentes o aparatos fijos y ayudar a prevenir irritaciones y lesiones\n- Tres cepillos interdentales (cónico de 1.6 mm, fino de 1.4 mm y ultrafino de 1 mm) para retirar placa y restos de comida en el área de los brackets y entre los dientes, y ayudar a prevenir caries y gingivitis\n- Capuchón ventilado que ayuda a mantener el cepillo limpio y seco\n\nPresentación:\nKit de 6 piezas: 1 cepillo dental ortodóntico, 1 cera de ortodoncia, 3 cepillos interdentales y 1 capuchón para cepillo.\n\nAdvertencias:\n- Se recomienda cambiar el cepillo cada 3 meses o antes si las cerdas se desgastan.\n- Consulte a su dentista u ortodoncista sobre el uso de los cepillos interdentales y la cera con su aparato.",
   "ficha": {
     "marca": "Clinic",
     "linea": "Orthodontic Premium Pack",
@@ -14,7 +14,7 @@
     "contenido_neto": 6,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 1,
-    "otros": "Incluye cepillo dental, 3 cepillos interdentales, tapa protectora y estuche; colores del mango variables"
+    "otros": "Modelo: 67; Incluye 1 cepillo dental ortodóntico, cera de ortodoncia con aroma a menta, 3 cepillos interdentales y capuchón para cepillo; Dureza de cerdas: media; Colores del mango variables (rojo, amarillo, azul o verde)"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,7 +22,7 @@
       "categoria_id": "MLM167988",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21818931"
     },
     "amazon": {},
     "shopify": {},
@@ -62,7 +62,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "No se encontró página del fabricante; el detalle del contenido se toma del nombre de las fichas de tienda (kit de 6 piezas) y de las fotos del empaque.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM21818931, 2026-09-29). Catálogo ML MLM21818931 (origen gtin): Clinic Ortodoncia 67, pack x 6 unidades; su descripción de 'Kit de limpieza para ortodoncia Clinic 67 Premium Pack' lista 1 cepillo, cera, 3 interdentales y capuchón (6 piezas), coincide con el título. CONFLICTO con la descripción/ficha anteriores, que decían 'tapa protectora y estuche' sin cera: se siguió el catálogo (contenido explícito); conviene compararlo con las fotos del empaque. Se ignoró 'edad mínima 8 años' del catálogo y se usó 'vida útil 3 meses' solo como recomendación de cambio de cepillo.",
     "notas_imagenes": "2 fotos de frente al blíster (tienda; mango verde y mango amarillo, ambas de más de 1,000 px).",
     "fecha": "2026-09-29",
     "sesion": 5

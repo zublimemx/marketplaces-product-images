@@ -28,7 +28,7 @@
       "categoria_id": "MLM457814",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45409379"
     },
     "amazon": {},
     "shopify": {},
@@ -36,15 +36,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501050623766_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501050623766_1_1.png",
-      "pagina": "https://www.fahorro.com/afrin-no-drip-cse-alivio-rapido-de-la-congestion-nasal-severa-con-mentol-actua-durante-12-horas-15-ml.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1621,
-      "fecha": "2026-09-29",
-      "lado_util": 1501
+      "archivo": "7501050623766_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_910281-MLA86960840712_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45409379",
+      "ancho_original": 499,
+      "alto_original": 1180,
+      "lado_final": 1159,
+      "lado_util": 1074,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501050623766_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_620248-MLA81602779256_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45409379",
+      "ancho_original": 457,
+      "alto_original": 992,
+      "lado_final": 973,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.afrin.com.mx/sprays-nasales/sin-goteo/afrin-no-drip-congestion-severa",

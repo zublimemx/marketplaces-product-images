@@ -15,7 +15,7 @@
     "contenido_neto": 100,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 100,
-    "otros": "Capacidad: 3 ml; Aguja: calibre 22G x 32 mm; Estéril, desechable y de un solo uso; Diseño de 3 piezas sin látex en el sello del émbolo; Formato de venta: caja con 100 piezas"
+    "otros": "Capacidad: 3 ml; Aguja: calibre 22G x 32 mm; Estéril, desechable y de un solo uso; Diseño de 3 piezas sin látex en el sello del émbolo; Formato de venta: caja con 100 piezas; Punta Luer lock; Aguja incluida; Libre de pirógenos"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,7 +23,7 @@
       "categoria_id": "MLM189428",
       "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Instrumental Médico > Jeringas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM27352976"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "17501073025414_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://productos.supromed.mx/wp-content/uploads/JERINGA-PLASTIPAK-3-ML-22X32-Cont.100-BD.jpg",
-      "pagina": "https://productos.supromed.mx/product/jeringa-plastipak-3-ml-22x32-contiene-100-piezas-bd/",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 864,
-      "fecha": "2026-09-29",
-      "lado_util": 453
+      "archivo": "17501073025414_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_952976-MLU75149685617_032024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM27352976",
+      "ancho_original": 1066,
+      "alto_original": 910,
+      "lado_final": 1044,
+      "lado_util": 966,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -50,9 +50,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 17501073025414 es un GTIN-14 (indicador 1) de la caja con 100 piezas; el código de la pieza suelta, según una farmacia, es 7501073025417 (jeringa negra 3 ml 22x32 mm). Se identificó por nombre y calibre ('negra' = aguja 22G x 32 mm). No se encontró el GTIN de caja en ninguna ficha ni la página oficial de BD México; los datos técnicos vienen de la ficha global de la familia Plastipak.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM27352976, 2026-09-29). Catálogo MLM27352976 (Jeringa 3 ml 22G x 32 mm BD Plastipak, caja con 100, aguja incluida, punta Luer lock, libre de látex, estéril, desechable). Coinciden marca, línea, capacidad, calibre y largo de aguja y 100 piezas. Se ignora el atributo 'Tipo de uso: para insulina' por ser incoherente con una jeringa de 3 ml con aguja 22G. El color negro de la ficha corresponde al calibre 22G, pero el catálogo no lo menciona.",
     "notas_imagenes": "Sin mejora; se dejó la foto actual 17501073025414_1.jpg (Supromed, 800x800 originales, caja de cartón BD Plastipak 3 ml con 100 piezas, 453 px útiles). Revisado: Farmacias del Ahorro (1600 px pero es una ampliación de la jeringa individual en blíster, no la caja de 100), Farmatodo (800 px, jeringa individual), Klyns (500 px, pieza), Walmart sin imagen. Nadie publica la caja de 100 piezas de 3 ml en mejor resolución. Mercado Libre no abre (verificación de cuenta).",
     "fecha": "2026-09-29",
     "sesion": 5

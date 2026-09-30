@@ -5,17 +5,19 @@
   "nombre_sistema": "DESOD NEUTRO B +COLAGENO SPY 91G N",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante Neutro Balance + Colágeno Aerosol 91 g",
-  "descripcion": "Descripción:\nDesodorante antitranspirante en aerosol Palmolive Neutro Balance Dermoprotector + Colágeno, de 91 g. Pertenece a la línea Neutro Balance con colágeno, que ofrece hidratación, frescura y protección contra el sudor y el mal olor, cuidando la piel de las axilas.\n\nCaracterísticas:\n- Fórmula con colágeno para cuidar la piel.\n- Fórmula sin alcohol, pensada para no irritar la piel.\n- Protege contra el sudor y el mal olor.\n- Práctico formato en aerosol de 91 g.\n\nModo de uso:\nAplíquelo diariamente después del baño habitual.\n\nPresentación:\n1 envase en aerosol con 91 g.",
+  "descripcion": "Descripción:\nPalmolive Neutro Balance Dermoprotector + Colágeno es un antitranspirante en aerosol de 91 g, de uso unisex, que ofrece protección frente al sudor y al mal olor hasta por 72 horas. Incorpora colágeno, que actúa como agente humectante para ayudar a mantener la piel de las axilas suave e hidratada después de cada aplicación, y su fórmula libre de alcohol está pensada para la piel sensible.\n\nBeneficios:\n- Fórmula antitranspirante que bloquea la humedad y mantiene la axila seca hasta por 72 horas.\n- Con colágeno, que humecta la piel tras la aplicación.\n- Libre de alcohol, para un uso delicado en piel sensible.\n- Dermatológicamente testeado; según la información del producto cuenta con el aval de la Fundación Mexicana para la Dermatología.\n- Fragancia neutra, suave y delicada, que acompaña con frescura durante el día.\n\nModo de uso:\nAplíquelo diariamente sobre las axilas después del baño habitual.\n\nPresentación:\nAerosol (spray) de 91 g, una pieza, de la línea Neutro Balance.\n\nAdvertencias:\nProducto en aerosol: manténgalo alejado del fuego y del calor, y consulte las advertencias impresas en el envase. Manténgase fuera del alcance de los niños.",
   "ficha": {
-    "marca": "Palmolive Neutro Balance",
+    "marca": "Palmolive",
     "fabricante": "Colgate-Palmolive",
-    "linea": "Neutro Balance Dermoprotector",
-    "variante": "Colágeno",
+    "linea": "Neutro Balance",
+    "variante": "Dermoprotector + Colágeno",
     "presentacion": "Aerosol",
     "contenido_neto": 91,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "otros": "Formato de venta: pieza individual; Tipo: antitranspirante en aerosol; Sin alcohol"
+    "otros": "Formato de venta: pieza individual; Tipo: antitranspirante en aerosol; Protección: 72 horas; Sin alcohol; Dermatológicamente testeado; Apto para piel sensible",
+    "sabor_aroma": "Neutro",
+    "genero": "Sin género"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,13 +25,25 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM51598262"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546700298_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_797519-MLA86407778244_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM51598262",
+      "ancho_original": 1066,
+      "alto_original": 1035,
+      "lado_final": 1047,
+      "lado_util": 971,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "https://www.neutrobalance.com.mx/productos/cuidado-del-cuerpo/desodorante-antitranspirante-roll-on-neutro-balance-dermoprotector-colageno",
   "fuentes": [
     "https://www.fahorro.com/desodorante-neutro-balance-91-g-spray.html",
@@ -37,9 +51,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo abrir la ficha exacta de la versión con colágeno en aerosol (bloqueada); la descripción combina la ficha del aerosol Neutro Balance de 91 g y la de la línea con colágeno de la marca. Confirmar aroma, horas de protección y GTIN en el empaque.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM51598262, 2026-09-29). Fuentes: catálogo ML MLM51598262 (origen gtin, Palmolive Dermoprotector + Colágeno en spray, 91 g: 72 horas, colágeno humectante, libre de alcohol, aval de la Fundación Mexicana para la Dermatología, fragancia neutro, sin género); descripción y ficha actuales (modo de uso). El GTIN queda confirmado por el catálogo, lo que resuelve la duda de la investigación previa (horas de protección y aroma). CORRECCIÓN de ficha: marca era 'Palmolive Neutro Balance'; el catálogo separa marca Palmolive y línea Neutro Balance. La advertencia de aerosol es precaución general, no viene de las fuentes.",
     "notas_imagenes": "Sin fotos: la ficha exacta de este GTIN no se pudo abrir (sitio de la marca, Soriana y otra farmacia bloquean el acceso) y las demás tiendas solo muestran otra versión del aerosol Neutro Balance. Falta buscar foto.",
     "fecha": "2026-09-29",
     "sesion": 7

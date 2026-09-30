@@ -27,7 +27,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172097"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501298217130_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20241114_1026226.jpg",
-      "pagina": "https://www.benavides.com.mx/dabex-xr-1000-mg-metformina-30-tabletas",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 860,
-      "fecha": "2026-09-29",
-      "lado_util": 797
+      "archivo": "7501298217130_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_778367-MLU78661601574_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172097",
+      "ancho_original": 990,
+      "alto_original": 556,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501298217130_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_800657-MLA87285704065_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172097",
+      "ancho_original": 1110,
+      "alto_original": 607,
+      "lado_final": 1090,
+      "lado_util": 1010,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

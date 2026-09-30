@@ -27,7 +27,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172618"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501298214986_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 457
+      "archivo": "7501298214986_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_964005-MLA86297532490_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172618",
+      "ancho_original": 992,
+      "alto_original": 517,
+      "lado_final": 974,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501298214986_2.jpg",
@@ -68,15 +68,15 @@
       "lado_util": 834
     },
     {
-      "archivo": "7501298214986_4.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_4.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501298214986_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 421
+      "archivo": "7501298214986_6.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_773309-MLA86615657971_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172618",
+      "ancho_original": 1188,
+      "alto_original": 694,
+      "lado_final": 1165,
+      "lado_util": 1079,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

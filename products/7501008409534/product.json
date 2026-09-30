@@ -17,7 +17,8 @@
     "principio_activo": "Paracetamol / Cafeína",
     "concentracion": "500 mg / 50 mg",
     "via_administracion": "Oral",
-    "otros": "Forma farmacéutica: comprimido; Grupo terapéutico: analgésico y antipirético; Venta libre"
+    "otros": "Forma farmacéutica: comprimido; Grupo terapéutico: analgésico y antipirético; Venta libre",
+    "registro_sanitario": "16260 SSA"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48917702"
     },
     "amazon": {},
     "shopify": {},
@@ -63,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "Identificado por nombre y por el empaque (Saridon Paracetamol y Cafeína, caja con 100 comprimidos, Bayer); ninguna ficha consultada mostró el GTIN completo. El nombre del sistema incluye una promoción con un producto Alka Defence gratis y caducidades; se ignoraron y no forman parte de esta ficha. La composición 500 mg/50 mg proviene de varias fichas de farmacia. Una ficha indica receta, pero se considera venta libre en México.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM48917702, 2026-09-29). Catálogo MLM48917702 (Saridon 500/50 mg, 100 comprimidos, Bayer de México, paracetamol 500 mg + cafeína 50 mg, receta no requerida, registro 16260 SSA). Coincide todo lo comparable; confirma la venta libre y aporta el registro sanitario.",
     "notas_imagenes": "2 fotos del empaque (tienda, 1240 y 557 px): vista frontal y vista angular.",
     "fecha": "2026-09-29",
     "sesion": 5

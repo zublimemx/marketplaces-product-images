@@ -21,7 +21,7 @@
       "categoria_id": "MLM167968",
       "categoria_ruta": "Hogar, Muebles y Jardín > Cuidado del Hogar y Lavanderia > Productos de Limpieza > Toallitas Desinfectantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19541036"
     },
     "amazon": {},
     "shopify": {},
@@ -38,6 +38,39 @@
       "lado_final": 1694,
       "fecha": "2026-09-29",
       "lado_util": 1569
+    },
+    {
+      "archivo": "7506425603404_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_732493-MLA106128706538_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19541036",
+      "ancho_original": 1042,
+      "alto_original": 489,
+      "lado_final": 1023,
+      "lado_util": 948,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425603404_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_987253-MLA108909211340_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19541036",
+      "ancho_original": 980,
+      "alto_original": 580,
+      "lado_final": 963,
+      "lado_util": 892,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425603404_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_734445-MLA109734615117_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19541036",
+      "ancho_original": 1178,
+      "alto_original": 442,
+      "lado_final": 1154,
+      "lado_util": 1069,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

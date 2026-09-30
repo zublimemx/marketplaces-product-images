@@ -27,13 +27,24 @@
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "MLM457832",
-      "catalogo_id": ""
+      "catalogo_id": "MLM69171029"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "785118753825_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_686831-MLA110301693716_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69171029",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 966,
+      "lado_util": 895,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "785118753825_1.jpg",
       "origen": "fabricante",
@@ -55,6 +66,28 @@
       "lado_final": 540,
       "fecha": "2026-09-29",
       "lado_util": 400
+    },
+    {
+      "archivo": "785118753825_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_645529-MLA111231200363_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69171029",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 667,
+      "lado_util": 618,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "785118753825_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_635811-MLA110301753172_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69171029",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1005,
+      "lado_util": 931,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.mavifarmaceutica.com/figral-4-100",

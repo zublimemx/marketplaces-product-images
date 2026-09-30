@@ -27,7 +27,7 @@
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455854"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501318646223_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4771cf45/images/large/7501318646223_1.jpg",
-      "pagina": "https://www.yza.mx/canesten-v-3-dias-200mg-3-ovulos/MXYZ_7501318646223.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1038,
-      "fecha": "2026-09-29",
-      "lado_util": 962
+      "archivo": "7501318646223_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_601888-MLA96039232479_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455854",
+      "ancho_original": 1200,
+      "alto_original": 1008,
+      "lado_final": 1181,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

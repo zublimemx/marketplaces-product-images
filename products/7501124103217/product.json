@@ -25,7 +25,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170663"
     },
     "amazon": {},
     "shopify": {},
@@ -33,14 +33,25 @@
   },
   "imagenes": [
     {
-      "archivo": "7501124103217_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://cdn.gdar.com.mx/archivos/Carnotprim-100-Ml-7501124103217-638573424271279845-1.jpg",
-      "pagina": "https://tienda.sfe.com.mx/eCommerce/item/3915/carnotprim-100-ml",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 724,
-      "lado_util": 671,
+      "archivo": "7501124103217_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_838298-MLU78661586290_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170663",
+      "ancho_original": 587,
+      "alto_original": 991,
+      "lado_final": 973,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501124103217_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_964127-MLA87286026983_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170663",
+      "ancho_original": 591,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
       "fecha": "2026-09-29"
     }
   ],

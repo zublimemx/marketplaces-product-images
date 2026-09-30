@@ -25,7 +25,7 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455875"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501065085528_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501094911485_1_2.jpg",
-      "pagina": "https://www.fahorro.com/voltaren-emulgel-1-16-50-g.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1728,
-      "fecha": "2026-09-29",
-      "lado_util": 1600
+      "archivo": "7501065085528_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_612561-MLU78636676655_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455875",
+      "ancho_original": 1200,
+      "alto_original": 355,
+      "lado_final": 1181,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

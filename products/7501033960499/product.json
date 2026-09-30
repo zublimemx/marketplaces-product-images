@@ -17,7 +17,7 @@
     "unidades_por_envase": 1,
     "edad_etapa": "Adultos",
     "sabor_aroma": "Fresa",
-    "otros": "Proteína: 13 g por botella; Aporte: 1.0 kcal/ml; Contiene HMB, 28 vitaminas y minerales, omega 3 y 6; Formato de venta: Botella individual; Líquido listo para tomar"
+    "otros": "Proteína: 13 g por botella; Aporte: 1.0 kcal/ml; Contiene HMB, 28 vitaminas y minerales, omega 3 y 6; Formato de venta: Botella individual; Líquido listo para tomar; HMB como CaHMB; Contiene lactosa: Sí; Libre de gluten: Sí; Edad mínima recomendada: 14 años (según catálogo ML)"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM26094897"
     },
     "amazon": {},
     "shopify": {},
@@ -51,9 +51,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN y presentación de 237 ml sabor fresa confirmados en tiendas y en el empaque. La página oficial solo lista el líquido en vainilla, y la tienda muestra otra versión anterior del empaque (Advance-Active); se usó la más reciente. El modo de uso y la conservación no se encontraron en una fuente; el texto los deja al empaque. Confianza media por esa diferencia entre fuentes.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM26094897, 2026-09-29). Comparado: marca Ensure, línea Advance, con HMB (CaHMB), sabor fresa, líquido en botella de 237 ml, unidad 1. Todo coincide. El catálogo aporta edad mínima recomendada 14 años (se anota en 'otros' como dato de ML; 'Adultos' se deja sin cambio), lactosa y gluten. No se usa 'vegano': la característica dice apto y el atributo dice 'Es vegano: No'. Se ignoran 'peso de la porción 1 kg' y 'valores nutricionales 237' por incongruentes. 'otros' se entrega completo.",
     "notas_imagenes": "1 foto de frente de la botella (tienda, 1536 px). Se descartó una foto del empaque anterior (Advance-Active) y una foto de estilo de vida.",
     "fecha": "2026-09-29",
     "sesion": 3

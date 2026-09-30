@@ -26,7 +26,7 @@
       "categoria_id": "MLM194690",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antimicóticos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM62165693"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,28 @@
       "lado_final": 1559,
       "fecha": "2026-09-29",
       "lado_util": 1444
+    },
+    {
+      "archivo": "650240007408_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_678740-MLA98391316345_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM62165693",
+      "ancho_original": 1079,
+      "alto_original": 948,
+      "lado_final": 1060,
+      "lado_util": 981,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240007408_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_969551-MLA97922346220_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM62165693",
+      "ancho_original": 1200,
+      "alto_original": 942,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -5,7 +5,7 @@
   "nombre_sistema": "NEXCARE PIEL 1 25CM C24",
   "nombres_sistema_alternos": [],
   "titulo": "Cinta Micropore Nexcare Piel 1.25 cm x 5 m",
-  "descripcion": "Descripción:\nCinta adhesiva médica Nexcare Micropore, de papel color piel, para asegurar vendas, gasas y apósitos. Su microporosidad permite la transpiración de la piel, y su adhesivo hipoalergénico a base de acrilato, libre de látex, la hace adecuada para piel sensible.\n\nCaracterísticas:\n- Cinta adhesiva de papel color piel\n- Adhesivo hipoalergénico a base de acrilato\n- Libre de látex\n- Microporosa: permite que la piel transpire\n- Ancho de 1.25 cm y largo de 5 m\n- Sirve para fijar vendas, gasas y apósitos sobre la piel\n\nPresentación:\nRollo de cinta Micropore color piel de 1.25 cm x 5 m.",
+  "descripcion": "Descripción:\nCinta adhesiva médica Nexcare Micropore, de 3M, hecha de papel color piel, para fijar vendas, gasas y apósitos sobre la piel. Su estructura microporosa permite que la piel transpire y su adhesivo hipoalergénico a base de acrilato, libre de látex, la hace adecuada para piel sensible. Mide 1.25 cm de ancho por 5 m de largo.\n\nBeneficios:\n- Cinta de papel color piel, discreta sobre la piel\n- Adhesivo hipoalergénico a base de acrilato\n- Libre de látex\n- Microporosa: permite que la piel respire bajo el vendaje\n- Fija vendas, gasas y apósitos\n- Ancho de 1.25 cm y largo de 5 m por rollo\n\nPresentación:\nRollo de cinta Micropore color piel de 1.25 cm x 5 m.\n\nAdvertencias:\n- Uso externo.\n- Suspenda su uso si aparece enrojecimiento o irritación en la piel.\n- Lea las instrucciones del empaque y mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "Nexcare",
     "fabricante": "3M",
@@ -15,7 +15,7 @@
     "contenido_neto": 5,
     "unidad_contenido": "m",
     "unidades_por_envase": 1,
-    "otros": "Ancho: 1.25 cm; largo: 5 m; hipoalergénica; libre de látex; el GTIN del sistema es un código logístico de 14 dígitos y el nombre indica C24 (caja con 24 rollos)"
+    "otros": "Ancho: 1.25 cm; Largo: 5 m; Hipoalergénica; Libre de látex; Adhesivo a base de acrilato; Microporosa; Color piel"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -50,7 +50,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "El GTIN de 14 dígitos (37501023108888) no aparece en las fuentes; se identificó por el nombre como Nexcare Micropore Piel de 1.25 cm. El nombre indica C24 (probable caja con 24 rollos) pero el precio parece de una sola pieza: confirmar el formato de venta antes de publicar.",
+    "notas": "El GTIN de 14 dígitos (37501023108888) no aparece en las fuentes; se identificó por el nombre como Nexcare Micropore Piel de 1.25 cm. El nombre indica C24 (probable caja con 24 rollos) pero el precio parece de una sola pieza: confirmar el formato de venta antes de publicar. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. Sin catálogo ML ni otros vendedores. Fuentes: descripción actual e investigación (confianza media; identificado por nombre). Duda: el GTIN del sistema (37501023108888) tiene 14 dígitos, parece código logístico de caja, y 'C24' del nombre sugiere una caja con 24 rollos, mientras el título y el precio parecen de un solo rollo; confirmar el formato de venta antes de publicar. Ficha: se reescribió 'otros' para quitar la nota interna sobre el GTIN de 14 dígitos y C24, que no debe salir publicada.",
     "notas_imagenes": "Foto nueva 37501023108888_2.jpg: caja Nexcare Micropore piel 1.25 cm x 5 m (GTIN de pieza 7501023104216), 1000x1000, producto de 923 px; origen Walmart de México (CDN público de imágenes i5-mx.walmartimages.com, la foto se pidió por ID derivado del GTIN; la página del producto pide verificación de identidad y no se abrió). Se descartó la variante con cintillo promocional 'La original 1.25 cm x 5 m' y las de infografía. Borrada la foto anterior de Farmacias del Ahorro (500 px, 387 útiles).",
     "fecha": "2026-09-29",
     "sesion": 5

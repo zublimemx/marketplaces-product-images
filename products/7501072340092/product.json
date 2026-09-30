@@ -24,7 +24,7 @@
       "categoria_id": "MLM457816",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
       "categoria_rx_sugerida": "MLM457835",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473327"
     },
     "amazon": {},
     "shopify": {},
@@ -40,6 +40,17 @@
       "alto_original": 1600,
       "lado_final": 1386,
       "lado_util": 1284,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501072340092_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_940490-MLU78656459759_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473327",
+      "ancho_original": 992,
+      "alto_original": 452,
+      "lado_final": 975,
+      "lado_util": 902,
       "fecha": "2026-09-29"
     }
   ],

@@ -16,7 +16,7 @@
     "unidad_contenido": "tiras",
     "unidades_por_envase": 50,
     "edad_etapa": "Adultos",
-    "otros": "Compatible con: medidor Accu-Chek Performa; Volumen de muestra: 0.6 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Enzimática electroquímica; Formato de venta: Caja",
+    "otros": "Compatible con: medidor Accu-Chek Performa; Volumen de muestra: 0.6 µl; Tiempo de resultado: 5 segundos; Requiere codificación: No; Tecnología: Enzimática electroquímica; Formato de venta: Caja; Modelo: 06454011",
     "registro_sanitario": "1445R2014 SSA"
   },
   "receta_mx": "No aplica",
@@ -25,7 +25,7 @@
       "categoria_id": "MLM189948",
       "categoria_ruta": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM69334459"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "4015630981977_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://www.accu-chek.com.mx/sites/g/files/iut326/f/media_root/product_media_files/product_images/accu-chek_performa_tiras_reactivas_reg_sanitario_0.png",
-      "pagina": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
-      "ancho_original": 379,
-      "alto_original": 519,
-      "lado_final": 560,
-      "fecha": "2026-09-29",
-      "lado_util": 454
+      "archivo": "4015630981977_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_997674-MLA110458454506_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69334459",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 871,
+      "lado_util": 807,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "4015630981977_3.jpg",
@@ -53,6 +53,28 @@
       "lado_final": 1074,
       "fecha": "2026-09-29",
       "lado_util": 995
+    },
+    {
+      "archivo": "4015630981977_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_887587-MLA110458454494_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69334459",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 831,
+      "lado_util": 770,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "4015630981977_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_808870-MLA117135693115_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM69334459",
+      "ancho_original": 720,
+      "alto_original": 683,
+      "lado_final": 777,
+      "lado_util": 720,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.accu-chek.com.mx/tiras-reactivas/tiras-reactivas-performa",
@@ -62,9 +84,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Accu-Chek Performa (presentaciones de 25 y 50 tiras). Es un insumo de diagnóstico, no un medicamento. Sin hoja específica para tiras reactivas en los CSV: se usó Medidores de Glucosa, igual que en el lote 1. Registro sanitario no visible en la página.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM69334459, 2026-09-29). Comparado: marca Accu-Chek, línea Performa, fabricante Roche, tiras reactivas, 50 unidades, sin codificación (igual que la ficha). Todo coincide. El catálogo aporta el modelo 06454011. Se ignoran peso y medidas del catálogo (0.035 g, 0.6 cm) por incongruentes. El catálogo no trae registro sanitario. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos: caja Accu-Chek Performa 50 tiras del fabricante (accu-chek.com.mx, 519 px, con leyenda 'Reg. No. 1445R2014 SSA') y foto de tienda 1000 px (farmaciasanjorge.com)."
   }

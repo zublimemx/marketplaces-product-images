@@ -28,13 +28,24 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39476387"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501871720590_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_860073-MLA114545641788_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476387",
+      "ancho_original": 1200,
+      "alto_original": 816,
+      "lado_final": 1166,
+      "lado_util": 1079,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501871720590_1.jpg",
       "origen": "tienda",
@@ -67,6 +78,28 @@
       "lado_final": 501,
       "fecha": "2026-09-29",
       "lado_util": 464
+    },
+    {
+      "archivo": "7501871720590_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_675162-MLA114640212893_072026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476387",
+      "ancho_original": 1200,
+      "alto_original": 1094,
+      "lado_final": 1171,
+      "lado_util": 1085,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501871720590_6.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_909393-MLA115902945283_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476387",
+      "ancho_original": 1116,
+      "alto_original": 1200,
+      "lado_final": 1180,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

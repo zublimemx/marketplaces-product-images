@@ -26,7 +26,7 @@
       "categoria_id": "MLM457812",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "MLM457836",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473682"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,28 @@
       "lado_final": 868,
       "fecha": "2026-09-29",
       "lado_util": 804
+    },
+    {
+      "archivo": "7501298224169_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_899108-MLU78656460565_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473682",
+      "ancho_original": 990,
+      "alto_original": 740,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501298224169_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_818368-MLA87286056661_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473682",
+      "ancho_original": 1200,
+      "alto_original": 874,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

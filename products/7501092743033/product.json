@@ -25,13 +25,24 @@
       "categoria_id": "MLM457820",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40655887"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501092743033_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_975302-MLU78965390644_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40655887",
+      "ancho_original": 992,
+      "alto_original": 799,
+      "lado_final": 975,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501092743033_1.jpg",
       "origen": "tienda",

@@ -14,7 +14,8 @@
     "contenido_neto": 12,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 12,
-    "otros": "Dureza: media; Número: 38; Uso: ortodoncia (brackets); Colores surtidos"
+    "otros": "Dureza: media; Número: 38; Uso: ortodoncia (brackets); Colores surtidos; Cerdas en forma de V; Mango de copolímero de estireno acrilonitrilo",
+    "edad_etapa": "Niños desde 8 años y adultos hasta 55 años"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -73,7 +74,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "Descripción de características basada en el nombre del producto y las fotos; no se encontró ficha oficial con especificaciones técnicas. El formato de caja con 12 se toma del nombre del sistema; las fotos muestran una pieza individual con colores surtidos.",
+    "notas": "Descripción de características basada en el nombre del producto y las fotos; no se encontró ficha oficial con especificaciones técnicas. El formato de caja con 12 se toma del nombre del sistema; las fotos muestran una pieza individual con colores surtidos. Catálogo de Mercado Libre MLM21809505 no coincide: El catálogo MLM21809505 es un pack de 3 cepillos (unidades por pack: 3), no la caja con 12 piezas de la ficha; indica color blanco, mientras la ficha dice colores surtidos, y su descripción menciona un cepillo interdental y dos repuestos, que la ficha no contempla. Coinciden marca Clinic, modelo 38, dureza media y uso ortodóncico/interdental. Difieren el contenido del pack (3 vs caja de 12) y el color. El GTIN corresponde a un pack de 3; el formato 'caja con 12' de la ficha sigue sin confirmarse.",
     "notas_imagenes": "3 fotos de tienda: cepillo en blíster (1649 px), cepillo individual (1624 px) y 4 colores (1713 px). No hay foto de la caja de 12.",
     "fecha": "2026-09-29",
     "sesion": 4

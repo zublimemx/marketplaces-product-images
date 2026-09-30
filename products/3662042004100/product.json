@@ -27,7 +27,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473496"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "3662042004100_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.emeritafarmacias.com/wp-content/uploads/3662042004100.jpg",
-      "pagina": "https://www.emeritafarmacias.com/",
-      "ancho_original": 1000,
-      "alto_original": 667,
-      "lado_final": 658,
-      "fecha": "2026-09-29",
-      "lado_util": 609
+      "archivo": "3662042004100_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_804628-MLA86960913728_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473496",
+      "ancho_original": 399,
+      "alto_original": 1060,
+      "lado_final": 1041,
+      "lado_util": 964,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

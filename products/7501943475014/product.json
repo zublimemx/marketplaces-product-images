@@ -25,13 +25,24 @@
       "categoria_id": "MLM194512",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM15995544"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501943475014_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_959028-MLA111827990579_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM15995544",
+      "ancho_original": 811,
+      "alto_original": 1027,
+      "lado_final": 1006,
+      "lado_util": 932,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501943475014_1.jpg",
       "origen": "tienda",
@@ -42,6 +53,17 @@
       "lado_final": 666,
       "fecha": "2026-09-29",
       "lado_util": 616
+    },
+    {
+      "archivo": "7501943475014_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_667234-MLA111827872497_052026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM15995544",
+      "ancho_original": 779,
+      "alto_original": 976,
+      "lado_final": 956,
+      "lado_util": 886,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
