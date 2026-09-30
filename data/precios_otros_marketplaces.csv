@@ -1989,3 +1989,454 @@ gtin,marketplace,precio,precio_lista,url,fecha,nota,origen
 7501685171113,Farmacias del Ahorro,140.00,,https://www.fahorro.com/sico-invisible-ultra-sense-condones-de-hule-latex-natural-cartera-con-3-piezas.html,2026-09-30,"GraphQL por GTIN, cartera con 3 piezas",agente sesión 13
 7501685171113,Farmacias Benavides,145.00,,https://www.benavides.com.mx/sico-condones-invisible-3-ud,2026-09-30,"GTIN confirmado, 3 piezas",agente sesión 13
 7501685171113,Farmacias YZA,150.00,,https://www.yza.mx/condones-invisible-3-pzas-/MXYZ_7501685171113.html,2026-09-30,Precio de ficha (JSON-LD); figura agotado por no haber sucursal elegida,agente sesión 13
+7501056330569,Farmacias Benavides,155.00,201.00,https://www.benavides.com.mx/pond-039-s-crema-facial-antiarrugas-rejuveness-400-g,2026-09-30,Precio con descuento aplicado; regular 201,agente sesión 14
+7501298217673,Farmacias YZA,297.50,,https://www.yza.mx/x/MXYZ_7501298217673.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7501298217673,Farmacias Benavides,363.00,,https://www.benavides.com.mx/dexabion-dc-complejo-vitamina-b-dexametasona-lidocaina-1-ud-jeringas-prellenadas,2026-09-30,,agente sesión 14
+7501298217673,Farmacias del Ahorro,364.00,,https://www.fahorro.com/dexabion-doble-camara-jeringa-prellenada-3-ml.html,2026-09-30,,agente sesión 14
+7501303458503,Farmacias YZA,743.00,,https://www.yza.mx/x/MXYZ_7501303458503.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7501303458503,Farmacias Benavides,808.00,,https://www.benavides.com.mx/primoteston-depot-250-mg-testosterona-solucion-inyectable-1-ampolleta,2026-09-30,,agente sesión 14
+7891024183090,Farmacias YZA,144.50,,https://www.yza.mx/colgate-hilo-dental-total-25m-2pz/MXYZ_7891024183090.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7501314701957,Farmacias Benavides,912.00,,https://www.benavides.com.mx/adel-250-mg-5-ml-claritromicina-60-ml-suspension,2026-09-30,,agente sesión 14
+7502276040375,Farmacias YZA,33.00,,https://www.yza.mx/desenfriol-12-tabs/MXYZ_7502276040375.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7502276040375,Farmacias Benavides,40.00,,https://www.benavides.com.mx/desenfriol-d-2-mg5-mg500-mg-clorfenamina-fenilefrina-paracetamol-12-ud-tabletas,2026-09-30,,agente sesión 14
+300650481779,Farmacias Benavides,699.00,,https://www.benavides.com.mx/systane-complete-gotas-oftalmicas-lubricantes-10-ml,2026-09-30,,agente sesión 14
+300650481779,Farmacias YZA,808.00,,https://www.yza.mx/x/MXYZ_300650481779.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7502221181337,Chedraui,68.50,,https://www.chedraui.com.mx/desodorante-brut-classic-aerosol-208ml-3003018/p,2026-09-30,"Ficha 208 ml (150 g), EAN 17502221181334 equivale al GTIN; existencia 100",agente sesión 14
+7702031244509,Farmacias Benavides,154.00,,https://www.benavides.com.mx/lubriderm-crema-corporal-humectacion-diaria-400-ml,2026-09-30,"Ficha titulada Humectacion Diaria 400 ml, mismo GTIN",agente sesión 14
+7501065085528,Chedraui,99.90,148.00,https://www.chedraui.com.mx/voltaren-emulgel-116-50g-3040754/p,2026-09-30,Precio de oferta; existencia 100,agente sesión 14
+7501065085528,Farmacias YZA,143.00,,https://www.yza.mx/x/MXYZ_7501065085528.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7501065085528,Farmacias Benavides,175.00,,https://www.benavides.com.mx/voltaren-116-diclofenaco-gel-50-g-tubo,2026-09-30,,agente sesión 14
+4015672111097,Farmacias YZA,784.00,,https://www.yza.mx/omron-baumanometro-muneca-hem-6160e-1-pz/MXYZ_4015672111097.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+8436043011024,Farmacias Benavides,300.00,441.00,https://www.benavides.com.mx/plenafem-suplemento-alimenticio-30-capsulas,2026-09-30,Precio con descuento aplicado; regular 441,agente sesión 14
+8436043011024,Farmacias YZA,333.00,,https://www.yza.mx/x/MXYZ_8436043011024.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+8436043011024,Chedraui,348.00,,https://www.chedraui.com.mx/suplemento-alimentacio-plenafem-30-capsulas-3612512/p,2026-09-30,EAN truncado en la tienda (843604301102); existencia 100,agente sesión 14
+7501027515230,Chedraui,139.20,174.00,https://www.chedraui.com.mx/biberon-disney-orejas-3-en-1-cuello-ancho-flujo-medio-9oz--270ml-3274317/p,2026-09-30,Precio de oferta; EAN 17501027515237 equivale al GTIN; existencia 10,agente sesión 14
+7501027515230,HEB,177.00,,https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p,2026-09-30,,agente sesión 14
+7501098606127,Chedraui,1125.00,,https://www.chedraui.com.mx/aerosol-bucal-para-inhalacion-vannair-160mcg45mcg-inhalador-con-120-dosis-3157483/p,2026-09-30,,agente sesión 14
+7501098606127,Farmacias YZA,1273.50,,https://www.yza.mx/x/MXYZ_7501098606127.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501098606127,Farmacias Benavides,1321.00,,https://www.benavides.com.mx/vannair-160-mcg-budesonida45-mcg-formoterol-120-dosis-aerosol,2026-09-30,,agente sesión 14
+7501098606127,Farmacias del Ahorro,1446.00,,https://www.fahorro.com/vannair-160-mcg-4-5-mcg-aerosol-120-dosis.html,2026-09-30,,agente sesión 14
+7501289511469,Chedraui,99.00,,https://www.chedraui.com.mx/pasta-lassar-andromaco-110g-3037185/p,2026-09-30,,agente sesión 14
+7501289511469,Farmacias YZA,111.35,,https://www.yza.mx/x/MXYZ_7501289511469.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501289511469,Farmacias Benavides,118.00,,https://www.benavides.com.mx/pasta-de-lassar-andromaco-oxido-de-zinc-110-g,2026-09-30,,agente sesión 14
+7501289511469,Farmacias del Ahorro,119.00,,https://www.fahorro.com/pasta-lassar-andromaco-cutaneo-oxido-de-zinc-25-tubo-110-gr.html,2026-09-30,,agente sesión 14
+7501871730339,Farmacias YZA,851.00,,https://www.yza.mx/x/MXYZ_7501871730339.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501871730339,Farmacias Benavides,896.00,,https://www.benavides.com.mx/nulytely-sodio-potasio-polietilenglicol-4-ud-sobres-1,2026-09-30,,agente sesión 14
+7501871730339,Chedraui,944.00,,https://www.chedraui.com.mx/polvo-para-solucion-nulytely-sabor-cereza-caja-con-4-sobres-3036179/p,2026-09-30,,agente sesión 14
+7501871730339,Farmacias del Ahorro,944.00,,https://www.fahorro.com/nulytely-polvo-4-sobres-cereza.html,2026-09-30,,agente sesión 14
+7506022331502,Chedraui,530.00,,https://www.chedraui.com.mx/dapagliflozina-diflosensi-28-tabletas-3896726/p,2026-09-30,,agente sesión 14
+383017678630,Farmacias YZA,154.00,,https://www.yza.mx/x/MXYZ_383017678630.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+383017678630,Farmacias Benavides,169.00,,https://www.benavides.com.mx/bd-ultra-fine-jeringa-para-insulina-u-100-0-5-ml-31g-x-6-mm-30-uds,2026-09-30,,agente sesión 14
+7501299306352,Farmacias YZA,119.50,,https://www.yza.mx/x/MXYZ_7501299306352.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501299306352,Farmacias Benavides,131.00,,https://www.benavides.com.mx/supradol-10-mg-ketorolaco-10-ud-tabletas,2026-09-30,,agente sesión 14
+7501299306352,Chedraui,134.00,,https://www.chedraui.com.mx/tabletas-supradol-10mg-caja-con-10-tabletas-3039288/p,2026-09-30,,agente sesión 14
+4607009581187,Farmacias YZA,448.00,,https://www.yza.mx/x/MXYZ_4607009581187.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+4607009581187,Chedraui,463.00,,https://www.chedraui.com.mx/tabletas-anaferon-12c30c200c-caja-con-20-tabletas-3599903/p,2026-09-30,,agente sesión 14
+4607009581187,Farmacias Benavides,517.00,,https://www.benavides.com.mx/anaferon-anticuerpo-afinopurificado-ifn-gamma-humano-20-ud-tabletas,2026-09-30,,agente sesión 14
+7501124820640,Farmacias Benavides,1325.00,,https://www.benavides.com.mx/patanol-02-olopatadina-solucion-25-ml-gotas,2026-09-30,,agente sesión 14
+7501124820640,HEB,1331.00,,https://www.heb.com.mx/alcon-patanol-0-2-gotas-2-5-ml-299852/p,2026-09-30,Ficha con el mismo GTIN; figura agotado,agente sesión 14
+7501287621009,Chedraui,1598.00,,https://www.chedraui.com.mx/tabletas-aldactone-100-caja-con-30-tabletas-3022627/p,2026-09-30,,agente sesión 14
+7501287621009,Farmacias YZA,1797.00,,https://www.yza.mx/x/MXYZ_7501287621009.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501287621009,Farmacias Benavides,1904.00,,https://www.benavides.com.mx/aldactone-100-mg-espironolactona-30-tabletas,2026-09-30,,agente sesión 14
+7501299307595,Farmacias YZA,1491.50,,https://www.yza.mx/x/MXYZ_7501299307595.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida,agente sesión 14
+7501299307595,Chedraui,1499.00,,https://www.chedraui.com.mx/crema-quimara-1-5-tubo-con-5g-3602967/p,2026-09-30,,agente sesión 14
+7506359300615,Chedraui,185.00,,https://www.chedraui.com.mx/solucion-antiseptica-estericide-120ml-3889883/p,2026-09-30,,agente sesión 14
+7841141003726,Farmacias YZA,970.00,,https://www.yza.mx/prikul-75mg-28-caps/MXYZ_7841141003726.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7841141003726,Farmacias Benavides,1270.00,,https://www.benavides.com.mx/prikul-75-mg-pregabalina-28-ud-capsulas,2026-09-30,,agente sesión 14
+7506425605903,Chedraui,206.00,,https://www.chedraui.com.mx/calzones-entrenadores-huggies-pull-ups-talla-extra-grande-para-ninas-30-calzones-3584048/p,2026-09-30,EAN coincide,agente sesión 14
+7506425605903,HEB,254.00,,https://www.heb.com.mx/huggies-calzones-entrenadores-pull-ups-talla-xl-nina-30-pz-711017/p,2026-09-30,GTIN en ficha; sucursal de referencia,agente sesión 14
+7501019064517,Chedraui,189.00,210.00,https://www.chedraui.com.mx/ropa-interior-desechable-tena-pants-nocturno-talla-m-10-piezas-3864327/p,2026-09-30,EAN coincide,agente sesión 14
+7506205809323,Farmacias Benavides,588.00,,https://www.benavides.com.mx/enfamil-formula-de-continuacion-de-6-a-12-meses-800-gr-lata,2026-09-30,,agente sesión 14
+7506205809323,Farmacias YZA,599.00,,https://www.yza.mx/enfamil-2-de-6-a-12-meses-800-g/MXYZ_7506205809323.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7506425625536,Farmacias YZA,51.00,,https://www.yza.mx/kotex-unika-tampon-regular-12-pzas/MXYZ_7506425625536.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7506425625536,Farmacias Benavides,55.00,,https://www.benavides.com.mx/kotex-unika-regular-tampones-12-ud,2026-09-30,,agente sesión 14
+7501125115479,Farmacias YZA,24.00,,https://www.yza.mx/cloruro-de-sodi-0.9-solucion-iny-100ml/MXYZ_7501125115479.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7501125115479,Farmacias Benavides,32.00,,https://www.benavides.com.mx/minioval-cloruro-de-sodio-solucion-100-ml,2026-09-30,,agente sesión 14
+7501201400581,Farmacias YZA,1130.00,,https://www.yza.mx/combigan-d-solucion-0.2mg0.5mg-5ml/MXYZ_7501201400581.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7501201400581,Farmacias Benavides,1319.00,,https://www.benavides.com.mx/combigan-d-02-05-brimonidina-timolol-5-ml-gotas,2026-09-30,,agente sesión 14
+7501033954412,Farmacias YZA,1272.00,,https://www.yza.mx/controlip-160mg-30-caps/MXYZ_7501033954412.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7501033954412,Farmacias Benavides,1448.00,,https://www.benavides.com.mx/controlip-160-mg-fenofibrato-30-capsulas,2026-09-30,,agente sesión 14
+7501056346270,Chedraui,95.00,110.00,https://www.chedraui.com.mx/locion-facial-desmaquillante-dual-ponds-clarant-b3-200ml-3209294/p,2026-09-30,EAN coincide,agente sesión 14
+7501056346270,Farmacias Benavides,143.00,,https://www.benavides.com.mx/pond-039-s-clarant-b3-locion-desmaquillante-dual-200-ml,2026-09-30,,agente sesión 14
+7501007535432,Chedraui,54.00,,https://www.chedraui.com.mx/analgesico-tylenol-10-tabletas-500-mg-3193879/p,2026-09-30,EAN coincide,agente sesión 14
+7501007535432,Farmacias YZA,71.00,,https://www.yza.mx/tylenol-paracetamol-500mg-10-tabs/MXYZ_7501007535432.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+7501007535432,Farmacias Benavides,79.00,,https://www.benavides.com.mx/tylenol-500-mg-paracetamol-10-tabletas,2026-09-30,,agente sesión 14
+650240007408,Farmacias YZA,104.00,,https://www.yza.mx/silka-medic-gel-15g/MXYZ_650240007408.html,2026-09-30,Precio de ficha; en el sitio figura agotado por no haber sucursal elegida,agente sesión 14
+650240007408,Farmacias Benavides,109.00,,https://www.benavides.com.mx/silka-medic-1-terbinafina-gel-15-g-tubo,2026-09-30,,agente sesión 14
+7501299300763,Farmacias Benavides,373.00,,https://www.benavides.com.mx/ectaprim-f-160-mg-800-mg-sulfametoxazol-trimetoprima-14-ud-tabletas,2026-09-30,,agente sesión 14
+7503046131866,Farmacias YZA,82.00,,https://www.yza.mx/x/MXYZ_7503046131866.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7503046131866,Farmacias Benavides,93.00,,https://www.benavides.com.mx/soldrin-dexametasona-neomicina-10-ml-gotas,2026-09-30,,agente sesión 14
+7509546057545,Farmacias Benavides,108.00,,https://www.benavides.com.mx/lady-speed-stick-pro-5-en-1-antitranspirante-barra-247-45-g,2026-09-30,,agente sesión 14
+7501390911004,Farmacias YZA,785.00,,https://www.yza.mx/x/MXYZ_7501390911004.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7501390911004,Farmacias Benavides,908.00,,https://www.benavides.com.mx/italdermol-g-15-g-triticum-vulgare01-g-gentamicina100-g-crema-30-g,2026-09-30,,agente sesión 14
+7502235760337,Farmacias YZA,1070.00,,https://www.yza.mx/x/MXYZ_7502235760337.html,2026-09-30,Precio de ficha; sin sucursal elegida aparece agotado,agente sesión 14
+7502235760337,Farmacias Benavides,1136.00,,https://www.benavides.com.mx/inofolic-hp-suplemento-alimenticio-60-capsulas,2026-09-30,,agente sesión 14
+7501125112881,Farmacias Benavides,123.00,,https://www.benavides.com.mx/pisacaina-2-lidocaina-50-ml-frasco-ampula,2026-09-30,,agente sesión 14
+7501088504198,Chedraui,443.00,,https://www.chedraui.com.mx/solucion-inyectable-venoferrum-100mg5ml-caja-con-1-ampolleta-de-5ml-3040494/p,2026-09-30,,agente sesión 14
+7501088504198,Farmacias YZA,492.50,,https://www.yza.mx/venoferrum-solucion-sacarato-ferrico/MXYZ_7501088504198.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+7501088504198,Farmacias Benavides,525.00,574.00,https://www.benavides.com.mx/venoferrum-100-mg-sacarato-ferrico-5-ml-ampolletas,2026-09-30,,agente sesión 14
+7501088504198,Farmacias del Ahorro,527.00,,https://www.fahorro.com/venoferrum-100-mg-5-mlsolucion-inyectable-1-ampolleta.html,2026-09-30,,agente sesión 14
+736085048063,Farmacias YZA,539.50,,https://www.yza.mx/trazidex-ungena-oftalmico-unguento-3.5g/MXYZ_736085048063.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+736085048063,Chedraui,566.00,,https://www.chedraui.com.mx/unguento-trazidex-ungena-tubo-con-35g-3040049/p,2026-09-30,,agente sesión 14
+736085048063,Farmacias del Ahorro,566.00,,https://www.fahorro.com/trazidex-oftalmico-3-5-g-unguento.html,2026-09-30,,agente sesión 14
+736085048063,Farmacias Benavides,620.00,,https://www.benavides.com.mx/trazidex-ungena-3-mg-tobramicina1-mg-dexametasona1-g-unguento-35-g,2026-09-30,,agente sesión 14
+7506306203044,Chedraui,85.00,,https://www.chedraui.com.mx/desodorante-en-aerosol-axe-kilo-150ml-3506696/p,2026-09-30,,agente sesión 14
+7506306203044,Farmacias del Ahorro,86.00,87.00,https://www.fahorro.com/desodorante-axe-kilo-hombre-150-ml-aerosol.html,2026-09-30,,agente sesión 14
+7501056346065,Chedraui,130.00,,https://www.chedraui.com.mx/crema-facial-ponds-clarant-b3-anti-manchas-con-fps-15-con-200g-3209477/p,2026-09-30,EAN de Chedraui con prefijo 3 (37501056346066); nombre y contenido coinciden (200 g),agente sesión 14
+7501056346065,Farmacias Benavides,155.00,,https://www.benavides.com.mx/pond-039-s-clarant-b3-crema-facial-con-protector-solar-15-anti-manchas-200-g,2026-09-30,,agente sesión 14
+7509552828962,Farmacias del Ahorro,88.00,110.00,https://www.fahorro.com/fructis-hairfood-tarro-350-ml-aguacate.html,2026-09-30,,agente sesión 14
+7509552828962,Farmacias Benavides,90.40,113.00,https://www.benavides.com.mx/garnier-fructis-hair-food-aguacate-mascarilla-de-nutricion-1-minuto-350-ml,2026-09-30,,agente sesión 14
+7509552828962,Farmacias YZA,108.00,,https://www.yza.mx/x/MXYZ_7509552828962.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+7509546077260,Farmacias Benavides,124.00,,https://www.benavides.com.mx/stefano-cosmo-desodorante-aerosol-159-ml,2026-09-30,Ficha titulada 113 g aerosol (URL dice 159 ml); GTIN coincide,agente sesión 14
+7501027565846,Farmacias YZA,57.05,,https://www.yza.mx/x/MXYZ_7501027565846.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+7501027565846,Farmacias del Ahorro,69.00,86.25,https://www.fahorro.com/evenflo-fun-play-taza-entrenadora-10-oz-con-boquilla-suave-para-bebes-desde-6-meses.html,2026-09-30,,agente sesión 14
+7506425661893,Farmacias Benavides,317.00,,https://www.benavides.com.mx/kleenbebe-movilastic-panales-unisex-autoajustables-talla-extra-jumbo-etapa-6-40-uds,2026-09-30,,agente sesión 14
+7506425661893,Farmacias YZA,335.00,,https://www.yza.mx/x/MXYZ_7506425661893.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+7502209710177,Chedraui,184.00,,https://www.chedraui.com.mx/granulado-para-solucion-oral-diasporal-300mg-caja-con-20-sobres-de-5g-3612199/p,2026-09-30,,agente sesión 14
+7502209710177,Farmacias del Ahorro,228.00,,https://www.fahorro.com/diasporal-suplemento-alimenticio-20-sobres.html,2026-09-30,,agente sesión 14
+7502209710177,Farmacias Benavides,274.00,,https://www.benavides.com.mx/diasporal-300-mg-citrato-de-magnesio-20-sobres,2026-09-30,,agente sesión 14
+7501299306765,Farmacias YZA,347.00,,https://www.yza.mx/x/MXYZ_7501299306765.html,2026-09-30,Precio de ficha sin sucursal elegida (aparece agotado),agente sesión 14
+7501299306765,Farmacias Benavides,399.00,,https://www.benavides.com.mx/macrozit-500-mg-azitromicina-3-ud-tabletas,2026-09-30,,agente sesión 14
+7501471800272,Farmacias Benavides,458.00,,https://www.benavides.com.mx/lipovitasi-or-carnitina-metionina-tiamina-30-ud-tabletas,2026-09-30,,agente sesión 14
+036000180800,Chedraui,150.00,,https://www.chedraui.com.mx/calzones-desechables-para-dormir-goodnites-talla-mediana-11-calzones-3003193/p,2026-09-30,"Talla mediana (S/M), 11 piezas; EAN de Chedraui sin digito de control (3600018080)",agente sesión 14
+036000180800,Farmacias Benavides,156.00,,https://www.benavides.com.mx/goodnites-ropa-interior-unisex-desechable-para-dormir-talla-chicamediana-11-uds,2026-09-30,,agente sesión 14
+4104480706196,Farmacias Benavides,439.00,,https://www.benavides.com.mx/panoto-s-07-g100-ml-hedera-helix-medicamento-herbolario-200-ml,2026-09-30,,agente sesión 14
+4104480706196,Farmacias YZA,444.00,,https://www.yza.mx/x/MXYZ_4104480706196.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501050699990,Farmacias Benavides,479.00,,https://www.benavides.com.mx/celestamine-ns-pediatrico-100-mg-loratadina5-mg-betametasona100-ml-60-ml-solucion,2026-09-30,,agente sesión 14
+7501050699990,Farmacias YZA,487.50,,https://www.yza.mx/x/MXYZ_7501050699990.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501019064753,Farmacias YZA,180.00,,https://www.yza.mx/x/MXYZ_7501019064753.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501019064753,Chedraui,204.00,225.00,https://www.chedraui.com.mx/ropa-interior-desechable-tena-pants-mujer-talla-m-14-piezas-3864325/p,2026-09-30,,agente sesión 14
+7501019064753,Farmacias Benavides,216.00,,https://www.benavides.com.mx/tena-pants-maxi-protect-ropa-interior-desechable-para-mujer-chicomediano-14-uds,2026-09-30,,agente sesión 14
+7501070903411,Farmacias YZA,817.00,,https://www.yza.mx/x/MXYZ_7501070903411.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501070903411,Farmacias Benavides,971.00,,https://www.benavides.com.mx/despamen-100-mg-5-mg-estradiol-testosterona-1-ud-jeringas-prellenadas,2026-09-30,,agente sesión 14
+7502216931220,Farmacias YZA,240.00,,https://www.yza.mx/x/MXYZ_7502216931220.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7502216931220,Farmacias Benavides,255.00,,https://www.benavides.com.mx/acc-200-mg-acetilcisteina-efervescentes-20-ud-tabletas,2026-09-30,,agente sesión 14
+7501089809315,Farmacias YZA,368.00,,https://www.yza.mx/x/MXYZ_7501089809315.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501089809315,Farmacias Benavides,428.00,,https://www.benavides.com.mx/eskapar-metronidazol-nifuroxazida-120-ml-suspension,2026-09-30,,agente sesión 14
+7501035907508,Farmacias Benavides,95.00,,https://www.benavides.com.mx/speed-stick-fresh-desodorante-barra-60-g,2026-09-30,,agente sesión 14
+7501019040719,Chedraui,86.00,,https://www.chedraui.com.mx/toallas-femeninas-saba-buenas-noches-ultra-invisible-ultradelgada-nocturna-con-alas-22-piezas-3675196/p,2026-09-30,,agente sesión 14
+7501019040719,Farmacias Benavides,93.00,,https://www.benavides.com.mx/saba-ultra-nocturna-con-alas-22-ud,2026-09-30,,agente sesión 14
+7501390910953,Farmacias YZA,419.00,,https://www.yza.mx/x/MXYZ_7501390910953.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501390910953,Farmacias Benavides,557.00,,https://www.benavides.com.mx/hemamina-10-ml-complejo-vitamina-b-extracto-de-higado-10-ud-ampolletas,2026-09-30,,agente sesión 14
+7501314703616,Chedraui,283.00,,https://www.chedraui.com.mx/capsulas-dimegan-d-5mg20mg-liberacion-prolongada-caja-con-10-capsulas-3028557/p,2026-09-30,,agente sesión 14
+7501314703616,Farmacias Benavides,477.00,,https://www.benavides.com.mx/dimegan-d-5-mg-loratadina20-mg-fenilefrina-10-capsulas,2026-09-30,,agente sesión 14
+7501299303047,Chedraui,69.00,,https://www.chedraui.com.mx/crema-cicloferon-5-tubo-de-2g-3026404/p,2026-09-30,,agente sesión 14
+7501299303047,Farmacias YZA,69.00,,https://www.yza.mx/x/MXYZ_7501299303047.html,2026-09-30,Precio de ficha; agotado por no haber sucursal elegida,agente sesión 14
+7501299303047,Farmacias Benavides,73.00,,https://www.benavides.com.mx/cicloferon-5-aciclovir-crema-para-fuegos-2-g,2026-09-30,,agente sesión 14
+7501070618995,Farmacias YZA,392.50,,https://www.yza.mx/x/MXYZ_7501070618995.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501070618995,Farmacias del Ahorro,416.00,,https://www.fahorro.com/aeroflux-solucion-oral-120-ml.html,2026-09-30,,agente sesión 14
+7501058715685,Chedraui,225.00,,https://www.chedraui.com.mx/tabletas-tempra-forte-650mg-paracetamol-adultos-36-tabletas-3603093/p,2026-09-30,,agente sesión 14
+7501058715685,Farmacias del Ahorro,226.00,,https://www.fahorro.com/tempra-forte-650-mg-36-tabs.html,2026-09-30,,agente sesión 14
+7501058715685,Farmacias YZA,249.50,,https://www.yza.mx/x/MXYZ_7501058715685.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida; 24+12 tabletas,agente sesión 14
+7791293032436,Farmacias del Ahorro,59.00,99.00,https://www.fahorro.com/antitranspirante-rexona-women-powder-dry-en-aerosol-para-mujer-150-ml.html,2026-09-30,,agente sesión 14
+7791293032436,Chedraui,84.00,,https://www.chedraui.com.mx/antitranspirante-en-aerosol-rexona-powder-dry-150ml-3437135/p,2026-09-30,,agente sesión 14
+7791293032436,Farmacias YZA,84.50,,https://www.yza.mx/x/MXYZ_7791293032436.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida; ficha dice 90 g (contenido neto del aerosol de 150 ml),agente sesión 14
+7501035919129,Farmacias del Ahorro,50.00,79.00,https://www.fahorro.com/shampoo-acondiconador-palmolive-optims-4-extra-intensivo-400-ml.html,2026-09-30,,agente sesión 14
+7501035919129,Farmacias YZA,77.00,,https://www.yza.mx/x/MXYZ_7501035919129.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7506205810046,Farmacias YZA,769.50,,https://www.yza.mx/x/MXYZ_7506205810046.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7506205810046,Farmacias del Ahorro,795.00,,https://www.fahorro.com/enfamil-premium-confort-etapa-1-formula-infantil-especializada-para-lactantes-de-0-a-12-meses-lata-de-800-gr.html,2026-09-30,,agente sesión 14
+7501299330371,Farmacias YZA,704.00,,https://www.yza.mx/x/MXYZ_7501299330371.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501299330371,Farmacias del Ahorro,795.00,,https://www.fahorro.com/evocs-iii-750-mg-oral-7-tabletas.html,2026-09-30,,agente sesión 14
+7501299307380,Chedraui,403.00,,https://www.chedraui.com.mx/grageas-paramix-500mg-caja-con-6-grageas-3037019/p,2026-09-30,,agente sesión 14
+7501299307380,Farmacias YZA,446.50,,https://www.yza.mx/x/MXYZ_7501299307380.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501299307380,Farmacias del Ahorro,498.00,,https://www.fahorro.com/paramix-500-mg-oral-6-grageas.html,2026-09-30,,agente sesión 14
+008400000460,Chedraui,511.00,,https://www.chedraui.com.mx/suspension-oftalmica-premid-frasco-gotero-con-10ml-3037755/p,2026-09-30,"Existencia 10; muy por debajo de Del Ahorro, verificar",agente sesión 14
+008400000460,Farmacias del Ahorro,839.00,,https://www.fahorro.com/premid-suspension-10-ml.html,2026-09-30,,agente sesión 14
+7501065003973,Farmacias del Ahorro,461.00,,https://www.fahorro.com/centrum-multivitaminico-gender-50-hombres-60-tabletas.html,2026-09-30,,agente sesión 14
+7501065003973,Farmacias Benavides,465.00,,https://www.benavides.com.mx/centrum-gender-50-multivitaminico-60-ud-tabletas,2026-09-30,,agente sesión 14
+7501299302866,Farmacias YZA,270.50,,https://www.yza.mx/x/MXYZ_7501299302866.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501299302866,Farmacias del Ahorro,272.70,303.00,https://www.fahorro.com/sensibit-xp-oral-120-ml-solucion.html,2026-09-30,,agente sesión 14
+7501314704927,Chedraui,465.00,,https://www.chedraui.com.mx/capsulas-spasmopriv-200mg-caja-con-12-capsulas-3039091/p,2026-09-30,,agente sesión 14
+7501314704927,Farmacias del Ahorro,465.00,,https://www.fahorro.com/spasmopriv-200-mg-oral-12-caps.html,2026-09-30,,agente sesión 14
+7501050600026,Farmacias YZA,542.00,,https://www.yza.mx/x/MXYZ_7501050600026.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501050600026,Farmacias del Ahorro,547.00,,https://www.fahorro.com/celestamine-ns-con-20-tabletas.html,2026-09-30,,agente sesión 14
+7501100088095,Farmacias del Ahorro,128.00,,https://www.fahorro.com/catalogsearch/result/?q=7501100088095,2026-09-30,GraphQL por GTIN; precio final igual al regular,agente sesión 14
+7501100088095,Farmacias Benavides,132.00,,https://www.benavides.com.mx/tylenol-500-mg-paracetamol-20-tabletas,2026-09-30,,agente sesión 14
+7501100088095,Farmacias YZA,138.00,,https://www.yza.mx/x/MXYZ_7501100088095.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501100088095,Chedraui,144.00,,https://www.chedraui.com.mx/tabletas-tylenol-analgesico-500mg-con-20-tabletas-3040193/p,2026-09-30,,agente sesión 14
+7506425659227,Chedraui,64.90,,https://www.chedraui.com.mx/toallitas-humedas-the-honey-keeper-miel-72-piezas-3849545/p,2026-09-30,GTIN de la tienda 17506425659224 (variante de 14 dígitos); existencia 99999 y sin otro precio con qué contrastar,agente sesión 14
+714706910487,Chedraui,28.00,,https://www.chedraui.com.mx/pastillas-broncolin-bicoestol-sabor-eucalipto-16-pastillas-3412418/p,2026-09-30,Mismo nombre y 16 pastillas; GTIN de la tienda 10714706910644 distinto al del lote,agente sesión 14
+714706910487,Farmacias YZA,28.00,,https://www.yza.mx/x/MXYZ_714706910487.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+714706910487,Farmacias Benavides,49.00,,https://www.benavides.com.mx/broncolin-bicoestol-sabor-eucalipto-16-ud-pastilla,2026-09-30,,agente sesión 14
+354312225164,Chedraui,69.00,97.00,https://www.chedraui.com.mx/pomada-vitacilina-bebe-50g-3040674/p,2026-09-30,Precio de oferta (lista 97); existencia 99999,agente sesión 14
+354312225164,Farmacias Benavides,93.00,,https://www.benavides.com.mx/vitacilina-bebe-pomada-para-rozaduras-50-g,2026-09-30,,agente sesión 14
+7501098633260,Chedraui,1473.00,,https://www.chedraui.com.mx/tabletas-atacand-plus-16mg125mg-caja-con-28-tabletas-3023956/p,2026-09-30,,agente sesión 14
+7501098633260,Farmacias YZA,1593.00,,https://www.yza.mx/x/MXYZ_7501098633260.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501070614461,Farmacias Benavides,444.00,,https://www.benavides.com.mx/amoxibron-pediatrico-250-mg-amoxicilina-bromhexina-75-ml-suspension,2026-09-30,,agente sesión 14
+7501100088217,Farmacias YZA,125.00,,https://www.yza.mx/x/MXYZ_7501100088217.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501100088217,Farmacias Benavides,129.00,,https://www.benavides.com.mx/tylenol-100-mg-ml-paracetamol-15-ml-sus-pediatrica,2026-09-30,,agente sesión 14
+7502321440013,Farmacias Benavides,155.00,,https://www.benavides.com.mx/buscapina-duo-10-mg-hioscina500-mg-paracetamol-10-tabletas,2026-09-30,,agente sesión 14
+7702035870384,Farmacias YZA,80.00,,https://www.yza.mx/x/MXYZ_7702035870384.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7702035870384,Chedraui,84.00,,https://www.chedraui.com.mx/crema-corporal-lubriderm-reparacion-intensiva-200ml-3652501/p,2026-09-30,,agente sesión 14
+7702035870384,Farmacias Benavides,84.00,,https://www.benavides.com.mx/lubriderm-crema-corporal-reparacion-intensiva-200-ml,2026-09-30,,agente sesión 14
+7501299307687,Farmacias YZA,590.00,,https://www.yza.mx/x/MXYZ_7501299307687.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501299307687,Farmacias Benavides,659.00,,https://www.benavides.com.mx/evocs-500-mg-levofloxacino-7-ud-tabletas,2026-09-30,,agente sesión 14
+7501298213040,Chedraui,802.00,,https://www.chedraui.com.mx/tabletas-caudaline-100mg-caja-con-30-tabletas-3025900/p,2026-09-30,,agente sesión 14
+7501298213040,Farmacias YZA,1034.00,,https://www.yza.mx/x/MXYZ_7501298213040.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501298213040,Farmacias Benavides,1138.00,,https://www.benavides.com.mx/caudaline-100-mg-cilostazol-30-tabletas,2026-09-30,,agente sesión 14
+7501108767947,Chedraui,166.00,,https://www.chedraui.com.mx/capsulas-advil-analgesico-400mg-3022271/p,2026-09-30,GTIN de la tienda 17501108767944 (variante de 14 dígitos),agente sesión 14
+7501108767947,Farmacias Benavides,179.00,,https://www.benavides.com.mx/advil-400-mg-ibuprofeno-20-capsulas,2026-09-30,,agente sesión 14
+7501108767947,Farmacias YZA,183.50,,https://www.yza.mx/x/MXYZ_7501108767947.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501058715555,Chedraui,226.00,,https://www.chedraui.com.mx/suspension-tempra-fen-infantil-antiinflamatoria-sabor-fresa-100-ml-3567740/p,2026-09-30,GTIN de la tienda 17501058715552 (variante de 14 dígitos),agente sesión 14
+7501058715555,Farmacias YZA,267.00,,https://www.yza.mx/x/MXYZ_7501058715555.html,2026-09-30,Ficha marcada agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501058715555,Farmacias Benavides,285.00,,https://www.benavides.com.mx/tempra-fen-infantil-200-mg-ibuprofeno-100-ml-frasco,2026-09-30,,agente sesión 14
+7891024036570,Farmacias YZA,187.95,,https://www.yza.mx/x/MXYZ_7891024036570.html,2026-09-30,agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7891024036570,Farmacias del Ahorro,273.60,342.00,https://www.fahorro.com/enjuague-bucal-orthogard-sin-alcohol-colgate-250-ml.html,2026-09-30,,agente sesión 14
+7891024036570,Farmacias Benavides,350.00,,https://www.benavides.com.mx/colgate-orthogard-enjuague-bucal-con-fluoruro-de-sodio-0-04-250-ml,2026-09-30,,agente sesión 14
+070942303194,Farmacias Benavides,69.00,,https://www.benavides.com.mx/gum-dental-floss-sabor-menta-129-m-1-ud,2026-09-30,,agente sesión 14
+070942303194,Farmacias del Ahorro,84.00,,https://www.fahorro.com/hilo-dental-con-cera-menta-marca-gum-129m.html,2026-09-30,,agente sesión 14
+7501088505157,Farmacias YZA,219.00,,https://www.yza.mx/x/MXYZ_7501088505157.html,2026-09-30,agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501088505157,Farmacias Benavides,254.00,,https://www.benavides.com.mx/alin-depot-4-mg-dexametasona-2-ml-frasco-ampula,2026-09-30,,agente sesión 14
+75002794,Chedraui,25.00,40.00,https://www.chedraui.com.mx/shampoo-optims-nivel-4-acondicionamiento-extra-intensivo-vital-keratina-200ml-3002497/p,2026-09-30,"Precio muy por debajo de Benavides; existencia 100, posible promoción",agente sesión 14
+75002794,Farmacias Benavides,61.00,,https://www.benavides.com.mx/palmolive-optims-4-extra-intensivo-vital-keratina-acondicionador-200-ml,2026-09-30,,agente sesión 14
+714706910913,Chedraui,28.00,29.00,https://www.chedraui.com.mx/pastillas-broncolin-bicoestol-sabor-cereza-16-pastillas-3475502/p,2026-09-30,,agente sesión 14
+714706910890,Chedraui,28.00,29.00,https://www.chedraui.com.mx/pastillas-broncolin-bicoestol-sabor-limon-16-pastillas-3475506/p,2026-09-30,,agente sesión 14
+714706910890,Farmacias YZA,40.00,,https://www.yza.mx/x/MXYZ_714706910890.html,2026-09-30,agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+714706910890,Farmacias Benavides,49.00,,https://www.benavides.com.mx/broncolin-bicoestol-sabor-limon-16-ud-pastilla,2026-09-30,,agente sesión 14
+7501027554949,Farmacias Benavides,139.00,,https://www.benavides.com.mx/evenflo-vaso-entrenador-popote-divertido-11-oz,2026-09-30,,agente sesión 14
+7501326004176,Chedraui,869.00,,https://www.chedraui.com.mx/comprimidos-janumet-50mg850mg-caja-con-28-comprimidos-3133042/p,2026-09-30,Caja con 28 comprimidos 50/850 mg,agente sesión 14
+7501326004176,Farmacias YZA,911.00,,https://www.yza.mx/x/MXYZ_7501326004176.html,2026-09-30,agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501326004176,Farmacias Benavides,967.00,,https://www.benavides.com.mx/janumet-50-mg-sitagliptina850-mg-metformina-28-comprimidos,2026-09-30,,agente sesión 14
+7500462746698,Ajolotius (sitio oficial),116.00,,https://ajolotius.com/producto/ajolotius-jarabe-con-propoleo-y-equinacea/,2026-09-30,"Ficha «Ajolomiel Jarabe con Propóleo y Equinácea 250 ml»; el GTIN no aparece en la página, coincidencia por nombre y contenido",agente sesión 14
+7506306226722,Farmacias Benavides,102.00,,https://www.benavides.com.mx/axe-young-oriental-wood-amp-lima-desodorante-bodyspray-48h-150ml,2026-09-30,,agente sesión 14
+7501124184780,Farmacias Benavides,715.00,,https://www.benavides.com.mx/ki-cab-50-mg-tegoprazan-10-tabletas,2026-09-30,,agente sesión 14
+7501124184780,Farmacias YZA,823.50,,https://www.yza.mx/x/MXYZ_7501124184780.html,2026-09-30,agotado por no haber sucursal elegida; precio de ficha,agente sesión 14
+7501124184780,Chedraui,914.00,,https://www.chedraui.com.mx/tegoprazan-ki-cab-10-tab-50-mg-3796688/p,2026-09-30,Ki-Cab 50 mg 10 tabletas,agente sesión 14
+7501299308073,Farmacias del Ahorro,278.10,309.00,https://www.fahorro.com/sensibit-xp-30-mg-oral-20-tabletas.html,2026-09-30,,agente sesión 14
+7501299308073,Farmacias YZA,319.50,,https://www.yza.mx/x/MXYZ_7501299308073.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501299308073,Farmacias Benavides,336.00,,https://www.benavides.com.mx/sensibit-xp-5-mg-loratadina30-mg-ambroxol-20-tabletas,2026-09-30,,agente sesión 14
+7501299301128,Chedraui,191.00,,https://www.chedraui.com.mx/suspension-pediatrica-flagenase-400-frasco-con-120ml-3030278/p,2026-09-30,Existencia 10-100,agente sesión 14
+7501299301128,Farmacias del Ahorro,215.60,308.00,https://www.fahorro.com/flagenase-400-oral-pediatrico-120-ml.html,2026-09-30,,agente sesión 14
+7501299301128,Farmacias YZA,219.00,,https://www.yza.mx/x/MXYZ_7501299301128.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501299301128,Farmacias Benavides,284.00,,https://www.benavides.com.mx/flagenase-pediatrico-diiodohidroxiquinoleina-metronidazol-120-ml-suspension,2026-09-30,,agente sesión 14
+7501057006371,Chedraui,105.00,,https://www.chedraui.com.mx/enjuague-bucal-listerine-cuidado-total-500ml-3087169/p,2026-09-30,Existencia 10-100,agente sesión 14
+7501057006371,Walmart,159.00,,https://www.walmart.com.mx/ip/enjuague-bucal-listerine-cuidado-total-menta-fresca-500-ml/00750105700637,2026-09-30,,agente sesión 14
+037836050282,Chedraui,65.00,,https://www.chedraui.com.mx/jabon-liquido-corporal-grisi-neutro-450ml-3116402/p,2026-09-30,Existencia 10-100,agente sesión 14
+037836050282,Farmacias del Ahorro,73.60,92.00,https://www.fahorro.com/jbn-grisi-neutro-shower-gel-liquido-450-ml.html,2026-09-30,,agente sesión 14
+037836050282,Farmacias Benavides,90.00,,https://www.benavides.com.mx/grisi-neutro-jabon-liquido-corporal-hipoalergenico-450-ml,2026-09-30,,agente sesión 14
+7509546654997,Chedraui,72.50,,https://www.chedraui.com.mx/espuma-para-peinar-caprice-final-touch-200g-3659832/p,2026-09-30,Existencia 10-100,agente sesión 14
+7891317047146,Farmacias del Ahorro,692.00,,https://www.fahorro.com/madecassol-c-300-mg-15-mg-6-mg-12.html,2026-09-30,,agente sesión 14
+7891317047146,Farmacias YZA,740.50,,https://www.yza.mx/x/MXYZ_7891317047146.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501328979564,Farmacias Benavides,1023.00,,https://www.benavides.com.mx/plaquenil-200-mg-hidroxicloroquina-20-tabletas,2026-09-30,,agente sesión 14
+7501328979564,Farmacias del Ahorro,1049.00,,https://www.fahorro.com/plaquenil-200-mg-oral-20-tabletas.html,2026-09-30,,agente sesión 14
+7501328979564,Farmacias YZA,1206.50,,https://www.yza.mx/x/MXYZ_7501328979564.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7891317019617,Farmacias Benavides,1498.00,,https://www.benavides.com.mx/edarbi-80-mg-azilsartan-medoxomilo-28-tabletas,2026-09-30,,agente sesión 14
+7501318685499,Chedraui,1777.90,,https://www.chedraui.com.mx/comprimidos-xarelto-10mg-caja-con-30-comprimidos-3226427/p,2026-09-30,Existencia 10-100,agente sesión 14
+7501318685499,Farmacias Benavides,2864.00,,https://www.benavides.com.mx/xarelto-10-mg-rivaroxaban-30-comprimidos,2026-09-30,,agente sesión 14
+7501318685499,Farmacias YZA,2934.50,,https://www.yza.mx/x/MXYZ_7501318685499.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501122960317,Chedraui,421.00,,https://www.chedraui.com.mx/crema-clobesol-005-tubo-con-30g-3026874/p,2026-09-30,Existencia 10-100,agente sesión 14
+7501122960317,Farmacias YZA,628.00,,https://www.yza.mx/x/MXYZ_7501122960317.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501122960317,Farmacias Benavides,707.00,,https://www.benavides.com.mx/clobesol-clobetasol-5-30-g-crema,2026-09-30,,agente sesión 14
+7501299330166,Chedraui,1199.00,,https://www.chedraui.com.mx/tabletas-degregan-75mg-caja-con-28-tabletas-3358177/p,2026-09-30,Existencia 10-100,agente sesión 14
+7501299330166,Farmacias Benavides,1253.00,,https://www.benavides.com.mx/degregan-75-mg-clopidogrel-28-ud-tabletas,2026-09-30,,agente sesión 14
+7503027446248,Walmart,282.00,,https://www.walmart.com.mx/ip/divelgel-bromuro-de-pinaverio-100-mg-dimeticona-300-mg-16-capsulas/00750302744624,2026-09-30,,agente sesión 14
+7501314704880,Farmacias del Ahorro,460.00,,https://www.fahorro.com/ulsen-20-mg-oral-14-caps.html,2026-09-30,Benavides y Ahorro titulan la ficha como 14 cápsulas pero el GTIN coincide con el Duo Pack de 28; el precio es coherente con duo pack.,agente sesión 14
+7501314704880,Farmacias Benavides,525.00,,https://www.benavides.com.mx/ulsen-20-mg-omeprazol-14-ud-capsulas,2026-09-30,Benavides y Ahorro titulan la ficha como 14 cápsulas pero el GTIN coincide con el Duo Pack de 28; el precio es coherente con duo pack.,agente sesión 14
+7501022182796,Chedraui,65.00,,https://www.chedraui.com.mx/jabon-en-barra-grisi-neutro-3-barras-de-150g-3606438/p,2026-09-30,EAN 750102218279; existencia 100,agente sesión 14
+7501022182796,Farmacias del Ahorro,75.60,84.00,https://www.fahorro.com/grisi-tripack-neutro-jb-150g.html,2026-09-30,Tripack 150 g,agente sesión 14
+7501022182796,Farmacias Benavides,80.00,,https://www.benavides.com.mx/grisi-jabon-neutro-en-barra-pack-3-uds-1-ud,2026-09-30,,agente sesión 14
+7501299302668,Farmacias YZA,339.00,,https://www.yza.mx/x/MXYZ_7501299302668.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501299302668,Farmacias Benavides,392.00,,https://www.benavides.com.mx/inhibitron-20-mg-omeprazol-duopack-28-capsulas,2026-09-30,GTIN coincide; el título de la ficha dice 14 cápsulas pero el og/url dice Duopack 28: presentación dudosa.,agente sesión 14
+7506306226852,Chedraui,55.00,64.00,https://www.chedraui.com.mx/desodorante-en-aerosol-para-mujer-axe-anarchy-150ml-3332325/p,2026-09-30,EAN 17506306226859 (GTIN-14 del mismo producto); existencia 100,agente sesión 14
+7501086494286,Farmacias Benavides,30.00,,https://www.benavides.com.mx/oral-b-cepillo-suave-con-cerdas-indicator-1-ud,2026-09-30,Hallado por búsqueda de GTIN; ficha Oral-B Indicator suave 1 ud (GTIN no visible en la página).,agente sesión 14
+7501299338018,Farmacias YZA,663.00,,https://www.yza.mx/x/MXYZ_7501299338018.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501299338018,Farmacias Benavides,739.00,,https://www.benavides.com.mx/cicloferon-xtrm-005-g-002-g-aciclovir-50-ml-spray,2026-09-30,,agente sesión 14
+7501125109485,Farmacias Benavides,422.00,,https://www.benavides.com.mx/amoxiclav-250-mg-acido-clavulanico-amoxicilina-75-ml-suspension,2026-09-30,,agente sesión 14
+7501165010789,Farmacias YZA,171.00,,https://www.yza.mx/x/MXYZ_7501165010789.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501165010789,Farmacias Benavides,199.00,,https://www.benavides.com.mx/aderogyl-c-infantil-275000-mg-retinol1000-mg-acido-ascorbico6000-mg-ergocalciferol-30-ml-gotas,2026-09-30,,agente sesión 14
+7501022105207,Farmacias YZA,30.50,,https://www.yza.mx/x/MXYZ_7501022105207.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7509552828078,HEB,110.00,,https://www.heb.com.mx/fructis-mascarilla-para-cabello-hair-food-350-ml-679206/p,2026-09-30,GTIN coincide en la ficha,agente sesión 14
+7501299307236,Farmacias Benavides,55.00,,https://www.benavides.com.mx/sensibit-d-nf-25-mg-loratadina5-mg-fenilefrina500-mg-paracetamol-12-tabletas,2026-09-30,,agente sesión 14
+7501299307236,Farmacias YZA,55.50,,https://www.yza.mx/x/MXYZ_7501299307236.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501034625076,Farmacias YZA,2029.00,,https://www.yza.mx/x/MXYZ_7501034625076.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501034625076,Farmacias Benavides,2154.00,,https://www.benavides.com.mx/spiolto-respimat-0226-mg-tiotropio0226-mg-olodaterolcartucho-4ml-30-dosis,2026-09-30,,agente sesión 14
+7501123014705,Farmacias YZA,538.50,,https://www.yza.mx/x/MXYZ_7501123014705.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida.,agente sesión 14
+7501123014705,Farmacias Benavides,602.00,,https://www.benavides.com.mx/femisan-clindamicina-ketoconazol-30-g-crema,2026-09-30,,agente sesión 14
+7501124100704,Chedraui,340.00,,https://www.chedraui.com.mx/comprimidos-carnotprim-10mg-caja-con-20-comprimidos-3025813/p,2026-09-30,Existencia 1 (API ean 750112410070),agente sesión 14
+7501124100704,Farmacias del Ahorro,350.00,,https://www.fahorro.com/carnotprim-10-mg-oral-20-comprimudos.html,2026-09-30,,agente sesión 14
+7501124100704,Farmacias YZA,353.00,,https://www.yza.mx/x/MXYZ_7501124100704.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501124100704,Farmacias Benavides,405.00,,https://www.benavides.com.mx/carnotprim-10-mg-metoclopramida-20-ud-comprimidos,2026-09-30,,agente sesión 14
+7501056330552,Chedraui,142.00,,https://www.chedraui.com.mx/crema-facial-ponds-rejuveness-antiarrugas-dia-200g-3065195/p,2026-09-30,,agente sesión 14
+7501314701223,Farmacias YZA,1164.50,,https://www.yza.mx/x/MXYZ_7501314701223.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501314701223,Chedraui,1198.00,,https://www.chedraui.com.mx/tabletas-unasal-250mg-caja-con-30-tabletas-3040255/p,2026-09-30,(API ean 750131470122),agente sesión 14
+7501314701223,Farmacias Benavides,1318.00,,https://www.benavides.com.mx/unasal-250-mg-terbinafina-30-ud-tabletas,2026-09-30,,agente sesión 14
+5415062119839,Chedraui,546.00,,https://www.chedraui.com.mx/tabletas-azulfidina-500mg-liberacion-prolongada-caja-con-60-tabletas-3024405/p,2026-09-30,"Azulfidina 500 mg liberación prolongada, 60 tabletas (API ean 541506211983)",agente sesión 14
+5415062119839,Farmacias Benavides,673.00,,https://www.benavides.com.mx/azulfidina-500-mg-sulfasalazina-60-tabletas,2026-09-30,,agente sesión 14
+7501070903053,Farmacias YZA,330.50,,https://www.yza.mx/x/MXYZ_7501070903053.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501070903053,Farmacias Benavides,371.00,,https://www.benavides.com.mx/libertrim-pediatrico-06-g-trimebutina-30-ml-solucion,2026-09-30,,agente sesión 14
+7501287621504,Chedraui,661.00,,https://www.chedraui.com.mx/tabletas-aldactone-a-25mg-caja-con-30-tabletas-3022630/p,2026-09-30,(API ean 750128762150),agente sesión 14
+7501287621504,Farmacias Benavides,713.00,,https://www.benavides.com.mx/aldactone-a-25-mg-espironolactona-30-tabletas,2026-09-30,,agente sesión 14
+7501287621504,Farmacias YZA,719.50,,https://www.yza.mx/x/MXYZ_7501287621504.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+75076856,Farmacias Benavides,85.00,123.00,https://www.benavides.com.mx/rexona-men-clinical-sport-strength-antitranspirante-en-barra-58-g,2026-09-30,Descuento aplicado,agente sesión 14
+75076856,Chedraui,122.00,,https://www.chedraui.com.mx/desodorante-en-crema-rexona-men-clinical-sport-strength-58g-3796174/p,2026-09-30,Coincidencia por nombre y 58 g (ean 20000075076850),agente sesión 14
+7501019040887,Chedraui,63.00,,https://www.chedraui.com.mx/protectores-saba-diarios-delicate-largos-50-piezas-3675199/p,2026-09-30,Existencia 99999 (posible precio provisional) (API ean 750101904088),agente sesión 14
+7501019040887,Farmacias YZA,70.50,,https://www.yza.mx/x/MXYZ_7501019040887.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501019040887,Farmacias Benavides,75.00,,https://www.benavides.com.mx/saba-diarios-largo-50-ud,2026-09-30,,agente sesión 14
+7501070615529,Farmacias Benavides,1447.00,,https://www.benavides.com.mx/daflon-450-mg-diosmina50-mg-hesperidina-60-tabletas,2026-09-30,,agente sesión 14
+7501054504535,Farmacias YZA,147.50,,https://www.yza.mx/x/MXYZ_7501054504535.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501054504535,Farmacias Benavides,153.00,,https://www.benavides.com.mx/nivea-crema-corporal-milk-nutritiva-48h-piel-extra-seca-400-ml,2026-09-30,,agente sesión 14
+070942507240,Chedraui,70.00,,https://www.chedraui.com.mx/cera-para-braquets-gum-5-barras-de-cera-3020684/p,2026-09-30,"EAN de Chedraui 10070942507247 (mismo producto, 5 barras)",agente sesión 14
+070942507240,Farmacias Benavides,76.00,,https://www.benavides.com.mx/gum-cera-de-ortodoncia-vitamina-e-amp-aloe-vera-sabor-menta-1-ud,2026-09-30,,agente sesión 14
+070942507240,Farmacias del Ahorro,77.00,,https://www.fahorro.com/cera-para-ortodoncia-con-menta.html,2026-09-30,,agente sesión 14
+3664798073256,Chedraui,157.00,,https://www.chedraui.com.mx/null-3920477/p,2026-09-30,EAN truncado 366479807325; existencia 10,agente sesión 14
+3664798073256,Farmacias del Ahorro,159.00,,https://www.fahorro.com/histiacil-gr3-20-g-18-tabs-limon.html,2026-09-30,,agente sesión 14
+3664798073256,Farmacias YZA,169.00,,https://www.yza.mx/x/MXYZ_3664798073256.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+3664798073256,Farmacias Benavides,175.00,,https://www.benavides.com.mx/histiacil-gr3-20-mg-ambroxol-sabor-limon-18-pastillas,2026-09-30,,agente sesión 14
+7506306257603,Farmacias del Ahorro,94.00,,https://www.fahorro.com/rexona-talco-para-pies-efficient-antibacterial-200.html,2026-09-30,,agente sesión 14
+7502235760115,Chedraui,588.00,,https://www.chedraui.com.mx/suplemento-alimenticio-bellafem-plenitud-60-tabletas-3480411/p,2026-09-30,,agente sesión 14
+7502235760115,Farmacias del Ahorro,618.00,,https://www.fahorro.com/bellafem-plenitud-suplemento-alimenticio-60-tabletas.html,2026-09-30,,agente sesión 14
+7502235760115,Farmacias Benavides,662.00,,https://www.benavides.com.mx/bellafem-plenitud-suplemento-alimenticio-60-tabletas,2026-09-30,,agente sesión 14
+7502235760115,Farmacias YZA,668.00,,https://www.yza.mx/x/MXYZ_7502235760115.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501070900441,Chedraui,336.00,,https://www.chedraui.com.mx/jarabe-fluxedan-frasco-con-225ml-3030593/p,2026-09-30,EAN truncado 750107090044; existencia 10,agente sesión 14
+7501070900441,Farmacias YZA,375.50,,https://www.yza.mx/x/MXYZ_7501070900441.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501070900441,Farmacias del Ahorro,383.00,,https://www.fahorro.com/fluxedan-6-mg-12-mg-jarabe-225-ml.html,2026-09-30,,agente sesión 14
+7501070900441,Farmacias Benavides,439.00,,https://www.benavides.com.mx/fluxedan-bromhexina-oxeladina-225-ml-jarabe,2026-09-30,,agente sesión 14
+7501065064165,Farmacias Benavides,240.00,,https://www.benavides.com.mx/corega-ultra-crema-adhesiva-para-protesis-dentales-sin-sabor-70-g,2026-09-30,,agente sesión 14
+7501065064165,Farmacias del Ahorro,241.00,,https://www.fahorro.com/ultra-corega-sin-sabor-crema-adhesiva-para-protesis-dentales-70-g.html,2026-09-30,,agente sesión 14
+7501065064165,Farmacias YZA,248.00,,https://www.yza.mx/x/MXYZ_7501065064165.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501065064165,Chedraui,300.00,,https://www.chedraui.com.mx/ultra-corega-sin-sabor-crema-adhesiva-para-protesis-dentales-70g-3517285/p,2026-09-30,,agente sesión 14
+6939663900072,Farmacias del Ahorro,60.00,,https://www.fahorro.com/neutek-termometro-digital-contra-agua-modelo-mt-201c.html,2026-09-30,,agente sesión 14
+6939663900072,Farmacias YZA,61.50,,https://www.yza.mx/x/MXYZ_6939663900072.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7509546074504,Chedraui,42.00,70.00,https://www.chedraui.com.mx/shampoo-mennen-zero-cabello-saludable-400ml-3587318/p,2026-09-30,"EAN 17509546074501; precio bajo frente a su lista, existencia 100; sin otra tienda para contrastar",agente sesión 14
+7501072300133,Farmacias YZA,95.00,,https://www.yza.mx/x/MXYZ_7501072300133.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501072300133,Farmacias del Ahorro,103.00,,https://www.fahorro.com/ting-crema-28-g.html,2026-09-30,,agente sesión 14
+7501072300133,Chedraui,105.00,,https://www.chedraui.com.mx/crema-ting-antimicotico-para-pie-de-atleta-tubo-con-28g-3039834/p,2026-09-30,,agente sesión 14
+7501072300133,Farmacias Benavides,109.00,,https://www.benavides.com.mx/ting-acido-undecilenico-undecilinato-de-zinc-triclosan-crema-28-g-tubo,2026-09-30,,agente sesión 14
+7501299301999,Chedraui,304.00,,https://www.chedraui.com.mx/solucion-mucoflux-frasco-con-120ml-3035143/p,2026-09-30,EAN truncado 750129930199; existencia 10,agente sesión 14
+7501299301999,Farmacias YZA,336.50,,https://www.yza.mx/x/MXYZ_7501299301999.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501299301999,Farmacias Benavides,375.00,,https://www.benavides.com.mx/mucoflux-004-g-05-g-ambroxol-salbutamol-120-ml-solucion,2026-09-30,La ficha muestra además un precio especial de 310 sin condiciones claras; se anota el normal,agente sesión 14
+7501385494475,Farmacias YZA,472.00,,https://www.yza.mx/x/MXYZ_7501385494475.html,2026-09-30,Precio de ficha; figura agotado por no haber sucursal elegida.,agente sesión 14
+7501385494475,Farmacias del Ahorro,483.00,,https://www.fahorro.com/hi-dex-100-mg-3x1-ml-ampolleta.html,2026-09-30,,agente sesión 14
+7501385494475,Farmacias Benavides,539.00,,https://www.benavides.com.mx/hidex-complejo-hierro-dextran-3-ud-ampolletas,2026-09-30,,agente sesión 14
+7509546063515,Farmacias YZA,65.00,,https://www.yza.mx/x/MXYZ_7509546063515.html,2026-09-30,"Precio de ficha, muy inferior al resto; verificar. Figura agotado por no haber sucursal elegida.",agente sesión 14
+7509546063515,Farmacias del Ahorro,105.00,,https://www.fahorro.com/desodorante-lady-speed-stick-pro-5-en-1-91-g-aerosol.html,2026-09-30,,agente sesión 14
+7509546063515,Farmacias Benavides,112.00,,https://www.benavides.com.mx/lady-speed-stick-pro-5-en-1-antitranspirante-aerosol-91-g,2026-09-30,,agente sesión 14
+7509546065465,Farmacias del Ahorro,101.00,,https://www.fahorro.com/cepillo-dental-colgate-360-black-suve-2x1.html,2026-09-30,,agente sesión 14
+7501303451559,Farmacias Benavides,1200.00,,https://www.benavides.com.mx/anageliq-1-mg-estradiol2-mg-drospirenona-28-comprimidos,2026-09-30,,agente sesión 14
+7501303451559,Chedraui,1218.00,,https://www.chedraui.com.mx/comprimidos-angeliq-1mg2mg-caja-con-28-comprimidos-3023436/p,2026-09-30,,agente sesión 14
+7501303451559,Farmacias del Ahorro,1227.00,,https://www.fahorro.com/angeliq-1-mg-2-mg-28-tabs.html,2026-09-30,,agente sesión 14
+7501303451559,Farmacias YZA,1272.00,,https://www.yza.mx/x/MXYZ_7501303451559.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501318658189,Farmacias Benavides,151.70,168.00,https://www.benavides.com.mx/actron-400-mg-100-mg-cafeina-ibuprofeno-10-ud-capsulas,2026-09-30,Descuento aplicado en la ficha,agente sesión 14
+7501318658189,Chedraui,173.00,,https://www.chedraui.com.mx/capsulas-actron-plus-400mg--100mg-caja-con-10-capsulas-3022080/p,2026-09-30,"EAN distinto (7501318634732), misma presentación 400/100 mg 10 cápsulas",agente sesión 14
+7501318658189,Farmacias YZA,176.00,,https://www.yza.mx/x/MXYZ_7501318658189.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501258215954,Farmacias YZA,189.00,,https://www.yza.mx/murreolak-600mg-20-tabs/MXYZ_7501258215954.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501871720767,Chedraui,286.00,,https://www.chedraui.com.mx/polvo-contumax-255g-frasco-de-polietileno-con-255g-de-polvo-para-reconstitucion-oral-3027270/p,2026-09-30,,agente sesión 14
+7501871720767,Farmacias YZA,291.50,,https://www.yza.mx/contumax-polvo-255g/MXYZ_7501871720767.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501871720767,Farmacias Benavides,299.00,,https://www.benavides.com.mx/contumax-macrogol-3350-255-g,2026-09-30,Ficha de 255 g,agente sesión 14
+5391189310673,Farmacias Benavides,1036.00,,https://www.benavides.com.mx/triplixam-5-mg-perindopril-arginina125-mg-indapamida5-mg-amlodipino-30-comprimidos,2026-09-30,,agente sesión 14
+5391189310673,Chedraui,1047.00,,https://www.chedraui.com.mx/comprimidos-triplixam-5mg125mg5mg-caja-con-30-comprimidos-3611766/p,2026-09-30,,agente sesión 14
+5391189310673,Farmacias YZA,1216.50,,https://www.yza.mx/x/MXYZ_5391189310673.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501027800053,Chedraui,1037.00,,https://www.chedraui.com.mx/polvo-para-inhalacion-seretide-diskus-50mcg250mcg-dispositivo-inhalador-con-60-dosis-3038702/p,2026-09-30,,agente sesión 14
+7501027800053,Farmacias Benavides,1177.00,1383.00,https://www.benavides.com.mx/seretide-diskus-50-mcg-salmeterol250-mcg-fluticasona-polvo-para-inhalacion-60-dosis,2026-09-30,Descuento aplicado en la ficha,agente sesión 14
+7501027800053,Farmacias YZA,1293.00,,https://www.yza.mx/x/MXYZ_7501027800053.html,2026-09-30,"Precio de ficha, sin sucursal elegida; la ficha nombra 50/100 mcg pero el GTIN corresponde a 50/250; precio coherente con 50/250",agente sesión 14
+7501037907117,Chedraui,184.00,,https://www.chedraui.com.mx/solucion-bisolvon-adulto-expectorante-caja-con-frasco-120ml-y-vaso-dosificador-3152518/p,2026-09-30,,agente sesión 14
+7501037907117,Farmacias YZA,193.00,,https://www.yza.mx/bisolvon-solucion-adulto-120ml/MXYZ_7501037907117.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501037907117,Farmacias Benavides,195.00,,https://www.benavides.com.mx/bisolvon-160-mg-bromhexina-adulto-120-ml-frasco,2026-09-30,,agente sesión 14
+7509546052885,Farmacias YZA,131.00,,https://www.yza.mx/colgate-kit-portatil-cepillopastaest/MXYZ_7509546052885.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7509546052885,Farmacias Benavides,143.00,,https://www.benavides.com.mx/colgate-kit-portatil-cepillo-dental-crema-dental-estuche-3-ud-kit,2026-09-30,,agente sesión 14
+7501033955969,Farmacias YZA,1989.00,,https://www.yza.mx/x/MXYZ_7501033955969.html,2026-09-30,"Precio de ficha, sin sucursal elegida",agente sesión 14
+7501033955969,Farmacias Benavides,1999.00,2288.00,https://www.benavides.com.mx/samyr-500-mg-ademetionina-40-tabletas,2026-09-30,Descuento aplicado en la ficha,agente sesión 14
+7501033955969,Chedraui,2162.00,,https://www.chedraui.com.mx/tabletas-samyr-500mg-caja-con-40-tabletas-3266251/p,2026-09-30,,agente sesión 14
+7501035909007,Chedraui,53.99,,https://www.chedraui.com.mx/desodorante-en-barra-stefano-black-60g-3086655/p,2026-09-30,"Existencia 99999 sin segundo precio para contrastar; posible precio provisional, usar con cautela",agente sesión 14
+7501100089016,Farmacias Benavides,332.22,334.00,https://www.benavides.com.mx/tylex-750-mg-paracetamol-20-tabletas,2026-09-30,,agente sesión 14
+7501100089016,Farmacias YZA,343.00,,https://www.yza.mx/tylex-750mg-20-tabs-/MXYZ_7501100089016.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7501027514103,Farmacias YZA,61.00,,https://www.yza.mx/evenflo-biberon-acuario-8oz/MXYZ_7501027514103.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7501088505720,Farmacias YZA,288.00,,https://www.yza.mx/gelan-plus-gel-antiacido-250ml/MXYZ_7501088505720.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7501088505720,Farmacias Benavides,299.00,,https://www.benavides.com.mx/gelan-plus-80-g10-g-magaldrato-simeticona-250-ml-frasco,2026-09-30,,agente sesión 14
+7509546063843,Farmacias YZA,65.00,,https://www.yza.mx/lady-speed-stic-aerosol-fem-po-91g-1-pza/MXYZ_7509546063843.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7509546063843,Farmacias Benavides,112.00,,https://www.benavides.com.mx/lady-speed-stick-powder-fresh-antitranspirante-aerosol-91-g,2026-09-30,,agente sesión 14
+7500435251099,Farmacias YZA,227.50,,https://www.yza.mx/dolo-neurobion-joints-10-tabs/MXYZ_7500435251099.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7500435251099,Farmacias Benavides,235.00,,https://www.benavides.com.mx/dolo-neurobion-joints-50-mg-diclofenaco-10-tabletas,2026-09-30,Se vende como Dolo-Neurobion Joints 10 tabletas (mismo GTIN).,agente sesión 14
+7501101624636,Chedraui,418.00,,https://www.chedraui.com.mx/solucion-inyectable-tiaminal-b12-trivalente-ap-3-ampolletas-de-2ml-y-3-jeringas-3039796/p,2026-09-30,Mismo GTIN; la ficha dice 3 ampolletas de 2 ml y 3 jeringas (igual que el catalogo de Mercado Libre). Existencia 10.,agente sesión 14
+7501101624636,Farmacias Benavides,515.00,,https://www.benavides.com.mx/tiaminal-complejo-vitamina-b-3-ud-ampolletas,2026-09-30,Nombre en tienda: Tiaminal Complejo Vitamina B 3 ampolletas; hallado por busqueda de GTIN.,agente sesión 14
+7501058715517,Farmacias YZA,169.00,,https://www.yza.mx/pastillas-menta-eucalipto-10mg-/MXYZ_7501058715517.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7501058715517,Farmacias Benavides,195.00,,https://www.benavides.com.mx/graneodin-b-10-mg-benzocaina-sabor-menta-eucalipto-24-ud-pastilla,2026-09-30,,agente sesión 14
+7501027567062,Farmacias YZA,76.50,,https://www.yza.mx/evenflo-pads-30-pzas/MXYZ_7501027567062.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7501123002085,Farmacias Benavides,544.00,,https://www.benavides.com.mx/nocolodi-160-mg-fenofibrato-30-ud-capsulas,2026-09-30,,agente sesión 14
+7501123002085,Farmacias YZA,655.50,,https://www.yza.mx/nocolodi-160mg-30-tabs/MXYZ_7501123002085.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7502214982477,Farmacias YZA,59.00,,https://www.yza.mx/prudence-aroma-fresa-3-pzas/MXYZ_7502214982477.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7502214982477,Farmacias Benavides,69.00,,https://www.benavides.com.mx/prudence-condones-lubricados-de-latex-natural-sabor-y-aroma-fresa-3-uds,2026-09-30,,agente sesión 14
+7891317048808,Farmacias Benavides,167.20,209.00,https://www.benavides.com.mx/melox-noche-gastritis-reflujo-doble-accion-180-ml-frasco,2026-09-30,Precio especial de la ficha; regular $209.,agente sesión 14
+7891317048808,Farmacias YZA,218.50,,https://www.yza.mx/melox-noche-suspension-180-ml/MXYZ_7891317048808.html,2026-09-30,Precio de ficha; sin sucursal elegida figura agotado.,agente sesión 14
+7500435162241,Farmacias Benavides,192.00,,https://www.benavides.com.mx/head-amp-shoulders-control-caspa-2-en-1-suave-y-manejable-shampoo-650-ml,2026-09-30,,agente sesión 14
+7501299306840,Farmacias del Ahorro,284.08,424.00,"https://www.fahorro.com/graphql (products(search: ""7501299306840""))",2026-09-30,,agente sesión 14
+7501299306840,Farmacias Benavides,350.00,,https://www.benavides.com.mx/macrozit-600-mg-azitromicina-15-ml-suspension,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7501299306840,Farmacias YZA,353.00,,https://www.yza.mx/x/MXYZ_7501299306840.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha,agente sesión 14
+7501390913374,Farmacias del Ahorro,460.00,,"https://www.fahorro.com/graphql (products(search: ""7501390913374""))",2026-09-30,,agente sesión 14
+7501390913374,Farmacias Benavides,526.00,,https://www.benavides.com.mx/italdermol-g-gentamicina-triticum-vulgare-10-g-crema,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7501035911024,Chedraui,37.50,58.00,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=colgate%20maxima%20proteccion%20anticaries%20125,2026-09-30,EAN 17501035911021 (caja/pieza 125 ml); existencia 99999 con precio de lista 58,agente sesión 14
+650240011153,Farmacias YZA,134.72,,https://www.yza.mx/x/MXYZ_650240011153.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha,agente sesión 14
+650240011153,Chedraui,148.00,,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=lomecan,2026-09-30,EAN 0650240011153,agente sesión 14
+650240011153,Farmacias del Ahorro,160.00,,"https://www.fahorro.com/graphql (products(search: ""650240011153""))",2026-09-30,,agente sesión 14
+650240011153,Farmacias Benavides,165.00,,https://www.benavides.com.mx/lomecan-2-clotrimazol-crema-20-g-tubo,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7509546063706,Chedraui,52.00,71.00,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=speed%20stick%20xtreme%20ultra%2091,2026-09-30,"EAN 17509546063703, aerosol 91 g; existencia 99999, lista 71",agente sesión 14
+7509546063706,Farmacias YZA,65.00,,https://www.yza.mx/x/MXYZ_7509546063706.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha; ficha 91 g,agente sesión 14
+7501072340092,Farmacias YZA,269.00,,https://www.yza.mx/x/MXYZ_7501072340092.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha,agente sesión 14
+7501072340092,Farmacias del Ahorro,285.60,420.00,"https://www.fahorro.com/graphql (products(search: ""7501072340092""))",2026-09-30,,agente sesión 14
+7501072340092,Farmacias Benavides,361.00,,https://www.benavides.com.mx/flagyl-500-mg-metronidazol-30-ud-comprimidos,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+037836012341,Chedraui,143.20,179.00,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=capent%20pomada,2026-09-30,EAN 3783601234 Pomada Capent 110 g,agente sesión 14
+037836012341,Farmacias Benavides,214.00,,https://www.benavides.com.mx/capent-pomada-hipoalergenica-110-g,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7509546072050,Farmacias YZA,40.87,,https://www.yza.mx/x/MXYZ_7509546072050.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha; ficha «Mennen Shampoo Clásico 200 ml»,agente sesión 14
+75076337,Farmacias Benavides,90.00,,https://www.benavides.com.mx/rexona-men-v8-antitranspirante-barra-50-g,2026-09-30,"GTIN coincide; la ficha nombra 50 g. Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7803510000590,Farmacias Benavides,149.00,,https://www.benavides.com.mx/ciruelax-15-mg-cassia-angustifolia-laxante-20-ud-comprimidos,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7803510000590,Farmacias del Ahorro,149.00,,"https://www.fahorro.com/graphql (products(search: ""7803510000590""))",2026-09-30,,agente sesión 14
+7791293028781,Farmacias YZA,79.50,,https://www.yza.mx/x/MXYZ_7791293028781.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha; ficha «Axe Black aerosol 96 g»,agente sesión 14
+7791293028781,Chedraui,84.00,85.00,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=axe%20black%20150,2026-09-30,EAN 27791293028785 Axe Black 150 ml,agente sesión 14
+7791293028781,Farmacias Benavides,102.00,,https://www.benavides.com.mx/axe-black-pera-frozen-amp-cedro-desodorante-bodyspray-48h-150-ml,2026-09-30,"Ficha «Pera Frozen & Cedro 150 ml», mismo GTIN. Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7501088559211,Chedraui,184.00,,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=scabisan,2026-09-30,EAN 750108855921 crema 60 g,agente sesión 14
+7501088559211,Farmacias YZA,198.00,,https://www.yza.mx/x/MXYZ_7501088559211.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha,agente sesión 14
+7501088559211,Farmacias del Ahorro,214.00,,"https://www.fahorro.com/graphql (products(search: ""7501088559211""))",2026-09-30,,agente sesión 14
+7501088559211,Farmacias Benavides,232.00,,https://www.benavides.com.mx/scabisan-crema-5-permetrina-tratamiento-de-la-escabiasis-60-g,2026-09-30,"Precio de ficha (JSON-LD); la ficha muestra además un precio con descuento condicionado, no anotado",agente sesión 14
+7502214982491,Chedraui,28.00,,https://www.chedraui.com.mx/api/catalog_system/pub/products/search?ft=prudence%20uva,2026-09-30,EAN 750221498249 Prudence Uva 3 condones; muy por debajo de YZA pero existencia 100,agente sesión 14
+7502214982491,Farmacias YZA,53.00,,https://www.yza.mx/x/MXYZ_7502214982491.html,2026-09-30,Ficha YZA marcada agotado (sin sucursal elegida); precio de ficha,agente sesión 14
+7500435155854,Chedraui,155.00,,https://www.chedraui.com.mx/shampoo-pantene-pro-v-bambu-nutre--crece-750ml-3678955/p,2026-09-30,Existencia 99999 pero precio cercano al de Benavides; EAN en la tienda 17500435155851,agente sesión 14
+7500435155854,Farmacias Benavides,181.00,,https://www.benavides.com.mx/pantene-pro-v-bambu-nutre-amp-crece-shampoo-750-ml,2026-09-30,,agente sesión 14
+7501007535852,Chedraui,754.00,,https://www.chedraui.com.mx/tabletas-motilium-10mg-caja-con-30-tabletas-3035109/p,2026-09-30,,agente sesión 14
+7501007535852,Farmacias Benavides,823.00,,https://www.benavides.com.mx/motilium-10-ml-domperidona-30-tabletas,2026-09-30,,agente sesión 14
+7501007535876,Farmacias Benavides,565.00,,https://www.benavides.com.mx/tylex-750-mg-paracetamol-40-tabletas,2026-09-30,,agente sesión 14
+7501007535876,Chedraui,582.00,,https://www.chedraui.com.mx/tabletas-tylex-750mg-caja-con-40-tabletas-3226409/p,2026-09-30,,agente sesión 14
+7506306252875,Chedraui,145.00,,https://www.chedraui.com.mx/serum-corporal-dove-niacinamida--tono-uniforme-400ml-3819662/p,2026-09-30,"Existencia 99999; todos los sérums de 400 ml de la marca están en 145, no parece provisional",agente sesión 14
+7506306202832,Chedraui,82.00,,https://www.chedraui.com.mx/desodorante-en-aerosol-axe-collision-150ml-3478544/p,2026-09-30,,agente sesión 14
+7506306202832,Farmacias Benavides,102.00,,https://www.benavides.com.mx/axe-colision-cuero-amp-cookies-desodorante-bodyspray-48h-150-ml,2026-09-30,,agente sesión 14
+7501125114717,Farmacias del Ahorro,223.00,,https://www.fahorro.com/ficonax-850-mg-oral-30-tabletas.html,2026-09-30,,agente sesión 14
+7501125114717,Farmacias Benavides,254.00,,https://www.benavides.com.mx/ficonax-850-mg-metformina-30-ud-tabletas,2026-09-30,,agente sesión 14
+650240053634,HEB,103.00,,https://www.heb.com.mx/alli-triple-analgesico-con-6-pz-807732/p,2026-09-30,,agente sesión 14
+650240053634,Chedraui,103.50,119.00,https://www.chedraui.com.mx/tabletas-allitriple-caja-con-6-tabletas-3682223/p,2026-09-30,,agente sesión 14
+7501089803177,Farmacias YZA,355.50,,https://www.yza.mx/x/MXYZ_7501089803177.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501089803177,Farmacias Benavides,383.00,,https://www.benavides.com.mx/karet-100-mcg-levotiroxina-sodica-50-comprimidos,2026-09-30,,agente sesión 14
+7501089803177,Farmacias del Ahorro,390.00,,https://www.fahorro.com/karet-100-mg-oral.html,2026-09-30,,agente sesión 14
+7501201490797,Farmacias del Ahorro,761.11,917.00,https://www.fahorro.com/refresh-tears-lubricante-oftalmico-gotas-15-ml.html,2026-09-30,,agente sesión 14
+7501201490797,Farmacias YZA,782.42,,https://www.yza.mx/x/MXYZ_7501201490797.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501201490797,Farmacias Benavides,987.00,,https://www.benavides.com.mx/refresh-tears-05-carboximetilcelulosa-sodica-solucion-oftalmica-15-ml-gotas,2026-09-30,,agente sesión 14
+7501300408976,HEB,639.00,,https://www.heb.com.mx/siegfried-dimefor-850-mg-tab-60-metformina-60-pz-28655/p,2026-09-30,,agente sesión 14
+7501300408976,Farmacias YZA,681.00,,https://www.yza.mx/x/MXYZ_7501300408976.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501300408976,Farmacias Benavides,710.00,,https://www.benavides.com.mx/dimefor-850-mg-metformina-60-ud-tabletas,2026-09-30,,agente sesión 14
+7501201400680,Farmacias YZA,582.50,,https://www.yza.mx/x/MXYZ_7501201400680.html,2026-09-30,Precio de ficha; aparece agotado por no haber sucursal elegida,agente sesión 14
+7501201400680,Farmacias del Ahorro,601.00,,https://www.fahorro.com/prednefrin-liquifilm-0-01-oftalmico-5-ml-solucion.html,2026-09-30,Ficha titulada Prednefrin Liquifilm; SKU igual al GTIN,agente sesión 14
+7501201400680,Farmacias Benavides,667.00,,https://www.benavides.com.mx/prednefrin-sf-1-prednisolona-suspension-5-ml-gotas,2026-09-30,,agente sesión 14
+7501314704873,Farmacias del Ahorro,306.00,,https://www.fahorro.com/ulsen-20-mg-oral-7-caps.html,2026-09-30,Ficha dice 7 caps con SKU igual al GTIN del paquete 1+1; verificar presentación,agente sesión 14
+7501314704873,Farmacias Benavides,364.00,,https://www.benavides.com.mx/ulsen-20-mg-omeprazol-7-ud-capsulas,2026-09-30,Ficha dice 7 cápsulas con el mismo GTIN del paquete 1+1; verificar presentación,agente sesión 14
+7501124103217,Farmacias del Ahorro,364.00,,https://www.fahorro.com/carnotprim-100-mg-solucion-100-ml.html,2026-09-30,,agente sesión 14
+7501124103217,Farmacias YZA,369.50,,https://www.yza.mx/x/MXYZ_7501124103217.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+7501124103217,Farmacias Benavides,418.00,,https://www.benavides.com.mx/carnotprim-100-mg-ml-metoclopramida-100-ml-solucion,2026-09-30,,agente sesión 14
+7501314701414,Farmacias YZA,365.00,,https://www.yza.mx/x/MXYZ_7501314701414.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+7501314701414,Farmacias del Ahorro,394.00,,https://www.fahorro.com/aceler-0-02-cutaneo-15-g-crema.html,2026-09-30,,agente sesión 14
+7501314701414,Farmacias Benavides,451.00,,https://www.benavides.com.mx/aceler-acido-fusidico-2-15-g-crema,2026-09-30,,agente sesión 14
+7501314701360,Farmacias YZA,1020.50,,https://www.yza.mx/x/MXYZ_7501314701360.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+7501314701360,Farmacias Benavides,1304.00,,https://www.benavides.com.mx/biomics-100-mg-5-ml-cefixima-100-ml-suspension,2026-09-30,,agente sesión 14
+7501314701360,Farmacias del Ahorro,1309.00,,https://www.fahorro.com/biomics-100-mg-suspension-oral-100-ml.html,2026-09-30,,agente sesión 14
+7501298214429,Farmacias del Ahorro,837.00,,https://www.fahorro.com/eutirox-112-mcg-oral-50-tabletas.html,2026-09-30,,agente sesión 14
+7501298214429,Farmacias YZA,840.00,,https://www.yza.mx/x/MXYZ_7501298214429.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+7501298214429,Farmacias Benavides,918.00,,https://www.benavides.com.mx/eutirox-112-mcg-levotiroxina-sodica-50-tabletas,2026-09-30,,agente sesión 14
+7509546694702,Chedraui,52.00,71.00,https://www.chedraui.com.mx/desodorante-en-spray-stefano-next-level-150ml-3838374/p,2026-09-30,EAN de la ficha 17509546694709 (caja del mismo producto),agente sesión 14
+7509546694702,HEB,55.00,,https://www.heb.com.mx/stefano-desodorante-next-level-en-aerosol-para-caballero-150-ml-998704/p,2026-09-30,,agente sesión 14
+7501006711387,Chedraui,39.00,43.00,https://www.chedraui.com.mx/cepillo-de-dientes-pro-doble-accion-mayor-alcance-2-unidades-3021548/p,2026-09-30,Paquete de 2 unidades; EAN coincide,agente sesión 14
+650240010712,Farmacias del Ahorro,152.00,,https://www.fahorro.com/tukol-d-jarabe-para-tos-adulto-125-ml.html,2026-09-30,,agente sesión 14
+650240010712,Farmacias YZA,157.50,,https://www.yza.mx/x/MXYZ_650240010712.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+650240010712,Farmacias Benavides,159.00,,https://www.benavides.com.mx/tukol-d-20-g02-g-guaifenesina-dextrometorfano-125-ml-frasco,2026-09-30,,agente sesión 14
+7501086472048,Farmacias del Ahorro,20.00,,https://www.fahorro.com/cepillo-dent-pro-d-duty-enc-pz-2.html,2026-09-30,,agente sesión 14
+7501086472048,Farmacias Benavides,28.00,,https://www.benavides.com.mx/pro-cepillo-doble-accion-1un,2026-09-30,,agente sesión 14
+7501300408099,Farmacias YZA,426.00,,https://www.yza.mx/x/MXYZ_7501300408099.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
+7501300408099,Farmacias del Ahorro,498.00,,https://www.fahorro.com/dimefort-tabletas500-mg-con-6.html,2026-09-30,,agente sesión 14
+7501300408099,Farmacias Benavides,525.00,,https://www.benavides.com.mx/dimefor-500-mg-metformina-60-ud-tabletas,2026-09-30,,agente sesión 14
+7502211783787,Farmacias YZA,280.00,,https://www.yza.mx/x/MXYZ_7502211783787.html,2026-09-30,Precio de ficha (JSON-LD); aparece agotado por no haber sucursal elegida,agente sesión 14
