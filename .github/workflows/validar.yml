@@ -13,3 +13,7 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: python scripts/validar.py
+      - name: Revisar el visor
+        run: |
+          node --check visor/app.js
+          node -e "global.window={};require('./visor/data/productos.js');const c=window.CATALOGO;if(!c||c.productos.length!==c.total){console.error('visor/data/productos.js inválido');process.exit(1)}console.log('visor:',c.total,'productos')"

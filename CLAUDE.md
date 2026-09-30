@@ -6,3 +6,4 @@ Lee y sigue `AGENTS.md`; es la guía común para Claude y Codex. Lo de abajo sol
 - El presupuesto de búsquedas web (200 por sesión) es compartido por todos los subagentes: no hagas búsquedas de prueba antes de lanzarlos.
 - Revisa las hojas de contacto de fotos con la herramienta Read.
 - La conversación original se llevó en claude.ai; el resumen de decisiones está en `docs/CONTEXTO.md`.
+- Para probar el visor (`visor/index.html`) usa Playwright con el Chromium preinstalado sobre `file://`, captura cuadrícula, lista, detalle, móvil y tema oscuro, y revisa las capturas con Read.

@@ -55,9 +55,9 @@ Salida de `scripts/revisar_fotos.py`: `gtin, archivo, lado_util, motivo` con mot
 
 `orden,gtin,linea,nombre_sistema,nota_cruce`. `orden` 1 = producto con más venta en pesos. Sin montos ni precios.
 
-## 6. Layout de Mercado Libre (salida de `scripts/build_mercadolibre.py`)
+## 6. Layout de Mercado Libre (`layouts/mercadolibre/layout_mercadolibre.xlsx`, versionado)
 
-Libro .xlsx con fórmulas (recalcular con LibreOffice o abrir en Excel/Sheets):
+Salida de `scripts/build_mercadolibre.py`. Libro .xlsx con fórmulas; la copia versionada se guarda recalculada (con valores) para que se lea sin abrir Excel. Por decisión del dueño se versiona completo, con precios y existencias. Hojas:
 
 - **Avance**: conteos (productos, verificados, con fotos, completos, pendientes), sesiones realizadas y faltantes, historial.
 - **Layout Mercado Libre**: SKU; Código universal de producto; Título; Categoría (ID); Categoría (ruta); Precio [$] (= Precio Meli Final); Cantidad; Condición; Tipo de publicación; Descripción; Forma de envío; Costo de envío; Retiro en persona; Tipo de garantía; ID de catálogo ML; Marca; Fabricante / Laboratorio; Línea; Variante / Modelo; Presentación; Contenido neto; Unidad de contenido; Unidades por envase; Principio activo; Concentración; Vía de administración; Edad / Etapa; Talla; Sabor / Aroma; Género; Tipo de piel / cabello; Registro sanitario; Otros atributos; Imagen 1 a 6 (URLs); y columnas de control: Línea de origen, Nombre en sistema, Estado de investigación.
@@ -68,4 +68,13 @@ Libro .xlsx con fórmulas (recalcular con LibreOffice o abrir en Excel/Sheets):
 
 ## 7. Futuros layouts (Odoo, Shopify, Amazon)
 
-Deben leerse de `product.json` y de `insumos/precios_existencias.csv`, sin copiar contenido a otro lado. Los datos propios de cada canal (categoría, tipo de producto, etc.) se guardan en `marketplaces.<canal>` del `product.json`, y sus reglas en `config/<canal>.json`.
+Deben leerse de `product.json` y de `insumos/precios_existencias.csv` (o, si no está, de las hojas Precios y Layout del layout versionado), sin copiar contenido a otro lado. Para precios de Mercado Libre usa `scripts/precios.py`, que replica las fórmulas de la hoja Precios. Cada layout se versiona en `layouts/<canal>/`. Los datos propios de cada canal (categoría, tipo de producto, etc.) se guardan en `marketplaces.<canal>` del `product.json`, y sus reglas en `config/<canal>.json`.
+
+## 8. Datos del visor (`visor/data/productos.js`, versionado)
+
+Salida de `scripts/build_visor.py` (ver `docs/VISOR.md`). Es JavaScript para abrir el visor sin servidor: `window.CATALOGO = {generado, total, reglas, productos: [...]}`.
+
+- `reglas`: copia de `config/indicadores.json`.
+- Cada producto: `orden` (prioridad por ventas), `gtin`, `titulo`, `nombre_sistema`, `linea`, `categoria_id`, `categoria_ruta`, `categoria` (hoja), `catalogo_id`, `categoria_rx_sugerida`, `stock`, `precios` (salida de `scripts/precios.py`: `precio_venta`, `precio_marketplaces`, `comision`, `precio_meli_calculado`, `precio_promedio_otros`, `precio_mejor_vendedor`, `precio_meli_final`, `diferencia_mejor_vendedor`, `costo_fijo`, `envio_vendedor`, `ingreso_neto`, `margen`; `null` = sin dato), `metodo_mejor_vendedor`, `imagenes` (`src` relativo a `visor/`, `u` = lado útil en px, `o` = origen, `gris` = posible fondo gris, `fuente`), `descripcion`, `ficha`, `receta_mx`, `url_oficial`, `fuentes`, `investigacion` (`estado`, `confianza`, `encontrado_por`, `notas`, `notas_imagenes`, `fecha`, `sesion`) e `ind` (`descripcion`, `fotos`, `precios` y su `*_motivo`).
+
+No se edita a mano: se regenera después de cada cambio en `product.json`, fotos, precios o reglas.

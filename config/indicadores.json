@@ -1,0 +1,21 @@
+{
+  "descripcion": {
+    "secciones_reconocidas": ["Descripción", "Beneficios", "Características", "Ingredientes", "Composición", "Fórmula", "Modo de uso", "Presentación", "Advertencias"],
+    "buena": {"estado": "verificado", "confianza": ["alta"], "min_caracteres": 800, "min_secciones": 3},
+    "regular": {"estado": "verificado", "min_caracteres": 500},
+    "nota": "mala = sin verificar, vacía o con menos de regular.min_caracteres; buena = cumple todo lo de buena; regular = el resto"
+  },
+  "fotos": {
+    "buena": {"min_fotos": 2, "min_lado_util_principal": 800, "principal_sin_fondo_gris": true},
+    "regular": {"min_lado_util": 500},
+    "nota": "lado_util = px que ocupa el producto dentro de la foto; mala = sin fotos o todas por debajo de regular.min_lado_util"
+  },
+  "precios": {
+    "requeridos": {
+      "precio_venta": "Precio de venta al público (catálogo, IVA incluido)",
+      "precio_meli_calculado": "Precio de venta en Meli (incluye comisión y costo de empaque y logística)",
+      "precio_mejor_vendedor": "Precio de la publicación más vendida del mismo producto en Meli"
+    },
+    "nota": "completos = se conocen los tres; incompletos = falta alguno"
+  }
+}

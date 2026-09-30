@@ -6,7 +6,7 @@ Una farmacia mexicana (líneas **Farma**: farmacia, y **Mark**: salud, perfumer�
 
 ## Insumos originales (no versionados)
 
-Los entregó el dueño como Excel y viven fuera del repositorio (tienen precios y ventas):
+Los entregó el dueño como Excel y viven fuera del repositorio (tienen precios y ventas). Los precios y existencias que resultan del cruce sí se versionan dentro del layout y del visor (decisión 10):
 
 | Archivo | Contenido | Uso |
 |---|---|---|
@@ -27,6 +27,7 @@ Resultado del cruce: 1,174 renglones de ventas → 1,163 productos únicos (se e
 7. El repositorio es permanente: privado normalmente, público solo durante importaciones. Debe servir como base de datos para reconstruir plantillas de Odoo, Shopify, Amazon, Mercado Libre y futuros marketplaces.
 8. Investigar 200 productos por sesión (por el límite de búsquedas) y llevar la cuenta de avance y sesiones restantes.
 9. Todo cambio al repositorio por PR, fusionado, con pendientes y próximas tareas siempre actualizados; el repositorio debe permitir continuar el trabajo con otra IA (Claude o Codex).
+10. Versionar el layout completo de Mercado Libre en el repositorio (con precios y existencias) y un visor web (HTML, CSS y JS separados) para validar visualmente la calidad y cantidad de los productos, con indicadores de descripción (mala/regular/buena), fotos (mala/regular/buena) y precios (incompletos/completos), filtros, orden, paginación y productos similares. Ver `docs/VISOR.md`. Los Excel originales, las cifras de venta y las credenciales siguen fuera de git.
 
 ## Hallazgos que conviene conocer
 
