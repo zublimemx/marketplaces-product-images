@@ -24,7 +24,7 @@
       "categoria_id": "MLM5363",
       "categoria_ruta": "Bebés > Lactancia y Alimentación > Biberones y Accesorios > Biberones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25448244"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,17 @@
       "lado_util": 640
     },
     {
+      "archivo": "7501027515230_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_822431-MLA99454642140_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25448244",
+      "ancho_original": 583,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
       "archivo": "7501027515230_3.jpg",
       "origen": "tienda",
       "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/314765/314765_03.webp",
@@ -52,17 +63,6 @@
       "lado_final": 733,
       "fecha": "2026-09-29",
       "lado_util": 679
-    },
-    {
-      "archivo": "7501027515230_4.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/314765/314765_04.webp",
-      "pagina": "https://www.heb.com.mx/evenflo-biberon-disney-3-en-1-1-pz-678729/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 687,
-      "fecha": "2026-09-29",
-      "lado_util": 637
     }
   ],
   "url_oficial": "",

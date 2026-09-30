@@ -28,7 +28,7 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM24288411"
     },
     "amazon": {},
     "shopify": {},
@@ -45,6 +45,28 @@
       "lado_final": 1257,
       "fecha": "2026-09-29",
       "lado_util": 1163
+    },
+    {
+      "archivo": "650240039706_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_760421-MLA113067574228_072026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24288411",
+      "ancho_original": 930,
+      "alto_original": 1048,
+      "lado_final": 1029,
+      "lado_util": 953,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240039706_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_680674-MLA114290025223_072026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24288411",
+      "ancho_original": 855,
+      "alto_original": 1037,
+      "lado_final": 1018,
+      "lado_util": 943,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://medicasp1.com/",

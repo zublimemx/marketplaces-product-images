@@ -25,13 +25,24 @@
       "categoria_id": "MLM193807",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22838024"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "037836012334_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_934930-MLA99371762804_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22838024",
+      "ancho_original": 1200,
+      "alto_original": 303,
+      "lado_final": 1171,
+      "lado_util": 1085,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "037836012334_1.jpg",
       "origen": "tienda",

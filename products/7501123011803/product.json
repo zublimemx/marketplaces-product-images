@@ -24,13 +24,24 @@
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "MLM457832",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473981"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501123011803_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_649342-MLU78656461021_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473981",
+      "ancho_original": 995,
+      "alto_original": 563,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501123011803_1.jpg",
       "origen": "tienda",

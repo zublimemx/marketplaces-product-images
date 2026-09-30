@@ -28,13 +28,24 @@
       "categoria_id": "MLM457814",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "MLM457837",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48916878"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501027800053_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_656330-MLA83964079191_042025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM48916878",
+      "ancho_original": 1002,
+      "alto_original": 1028,
+      "lado_final": 1005,
+      "lado_util": 930,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501027800053_2.jpg",
       "origen": "tienda",

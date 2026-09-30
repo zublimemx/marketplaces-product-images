@@ -18,7 +18,7 @@
     "concentracion": "900 mg / 100 mg",
     "via_administracion": "Oral",
     "registro_sanitario": "072M97 SSA IV",
-    "otros": "Forma farmacéutica: tableta; Grupo terapéutico: venotónico y vasoprotector"
+    "otros": "Forma farmacéutica: tableta; Grupo terapéutico: venotónico y vasoprotector; Condición de venta: con receta médica (según catálogo ML)"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM65935966"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "Identificado por nombre y por el empaque (Daflon 1000 mg, 30 tabletas, 900 mg/100 mg, Sanfer); ninguna ficha consultada mostró el GTIN completo. El registro 072M97 es SSA IV, pero en la práctica las farmacias lo manejan de forma distinta; se dejó receta 'Revisar'. El fabricante de la tableta de 1000 mg es Servier según el directorio de medicamentos.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM65935966, 2026-09-29). Catálogo MLM65935966 (Daflon 1000 mg, 30 comprimidos, Sanfer, diosmina 900 mg + hesperidina 100 mg, registro 072M97 SSA, receta requerida simple). Coinciden marca, concentración, 30 tabletas, laboratorio Sanfer y registro (la ficha añade el sufijo IV). Resuelve la duda de receta: requerida. El fabricante 'Servier / distribuido por Sanfer' no contradice al catálogo, que solo indica Sanfer.",
     "notas_imagenes": "2 fotos del empaque (tienda, 1384 y 630 px): frente y vista frontal recta.",
     "fecha": "2026-09-29",
     "sesion": 5

@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 3",
     "talla": "Mediano",
     "genero": "Unisex",
-    "otros": "Peso del bebé: 7 a 10 kg; Con óxido de zinc: Sí; Formato de venta: Paquete"
+    "otros": "Peso del bebé: 7 a 10 kg; Con óxido de zinc: Sí; Formato de venta: Paquete; Con indicador de humedad: Sí; Con gel superabsorbente: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí; Sin fragancia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM58935014"
     },
     "amazon": {},
     "shopify": {},
@@ -76,9 +76,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE MED E3 = Suavelastic Etapa 3 Mediano; prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos de la página oficial; las 44 piezas salen del nombre del sistema.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM58935014, 2026-09-29). Comparado: marca KleenBebé, línea Suavelastic, Etapa 3, talla Mediano (M), 44 piezas, peso 7 a 10 kg, unisex. Todo coincide; el catálogo confirma las 44 piezas, antes tomadas solo del nombre del sistema. 'Con óxido de zinc' y 'Max' de la ficha no aparecen en el catálogo (no comparable). Se agrega indicador de humedad y rasgos del catálogo; se ignora 'Vida útil: 1 días' por ser un dato sin sentido. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, production-media.fahorro.com, 1600 px): frente, 3/4 y vertical con mamá; empaque rojo 'Maxi mejorados' 3M 44 pañales. Se descartó la foto del empaque azul antiguo de 40 pzas. Página del fabricante (kleenbebe.com) dio 403."
   }

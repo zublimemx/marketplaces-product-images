@@ -14,8 +14,8 @@
     "contenido_neto": 36,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 36,
-    "principio_activo": "Fumarato ferroso, ácido fólico y vitaminas",
-    "concentracion": "600",
+    "principio_activo": "Fumarato ferroso, ácido ascórbico, ácido fólico, tocoferol y cianocobalamina",
+    "concentracion": "Fumarato ferroso 350 mg; ácido ascórbico 600 mg; ácido fólico 1 mg; tocoferol 25.83 mg; cianocobalamina 25 mcg",
     "via_administracion": "Oral",
     "registro_sanitario": "80151 SSA IV",
     "otros": "Antianémico; Formato de venta: Unidad"
@@ -26,7 +26,7 @@
       "categoria_id": "MLM457820",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40655980"
     },
     "amazon": {},
     "shopify": {},
@@ -75,9 +75,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado en varias farmacias (frasco con 36 tabletas). No se encontró la fórmula cuantitativa: solo 'fumarato ferroso / ácido fólico / vitaminas' y 'vitaminas, hierro' en el frasco, por eso no se dan miligramos (el '600' es de la marca). Una ficha de otra tienda lo describe como amoxicilina, lo cual es un error y se ignoró. Una farmacia indica sin receta y el registro dice SSA IV: revisar.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM40655980, 2026-09-29). Comparado: marca Autrin 600, laboratorio Armstrong, tabletas, 36 por frasco, registro 80151 SSA (la ficha tiene 80151 SSA IV; el catálogo indica fracción IV, consistente). El catálogo da la fórmula: cianocobalamina 25 mcg, fumarato ferroso 350 mg, tocoferol 25.83 mg, ácido ascórbico 600 mg, ácido fólico 1 mg; el '600' es el ácido ascórbico. Es antibiótico: No (confirma que la ficha de otra tienda que decía amoxicilina era un error). Receta: requerida, simple, fracción IV (resuelve el 'Revisar' de receta_mx, coherente con SSA IV). Se corrigen principio_activo y concentracion (antes '600').",
     "notas_imagenes": "3 fotos de tienda (Farmacias del Ahorro, Diverfarma y Sanorim), frasco de frente con 36 tabletas.",
     "fecha": "2026-09-29"
   }

@@ -25,13 +25,24 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21453725"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7502235760139_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_844063-MLA99527553402_122025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21453725",
+      "ancho_original": 1089,
+      "alto_original": 619,
+      "lado_final": 1059,
+      "lado_util": 981,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7502235760139_1.jpg",
       "origen": "fabricante",
@@ -64,6 +75,28 @@
       "lado_final": 872,
       "fecha": "2026-09-29",
       "lado_util": 808
+    },
+    {
+      "archivo": "7502235760139_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_887999-MLM46401043840_062021-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21453725",
+      "ancho_original": 1200,
+      "alto_original": 731,
+      "lado_final": 1171,
+      "lado_util": 1085,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502235760139_6.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_674814-MLU78359872938_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21453725",
+      "ancho_original": 1200,
+      "alto_original": 1089,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://tiendaexeltis.mx/home/detalleproducto?idProducto=1787&clicked=1",

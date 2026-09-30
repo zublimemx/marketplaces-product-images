@@ -23,13 +23,36 @@
       "categoria_id": "MLM180913",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Hilos Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19810360"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7891024183090_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_717918-MLA99891392041_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19810360",
+      "ancho_original": 793,
+      "alto_original": 1159,
+      "lado_final": 1139,
+      "lado_util": 1055,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7891024183090_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_914290-MLA80964847711_112024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19810360",
+      "ancho_original": 776,
+      "alto_original": 1138,
+      "lado_final": 1116,
+      "lado_util": 1033,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://farmaciasanjorge.com/products/37785",

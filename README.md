@@ -17,7 +17,7 @@ Base de datos de productos (farmacia, líneas Farma y Mark) para publicar en mar
 | `docs/REGLAS_NEGOCIO.md` | Reglas de publicación, contenido, fotos y precio |
 | `docs/CONTRATOS.md` | Formato de product.json, lotes, resultados, insumos y layout |
 | `docs/PROCEDIMIENTO_SESION.md` | Cómo correr una sesión y publicar cambios por PR |
-| `docs/MERCADOLIBRE_API.md` | Precios de competencia y fotos de catálogo con la API de Mercado Libre |
+| `docs/MERCADOLIBRE_API.md` | Precios de competencia, fotos y descripciones del catálogo con la API de Mercado Libre |
 | `docs/VISOR.md` | Visor de productos: cómo abrirlo, regenerarlo e indicadores |
 | `docs/agentes/` | Instrucciones para subagentes de investigación y de fotos |
 | `schema/` | JSON Schema de product.json y de resultados |
@@ -51,7 +51,10 @@ scripts/meli_auth.py             Obtiene el token de la API de Mercado Libre con
 scripts/build_manual.py          Genera MANUAL.pdf desde docs/manual/manual.html (--capturas retoma las capturas del visor)
 scripts/solicitudes.py           Lee el Excel de pendientes que devuelve el dueño y agrupa por acción
 scripts/revisar_fotos.py         Revisión automática de fotos (baja resolución, posible fondo gris, sin fotos)
-scripts/meli_precios.py          Precios de competencia y fotos de catálogo con la API de Mercado Libre
+scripts/meli_precios.py          Precios de competencia y datos de catálogo con la API de Mercado Libre
+scripts/meli_fotos.py            Completa fotos malas o regulares con las del catálogo de Mercado Libre
+scripts/preparar_revision_ml.py  Hojas de fotos y lotes de descripciones para revisar con subagentes
+scripts/aplicar_revision_ml.py   Aplica la revisión (fotos, descripciones, GTIN confirmados, catálogos rechazados)
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
 scripts/setup.sh                 Prepara el entorno (dependencias, carpetas locales, validación)
 ```

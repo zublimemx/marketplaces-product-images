@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 1",
     "talla": "Recién Nacido",
     "genero": "Unisex",
-    "otros": "Peso del bebé: 2.5 a 5.5 kg; Con óxido de zinc: Sí; Formato de venta: Paquete"
+    "otros": "Peso del bebé: 2.5 a 5.5 kg; Con óxido de zinc: Sí; Formato de venta: Paquete; Con gel superabsorbente: Sí; Con barreras reforzadas anti-derrames: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM38429330"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (SUAVE R-N E1 = Suavelastic Recién Nacido Etapa 1; prefijo 7501943 coincide con otros Suavelastic confirmados en el lote 1). Descripción y pesos de la página oficial; las 40 piezas salen del nombre del sistema. El título no lleva 'Etapa 1' por el límite de 60 caracteres.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM38429330, 2026-09-29). Comparado: marca KleenBebé, línea Suavelastic, Etapa 1, Recién nacido, 40 piezas, peso 2.5 a 5.5 kg, unisex. Todo coincide; el catálogo confirma las 40 piezas y el peso. Se agregan rasgos del catálogo en 'otros' (entregado completo).",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro): frente 1600 px y vertical 1200 px del empaque KleenBebé Suavelastic Recién Nacido 1RN 40 pañales. Se descartaron 2 infografías (óxido de zinc, guía de etapas)."
   }

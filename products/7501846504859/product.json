@@ -32,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501846504859_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501846504859-1.jpg",
-      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/pomada-wax-and-shine-black-60grs",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1080,
-      "fecha": "2026-09-29",
-      "lado_util": 1000
+      "archivo": "7501846504859_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_785709-MLU78561973865_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18985402",
+      "ancho_original": 1200,
+      "alto_original": 948,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501846504859_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_947634-MLA52223793750_102022-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18985402",
+      "ancho_original": 1195,
+      "alto_original": 1200,
+      "lado_final": 1163,
+      "lado_util": 1077,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

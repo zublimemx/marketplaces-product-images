@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 3",
     "talla": "Mediano",
     "genero": "Niños",
-    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest"
+    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest; Peso del bebé: 7 a 10 kg; Con gel superabsorbente: Sí; Hipoalergénico: Sí; Libre de látex: Sí; Libre de parabenos: Sí; Sin fragancia"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379865"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,17 @@
       "lado_final": 1536,
       "fecha": "2026-09-29",
       "lado_util": 1423
+    },
+    {
+      "archivo": "7506425604241_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_890249-MLA99881483487_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379865",
+      "ancho_original": 1030,
+      "alto_original": 608,
+      "lado_final": 995,
+      "lado_util": 921,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
@@ -52,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre: la abreviatura HU CONF coincide con la del GTIN 7501943433090, confirmado como Huggies Ultra Confort. Las características son las de la línea en la página oficial; contenido de 40 piezas y talla Mediano no verificados contra una ficha del producto.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17379865, 2026-09-29). Comparado: marca Huggies, línea UltraConfort, Etapa 3, niños, 40 piezas, talla M (Mediano), peso 7 a 10 kg. Todo coincide y confirma las 40 piezas y la talla Mediano. Se ignora 'Vida útil: 1 días'. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 3 niño, 40 pzas. Se descartó el diseño anterior."
   }

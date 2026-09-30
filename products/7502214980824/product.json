@@ -24,7 +24,7 @@
       "categoria_id": "MLM167992",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45994780"
     },
     "amazon": {},
     "shopify": {},
@@ -62,9 +62,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN del pack no apareció en las fichas; se identificó por nombre (2 pack Extra Time C3 + Zero C3). 'OFERTADO 25%' e indicaciones de promoción se ignoraron. Fabricante DKT tomado del material gráfico del producto.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM45994780, 2026-09-29). Catálogo MLM45994780 (Duo Pack Prudence 'Zero+ Retardante', 3 piezas c/u, 6 en total, lubricados, látex). Coinciden marca, formato dúo de 2 x 3 = 6 piezas, lubricado y látex; 'Zero' y 'Retardante' (Extra Time, según la ficha) coinciden. El catálogo no nombra 'Extra Time' ni el reparto 3 + 3, que solo consta en el nombre del sistema.",
     "notas_imagenes": "2 fotos de tienda con el frente de cada caja incluida en el pack: Extra Time (1576 px) y Zero (1121 px). Se descartaron fotos del pack con leyendas promocionales (Lleva uno gratis) y una caja de otra variedad.",
     "fecha": "2026-09-29",
     "sesion": 4

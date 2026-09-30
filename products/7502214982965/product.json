@@ -5,7 +5,7 @@
   "nombre_sistema": "PRUDENCE VITRO C100 CLASICO",
   "nombres_sistema_alternos": [],
   "titulo": "Condones Prudence Clásico Lubricados Vitrolero 100 Piezas",
-  "descripcion": "Descripción:\nCondones Prudence Clásico, preservativos masculinos de hule látex natural lubricados, en presentación de vitrolero (bote) con 100 piezas. La línea Prudence Clásico ofrece una sensación de sedosidad placentera y una protección confiable en cada uso.\n\nCaracterísticas:\n- Condón masculino de hule látex natural lubricado\n- Ligero aroma a vainilla que evita el olor a látex\n- Cuentan con calificaciones FDA, CE e ISO (línea Prudence Clásico)\n- Vitrolero con 100 condones, ideal para uso institucional, consultorios, campañas de salud y distribución\n\nPresentación:\nVitrolero con 100 condones masculinos lubricados.",
+  "descripcion": "Descripción:\nCondones Prudence Clásico, preservativos masculinos de hule látex con lubricante a base de silicón, en presentación de vitrolero (bote) con 100 piezas. Cada condón viene en su envoltura individual y discreta, y tiene un ligero aroma a vainilla que ayuda a disimular el olor a látex. El vitrolero permite guardar y tener a la mano las piezas de manera práctica, por lo que es una presentación cómoda para uso continuo.\n\nBeneficios:\n- Condón masculino de hule látex, lubricado con silicón\n- Ligero aroma a vainilla\n- Dimensiones: ancho de 52 mm (±2 mm), largo mínimo de 160 mm y espesor de 0.08 mm (±0.015 mm)\n- Cada pieza en envoltura individual y discreta\n- Vitrolero con 100 piezas para un almacenamiento cómodo\n\nPresentación:\nVitrolero con 100 condones masculinos lubricados.\n\nAdvertencias:\n- Contiene látex: no lo use si es alérgico al látex.\n- Producto de un solo uso: use un condón nuevo cada vez y no lo reutilice.\n- Revise la fecha de caducidad y que la envoltura esté íntegra antes de usarlo.\n- Consulte a su médico si tiene dudas sobre su uso.",
   "ficha": {
     "marca": "Prudence",
     "linea": "Clásico",
@@ -15,7 +15,7 @@
     "unidad_contenido": "condones",
     "unidades_por_envase": 100,
     "sabor_aroma": "Vainilla (ligero)",
-    "otros": "Material: hule látex natural; Lubricado; Formato de venta: vitrolero (bote) con 100 piezas"
+    "otros": "Material: hule látex; Lubricado con silicón; Ancho: 52 mm (±2 mm); Largo mínimo: 160 mm; Espesor: 0.08 mm (±0.015 mm); Formato de venta: vitrolero (bote) con 100 piezas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -62,7 +62,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado como Prudence Clásico vitrolero de 100 piezas en una farmacia (una tienda asocia el GTIN a un condón individual). 'catalogo_ml' se dedujo del título del resultado 'Prudence Clásico con 100 condones vitrolero' sin poder abrirlo (Mercado Libre bloquea el acceso). El fabricante no se encontró.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM19543731, 2026-09-29). Catálogo ML MLM19543731 (origen gtin): 'Prudence Clásico con 100 condones vitrolero'; coincide con producto y presentación (100 piezas). Ojo: la investigación indica que ese catálogo se dedujo del título del resultado sin poder abrirlo, y su texto tiene rastro de publicidad de otro vendedor (se ignoró). Fuentes: catálogo (látex, lubricado con silicón, medidas 52 mm x 160 mm x 0.08 mm, envolturas individuales) y descripción actual (aroma a vainilla). Se omitieron las 'calificaciones FDA, CE e ISO' de la descripción anterior por no poder confirmarse para esta presentación, y no se incluyó el fabricante (no se encontró).",
     "notas_imagenes": "2 fotos de Farmacias del Ahorro (1600 px): vitrolero de 100 condones en dos diseños de etiqueta; su ficha no se pudo abrir y las imágenes salen de su CDN por GTIN.",
     "fecha": "2026-09-29",
     "sesion": 4

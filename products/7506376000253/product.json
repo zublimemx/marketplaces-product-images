@@ -22,7 +22,7 @@
       "categoria_id": "MLM178705",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM32482126"
     },
     "amazon": {},
     "shopify": {},
@@ -39,6 +39,28 @@
       "lado_final": 1118,
       "fecha": "2026-09-29",
       "lado_util": 1036
+    },
+    {
+      "archivo": "7506376000253_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_792552-MLA101305747280_122025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM32482126",
+      "ancho_original": 735,
+      "alto_original": 501,
+      "lado_final": 722,
+      "lado_util": 669,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506376000253_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_954797-MLA117570158813_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM32482126",
+      "ancho_original": 866,
+      "alto_original": 586,
+      "lado_final": 849,
+      "lado_util": 787,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

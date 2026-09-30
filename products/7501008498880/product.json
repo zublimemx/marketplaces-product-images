@@ -18,7 +18,8 @@
     "concentracion": "550 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Formato de venta: Caja"
+    "otros": "Formato de venta: Caja",
+    "registro_sanitario": "006M90 SSA"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -26,7 +27,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455468"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +65,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Flanax confirma naproxeno sódico 550 mg y sus usos; las 30 tabletas salen del nombre del sistema. El sitio no aclara si requiere receta (el naproxeno de 550 mg suele venderse con receta); si resulta con receta, usar MLM457826 (Musculoarticulares con Receta). Advertencias basadas en las habituales del naproxeno, confirmar con el instructivo.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39455468, 2026-09-29). Comparado: marca Flanax, laboratorio Bayer de México, naproxeno sódico 550 mg, tabletas (comprimido), 30 unidades. Todo coincide. El catálogo aporta el registro 006M90 SSA y resuelve la duda de receta: 'Receta: No requerida' (receta_mx estaba en 'Revisar'). Clasificación ATC M01AE02.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos de tienda con 'Caja con 30 tabletas': farmacia San Jorge (1080 px) y farmacia Herrera (1024 px). Sitio del fabricante (flanax.com.mx) dio 403; Farmacias Medina y FESA no tienen este GTIN."
   }

@@ -15,7 +15,8 @@
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "tipo_piel_cabello": "Todo tipo de piel",
-    "otros": "Tipo de producto: emulsión corporal aclaradora hidratante; Activos: niacinamida 3%, vitamina C, agua de regaliz; Formato de venta: pieza"
+    "otros": "Tipo de producto: emulsión corporal aclaradora hidratante; Activos: niacinamida 3%, vitamina C, agua de regaliz; Formato de venta: pieza; Libre de parabenos: Sí; Aplicación día y noche; Funciones: despigmentante, iluminador e hidratación; Sin protección solar",
+    "sabor_aroma": "Fragancia neutra"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -40,6 +41,17 @@
       "lado_final": 942,
       "lado_util": 873,
       "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502250342747_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_865363-MLA109676534009_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM67332968",
+      "ancho_original": 302,
+      "alto_original": 829,
+      "lado_final": 815,
+      "lado_util": 755,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -50,9 +62,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El GTIN coincide con el código de una ficha de tienda (Walmart 00750225034274), pero la página oficial de Vitacilina devolvió 404, sin ingredientes completos ni modo de uso. Las advertencias son las generales de un producto cosmético de uso externo. El catálogo ML corresponde por nombre y presentación, sin confirmar el GTIN.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM67332968, 2026-09-29). Comparado: marca Vitacilina, línea Clarité, Triple Efecto, emulsión aclaradora de 200 ml, todo tipo de piel, activos niacinamida, vitamina C y agua de regaliz (igual que la ficha). Todo coincide; el catálogo por GTIN confirma la equivalencia por nombre y presentación. Advertencia: el texto de ML dice que se aplica en rostro, cuello y escote y que es 'dermatológicamente testeada' mientras un atributo dice 'No'; la ficha y el nombre del sistema indican emulsión corporal. No reutilizar esas afirmaciones del catálogo. 'otros' se entrega completo.",
     "notas_imagenes": "1 foto (tienda) de Alsuper (cdn.alsuper.com/products/518757.png): tubo de Vitacilina Corporal Clarite emulsión aclaradora triple efecto 200 ml, 1000 px (942 px útiles), fondo blanco, sin marcas de agua. Farmacia Herrera solo usa una imagen genérica y vitacilina.mx bloquea con verificación (429). En la ficha se corrigió la presentación a tubo, como se ve en la foto. Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 3

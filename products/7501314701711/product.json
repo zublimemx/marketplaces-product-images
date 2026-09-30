@@ -26,7 +26,7 @@
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
       "categoria_rx_sugerida": "MLM457827",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475615"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501314701711_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg",
-      "pagina": "https://www.farmaciasespecializadas.com/media/catalog/product/7/5/7501314701711_1.jpg",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 660,
-      "fecha": "2026-09-29",
-      "lado_util": 612
+      "archivo": "7501314701711_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_657424-MLA87285233497_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475615",
+      "ancho_original": 487,
+      "alto_original": 985,
+      "lado_final": 968,
+      "lado_util": 897,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501314701711_2.jpg",

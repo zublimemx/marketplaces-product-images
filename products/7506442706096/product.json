@@ -34,6 +34,17 @@
   },
   "imagenes": [
     {
+      "archivo": "7506442706096_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_716999-MLA91036008454_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM54426843",
+      "ancho_original": 839,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
       "archivo": "7506442706096_1.jpg",
       "origen": "tienda",
       "fuente_url": "https://www.pharmasi.com.mx/wp-content/uploads/2025/09/dapagliflozina-10-mg.jpeg",
@@ -54,17 +65,6 @@
       "lado_final": 756,
       "fecha": "2026-09-29",
       "lado_util": 700
-    },
-    {
-      "archivo": "7506442706096_5.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/GENERICO_DE_FORXIGA.jpg?v=1748651161",
-      "pagina": "https://www.pharmasi.com.mx/p/dapagliflozina-10mg-28-tabletas/",
-      "ancho_original": 1200,
-      "alto_original": 1200,
-      "lado_final": 1089,
-      "fecha": "2026-09-29",
-      "lado_util": 1007
     }
   ],
   "url_oficial": "",

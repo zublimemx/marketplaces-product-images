@@ -1,44 +1,41 @@
 #!/usr/bin/env python3
-"""Precios de competencia en Mercado Libre México con la API oficial (y, opcionalmente, fotos de catálogo).
+"""Precios de competencia en Mercado Libre México con la API oficial.
 
-Llena data/competencia_meli.csv (versionado), que scripts/build_mercadolibre.py y scripts/build_visor.py usan para las columnas
-"Precio Meli promedio otros vendedores" y "Precio mejor vendedor".
+Escribe data/competencia_meli.csv (versionado), que scripts/build_mercadolibre.py y scripts/build_visor.py usan para
+"Precio Meli promedio otros vendedores" y "Precio mejor vendedor". Guarda la respuesta cruda de cada producto en
+trabajo/meli/<GTIN>.json (producto de catálogo con atributos y fotos, publicaciones que compiten y, con
+--descripciones, descripciones de otros vendedores) para completar fotos y descripciones sin volver a consultar.
 
-IMPORTANTE: se escribió sin poder probarlo contra la API real (no había credenciales). Corre primero
-con --muestra 3 para guardar las respuestas crudas en trabajo/meli_muestras/ y ajusta los campos si difieren.
-Detalles y supuestos en docs/MERCADOLIBRE_API.md.
-
-Credenciales (variables de entorno o archivo .env en la raíz, nunca en git):
-  insumos/ml_token.json                de scripts/meli_auth.py (código de autorización); se renueva solo, o bien
-  ML_ACCESS_TOKEN                      token vigente (dura unas 6 horas), o bien
-  ML_CLIENT_ID, ML_CLIENT_SECRET, ML_REFRESH_TOKEN   para renovarlo solo. Mercado Libre entrega un refresh token
-                                       nuevo en cada renovación: se guarda en insumos/ml_token.json y se usa en la siguiente corrida.
-  ML_SELLER_ID                         (opcional) tu seller_id, para excluir tus propias publicaciones; si falta se consulta /users/me.
+Credenciales (.env o insumos/ml_token.json, nunca en git): ver docs/MERCADOLIBRE_API.md y scripts/meli_auth.py.
 
 Uso:
-  python scripts/meli_precios.py [--gtin 7501... ...] [--limite N] [--muestra N]
-                                 [--guardar-catalogo] [--fotos-catalogo] [--salida data/competencia_meli.csv]
+  python scripts/meli_precios.py [--gtin 7501... ...] [--limite N] [--hilos 4] [--descripciones] [--forzar]
+                                 [--guardar-catalogo] [--salida data/competencia_meli.csv]
+  python scripts/meli_precios.py --solo-csv      # recalcula el CSV desde trabajo/meli/ sin llamar a la API
 
-Por cada GTIN (en el orden de data/prioridad.csv):
- 1. Busca el producto de catálogo: GET /products/search?status=active&site_id=MLM&product_identifier=<GTIN>
-    (si no hay, usa marketplaces.mercadolibre.catalogo_id de product.json).
- 2. Con catálogo: GET /products/<id> (buy_box_winner, fotos) y GET /products/<id>/items (publicaciones que compiten).
-    Sin catálogo: GET /sites/MLM/search?q=<GTIN>.
- 3. Promedio = media de precios de publicaciones de otros vendedores (condición nueva).
-    Mejor vendedor = publicación con mayor sold_quantity si la API lo entrega (GET /items?ids=…); si no, el ganador
-    de la compra del catálogo (buy_box_winner); si tampoco, la primera por relevancia de la búsqueda. La columna
-    metodo_mejor_vendedor dice cuál se usó.
---guardar-catalogo escribe el ID de catálogo en product.json. --fotos-catalogo descarga las fotos del catálogo
-(origen catalogo_ml) para productos sin fotos o con todas sus fotos de baja resolución, usando scripts/imagenes.py.
+Qué permite la API (probado el 29 sep 2026 con la cuenta del vendedor):
+  - GET /products/search?product_identifier=<GTIN>, /products/<id> y /products/<id>/items: sí.
+  - GET /items/<id> e /items?ids= de otros vendedores: 403 (no hay ventas por publicación ni sus fotos).
+  - GET /items/<id>/description: sí (muchas vienen vacías porque usan imágenes).
+  - GET /users/<id>: sí (reputación y ventas históricas del vendedor).
+  - GET /sites/MLM/search: 403.
+Reglas:
+  - Promedio de otros vendedores: media de las publicaciones nuevas de otros vendedores del producto de catálogo, sin
+    atípicas (más del doble de la mediana, casi siempre paquetes de varias piezas).
+  - Mejor vendedor: como la API ya no da ventas por publicación, se toma la publicación del vendedor con más ventas
+    históricas (seller_reputation.transactions.total); en empate, la más barata. metodo = vendedor_con_mas_ventas.
+  - Catálogos rechazados en revisión (data/catalogo_ml_rechazados.csv: el GTIN apunta a otro producto o a otra
+    presentación): no se usan ni para precios ni para fotos; la fila queda sin precios y con la nota del motivo.
 """
 import argparse
+import concurrent.futures
 import csv
 import datetime
 import json
 import os
 import statistics
-import subprocess
 import sys
+import threading
 import time
 
 import requests
@@ -47,8 +44,22 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 API = "https://api.mercadolibre.com"
 SITE = "MLM"
 TOKEN_FILE = os.path.join(ROOT, "insumos", "ml_token.json")
-FIELDS = ["gtin", "producto_catalogo", "publicaciones_otros", "precio_promedio_otros", "precio_min_otros", "precio_max_otros",
-          "precio_mejor_vendedor", "item_mejor_vendedor", "metodo_mejor_vendedor", "fecha", "nota"]
+CRUDO = os.path.join(ROOT, "trabajo", "meli")
+VENDEDORES = os.path.join(CRUDO, "_vendedores.json")
+RECHAZADOS = os.path.join(ROOT, "data", "catalogo_ml_rechazados.csv")
+FIELDS = ["gtin", "producto_catalogo", "nombre_catalogo", "publicaciones_otros", "precio_promedio_otros", "precio_mediana_otros",
+          "precio_min_otros", "precio_max_otros", "publicaciones_atipicas", "precio_mejor_vendedor", "item_mejor_vendedor",
+          "vendedor_mejor", "ventas_vendedor_mejor", "metodo_mejor_vendedor", "fecha", "nota"]
+
+
+def rechazados():
+    """{gtin: {producto_catalogo, tipo, motivo, ...}} de data/catalogo_ml_rechazados.csv."""
+    if not os.path.exists(RECHAZADOS):
+        return {}
+    return {r["gtin"]: r for r in csv.DictReader(open(RECHAZADOS, encoding="utf-8"))}
+
+
+RECH = rechazados()
 
 
 def load_env():
@@ -62,170 +73,254 @@ def load_env():
 
 
 class Meli:
-    def __init__(self, muestra=0):
-        self.s = requests.Session()
-        self.muestra = muestra
-        self.n_muestra = 0
-        self.ultimo_status = None
-        self.token = os.environ.get("ML_ACCESS_TOKEN")
-        if os.path.exists(TOKEN_FILE):  # token de scripts/meli_auth.py o de una renovación anterior
+    def __init__(self):
+        self.local = threading.local()
+        self.lock = threading.Lock()
+        self.token = None
+        if os.path.exists(TOKEN_FILE):  # de scripts/meli_auth.py o de una renovación anterior
             t = json.load(open(TOKEN_FILE))
             if t.get("access_token") and t.get("vence", "") > datetime.datetime.now().isoformat():
                 self.token = t["access_token"]
-            elif t.get("refresh_token"):
-                self.token = None
+        self.token = self.token or os.environ.get("ML_ACCESS_TOKEN")
         if not self.token:
             self.refresh()
-        self.s.headers["Authorization"] = f"Bearer {self.token}"
+
+    def sesion(self):
+        if not hasattr(self.local, "s"):
+            self.local.s = requests.Session()
+        return self.local.s
 
     def refresh(self):
-        rt = os.environ.get("ML_REFRESH_TOKEN")
-        if os.path.exists(TOKEN_FILE):
-            rt = json.load(open(TOKEN_FILE)).get("refresh_token") or rt
-        cid, sec = os.environ.get("ML_CLIENT_ID"), os.environ.get("ML_CLIENT_SECRET")
-        if not (cid and sec and rt):
-            sys.exit("Faltan credenciales: define ML_ACCESS_TOKEN o ML_CLIENT_ID, ML_CLIENT_SECRET y ML_REFRESH_TOKEN (ver .env.example)")
-        r = requests.post(f"{API}/oauth/token", data={"grant_type": "refresh_token", "client_id": cid, "client_secret": sec, "refresh_token": rt},
-                          headers={"Accept": "application/json"}, timeout=30)
-        if r.status_code != 200:
-            sys.exit(f"No se pudo renovar el token: {r.status_code} {r.text[:300]}")
-        data = r.json()
-        vence = datetime.datetime.now() + datetime.timedelta(seconds=int(data.get("expires_in", 21600)) - 300)
-        os.makedirs(os.path.dirname(TOKEN_FILE), exist_ok=True)
-        json.dump({"access_token": data["access_token"], "refresh_token": data.get("refresh_token"), "vence": vence.isoformat(timespec="seconds"),
-                   "obtenido": datetime.datetime.now().isoformat(timespec="seconds")}, open(TOKEN_FILE, "w"), indent=2)
-        self.token = data["access_token"]
-        self.s.headers["Authorization"] = f"Bearer {self.token}"
+        with self.lock:
+            rt = os.environ.get("ML_REFRESH_TOKEN")
+            if os.path.exists(TOKEN_FILE):
+                rt = json.load(open(TOKEN_FILE)).get("refresh_token") or rt
+            cid, sec = os.environ.get("ML_CLIENT_ID"), os.environ.get("ML_CLIENT_SECRET")
+            if not (cid and sec and rt):
+                sys.exit("El token venció y no hay refresh token: pide al dueño un código de autorización (scripts/meli_auth.py) o un token nuevo")
+            r = requests.post(f"{API}/oauth/token", timeout=30, headers={"Accept": "application/json"},
+                              data={"grant_type": "refresh_token", "client_id": cid, "client_secret": sec, "refresh_token": rt})
+            if r.status_code != 200:
+                sys.exit(f"No se pudo renovar el token: {r.status_code} {r.text[:300]}")
+            data = r.json()
+            vence = datetime.datetime.now() + datetime.timedelta(seconds=int(data.get("expires_in", 21600)) - 300)
+            os.makedirs(os.path.dirname(TOKEN_FILE), exist_ok=True)
+            json.dump({"access_token": data["access_token"], "refresh_token": data.get("refresh_token"),
+                       "vence": vence.isoformat(timespec="seconds"), "obtenido": datetime.datetime.now().isoformat(timespec="seconds")},
+                      open(TOKEN_FILE, "w"), indent=2)
+            self.token = data["access_token"]
 
-    def get(self, path, params=None, etiqueta=""):
-        for intento in range(5):
-            r = self.s.get(f"{API}{path}", params=params, timeout=30)
-            if r.status_code == 401 and intento == 0 and (os.environ.get("ML_REFRESH_TOKEN") or os.path.exists(TOKEN_FILE)):
-                self.refresh()
-                continue
-            if r.status_code == 429:
+    def get(self, path, params=None):
+        """(status, json o None)."""
+        r = None
+        for intento in range(6):
+            try:
+                r = self.sesion().get(f"{API}{path}", params=params, timeout=30, headers={"Authorization": f"Bearer {self.token}"})
+            except requests.RequestException:
                 time.sleep(2 ** intento)
                 continue
+            if r.status_code == 401 and intento == 0:
+                self.refresh()
+                continue
+            if r.status_code in (429, 500, 502, 503, 504):
+                time.sleep(min(2 ** intento, 20))
+                continue
             break
-        if self.muestra and self.n_muestra < self.muestra * 6:
-            d = os.path.join(ROOT, "trabajo", "meli_muestras")
-            os.makedirs(d, exist_ok=True)
-            self.n_muestra += 1
-            with open(os.path.join(d, f"{self.n_muestra:03d}_{etiqueta}.json"), "w", encoding="utf-8") as fh:
-                json.dump({"url": r.url, "status": r.status_code, "body": r.json() if r.headers.get("content-type", "").startswith("application/json") else r.text[:2000]},
-                          fh, ensure_ascii=False, indent=2)
-        time.sleep(0.15)
-        self.ultimo_status = r.status_code
-        if r.status_code != 200:
-            return None
-        return r.json()
+        if r is None:
+            return 0, None
+        try:
+            return r.status_code, r.json()
+        except ValueError:
+            return r.status_code, None
 
 
-def precios_de(items, own):
-    return [it for it in items if it.get("price") and str(it.get("seller_id")) != str(own) and it.get("condition", "new") in ("new", None)]
+class Vendedores:
+    def __init__(self, ml):
+        self.ml = ml
+        self.lock = threading.Lock()
+        self.d = json.load(open(VENDEDORES)) if os.path.exists(VENDEDORES) else {}
+
+    def get(self, sid):
+        sid = str(sid)
+        with self.lock:
+            if sid in self.d:
+                return self.d[sid]
+        st, u = self.ml.get(f"/users/{sid}")
+        rep = (u or {}).get("seller_reputation") or {}
+        v = {"nickname": (u or {}).get("nickname", ""), "ventas": ((rep.get("transactions") or {}).get("total") or 0),
+             "nivel": rep.get("level_id"), "power_seller": rep.get("power_seller_status"), "status": st}
+        with self.lock:
+            self.d[sid] = v
+        return v
+
+    def guardar(self):
+        with self.lock:
+            os.makedirs(CRUDO, exist_ok=True)
+            json.dump(self.d, open(VENDEDORES, "w"), ensure_ascii=False)
+
+
+def consultar(ml, vend, g, descripciones=False, guardar_catalogo=False):
+    pj = os.path.join(ROOT, "products", g, "product.json")
+    prod = json.load(open(pj, encoding="utf-8"))
+    crudo = {"gtin": g, "fecha": datetime.date.today().isoformat(), "producto_catalogo": "", "origen_catalogo": "", "producto": None,
+             "items": [], "vendedores": {}, "descripciones": []}
+    st, res = ml.get("/products/search", {"status": "active", "site_id": SITE, "product_identifier": g})
+    if st in (401, 403):
+        raise SystemExit(f"La API respondió {st} en /products/search: revisa el token")
+    results = (res or {}).get("results") or []
+    malo = (RECH.get(g) or {}).get("producto_catalogo")
+    pid = next((r.get("id", "") for r in results if r.get("id") and r.get("id") != malo), "")
+    crudo["origen_catalogo"] = "gtin" if pid else ""
+    if not pid and prod["marketplaces"]["mercadolibre"].get("catalogo_id") not in ("", None, malo):
+        pid, crudo["origen_catalogo"] = prod["marketplaces"]["mercadolibre"]["catalogo_id"], "product.json"
+    if pid:
+        crudo["producto_catalogo"] = pid
+        _, p = ml.get(f"/products/{pid}")
+        if p:
+            crudo["producto"] = {k: p.get(k) for k in ("id", "name", "domain_id", "permalink", "status", "attributes", "pictures",
+                                                        "main_features", "short_description", "buy_box_winner", "parent_id")}
+        items, offset = [], 0
+        while True:
+            _, its = ml.get(f"/products/{pid}/items", {"offset": offset, "limit": 100})
+            lote = (its or {}).get("results") or []
+            for it in lote:
+                env = it.get("shipping") or {}
+                items.append({k: it.get(k) for k in ("item_id", "seller_id", "price", "original_price", "condition", "listing_type_id",
+                                                     "official_store_id", "tags")}
+                             | {"logistic_type": env.get("logistic_type"), "free_shipping": env.get("free_shipping")})
+            total = ((its or {}).get("paging") or {}).get("total", 0)
+            offset += 100
+            if not lote or offset >= total or offset >= 500:
+                break
+        crudo["items"] = items
+        for it in items:
+            if it.get("seller_id"):
+                crudo["vendedores"][str(it["seller_id"])] = vend.get(it["seller_id"])
+        if descripciones:
+            for it in items[:10]:
+                _, d = ml.get(f"/items/{it['item_id']}/description")
+                txt = ((d or {}).get("plain_text") or "").strip()
+                if txt:
+                    crudo["descripciones"].append({"item_id": it["item_id"], "texto": txt})
+                if len(crudo["descripciones"]) >= 3:
+                    break
+        if guardar_catalogo and crudo["origen_catalogo"] == "gtin" and prod["marketplaces"]["mercadolibre"].get("catalogo_id") != pid:
+            prod["marketplaces"]["mercadolibre"]["catalogo_id"] = pid
+            tmp = pj + ".tmp"
+            with open(tmp, "w", encoding="utf-8") as fh:
+                json.dump(prod, fh, ensure_ascii=False, indent=2)
+            os.replace(tmp, pj)
+    os.makedirs(CRUDO, exist_ok=True)
+    with open(os.path.join(CRUDO, f"{g}.json"), "w", encoding="utf-8") as fh:
+        json.dump(crudo, fh, ensure_ascii=False)
+    return crudo
+
+
+def resumen(crudo, propio):
+    row = {k: "" for k in FIELDS}
+    row.update(gtin=crudo["gtin"], fecha=crudo["fecha"], producto_catalogo=crudo.get("producto_catalogo", ""),
+               nombre_catalogo=((crudo.get("producto") or {}).get("name") or ""))
+    if not crudo.get("producto_catalogo"):
+        row["nota"] = "sin producto de catálogo para el GTIN"
+        return row
+    r = RECH.get(crudo["gtin"])
+    if r and r["producto_catalogo"] == crudo["producto_catalogo"]:
+        row["nota"] = f"catálogo rechazado ({r['tipo'].replace('_', ' ')}): {r['motivo']}"
+        return row
+    otros = [it for it in crudo["items"] if it.get("price") and str(it.get("seller_id")) != str(propio)
+             and (it.get("condition") or "new") == "new"]
+    if not otros:
+        row["nota"] = "sin publicaciones de otros vendedores"
+        return row
+    precios = sorted(float(it["price"]) for it in otros)
+    med = statistics.median(precios)
+    normales = [p for p in precios if p <= 2 * med]
+    row.update(publicaciones_otros=len(otros), precio_promedio_otros=round(statistics.mean(normales), 2), precio_mediana_otros=round(med, 2),
+               precio_min_otros=precios[0], precio_max_otros=precios[-1], publicaciones_atipicas=len(precios) - len(normales))
+    vend = crudo.get("vendedores") or {}
+    candidatos = [it for it in otros if float(it["price"]) <= 2 * med]
+    best = max(candidatos, key=lambda it: ((vend.get(str(it["seller_id"])) or {}).get("ventas") or 0, -float(it["price"])))
+    v = vend.get(str(best["seller_id"])) or {}
+    row.update(precio_mejor_vendedor=float(best["price"]), item_mejor_vendedor=best["item_id"], vendedor_mejor=v.get("nickname", ""),
+               ventas_vendedor_mejor=v.get("ventas", ""), metodo_mejor_vendedor="vendedor_con_mas_ventas")
+    return row
+
+
+def escribir(salida, filas):
+    os.makedirs(os.path.dirname(salida), exist_ok=True)
+    orden = [r["gtin"] for r in csv.DictReader(open(os.path.join(ROOT, "data", "prioridad.csv"), encoding="utf-8"))]
+    pos = {g: i for i, g in enumerate(orden)}
+    with open(salida, "w", encoding="utf-8", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=FIELDS)
+        w.writeheader()
+        for r in sorted(filas.values(), key=lambda r: pos.get(r["gtin"], 10 ** 6)):
+            w.writerow({k: r.get(k, "") for k in FIELDS})
 
 
 def main():
     load_env()
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--gtin", nargs="*")
     ap.add_argument("--limite", type=int)
-    ap.add_argument("--muestra", type=int, default=0, help="guarda respuestas crudas de los primeros N productos")
-    ap.add_argument("--guardar-catalogo", action="store_true")
-    ap.add_argument("--fotos-catalogo", action="store_true")
+    ap.add_argument("--hilos", type=int, default=4)
+    ap.add_argument("--descripciones", action="store_true", help="guarda hasta 3 descripciones de otros vendedores por producto")
+    ap.add_argument("--forzar", action="store_true", help="vuelve a consultar aunque exista trabajo/meli/<GTIN>.json")
+    ap.add_argument("--guardar-catalogo", action="store_true", help="escribe el ID de catálogo encontrado por GTIN en product.json")
+    ap.add_argument("--solo-csv", action="store_true")
     ap.add_argument("--salida", default=os.path.join(ROOT, "data", "competencia_meli.csv"))
     a = ap.parse_args()
 
-    with open(os.path.join(ROOT, "data", "prioridad.csv"), encoding="utf-8") as fh:
-        gtins = [r["gtin"] for r in csv.DictReader(fh)]
+    gtins = [r["gtin"] for r in csv.DictReader(open(os.path.join(ROOT, "data", "prioridad.csv"), encoding="utf-8"))]
     if a.gtin:
         gtins = [g for g in gtins if g in set(a.gtin)]
     if a.limite:
         gtins = gtins[: a.limite]
+    propio = os.environ.get("ML_SELLER_ID", "")
 
-    ml = Meli(muestra=a.muestra)
-    own = os.environ.get("ML_SELLER_ID")
-    if not own:
-        me = ml.get("/users/me", etiqueta="users_me") or {}
-        own = str(me.get("id", ""))
-
-    previos = {}
+    filas = {}
     if os.path.exists(a.salida):
-        with open(a.salida, encoding="utf-8") as fh:
-            previos = {r["gtin"]: r for r in csv.DictReader(fh)}
+        filas = {r["gtin"]: r for r in csv.DictReader(open(a.salida, encoding="utf-8"))}
 
-    hoy = datetime.date.today().isoformat()
-    for n, g in enumerate(gtins, 1):
-        pj = os.path.join(ROOT, "products", g, "product.json")
-        prod = json.load(open(pj, encoding="utf-8"))
-        row = {k: "" for k in FIELDS}
-        row.update(gtin=g, fecha=hoy)
-        pid = ""
-        res = ml.get("/products/search", {"status": "active", "site_id": SITE, "product_identifier": g}, etiqueta=f"{g}_products_search") or {}
-        if ml.ultimo_status in (401, 403):
-            sys.exit(f"La API respondió {ml.ultimo_status} en /products/search: revisa el token, los permisos de la aplicación "
-                     "y que la red del entorno permita api.mercadolibre.com")
-        results = res.get("results") or []
-        if results:
-            pid = results[0].get("id", "")
-        if not pid:
-            pid = prod["marketplaces"]["mercadolibre"].get("catalogo_id", "")
-        items, bbw, metodo = [], None, ""
-        if pid:
-            row["producto_catalogo"] = pid
-            p = ml.get(f"/products/{pid}", etiqueta=f"{g}_product") or {}
-            bbw = p.get("buy_box_winner")
-            its = ml.get(f"/products/{pid}/items", etiqueta=f"{g}_product_items") or {}
-            items = [{"id": it.get("item_id"), "price": it.get("price"), "seller_id": it.get("seller_id"), "condition": it.get("condition", "new")}
-                     for it in its.get("results", [])]
-            if a.guardar_catalogo and prod["marketplaces"]["mercadolibre"].get("catalogo_id") != pid:
-                prod["marketplaces"]["mercadolibre"]["catalogo_id"] = pid
-                json.dump(prod, open(pj, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-            if a.fotos_catalogo:
-                bajas = [im for im in prod.get("imagenes", []) if im.get("lado_util", 9999) < 500]
-                if not prod.get("imagenes") or len(bajas) == len(prod["imagenes"]):
-                    urls = [pic.get("url") for pic in p.get("pictures", []) if pic.get("url")][:4]
-                    if urls:
-                        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "imagenes.py"), "fetch", g, "--origen", "catalogo_ml",
-                                        "--pagina", f"https://www.mercadolibre.com.mx/p/{pid}", *urls])
-        else:
-            s = ml.get(f"/sites/{SITE}/search", {"q": g, "limit": 50}, etiqueta=f"{g}_site_search") or {}
-            items = [{"id": it.get("id"), "price": it.get("price"), "seller_id": (it.get("seller") or {}).get("id"),
-                      "condition": it.get("condition", "new"), "sold_quantity": it.get("sold_quantity")} for it in s.get("results", [])]
-            metodo = "busqueda_relevancia" if items else ""
+    if a.solo_csv:
+        for g in gtins:
+            f = os.path.join(CRUDO, f"{g}.json")
+            if os.path.exists(f):
+                filas[g] = resumen(json.load(open(f, encoding="utf-8")), propio)
+        escribir(a.salida, filas)
+        print(f"{len(filas)} productos -> {os.path.relpath(a.salida, ROOT)}")
+        return
 
-        otros = precios_de(items, own)
-        if otros:
-            ids = [it["id"] for it in otros if it.get("id")]
-            if ids and not any(it.get("sold_quantity") for it in otros):
-                for i in range(0, len(ids), 20):
-                    det = ml.get("/items", {"ids": ",".join(ids[i:i + 20]), "attributes": "id,price,sold_quantity,seller_id"}, etiqueta=f"{g}_items") or []
-                    sold = {d["body"]["id"]: d["body"].get("sold_quantity") for d in det if isinstance(d, dict) and d.get("code") == 200}
-                    for it in otros:
-                        if it.get("id") in sold:
-                            it["sold_quantity"] = sold[it["id"]]
-            precios = [float(it["price"]) for it in otros]
-            row.update(publicaciones_otros=len(otros), precio_promedio_otros=round(statistics.mean(precios), 2),
-                       precio_min_otros=min(precios), precio_max_otros=max(precios))
-            con_ventas = [it for it in otros if it.get("sold_quantity")]
-            if con_ventas:
-                best = max(con_ventas, key=lambda it: it["sold_quantity"])
-                row.update(precio_mejor_vendedor=best["price"], item_mejor_vendedor=best["id"], metodo_mejor_vendedor="mayor_sold_quantity")
-            elif bbw and str(bbw.get("seller_id")) != str(own):
-                row.update(precio_mejor_vendedor=bbw.get("price"), item_mejor_vendedor=bbw.get("item_id"), metodo_mejor_vendedor="ganador_catalogo")
-            elif metodo:
-                row.update(precio_mejor_vendedor=otros[0]["price"], item_mejor_vendedor=otros[0]["id"], metodo_mejor_vendedor=metodo)
-        else:
-            row["nota"] = "sin publicaciones de otros vendedores" if (pid or items) else "sin resultados en la API"
-        previos[g] = row
-        if n % 25 == 0 or n == len(gtins):
-            os.makedirs(os.path.dirname(a.salida), exist_ok=True)
-            with open(a.salida, "w", encoding="utf-8", newline="") as fh:
-                w = csv.DictWriter(fh, fieldnames=FIELDS)
-                w.writeheader()
-                for r in previos.values():
-                    w.writerow({k: r.get(k, "") for k in FIELDS})
-            print(f"{n}/{len(gtins)} productos consultados -> {a.salida}")
+    ml = Meli()
+    if not propio:
+        _, me = ml.get("/users/me")
+        propio = str((me or {}).get("id", ""))
+    vend = Vendedores(ml)
+    pendientes = [g for g in gtins if a.forzar or not os.path.exists(os.path.join(CRUDO, f"{g}.json"))]
+    for g in gtins:
+        f = os.path.join(CRUDO, f"{g}.json")
+        if g not in pendientes and os.path.exists(f):
+            filas[g] = resumen(json.load(open(f, encoding="utf-8")), propio)
+    print(f"{len(pendientes)} productos por consultar ({len(gtins) - len(pendientes)} ya estaban en {os.path.relpath(CRUDO, ROOT)}/)")
+    hechos = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=a.hilos) as ex:
+        futuros = {ex.submit(consultar, ml, vend, g, a.descripciones, a.guardar_catalogo): g for g in pendientes}
+        for fu in concurrent.futures.as_completed(futuros):
+            g = futuros[fu]
+            try:
+                filas[g] = resumen(fu.result(), propio)
+            except SystemExit:
+                raise
+            except Exception as e:  # noqa: BLE001
+                print(f"{g}: error {e}")
+            hechos += 1
+            if hechos % 50 == 0 or hechos == len(pendientes):
+                escribir(a.salida, filas)
+                vend.guardar()
+                print(f"{hechos}/{len(pendientes)} consultados", flush=True)
+    escribir(a.salida, filas)
+    vend.guardar()
+    con = sum(1 for r in filas.values() if r.get("precio_mejor_vendedor") not in ("", None))
+    print(f"{len(filas)} productos en {os.path.relpath(a.salida, ROOT)}; {con} con precio de mejor vendedor")
 
 
 if __name__ == "__main__":

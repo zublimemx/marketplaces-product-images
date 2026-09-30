@@ -24,13 +24,24 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM26094708"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501033954085_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_779657-MLA99936658465_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM26094708",
+      "ancho_original": 489,
+      "alto_original": 1188,
+      "lado_final": 1165,
+      "lado_util": 1079,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501033954085_1.jpg",
       "origen": "tienda",
@@ -41,17 +52,6 @@
       "lado_final": 552,
       "fecha": "2026-09-29",
       "lado_util": 512
-    },
-    {
-      "archivo": "7501033954085_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://aws.farmasmart.com/app/uploads/2024/04/ENSURE-VAINILLA-1-FRASCO-237-ML-VAINILLA-FRASCO-ABBOTT-LABORATORIES-DE-MEXICO.-Disponible-en-Farmasmart.-Compra-en-linea-7501033954085.webp",
-      "pagina": "https://farmasmart.com/ensure-vainilla-1-frasco-237-ml",
-      "ancho_original": 700,
-      "alto_original": 700,
-      "lado_final": 601,
-      "fecha": "2026-09-29",
-      "lado_util": 557
     }
   ],
   "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",

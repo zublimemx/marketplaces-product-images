@@ -23,7 +23,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455892"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501095467264_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/170434/7501095467264.jpg?v=637935378876670000",
-      "pagina": "https://www.klyns.mx/sal-de-uvas-picot-50-sbs/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 920,
-      "fecha": "2026-09-29",
-      "lado_util": 854
+      "archivo": "7501095467264_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_641744-MLA87271988029_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455892",
+      "ancho_original": 458,
+      "alto_original": 1200,
+      "lado_final": 1182,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

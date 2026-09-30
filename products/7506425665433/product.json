@@ -5,7 +5,7 @@
   "nombre_sistema": "TAS HUM HUGG BLACK LABEL C/56 C8",
   "nombres_sistema_alternos": [],
   "titulo": "Toallitas Húmedas Huggies Black Label 56 Piezas",
-  "descripcion": "Descripción:\nLas Toallitas Húmedas Huggies Black Label son toallitas para bebé creadas para el cuidado delicado de pieles sensibles. Son hipoalergénicas y están elaboradas con fibras naturales que aportan suavidad y buena absorción. Este paquete contiene 56 toallitas.\n\nBeneficios:\n- Hipoalergénicas, para pieles sensibles.\n- Libres de parabenos, alcohol y fragancia.\n- Fibras naturales con mayor absorción y mejor arrastre.\n- Mayor suavidad.\n\nPresentación:\nPaquete con 56 toallitas húmedas. También se comercializa en caja con 8 paquetes de 56 toallitas (448 piezas), presentación distinta a la de esta ficha.",
+  "descripcion": "Descripción:\nHuggies Black Label es una toallita húmeda para bebé pensada para cuidar la piel sensible. Está elaborada con fibras naturales que aportan suavidad, buena absorción y mayor capacidad de arrastre en cada limpieza, y su fórmula es hipoalergénica y está dermatológicamente testeada. Este paquete individual contiene 56 toallitas.\n\nBeneficios:\n- Hipoalergénicas y aptas para piel sensible.\n- Dermatológicamente testeadas.\n- Libres de alcohol, fragancia y parabenos.\n- Fibras naturales que favorecen la absorción y el arrastre.\n- Suaves con la delicada piel del bebé.\n\nPresentación:\nPaquete con 56 toallitas húmedas, que se vende como una unidad. Las medidas aproximadas del paquete son 20 cm de alto, 9 cm de largo y 11 cm de ancho, y su peso aproximado es de 766 g. Esta publicación corresponde a un solo paquete; el diseño del empaque puede variar.",
   "ficha": {
     "marca": "Huggies",
     "fabricante": "Kimberly-Clark",
@@ -17,7 +17,7 @@
     "unidades_por_envase": 1,
     "edad_etapa": "Bebés",
     "tipo_piel_cabello": "Piel sensible",
-    "otros": "Hipoalergénicas; Libres de parabenos, alcohol y fragancia"
+    "otros": "Hipoalergénicas; Dermatológicamente testeadas; Libres de parabenos, alcohol y fragancia; Fibras naturales; Medidas del paquete: 20 x 9 x 11 cm; Formato de venta: Unidad"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -52,9 +52,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo abrir la ficha de catálogo (bloqueada) ni encontrar una ficha de tienda con este GTIN; la información sale de la ficha de la caja de 8 paquetes en Amazon y del título del catálogo. En el nombre del sistema 'C8' probablemente indica la caja de surtido; se tomó como paquete individual de 56 por el precio. El sitio oficial de Huggies México no lista esta toallita.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM61578605, 2026-09-29). Fuentes: catálogo ML MLM61578605 (origen gtin, 'Toallitas Humedas Huggies Black Label C/56pz', 56 unidades por envase, formato de venta unidad); descripción y ficha actuales. El catálogo confirma paquete individual de 56, así que se descarta la caja de 8. Peso (766 g) y medidas del paquete tomados del texto del catálogo; el atributo 'Cantidad de packs: 56' del catálogo parece un error y se ignoró. Sin modo de uso ni advertencias en las fuentes, secciones omitidas. La frase sobre el diseño del empaque es prudencia general, no dato de fuente (quitar si no se desea).",
     "notas_imagenes": "1 foto (tienda, listado de Uber Eats 'Huggies Black label toallas húmedas infantiles, 56 un'): 7506425665433_1.jpg, paquete individual de 56 toallitas de frente, fondo blanco, sin marcas de agua ni promociones; ~984 px de ancho útil. Resuelve la duda de la sesión 6: es el paquete individual de 56 y no la caja de 8. GTIN no confirmado en la página (identificado por nombre y conteo). Catálogo de Mercado Libre bloqueado por robots/verificación; Amazon solo tiene la caja de 448.",
     "fecha": "2026-09-29",
     "sesion": 6

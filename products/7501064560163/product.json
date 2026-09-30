@@ -17,7 +17,8 @@
     "principio_activo": "Salicilato de metilo, alcanfor, mentol, eucaliptol",
     "concentracion": "5% / 7% / 3% / 1%",
     "via_administracion": "Tópica",
-    "otros": "Analgésico rubefaciente; Uso en dolores musculares leves; Formato de venta: Frasco de 60 g"
+    "otros": "Analgésico rubefaciente; Uso en dolores musculares leves; Formato de venta: Frasco de 60 g; Venta libre (no requiere receta)",
+    "registro_sanitario": "157M85 SSA"
   },
   "receta_mx": "No",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45287669"
     },
     "amazon": {},
     "shopify": {},
@@ -51,9 +52,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El GTIN 7501064560163 corresponde a Iodex Cristal ungüento de 60 g en varias fichas y en el frasco. El nombre del sistema dice 'IODEX CRISTAL 24', sin unidad; no se encontró una presentación de 24 g, por eso la confianza es media. Porcentajes 5/7/3/1 tomados de las fichas y del frasco; GSK se lee en el envase.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM45287669, 2026-09-29). Catálogo MLM45287669 (Iodex Cristal ungüento, frasco de 60 g, GlaxoSmithKline México, salicilato de metilo 5, alcanfor 7, mentol 3, cineol 1, receta no requerida, registro 157M85 SSA). Coinciden marca, línea, 60 g, forma, principios activos y porcentajes (eucaliptol = cineol). Se agrega el registro y la venta libre. El '24' del nombre del sistema no aparece en el catálogo (describe una unidad) y sigue sin explicarse.",
     "notas_imagenes": "1 foto de tienda (frasco verde de 60 g, 1568 px) de Farmacias del Ahorro; las variantes _2 y _3 no existen en su servidor.",
     "fecha": "2026-09-29",
     "sesion": 4

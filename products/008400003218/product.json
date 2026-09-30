@@ -24,7 +24,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475136"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "008400003218_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw570c6829/images/large/8400003218_1.jpg",
-      "pagina": "https://www.yza.mx/obry-dex-solucion-oftalmica-3mg1mg-5ml/MXYZ_8400003218.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 924,
-      "fecha": "2026-09-29",
-      "lado_util": 856
+      "archivo": "008400003218_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_670013-MLA83041236102_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475136",
+      "ancho_original": 495,
+      "alto_original": 992,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -25,7 +25,7 @@
       "categoria_id": "MLM457819",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45356854"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501057005848_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasklyns.vtexassets.com/arquivos/ids/175441/7501057005848.jpg?v=638336991019200000",
-      "pagina": "https://www.klyns.mx/caladryl-clear-180-ml/p",
-      "ancho_original": 874,
-      "alto_original": 850,
-      "lado_final": 856,
-      "fecha": "2026-09-29",
-      "lado_util": 793
+      "archivo": "7501057005848_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_764887-MLA81834121433_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45356854",
+      "ancho_original": 393,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

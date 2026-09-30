@@ -26,7 +26,7 @@
       "categoria_id": "MLM189205",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM33069146"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,26 @@
   },
   "imagenes": [
     {
-      "archivo": "070942302289_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_1006285.jpg",
-      "pagina": "https://www.benavides.com.mx/gum-enjuague-bucal-paroexgingivitis-1-ud",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 859,
-      "fecha": "2026-09-29",
-      "lado_util": 796
+      "archivo": "070942302289_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_994117-MLA99338394418_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM33069146",
+      "ancho_original": 443,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "070942302289_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_651053-MLA93484893947_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM33069146",
+      "ancho_original": 369,
+      "alto_original": 722,
+      "lado_final": 706,
+      "lado_util": 654,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

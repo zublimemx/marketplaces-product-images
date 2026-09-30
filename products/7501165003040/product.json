@@ -27,13 +27,24 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45361983"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501165003040_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_625213-MLA116883193032_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45361983",
+      "ancho_original": 1200,
+      "alto_original": 1004,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501165003040_1.jpg",
       "origen": "fabricante",
@@ -55,6 +66,28 @@
       "lado_final": 924,
       "fecha": "2026-09-29",
       "lado_util": 855
+    },
+    {
+      "archivo": "7501165003040_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_615736-MLA118443141151_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45361983",
+      "ancho_original": 1200,
+      "alto_original": 1009,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501165003040_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_788226-MLA116650334113_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45361983",
+      "ancho_original": 1000,
+      "alto_original": 843,
+      "lado_final": 978,
+      "lado_util": 906,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.aderogyl.com.mx/productos/aderogyl-ampolletas",

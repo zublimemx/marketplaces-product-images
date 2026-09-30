@@ -24,13 +24,24 @@
       "categoria_id": "MLM457813",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "MLM457834",
-      "catalogo_id": ""
+      "catalogo_id": "MLM53197622"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501537102586_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_650602-MLA88972388883_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM53197622",
+      "ancho_original": 672,
+      "alto_original": 938,
+      "lado_final": 922,
+      "lado_util": 854,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501537102586_2.jpg",
       "origen": "tienda",
@@ -40,6 +51,17 @@
       "alto_original": 1024,
       "lado_final": 731,
       "lado_util": 677,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501537102586_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_839256-MLA88972123143_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM53197622",
+      "ancho_original": 540,
+      "alto_original": 734,
+      "lado_final": 721,
+      "lado_util": 668,
       "fecha": "2026-09-29"
     }
   ],

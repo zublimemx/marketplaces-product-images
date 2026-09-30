@@ -5,7 +5,7 @@
   "nombre_sistema": "TENA SLIP COMFORT GDE C/10",
   "nombres_sistema_alternos": [],
   "titulo": "Pañal para Adulto Tena Slip Comfort Talla G 10 Piezas",
-  "descripcion": "Descripción:\nTENA Slip Comfort son pañales para adulto unisex, en talla G (grande), con absorción rápida y eficaz, ideales para la incontinencia urinaria en el adulto mayor. Combinan gel súper absorbente, doble barrera anti-escurrimiento y cintas ajustables al frente y atrás para un ajuste cómodo y seguro.\n\nCaracterísticas:\n- Gel súper absorbente que neutraliza el mal olor de la orina y mantiene la piel seca\n- Absorción más rápida\n- Doble barrera anti-escurrimiento\n- Cubierta suave tipo tela\n- Elásticos y cintas ajustables al frente y atrás\n- Fácil de poner y quitar a personas con nula movilidad\n\nPresentación:\nPaquete con 10 piezas, talla G (grande).",
+  "descripcion": "Descripción:\nTENA Slip Comfort es un pañal para adulto con cintas adhesivas, unisex, en talla G (grande), pensado para la incontinencia urinaria abundante en el adulto mayor. Ofrece una absorción más rápida gracias a su gel súper absorbente y combina doble zona absorbente, doble barrera anti-escurrimiento y una cubierta suave tipo tela para brindar comodidad y protección durante todo el día.\n\nBeneficios:\n- Absorción más rápida, con gel súper absorbente que ayuda a neutralizar el olor y a mantener la piel seca\n- Doble zona absorbente y doble barrera anti-escurrimiento para una protección más segura\n- Cubierta suave tipo tela y materiales respirables\n- Cintas ajustables y elásticos al frente y atrás para un ajuste cómodo\n- Corte anatómico, libre de látex y desechable\n- Fácil de colocar y retirar, incluso en personas con nula movilidad\n\nPresentación:\nPaquete con 10 piezas, talla G (grande).\n\nAdvertencias:\n- Producto desechable, de un solo uso.\n- Consulte a un profesional de la salud si presenta irritación en la piel o si necesita orientación sobre el nivel de absorción que requiere.\n- Mantenga el producto fuera del alcance de los niños.",
   "ficha": {
     "marca": "TENA",
     "fabricante": "Essity",
@@ -17,7 +17,7 @@
     "unidades_por_envase": 10,
     "talla": "G (Grande)",
     "genero": "Unisex",
-    "otros": "Tipo: pañal para adulto con cintas adhesivas; Cubierta tipo tela"
+    "otros": "Tipo: pañal para adulto con cintas adhesivas; Absorción: abundante; Cubierta tipo tela; Gel súper absorbente; Doble zona absorbente; Doble barrera anti-escurrimiento; Libre de látex; Desechable"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM194512",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM15995535"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,17 @@
       "lado_final": 1168,
       "fecha": "2026-09-29",
       "lado_util": 1082
+    },
+    {
+      "archivo": "7501019051647_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_976474-MLA99415027354_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM15995535",
+      "ancho_original": 848,
+      "alto_original": 1106,
+      "lado_final": 1086,
+      "lado_util": 1006,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.tena.com.mx/tena-slip-comfort/p",
@@ -53,7 +64,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN 7501019051647 confirmado en el sitio oficial como talla G de 10 piezas (la M es 7501019051630).",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM15995535, 2026-09-29). Catálogo ML MLM15995535 (origen gtin): Tena Slip Comfort talla G, 10 unidades; coincide con el título. Fuentes: catálogo (absorción más rápida, gel, doble barrera, doble zona absorbente, cubierta tipo tela, cintas ajustables, materiales respirables, intensidad abundante, anatómico, libre de látex) y descripción actual (adulto mayor, nula movilidad). Se ignoraron 'Peso mínimo/máximo: 0 kg' del catálogo. Sin modo de uso en las fuentes.",
     "notas_imagenes": "1 foto del sitio oficial (1200 px, frente del empaque); se descartaron 2 imágenes con texto promocional.",
     "fecha": "2026-09-29",
     "sesion": 4

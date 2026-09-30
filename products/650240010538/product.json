@@ -24,7 +24,7 @@
       "categoria_id": "MLM194695",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455762"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,39 @@
       "lado_final": 1387,
       "fecha": "2026-09-29",
       "lado_util": 1285
+    },
+    {
+      "archivo": "650240010538_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_832795-MLA97639837348_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455762",
+      "ancho_original": 1200,
+      "alto_original": 996,
+      "lado_final": 1171,
+      "lado_util": 1085,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240010538_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_897202-MLA106363035884_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455762",
+      "ancho_original": 1200,
+      "alto_original": 865,
+      "lado_final": 1176,
+      "lado_util": 1089,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "650240010538_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_875851-MLA106363305448_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455762",
+      "ancho_original": 1200,
+      "alto_original": 831,
+      "lado_final": 1178,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

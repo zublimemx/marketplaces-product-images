@@ -26,7 +26,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170669"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7503007704597_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw2fa82080/images/large/7503007704597_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/hidrasec-100mg-9-caps/MXYZ_7503007704597.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 824,
-      "fecha": "2026-09-29",
-      "lado_util": 760
+      "archivo": "7503007704597_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_865211-MLU78661596316_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170669",
+      "ancho_original": 990,
+      "alto_original": 740,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7503007704597_3.jpg",

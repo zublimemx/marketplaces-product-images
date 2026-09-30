@@ -154,6 +154,10 @@ def _dinero(v):
     return f"${v:,.2f}"
 
 
+RECHAZADOS = ({r["gtin"]: r for r in csv.DictReader(open(os.path.join(ROOT, "data", "catalogo_ml_rechazados.csv"), encoding="utf-8"))}
+              if os.path.exists(os.path.join(ROOT, "data", "catalogo_ml_rechazados.csv")) else {})
+
+
 def pendientes(p, imgs, pr, stock, cfg_pend, cfg_precios):
     """Lista de pendientes, errores y mejoras del producto: [{"c": código, "d": detalle}]. Catálogo en config/pendientes.json."""
     u = cfg_pend["umbrales"]
@@ -199,6 +203,9 @@ def pendientes(p, imgs, pr, stock, cfg_pend, cfg_precios):
         add("receta", "Las fuentes no coinciden sobre si requiere receta; confirmar la condición de venta" + (f". Categoría con receta sugerida: {rx}" if rx else ""))
     if stock <= 0:
         add("sin_existencia", "Se publicaría con 0 piezas")
+    rech = RECHAZADOS.get(p["gtin"])
+    if rech:
+        add("catalogo_ml_rechazado", f"{rech['motivo']} ({rech['producto_catalogo']}). No se usan sus precios ni sus fotos; confirmar el GTIN en el empaque o buscar el catálogo correcto")
     if pr["precio_mejor_vendedor"] is None:
         add("sin_mejor_vendedor", f"Mientras no se tenga, se publica al Precio Meli calculado ({_dinero(pr['precio_meli_calculado'])})")
 

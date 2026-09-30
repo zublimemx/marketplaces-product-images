@@ -119,7 +119,7 @@ Reglas en `config/indicadores.json` (cámbialas ahí y regenera los datos):
 | Fotos | buena / regular / mala | Buena: 2 fotos o más y la principal con el producto de 800 px o más, sin fondo gris. Regular: alguna foto con el producto de 500 px o más. Mala: sin fotos o todas más chicas. |
 | Precios | completos / incompletos | Completos cuando se conocen el precio de venta al público, el precio de la publicación más vendida en Mercado Libre y el precio Meli calculado (con comisión y costo de empaque y logística). |
 
-Mientras no se corra `scripts/meli_precios.py` con credenciales de la API, todos los productos salen con precios incompletos (falta el precio del mejor vendedor) y se publican al Precio Meli calculado. Con ese precio, el Precio Meli final = mejor vendedor − $1 si no queda abajo del calculado; si no, el calculado.
+El precio del mejor vendedor sale de `scripts/meli_precios.py` (`data/competencia_meli.csv`, 1,024 productos el 29 sep 2026). Sin él, el producto tiene precios incompletos y se publica al Precio Meli calculado; con él, el Precio Meli final = mejor vendedor − $1 si no queda abajo del calculado; si no, el calculado.
 
 ## Regenerar los datos
 
@@ -130,7 +130,7 @@ python scripts/build_visor.py
 ```
 
 - Precios y existencias: `insumos/precios_existencias.csv` si existe; si no, las hojas Precios y Layout del layout versionado `layouts/mercadolibre/layout_mercadolibre.xlsx`.
-- Competencia: `insumos/competencia_meli.csv` si existe (salida de `scripts/meli_precios.py`).
+- Competencia: `data/competencia_meli.csv` (salida de `scripts/meli_precios.py`); catálogos rechazados: `data/catalogo_ml_rechazados.csv` (pendiente «El GTIN apunta a otro producto en Mercado Libre»).
 - La detección de fondo gris (`scripts/revisar_fotos.py`) se guarda en caché en `trabajo/cache_fondo_fotos.json`; la primera corrida tarda más.
 - `--base-imagenes` cambia la ruta de las fotos vista desde `visor/index.html` (por omisión `../products`); sirve, por ejemplo, para apuntar a `https://raw.githubusercontent.com/zublimemx/marketplaces-product-images/main/products` si se publica el visor fuera del repositorio.
 

@@ -28,24 +28,13 @@
       "categoria_id": "MLM457812",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM72213207"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501007535487_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20250124_791733.jpg",
-      "pagina": "https://www.benavides.com.mx/motrin-pediatrico-40-mg1ml-ibuprofeno-suspension-15-ml",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 415
-    },
     {
       "archivo": "7501007535487_2.jpg",
       "origen": "fabricante",
@@ -56,6 +45,28 @@
       "lado_final": 1010,
       "fecha": "2026-09-29",
       "lado_util": 932
+    },
+    {
+      "archivo": "7501007535487_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_898807-MLA112755483811_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM72213207",
+      "ancho_original": 443,
+      "alto_original": 1188,
+      "lado_final": 1166,
+      "lado_util": 1080,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501007535487_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_948312-MLA112754776923_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM72213207",
+      "ancho_original": 510,
+      "alto_original": 894,
+      "lado_final": 879,
+      "lado_util": 814,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.motrin.com.mx/productos/motrin-pediatrico",

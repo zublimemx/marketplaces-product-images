@@ -25,7 +25,7 @@
       "categoria_id": "MLM191692",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18985308"
     },
     "amazon": {},
     "shopify": {},
@@ -33,26 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546059006_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546059006-1.jpg",
-      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/spray-caprice-color-brillante-316ml",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 757,
-      "fecha": "2026-09-29",
-      "lado_util": 701
-    },
-    {
-      "archivo": "7509546059006_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546059006-2.jpg",
-      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/spray-caprice-color-brillante-316ml",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 668,
-      "fecha": "2026-09-29",
-      "lado_util": 619
+      "archivo": "7509546059006_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_610565-MLA109735277452_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18985308",
+      "ancho_original": 274,
+      "alto_original": 1074,
+      "lado_final": 1056,
+      "lado_util": 978,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

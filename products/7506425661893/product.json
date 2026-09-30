@@ -25,7 +25,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM44119480"
     },
     "amazon": {},
     "shopify": {},
@@ -44,15 +44,26 @@
       "lado_util": 658
     },
     {
-      "archivo": "7506425661893_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/332728/332728_02.webp?v=c594aec3",
-      "pagina": "https://www.heb.com.mx/panales-movilastic-xjumbo-con-40-pz-683079/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 703,
-      "fecha": "2026-09-29",
-      "lado_util": 651
+      "archivo": "7506425661893_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_844115-MLA85266759805_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44119480",
+      "ancho_original": 1200,
+      "alto_original": 755,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425661893_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_662661-MLA85266759819_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44119480",
+      "ancho_original": 599,
+      "alto_original": 1200,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

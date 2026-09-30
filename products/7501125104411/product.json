@@ -27,24 +27,13 @@
       "categoria_id": "MLM431865",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Rehidratantes Orales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM45287504"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501125104411_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://electrolit.com.mx/wp-content/uploads/2026/07/coco.png",
-      "pagina": "https://electrolit.com.mx/",
-      "ancho_original": 512,
-      "alto_original": 512,
-      "lado_final": 552,
-      "fecha": "2026-09-29",
-      "lado_util": 437
-    },
     {
       "archivo": "7501125104411_2.jpg",
       "origen": "tienda",
@@ -55,6 +44,17 @@
       "lado_final": 1183,
       "fecha": "2026-09-29",
       "lado_util": 1096
+    },
+    {
+      "archivo": "7501125104411_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_612317-MLA81773600513_012025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM45287504",
+      "ancho_original": 379,
+      "alto_original": 992,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://electrolit.com.mx/",

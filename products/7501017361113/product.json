@@ -5,7 +5,7 @@
   "nombre_sistema": "PLO KLEENEX C/180",
   "nombres_sistema_alternos": [],
   "titulo": "Pañuelos Desechables Kleenex Hoja Doble 180 Piezas",
-  "descripcion": "Descripción:\nPañuelos desechables Kleenex de hoja doble, resistentes y absorbentes, en caja con 180 piezas. Están diseñados para la limpieza de nariz, rostro y manos, y su caja con diseño decorativo es ideal para tener a la mano en casa, escuela u oficina.\n\nCaracterísticas:\n- Hoja doble para un buen rendimiento, con la suavidad y resistencia que caracterizan a la marca.\n- Ligeros y suaves al tacto.\n- Cada pañuelo mide 21.5 x 21.0 cm.\n- Caja con diseño decorativo (el diseño puede variar).\n\nPresentación:\nCaja con 180 pañuelos desechables.",
+  "descripcion": "Descripción:\nLos pañuelos desechables Kleenex de hoja doble son resistentes, absorbentes y suaves al tacto, pensados para la limpieza de la nariz, el rostro y las manos. Se presentan en una caja con 180 piezas y diseño decorativo, práctica para tener a la mano en casa, en la escuela o en la oficina, ideal para cualquier espacio.\n\nBeneficios:\n- Hoja doble para un buen rendimiento, con la suavidad y la resistencia que caracterizan a la marca.\n- Ligeros y suaves al tacto.\n- Absorbentes, para el uso cotidiano.\n- Cada pañuelo mide 21.5 x 21.0 cm.\n- Desechables, para un uso higiénico.\n\nModo de uso:\nTome un pañuelo de la caja, utilícelo para la limpieza de la nariz, el rostro o las manos y deséchelo después de usarlo.\n\nPresentación:\nCaja con 180 pañuelos desechables de hoja doble, de la marca Kleenex, que se vende como una unidad. El diseño decorativo de la caja puede variar entre lotes.",
   "ficha": {
     "marca": "Kleenex",
     "fabricante": "Kimberly-Clark",
@@ -21,7 +21,7 @@
       "categoria_id": "MLM191697",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Pañuelos Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM23142359"
     },
     "amazon": {},
     "shopify": {},
@@ -38,6 +38,17 @@
       "lado_final": 1950,
       "lado_util": 1806,
       "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501017361113_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_603959-MLA88531838918_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM23142359",
+      "ancho_original": 1147,
+      "alto_original": 603,
+      "lado_final": 1115,
+      "lado_util": 1033,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -49,7 +60,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El diseño de la caja puede variar entre lotes.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM23142359, 2026-09-29). Fuentes: catálogo ML MLM23142359 (origen gtin, Kleenex doble hoja 180 piezas; solo dice suavidad, resistencia y doble hoja) y descripción de otro vendedor (idéntica al catálogo); descripción y ficha actuales (medidas 21.5 x 21.0 cm, uso, diseño de caja variable según investigación). Datos reales muy escasos (sin modo de uso, ingredientes ni advertencias en las fuentes); el modo de uso es una redacción genérica derivada de 'desechables' y de su uso en nariz, rostro y manos. No se agregaron datos para completar. Ficha sin cambios.",
     "notas_imagenes": "1 foto de frente de la caja (1950 px), de una tienda departamental; sin marcas de agua.",
     "fecha": "2026-09-29",
     "sesion": 7

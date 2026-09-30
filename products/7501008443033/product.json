@@ -24,7 +24,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455662"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501008443033_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw5220a89e/images/large/7501008443033_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/alka-seltzer-500mg-12-tabs/MXYZ_7501008443033.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1035,
-      "fecha": "2026-09-29",
-      "lado_util": 959
+      "archivo": "7501008443033_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_692007-MLA88129825469_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455662",
+      "ancho_original": 993,
+      "alto_original": 698,
+      "lado_final": 974,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501008443033_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_756582-MLA98191319828_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455662",
+      "ancho_original": 1200,
+      "alto_original": 908,
+      "lado_final": 1294,
+      "lado_util": 1198,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

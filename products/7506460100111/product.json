@@ -24,7 +24,7 @@
       "categoria_id": "MLM167992",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM18978726"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7506460100111_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7506460100111_1_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1000&width=1000&canvas=1000:1000",
-      "pagina": "https://www.fahorro.com/condones-sin-latex-sico-piel-con-piel-3-pz.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1728,
-      "fecha": "2026-09-29",
-      "lado_util": 1600
+      "archivo": "7506460100111_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_884901-MLA82276813237_022025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM18978726",
+      "ancho_original": 963,
+      "alto_original": 1200,
+      "lado_final": 1176,
+      "lado_util": 1089,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

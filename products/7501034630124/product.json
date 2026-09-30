@@ -15,11 +15,12 @@
     "contenido_neto": 60,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 60,
-    "principio_activo": "Empagliflozina y metformina",
-    "concentracion": "12.5 mg/850 mg",
+    "principio_activo": "Empagliflozina y clorhidrato de metformina",
+    "concentracion": "Empagliflozina 12.5 mg / Clorhidrato de metformina 850 mg",
     "via_administracion": "Oral",
     "edad_etapa": "Adultos",
-    "otros": "Venta con receta médica; Uso: Diabetes mellitus tipo 2; Formato de venta: Caja"
+    "otros": "Venta con receta médica; Uso: Diabetes mellitus tipo 2; Formato de venta: Caja; Receta simple; Fracción IV",
+    "registro_sanitario": "432M2015 SSA"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -27,24 +28,13 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40169652"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
-    {
-      "archivo": "7501034630124_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://cdn.gdar.com.mx/archivos/Jardianz-Duo-12.5-Mg850-Mg-60-Tabletas-7501034630124-638866460764522978-1.jpg",
-      "pagina": "https://storeboehringer.com/jardianz",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 648,
-      "fecha": "2026-09-29",
-      "lado_util": 600
-    },
     {
       "archivo": "7501034630124_2.jpg",
       "origen": "tienda",
@@ -55,6 +45,28 @@
       "lado_final": 1544,
       "fecha": "2026-09-29",
       "lado_util": 1429
+    },
+    {
+      "archivo": "7501034630124_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_848804-MLA86297530058_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40169652",
+      "ancho_original": 728,
+      "alto_original": 992,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501034630124_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_644765-MLA86615509445_062025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40169652",
+      "ancho_original": 693,
+      "alto_original": 1018,
+      "lado_final": 1000,
+      "lado_util": 926,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://storeboehringer.com/jardianz",
@@ -64,9 +76,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). La tienda de Boehringer confirma Jardianz Duo 12.5 mg/850 mg en presentaciones de 30 y 60 tabletas y que exige receta válida, pero no muestra composición ni advertencias: la composición (empagliflozina y metformina) y las advertencias son las de la combinación empagliflozina/metformina, confirmar con el instructivo. Registro sanitario pendiente. Categoría de venta libre por instrucción del dueño; se eligió Digestivos y Metabólicos igual que otros Jardianz del lote 1.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM40169652, 2026-09-29). Comparado: marca Jardianz Duo, laboratorio Boehringer Ingelheim Promeco, tabletas, 60 por caja, empagliflozina 12.5 mg + metformina clorhidrato 850 mg. Todo coincide; el catálogo confirma la composición, que antes se asumía. Aporta registro 432M2015 SSA, ATC A10BD20, receta requerida (simple) y fracción IV, consistente con 'Venta con receta médica' de la ficha (la categoría de venta libre fue decisión del dueño y contradice la receta requerida). 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos: caja Jardianz Duo 12.5/850 mg 60 tabletas de la tienda oficial de Boehringer (storeboehringer.com, 1000 px, vista 3/4) y de frente de Farmacias del Ahorro (1600 px)."
   }

@@ -5,7 +5,7 @@
   "nombre_sistema": "TERMOMETRO DIGITAL NEUTEK",
   "nombres_sistema_alternos": [],
   "titulo": "Termómetro Digital Neutek MT-201C a Prueba de Agua",
-  "descripcion": "Descripción:\nTermómetro digital Neutek modelo MT-201C, de diseño compacto y ligero, a prueba de agua. Está fabricado con material hipoalergénico y es una opción práctica para tener en el botiquín del hogar o llevar de viaje para medir la temperatura corporal.\n\nCaracterísticas:\n- Termómetro digital con pantalla de lectura\n- Diseño compacto y ligero\n- A prueba de agua\n- Fabricado con material hipoalergénico\n- Para uso en casa y para viaje\n- Se vende en estuche individual (1 pieza)\n\nModo de uso:\nSiga las instrucciones del instructivo incluido en el empaque para colocar el termómetro y leer la temperatura.\n\nPresentación:\nCaja con 1 termómetro digital.\n\nAdvertencias:\nLimpie y desinfecte el termómetro antes y después de cada uso. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nTermómetro digital Neutek modelo MT-201C, a prueba de agua, de diseño compacto y ligero. Sirve para medir la temperatura corporal por vía axilar u oral, con una lectura rápida en una pantalla LCD grande y retroiluminada. Es una opción práctica para tener en el botiquín del hogar o llevar de viaje.\n\nBeneficios:\n- Resistente al agua, con funda protectora incluida.\n- Medición rápida, con pantalla LCD de gran tamaño y retroiluminada.\n- Alarma de temperatura.\n- Apagado automático e indicador de batería baja.\n- Batería reemplazable, incluida en el empaque.\n- Fabricado con material hipoalergénico.\n\nModo de uso:\nSiga las instrucciones del instructivo incluido en el empaque para colocar el termómetro y leer la temperatura.\n\nPresentación:\nCaja con 1 termómetro digital blanco, con funda protectora y batería.\n\nAdvertencias:\nLimpie y desinfecte el termómetro antes y después de cada uso. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Neutek",
     "fabricante": "Neutek",
@@ -14,7 +14,7 @@
     "contenido_neto": 1,
     "unidad_contenido": "pieza",
     "unidades_por_envase": 1,
-    "otros": "Modelo: MT-201C; Tipo: digital; A prueba de agua; Material hipoalergénico; Uso: casa y viaje"
+    "otros": "Modelo: MT-201C; Tipo: digital; Zona de aplicación: axilar u oral; A prueba de agua; Con alarma; Pantalla LCD retroiluminada; Apagado automático; Indicador de batería baja; Batería reemplazable incluida; Incluye funda protectora; Color: blanco; Material hipoalergénico; Uso: casa y viaje"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,7 +22,7 @@
       "categoria_id": "MLM178505",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Termómetros Digitales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM27967092"
     },
     "amazon": {},
     "shopify": {},
@@ -73,7 +73,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Las fichas no publican rango, precisión ni tipo de batería; no se anotaron.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM27967092, 2026-09-29). Fuentes: catálogo ML MLM27967092 (origen gtin, Neutek MT 201C: alarma, pantalla retroiluminada, resistente al agua, funda y batería incluidas, color blanco, zona axila) y descripción de otro vendedor (idéntica al catálogo: axilar u oral, auto-apagado, indicador de batería); descripción y ficha actuales (material hipoalergénico, uso casa y viaje, limpieza). Sin rango, precisión ni tipo de batería en las fuentes, no se anotan. El catálogo dice 'axila' y el texto dice 'axilar u oral'; se usó 'axilar u oral' y se remite al instructivo. Sin memoria de temperatura (catálogo), no se menciona.",
     "notas_imagenes": "3 fotos de tienda (caja de frente y termómetro, entre 649 y 1634 px). Se borró una foto chica del reverso de la caja.",
     "fecha": "2026-09-29",
     "sesion": 6

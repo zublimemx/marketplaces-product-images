@@ -23,7 +23,7 @@
       "categoria_id": "MLM167988",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25809532"
     },
     "amazon": {},
     "shopify": {},
@@ -39,6 +39,39 @@
       "alto_original": 2000,
       "lado_final": 1945,
       "lado_util": 1801,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501006711387_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_864085-MLA99833211575_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25809532",
+      "ancho_original": 297,
+      "alto_original": 926,
+      "lado_final": 906,
+      "lado_util": 839,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501006711387_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_923792-MLA99833093135_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25809532",
+      "ancho_original": 295,
+      "alto_original": 976,
+      "lado_final": 957,
+      "lado_util": 886,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501006711387_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_663066-MLA99833162289_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25809532",
+      "ancho_original": 327,
+      "alto_original": 976,
+      "lado_final": 957,
+      "lado_util": 887,
       "fecha": "2026-09-29"
     }
   ],

@@ -24,7 +24,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17017563"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546056432_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/PV-7509546056432-1.jpg",
-      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/desodorante-sped-stick-adn-gel-85gr",
-      "ancho_original": 1200,
-      "alto_original": 1200,
-      "lado_final": 1058,
-      "fecha": "2026-09-29",
-      "lado_util": 980
+      "archivo": "7509546056432_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_740527-MLA99928150353_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17017563",
+      "ancho_original": 640,
+      "alto_original": 1173,
+      "lado_final": 1153,
+      "lado_util": 1068,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

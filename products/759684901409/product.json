@@ -5,7 +5,7 @@
   "nombre_sistema": "JALOMA SUPER PUNCH 250ML FIJADOR",
   "nombres_sistema_alternos": [],
   "titulo": "Fijador de Cabello Jaloma Super Punck 250 ml",
-  "descripcion": "Descripción:\nFijador de cabello en spray Jaloma Super Punck de 250 ml, con megafijación. Está diseñado para realzar peinados casuales o deportivos con mayor intensidad, durabilidad y brillo. Su frasco con atomizador permite aplicarlo de forma práctica sobre el cabello para mantener el peinado en su lugar.\n\nBeneficios:\n- Mayor intensidad de fijación en el peinado\n- Peinado de larga duración\n- Efecto brillante\n- Ideal para looks casuales o deportivos\n\nModo de uso:\nAplique sobre el cabello húmedo. Reparta el producto y acomode con los dedos, peine o cepillo antes de dejar secar de forma natural.\n\nPresentación:\nFrasco atomizador con 250 ml.",
+  "descripcion": "Descripción:\nFijador de cabello en spray Jaloma Super Punck, de la línea Megafijación, en frasco atomizador de 250 ml. Está diseñado para realzar peinados casuales o deportivos con mayor intensidad de fijación, mayor duración y brillo, sin maltratar el cabello y sin dejar residuos blancos. Es dermatológicamente probado y de fórmula vegana.\n\nBeneficios:\n- Megafijación: mayor intensidad para mantener el peinado en su lugar\n- Peinado de larga duración\n- Efecto brillante\n- No maltrata el cabello y no deja residuos blancos\n- Dermatológicamente probado, vegano y libre de gluten\n- Ideal para looks casuales o deportivos\n\nModo de uso:\nAplique sobre el cabello húmedo, reparta el producto y acomode con los dedos, peine o cepillo; deje secar de forma natural.\n\nPresentación:\nFrasco atomizador con 250 ml.\n\nAdvertencias:\n- Producto de uso externo para el cabello.\n- Lea las precauciones que aparecen en el envase y manténgalo fuera del alcance de los niños.",
   "ficha": {
     "marca": "Jaloma",
     "linea": "Super Punck",
@@ -14,7 +14,7 @@
     "contenido_neto": 250,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Tipo de producto: fijador de cabello en spray; Uso: peinados casuales o deportivos"
+    "otros": "Tipo de producto: fijador de cabello en spray; Uso: peinados casuales o deportivos; No maltrata el cabello ni deja residuos blancos; Dermatológicamente probado; Vegano; Libre de gluten"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -39,6 +39,17 @@
       "lado_final": 1327,
       "fecha": "2026-09-29",
       "lado_util": 1229
+    },
+    {
+      "archivo": "759684901409_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_640391-MLU78257949420_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19504353",
+      "ancho_original": 1200,
+      "alto_original": 1200,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://jaloma.com.mx/product/fijador-de-cabello-super-punck-250-ml/",
@@ -48,9 +59,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El nombre del sistema dice 'Super Punch' pero la marca lo escribe 'Super Punck'. El sitio oficial no publica ingredientes ni GTIN; el GTIN solo apareció en un listado mayorista (260 ml x24), por eso se identificó por nombre. catalogo_ml corresponde al fijador Super Punck 250 ml de Jaloma; verificar el GTIN al publicar.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM19504353, 2026-09-29). Catálogo ML MLM19504353 (origen gtin): Fijador de cabello Super Punck 250 ml Jaloma (megafijación, spray); coincide con el título, y con eso queda respaldado el GTIN que la investigación no había podido confirmar en el sitio oficial. Fuentes: catálogo (250 ml, no maltrata, sin residuos blancos, dermatológicamente testeado, vegano, libre de gluten) y descripción actual (peinados casuales o deportivos, modo de uso). No se agregó fabricante (no está en las fuentes).",
     "notas_imagenes": "1 foto de frente del sitio oficial de Jaloma (1000 px). No hay más ángulos publicados.",
     "fecha": "2026-09-29",
     "sesion": 5

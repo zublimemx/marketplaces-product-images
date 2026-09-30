@@ -45,7 +45,9 @@ Columnas `gtin,precio,stock,linea,nombre,nota_cruce`, en el orden de `data/prior
 
 ## 4 bis. Competencia (`data/competencia_meli.csv`, versionado)
 
-Salida de `scripts/meli_precios.py` (antes en `insumos/`; los scripts aún leen esa ruta si falta la nueva): `gtin, producto_catalogo, publicaciones_otros, precio_promedio_otros, precio_min_otros, precio_max_otros, precio_mejor_vendedor, item_mejor_vendedor, metodo_mejor_vendedor, fecha, nota`. `metodo_mejor_vendedor`: `mayor_sold_quantity`, `ganador_catalogo` o `busqueda_relevancia`. El layout lo lee automáticamente.
+Salida de `scripts/meli_precios.py` (antes en `insumos/`; los scripts aún leen esa ruta si falta la nueva): `gtin, producto_catalogo, nombre_catalogo, publicaciones_otros, precio_promedio_otros, precio_mediana_otros, precio_min_otros, precio_max_otros, publicaciones_atipicas, precio_mejor_vendedor, item_mejor_vendedor, vendedor_mejor, ventas_vendedor_mejor, metodo_mejor_vendedor, fecha, nota`. `metodo_mejor_vendedor`: `vendedor_con_mas_ventas` (la API ya no da ventas por publicación). `nota` explica las filas sin precios. Layout y visor leen solo `precio_promedio_otros`, `precio_mejor_vendedor` y `metodo_mejor_vendedor`. Reglas en `docs/MERCADOLIBRE_API.md`.
+
+**Catálogos rechazados (`data/catalogo_ml_rechazados.csv`, versionado):** `gtin, producto_catalogo, nombre_catalogo, tipo, motivo, fecha`, con `tipo` = `otro_producto` u `otra_presentacion`. El catálogo de Mercado Libre que corresponde al GTIN no es el producto: `meli_precios.py` no lo usa (la fila de competencia queda sin precios, con `nota` = `catálogo rechazado (…): <motivo>`), `aplicar_revision_ml.py` quita el `catalogo_id` de `product.json` y, si es otro producto, sus fotos `catalogo_ml`, y el visor marca el pendiente `catalogo_ml_rechazado`.
 
 ## 4 ter. Revisión de fotos (`trabajo/revision_fotos.csv`, no versionado)
 
@@ -110,3 +112,12 @@ Datos que usa en `productos.js`: `meli` (`encabezados`, `encabezados_aux`, `fich
 ## 12. Costos de envío estimados (`data/envios.csv`, versionado)
 
 `gtin, peso_real_kg, peso_volumetrico_kg, peso_cobrable_kg, tamano (chico/mediano/grande), costo_envio, base`. Lo escribe `python scripts/envios.py` (para revisión); el layout y el visor calculan lo mismo con `envios.estimar()`.
+
+## 13. Revisión del catálogo de Mercado Libre (`trabajo/revision_fotos_ml/`, `trabajo/descripciones_ml/`, no versionados)
+
+Los prepara `scripts/preparar_revision_ml.py`, los llenan subagentes con `docs/agentes/revision_ml.md` y los aplica `scripts/aplicar_revision_ml.py`.
+
+- `revision_fotos_ml/indice.json`: `{gtin: {hoja, titulo, presentacion, imagenes: [{n, archivo, origen}]}}`; hojas `hoja_NNN.jpg`.
+- `revision_fotos_ml/resultado_XX.json`: `{"revisadas": [hojas], "quitar": [{gtin, archivo, motivo}], "principal": [{gtin, archivo}]}`. Se borra cada foto de `quitar` (archivo y registro en `imagenes`) y la `principal` pasa al frente.
+- `descripciones_ml/lote_dXX.json` (reescribir descripción) y `lote_cXX.json` (solo confirmar): `gtin, titulo, nombre_sistema, receta_mx, categoria, investigacion {estado, confianza, notas}, catalogo_ml {id, origen, nombre, caracteristicas, descripcion_corta, atributos}, descripciones_otros_vendedores, [descripcion_actual], ficha_actual`.
+- `descripciones_ml/resultado_dXX.json` y `resultado_cXX.json`: arreglo en el orden del lote con `gtin, confirmado, diferencias, notas` y opcionales `descripcion`, `ficha` (solo claves que cambian; `otros` completo), `titulo` (≤ 60). Al aplicar: `confirmado` = true deja `investigacion` en `verificado`, confianza `alta`, `encontrado_por` `gtin` y `notas` = "GTIN confirmado en el catálogo de Mercado Libre (<ID>, <fecha>). <notas>"; si es false, agrega a las notas anteriores "Catálogo de Mercado Libre <ID> no coincide: <diferencias>" y las notas nuevas.

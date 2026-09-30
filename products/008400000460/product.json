@@ -25,7 +25,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39474924"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,28 @@
       "lado_final": 1183,
       "fecha": "2026-09-29",
       "lado_util": 1095
+    },
+    {
+      "archivo": "008400000460_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_995436-MLU78656540697_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474924",
+      "ancho_original": 497,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "008400000460_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_785485-MLA87285995489_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474924",
+      "ancho_original": 488,
+      "alto_original": 1015,
+      "lado_final": 996,
+      "lado_util": 923,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -36,6 +36,7 @@
     "receta": {"tipo": "pendiente", "titulo": "Podría requerir receta", "accion": "Revisar con el dueño"},
     "sin_existencia": {"tipo": "pendiente", "titulo": "Sin existencia", "accion": "Revisar con el dueño"},
     "sin_mejor_vendedor": {"tipo": "pendiente", "titulo": "Falta el precio del mejor vendedor", "accion": "Completar precios"},
+    "catalogo_ml_rechazado": {"tipo": "pendiente", "titulo": "El GTIN apunta a otro producto en Mercado Libre", "accion": "Revisar con el dueño"},
     "confianza_media": {"tipo": "mejora", "titulo": "Investigación con confianza media", "accion": "Completar información"},
     "descripcion_corta": {"tipo": "mejora", "titulo": "Descripción corta", "accion": "Completar información"},
     "pocas_secciones": {"tipo": "mejora", "titulo": "Descripción con pocas secciones", "accion": "Completar información"},

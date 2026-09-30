@@ -16,9 +16,9 @@
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
     "edad_etapa": "Etapa 4",
-    "talla": "Etapa 4",
+    "talla": "Grande (G)",
     "genero": "Niñas",
-    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete"
+    "otros": "Indicador de humedad: Sí; Dermatest: Sí; Formato de venta: Paquete; Peso del bebé: 9 a 12 kg; Con gel superabsorbente: Sí; Libre de látex: Sí"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379869"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,28 @@
       "lado_final": 1539,
       "fecha": "2026-09-29",
       "lado_util": 1425
+    },
+    {
+      "archivo": "7506425604302_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_986305-MLA99875591817_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379869",
+      "ancho_original": 1200,
+      "alto_original": 622,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7506425604302_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_758168-MLU72774591719_112023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379869",
+      "ancho_original": 564,
+      "alto_original": 334,
+      "lado_final": 537,
+      "lado_util": 498,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
@@ -52,9 +74,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre (HU CONF NINA E4 = Huggies UltraConfort Niña Etapa 4) y por GTIN hermano 7506425604364 confirmado en el lote 1. La página oficial no lista rangos de peso, por eso no se incluyen. Las 40 piezas salen del nombre del sistema.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17379869, 2026-09-29). Comparado: marca Huggies, línea UltraConfort, Etapa 4, niñas, 40 piezas (atributo 'Unidades por envase: 40' y descripción 'NIÑA E4 40Pzas'), talla G, peso 9 a 12 kg. Todo coincide. Anomalía del catálogo: el atributo 'Nombre' dice 'Pañales X99 Und Ultraconfort Etapa 4'; se ignora por contradecir el resto (40 piezas), verificar en el empaque si hay duda. El catálogo aporta talla G (la ficha traía 'Etapa 4') y peso. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 4 niña, 40 pzas. Se descartaron fotos del diseño anterior. huggies.com.mx dio 403."
   }

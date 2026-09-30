@@ -26,7 +26,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM24540905"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,37 @@
   },
   "imagenes": [
     {
-      "archivo": "7502235760337_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwb7a78490/images/large/7502235760337_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/inofolic-hp-60-cap./MXYZ_7502235760337.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 789,
-      "fecha": "2026-09-29",
-      "lado_util": 730
+      "archivo": "7502235760337_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_870666-MLA99481429592_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24540905",
+      "ancho_original": 1198,
+      "alto_original": 712,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502235760337_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_630347-MLU77971637160_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24540905",
+      "ancho_original": 1200,
+      "alto_original": 713,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502235760337_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_885564-MLU77971676612_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24540905",
+      "ancho_original": 1200,
+      "alto_original": 729,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -28,7 +28,7 @@
       "categoria_id": "MLM194695",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antigripales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM58916395"
     },
     "amazon": {},
     "shopify": {},
@@ -78,9 +78,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). El sitio de Theraflu México muestra Theraflu Resfriado Severo sobres verde/limón, pero en caja de 6 sobres; los 10 sobres salen del nombre del sistema. El sitio no lista principios activos ni dosis, por eso no aparecen: agregarlos desde el empaque. El registro 318M94 SSA VI viene del sitio y podría corresponder a la caja de 6.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM58916395, 2026-09-29). Comparado: marca Theraflu, granulado en sobres, 10 sobres, paracetamol 650 mg + feniramina 20 mg + fenilefrina 10 mg (igual que la ficha), registro 318M94 SSA (la ficha tiene 318M94 SSA VI: mismo número base). El catálogo con 10 sobres trae el mismo registro, por lo que ese registro no es exclusivo de la caja de 6 sobres. No comparable: sabor limón y nombre 'Resfriado Severo' (el catálogo no los menciona; el registro coincide con el del producto verde/limón del sitio oficial). Laboratorio en ML: GSK Consumer Healthcare México (la ficha dice Haleon, su sucesor); sin cambio. Receta: no requerida.",
     "fecha": "2026-09-29",
     "notas_imagenes": "3 fotos: frente plano 'Caja con 10 sobres' (wecarepharma.mx, 2000 px), 3/4 del fabricante (theraflu.com.mx, 2000 px, sin leyenda de piezas) y frente con panel lateral 'Caja con 10 sobres' (farmaciashdezsante.com, 1200 px). Se descartaron imágenes publicitarias del sitio y un packshot que decía 'Caja con 6 sobres'."
   }

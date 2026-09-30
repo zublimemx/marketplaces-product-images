@@ -24,7 +24,7 @@
       "categoria_id": "MLM189051",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Jabones > En Barra",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19542712"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,28 @@
       "lado_final": 1468,
       "fecha": "2026-09-29",
       "lado_util": 1360
+    },
+    {
+      "archivo": "7501022105207_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_814736-MLA109100007890_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19542712",
+      "ancho_original": 638,
+      "alto_original": 932,
+      "lado_final": 916,
+      "lado_util": 849,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501022105207_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_651231-MLA109937723071_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19542712",
+      "ancho_original": 950,
+      "alto_original": 766,
+      "lado_final": 934,
+      "lado_util": 865,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

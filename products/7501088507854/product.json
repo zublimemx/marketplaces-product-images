@@ -25,7 +25,7 @@
       "categoria_id": "MLM457823",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
       "categoria_rx_sugerida": "MLM457827",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475664"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501088507854_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7004048/7501088507854_01.jpg",
-      "pagina": "https://www.farmatodo.com.mx/gabirol-100-mg-caja-c-14-capsulas/p",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 974,
-      "fecha": "2026-09-29",
-      "lado_util": 901
+      "archivo": "7501088507854_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_711680-MLU78656463853_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475664",
+      "ancho_original": 993,
+      "alto_original": 698,
+      "lado_final": 975,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501088507854_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_827408-MLA86960908402_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475664",
+      "ancho_original": 859,
+      "alto_original": 536,
+      "lado_final": 841,
+      "lado_util": 779,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

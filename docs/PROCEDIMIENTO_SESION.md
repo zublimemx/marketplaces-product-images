@@ -68,19 +68,23 @@ python scripts/solicitudes.py <archivo.xlsx> --aplicar-descartes              # 
 
 - **Completar información**: lotes con `docs/agentes/investigacion.md` (en `trabajo/sesion_NN/lotes/`, con los GTIN pedidos).
 - **Buscar más imágenes**: lotes con `docs/agentes/fotos.md`.
-- **Completar precios**: `scripts/meli_precios.py` (necesita credenciales) o el dato que el dueño escribió en Comentarios.
+- **Completar precios**: `scripts/meli_precios.py --gtin …` (necesita token) o el dato que el dueño escribió en Comentarios (`data/ajustes_precios.json`).
 - **Revisar con el dueño**: aplicar lo que el dueño escribió en Comentarios; si no escribió nada, preguntarle.
 
 Después: regenerar layout y visor (§4), `python scripts/validar.py`, actualizar `PENDIENTES.md` y PR.
 
-## 4 bis. Precios de competencia (cuando haya credenciales)
+## 4 bis. Competencia, fotos y descripciones con la API de Mercado Libre (con token vigente)
 
 ```bash
-python scripts/meli_precios.py --muestra 3 --limite 3     # prueba y revisa trabajo/meli_muestras/
-python scripts/meli_precios.py --guardar-catalogo [--fotos-catalogo]
+python scripts/meli_precios.py --gtin 7501123013302 7501058623300          # prueba
+python scripts/meli_precios.py --guardar-catalogo --descripciones --hilos 4 # corrida completa
+python scripts/meli_fotos.py                                                # fotos de catálogo para fotos malas o regulares
+python scripts/preparar_revision_ml.py fotos && python scripts/preparar_revision_ml.py descripciones
+# subagentes con docs/agentes/revision_ml.md (8 de fotos por rangos de hojas; lotes d y c de descripciones)
+python scripts/aplicar_revision_ml.py && python scripts/meli_precios.py --solo-csv
 ```
 
-Detalle en `docs/MERCADOLIBRE_API.md`.
+Luego §4 (regenerar). Detalle en `docs/MERCADOLIBRE_API.md`.
 
 ## 5. Publicar cambios (siempre por PR)
 

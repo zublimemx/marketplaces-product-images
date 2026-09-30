@@ -24,13 +24,24 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM29326348"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "75076337_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_723196-MLA100265157020_122025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29326348",
+      "ancho_original": 676,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "75076337_1.jpg",
       "origen": "tienda",
@@ -40,6 +51,17 @@
       "alto_original": 800,
       "lado_final": 756,
       "lado_util": 700,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "75076337_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_705464-MLU78402811015_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29326348",
+      "ancho_original": 1000,
+      "alto_original": 1000,
+      "lado_final": 1080,
+      "lado_util": 1000,
       "fecha": "2026-09-29"
     }
   ],

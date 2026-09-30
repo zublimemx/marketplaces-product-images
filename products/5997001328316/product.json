@@ -28,13 +28,24 @@
       "categoria_id": "MLM457813",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "MLM457834",
-      "catalogo_id": ""
+      "catalogo_id": "MLM44887653"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "5997001328316_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_684835-MLA83334342251_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44887653",
+      "ancho_original": 841,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "5997001328316_1.jpg",
       "origen": "tienda",
@@ -44,6 +55,17 @@
       "alto_original": 1000,
       "lado_final": 597,
       "lado_util": 553,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "5997001328316_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_993179-MLA86960912860_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM44887653",
+      "ancho_original": 500,
+      "alto_original": 500,
+      "lado_final": 540,
+      "lado_util": 500,
       "fecha": "2026-09-29"
     }
   ],
@@ -56,9 +78,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN 5997001328316 (prefijo húngaro) confirmado en una ficha de tienda extranjera y en tiendas mexicanas por nombre. El nombre del sistema dice Gedeon Richter, pero las fichas y PLM indican Janssen-Cilag como titular de Evra; se anotó Janssen-Cilag y hay que revisarlo contra el empaque, que puede ser de importación paralela. Composición y esquema tomados de PLM.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM44887653, 2026-09-29). Comparado: marca Evra, laboratorio Gedeon Richter plc (igual que el fabricante de la ficha), 3 parches por caja, etinilestradiol 0.60 mg + norelgestromina 6.00 mg por parche, registro 381M2002 SSA (igual que la ficha, que agrega SSA IV). Todo coincide; el catálogo con Gedeon Richter apoya el fabricante de la ficha frente a Janssen-Cilag. Receta requerida (simple). Sin datos nuevos.",
     "notas_imagenes": "1 foto (tienda) de la tienda de pacientes de Gedeon Richter (pacientes.sfe.com.mx, archivo cdn.gdar.com.mx con el GTIN en el nombre): caja de Evra con 3 parches, sin marcas de agua ni texto promocional; 1000 px originales (597 px útiles tras recortar, menos de los 800 preferidos, no hay otra foto). Farmatodo, Medicity y San Jorge no traen imagen; Fahorro y Herrera tienen otro código o imagen genérica. Revisada visualmente.",
     "fecha": "2026-09-29",
     "sesion": 3

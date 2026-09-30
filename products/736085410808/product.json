@@ -27,7 +27,7 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473490"
     },
     "amazon": {},
     "shopify": {},
@@ -87,9 +87,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 736085410808 no apareció escrito en las fichas; se identificó por nombre y presentación (1.8 mg/1 mg/ml, 10 ml). La caja fotografiada dice que su venta requiere receta médica (una farmacia la marca sin receta); se dejó 'Sí'.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39473490, 2026-09-29). Comparado: marca Humylub Ofteno PF, laboratorio Sophia, solución oftálmica, frasco gotero de 10 ml, condroitín sulfato sódico 1.8 mg + hialuronato sódico 1 mg por ml, registro 150M2007 SSA (la ficha tiene 150M2007 SSA IV; el catálogo indica fracción IV). Todo coincide. Resuelve la duda de receta: requerida (simple, fracción IV), igual que la caja fotografiada. No se toman más datos.",
     "notas_imagenes": "4 fotos del empaque (tienda): frente, parte posterior con la fórmula y dos ángulos. Se descartaron fotos con marca de agua de tiendas.",
     "fecha": "2026-09-29"
   }

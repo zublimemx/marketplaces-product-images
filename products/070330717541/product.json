@@ -11,7 +11,7 @@
     "fabricante": "BIC",
     "linea": "Comfort 3",
     "variante": "Advance Piel Normal",
-    "presentacion": "Rastrillo desechable",
+    "presentacion": "Tarjeta con 12 rastrillos desechables",
     "contenido_neto": 12,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 12,
@@ -25,13 +25,36 @@
       "categoria_id": "MLM194011",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Rasuradoras Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19783878"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "070330717541_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_947522-MLU74866190652_032024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19783878",
+      "ancho_original": 358,
+      "alto_original": 1198,
+      "lado_final": 1176,
+      "lado_util": 1089,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "070330717541_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_874365-MLU77796584864_072024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19783878",
+      "ancho_original": 992,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://cosmos.bluesoft.com.br/produtos/70330717541-aparelho-de-barbear-bic-comfort-3-pele-normal",
@@ -42,7 +65,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "gtin",
-    "notas": "El GTIN corresponde al rastrillo individual BIC Comfort 3 para piel normal (catálogo de Brasil); las 12 piezas y la versión Advance se infirieron del nombre del sistema y de publicaciones de 12 piezas en México. Se ignoró la leyenda de oferta del nombre.",
+    "notas": "El GTIN corresponde al rastrillo individual BIC Comfort 3 para piel normal (catálogo de Brasil); las 12 piezas y la versión Advance se infirieron del nombre del sistema y de publicaciones de 12 piezas en México. Se ignoró la leyenda de oferta del nombre. Catálogo de Mercado Libre MLM19783878 no coincide: El catálogo MLM19783878 es 'Tarjeta con 12 dispositivos Bic Comfort 3 Normal-móvil (azul)' y no menciona 'Advance'; la ficha dice 'Advance Piel Normal'. Normal-móvil y Advance podrían ser versiones distintas, por lo que la variante no se confirma. Coinciden marca, línea Comfort 3, 3 hojas, cabezal móvil, desechable, piel normal (el catálogo dice no apto para piel sensible) y 12 piezas en tarjeta. Solo la variante Advance queda sin confirmar. No se agregan características del catálogo (recortadora, banda lubricante) porque pueden ser de la versión Normal-móvil.",
     "fecha": "2026-09-29",
     "notas_imagenes": "Sin fotos. Los resultados de la búsqueda eran listados de Mercado Libre y Amazon (no se raspan) y fichas de otras presentaciones (1, 2 o 4 piezas en Rappi, Guadalajara y Merco); no apareció ninguna página con la tira de 12 piezas."
   }

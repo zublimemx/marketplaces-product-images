@@ -5,7 +5,7 @@
   "nombre_sistema": "C D FRESKA-RA 4D FORTIDENT 100ML",
   "nombres_sistema_alternos": [],
   "titulo": "Crema Dental Freska-ra 4D Fortident 100 ml",
-  "descripcion": "Descripción:\nCrema dental Freska-ra 4D de la línea Fortident, de Colgate-Palmolive, en presentación de 100 ml. Es una pasta dental para la higiene bucal de todos los días, pensada para proteger y fortalecer la dentadura y mantenerla a salvo de las bacterias que se generan después de comer.\n\nCaracterísticas:\n- Marca: Freska-ra, línea Fortident\n- Variante: 4D\n- Contenido: 100 ml\n- Producto para uso adulto en la rutina diaria de cuidado bucal\n\nPresentación:\nTubo con 100 ml de crema dental.\n\nAdvertencias:\nLea la información del empaque. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nCrema dental Freska-ra 4D de la línea Fortident, de Colgate-Palmolive, en tubo de 100 ml. Es una pasta dental para la higiene bucal de todos los días, pensada para proteger y fortalecer los dientes y ayudar a mantenerlos a salvo de las bacterias que se generan después de comer. Es un producto para uso adulto dentro de la rutina diaria de cuidado bucal.\n\nBeneficios:\n- Ayuda a proteger y fortalecer la dentadura\n- Ayuda a mantener los dientes a salvo de las bacterias que se generan después de comer\n\nPresentación:\nTubo con 100 ml de crema dental, variante 4D de la línea Fortident de la marca Freska-ra.\n\nAdvertencias:\n- Para esta presentación, consulte en el empaque la lista de ingredientes, el modo de uso y las precauciones.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Freska-ra",
     "fabricante": "Colgate-Palmolive",
@@ -23,7 +23,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19754962"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501035911062_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://images-products.vitau.mx/image_1706623202000.jpg",
-      "pagina": "https://vitau.mx/freska-ra-4d-fortident-100ml-100-ml-paquete-de-1-20957",
-      "ancho_original": 134,
-      "alto_original": 500,
-      "lado_final": 529,
-      "fecha": "2026-09-29",
-      "lado_util": 490
+      "archivo": "7501035911062_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_769756-MLU75359059409_032024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19754962",
+      "ancho_original": 1200,
+      "alto_original": 309,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -52,7 +52,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Información pública muy limitada: sin ingredientes ni modo de uso en las fuentes. GTIN confirmado como 'Crema dental Freska-Ra 100 ml' (EAN 7501035911062). Otra foto de tienda para este GTIN mostraba la versión 'Complete 5 en 1' de 132 g y se descartó.",
+    "notas": "Información pública muy limitada: sin ingredientes ni modo de uso en las fuentes. GTIN confirmado como 'Crema dental Freska-Ra 100 ml' (EAN 7501035911062). Otra foto de tienda para este GTIN mostraba la versión 'Complete 5 en 1' de 132 g y se descartó. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. El catálogo ML MLM19754962 (origen gtin) es 'Pasta dental Freska-ra Fortident 132 g', otra presentación (132 g vs 100 ml del título), así que no confirma el producto y confirmado = false; la investigación ya había descartado una foto de la versión 'Complete 5 en 1' de 132 g. No se usaron sus datos (sabor menta, 'aliento fresco') por corresponder a otra presentación. Fuentes: solo la descripción actual, con información muy limitada (sin ingredientes ni modo de uso). DESCRIPCIÓN DE 788 CARACTERES (menos de 800): hay muy pocos datos reales (sin ingredientes, modo de uso ni beneficios específicos) y no se rellenó con datos inventados; remite al empaque.",
     "notas_imagenes": "Sin mejora; se dejó la foto actual 7501035911062_1.jpg (Vitau, tubo Freska-ra 4D, 490 px útiles, ligeramente por debajo de 500). Hallazgo: con este GTIN, Chedraui, Arteli, La Gran Bodega, Farmamedical y Walmart muestran hoy el empaque 'Freska-ra 5 en 1 Complete, Cont. Neto 132 g' (fotos de 640 a 1200 px), que no es la presentación '4D 100 ml' de la ficha; no se usó para no cambiar de presentación. Conviene que el dueño confirme cuál empaque tiene en existencia; si es el 5 en 1, esas fotos sirven (Chedraui 1200 px: https://www.chedraui.com.mx/pasta-dental-freska-ra-fortident-100ml-3020167/p). No se encontró foto del empaque 4D de mayor resolución.",
     "fecha": "2026-09-29",
     "sesion": 5

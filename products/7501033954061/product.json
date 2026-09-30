@@ -24,7 +24,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40860977"
     },
     "amazon": {},
     "shopify": {},
@@ -32,26 +32,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501033954061_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/EnsureChocolate_1.jpg?v=1688349537",
-      "pagina": "https://sanorim.mx/products/ensure-liquido-suplemento-alimenticio-sabor-chocolate-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 569,
-      "fecha": "2026-09-29",
-      "lado_util": 527
-    },
-    {
-      "archivo": "7501033954061_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://sanorim.mx/cdn/shop/files/EnsureChocolate.jpg?v=1688349537",
-      "pagina": "https://sanorim.mx/products/ensure-liquido-suplemento-alimenticio-sabor-chocolate-237-ml",
-      "ancho_original": 600,
-      "alto_original": 600,
-      "lado_final": 567,
-      "fecha": "2026-09-29",
-      "lado_util": 525
+      "archivo": "7501033954061_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_800564-MLA99936563357_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40860977",
+      "ancho_original": 381,
+      "alto_original": 831,
+      "lado_final": 816,
+      "lado_util": 756,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.contigo.abbott/es-mx/marca/ensure/ensure",

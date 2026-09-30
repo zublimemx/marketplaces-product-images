@@ -5,18 +5,19 @@
   "nombre_sistema": "ADIMOD 800 MG C10 SOL AGOSTO 27",
   "nombres_sistema_alternos": [],
   "titulo": "Adimod Pidotimod 800 mg/7 ml Solución 10 Frascos",
-  "descripcion": "Descripción:\nAdimod, de Armstrong Laboratorios, es una solución oral cuyo principio activo es el pidotimod, un inmunomodulador. Se presenta en frascos monodosis de 7 ml con 800 mg de pidotimod cada uno. Es un medicamento de prescripción: su indicación, dosis y duración del tratamiento deben ser determinadas por un médico.\n\nFórmula:\nCada frasco monodosis de 7 ml contiene 800 mg de pidotimod, con vehículo cbp 7 ml.\n\nModo de uso:\nVía oral. Siga la dosis y la duración indicadas por su médico.\n\nPresentación:\nCaja con 10 frascos monodosis de 800 mg/7 ml cada uno.\n\nAdvertencias:\n- Su venta requiere receta médica.\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nAdimod es un medicamento de Armstrong Laboratorios de México en forma de solución oral. Su principio activo es el pidotimod, un inmunomodulador (clasificación ATC L03AX05); no es un antibiótico. Cada frasco de 7 ml contiene 800 mg de pidotimod. Es un medicamento de prescripción: su indicación, la dosis y la duración del tratamiento las determina un médico.\n\nFórmula:\nCada frasco de 7 ml contiene 800 mg de pidotimod.\n\nModo de uso:\nSolución oral. Siga la dosis y la duración que indique su médico y no modifique el esquema por su cuenta.\n\nPresentación:\nCaja con 10 frascos de 7 ml, de 800 mg/7 ml cada uno. Registro sanitario: 445M94 SSA.\n\nAdvertencias:\n- Su venta requiere receta médica (receta simple).\n- Utilícelo únicamente por indicación y bajo supervisión de su médico.\n- Conservar a temperatura ambiente.\n- Informe a su médico si toma otros medicamentos, si está embarazada o si se encuentra en periodo de lactancia.\nLea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Adimod",
     "fabricante": "Armstrong Laboratorios de México",
-    "presentacion": "Solución oral en frascos monodosis",
+    "presentacion": "Solución oral en frascos de 7 ml",
     "contenido_neto": 10,
     "unidad_contenido": "frascos",
     "unidades_por_envase": 10,
     "principio_activo": "Pidotimod",
     "concentracion": "800 mg / 7 ml",
     "via_administracion": "Oral",
-    "otros": "Volumen por frasco: 7 ml; Requiere receta médica; Formato de venta: Caja"
+    "otros": "Volumen por frasco: 7 ml; Requiere receta médica (receta simple); Clasificación ATC: L03AX05; Conservación: temperatura ambiente; No es antibiótico; Formato de venta: Caja",
+    "registro_sanitario": "445M94 SSA"
   },
   "receta_mx": "Sí",
   "marketplaces": {
@@ -24,7 +25,7 @@
       "categoria_id": "MLM457815",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
       "categoria_rx_sugerida": "MLM457833",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39989872"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +42,28 @@
       "lado_final": 1168,
       "fecha": "2026-09-29",
       "lado_util": 1083
+    },
+    {
+      "archivo": "7501089808943_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_891817-MLA95516963642_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39989872",
+      "ancho_original": 992,
+      "alto_original": 468,
+      "lado_final": 974,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089808943_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_859061-MLA95517328312_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39989872",
+      "ancho_original": 990,
+      "alto_original": 469,
+      "lado_final": 975,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -53,7 +76,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado en varias fichas de farmacia (Adimod solución 800 mg/7 ml, 10 frascos, pidotimod, Armstrong). No se encontraron indicaciones terapéuticas ni advertencias detalladas en las fichas abiertas. Una farmacia lo lista sin receta y otras con receta; se asume receta. AGOSTO 27 del nombre del sistema se ignoró como caducidad.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39989872, 2026-09-29). Catálogo ML MLM39989872 (origen gtin) coincide en producto y presentación (Adimod 800 mg/7 ml, 10 frascos de 7 ml). Fuentes: catálogo (laboratorio Armstrong, pidotimod 800 mg, ATC L03AX05, solución oral, receta requerida simple, registro 445M94 SSA, conservación a temperatura ambiente, no antibiótico) y descripción actual. No hay indicaciones terapéuticas ni advertencias detalladas en las fuentes, por eso no se afirman. Se quitó 'monodosis' de la presentación (no está en el catálogo). Última frase de advertencias sobre otros medicamentos/embarazo es precaución general, no dato del producto.",
     "notas_imagenes": "1 foto de tienda (caja de frente en ángulo, 1200 px) del servidor de Farmacias del Ahorro; la segunda era idéntica y se descartó.",
     "fecha": "2026-09-29",
     "sesion": 3

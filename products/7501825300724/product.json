@@ -24,13 +24,24 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455732"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501825300724_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_659993-MLA86960929496_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455732",
+      "ancho_original": 1200,
+      "alto_original": 627,
+      "lado_final": 1180,
+      "lado_util": 1094,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501825300724_1.jpg",
       "origen": "tienda",
@@ -43,15 +54,15 @@
       "lado_util": 602
     },
     {
-      "archivo": "7501825300724_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmaciasanjorge.com/cdn/shop/products/7501825300724_a29ca036-eb9c-4cf0-9206-a90862341ced.jpg?v=1701390843",
-      "pagina": "https://farmaciaherrera.com.mx/collections/medicamentos-genericos/products/paracetamol-naproxeno-proxalin-plus-300-250-mg-con-16-tabletas",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 976,
-      "fecha": "2026-09-29",
-      "lado_util": 903
+      "archivo": "7501825300724_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_800526-MLA111569464420_062026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455732",
+      "ancho_original": 1084,
+      "alto_original": 489,
+      "lado_final": 1064,
+      "lado_util": 986,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

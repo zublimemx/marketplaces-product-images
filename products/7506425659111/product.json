@@ -15,10 +15,10 @@
     "contenido_neto": 40,
     "unidad_contenido": "piezas",
     "unidades_por_envase": 40,
-    "edad_etapa": "Etapa 6",
-    "talla": "Extra Jumbo (XXG)",
+    "edad_etapa": "Etapa 7",
+    "talla": "Extra Extra Jumbo (XXJumbo)",
     "genero": "Unisex",
-    "otros": "Pañal desechable autoajustable; Formato de venta: paquete de 40 piezas"
+    "otros": "Pañal desechable autoajustable con cintura 360; Formato de venta: paquete de 40 piezas; Para bebés de 17 a 24 kg; Gel superabsorbente (BlockGel); Barreras anti-derrames; Cubierta ultrarespirable; Hipoalergénico; Libre de parabenos y de látex; Sin fragancia; Hasta 6 h de protección"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": "MLM37253729"
+      "catalogo_id": "MLM52435612"
     },
     "amazon": {},
     "shopify": {},
@@ -54,7 +54,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "El GTIN no apareció en las fichas consultadas; se identificó por nombre. 'XXJUMB' se interpretó como Extra Jumbo (XXG, etapa 6); existe otra ficha 'Jumbo etapa 5' de 40 piezas con otro código. El catálogo MLM37253729 coincide por título pero no se pudo abrir.",
+    "notas": "El GTIN no apareció en las fichas consultadas; se identificó por nombre. 'XXJUMB' se interpretó como Extra Jumbo (XXG, etapa 6); existe otra ficha 'Jumbo etapa 5' de 40 piezas con otro código. El catálogo MLM37253729 coincide por título pero no se pudo abrir. Catálogo de Mercado Libre MLM52435612 no coincide: La ficha dice Etapa 6 y talla Extra Jumbo (XXG); el catálogo MLM52435612 dice 'Movilastic Etapa 7', talla Extra Extra Jumbo (XXJ), para bebés de 17 a 24 kg. El nombre interno del catálogo ('Kleenbebé Movilastic XXJumbo 40´s') coincide con 'MOVILASTIC XXJUMB C/40' del sistema, así que la ficha parece equivocada en la etapa. Coinciden marca, línea Movilastic, unisex, autoajustable y 40 piezas. Difieren etapa y talla; se corrige la ficha con los datos del catálogo. La línea del catálogo dice 'Etapa 7 Bluey': podría ser una edición con diseño Bluey que el nombre del sistema no menciona; no se agregó.",
     "notas_imagenes": "1 foto de tienda (Benavides), frente del paquete, 1000 px. Se borró una copia más chica y duplicada de la misma imagen.",
     "fecha": "2026-09-29",
     "sesion": 6

@@ -27,7 +27,7 @@
       "categoria_id": "MLM457816",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiparasitarios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455802"
     },
     "amazon": {},
     "shopify": {},
@@ -35,26 +35,37 @@
   },
   "imagenes": [
     {
-      "archivo": "7502224227339_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/302276/302276_01.webp",
-      "pagina": "https://www.heb.com.mx/sanfer-loxcell-400-300-mg-tabletas-1-pz-273792/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 618,
-      "fecha": "2026-09-29",
-      "lado_util": 573
+      "archivo": "7502224227339_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_861212-MLU78636616869_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455802",
+      "ancho_original": 575,
+      "alto_original": 770,
+      "lado_final": 756,
+      "lado_util": 700,
+      "fecha": "2026-09-29"
     },
     {
-      "archivo": "7502224227339_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/302276/302276_02.webp",
-      "pagina": "https://www.heb.com.mx/sanfer-loxcell-400-300-mg-tabletas-1-pz-273792/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 617,
-      "fecha": "2026-09-29",
-      "lado_util": 572
+      "archivo": "7502224227339_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_808723-MLA108095779345_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455802",
+      "ancho_original": 906,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7502224227339_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_696072-MLA108097484969_032026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455802",
+      "ancho_original": 280,
+      "alto_original": 880,
+      "lado_final": 860,
+      "lado_util": 797,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

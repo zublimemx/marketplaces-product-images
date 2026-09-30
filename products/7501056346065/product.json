@@ -23,7 +23,7 @@
       "categoria_id": "MLM178705",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Facial",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25740247"
     },
     "amazon": {},
     "shopify": {},
@@ -31,15 +31,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501056346065_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7501056346065-1.jpg?h=1400",
-      "pagina": "https://www.delsol.com.mx/crema-facial-ponds-crema-clarant-b3-fps-15-200-gr",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 981,
-      "fecha": "2026-09-29",
-      "lado_util": 909
+      "archivo": "7501056346065_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_638119-MLU72748587981_112023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25740247",
+      "ancho_original": 1149,
+      "alto_original": 1200,
+      "lado_final": 1175,
+      "lado_util": 1088,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.ponds.com/mx/p/crema-antimanchas-clarant-b3-15fps.html/07501056346065",

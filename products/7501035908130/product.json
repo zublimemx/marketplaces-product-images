@@ -26,13 +26,24 @@
       "categoria_id": "MLM455894",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Talcos para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM34113226"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501035908130_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_824361-MLA99414579342_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM34113226",
+      "ancho_original": 491,
+      "alto_original": 1199,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501035908130_2.jpg",
       "origen": "tienda",

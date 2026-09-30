@@ -22,7 +22,7 @@
       "categoria_id": "MLM178702",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Protección Solar > Protectores y Bloqueadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19894560"
     },
     "amazon": {},
     "shopify": {},
@@ -30,15 +30,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7702035457639_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.dax.com.mx/on/demandware.static/-/Sites-slim-m-catalog/default/dw4c9fd30a/images/7702035457639/7702035457639_1.jpg",
-      "pagina": "https://www.dax.com.mx/producto/lubriderm-crema-protecion-solar-uv-fps15-de-400ml-7702035457639.html",
-      "ancho_original": 1200,
-      "alto_original": 1200,
-      "lado_final": 1110,
-      "fecha": "2026-09-29",
-      "lado_util": 1028
+      "archivo": "7702035457639_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_810837-MLU72608748352_112023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19894560",
+      "ancho_original": 598,
+      "alto_original": 1188,
+      "lado_final": 1157,
+      "lado_util": 1072,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7702035457639_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_600500-MLA110508778841_042026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19894560",
+      "ancho_original": 462,
+      "alto_original": 886,
+      "lado_final": 870,
+      "lado_util": 806,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

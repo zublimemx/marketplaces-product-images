@@ -23,7 +23,7 @@
       "categoria_id": "MLM191653",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Toallas Húmedas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM21034176"
     },
     "amazon": {},
     "shopify": {},
@@ -40,6 +40,28 @@
       "lado_final": 1506,
       "fecha": "2026-09-29",
       "lado_util": 1395
+    },
+    {
+      "archivo": "7501943471603_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_780809-MLA99897566161_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21034176",
+      "ancho_original": 994,
+      "alto_original": 323,
+      "lado_final": 976,
+      "lado_util": 904,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501943471603_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_696912-MLU79114437945_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM21034176",
+      "ancho_original": 990,
+      "alto_original": 405,
+      "lado_final": 969,
+      "lado_util": 898,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://tiendadepend.mx/products/toallas-humedas-depend",

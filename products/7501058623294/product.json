@@ -17,9 +17,9 @@
     "contenido_neto": 800,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "edad_etapa": "A partir de 1 año",
+    "edad_etapa": "De 1 a 3 años",
     "genero": "Unisex",
-    "otros": "Etapa: 3; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Formato de venta: Unidad"
+    "otros": "Etapa: 3; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Formato de venta: Unidad; Contiene lactosa: Sí; Conservación a temperatura ambiente"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -27,7 +27,7 @@
       "categoria_id": "MLM189058",
       "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM14562941"
     },
     "amazon": {},
     "shopify": {},
@@ -74,9 +74,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no verificado por búsqueda (se agotó el presupuesto de WebSearch de la sesión). Identificado por el nombre y por la ficha oficial de Nestlé, que confirma NAN 3 Optimal Pro en presentación de 800 g; el GTIN 7501058623294 es consecutivo a los NAN Optipro 1 y 2 confirmados en el lote 1. Nestlé México ya nombra la línea Optimal Pro; en ML los vendedores usan Optipro.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM14562941, 2026-09-29). Comparado: marca Nan, fabricante Nestlé, línea Optimal Pro 3 (la ficha usa 'Optipro', nombre de los vendedores; sin cambio), lata en polvo, 800 g, unidad 1, edad de 1 a 3 años. Todo coincide. El catálogo aporta la edad máxima (3 años) y que contiene lactosa. No se usa lo de gluten: el título dice 'sin tac' pero el atributo dice 'Es libre de gluten: No' (inconsistente). 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "3 fotos del fabricante (nestlefamilynes.com.mx, 2000 px): frente de lata NAN OptiPro 3 800 g (banner 'A partir de 1 año / 800 g'), contraetiqueta con tabla nutrimental y lateral con instrucciones."
   }

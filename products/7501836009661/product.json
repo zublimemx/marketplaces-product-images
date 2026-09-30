@@ -24,7 +24,7 @@
       "categoria_id": "MLM194673",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Analgésicos",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39455867"
     },
     "amazon": {},
     "shopify": {},
@@ -32,15 +32,37 @@
   },
   "imagenes": [
     {
-      "archivo": "7501836009661_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://club.presalud.com/web/image/product.product/43087/image_1920?unique=da85024",
-      "pagina": "https://club.presalud.com/shop/7501836009661-dualgos-paracetamolibuprofeno-325200-mg-20-tabletas-generico-liferpal-md-43077",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 705,
-      "fecha": "2026-09-29",
-      "lado_util": 653
+      "archivo": "7501836009661_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_938919-MLA118109654099_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455867",
+      "ancho_original": 583,
+      "alto_original": 385,
+      "lado_final": 574,
+      "lado_util": 531,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501836009661_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_959277-MLA84053777058_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455867",
+      "ancho_original": 849,
+      "alto_original": 544,
+      "lado_final": 834,
+      "lado_util": 773,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501836009661_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_763816-MLU78636616967_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39455867",
+      "ancho_original": 738,
+      "alto_original": 447,
+      "lado_final": 706,
+      "lado_util": 654,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

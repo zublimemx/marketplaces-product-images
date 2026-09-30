@@ -5,7 +5,7 @@
   "nombre_sistema": "VASELINE PETRO PURO ORIGINAL 85G",
   "nombres_sistema_alternos": [],
   "titulo": "Petrolato Vaseline Puro 85 g",
-  "descripcion": "Descripción:\nVaseline Petrolato Puro Original es un petrolato para el cuidado de la piel, dermatológicamente probado. Ayuda a humectar y reparar la piel seca y ayuda al cuidado de la piel protegiendo cortes, heridas y quemaduras leves. La piel tiene la capacidad de renovarse, repararse y restaurarse, pero a veces necesita ayuda para mantenerse saludable: Vaseline actúa de manera natural para mantenerla humectada y lucir suave, lisa y visiblemente más sana.\n\nBeneficios:\n- Ayuda a humectar y reparar la piel seca\n- Ayuda a proteger cortes, heridas y quemaduras leves\n- Fórmula de petrolato puro, dermatológicamente probada\n- Deja la piel suave y lisa\n\nIngredientes:\nPetrolato (petrolatum).\n\nPresentación:\nBote con 85 g de petrolato.",
+  "descripcion": "Descripción:\nVaseline Petrolato Puro Original es un petrolato de alta pureza, obtenido con un proceso de triple purificación, para el cuidado de la piel seca. Su fórmula está hecha 100 % de petrolato y ayuda a humectar, proteger y reparar la piel seca, dañada o agrietada. Puede aplicarse sobre cicatrices, cortes pequeños, heridas menores y quemaduras leves para protegerlos, y su fórmula está pensada para no irritar la piel sensible. Está probado dermatológicamente.\n\nBeneficios:\n- Ayuda a humectar y a mantener hidratada la piel seca\n- Ayuda a proteger y reparar la piel dañada o agrietada\n- Protege cortes pequeños, heridas menores, cicatrices y quemaduras leves\n- Fórmula de petrolato puro, hipoalergénica, libre de fragancia y de parabenos\n- Deja la piel suave y lisa\n\nIngredientes:\nPetrolato (petrolatum).\n\nPresentación:\nBote con 85 g de petrolato puro.\n\nAdvertencias:\n- Uso externo.\n- Si tiene una herida profunda, una quemadura extensa o una irritación que empeora, consulte a su médico.\n- Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Vaseline",
     "fabricante": "Unilever",
@@ -16,7 +16,8 @@
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "principio_activo": "Petrolato",
-    "otros": "Dermatológicamente probado; petrolato puro"
+    "otros": "Dermatológicamente probado; Petrolato puro (100 % petrolato) con triple purificación; Hipoalergénico; Libre de fragancia; Libre de parabenos",
+    "tipo_piel_cabello": "Piel seca"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +25,7 @@
       "categoria_id": "MLM178755",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25862756"
     },
     "amazon": {},
     "shopify": {},
@@ -51,7 +52,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Solo se pudo abrir una ficha de tienda; Walmart pidió verificación y no se abrió el sitio oficial. El fabricante Unilever se asume de la marca.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM25862756, 2026-09-29). Catálogo ML MLM25862756 (origen gtin): Vaseline Petrolato Puro 85 g; coincide. Fuentes: catálogo (fabricante Unilever, 100 % petrolato con triple purificación, piel seca, hipoalergénico, sin fragancia ni parabenos, dermatológicamente testeado), texto de otros vendedores y descripción actual (ingrediente petrolato). Se omitió la mención a eczema y 'recomendado para mayores de 30 años'/'zona rostro' por ser afirmaciones dudosas del catálogo. Fabricante Unilever ya estaba en la ficha y ahora lo respalda el catálogo. Se trata como cosmético, sin la frase de cierre de medicamentos.",
     "notas_imagenes": "1 foto de frente al bote (tienda, 1624 px).",
     "fecha": "2026-09-29",
     "sesion": 5

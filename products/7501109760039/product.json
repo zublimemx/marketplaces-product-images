@@ -5,7 +5,7 @@
   "nombre_sistema": "PARCHE POROSO ALKOCS MAYO 27 SILICATO DE METILO PIMIENTA CAYENTA PERRIGO",
   "nombres_sistema_alternos": [],
   "titulo": "Parche Poroso Perrigo Salicilato de Metilo 12.5 x 18.5 cm",
-  "descripcion": "Descripción:\nEl Parche Poroso de Perrigo es un material de curación de uso tópico, en forma rectangular, con una mezcla de sustancias como salicilato de metilo y pimienta de cayena. Su empaque lo presenta como auxiliar tópico en afecciones leves de las articulaciones y la cadera. Se vende por pieza y su tamaño es de 12.5 cm de ancho por 18.5 cm de largo.\n\nComposición:\nSegún la información de los distribuidores, contiene mentol, incienso fino, pimienta de cayena, salicilato de metilo y goma de mirra.\n\nCaracterísticas:\n- Parche poroso de color rojo.\n- Medidas: 12.5 x 18.5 cm.\n- Uso externo.\n\nPresentación:\nEmpaque con 1 pieza.\n\nAdvertencias:\nSolo para uso externo. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
+  "descripcion": "Descripción:\nEl Parche Poroso de Perrigo es un material de curación de uso tópico, de forma rectangular y color rojo, que su empaque presenta como auxiliar en molestias leves de las articulaciones y la cadera. Contiene salicilato de metilo junto con otras sustancias como mentol y pimienta de cayena, y se adhiere a la piel sin dejar de permitir que respire. Se vende por pieza y mide 12.5 cm de ancho por 18.5 cm de largo.\n\nBeneficios:\n- Pensado para colocarse en zonas específicas, por ejemplo articulaciones y cadera.\n- Adhesión segura y duradera, cómodo de usar.\n- Su diseño poroso permite que la piel respire.\n- Tamaño de 12.5 x 18.5 cm, que cubre una zona amplia.\n\nComposición:\nDe acuerdo con la información disponible del producto, contiene salicilato de metilo, mentol, pimienta de cayena, incienso fino y goma de mirra. Consulte en el empaque la lista completa y las cantidades.\n\nPresentación:\nEmpaque con 1 pieza de parche poroso rojo de 12.5 x 18.5 cm.\n\nAdvertencias:\nSolo para uso externo. Consulte en el empaque las indicaciones, el tiempo de aplicación y las contraindicaciones. Lea las instrucciones del empaque. Consulte a su médico. No se deje al alcance de los niños.",
   "ficha": {
     "marca": "Perrigo",
     "fabricante": "Perrigo",
@@ -25,7 +25,7 @@
       "categoria_id": "MLM457822",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM29682583"
     },
     "amazon": {},
     "shopify": {},
@@ -44,15 +44,26 @@
       "lado_util": 657
     },
     {
-      "archivo": "7501109760039_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://family-medic.com.mx/wp-content/uploads/7501109760039.webp",
-      "pagina": "https://family-medic.com.mx/tienda/material-de-curacion/parche-poroso-rectangular-1pza/",
-      "ancho_original": 591,
-      "alto_original": 591,
-      "lado_final": 582,
-      "fecha": "2026-09-29",
-      "lado_util": 539
+      "archivo": "7501109760039_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_814162-MLA90646572436_082025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29682583",
+      "ancho_original": 480,
+      "alto_original": 635,
+      "lado_final": 625,
+      "lado_util": 579,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501109760039_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_919302-MLA117567457309_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM29682583",
+      "ancho_original": 470,
+      "alto_original": 643,
+      "lado_final": 632,
+      "lado_util": 586,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -65,7 +76,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Las fichas de tienda casi no dan indicaciones, modo de uso ni advertencias, por lo que la descripción es breve. El nombre del sistema dice 'silicato de metilo', que se corrigió a salicilato de metilo según las fichas. Se ignoró la caducidad (mayo 27).",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM29682583, 2026-09-29). Fuentes: catálogo ML MLM29682583 (origen gtin, Perrigo Parche Poroso alivio articulaciones y cadera, 1 pieza; adhesión segura, no transparente); descripción y ficha actuales (composición según distribuidores, medidas, color rojo). No se copió 'Fabricante: Loiifa' del catálogo (dato dudoso). El catálogo no trae medidas; 12.5 x 18.5 cm viene de la ficha actual. Sin modo de uso, dosis ni tiempo de aplicación en las fuentes: se remite al empaque. Medicamento de venta libre, cierra con la frase obligatoria. 'Cubre una zona amplia' es una inferencia del tamaño, quitar si se prefiere. Ficha sin cambios.",
     "notas_imagenes": "2 fotos de tienda (Farmacias San Jorge y Family Medic), empaque del parche Perrigo de frente.",
     "fecha": "2026-09-29",
     "sesion": 6

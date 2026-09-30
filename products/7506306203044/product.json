@@ -5,19 +5,19 @@
   "nombre_sistema": "DESOD AXE KILO SPY 150 ML",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante Axe Kilo en Aerosol 150 ml",
-  "descripcion": "Descripción:\nAxe Kilo es un desodorante en aerosol para hombre con una fragancia fresca y duradera de tipo aromático, con notas de lavanda y sándalo. Su fórmula destruye el mal olor y ofrece protección durante todo el día, y el empaque indica 48 horas de máxima frescura.\n\nBeneficios:\n- Destruye el mal olor y deja una fragancia duradera.\n- Fórmula con 0% sales de aluminio.\n- Fragancia aromática fresca con lavanda y sándalo.\n- Lata de aluminio reciclable.\n\nModo de uso:\nAgite antes de usar. Aplique sobre el cuerpo a no menos de 15 cm de distancia de la piel. Evite el uso íntimo.\n\nPresentación:\nAerosol de 150 ml.",
+  "descripcion": "Descripción:\nAxe Kilo es un desodorante corporal en aerosol para hombre, de la línea Body Spray. Ofrece hasta 48 horas de protección contra el mal olor gracias a su tecnología de doble acción y deja una fragancia de menta fresca y madera. Su fórmula no contiene sales de aluminio y puede aplicarse tanto en las axilas como en el resto del cuerpo.\n\nBeneficios:\n- Protección contra el mal olor durante 48 horas.\n- Fragancia de menta fresca y madera, de larga duración.\n- Fórmula con 0 % sales de aluminio; no es antitranspirante.\n- Dermatológicamente testeado y apto para piel sensible.\n- Su formulación no daña la capa de ozono y la lata es de metal 100 % reciclable.\n\nModo de uso:\nAgite el envase antes de usarlo, gírelo y presione para aplicar una o dos pulverizaciones breves, sosteniéndolo a 15 cm o más de la piel.\n\nPresentación:\nAerosol de 150 ml, una pieza.\n\nAdvertencias:\nProducto en aerosol que contiene alcohol: manténgalo alejado del fuego y del calor. Evite el uso íntimo. Consulte las advertencias impresas en el envase.",
   "ficha": {
     "marca": "Axe",
     "fabricante": "Unilever",
-    "linea": "Axe",
+    "linea": "Body Spray",
     "variante": "Kilo",
     "presentacion": "Aerosol de 150 ml",
     "contenido_neto": 150,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "sabor_aroma": "Aromático fresco: lavanda y sándalo",
+    "sabor_aroma": "Menta fresca y madera",
     "genero": "Hombre",
-    "otros": "Formato: aerosol; Sin sales de aluminio; Protección: 48 horas"
+    "otros": "Formato: aerosol; Sin sales de aluminio; No es antitranspirante; Con alcohol; Protección: 48 horas; Dermatológicamente testeado; Apto para piel sensible; Zona de aplicación: axilas y cuerpo"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17017199"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7506306203044_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7506306203044-1.jpg?h=1400",
-      "pagina": "https://www.delsol.com.mx/wcs/shop/es/delsol/aerosol-desodorante-axe-kilo-150ml",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 1049,
-      "fecha": "2026-09-29",
-      "lado_util": 972
+      "archivo": "7506306203044_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_907139-MLA99348313696_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17017199",
+      "ancho_original": 426,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.axe.com/mx/p/desodorante-en-aerosol-kilo-150-ml.html/07506306203044",
@@ -53,7 +53,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17017199, 2026-09-29). Fuentes: catálogo ML MLM17017199 (origen gtin, Axe Kilo 150 ml aerosol): 48 horas, menta fresca y madera, 0 % sales de aluminio, modo de uso, lata reciclable, con alcohol, no antitranspirante; descripción y ficha actuales (evitar uso íntimo, fabricante Unilever). CORRECCIÓN: la ficha actual decía aroma 'lavanda y sándalo'; el catálogo del mismo GTIN dice 'menta fresca y madera', se corrigió sabor_aroma y linea (catálogo: Body Spray). Redacción propia. La advertencia sobre fuego y calor se deduce de 'aerosol' y 'con alcohol' del catálogo, no es texto de una fuente.",
     "notas_imagenes": "1 foto de tienda (Del Sol, 1000 px), lata de 150 ml de frente. La imagen del sitio oficial no pudo descargarse con el script por bloqueo 403.",
     "fecha": "2026-09-29",
     "sesion": 6

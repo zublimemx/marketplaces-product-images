@@ -27,7 +27,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172138"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501070903053_1.jpg",
-      "origen": "fabricante",
-      "fuente_url": "https://cdn.gdar.com.mx/archivos/Libertrim-Pediátrico-30-Ml-7501070903053-638575086932426085-1.jpg",
-      "pagina": "https://pacientes.sfe.com.mx/eCommerce/item/3956/libertrim-pedi%C3%A1trico-30-ml",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 712,
-      "fecha": "2026-09-29",
-      "lado_util": 660
+      "archivo": "7501070903053_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_824779-MLU78661591692_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172138",
+      "ancho_original": 569,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     },
     {
       "archivo": "7501070903053_2.jpg",

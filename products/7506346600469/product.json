@@ -5,7 +5,7 @@
   "nombre_sistema": "KOHN VASO COPRO",
   "nombres_sistema_alternos": [],
   "titulo": "Vaso Recolector Kohn Coprológico 120 ml 1 Pieza",
-  "descripcion": "Descripción:\nVaso recolector desechable Kohn de 120 ml con tapa, conocido como vaso copro o vaso coprológico. Está pensado para recolectar y transportar muestras de orina y de heces en laboratorios, clínicas y hospitales. Se vende por pieza, en empaque individual.\n\nCaracterísticas:\n- Capacidad de 120 ml\n- Vaso transparente con tapa roja\n- Elaborado de polipropileno 100% virgen\n- Desechable, de un solo uso\n- Fácil de usar y apto para uso unisex\n- El empaque lo identifica como vaso recolector disposable desechable de 120 ml\n\nPresentación:\n1 pieza en bolsa individual.\n\nAdvertencias:\n- Producto desechable: no se reutilice.",
+  "descripcion": "Descripción:\nVaso recolector desechable Kohn, con capacidad de 120 ml y tapa, conocido como vaso copro o vaso coprológico. Está diseñado para recolectar y transportar muestras de orina y de heces que se entregan a laboratorios, clínicas y hospitales para su análisis. Se vende por pieza, en empaque individual.\n\nBeneficios:\n- Capacidad de 120 ml\n- Vaso transparente con tapa roja\n- Elaborado con polipropileno 100 % virgen\n- Desechable, de un solo uso\n- Se entrega en bolsa individual\n- El empaque lo identifica como vaso recolector desechable de 120 ml\n\nModo de uso:\nRecolecte la muestra en el vaso, ciérrelo bien con la tapa y entréguelo siguiendo las indicaciones de su médico o del laboratorio.\n\nPresentación:\n1 pieza en bolsa individual.\n\nAdvertencias:\n- Producto desechable: no se reutilice.\n- No se indica que el envase sea estéril; si su estudio lo requiere, consulte con su laboratorio.\n- Mantenga fuera del alcance de los niños.",
   "ficha": {
     "marca": "Kohn",
     "presentacion": "1 pieza en bolsa individual",
@@ -60,7 +60,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado como código de barras en varias tiendas. Algunas fichas lo llaman estéril, otras no; no se afirma esterilidad. No se encontró fabricante. Categoría elegida por ser envase de muestras (Material de Laboratorio > Otros); no hay una categoría de recolectores de muestras.",
+    "notas": "GTIN confirmado como código de barras en varias tiendas. Algunas fichas lo llaman estéril, otras no; no se afirma esterilidad. No se encontró fabricante. Categoría elegida por ser envase de muestras (Material de Laboratorio > Otros); no hay una categoría de recolectores de muestras. Descripción reescrita el 2026-09-29 con el catálogo y otros vendedores de Mercado Libre. Sin catálogo ML ni otros vendedores. Fuentes: descripción actual y notas de investigación (GTIN confirmado en tiendas; no se encontró fabricante). Se omitió 'apto para uso unisex' por no aportar información útil y no se afirma esterilidad (algunas fichas la mencionan, otras no). El modo de uso es una indicación general derivada del propósito del producto, no un dato del fabricante.",
     "notas_imagenes": "2 fotos de tienda (Medart 1000 px y Farmacia Herrera 1024 px); se borró un ícono de 'sin imagen' de otra tienda.",
     "fecha": "2026-09-29",
     "sesion": 4

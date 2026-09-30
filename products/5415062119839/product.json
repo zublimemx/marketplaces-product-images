@@ -36,6 +36,17 @@
   },
   "imagenes": [
     {
+      "archivo": "5415062119839_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_688724-MLU78661584896_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170244",
+      "ancho_original": 479,
+      "alto_original": 1056,
+      "lado_final": 1036,
+      "lado_util": 960,
+      "fecha": "2026-09-29"
+    },
+    {
       "archivo": "5415062119839_1.jpg",
       "origen": "tienda",
       "fuente_url": "https://www.benavides.com.mx/media/catalog/product/2/0/20240612_697672.jpg",

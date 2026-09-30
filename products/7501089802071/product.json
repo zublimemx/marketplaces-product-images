@@ -26,7 +26,7 @@
       "categoria_id": "MLM457817",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
       "categoria_rx_sugerida": "MLM457830",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39476455"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501089802071_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw4ff5ac37/images/large/7501089802071_1.jpg",
-      "pagina": "https://www.yza.mx/braxan-200mg-20-comp/MXYZ_7501089802071.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 974,
-      "fecha": "2026-09-29",
-      "lado_util": 902
+      "archivo": "7501089802071_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_939241-MLA95601404712_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476455",
+      "ancho_original": 992,
+      "alto_original": 736,
+      "lado_final": 976,
+      "lado_util": 903,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501089802071_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_832422-MLA96041552613_102025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476455",
+      "ancho_original": 986,
+      "alto_original": 734,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

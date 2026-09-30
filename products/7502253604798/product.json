@@ -7,14 +7,17 @@
   "titulo": "Bloqueador Solar Fotosun UV 100 en Barra FPS 50+ 20 g",
   "descripcion": "Descripción:\nFotosun UV 100 Solar Stick es un protector solar en barra con FPS 50 que ayuda a proteger la piel contra los rayos UVA, UVB y la luz azul, que contribuyen al envejecimiento prematuro. Su formato tipo stick permite aplicarlo de forma directa, rápida y sin ensuciarse las manos, en el rostro y otras zonas expuestas, y resulta ideal para reaplicar durante el día sin afectar tu rutina o tu maquillaje.\n\nBeneficios:\n- Alta protección FPS 50 contra rayos UVA, UVB y luz azul\n- Formato en barra práctico y sin contacto\n- Ideal para reaplicar durante el día\n- Textura ligera y cómoda que se desliza fácilmente sobre la piel\n- Tamaño portátil de 20 g para el uso diario y de viaje\n\nModo de uso:\n1. Aplique directamente sobre rostro, cuello y escote.\n2. Distribuya de manera uniforme en las zonas expuestas.\n3. Reaplique cada 2 horas o después de sudar, bañarse o secarse.\n\nPresentación:\nBarra con 20 g de protector solar.",
   "ficha": {
-    "marca": "Fotosun UV 100",
+    "marca": "Fotosun",
     "fabricante": "Daclaf",
     "linea": "Solar Stick",
     "presentacion": "Barra",
     "contenido_neto": 20,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "otros": "FPS 50; protección UVA, UVB y luz azul; formato en barra para rostro y zonas expuestas"
+    "otros": "FPS 50+; protección UVA, UVB y luz azul; formato en barra para rostro y zonas expuestas; Acabado invisible (sin color); Resistente al agua y al sudor; Hipoalergénico y dermatológicamente probado; Libre de aceite y de parabenos; Libre de crueldad animal",
+    "variante": "UV 100 FPS 50+",
+    "edad_etapa": "A partir de 12 años",
+    "tipo_piel_cabello": "Todo tipo de piel, incluida piel sensible"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -22,7 +25,7 @@
       "categoria_id": "MLM178702",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado de la Piel > Protección Solar > Protectores y Bloqueadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM67882952"
     },
     "amazon": {},
     "shopify": {},
@@ -47,9 +50,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN 7502253604798 no se confirmó en las páginas abiertas; se identificó por nombre y por el tamaño de 20 g del Solar Stick FPS 50. El nombre dice 50+ y la ficha dice FPS 50. Fabricante Daclaf tomado del vendedor y de la ficha PLM de la marca.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM67882952, 2026-09-29). Catálogo MLM67882952 (protector solar en barra Fotosun UV100 FPS 50+, 20 g, Solar Stick). Coinciden marca, línea Solar Stick, 20 g y formato en barra. El título del catálogo y el nombre del sistema dicen FPS 50+, frente al 'FPS 50' de la ficha (el atributo numérico del catálogo dice 50). Se normaliza la marca a 'Fotosun' (UV100 es el producto en el catálogo) y se agregan edad, tipo de piel y características.",
     "notas_imagenes": "1 foto de frente a la barra (tienda, 1364 px). Se descartaron 8 imágenes publicitarias y de estilo de vida con texto.",
     "fecha": "2026-09-29",
     "sesion": 5

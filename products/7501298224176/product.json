@@ -26,7 +26,7 @@
       "categoria_id": "MLM457812",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "MLM457836",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40172367"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501298224176_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501298224176_1.jpg",
-      "pagina": "https://www.fahorro.com/gavindo-n-60-capsulas.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1437,
-      "fecha": "2026-09-29",
-      "lado_util": 1331
+      "archivo": "7501298224176_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_659295-MLA87286026447_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172367",
+      "ancho_original": 889,
+      "alto_original": 765,
+      "lado_final": 867,
+      "lado_util": 803,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501298224176_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_887068-MLU78896536121_092024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40172367",
+      "ancho_original": 990,
+      "alto_original": 792,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

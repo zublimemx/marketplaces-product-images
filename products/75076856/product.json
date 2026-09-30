@@ -16,7 +16,7 @@
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "genero": "Hombre",
-    "otros": "Protección: hasta 96 horas; Formato: crema invisible en barra; Anti-manchas; Secado rápido; Textura ligera"
+    "otros": "Protección: hasta 96 horas; Formato: crema invisible en barra; Anti-manchas; Secado rápido; Textura ligera; 3 veces más protección contra el sudor que un antitranspirante básico; Fragancia encapsulada; Con ingrediente humectante; Sin alcohol; Dermatológicamente probado; Apto para piel sensible"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +24,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM31033688"
     },
     "amazon": {},
     "shopify": {},
@@ -61,9 +61,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se abrió ninguna ficha mexicana con el GTIN de 8 dígitos; la información viene de la ficha oficial de la misma variante (48 g, Argentina) y de las fotos del empaque, que coinciden con Men Clinical Sport Strength 96 h. El contenido de 58 g viene del nombre del sistema.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM31033688, 2026-09-29). Catálogo MLM31033688 (Rexona Men Clinical Sport Strength en crema, 58 g, protección 96 h, hombre, antitranspirante). Coinciden marca, línea, variante, formato crema, 58 g, género y 96 h. No se adopta 'libre de aluminio' (atributo dudoso en un antitranspirante) ni la vida útil.",
     "notas_imagenes": "2 fotos de tienda (frente del empaque con barra), 1263 y 949 px; se borró un duplicado. El sitio oficial de México devolvió 403.",
     "fecha": "2026-09-29",
     "sesion": 6

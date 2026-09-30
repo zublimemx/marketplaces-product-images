@@ -42,8 +42,8 @@ Todas vienen del dueño salvo donde se indica "supuesto". Los valores numéricos
 | Precio de venta | Precio del catálogo (IVA incluido) |
 | Precio de venta Marketplaces | Precio de venta + $4 por pieza (empaque y logística interna) |
 | Precio Meli calculado | Precio de venta Marketplaces + comisión de Mercado Libre + costo fijo o, si el precio queda en $299 o más, + costo de envío; redondeado al peso hacia arriba |
-| Precio Meli promedio otros vendedores | Dato de entrada, solo de referencia (pendiente de obtener) |
-| Precio mejor vendedor | Dato de entrada: precio de la publicación del mismo producto con más ventas (pendiente; si la API no da ventas, ganador del catálogo) |
+| Precio Meli promedio otros vendedores | Dato de entrada, solo de referencia: media de las publicaciones nuevas de otros vendedores en el catálogo del producto, sin atípicas (más del doble de la mediana) (`docs/MERCADOLIBRE_API.md`) |
+| Precio mejor vendedor | Dato de entrada: la API ya no da ventas por publicación, así que se toma la publicación del vendedor con más ventas históricas en el catálogo del producto; en empate, la más barata. No se usa si el catálogo del GTIN es otro producto u otra presentación (`data/catalogo_ml_rechazados.csv`) |
 | Precio Meli Final | Precio con el que se publica. Si hay precio del mejor vendedor y (mejor vendedor − $1) ≥ calculado: mejor vendedor − $1; si no, el calculado. Regla del dueño del 29 sep 2026 (antes se usaba el promedio de otros vendedores) |
 
 Comisión (publicación Clásica, fuentes en `config/mercadolibre.json`):

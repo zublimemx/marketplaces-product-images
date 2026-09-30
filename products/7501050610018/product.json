@@ -25,7 +25,7 @@
       "categoria_id": "MLM194698",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antihistamínicos",
       "categoria_rx_sugerida": "MLM457837",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39474296"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,39 @@
       "lado_final": 1034,
       "fecha": "2026-09-29",
       "lado_util": 958
+    },
+    {
+      "archivo": "7501050610018_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_761479-MLA83946270858_042025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474296",
+      "ancho_original": 949,
+      "alto_original": 534,
+      "lado_final": 932,
+      "lado_util": 862,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501050610018_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_874630-MLU78656510669_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474296",
+      "ancho_original": 991,
+      "alto_original": 496,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501050610018_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_800701-MLA87285997327_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39474296",
+      "ancho_original": 1200,
+      "alto_original": 553,
+      "lado_final": 1296,
+      "lado_util": 1200,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

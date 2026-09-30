@@ -25,7 +25,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19678224"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501035911567_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501035911567.jpg",
-      "pagina": "https://www.fahorro.com",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1526,
-      "fecha": "2026-09-29",
-      "lado_util": 1413
+      "archivo": "7501035911567_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_991390-MLA99888018391_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19678224",
+      "ancho_original": 1061,
+      "alto_original": 272,
+      "lado_final": 1022,
+      "lado_util": 947,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035911567_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_607996-MLM74221428387_012024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19678224",
+      "ancho_original": 1195,
+      "alto_original": 478,
+      "lado_final": 1166,
+      "lado_util": 1080,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

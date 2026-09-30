@@ -25,7 +25,7 @@
       "categoria_id": "MLM438195",
       "categoria_ruta": "Salud y Equipamiento Médico > Suplementos Alimenticios",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM40170534"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,37 @@
   },
   "imagenes": [
     {
-      "archivo": "7501065095978_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7501065095978_2.jpg",
-      "pagina": "https://www.fahorro.com/centrum-multivitaminico-performance-30-tabletas.html",
-      "ancho_original": 960,
-      "alto_original": 960,
-      "lado_final": 948,
-      "fecha": "2026-09-29",
-      "lado_util": 879
+      "archivo": "7501065095978_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_652980-MLA106754810387_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170534",
+      "ancho_original": 652,
+      "alto_original": 1200,
+      "lado_final": 1182,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501065095978_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_658236-MLA86961185228_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170534",
+      "ancho_original": 751,
+      "alto_original": 1200,
+      "lado_final": 1180,
+      "lado_util": 1093,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501065095978_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_975936-MLA106756142215_022026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM40170534",
+      "ancho_original": 658,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

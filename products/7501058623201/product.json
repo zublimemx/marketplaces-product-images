@@ -17,10 +17,10 @@
     "contenido_neto": 400,
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
-    "edad_etapa": "Etapa 3 (a partir de 1 año)",
+    "edad_etapa": "Etapa 3 (de 1 a 3 años)",
     "sabor_aroma": "Sin sabor",
     "genero": "Unisex",
-    "otros": "Etapa: 3; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Formato de venta: Unidad"
+    "otros": "Etapa: 3; Con HMO: Sí; Con DHA: Sí; Con probióticos: Sí; Formato de venta: Unidad; Contiene lactosa: Sí; Conservación a temperatura ambiente"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -28,7 +28,7 @@
       "categoria_id": "MLM189058",
       "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM16997449"
     },
     "amazon": {},
     "shopify": {},
@@ -66,9 +66,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN en línea: se agotó el límite de búsquedas web de la sesión (200 de 200). La ficha de Nestlé México confirma NAN 3 Optimal Pro para niños de 1 año en adelante y la presentación de 400 g. El GTIN 7501058623201 sigue la secuencia de NAN 1 (...188) y NAN 2 (...195) del lote 1, ya confirmados como latas de 400 g, pero no se verificó por sí mismo. Sabor 'Sin sabor' y formato lata se asumieron por las otras etapas. El 'JULIO 27' del nombre es caducidad y se ignoró. En ML la línea se llama Optipro; Nestlé México ya usa Optimal Pro.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM16997449, 2026-09-29). Comparado: marca Nan, fabricante Nestlé, línea Optimal Pro 3 (la ficha usa 'Optipro'; sin cambio), lata en polvo, 400 g, unidad 1, edad de 1 a 3 años. Todo coincide; el catálogo confirma los 400 g por su propio GTIN. El sabor 'Sin sabor' no aparece en el catálogo (no comparable). No se usa lo de gluten: la característica dice 'libre de gluten' pero el atributo dice 'Es libre de gluten: No'. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "2 fotos (tienda, Chedraui): lata NAN 3 Optimal Pro 400 g de frente (_4) y en 3/4 (_5), 1200 px. La página oficial de Nestlé solo muestra 320 g y 800 g, y la foto de Open Food Facts es un snapshot con fondo sucio; ambas descartadas. Las fotos de Farmatodo (diseño anterior) también se descartaron para no mezclar diseños."
   }

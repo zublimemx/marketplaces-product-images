@@ -26,13 +26,24 @@
       "categoria_id": "MLM457824",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
       "categoria_rx_sugerida": "MLM457829",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39476152"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
   "imagenes": [
+    {
+      "archivo": "7501125109928_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_711887-MLU78425264744_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476152",
+      "ancho_original": 320,
+      "alto_original": 990,
+      "lado_final": 972,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
+    },
     {
       "archivo": "7501125109928_1.jpg",
       "origen": "tienda",
@@ -45,15 +56,15 @@
       "lado_util": 1200
     },
     {
-      "archivo": "7501125109928_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dw6b3f4dd8/images/large/7501125109928_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/soldrin-otico-10ml/MXYZ_7501125109928.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 787,
-      "fecha": "2026-09-29",
-      "lado_util": 729
+      "archivo": "7501125109928_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_835192-MLA86960991468_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476152",
+      "ancho_original": 360,
+      "alto_original": 1158,
+      "lado_final": 1138,
+      "lado_util": 1054,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

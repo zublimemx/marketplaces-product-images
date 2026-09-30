@@ -15,9 +15,10 @@
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
     "principio_activo": "Loratadina y fenilefrina",
-    "concentracion": "Loratadina 10 mg y fenilefrina 40 mg por cada 10 ml",
+    "concentracion": "Loratadina 1 mg/ml y fenilefrina 4 mg/ml (10 mg y 40 mg por cada 10 ml)",
     "via_administracion": "Oral",
-    "otros": "Forma farmacéutica: jarabe; Incluye vaso dosificador"
+    "otros": "Forma farmacéutica: jarabe; Incluye vaso dosificador; Condición de venta: con receta médica (fracción IV, según catálogo ML)",
+    "registro_sanitario": "131M2002 SSA"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM457814",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473604"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501314703647_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://openfarma.mx/cdn/shop/files/dimegan_d_infantil_1_2_mg_ml_60_ml_jarabe_7501314703647_1_ede7854d-2337-43db-8bba-35f5f4cf0ef2.jpg?v=1757125623",
-      "pagina": "https://openfarma.mx/products/dimegan-d-infantil-1-2-mg-ml-60-ml-jarabe",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 732,
-      "fecha": "2026-09-29",
-      "lado_util": 677
+      "archivo": "7501314703647_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_968915-MLA88129503221_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39473604",
+      "ancho_original": 475,
+      "alto_original": 991,
+      "lado_final": 973,
+      "lado_util": 900,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -52,9 +53,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El nombre del sistema dice 'INF' pero el empaque no dice infantil; un listado con el mismo GTIN lo llama 'Infantil 1/2 mg/ml' mientras el empaque y otros listados indican 10 mg/40 mg/10 ml. Se usó la concentración del empaque. Indicaciones inferidas de los principios activos; condición de venta no confirmada.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39473604, 2026-09-29). Catálogo MLM39473604 (Dimegan-D jarabe, frasco de 60 ml, Senosiain, loratadina 1 mg + fenilefrina 4 mg por ml según el título 0.1 g/0.4 g por 100 ml, receta requerida fracción IV, registro 131M2002 SSA). 1 mg/ml y 4 mg/ml equivalen a los 10 mg y 40 mg por 10 ml de la ficha y descartan la lectura 'Infantil 1/2 mg/ml' de otra ficha. El catálogo no dice 'infantil'; la 'INF' del nombre del sistema sigue sin confirmarse.",
     "notas_imagenes": "1 foto de frente al empaque, origen tienda, 800 px. Otras fotos disponibles eran menores de 500 px.",
     "fecha": "2026-09-29",
     "sesion": 5

@@ -21,7 +21,7 @@
       "categoria_id": "MLM191087",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM25803905"
     },
     "amazon": {},
     "shopify": {},
@@ -29,15 +29,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501868900127_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmasuper.com.mx/web/image/product.template/64272/image_1024?unique=3f0f217",
-      "pagina": "https://farmasuper.com.mx/en/shop/7501868900127-gasa-dibar-10x10-caja-10-pza-64272",
-      "ancho_original": 500,
-      "alto_original": 500,
-      "lado_final": 540,
-      "fecha": "2026-09-29",
-      "lado_util": 272
+      "archivo": "7501868900127_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_639686-MLU77743812830_072024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25803905",
+      "ancho_original": 1200,
+      "alto_original": 1166,
+      "lado_final": 1179,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501868900127_5.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_951267-MLU74236518265_012024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM25803905",
+      "ancho_original": 1195,
+      "alto_original": 640,
+      "lado_final": 1173,
+      "lado_util": 1087,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

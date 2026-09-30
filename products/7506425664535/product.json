@@ -10,12 +10,12 @@
     "marca": "KleenBebé",
     "fabricante": "Kimberly-Clark",
     "linea": "Suavelastic Max",
-    "presentacion": "Toallitas húmedas",
+    "presentacion": "Ahorrapack: 2 paquetes de 99 toallitas húmedas",
     "contenido_neto": 198,
     "unidad_contenido": "toallitas",
     "unidades_por_envase": 198,
     "edad_etapa": "Bebés",
-    "otros": "Fibras naturales; Doble textura; Total de 198 toallitas (la distribución en paquetes no se confirmó); Formato de venta: Paquete"
+    "otros": "Fibras naturales; Doble textura; Total de 198 toallitas (2 paquetes de 99); Formato de venta: Ahorrapack (pack x2); Libre de alcohol; Hipoalergénico; Dermatológicamente probado; Apto para piel sensible; Con aloe vera, vitamina E y té verde"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -23,13 +23,25 @@
       "categoria_id": "MLM187794",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM51584290"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7506425664535_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_936498-MLA117149670339_092026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM51584290",
+      "ancho_original": 1049,
+      "alto_original": 733,
+      "lado_final": 1033,
+      "lado_util": 956,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.chedraui.com.mx/toallitas-humedas-para-bebe-kleenbebe-suavelastic-max-2-paquetes-de-100-toallitas-cu-3079088/p",
@@ -37,9 +49,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "Identificado por nombre: la búsqueda mostró 'Toallitas Suavelastic Max 198 Pz' en una tienda de autoservicio, pero no se pudo abrir (bloqueo) y ninguna fuente confirma el GTIN 7506425664535. La descripción sale de las fichas de KleenBebé Suavelastic Max de 100 piezas y del pack de 2 x 100; no se sabe si las 198 piezas son un paquete o varios. Fabricante Kimberly-Clark es dato de la marca.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM51584290, 2026-09-29). Catálogo MLM51584290 (KleenBebé Ahorrapack: 2 paquetes de 99 toallitas = 198). Coinciden marca, total de 198 toallitas, fibras naturales y doble textura; resuelve la duda de la investigación: son 2 paquetes de 99. El catálogo no nombra 'Suavelastic Max' (su línea figura como 'Toallitas Húmedas Ahorrapack'); ese nombre se conserva del sistema y no se pudo confirmar con el catálogo.",
     "notas_imagenes": "Sin fotos. Chedraui abre, pero su ficha es la de 2 paquetes de 100 (200 toallitas, otra presentación) y no trae imagen; el sitio oficial de KleenBebé responde 403; la publicación de 198 piezas que salió en la búsqueda está en Amazon (no se raspa) y es un paquete con talco.",
     "fecha": "2026-09-29",
     "sesion": 4

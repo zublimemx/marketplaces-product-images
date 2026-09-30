@@ -26,7 +26,7 @@
       "categoria_id": "MLM189058",
       "categoria_ruta": "Bebés > Comida para Bebés > Leche para Bebés",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM9344482"
     },
     "amazon": {},
     "shopify": {},
@@ -34,15 +34,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7506205809316_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwe8c78dce/images/large/7506205809316_1.jpg?sw=1000&sh=1000",
-      "pagina": "https://www.yza.mx/enfamil-1-de-0-a-12-meses-800-g/MXYZ_7506205809316.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 894,
-      "fecha": "2026-09-29",
-      "lado_util": 828
+      "archivo": "7506205809316_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_796291-MLA116987031761_082026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM9344482",
+      "ancho_original": 783,
+      "alto_original": 1094,
+      "lado_final": 1071,
+      "lado_util": 992,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

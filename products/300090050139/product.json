@@ -27,7 +27,7 @@
       "categoria_id": "MLM457813",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "MLM457834",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39476313"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,26 @@
   },
   "imagenes": [
     {
-      "archivo": "300090050139_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.yza.mx/on/demandware.static/-/Sites-masterCatalog_YzaMexico/default/dwfecaa004/images/large/300090050139_1.jpg",
-      "pagina": "https://www.yza.mx/provera-10mg-10-tabs/MXYZ_300090050139.html",
-      "ancho_original": 1000,
-      "alto_original": 1000,
-      "lado_final": 706,
-      "fecha": "2026-09-29",
-      "lado_util": 654
+      "archivo": "300090050139_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_945251-MLA82944721428_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476313",
+      "ancho_original": 992,
+      "alto_original": 714,
+      "lado_final": 975,
+      "lado_util": 902,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "300090050139_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_868800-MLU78425264896_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39476313",
+      "ancho_original": 1058,
+      "alto_original": 591,
+      "lado_final": 1038,
+      "lado_util": 962,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

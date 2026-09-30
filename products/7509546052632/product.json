@@ -15,8 +15,9 @@
     "contenido_neto": 75,
     "unidad_contenido": "ml",
     "unidades_por_envase": 1,
-    "otros": "Incluye cepillo dental y crema dental Triple Acción; Crema dental Triple Acción Menta Original con flúor (anticaries); Beneficios de la crema: protección anticaries, dientes más blancos y aliento fresco; Efecto blanqueador",
-    "sabor_aroma": "Menta Original"
+    "otros": "Incluye cepillo dental y crema dental Triple Acción; Crema dental Triple Acción Menta Original con flúor (anticaries); Beneficios de la crema: protección anticaries, dientes más blancos y aliento fresco; Efecto blanqueador; Cepillo de cerdas medias; Mango antideslizante",
+    "sabor_aroma": "Menta Original",
+    "edad_etapa": "A partir de 12 años"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,13 +25,36 @@
       "categoria_id": "MLM167988",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19606260"
     },
     "amazon": {},
     "shopify": {},
     "odoo": {}
   },
-  "imagenes": [],
+  "imagenes": [
+    {
+      "archivo": "7509546052632_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_668583-MLA99372561508_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19606260",
+      "ancho_original": 1200,
+      "alto_original": 369,
+      "lado_final": 1169,
+      "lado_util": 1082,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7509546052632_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_708068-MLA82583361196_032025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19606260",
+      "ancho_original": 1200,
+      "alto_original": 580,
+      "lado_final": 1170,
+      "lado_util": 1084,
+      "fecha": "2026-09-29"
+    }
+  ],
   "url_oficial": "",
   "fuentes": [
     "https://www.amazon.com.mx/Colgate-Cepillo-Dental-75-ml/dp/B06XPHPZWP",
@@ -39,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "El GTIN no se confirmó en ninguna ficha; se identificó por el nombre (cepillo Colgate Triple Acción con crema dental de 75 ml). La ficha de Amazon habla de un paquete de 2 piezas, presentación que puede diferir. Se ignoró la caducidad del nombre del sistema (oct 26).",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM19606260, 2026-09-29). Catálogo MLM19606260 (Kit Colgate Triple Acción pasta 75 ml + cepillo dental mediano). Coinciden marca, línea Triple Acción, crema de 75 ml y kit de cepillo + crema. El catálogo no menciona el sabor 'Menta Original'; el título está en singular y no indica el paquete de 2 piezas que vio la investigación en otra fuente.",
     "notas_imagenes": "Sin fotos válidas. HEB y Walmart confirman el GTIN 7509546052632 como cepillo + pasta Colgate Triple Acción de 75 ml (1 pieza + 75 ml). Descartadas tras verlas: 6 fotos de HEB (720 px; una con sello 'CREMA DENTAL GRATIS', una con texto de la caja, una solo de la caja de crema, tres gráficos publicitarios), 2 fotos de Del Sol (2000 px, paquete correcto pero con sello 'PRECIO ESPECIAL'), Walmart (imagen genérica 'próximamente'). Benavides ofrece otra variante (Twister) y Colgate oficial no lista este combo. Si el dueño acepta el sello promocional, las de Del Sol son las únicas de 2000 px del paquete completo: https://detqhtv6m6lzl.cloudfront.net/HCLContenido/producto/FullImage/7509546052632-1.jpeg",
     "fecha": "2026-09-29",
     "sesion": 6

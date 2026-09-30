@@ -24,7 +24,7 @@
       "categoria_id": "MLM168075",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM28358825"
     },
     "amazon": {},
     "shopify": {},
@@ -41,6 +41,28 @@
       "lado_final": 864,
       "fecha": "2026-09-29",
       "lado_util": 800
+    },
+    {
+      "archivo": "7509546674018_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_925839-MLA99817309771_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM28358825",
+      "ancho_original": 1197,
+      "alto_original": 413,
+      "lado_final": 1175,
+      "lado_util": 1087,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7509546674018_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_868928-MLU74178842643_012024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM28358825",
+      "ancho_original": 1198,
+      "alto_original": 406,
+      "lado_final": 1173,
+      "lado_util": 1087,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

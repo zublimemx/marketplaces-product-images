@@ -24,7 +24,7 @@
       "categoria_id": "MLM430117",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Shampoos y Acondicionadores",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17795437"
     },
     "amazon": {},
     "shopify": {},
@@ -32,14 +32,14 @@
   },
   "imagenes": [
     {
-      "archivo": "7509546072050_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://heb-prod.styrk.io/loolu/cdn/ecommerce/img/1/312593/312593_01.webp?v=0b567458",
-      "pagina": "https://www.heb.com.mx/mennen-shampoo-nectar-de-miel-y-manzanilla-200-ml-615063/p",
-      "ancho_original": 720,
-      "alto_original": 720,
-      "lado_final": 737,
-      "lado_util": 683,
+      "archivo": "7509546072050_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_782598-MLA99883329323_112025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17795437",
+      "ancho_original": 442,
+      "alto_original": 1200,
+      "lado_final": 1177,
+      "lado_util": 1090,
       "fecha": "2026-09-29"
     }
   ],

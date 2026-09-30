@@ -17,7 +17,8 @@
     "principio_activo": "Cloruro de sodio",
     "concentracion": "0.9%",
     "via_administracion": "Intravenosa",
-    "otros": "Forma farmacéutica: solución inyectable; Envase mini oval de 100 ml; Uso bajo supervisión médica"
+    "otros": "Forma farmacéutica: solución inyectable; Envase mini oval de 100 ml; Uso bajo supervisión médica; Condición de venta: con receta médica (fracción IV, según catálogo ML)",
+    "registro_sanitario": "82175 SSA"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM457891",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Soluciones Fisiológicas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475114"
     },
     "amazon": {},
     "shopify": {},
@@ -33,20 +34,20 @@
   },
   "imagenes": [
     {
+      "archivo": "7501125115479_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_678935-MLU78656511825_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475114",
+      "ancho_original": 356,
+      "alto_original": 893,
+      "lado_final": 876,
+      "lado_util": 814,
+      "fecha": "2026-09-29"
+    },
+    {
       "archivo": "7501125115479_1.jpg",
       "origen": "tienda",
       "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6998991/7501125115479_01.jpg",
-      "pagina": "https://www.farmatodo.com.mx/solucion-salina-cloruro-de-sodio-0-9-mini-oval-pisa-botella-c-100-ml/p",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 756,
-      "fecha": "2026-09-29",
-      "lado_util": 700
-    },
-    {
-      "archivo": "7501125115479_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/6998992/7501125115479_02.jpg",
       "pagina": "https://www.farmatodo.com.mx/solucion-salina-cloruro-de-sodio-0-9-mini-oval-pisa-botella-c-100-ml/p",
       "ancho_original": 800,
       "alto_original": 800,
@@ -62,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "El nombre del sistema termina en 50, dato que no se pudo explicar; las fichas de tienda coinciden en 100 ml al 0.9%. Se marca receta como Revisar porque es una solución intravenosa de uso médico. No se encontró registro sanitario.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39475114, 2026-09-29). Catálogo MLM39475114 (Solución CS Pisa, cloruro de sodio 0.9 g (0.9 %), frasco plástico de 100 ml, Laboratorios Pisa, receta requerida fracción IV, registro 82175 SSA). Coinciden marca, principio activo, concentración, 100 ml y forma inyectable. Se agrega el registro y la receta requerida. El '50' del sistema no aparece en el catálogo (1 frasco) y sigue sin explicarse; la variante 'mini oval' no se puede comparar.",
     "notas_imagenes": "2 fotos de tienda (farmacia en línea), 756 px: frente del envase con etiqueta y parte posterior. Se descartó un acercamiento a la escala del envase.",
     "fecha": "2026-09-29",
     "sesion": 6

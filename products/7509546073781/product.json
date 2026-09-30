@@ -5,7 +5,7 @@
   "nombre_sistema": "DESOD STEFANO MID-N SPY 113G",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante Stefano Midnight Aerosol para Caballero 113 g",
-  "descripcion": "Descripción:\nStefano Midnight es un desodorante en aerosol para caballero, en presentación de 159 ml (113 g). Forma parte de la línea original de Stefano y ofrece una fragancia masculina para acompañar el día a día, ayudando a controlar el olor corporal.\n\nCaracterísticas:\n- Desodorante en aerosol para hombre\n- Fragancia Midnight\n- Contenido: 159 ml (113 g)\n\nModo de uso:\nRocíe sobre las axilas limpias y secas, manteniendo el envase a unos 15 cm de distancia.\n\nPresentación:\nAerosol de 159 ml (113 g).\n\nAdvertencias:\nEnvase presurizado e inflamable. Manténgase alejado del fuego y del calor; no perfore ni incinere el envase. Uso externo; evite el contacto con los ojos y no lo aplique sobre piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
+  "descripcion": "Descripción:\nStefano Midnight es un desodorante en aerosol para caballero, con una fragancia fresca y duradera de carácter masculino. Su formato en aerosol distribuye el producto de manera uniforme y hace la aplicación rápida y sencilla, por lo que resulta práctico en la rutina diaria. Está formulado para usarse en las axilas; no es antitranspirante y contiene alcohol, que favorece la sensación de frescura.\n\nBeneficios:\n- Fragancia Midnight, fresca y masculina.\n- Ayuda a controlar el olor corporal.\n- Aerosol de aplicación fácil y uniforme.\n- Para uso diario en las axilas.\n\nModo de uso:\nRocíe sobre las axilas limpias y secas, manteniendo el envase a unos 15 cm de distancia.\n\nPresentación:\nAerosol de 159 ml (113 g de peso neto), una pieza.\n\nAdvertencias:\nEnvase presurizado e inflamable. Manténgase alejado del fuego y del calor; no perfore ni incinere el envase. Uso externo; evite el contacto con los ojos y no lo aplique sobre piel irritada o lastimada. Manténgase fuera del alcance de los niños.",
   "ficha": {
     "marca": "Stefano",
     "fabricante": "Colgate-Palmolive",
@@ -16,7 +16,7 @@
     "unidades_por_envase": 1,
     "sabor_aroma": "Midnight",
     "genero": "Hombre",
-    "otros": "Peso neto: 113 g; Formato: aerosol"
+    "otros": "Peso neto: 113 g; Formato: aerosol; No es antitranspirante; Con alcohol; Zona de aplicación: axilas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -24,7 +24,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17017489"
     },
     "amazon": {},
     "shopify": {},
@@ -64,7 +64,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Se interpretó 'MID-N' como Midnight (coincide con el empaque). No se encontró ficha del fabricante con beneficios; la descripción es breve y neutral. Fabricante inferido del prefijo del GTIN.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17017489, 2026-09-29). Fuentes: catálogo ML MLM17017489 (origen gtin, Stefano Midnight aerosol; 159 ml; su propia descripción dice 113 Gr; con alcohol, inflamable, no antitranspirante, axilas, hombre); descripción y ficha actuales (modo de uso a 15 cm y advertencias de aerosol). El título dice 113 g y el catálogo 159 ml: es el mismo envase (159 ml / 113 g). Sin ingredientes en las fuentes. La ficha actual marca fabricante Colgate-Palmolive, que según la investigación se infirió del prefijo del GTIN (no es dato de fuente); no se usó en la descripción.",
     "notas_imagenes": "2 fotos de tienda (aerosol de frente, 1938 y 2000 px).",
     "fecha": "2026-09-29",
     "sesion": 6

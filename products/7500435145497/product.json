@@ -25,7 +25,7 @@
       "categoria_id": "MLM457812",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM48915995"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7500435145497_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://production-media.fahorro.com/media/catalog/product/7/5/7500435145497.jpg",
-      "pagina": "https://www.fahorro.com/nyquilz-30-capsulas.html",
-      "ancho_original": 1600,
-      "alto_original": 1600,
-      "lado_final": 1541,
-      "fecha": "2026-09-29",
-      "lado_util": 1427
+      "archivo": "7500435145497_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_671461-MLA83963279287_042025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM48915995",
+      "ancho_original": 926,
+      "alto_original": 620,
+      "lado_final": 897,
+      "lado_util": 831,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

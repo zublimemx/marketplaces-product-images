@@ -26,7 +26,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM65258805"
     },
     "amazon": {},
     "shopify": {},
@@ -64,9 +64,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "GTIN no aparece en ninguna página; se identificó por el nombre y por la foto del empaque MSN (10 mg/1000 mg, frasco con 28 tabletas). Indicaciones y advertencias tomadas del medicamento de referencia (Xigduo XR) porque no se halló ficha del genérico MSN. Una farmacia lo marca sin receta por plantilla genérica; se asume con receta. Fabricante 'MSN Laboratories' inferido de la marca MSN del empaque.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM65258805, 2026-09-29). Catálogo MLM65258805 (metformina 1000 mg + dapagliflozina 10 mg, 28 tabletas, laboratorio MSN, receta requerida, registro 046M2025 SSA IV). Coinciden principios activos, concentración, 28 tabletas, laboratorio MSN, condición con receta y registro idéntico al de la ficha. El catálogo solo dice 'comprimido' y no menciona liberación prolongada; ese dato se conserva de la ficha y del nombre del sistema. La categoría del sistema 'venta libre / digestivos' es incorrecta: el catálogo exige receta.",
     "notas_imagenes": "2 fotos nuevas (tienda, YZA): frente de la caja MSN (547 px útiles) y reverso con fórmula y datos legales (554 px), ambas de 1000x1000 px de origen. Se borró la vieja de Benavides (450 px). No llegan a 800 px porque la caja es angosta dentro del lienzo. Del reverso se leyó Reg. No. 046M2025 SSA IV y se agregó a la ficha. Sin búsqueda web.",
     "fecha": "2026-09-29",
     "sesion": 4

@@ -15,11 +15,12 @@
     "contenido_neto": 15,
     "unidad_contenido": "tabletas",
     "unidades_por_envase": 15,
-    "principio_activo": "Dropropizina; Ambroxol",
+    "principio_activo": "Dropropizina; Clorhidrato de ambroxol",
     "concentracion": "30 mg/30 mg por tableta",
     "via_administracion": "Oral",
     "edad_etapa": "Mayores de 12 años y adultos",
-    "otros": "Forma farmacéutica: tableta"
+    "otros": "Forma farmacéutica: tableta; Condición de venta: con receta médica (fracción IV, según catálogo ML)",
+    "registro_sanitario": "291M2018 SSA"
   },
   "receta_mx": "Revisar",
   "marketplaces": {
@@ -27,7 +28,7 @@
       "categoria_id": "MLM457814",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39473929"
     },
     "amazon": {},
     "shopify": {},
@@ -65,9 +66,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
+    "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "GTIN confirmado, pero la ficha de una farmacia lista solo dropropizina 30 mg (versión sin ambroxol); la composición dropropizina/ambroxol 30/30 mg sale del empaque y de otras tiendas. No se encontró la dosis ni la clasificación de receta: una ficha lo marca como fracción IV y no trae la leyenda de receta; revisar.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM39473929, 2026-09-29). Catálogo MLM39473929 (Troferit-flow 30/30 mg, 15 tabletas, comprimido, ambroxol clorhidrato 30 mg + dropropizina 30 mg). Coinciden marca, línea, concentración, forma y 15 tabletas. Resuelve dudas de la investigación: es la versión con ambroxol y requiere receta (simple, fracción IV), lo que contradice la categoría 'venta libre' del sistema. Discrepancia sin resolver: el catálogo indica laboratorio 'Productos Científicos, S.A. de C.V.' y la ficha 'Productos Farmacéuticos, S.A. de C.V. (Chinoin)'; no se cambió el fabricante, verificar en el empaque.",
     "notas_imagenes": "2 fotos de tienda (Farmacias del Ahorro 1200 px, con fórmula, y Farmatodo 1000 px, vista 3/4); se descartó una imagen de 400 px.",
     "fecha": "2026-09-29",
     "sesion": 4

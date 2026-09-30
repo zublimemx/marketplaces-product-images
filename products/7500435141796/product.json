@@ -25,7 +25,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM24796136"
     },
     "amazon": {},
     "shopify": {},
@@ -33,26 +33,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7500435141796_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://farmacorp.com/cdn/shop/files/7500435141796.jpg?v=1717011186",
-      "pagina": "https://farmacorp.com/products/7500435141796",
-      "ancho_original": 590,
-      "alto_original": 590,
-      "lado_final": 592,
-      "fecha": "2026-09-29",
-      "lado_util": 549
-    },
-    {
-      "archivo": "7500435141796_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.benavides.com.mx/media/catalog/product/cache/0c86ac9ceb8c52098005cd0103eaf5ba/2/0/20240612_1041888.jpg",
-      "pagina": "https://www.benavides.com.mx/old-spice-mar-profundo-desodorante-aerosol-150-ml",
-      "ancho_original": 520,
-      "alto_original": 520,
-      "lado_final": 561,
-      "fecha": "2026-09-29",
-      "lado_util": 416
+      "archivo": "7500435141796_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_715790-MLA92964243917_092025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM24796136",
+      "ancho_original": 318,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

@@ -20,7 +20,7 @@
       "categoria_id": "MLM191087",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM19639133"
     },
     "amazon": {},
     "shopify": {},
@@ -28,14 +28,36 @@
   },
   "imagenes": [
     {
-      "archivo": "7501868900134_2.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://dcdn-us.mitiendanube.com/stores/003/292/109/products/gasa-10x10-png-esteril1-0b4527a66def78d35a16886628001198-1024-1024.webp",
-      "pagina": "https://tienda.biorent.com.mx/productos/gasa-esteril-10x10-dibar-caja-con-100/",
-      "ancho_original": 497,
-      "alto_original": 597,
-      "lado_final": 644,
-      "lado_util": 597,
+      "archivo": "7501868900134_1.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_733737-MLA84471757185_052025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19639133",
+      "ancho_original": 782,
+      "alto_original": 995,
+      "lado_final": 977,
+      "lado_util": 904,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501868900134_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_769756-MLU73210712221_122023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19639133",
+      "ancho_original": 837,
+      "alto_original": 1196,
+      "lado_final": 1172,
+      "lado_util": 1086,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501868900134_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_873469-MLM48068636901_102021-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM19639133",
+      "ancho_original": 783,
+      "alto_original": 1113,
+      "lado_final": 1084,
+      "lado_util": 1004,
       "fecha": "2026-09-29"
     }
   ],

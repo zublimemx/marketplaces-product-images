@@ -27,7 +27,7 @@
       "categoria_id": "MLM457813",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM64566320"
     },
     "amazon": {},
     "shopify": {},
@@ -35,15 +35,15 @@
   },
   "imagenes": [
     {
-      "archivo": "7501590211232_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://www.fpsf.mx/cdn/shop/products/Fsp800Wx800H_5640003_1dkmur4ra_1200x1200.png?v=1610495570",
-      "pagina": "https://www.fpsf.mx/products/postinor-levonorgestrel-1-5-mg-caja-con-1-tabletas-unidosis-gedeon-richter",
-      "ancho_original": 800,
-      "alto_original": 800,
-      "lado_final": 687,
-      "fecha": "2026-09-29",
-      "lado_util": 637
+      "archivo": "7501590211232_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_736270-MLA104770673620_012026-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM64566320",
+      "ancho_original": 925,
+      "alto_original": 1200,
+      "lado_final": 1179,
+      "lado_util": 1092,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

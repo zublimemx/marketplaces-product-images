@@ -25,7 +25,7 @@
       "categoria_id": "MLM457818",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
       "categoria_rx_sugerida": "MLM457832",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39475656"
     },
     "amazon": {},
     "shopify": {},
@@ -33,15 +33,26 @@
   },
   "imagenes": [
     {
-      "archivo": "7501299308806_1.jpg",
-      "origen": "tienda",
-      "fuente_url": "https://gruporfp.vtexassets.com/arquivos/ids/7002606/7501299308806_03.jpg",
-      "pagina": "https://www.farmatodo.com.mx/continental-10-mg-caja-c-20-tabletas-v1/p",
-      "ancho_original": 1200,
-      "alto_original": 923,
-      "lado_final": 1210,
-      "fecha": "2026-09-29",
-      "lado_util": 1120
+      "archivo": "7501299308806_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_783605-MLA86961031342_072025-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475656",
+      "ancho_original": 1034,
+      "alto_original": 727,
+      "lado_final": 1016,
+      "lado_util": 941,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501299308806_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_822849-MLU78656453873_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39475656",
+      "ancho_original": 644,
+      "alto_original": 492,
+      "lado_final": 632,
+      "lado_util": 586,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

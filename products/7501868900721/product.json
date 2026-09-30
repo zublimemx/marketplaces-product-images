@@ -84,7 +84,7 @@
     "estado": "verificado",
     "confianza": "media",
     "encontrado_por": "nombre",
-    "notas": "El GTIN no apareció en las páginas consultadas; se identificó por nombre. El nombre del sistema 'C10 ATA C10' se interpretó como 10 paquetes con 10 piezas (código GM2 del fabricante); la ficha de Dibar también lista una versión exhibidor con 100 piezas.",
+    "notas": "El GTIN no apareció en las páginas consultadas; se identificó por nombre. El nombre del sistema 'C10 ATA C10' se interpretó como 10 paquetes con 10 piezas (código GM2 del fabricante); la ficha de Dibar también lista una versión exhibidor con 100 piezas. Catálogo de Mercado Libre MLM61968330 no coincide: El catálogo MLM61968330 describe un paquete con 10 gasas (unidades por envase: 10, 1 pack), no 100 piezas ni 10 paquetes de 10 como dice la ficha; el GTIN parece ser del paquete de 10 y no de la caja de 100. Además indica 18 capas frente a las 8 capas de la ficha (posible confusión con el tejido 18 x 24; el catálogo del otro GTIN Monarca de 100 piezas dice 8 capas). Coinciden marca Dibar, línea Monarca, 10 x 10 cm y estéril. Difieren el número de piezas y las capas. No se modifica la ficha; conviene verificar si el GTIN corresponde al paquete de 10 o a la caja.",
     "notas_imagenes": "1 foto del fabricante (Dibar, unos 1800 px) y 3 de tienda (Claroshop, unos 1600 px).",
     "fecha": "2026-09-29",
     "sesion": 6

@@ -5,7 +5,7 @@
   "nombre_sistema": "MASC FRUCTIS CAB SECO AGUACA350ML",
   "nombres_sistema_alternos": [],
   "titulo": "Mascarilla Capilar Garnier Fructis Hair Food Aguacate 350 ml",
-  "descripcion": "Descripción:\nLa Mascarilla Garnier Fructis Hair Food Aguacate es un tratamiento de nutrición en 1 minuto para cabello seco. Su fórmula vegana, con 98% de ingredientes de origen natural, tiene al aguacate como ingrediente estrella, reconocido por sus propiedades antioxidantes y restauradoras. Se presenta en tarro de 350 ml.\n\nBeneficios:\n- Nutre el cabello y lo deja suave y brillante, sin dejarlo pesado ni con efecto graso.\n- Aporta restauración y fortalecimiento capilar.\n- El efecto antioxidante del aguacate da brillo y suavidad.\n- Fórmula vegana, 98% biodegradable, sin siliconas, parabenos ni colorantes artificiales.\n- Producto certificado cruelty free.\n\nModo de uso:\nAplique de medios a puntas y enjuague después de 1 minuto.\n\nPresentación:\nTarro de 350 ml.",
+  "descripcion": "Descripción:\nLa mascarilla Garnier Fructis Hair Food Aguacate es un tratamiento en crema para nutrir el cabello seco en solo 1 minuto. Su fórmula vegana y biodegradable está hecha con ingredientes de hasta 98 % de origen natural, sin siliconas, sin parabenos y sin colorantes artificiales, y tiene al aguacate como ingrediente estrella, también presente en su fragancia.\n\nBeneficios:\n- Nutre el cabello seco y lo deja suave y brillante, sin dejarlo pesado.\n- Efecto restaurador, suavizante y fortalecedor.\n- Fórmula vegana, biodegradable y libre de crueldad animal (cruelty free).\n- Hasta 98 % de ingredientes de origen natural; sin siliconas, parabenos ni colorantes artificiales.\n- Dermatológicamente testeada.\n- Se puede usar como mascarilla, como acondicionador o como crema para peinar.\n\nModo de uso:\n- Como mascarilla: lave el cabello con su shampoo y acondicionador habituales y escurra el exceso de agua con una toalla. Aplique de medios a puntas, mechón por mechón, deje actuar 1 minuto y enjuague con abundante agua templada. Si lo desea, termine con unos 30 segundos de agua fría.\n- Como acondicionador: después del shampoo, aplique una pequeña cantidad de medios a puntas, masajee suavemente y enjuague por completo.\n- Como crema para peinar: con el cabello húmedo, sin frotarlo, aplique un poco por todo el largo evitando la raíz. Deje que se seque de forma natural o con aire frío del secador y peine como de costumbre.\n\nPresentación:\nPote de 350 ml (350 g de peso neto).",
   "ficha": {
     "marca": "Garnier",
     "fabricante": "L'Oréal",
@@ -17,7 +17,8 @@
     "unidades_por_envase": 1,
     "sabor_aroma": "Aguacate",
     "tipo_piel_cabello": "Cabello seco",
-    "otros": "Fórmula vegana; 98% de ingredientes de origen natural; 98% biodegradable; Sin siliconas, parabenos ni colorantes artificiales; Cruelty free"
+    "otros": "Mascarilla en crema; Tipo de cuidado: nutrición; Fórmula vegana y biodegradable; Hasta 98% de ingredientes de origen natural; Sin siliconas, parabenos ni colorantes artificiales; Cruelty free; Dermatológicamente testeada; Usos: mascarilla, acondicionador o crema para peinar",
+    "genero": "Mujer"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +26,7 @@
       "categoria_id": "MLM171894",
       "categoria_ruta": "Belleza y Cuidado Personal > Cuidado del Cabello > Tratamientos para el Cabello",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM22285715"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +43,28 @@
       "lado_final": 1031,
       "fecha": "2026-09-29",
       "lado_util": 954
+    },
+    {
+      "archivo": "7509552828962_3.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_752243-MLA54244850541_032023-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22285715",
+      "ancho_original": 550,
+      "alto_original": 481,
+      "lado_final": 532,
+      "lado_util": 493,
+      "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7509552828962_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_896865-MLU77901701822_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM22285715",
+      "ancho_original": 986,
+      "alto_original": 783,
+      "lado_final": 966,
+      "lado_util": 895,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.garnier.com.mx/fructis/hair-food/mascarilla-aguacate",
@@ -53,7 +76,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM22285715, 2026-09-29). Fuentes: catálogo ML MLM22285715 (origen gtin, Mascarilla Hair Food Aguacate x350ml, pote, cabello seco, vegana, fragancia aguacate, modo de uso en tres formas); descripción y ficha actuales. CORRECCIÓN: la ficha y descripción actuales decían '98% biodegradable'; el catálogo dice biodegradable y 'hasta 98% de origen natural', se corrigió en ficha (otros). Se ignoraron los atributos contradictorios del catálogo 'Requiere enjuague: No' e 'Hipoalergénico: No'. genero (Mujer) tomado del catálogo. 'Brillante' viene de la descripción actual. Redacción propia del modo de uso.",
     "notas_imagenes": "1 foto de tienda (Del Sol, 1024 px), tarro de 350 ml de frente. La imagen del sitio oficial era muy chica (275 x 360 px) y fue rechazada.",
     "fecha": "2026-09-29",
     "sesion": 6

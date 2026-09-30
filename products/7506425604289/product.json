@@ -18,7 +18,7 @@
     "edad_etapa": "Etapa 4",
     "talla": "Grande",
     "genero": "Niños",
-    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest"
+    "otros": "Tipo de pañal: Desechable; Certificación: Dermatest; Peso del bebé: 9 a 12 kg; Con gel superabsorbente: Sí; Con barreras reforzadas anti-derrames: Sí; Libre de látex: Sí"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -26,7 +26,7 @@
       "categoria_id": "MLM178488",
       "categoria_ruta": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17379872"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,17 @@
       "lado_final": 1539,
       "fecha": "2026-09-29",
       "lado_util": 1425
+    },
+    {
+      "archivo": "7506425604289_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_798433-MLA74779492319_022024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17379872",
+      "ancho_original": 1200,
+      "alto_original": 606,
+      "lado_final": 1178,
+      "lado_util": 1091,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "https://www.huggies.com.mx/productos/huggies-ultraconfort/",
@@ -52,9 +63,9 @@
   ],
   "investigacion": {
     "estado": "verificado",
-    "confianza": "media",
-    "encontrado_por": "nombre",
-    "notas": "No se pudo buscar el GTIN (presupuesto de WebSearch agotado). Identificado por nombre: la abreviatura HU CONF coincide con la del GTIN 7501943433090, confirmado como Huggies Ultra Confort. Las características son las de la línea en la página oficial; contenido de 40 piezas y talla Grande no verificados contra una ficha del producto.",
+    "confianza": "alta",
+    "encontrado_por": "gtin",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17379872, 2026-09-29). Comparado: marca Huggies, línea UltraConfort, Etapa 4, niños, 40 piezas, talla Grande (atributo G, peso 9 a 12 kg). Todo coincide y confirma las 40 piezas y la talla Grande antes no verificadas. Anomalías del catálogo ignoradas: el título dice 'Talla Mediano (M)' (contradice el atributo G y el rango de peso de la Etapa 4) y el atributo 'Nombre' dice 'X99 Und' (contradice las 40 piezas); tampoco se usan fragancia ni parabenos porque son inconsistentes con las otras etapas. 'otros' se entrega completo.",
     "fecha": "2026-09-29",
     "notas_imagenes": "1 foto de tienda (Farmacias del Ahorro, 1600 px): frente del empaque nuevo 'Nueva Ultra cobertura' Etapa 4 niño, 40 pzas. Se descartó el diseño anterior."
   }

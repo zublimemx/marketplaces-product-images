@@ -26,7 +26,7 @@
       "categoria_id": "MLM457821",
       "categoria_ruta": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
       "categoria_rx_sugerida": "MLM457828",
-      "catalogo_id": ""
+      "catalogo_id": "MLM39472442"
     },
     "amazon": {},
     "shopify": {},
@@ -43,6 +43,17 @@
       "lado_final": 1140,
       "fecha": "2026-09-29",
       "lado_util": 1056
+    },
+    {
+      "archivo": "7501070903695_2.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_872150-MLU78655727569_082024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM39472442",
+      "ancho_original": 992,
+      "alto_original": 707,
+      "lado_final": 973,
+      "lado_util": 901,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",

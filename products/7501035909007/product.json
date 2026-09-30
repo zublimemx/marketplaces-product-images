@@ -5,7 +5,7 @@
   "nombre_sistema": "DESOD STEFANO BLACK STICK 60 G",
   "nombres_sistema_alternos": [],
   "titulo": "Desodorante Stefano Black en Barra 60 g",
-  "descripcion": "Descripción:\nStefano Black es un desodorante en barra de 60 g de Colgate-Palmolive, formulado para el cuidado masculino. Ayuda a proteger contra el sudor y el mal olor de las axilas y a mantener la sensación de frescura durante todo el día, con ingredientes que reducen la transpiración de manera efectiva.\n\nCaracterísticas:\n- Fórmula pensada para hombres que buscan seguridad en sus rutinas diarias.\n- Fragancia chypre aromática maderosa, con una fusión de madera de sándalo, vetiver y esencia de clavo.\n- Aroma muy fresco y distintivo.\n- Formato de barra (stick), práctico para llevar y aplicar.\n\nPresentación:\n1 pieza de 60 g en barra, línea Stefano Black.",
+  "descripcion": "Descripción:\nStefano Black es un desodorante antitranspirante en barra de 60 g, formulado para el cuidado masculino. Ayuda a reducir la transpiración y a eliminar el mal olor que producen las bacterias en la piel, para mantener la sensación de frescura durante todo el día. Su aroma es varonil y distintivo, de tipo maderoso, aromático y herbario.\n\nBeneficios:\n- Protección antitranspirante y contra el mal olor durante todo el día.\n- Aroma que perdura, que combina madera de sándalo, vetiver y esencia de clavo.\n- Fórmula sin alcohol, hipoalergénica y dermatológicamente testeada.\n- Formato de barra (stick), práctico para llevar y aplicar.\n- Fórmula pensada para hombres que buscan seguridad en su rutina diaria.\n\nModo de uso:\nAplique la barra directamente sobre las axilas limpias y secas.\n\nPresentación:\n1 pieza de 60 g en barra, de la línea Stefano Black, para hombre.",
   "ficha": {
     "marca": "Stefano",
     "fabricante": "Colgate-Palmolive",
@@ -16,8 +16,8 @@
     "unidad_contenido": "g",
     "unidades_por_envase": 1,
     "genero": "Hombre",
-    "sabor_aroma": "Chypre aromática maderosa (sándalo, vetiver y clavo)",
-    "otros": "Formato de venta: pieza individual; Tipo: desodorante en barra"
+    "sabor_aroma": "Maderosa, aromática y herbaria (sándalo, vetiver y clavo)",
+    "otros": "Formato de venta: pieza individual; Tipo: desodorante en barra; Antitranspirante; Sin alcohol; Hipoalergénico; Dermatológicamente testeado; Zona de aplicación: axilas"
   },
   "receta_mx": "No aplica",
   "marketplaces": {
@@ -25,7 +25,7 @@
       "categoria_id": "MLM167989",
       "categoria_ruta": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
       "categoria_rx_sugerida": "",
-      "catalogo_id": ""
+      "catalogo_id": "MLM17017173"
     },
     "amazon": {},
     "shopify": {},
@@ -42,6 +42,17 @@
       "lado_final": 1181,
       "lado_util": 1094,
       "fecha": "2026-09-29"
+    },
+    {
+      "archivo": "7501035909007_4.jpg",
+      "origen": "catalogo_ml",
+      "fuente_url": "https://http2.mlstatic.com/D_NQ_NP_888674-MLA74296188434_022024-F.jpg",
+      "pagina": "https://www.mercadolibre.com.mx/p/MLM17017173",
+      "ancho_original": 572,
+      "alto_original": 959,
+      "lado_final": 915,
+      "lado_util": 848,
+      "fecha": "2026-09-29"
     }
   ],
   "url_oficial": "",
@@ -53,7 +64,7 @@
     "estado": "verificado",
     "confianza": "alta",
     "encontrado_por": "gtin",
-    "notas": "Descripción basada en la ficha de una tienda departamental; no se encontró página de la marca en México.",
+    "notas": "GTIN confirmado en el catálogo de Mercado Libre (MLM17017173, 2026-09-29). Fuentes: catálogo ML MLM17017173 (origen gtin, Stefano Original Black en barra 60 g: antitranspirante, sin alcohol, hipoalergénico, fragancia maderosa-aromática-herbaria, sándalo, vetiver y clavo, axilas, hombre); descripción y ficha actuales (fabricante Colgate-Palmolive, según tienda departamental). Sin advertencias ni modo de uso detallado en las fuentes: el modo de uso es genérico (aplicar en axilas) y la sección de advertencias se omitió. Redacción propia.",
     "notas_imagenes": "1 foto de frente del desodorante (1181 px), de una tienda departamental; sin marcas de agua.",
     "fecha": "2026-09-29",
     "sesion": 7
