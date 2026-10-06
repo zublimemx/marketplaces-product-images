@@ -7,3 +7,7 @@ insumos/
 
 # El layout de importación sí se versiona (decisión del dueño)
 !layouts/**/*.xlsx
+# Plantillas técnicas de referencia oficiales por categoría (no son planillas operativas)
+!reference/mercadolibre/templates/*.xlsx
+.python-version
+*.patch

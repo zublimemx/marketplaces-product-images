@@ -101,7 +101,9 @@
         <button type="button" class="btn btn-ghost" id="dc-deshacer">Deshacer lo hecho aquí</button>
       </div>
       <div class="pb-fila">
-        <button type="button" class="btn btn-primario" id="exportar-meli" disabled>Exportar layout Meli</button>
+        <label class="tool" for="meli-operativa"><span>Seleccionar planilla oficial de Mercado Libre</span><input id="meli-operativa" type="file" accept=".xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"></label>
+        <button type="button" class="btn" id="meli-validar" disabled>Validar planilla</button>
+        <button type="button" class="btn btn-primario" id="exportar-meli" disabled>Generar copia completada</button>
         <button type="button" class="btn peligro" id="sel-descartar" disabled>Descartar de Meli</button>
         <button type="button" class="btn" id="sel-reactivar" disabled>Reactivar en Meli</button>
         <label class="tool" id="accion-wrap">
@@ -111,6 +113,17 @@
         <button type="button" class="btn" id="exportar" disabled>Exportar pendientes</button>
         <p class="pb-ayuda" id="pb-ayuda"></p>
       </div>
+      <details class="meli-admin" id="meli-admin">
+        <summary>Configuración · referencias de categorías de Mercado Libre</summary>
+        <p>Las referencias validan estructura; nunca se usan como planilla operativa para publicar.</p>
+        <div class="pb-fila">
+          <label class="tool" for="meli-reference-file"><span>Subir o reemplazar referencia individual</span><input id="meli-reference-file" type="file" accept=".xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"></label>
+          <button type="button" class="btn" id="meli-reference-upload" disabled>Validar e incorporar referencia</button>
+          <button type="button" class="btn btn-ghost" id="meli-reference-refresh">Actualizar lista</button>
+        </div>
+        <p id="meli-reference-message" role="status"></p>
+        <div class="tabla-wrap"><table class="tabla"><thead><tr><th>ID MLM</th><th>Categoría</th><th>Ruta</th><th>Checksum</th><th>Actualizada</th><th>Estado</th></tr></thead><tbody id="meli-reference-list"></tbody></table></div>
+      </details>
     </section>
 
     <div id="vista-grid" class="grid" aria-live="polite"></div>

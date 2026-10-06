@@ -95,15 +95,15 @@ No se edita a mano: se regenera después de cada cambio en `product.json`, fotos
 
 `scripts/solicitudes.py` lee la hoja Productos por nombre de columna (Código, Producto, Acción solicitada, Acciones sugeridas, Comentarios), así que tolera columnas movidas o agregadas.
 
-## 10. Layout de Mercado Libre exportado desde el visor
+## 10. Plantilla oficial de Mercado Libre exportada desde el visor
 
-`layout_meli_AAAA-MM-DD_HHMM.xlsx`, generado por `exportarLayout()` de `visor/app.js` con los productos seleccionados (sin descartados):
+`layout_meli_AAAA-MM-DD_HHMM.xlsx`, generado por `visor/app.js` y `scripts/visor_server.py`, parte exclusivamente del XLSX operativo cargado por el usuario. El parser detecta dinámicamente hojas por ruta en A1, nombre visible en A2, encabezados en fila 3 y obligatoriedad en fila 4. Los datos empiezan en la fila 8. El ID y ruta se contrastan con `reference/mercadolibre/categorias_mlm_hojas_publicables.csv`.
 
-- **Layout Mercado Libre**: encabezados `LAYOUT_HDR` + `AUX_HDR` de `scripts/build_mercadolibre.py` (en `visor/data/productos.js → meli`) más «Errores a revisar». Valores iguales a los de la hoja del mismo nombre del layout versionado (con valores, no fórmulas). Imagen n = `IMG_BASE/<GTIN>/images/<archivo>`.
-- **Precios**: SKU, Título, Categoría (ruta), Precio de venta, Precio de venta Marketplaces, Comisión Meli, Precio Meli calculado, Precio Meli promedio otros vendedores, Precio mejor vendedor, Precio Meli Final, Diferencia contra mejor vendedor, Costo fijo aplicado, Envío a cargo del vendedor, Ingreso neto estimado, Margen contra Precio de venta Marketplaces.
-- **Instrucciones**: fecha, productos, descartados omitidos, con errores, filtros y notas.
+El flujo separa **planilla operativa** (archivo fresco cargado y base del XLSX de salida) de **plantilla de referencia** (archivo por categoría usado solo para compatibilidad). El visor envía los productos seleccionados en el formato intermedio descrito en §8. El exportador agrupa por `Categoría (ID)`, mapea por encabezados y transforma atributos desde `config/mercadolibre_plantilla.json`. No modifica celdas con fórmulas o estilo gris, ni agrega hojas o columnas. Categorías sin referencia o con esquema incompatible y campos obligatorios faltantes se muestran en el visor y se omiten; si no queda ningún producto válido, no se descarga un XLSX.
 
-Datos que usa en `productos.js`: `meli` (`encabezados`, `encabezados_aux`, `ficha`, `n_imagenes`, `url_imagenes`, `publicacion`, `umbral_envio_gratis`, `texto_envio_gratis`, `estados`), y por producto `imagenes[].a` (archivo) y `sin_titulo`.
+La salida conserva las partes del XLSX operativo, incluidas hojas auxiliares/ocultas, relaciones, dibujos, estilos, fórmulas y validaciones. La administración de referencias está en `scripts/meli_referencias.py`; el registro inicial `reference/mercadolibre/templates/registry.json` está vacío. Las referencias individuales serán entregadas posteriormente y no se generaron en esta tarea.
+
+La cache de esquemas referencia archivo, checksum del manifiesto y contenido, `mtime`, tamaño y estado. La planilla operativa no se cachea: `POST /api/meli/layout` comparte el objeto parseado con la inspección previa dentro de esa misma petición. `GET /api/meli/references` lista metadata; `POST` al mismo recurso valida e incorpora/reemplaza una referencia. La interfaz de Configuración consume ambas operaciones. El manifiesto puede definir `templates` o `categories`, con rutas `file`/`filename`/`path` y campos equivalentes para ID, checksum, fecha y estado.
 
 ## 11. Ajustes de precio (`data/ajustes_precios.json`, versionado)
 

@@ -10,6 +10,9 @@
   const ENT = new Intl.NumberFormat("es-MX");
   const PCT = new Intl.NumberFormat("es-MX", { style: "percent", maximumFractionDigits: 1 });
   const RANGO = { mala: 0, regular: 1, buena: 2, incompletos: 0, completos: 1 };
+  let meliOperationalB64 = "";
+  let meliOperationalValidation = null;
+  let meliReferenceFile = null;
 
   const norm = (s) => (s || "").toString().normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const esc = (s) => (s == null ? "" : String(s)).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -1016,8 +1019,8 @@
     $("sel-quitar").disabled = !n;
     $("solo-sel").checked = estado.soloSel;
     const nMeli = [...estado.sel].filter((g) => !porGtin.get(g).descartado).length;
-    $("exportar-meli").disabled = !nMeli;
-    $("exportar-meli").textContent = nMeli ? `Exportar layout Meli (${ENT.format(nMeli)})` : "Exportar layout Meli";
+    $("exportar-meli").disabled = !nMeli || !meliOperationalValidation || !meliOperationalValidation.supported_categories.length;
+    $("exportar-meli").textContent = nMeli ? `Generar copia completada (${ENT.format(nMeli)})` : "Generar copia completada";
     $("exportar").disabled = !n;
     $("exportar").textContent = n ? `Exportar pendientes (${ENT.format(n)})` : "Exportar pendientes";
     const nLocal = Object.keys(estado.ajustes).length;
@@ -1147,9 +1150,17 @@
     : v && typeof v === "object" ? `{${Object.entries(v).map(([k, x]) => `${JSON.stringify(k)}: ${pyJson(x)}`).join(", ")}}`
       : JSON.stringify(v));
 
-  function exportarLayout() {
+  async function exportarLayout() {
     const M = DATA.meli;
     if (!M) return;
+    if (location.protocol === "file:") {
+      $("pb-ayuda").textContent = "Para generar la planilla, abre el visor a través del servidor de desarrollo y el proxy de Nginx.";
+      return;
+    }
+    if (!meliOperationalB64 || !meliOperationalValidation) {
+      $("pb-ayuda").textContent = "Selecciona y valida primero la planilla operativa recién descargada de Mercado Libre.";
+      return;
+    }
     const sel = P.filter((p) => estado.sel.has(p.gtin)).sort(comparador());
     const omitidos = sel.filter((p) => p.descartado);
     const prods = sel.filter((p) => !p.descartado);
@@ -1171,63 +1182,151 @@
         p.linea, p.nombre_sistema, M.estados[p.investigacion.estado] || p.investigacion.estado,
         p._pend.filter((x) => x.t === "error").map((x) => x.titulo).join("; ")];
     });
-    const formato = (h, i) => {
-      if (i < 2) return { formato: "codigo", ancho: 16 };
-      if (h === "Título") return { formato: "texto", ancho: 58 };
-      if (h === "Categoría (ruta)") return { formato: "texto", ancho: 60 };
-      if (h === "Precio [$]") return { formato: "dinero", ancho: 12 };
-      if (h === "Cantidad") return { formato: "entero", ancho: 10 };
-      if (h === "Descripción") return { formato: "texto", ancho: 60 };
-      if (h.startsWith("Imagen ")) return { formato: "texto", ancho: 30 };
-      return { formato: "auto", ancho: 16 };
-    };
-    const cols = M.encabezados.map((h, i) => ({ titulo: h, ...formato(h, i) }))
-      .concat(M.encabezados_aux.map((h) => ({ titulo: h, formato: "texto", ancho: 22, aux: true })))
-      .concat([{ titulo: "Errores a revisar", formato: "texto", ancho: 40, aux: true }]);
-    const colsP = [
-      ["SKU", 16, "codigo"], ["Título", 50, "texto"], ["Categoría (ruta)", 50, "texto"], ["Precio de venta", 13, "dinero"],
-      ["Costo de empaque y logística", 12, "dinero"], ["Precio de venta Marketplaces", 14, "dinero"], ["Comisión Meli", 11, "porcentaje"],
-      ["Costo de envío si el precio queda en $299 o más", 14, "dinero"], ["Descuento contra mejor vendedor", 12, "dinero"], ["Precio Meli calculado", 13, "dinero"],
-      ["Precio Meli promedio otros vendedores", 15, "dinero"], ["Precio mejor vendedor", 13, "dinero"], ["Precio Meli Final", 13, "dinero"],
-      ["Diferencia contra mejor vendedor", 13, "porcentaje"], ["Costo fijo aplicado", 12, "dinero"], ["Envío a cargo del vendedor", 13, "dinero"],
-      ["Ingreso neto estimado", 13, "dinero"], ["Margen contra Precio de venta Marketplaces", 15, "dinero"],
-      ["Precio de venta en otros marketplaces", 15, "dinero"], ["Otros marketplaces", 30, "texto"],
-    ].map(([titulo, ancho, f]) => ({ titulo, ancho, formato: f }));
-    const filasP = prods.map((p) => {
-      const pr = p.precios;
-      return [p.gtin, p.titulo, p.categoria_ruta, pr.precio_venta, pr.costo_empaque, pr.precio_marketplaces, pr.comision, pr.costo_envio,
-        pr.descuento_mejor_vendedor, pr.precio_meli_calculado,
-        pr.precio_promedio_otros, pr.precio_mejor_vendedor, pr.precio_meli_final, pr.diferencia_mejor_vendedor, pr.costo_fijo,
-        pr.envio_vendedor, pr.ingreso_neto, pr.margen, ...otrosResumen(p)];
-    });
-    const conError = prods.filter((p) => p._n.error);
     const ahora = new Date();
     const dos = (v) => String(v).padStart(2, "0");
     const nombre = `layout_meli_${ahora.getFullYear()}-${dos(ahora.getMonth() + 1)}-${dos(ahora.getDate())}_${dos(ahora.getHours())}${dos(ahora.getMinutes())}.xlsx`;
-    const inst = [
-      ["Exportado", ahora.toLocaleString("es-MX")],
-      ["Datos del visor", DATA.generado || ""],
-      ["Productos en el layout", prods.length],
-      ["Descartados omitidos", omitidos.length ? `${omitidos.length}: ${omitidos.map((p) => p.gtin).join(", ")}` : "0"],
-      ["Con errores (columna «Errores a revisar»)", conError.length ? `${conError.length}. Mercado Libre podría rechazar los que no tienen fotos o categoría; revísalos en la sección Pendientes del visor.` : "0"],
-      ["Filtros aplicados al seleccionar", describirFiltros()],
-      ["", ""],
-      ["Fotos", `Las columnas Imagen 1 a Imagen ${M.n_imagenes} apuntan al repositorio de GitHub (${M.url_imagenes}/<GTIN>/images/…). Solo se pueden descargar mientras el repositorio es público: hazlo público antes de importar y vuelve a hacerlo privado al terminar.`],
-      ["Precio [$]", "Precio Meli Final: precio del mejor vendedor − descuento si no queda abajo del Precio Meli calculado; si no, el calculado. Si el precio queda en $299 o más, el calculado incluye el envío gratis que cobra Mercado Libre (estimado de $75 a $150 por peso, o el que editaste). Detalle en la hoja Precios."],
-      ["Ajustes de precio", Object.keys(estado.ajustes).length ? `${Object.keys(estado.ajustes).length} productos con precios editados en este navegador ya van con esos precios. Para guardarlos en el repositorio usa «Exportar ajustes de precio».` : "Sin ajustes locales."],
-      ["Columnas grises", "Línea de origen, Nombre en sistema, Estado de investigación y Errores a revisar son de control interno; no se suben a Mercado Libre."],
-      ["Cómo importarlo", "Copia los datos a la plantilla de carga masiva que Mercado Libre da para cada categoría (o úsalo como hoja maestra), respetando la categoría de cada producto. Es el mismo contenido que layouts/mercadolibre/layout_mercadolibre.xlsx del repositorio, con valores en lugar de fórmulas."],
-    ];
-    XLSXSimple.descargar(nombre, [
-      { nombre: "Layout Mercado Libre", columnas: cols, filas, filtro: true },
-      { nombre: "Precios", columnas: colsP, filas: filasP, filtro: true },
-      { nombre: "Instrucciones", columnas: [{ titulo: "Concepto", ancho: 34, formato: "texto" }, { titulo: "Detalle", ancho: 120, formato: "largo" }], filas: inst },
-    ]);
-    ayudaMsg = `Se descargó ${nombre} con ${ENT.format(prods.length)} productos`
-      + (omitidos.length ? `; se omitieron ${ENT.format(omitidos.length)} descartados` : "")
-      + (conError.length ? `; ${ENT.format(conError.length)} tienen errores (columna «Errores a revisar»)` : "")
-      + ". Las URLs de fotos solo funcionan mientras el repositorio es público.";
-    $("pb-ayuda").textContent = ayudaMsg;
+    const columns = [...M.encabezados, ...M.encabezados_aux, "Errores a revisar"];
+    const button = $("exportar-meli");
+    button.disabled = true;
+    $("pb-ayuda").textContent = "Generando la copia completada de la planilla operativa seleccionada…";
+    try {
+      const response = await fetch("/api/meli/layout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ operational_xlsx: meliOperationalB64, columns, rows: filas }),
+      });
+      const result = await response.json();
+      if (!response.ok && !result.xlsx) {
+        const errores = result.errores || [];
+        const categorias = [...new Set(errores.filter((e) => e.field === "Categoría").map((e) => e.category))];
+        const campos = [...new Set(errores.filter((e) => e.field !== "Categoría").map((e) => e.field))];
+        const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}`).join(" | ");
+        $("pb-ayuda").textContent = `No se generó el archivo: ${errores.length} errores. Categorías sin hoja: ${categorias.length ? categorias.join("; ") : "ninguna"}. Campos obligatorios pendientes: ${campos.length ? campos.join(", ") : "ninguno"}. ${muestra}${errores.length > 8 ? " …" : ""}`;
+        return;
+      }
+      if (!result.xlsx) throw new Error(result.error || "El generador no devolvió un archivo.");
+      const binary = atob(result.xlsx);
+      const bytes = Uint8Array.from(binary, (c) => c.charCodeAt(0));
+      const blob = new Blob([bytes], { type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = nombre;
+      document.body.appendChild(a);
+      a.click();
+      setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 2000);
+      const errores = result.errores || [];
+      const categorias = [...new Set(errores.filter((e) => e.field === "Categoría").map((e) => e.category))];
+      const campos = [...new Set(errores.filter((e) => e.field !== "Categoría").map((e) => e.field))];
+      const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}`).join(" | ");
+      $("pb-ayuda").textContent = `Se descargó una copia de la planilla operativa con ${ENT.format(result.productos_exportados)} productos.`
+        + (omitidos.length ? ` Se omitieron ${ENT.format(omitidos.length)} descartados.` : "")
+        + (errores.length ? ` Se omitieron ${errores.length} productos con errores; categorías sin hoja: ${categorias.length ? categorias.join("; ") : "ninguna"}; campos pendientes: ${campos.length ? campos.join(", ") : "ninguno"}. ${muestra}${errores.length > 8 ? " …" : ""}` : "");
+    } catch (error) {
+      $("pb-ayuda").textContent = `No se pudo generar la copia de la planilla operativa. ${error.message || ""}`;
+    } finally {
+      button.disabled = !meliOperationalValidation || !meliOperationalValidation.supported_categories.length
+        || !P.some((p) => estado.sel.has(p.gtin) && !p.descartado);
+    }
+  }
+
+  async function leerPlanillaMeli(file) {
+    meliOperationalB64 = "";
+    meliOperationalValidation = null;
+    $("exportar-meli").disabled = true;
+    $("meli-validar").disabled = !file;
+    if (!file) return;
+    if (!file.name.toLowerCase().endsWith(".xlsx")) {
+      $("pb-ayuda").textContent = "Selecciona un archivo XLSX descargado desde Mercado Libre.";
+      return;
+    }
+    const bytes = new Uint8Array(await file.arrayBuffer());
+    let binary = "";
+    const chunk = 0x8000;
+    for (let i = 0; i < bytes.length; i += chunk) binary += String.fromCharCode(...bytes.subarray(i, i + chunk));
+    meliOperationalB64 = btoa(binary);
+    $("pb-ayuda").textContent = `Planilla seleccionada: ${file.name}. Valídala antes de generar.`;
+  }
+
+  async function validarPlanillaMeli() {
+    if (!meliOperationalB64) return;
+    const button = $("meli-validar");
+    button.disabled = true;
+    $("pb-ayuda").textContent = "Validando estructura, referencias y vigencia de la planilla seleccionada…";
+    try {
+      const response = await fetch("/api/meli/inspect", { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ operational_xlsx: meliOperationalB64 }) });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "No se pudo validar la planilla");
+      meliOperationalValidation = result;
+      const status = result.metadata.status === "vencida" ? "VENCIDA" : result.metadata.status === "vigente" ? "VIGENTE" : "vigencia no determinable";
+      const categorySummary = result.categories.map((c) => `${c.name}: ${c.status}${c.changes?.length ? ` (${c.changes.map((x) => x.type).join(", ")})` : ""}`).join("; ");
+      const canExport = result.metadata.status !== "vencida" && result.supported_categories.length > 0;
+      $("exportar-meli").disabled = !canExport || !P.some((p) => estado.sel.has(p.gtin) && !p.descartado);
+      $("pb-ayuda").textContent = `${result.metadata.detected ? "Planilla oficial detectada" : "No se reconoce la estructura de planilla oficial"} · ${result.metadata.categories.length} categorías · ${status}${result.metadata.expiry ? ` hasta ${result.metadata.expiry}` : ""}. ${categorySummary || "No se detectaron hojas de categoría."}`;
+    } catch (error) {
+      meliOperationalValidation = null;
+      $("exportar-meli").disabled = true;
+      $("pb-ayuda").textContent = `Error al validar la planilla operativa: ${error.message || ""}`;
+    } finally {
+      button.disabled = !meliOperationalB64;
+    }
+  }
+
+  function archivoBase64(file) {
+    return file.arrayBuffer().then((buffer) => {
+      const bytes = new Uint8Array(buffer);
+      let binary = "";
+      const chunk = 0x8000;
+      for (let i = 0; i < bytes.length; i += chunk) binary += String.fromCharCode(...bytes.subarray(i, i + chunk));
+      return btoa(binary);
+    });
+  }
+
+  async function listarReferenciasMeli() {
+    const body = $("meli-reference-list");
+    body.replaceChildren();
+    try {
+      const response = await fetch("/api/meli/references");
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || `HTTP ${response.status}`);
+      (result.references || []).forEach((item) => {
+        const row = document.createElement("tr");
+        [item.category_id, item.name, item.route, item.checksum, item.updated_at, item.status].forEach((value) => {
+          const cell = document.createElement("td");
+          cell.textContent = value || "—";
+          row.appendChild(cell);
+        });
+        body.appendChild(row);
+      });
+      $("meli-reference-message").textContent = `${result.references?.length || 0} referencias registradas.`;
+    } catch (error) {
+      $("meli-reference-message").textContent = `No se pudo cargar el registro: ${error.message || ""}`;
+    }
+  }
+
+  async function subirReferenciaMeli() {
+    if (!meliReferenceFile) return;
+    const button = $("meli-reference-upload");
+    button.disabled = true;
+    $("meli-reference-message").textContent = "Validando XLSX oficial y comparando el esquema…";
+    try {
+      const response = await fetch("/api/meli/references", { method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ xlsx: await archivoBase64(meliReferenceFile) }) });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || `HTTP ${response.status}`);
+      const changes = (result.changes || []).map((change) => {
+        const label = change.header || change.type;
+        return `${change.type}: ${label}`;
+      });
+      $("meli-reference-message").textContent = `${result.replaced ? "Referencia reemplazada" : "Nueva referencia registrada"}: ${result.template.category_id} · ${result.template.name} · checksum ${result.template.sha256}. ${changes.length ? `Cambios: ${changes.join("; ")}` : result.replaced ? "Sin cambios de esquema." : "Primera versión de esta referencia."}`;
+      meliReferenceFile = null;
+      $("meli-reference-file").value = "";
+      await listarReferenciasMeli();
+    } catch (error) {
+      $("meli-reference-message").textContent = `No se incorporó la referencia: ${error.message || ""}`;
+    } finally {
+      button.disabled = !meliReferenceFile;
+    }
   }
 
   function exportarAjustes() {
@@ -1368,7 +1467,7 @@
     $("exportar-meli").classList.toggle("btn-primario", !enPend);
     $("pb-ayuda").textContent = ayudaMsg || (enPend
       ? "Selecciona productos, elige la acción que quieres pedir (o déjala vacía y elígela por renglón en Excel), exporta los pendientes y adjunta el archivo en el chat."
-      : "Selecciona productos (casillas de la lista o de las tarjetas, o «Seleccionar los N filtrados») y exporta el layout de Mercado Libre con las URLs de las fotos en GitHub. Los descartados se omiten.");
+      : "Selecciona productos y exporta una copia de la plantilla oficial de Mercado Libre. Las categorías o campos que no se puedan completar se reportan aquí; los descartados se omiten.");
     $("vista-pend").hidden = !enPend || !lista.length;
     $("vista-grid").hidden = enPend || enComp || !grid;
     $("vista-tabla").hidden = enPend || enComp || grid || !lista.length;
@@ -1655,6 +1754,16 @@
       if (estado.soloSel) aplicar(); else render();
     });
     $("exportar-meli").addEventListener("click", exportarLayout);
+    $("meli-operativa").addEventListener("change", (event) => leerPlanillaMeli(event.target.files?.[0]));
+    $("meli-validar").addEventListener("click", validarPlanillaMeli);
+    $("meli-admin").addEventListener("toggle", () => { if ($("meli-admin").open) listarReferenciasMeli(); });
+    $("meli-reference-file").addEventListener("change", (event) => {
+      meliReferenceFile = event.target.files?.[0] || null;
+      $("meli-reference-upload").disabled = !meliReferenceFile || !meliReferenceFile.name.toLowerCase().endsWith(".xlsx");
+      $("meli-reference-message").textContent = meliReferenceFile ? `Archivo seleccionado: ${meliReferenceFile.name}` : "";
+    });
+    $("meli-reference-refresh").addEventListener("click", listarReferenciasMeli);
+    $("meli-reference-upload").addEventListener("click", subirReferenciaMeli);
     $("aj-exportar").addEventListener("click", exportarAjustes);
     $("aj-deshacer").addEventListener("click", deshacerAjustes);
     $("dc-exportar").addEventListener("click", exportarDescartes);
