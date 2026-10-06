@@ -1,3 +1,4 @@
+.vscode/
 *.xlsx
 precios_existencias*.csv
 __pycache__/
