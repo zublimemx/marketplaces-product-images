@@ -5,6 +5,7 @@ import os
 import tempfile
 import datetime
 import threading
+import re
 
 try:
     from meli_plantilla_oficial import OfficialTemplate
@@ -110,6 +111,49 @@ def _schema(template, category_id):
     return matches[0]
 
 
+def _normalize_start_row_refs(value, data_start):
+    if data_start is None:
+        return value
+    pattern = re.compile(r"(?<![A-Za-z0-9_.])(\$?[A-Z]{1,3}\$?)(\d+)(?![A-Za-z0-9_(])", re.I)
+    return pattern.sub(lambda match: match.group(1) + "DATA_START" if int(match.group(2)) == data_start else match.group(0), value)
+
+
+def _normalize_ranges(ranges, data_start):
+    normalized = []
+    pattern = re.compile(r"(\$?[A-Z]+\$?)(\d+)(?::(\$?[A-Z]+\$?)(\d+))?", re.I)
+    for area in ranges.split():
+        match = pattern.fullmatch(area)
+        if not match:
+            normalized.append(area)
+            continue
+        left, top, right, bottom = match.groups()
+        if int(top) == data_start:
+            top = "DATA_START"
+        normalized.append(left + top + ((":" + right + bottom) if right else ""))
+    return " ".join(normalized)
+
+
+def _normalize_template_value(key, value, data_start):
+    if value is None:
+        return value
+    if key == "formulas":
+        return {column: sorted(_normalize_start_row_refs(formula, data_start) for formula in formulas)
+                for column, formulas in value.items()}
+    if key == "validations":
+        return [{**validation,
+                 "sqref": _normalize_ranges(validation.get("sqref", ""), data_start),
+                 "formula1": _normalize_start_row_refs(validation.get("formula1", ""), data_start),
+                 "formula2": _normalize_start_row_refs(validation.get("formula2", ""), data_start)}
+                for validation in value]
+    if key == "conditional_formatting":
+        return [{**formatting,
+                 "sqref": _normalize_ranges(formatting.get("sqref", ""), data_start),
+                 "rules": [{**rule, "formula": _normalize_start_row_refs(rule.get("formula", ""), data_start)}
+                           for rule in formatting.get("rules", [])]}
+                for formatting in value]
+    return value
+
+
 def _differences(old, new):
     differences = []
     if old["route"] != new["route"]:
@@ -121,8 +165,11 @@ def _differences(old, new):
     differences.extend({"type": "campo ahora obligatorio", "header": h} for h in sorted(new_required - old_required))
     differences.extend({"type": "campo dejó de ser obligatorio", "header": h} for h in sorted(old_required - new_required))
     for key, title in (("formula_columns", "fórmula"), ("formulas", "fórmula"),
+                       ("conditional_formatting", "formato condicional"),
                        ("internal_columns", "columna interna"), ("validations", "validación")):
-        if old.get(key) != new.get(key):
+        old_value = _normalize_template_value(key, old.get(key), old.get("data_start"))
+        new_value = _normalize_template_value(key, new.get(key), new.get("data_start"))
+        if old_value != new_value:
             differences.append({"type": f"cambio de {title}", "before": old.get(key), "after": new.get(key)})
     return differences
 
@@ -136,21 +183,25 @@ def inspect_operational(content):
         item = registry.get(schema["category_id"])
         if not item or str(item.get("status", "active")).casefold() not in ("active", "activo", "enabled", "true"):
             results.append({"category_id": schema["category_id"], "name": schema["visible_name"],
+                            "data_start": schema["data_start"], "data_start_row": schema["data_start"],
                             "status": "Categoría sin referencia", "changes": []})
             continue
         try:
             ref_schema = _cached_schema(item)
         except ValueError as exc:
             results.append({"category_id": schema["category_id"], "name": schema["visible_name"],
-                            "status": "Referencia inválida", "changes": [{"type": "checksum", "detail": str(exc)}]})
+                            "data_start": schema["data_start"], "data_start_row": schema["data_start"], "status": "Referencia inválida",
+                            "changes": [{"type": "checksum", "detail": str(exc)}]})
             continue
         if ref_schema is None:
             results.append({"category_id": schema["category_id"], "name": schema["visible_name"],
+                            "data_start": schema["data_start"], "data_start_row": schema["data_start"],
                             "status": "Categoría sin referencia", "changes": []})
             continue
         changes = _differences(ref_schema, schema)
         status = "Plantilla compatible" if not changes else "Mercado Libre modificó esta categoría respecto a la referencia"
         results.append({"category_id": schema["category_id"], "name": schema["visible_name"],
+                        "data_start": schema["data_start"], "data_start_row": schema["data_start"],
                         "status": status, "changes": changes})
         if not changes:
             supported.add(schema["category_id"])

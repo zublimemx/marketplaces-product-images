@@ -5,6 +5,7 @@
 
   const DATA = window.CATALOGO || { productos: [], total: 0, reglas: {} };
   const P = DATA.productos;
+  const MeliPublication = window.MeliPublication;
   const $ = (id) => document.getElementById(id);
   const MXN = new Intl.NumberFormat("es-MX", { style: "currency", currency: "MXN" });
   const ENT = new Intl.NumberFormat("es-MX");
@@ -19,11 +20,15 @@
   const dinero = (v) => (v == null ? '<span class="sd">sin dato</span>' : MXN.format(v));
 
   P.forEach((p) => {
+    p.publication_status = MeliPublication.statusOf(p);
+    p.published_at = p.published_at || null;
+    p.meli_item_id = p.meli_item_id || null;
     p._nom = norm(p.titulo + " " + p.nombre_sistema);
     p._cat = norm(p.categoria_ruta);
     p._cod = (p.gtin + " " + (p.catalogo_id || "")).toLowerCase();
   });
   const porGtin = new Map(P.map((p) => [p.gtin, p]));
+  let meliPublicationSyncing = true;
 
   // Pendientes, errores y mejoras por producto (catálogo en config/pendientes.json)
   const CATP = DATA.pendientes || { acciones: [], tipos: {}, pendientes: {} };
@@ -98,7 +103,11 @@
   ];
   const estado = {
     seccion: leer("seccion", "catalogo"),
-    sel: new Set(leer("sel", []).filter((g) => porGtin.has(g))),
+    sel: new Set(leer("sel", []).filter((g) => porGtin.has(g)
+      && MeliPublication.canSelect(porGtin.get(g), false))),
+    incluirPublicados: false,
+    filtroPublicacionMeli: ["all", "not_published", "published"].includes(leer("filtroPublicacionMeli", "all"))
+      ? leer("filtroPublicacionMeli", "all") : "all",
     soloSel: false,
     accion: leer("accion", ""),
     vista: leer("vista", "cuadricula"),
@@ -211,6 +220,7 @@
     if (sin !== "fotos" && f.fotos.size && !f.fotos.has(p.ind.fotos)) return false;
     if (sin !== "precios" && f.precios.size && !f.precios.has(p.ind.precios)) return false;
     if (sin !== "publicacion" && f.publicacion.size && !f.publicacion.has(p.descartado ? "descartado" : "publica")) return false;
+    if (sin !== "filtroPublicacionMeli" && !MeliPublication.matchesFilter(p, estado.filtroPublicacionMeli)) return false;
     if (sin !== "tipo" && f.tipo.size && !p._pend.some((x) => f.tipo.has(x.t))) return false;
     if (sin !== "pend" && f.pend.size && !p._pend.some((x) => f.pend.has(x.c))) return false;
     if (sin !== "ajustes" && f.ajustes.size && !etiquetasAjuste(p).some((t) => f.ajustes.has(t))) return false;
@@ -591,6 +601,9 @@
     grupoToggles("f-ind-fotos", "fotos", [["buena", "Buenas"], ["regular", "Regulares"], ["mala", "Malas"]]);
     grupoToggles("f-ind-precios", "precios", [["completos", "Completos"], ["incompletos", "Incompletos"]]);
     grupoToggles("f-publicacion", "publicacion", [["publica", "Se publica"], ["descartado", "Descartado"]]);
+    grupoOpcionesExclusivas("f-publication-status", "filtroPublicacionMeli", [
+      ["all", "Todos"], ["not_published", "No publicados"], ["published", "Publicados en MeLi"],
+    ]);
     grupoToggles("f-ajustes", "ajustes", [["local", "Editados aquí"], ["repo", "Ajustados en el repositorio"], ["sin", "Sin ajustes"]]);
     grupoToggles("f-tipo", "tipo", [["error", "Errores"], ["pendiente", "Pendientes"], ["mejora", "Mejoras"]], (t) => "pt-" + t);
     const presentes = new Map();
@@ -600,6 +613,9 @@
     grupoToggles("f-pend", "pend", codigos.map(([c, d]) => [c, d.titulo]), (c) => "pt-" + CATP.pendientes[c].tipo);
     $("limpiar").addEventListener("click", () => {
       Object.keys(estado.f).forEach((k) => { estado.f[k] = Array.isArray(estado.f[k]) ? [] : new Set(); });
+      estado.filtroPublicacionMeli = "all";
+      $("f-publication-status-all").checked = true;
+      guardar("filtroPublicacionMeli", "all");
       Object.values(MS).forEach((m) => m.chips());
       document.querySelectorAll("#panel-filtros input[type=checkbox]").forEach((c) => { c.checked = false; });
       estado.soloSel = false;
@@ -623,6 +639,24 @@
       lab.innerHTML = `<input type="checkbox" id="${idCont}-${v}" value="${esc(v)}"><span>${esc(txt)} <small data-cuenta="${clave}:${esc(v)}">0</small></span>`;
       lab.querySelector("input").addEventListener("change", (e) => {
         e.target.checked ? estado.f[clave].add(v) : estado.f[clave].delete(v);
+        aplicar();
+      });
+      fs.appendChild(lab);
+    });
+  }
+
+  function grupoOpcionesExclusivas(idCont, clave, opciones) {
+    const fs = $(idCont);
+    opciones.forEach(([valor, texto]) => {
+      const lab = document.createElement("label");
+      lab.className = "toggle";
+      lab.innerHTML = `<input type="radio" id="${idCont}-${valor}" name="${idCont}" value="${valor}"><span>${esc(texto)} <small data-cuenta="${clave}:${valor}">0</small></span>`;
+      const input = lab.querySelector("input");
+      input.checked = estado[clave] === valor;
+      input.addEventListener("change", () => {
+        if (!input.checked) return;
+        estado[clave] = valor;
+        guardar(clave, valor);
         aplicar();
       });
       fs.appendChild(lab);
@@ -675,6 +709,7 @@
     const claves = {
       linea: (p) => p.linea, stock: (p) => (p.stock > 0 ? "con" : "sin"), descripcion: (p) => p.ind.descripcion, fotos: (p) => p.ind.fotos,
       precios: (p) => p.ind.precios, publicacion: (p) => (p.descartado ? "descartado" : "publica"),
+      filtroPublicacionMeli: (p) => ["all", MeliPublication.statusOf(p)],
       tipo: (p) => TIPOS.filter((t) => p._n[t]), pend: (p) => [...new Set(p._pend.map((x) => x.c))],
       ajustes: (p) => etiquetasAjuste(p),
     };
@@ -689,12 +724,23 @@
   function casillaSel(p, clase, alCambiar) {
     const lab = document.createElement("label");
     lab.className = clase;
-    lab.innerHTML = `<input type="checkbox" ${estado.sel.has(p.gtin) ? "checked" : ""} aria-label="Seleccionar ${esc(p.titulo)}">`;
+    const selectable = !meliPublicationSyncing && MeliPublication.canSelect(p, estado.incluirPublicados);
+    const hint = selectable ? "" : (meliPublicationSyncing ? "Se está consultando el estado de publicación" : "Ya publicado en MeLi; activa «Incluir publicados en la planilla» para seleccionarlo");
+    lab.innerHTML = `<input type="checkbox" ${estado.sel.has(p.gtin) ? "checked" : ""} ${selectable ? "" : "disabled"} aria-label="Seleccionar ${esc(p.titulo)}" title="${esc(hint)}">`;
     const inp = lab.querySelector("input");
     lab.addEventListener("click", (e) => e.stopPropagation());
     inp.addEventListener("keydown", (e) => e.stopPropagation());
     inp.addEventListener("change", () => { if (alCambiar) alCambiar(inp.checked); alternarSel(p.gtin, inp.checked); });
     return lab;
+  }
+
+  function estadoPublicadoBadge(p) {
+    return MeliPublication.statusOf(p) === "published"
+      ? '<span class="meli-published" title="Este producto ya se publicó en Mercado Libre">Publicado en MeLi</span>' : "";
+  }
+
+  function productosSeleccionables(lista) {
+    return lista.filter((p) => !meliPublicationSyncing && MeliPublication.canSelect(p, estado.incluirPublicados));
   }
 
   // ---------------- Edición de precios ----------------
@@ -851,7 +897,7 @@
     const info = document.createElement("div");
     info.style.display = "contents";
     info.innerHTML = `
-      <div class="meta"><span class="mono">${esc(p.gtin)}</span><span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} pzas</span></div>
+      <div class="meta"><span class="mono">${esc(p.gtin)}</span><span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} pzas</span>${estadoPublicadoBadge(p)}</div>
       <h3>${esc(p.titulo)}</h3>
       <div class="cat" title="${esc(p.categoria_ruta)}">${esc(p.categoria)}</div>
       <div class="precio"><strong>${dinero(p.precios.precio_meli_final)}</strong><small>venta ${dinero(p.precios.precio_venta)}</small></div>
@@ -890,7 +936,7 @@
     switch (c.id) {
       case "fotos": td.appendChild(carrusel(p.imagenes, { mini: true })); break;
       case "gtin": td.innerHTML = `<span class="mono">${esc(p.gtin)}</span>`; break;
-      case "titulo": td.className = "prod"; td.innerHTML = `${esc(p.titulo)}<small>${esc(p.nombre_sistema)}</small>`; break;
+      case "titulo": td.className = "prod"; td.innerHTML = `${esc(p.titulo)}<small>${esc(p.nombre_sistema)} ${estadoPublicadoBadge(p)}</small>`; break;
       case "categoria": td.className = "cat"; td.title = p.categoria_ruta; td.textContent = p.categoria; break;
       case "linea": td.textContent = p.linea; break;
       case "stock": td.innerHTML = `<span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)}</span>`; break;
@@ -915,7 +961,7 @@
     thSel.className = "col-sel";
     thSel.innerHTML = '<input type="checkbox" id="sel-todos">';
     thSel.querySelector("input").addEventListener("change", (e) => {
-      const lista = vistaActual.lista;
+      const lista = productosSeleccionables(vistaActual.lista);
       const todos = lista.length && lista.every((p) => estado.sel.has(p.gtin));
       lista.forEach((p) => (todos ? estado.sel.delete(p.gtin) : estado.sel.add(p.gtin)));
       e.target.checked = !todos;
@@ -993,7 +1039,7 @@
     foto.appendChild(carrusel(p.imagenes, { mini: true }));
     const info = document.createElement("div");
     info.className = "pinfo";
-    info.innerHTML = `<div class="meta"><span class="mono">${esc(p.gtin)}</span><span>${esc(p.linea)}</span><span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} pzas</span><span>#${ENT.format(p.orden)} en ventas</span></div>
+    info.innerHTML = `<div class="meta"><span class="mono">${esc(p.gtin)}</span><span>${esc(p.linea)}</span><span class="${p.stock > 0 ? "" : "stock-0"}">${ENT.format(p.stock)} pzas</span><span>#${ENT.format(p.orden)} en ventas</span>${estadoPublicadoBadge(p)}</div>
       <h3><button type="button" class="plink">${esc(p.titulo)}</button></h3>
       <div class="cat" title="${esc(p.categoria_ruta)}">${esc(p.categoria)}</div>
       ${cuentaPend(p, vis)}${vis.length < p._pend.length ? `<small class="pmas">y ${p._pend.length - vis.length} más fuera del filtro</small>` : ""}`;
@@ -1008,18 +1054,22 @@
   function actualizarBarra() {
     const { lista, pagina } = vistaActual;
     const n = estado.sel.size;
-    const nFil = lista.reduce((s, p) => s + (estado.sel.has(p.gtin) ? 1 : 0), 0);
+    const elegibles = productosSeleccionables(lista);
+    const paginaElegible = productosSeleccionables(pagina);
+    const nFil = elegibles.reduce((s, p) => s + (estado.sel.has(p.gtin) ? 1 : 0), 0);
     $("sel-n").textContent = ENT.format(n);
     $("sel-txt").textContent = (n === 1 ? "seleccionado" : "seleccionados") + (n && nFil !== n ? ` (${ENT.format(nFil)} con los filtros actuales)` : "");
-    $("sel-filtrados").textContent = lista.length === 1 ? "Seleccionar 1 filtrado" : `Seleccionar los ${ENT.format(lista.length)} filtrados`;
-    $("sel-filtrados").disabled = !lista.length || nFil === lista.length;
+    $("sel-filtrados").textContent = elegibles.length === 1 ? "Seleccionar 1 filtrado" : `Seleccionar los ${ENT.format(elegibles.length)} filtrados`;
+    $("sel-filtrados").disabled = !elegibles.length || nFil === elegibles.length;
     $("desel-filtrados").textContent = nFil === 1 ? "Deseleccionar 1 filtrado" : `Deseleccionar los ${ENT.format(nFil)} filtrados`;
     $("desel-filtrados").disabled = !nFil;
-    $("sel-pagina").disabled = !pagina.length || pagina.every((p) => estado.sel.has(p.gtin));
+    $("sel-pagina").disabled = !paginaElegible.length || paginaElegible.every((p) => estado.sel.has(p.gtin));
     $("sel-quitar").disabled = !n;
     $("solo-sel").checked = estado.soloSel;
-    const nMeli = [...estado.sel].filter((g) => !porGtin.get(g).descartado).length;
-    $("exportar-meli").disabled = !nMeli || !meliOperationalValidation || !meliOperationalValidation.supported_categories.length;
+    $("meli-incluir-publicados").checked = estado.incluirPublicados;
+    const nMeli = [...estado.sel].map((g) => porGtin.get(g))
+      .filter((p) => MeliPublication.canExport(p, estado.incluirPublicados)).length;
+    $("exportar-meli").disabled = meliPublicationSyncing || !nMeli || !meliOperationalValidation || !meliOperationalValidation.supported_categories.length;
     $("exportar-meli").textContent = nMeli ? `Generar copia completada (${ENT.format(nMeli)})` : "Generar copia completada";
     $("exportar").disabled = !n;
     $("exportar").textContent = n ? `Exportar pendientes (${ENT.format(n)})` : "Exportar pendientes";
@@ -1043,6 +1093,10 @@
     $("dc-ver").setAttribute("aria-pressed", String(soloDesc));
     $("dc-ver").textContent = soloDesc ? "Ver todos" : "Ver solo descartados";
     const selP = [...estado.sel].map((g) => porGtin.get(g));
+    const porPublicar = selP.filter((p) => p && MeliPublication.statusOf(p) !== "published").length;
+    $("sel-publicados").textContent = porPublicar
+      ? `Marcar como publicados en MeLi (${ENT.format(porPublicar)})` : "Marcar seleccionados como publicados en MeLi";
+    $("sel-publicados").disabled = meliPublicationSyncing || !porPublicar;
     const aDesc = selP.filter((p) => !p.descartado).length, aReac = selP.length - aDesc;
     if (!descSelArmado) $("sel-descartar").textContent = aDesc ? `Descartar de Meli (${ENT.format(aDesc)})` : "Descartar de Meli";
     $("sel-descartar").disabled = !aDesc;
@@ -1054,9 +1108,10 @@
     $("aj-ver").textContent = soloEd ? "Ver todos" : "Ver solo editados";
     const todos = $("sel-todos");
     if (todos) {
-      todos.checked = lista.length > 0 && nFil === lista.length;
-      todos.indeterminate = nFil > 0 && nFil < lista.length;
-      todos.setAttribute("aria-label", todos.checked ? `Deseleccionar los ${lista.length} filtrados` : `Seleccionar los ${lista.length} filtrados`);
+      todos.checked = elegibles.length > 0 && nFil === elegibles.length;
+      todos.indeterminate = nFil > 0 && nFil < elegibles.length;
+      todos.disabled = !elegibles.length;
+      todos.setAttribute("aria-label", todos.checked ? `Deseleccionar los ${elegibles.length} filtrados` : `Seleccionar los ${elegibles.length} filtrados`);
       todos.title = todos.getAttribute("aria-label");
     }
   }
@@ -1161,10 +1216,14 @@
       $("pb-ayuda").textContent = "Selecciona y valida primero la planilla operativa recién descargada de Mercado Libre.";
       return;
     }
-    const sel = P.filter((p) => estado.sel.has(p.gtin)).sort(comparador());
+    const sel = P.filter((p) => estado.sel.has(p.gtin)
+      && MeliPublication.canExport(p, estado.incluirPublicados)).sort(comparador());
     const omitidos = sel.filter((p) => p.descartado);
     const prods = sel.filter((p) => !p.descartado);
-    if (!prods.length) return;
+    if (!prods.length) {
+      $("pb-ayuda").textContent = "No hay productos seleccionados para una nueva planilla. Los ya publicados requieren activar «Incluir publicados en la planilla».";
+      return;
+    }
     const pub = M.publicacion;
     const filas = prods.map((p) => {
       const pr = p.precios, f = p.ficha || {};
@@ -1193,14 +1252,15 @@
       const response = await fetch("/api/meli/layout", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ operational_xlsx: meliOperationalB64, columns, rows: filas }),
+        body: JSON.stringify({ operational_xlsx: meliOperationalB64, columns, rows: filas,
+          include_published: estado.incluirPublicados }),
       });
       const result = await response.json();
       if (!response.ok && !result.xlsx) {
         const errores = result.errores || [];
         const categorias = [...new Set(errores.filter((e) => e.field === "Categoría").map((e) => e.category))];
         const campos = [...new Set(errores.filter((e) => e.field !== "Categoría").map((e) => e.field))];
-        const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}`).join(" | ");
+        const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}${e.message ? ` (${e.message})` : ""}`).join(" | ");
         $("pb-ayuda").textContent = `No se generó el archivo: ${errores.length} errores. Categorías sin hoja: ${categorias.length ? categorias.join("; ") : "ninguna"}. Campos obligatorios pendientes: ${campos.length ? campos.join(", ") : "ninguno"}. ${muestra}${errores.length > 8 ? " …" : ""}`;
         return;
       }
@@ -1217,7 +1277,7 @@
       const errores = result.errores || [];
       const categorias = [...new Set(errores.filter((e) => e.field === "Categoría").map((e) => e.category))];
       const campos = [...new Set(errores.filter((e) => e.field !== "Categoría").map((e) => e.field))];
-      const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}`).join(" | ");
+      const muestra = errores.slice(0, 8).map((e) => `${e.gtin || "Lote"} · ${e.category}: ${e.field}${e.message ? ` (${e.message})` : ""}`).join(" | ");
       $("pb-ayuda").textContent = `Se descargó una copia de la planilla operativa con ${ENT.format(result.productos_exportados)} productos.`
         + (omitidos.length ? ` Se omitieron ${ENT.format(omitidos.length)} descartados.` : "")
         + (errores.length ? ` Se omitieron ${errores.length} productos con errores; categorías sin hoja: ${categorias.length ? categorias.join("; ") : "ninguna"}; campos pendientes: ${campos.length ? campos.join(", ") : "ninguno"}. ${muestra}${errores.length > 8 ? " …" : ""}` : "");
@@ -1225,7 +1285,93 @@
       $("pb-ayuda").textContent = `No se pudo generar la copia de la planilla operativa. ${error.message || ""}`;
     } finally {
       button.disabled = !meliOperationalValidation || !meliOperationalValidation.supported_categories.length
-        || !P.some((p) => estado.sel.has(p.gtin) && !p.descartado);
+        || meliPublicationSyncing
+        || !P.some((p) => estado.sel.has(p.gtin) && MeliPublication.canExport(p, estado.incluirPublicados));
+    }
+  }
+
+  async function actualizarPublicacionMeli(p, status) {
+    const button = $("det-publicacion");
+    button.disabled = true;
+    $("det-publication-message").textContent = "Guardando el estado en product.json…";
+    try {
+      const response = await fetch("/api/meli/publication-status", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ gtin: p.gtin, publication_status: status }),
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "No se pudo guardar el estado.");
+      Object.assign(p, result);
+      if (status === "published" && !estado.incluirPublicados) {
+        estado.sel.delete(p.gtin);
+        guardarSel();
+      }
+      ayudaMsg = status === "published" ? `${p.titulo} quedó marcado como publicado en MeLi.`
+        : `${p.titulo} quedó marcado como no publicado; se conservó su historial.`;
+      abrir(p.gtin);
+      render();
+    } catch (error) {
+      $("det-publication-message").textContent = `No se guardó el estado. ${error.message || ""}`;
+      button.disabled = false;
+    }
+  }
+
+  async function marcarSeleccionPublicadaMeli() {
+    const productos = [...estado.sel].map((g) => porGtin.get(g))
+      .filter((p) => p && MeliPublication.statusOf(p) !== "published");
+    if (!productos.length || meliPublicationSyncing) return;
+
+    const button = $("sel-publicados");
+    button.disabled = true;
+    button.textContent = "Guardando estados…";
+    $("pb-ayuda").textContent = `Marcando ${ENT.format(productos.length)} productos como publicados en MeLi…`;
+    try {
+      const response = await fetch("/api/meli/publication-status", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ gtins: productos.map((p) => p.gtin), publication_status: "published" }),
+      });
+      const result = await response.json();
+      if (!response.ok) throw new Error(result.error || "No se pudieron guardar los estados.");
+      const actualizados = result.updated || [];
+      const errores = result.errors || [];
+      actualizados.forEach((record) => {
+        const p = porGtin.get(record.gtin);
+        if (p) Object.assign(p, record);
+        if (!estado.incluirPublicados) estado.sel.delete(record.gtin);
+      });
+      guardarSel();
+      ayudaMsg = `Se marcaron ${ENT.format(actualizados.length)} de ${ENT.format(productos.length)} productos como publicados en MeLi.`
+        + (errores.length ? ` ${ENT.format(errores.length)} no se pudieron actualizar: ${errores.slice(0, 3).map((e) => `${e.gtin}: ${e.error}`).join("; ")}${errores.length > 3 ? "; …" : ""}` : "");
+    } catch (error) {
+      ayudaMsg = `No se pudieron guardar los estados de publicación. ${error.message || ""}`;
+    } finally {
+      render();
+    }
+  }
+
+  async function sincronizarPublicacionesMeli() {
+    try {
+      if (location.protocol === "file:") return;
+      const response = await fetch("/api/meli/publication-status");
+      if (!response.ok) throw new Error("No se pudo leer el estado guardado.");
+      const data = await response.json();
+      const statuses = data.products || {};
+      P.forEach((p) => {
+        const value = statuses[p.gtin];
+        if (value) Object.assign(p, value);
+        p.publication_status = MeliPublication.statusOf(p);
+      });
+    } catch (error) {
+      // La versión generada del catálogo sigue disponible si el backend está temporalmente apagado.
+    } finally {
+      meliPublicationSyncing = false;
+      if (!estado.incluirPublicados) {
+        P.filter((p) => !MeliPublication.canSelect(p, false)).forEach((p) => estado.sel.delete(p.gtin));
+      }
+      guardarSel();
+      render();
+      const match = location.hash.match(/^#p(\d+)$/);
+      if (match && $("detalle").open) abrir(match[1]);
     }
   }
 
@@ -1571,6 +1717,9 @@
     const p = porGtin.get(gtin);
     if (!p) return;
     const d = $("detalle"), inner = $("det-inner");
+    const yaPublicado = MeliPublication.statusOf(p) === "published";
+    const seleccionada = estado.sel.has(p.gtin);
+    const bloqueaSeleccion = !seleccionada && (meliPublicationSyncing || !MeliPublication.canSelect(p, estado.incluirPublicados));
     const pr = p.precios, inv = p.investigacion;
     const sim = similares(p);
     const ficha = Object.entries(p.ficha || {}).filter(([, v]) => v !== "" && v != null);
@@ -1586,7 +1735,8 @@
           </div>
         </div>
         <div class="det-acciones">
-          <button type="button" class="btn" id="det-sel" aria-pressed="${estado.sel.has(p.gtin)}">${estado.sel.has(p.gtin) ? "Quitar de la selección" : "Seleccionar para exportar"}</button>
+          <button type="button" class="btn" id="det-sel" aria-pressed="${seleccionada}" ${bloqueaSeleccion ? "disabled" : ""}>${seleccionada ? "Quitar de la selección" : "Seleccionar para exportar"}</button>
+          <button type="button" class="btn" id="det-publicacion" ${meliPublicationSyncing ? "disabled" : ""}>${yaPublicado ? "Marcar como no publicado" : "Marcar como publicado en MeLi"}</button>
           <button type="button" class="btn${p.descartado ? "" : " peligro"}" id="det-desc">${p.descartado ? "Reactivar en Meli" : "Descartar de Meli"}</button>
           <button type="button" class="btn det-cerrar" id="det-cerrar">Cerrar</button>
         </div>
@@ -1601,6 +1751,8 @@
       </form>
       ${p.descartado ? `<div class="aviso-descartado"><b>Descartado de Mercado Libre</b> el ${esc(p.descartado.fecha)}: ${esc(p.descartado.motivo)}. No entra en el layout de importación.${p.descartado.local ? " <i>Hecho en este navegador; falta versionarlo con «Exportar descartes».</i>" : ""}</div>`
         : estado.descartes[p.gtin] ? '<div class="aviso-descartado aviso-reactivado">Reactivado en este navegador: vuelve a entrar en el layout. Falta versionarlo con «Exportar descartes».</div>' : ""}
+      ${yaPublicado ? `<div class="aviso-publicado"><b>Publicado en MeLi</b>${p.published_at ? ` · ${esc(new Date(p.published_at).toLocaleString("es-MX"))}` : ""}${p.meli_item_id ? ` · ID de publicación ${esc(p.meli_item_id)}` : ""}</div>` : ""}
+      <p id="det-publication-message" class="publication-message" aria-live="polite"></p>
       <div class="ind-grande" id="det-ind">${indGrande(p)}</div>
       <div class="det-body">
         <div class="det-fotos" id="det-fotos"></div>
@@ -1613,6 +1765,7 @@
             <dt>Categoría</dt><dd>${esc(p.categoria_ruta || "Sin categoría")}</dd>
             <dt>ID de categoría</dt><dd class="mono">${esc(p.categoria_id || "—")}</dd>
             <dt>ID de catálogo</dt><dd class="mono">${esc(p.catalogo_id || "—")}</dd>
+            <dt>ID de publicación</dt><dd class="mono">${esc(p.meli_item_id || "—")}</dd>
             <dt>Receta en México</dt><dd>${esc(p.receta_mx || "—")}${p.categoria_rx_sugerida ? ` · categoría con receta sugerida ${esc(p.categoria_rx_sugerida)}` : ""}</dd>
           </dl></section>
         </div>
@@ -1691,12 +1844,14 @@
     $("det-cerrar").addEventListener("click", () => d.close());
     $("det-sel").addEventListener("click", (e) => {
       const on = !estado.sel.has(p.gtin);
+      if (on && (meliPublicationSyncing || !MeliPublication.canSelect(p, estado.incluirPublicados))) return;
       on ? estado.sel.add(p.gtin) : estado.sel.delete(p.gtin);
       guardarSel();
       e.currentTarget.textContent = on ? "Quitar de la selección" : "Seleccionar para exportar";
       e.currentTarget.setAttribute("aria-pressed", String(on));
       render();
     });
+    $("det-publicacion").addEventListener("click", () => actualizarPublicacionMeli(p, yaPublicado ? "not_published" : "published"));
     $("det-desc").addEventListener("click", () => {
       if (p.descartado) { fijarDescarte(p, false); abrir(p.gtin); render(); return; }
       const fm = $("det-desc-form");
@@ -1746,8 +1901,16 @@
     if (!ACCIONES.some((a) => a.nombre === estado.accion)) estado.accion = "";
     acc.value = estado.accion;
     acc.addEventListener("change", () => { estado.accion = acc.value; guardar("accion", estado.accion); });
-    $("sel-filtrados").addEventListener("click", () => { vistaActual.lista.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
-    $("sel-pagina").addEventListener("click", () => { vistaActual.pagina.forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
+    $("meli-incluir-publicados").addEventListener("change", (event) => {
+      estado.incluirPublicados = event.target.checked;
+      if (!estado.incluirPublicados) {
+        P.filter((p) => !MeliPublication.canSelect(p, false)).forEach((p) => estado.sel.delete(p.gtin));
+        guardarSel();
+      }
+      render();
+    });
+    $("sel-filtrados").addEventListener("click", () => { productosSeleccionables(vistaActual.lista).forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
+    $("sel-pagina").addEventListener("click", () => { productosSeleccionables(vistaActual.pagina).forEach((p) => estado.sel.add(p.gtin)); guardarSel(); render(); });
     $("desel-filtrados").addEventListener("click", () => {
       vistaActual.lista.forEach((p) => estado.sel.delete(p.gtin));
       guardarSel();
@@ -1776,6 +1939,7 @@
     });
     $("sel-descartar").addEventListener("click", confirmarDescarteSel);
     $("sel-reactivar").addEventListener("click", () => descartarSeleccion(false));
+    $("sel-publicados").addEventListener("click", marcarSeleccionPublicadaMeli);
     $("aj-ver").addEventListener("click", () => {
       const soloEd = estado.f.ajustes.size === 1 && estado.f.ajustes.has("local");
       estado.f.ajustes = soloEd ? new Set() : new Set(["local"]);
@@ -1815,6 +1979,7 @@
     };
     window.addEventListener("hashchange", desdeHash);
     desdeHash();
+    sincronizarPublicacionesMeli();
   }
   iniciar();
 })();

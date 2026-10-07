@@ -148,6 +148,33 @@
             "catalogo_id": {
               "type": "string"
             },
+            "publication_status": {
+              "type": "string",
+              "enum": [
+                "not_published",
+                "published"
+              ],
+              "default": "not_published",
+              "description": "Estado manual de publicación del producto en Mercado Libre."
+            },
+            "published_at": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "format": "date-time",
+              "default": null,
+              "description": "Fecha y hora local con zona horaria en que se marcó como publicado."
+            },
+            "meli_item_id": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "pattern": "^MLM[0-9]+$",
+              "default": null,
+              "description": "ID de la publicación del vendedor; independiente de catalogo_id."
+            },
             "descartado": {
               "type": "object",
               "description": "Presente cuando el producto se descarta del catálogo de importación a Mercado Libre (scripts/descartar.py). Sin este campo, el producto se publica.",

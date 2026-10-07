@@ -48,7 +48,8 @@
     <fieldset class="grupo" id="f-ind-descripcion"><legend>Descripción</legend></fieldset>
     <fieldset class="grupo" id="f-ind-fotos"><legend>Fotos</legend></fieldset>
     <fieldset class="grupo" id="f-ind-precios"><legend>Precios</legend></fieldset>
-    <fieldset class="grupo" id="f-publicacion"><legend>Publicación en Meli</legend></fieldset>
+    <fieldset class="grupo" id="f-publicacion"><legend>Elegibilidad en Meli</legend></fieldset>
+    <fieldset class="grupo" id="f-publication-status"><legend>Estado en MeLi</legend></fieldset>
     <fieldset class="grupo" id="f-ajustes"><legend>Ajustes de precio</legend></fieldset>
     <fieldset class="grupo" id="f-tipo"><legend>Tipo de pendiente</legend></fieldset>
     <fieldset class="grupo" id="f-pend"><legend>Pendiente</legend></fieldset>
@@ -104,6 +105,8 @@
         <label class="tool" for="meli-operativa"><span>Seleccionar planilla oficial de Mercado Libre</span><input id="meli-operativa" type="file" accept=".xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"></label>
         <button type="button" class="btn" id="meli-validar" disabled>Validar planilla</button>
         <button type="button" class="btn btn-primario" id="exportar-meli" disabled>Generar copia completada</button>
+        <label class="check" title="Permite seleccionar y volver a incluir productos ya publicados en esta nueva planilla."><input type="checkbox" id="meli-incluir-publicados"> Incluir publicados en la planilla</label>
+        <button type="button" class="btn" id="sel-publicados" disabled>Marcar seleccionados como publicados en MeLi</button>
         <button type="button" class="btn peligro" id="sel-descartar" disabled>Descartar de Meli</button>
         <button type="button" class="btn" id="sel-reactivar" disabled>Reactivar en Meli</button>
         <label class="tool" id="accion-wrap">
@@ -171,6 +174,7 @@
 <script src="data/productos.js"></script>
 <script src="xlsx.js"></script>
 <script src="precios.js"></script>
+<script src="meli_publicacion.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

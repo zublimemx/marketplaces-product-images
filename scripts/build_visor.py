@@ -23,6 +23,7 @@ import precios  # noqa: E402
 import build_mercadolibre as bml  # noqa: E402
 import envios  # noqa: E402
 import otros_marketplaces as otros_mk  # noqa: E402
+import meli_publicacion as publicacion_meli_estado  # noqa: E402
 from revisar_fotos import fondo_no_blanco  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -35,6 +36,10 @@ def num(v):
         return float(v) if v not in ("", None) else None
     except (TypeError, ValueError):
         return None
+
+
+def publicacion_meli(mercadolibre):
+    return publicacion_meli_estado.viewer_fields(mercadolibre)
 
 
 def leer_orden():
@@ -291,6 +296,7 @@ def main():
             "linea": p["linea"], "categoria_id": ml["categoria_id"], "categoria_ruta": ruta,
             "categoria": ruta.split(" > ")[-1] if ruta else "Sin categoría",
             "catalogo_id": ml.get("catalogo_id", ""), "categoria_rx_sugerida": ml.get("categoria_rx_sugerida", ""),
+            **publicacion_meli(ml),
             "stock": base["stock"], "precios": pr, "param": par, "param_origen": origen,
             "envio": {"peso": env["peso_cobrable_kg"], "tamano": env["tamano"], "base": env["base"], "estimado": env["costo_envio"]},
             "ajuste_nota": aj.get("nota", ""),

@@ -1,3 +1,31 @@
 {
-  "templates": []
+  "templates": [
+    {
+      "category_id": "MLM189058",
+      "name": "Leche para Bebés",
+      "route": "Bebés > Comida para Bebés > Leche para Bebés",
+      "file": "reference/mercadolibre/templates/MLM189058.xlsx",
+      "sha256": "530077b3ae448ba86292a499fdc403af9445da2474c559620dd1b2e9f313928a",
+      "updated_at": "2026-10-06",
+      "status": "active"
+    },
+    {
+      "category_id": "MLM167989",
+      "name": "Desodorantes",
+      "route": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
+      "file": "reference/mercadolibre/templates/MLM167989.xlsx",
+      "sha256": "2642eedfa89577ed3479970aa811cdff2b9337b499942fa41cc3c1c0293ec697",
+      "updated_at": "2026-10-07",
+      "status": "active"
+    },
+    {
+      "category_id": "MLM178488",
+      "name": "Desechables",
+      "route": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "file": "reference/mercadolibre/templates/MLM178488.xlsx",
+      "sha256": "44aeee7d3bbb3e097b19cea04c554141da8a81b0fa2e75552cb330567263c7a3",
+      "updated_at": "2026-10-07",
+      "status": "active"
+    }
+  ]
 }
