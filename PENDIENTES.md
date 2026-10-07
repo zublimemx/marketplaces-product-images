@@ -1,6 +1,6 @@
 # Pendientes y próximas tareas
 
-Última actualización: 2026-09-30, al terminar la búsqueda de precios en otros marketplaces de todo el catálogo que se publica (998 de 1,149 con precio) para la pantalla «Comparar precios» y la base de datos `data/catalogo.db`. Para continuar con otra IA, empieza por `AGENTS.md`.
+Última actualización: 2026-10-07, al detectar dinámicamente la fila inicial de las hojas oficiales, agregar el estado persistente de publicación, el marcado en bloque y el filtro de publicación con controles tipo badge. Los datos de precios siguen con corte al 29–30 sep 2026. Para continuar con otra IA, empieza por `AGENTS.md`.
 
 ## Estado
 
@@ -26,7 +26,7 @@ Indicadores de calidad del visor (`visor/index.html`; reglas en `config/indicado
 
 Pendientes por producto (sección Pendientes del visor, sin contar descartados; reglas en `config/pendientes.json`): 4 productos con errores (solo fotos chicas), 674 con pendientes y 824 con mejoras. Los más frecuentes: podría requerir receta (457), precio calculado arriba del mejor vendedor (386), precio en Meli muy arriba del de tienda (362), una sola foto (200), dato por confirmar en el empaque (164), sin existencia (144), falta el precio del mejor vendedor (125). Productos descartados de Meli: 14 (`python scripts/descartar.py --lista`).
 
-Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado; hoja Precios con parámetros por producto). Costos de envío: 1,012 productos $75, 80 $90, 21 $105, 43 $125 y 7 $150 (`data/envios.csv`); se aplican a los 543 productos de $299 o más que se publican. Ajustes de precio versionados: 0 (`data/ajustes_precios.json`). El visor exporta el mismo layout para cualquier selección de productos («Exportar layout Meli»). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado: 638 productos se publican a mejor vendedor − $1 y 525 al calculado. Competencia del 29 sep 2026 en `data/competencia_meli.csv`; catálogos rechazados en `data/catalogo_ml_rechazados.csv`.
+Layout maestro vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, recalculado; hoja Precios con parámetros por producto). Para publicar, el visor modifica una copia de la planilla operativa fresca que carga el usuario y detecta la primera fila de productos en cada hoja desde sus validaciones oficiales. El estado manual `not_published` / `published`, fecha y posible `meli_item_id` se guardan en `products/<GTIN>/product.json`; los productos publicados requieren una inclusión explícita para volver a seleccionarlos. Las plantillas de referencia se listan y administran en Configuración del visor y su esquema usa caché invalidable; el manifiesto puede estar en `reference/mercadolibre/templates/manifest.json`. No hay mappings ni transformaciones de atributos por categoría en este pendiente de infraestructura: esos cambios quedan para la siguiente tarea cuando se incorporen las referencias. `/api/meli/` debe reverse-proxyarse desde Nginx al backend loopback (`docs/nginx-visor.conf`). Costos de envío: 1,012 productos $75, 80 $90, 21 $105, 43 $125 y 7 $150 (`data/envios.csv`); se aplican a los 543 productos de $299 o más que se publican. Ajustes de precio versionados: 0 (`data/ajustes_precios.json`). Precio Meli Final = mejor vendedor − $1 si no queda abajo del calculado: 638 productos se publican a mejor vendedor − $1 y 525 al calculado. Competencia del 29 sep 2026 en `data/competencia_meli.csv`; catálogos rechazados en `data/catalogo_ml_rechazados.csv`.
 
 ## Pendientes abiertos
 
@@ -49,11 +49,11 @@ Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, rec
 
 ## Próximas tareas (en orden)
 
-1. Procesar el Excel de pendientes que adjunte el dueño (`python scripts/solicitudes.py <archivo.xlsx>`; ver `docs/PROCEDIMIENTO_SESION.md` §4 ter).
+1. Integrar el manifiesto y las plantillas individuales de referencia por categoría cuando se incorporen; validar cobertura y compatibilidad. Los mappings y transformaciones quedan en una tarea posterior.
 2. Actualizar precios de competencia antes de publicar (cambian a diario): token nuevo del dueño y `docs/PROCEDIMIENTO_SESION.md` §4 bis. Para renovar solo, conviene el flujo de código de autorización (`scripts/meli_auth.py`).
 3. Resolver con el dueño los 7 productos sin fotos (fotos propias del empaque) y los 12 catálogos rechazados; versionar los descartes que haga en el visor (`python scripts/descartar.py --excel`).
 4. Mejorar fotos marcadas por `scripts/revisar_fotos.py`.
-5. Regenerar el layout de Mercado Libre y el visor después de cada cambio (`docs/PROCEDIMIENTO_SESION.md` §4) y entregarlo; si el dueño comparte las plantillas oficiales del Publicador masivo, llenarlas directamente.
+5. Procesar el Excel de pendientes cuando el dueño lo adjunte (`python scripts/solicitudes.py <archivo.xlsx>`; ver `docs/PROCEDIMIENTO_SESION.md` §4 ter).
 6. Layout de importación de **Odoo** (product.template: nombre, código de barras, referencia interna, precio, categoría, descripción de venta, imagen).
 7. Layout de **Shopify** (CSV de productos: Handle, Title, Body (HTML), Vendor, Product Type, Variant SKU, Variant Barcode, Variant Price, Image Src…).
 8. Layout de **Amazon** (plantilla de categoría de Seller Central México).

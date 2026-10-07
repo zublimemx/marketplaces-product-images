@@ -1,0 +1,727 @@
+{
+  "format_version": 1,
+  "purpose": "mercadolibre_category_reference_templates",
+  "reference_only": true,
+  "do_not_upload_to_mercadolibre": true,
+  "category_count": 35,
+  "source_file": "Publicar-10-06-04_20_10.xlsx",
+  "source_sha256": "d6936983de2354a9bc04d97ae0182664af0fdc8250df7394e3393434f37ec9f2",
+  "generated_at_utc": "2026-10-06T18:20:05.726496+00:00",
+  "auxiliary_sheets_preserved": [
+    "Ayuda",
+    "extra info",
+    "Legales"
+  ],
+  "source_extra_info": {
+    "A1": "3559665083-bulk-sell-37385e35de05",
+    "B1": "2026-11-06",
+    "C1": "22f95b16-100e-479d-be7a-823e9e89ce0f"
+  },
+  "notes": [
+    "Referencia estructural por categoría; no usar para publicación.",
+    "Para publicar, usar una planilla fresca descargada desde Mercado Libre.",
+    "La hoja de categoría se conserva byte a byte respecto al XLSX fuente."
+  ],
+  "categories": [
+    {
+      "category_id": "MLM1267",
+      "category_name": "Otros",
+      "category_path": "Belleza y Cuidado Personal > Cuidado del Cabello > Otros",
+      "source_sheet_name": "(2) Otros",
+      "filename": "MLM1267.xlsx",
+      "column_count": 26,
+      "required_field_count": 13,
+      "data_validation_count": 20,
+      "formula_count": 2985,
+      "source_sheet_xml_sha256": "058a174440a50cd95efd71d6665c9d463d2299835c6db1cb511fdfae22fad36c",
+      "sha256": "96d9552d450e5dbef15030393650886a4f896a2b50eeb8f4a68a8708882bf3ed",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "(2) Otros",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM167988",
+      "category_name": "Cepillos Dentales",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Cepillos Dentales",
+      "source_sheet_name": "Cepillos Dentales",
+      "filename": "MLM167988.xlsx",
+      "column_count": 36,
+      "required_field_count": 13,
+      "data_validation_count": 29,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "08ffca08deb2d1d925657aff52e5576ff8b7ecdace4cbb6a24549f10d7151f5e",
+      "sha256": "68f6bf1cac274b8eb54b887fcd442e430958e5daaf36c3ffc10fb4d7fe6982e3",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Cepillos Dentales",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM167989",
+      "category_name": "Desodorantes",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Desodorantes",
+      "source_sheet_name": "Desodorantes",
+      "filename": "MLM167989.xlsx",
+      "column_count": 39,
+      "required_field_count": 12,
+      "data_validation_count": 32,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "687c27b4a71514ad277ffbc639c6026b98281a75fe7684b4e2a7b54c5edd7bdc",
+      "sha256": "909b21af6b6da1e30eefbdb5b2e4189761eb95b6104225e9a96bb5389794ca3a",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Desodorantes",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM167992",
+      "category_name": "Condones",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Cuidado Sexual > Condones",
+      "source_sheet_name": "Condones",
+      "filename": "MLM167992.xlsx",
+      "column_count": 32,
+      "required_field_count": 12,
+      "data_validation_count": 25,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "6a8a4ebffe1d7723daf62e46465fda37a25c158368e2558b1e7e766cb78298ef",
+      "sha256": "531b96e9827f2522fc6d6eabf3e0e0f4e81606a34bfa992230d4bc2bb57cc2cb",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Condones",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM168075",
+      "category_name": "Pastas Dentales",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Pastas Dentales",
+      "source_sheet_name": "Pastas Dentales",
+      "filename": "MLM168075.xlsx",
+      "column_count": 35,
+      "required_field_count": 12,
+      "data_validation_count": 28,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "2e1e039413d91fbe451ebeb901067077b3e6a39b5cd6c0df460beeb9abcfee8f",
+      "sha256": "7bfe1be6bb74de591e44c8f1b75c863d1e896e4131d9bbb8b5c3841f04964a9f",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Pastas Dentales",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM178488",
+      "category_name": "Desechables",
+      "category_path": "Bebés > Higiene y Cuidado del Bebé > Pañales > Desechables",
+      "source_sheet_name": "Desechables",
+      "filename": "MLM178488.xlsx",
+      "column_count": 51,
+      "required_field_count": 14,
+      "data_validation_count": 44,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "cb8e5becf9c3865ce3477a0155c0b393dcf51beea8b08493fcba61e2069e0312",
+      "sha256": "e76de2928feea7eddbf0d67246accfe080ff0620d66c1fae2eeb91e8547e627c",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Desechables",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM178755",
+      "category_name": "Cuidado Corporal",
+      "category_path": "Belleza y Cuidado Personal > Cuidado de la Piel > Cuidado Corporal",
+      "source_sheet_name": "Cuidado Corporal",
+      "filename": "MLM178755.xlsx",
+      "column_count": 41,
+      "required_field_count": 13,
+      "data_validation_count": 34,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "d27e7015d146da80d81125e0d858730689586d1a62c0598acaffb0b60ae26f64",
+      "sha256": "58dc001a451cdea99f96188ae96c0dee2f05a62f9415e9dee9d0aa4372b09836",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Cuidado Corporal",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM180914",
+      "category_name": "Otros",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Otros",
+      "source_sheet_name": "(1) Otros",
+      "filename": "MLM180914.xlsx",
+      "column_count": 26,
+      "required_field_count": 13,
+      "data_validation_count": 20,
+      "formula_count": 2985,
+      "source_sheet_xml_sha256": "bd795c922cee7c62f1c13efbd17741d14d218162c6c02290844dc3a0c67aff1e",
+      "sha256": "043d817976042ea40a090c46e69ac2af2e17b6d8286948e6931ff1a4ad743a78",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "(1) Otros",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM187794",
+      "category_name": "Toallitas Húmedas",
+      "category_path": "Bebés > Higiene y Cuidado del Bebé > Toallitas Húmedas",
+      "source_sheet_name": "Toallitas Húmedas",
+      "filename": "MLM187794.xlsx",
+      "column_count": 33,
+      "required_field_count": 12,
+      "data_validation_count": 26,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "66e63688076266b502204b346fb9077dcd1849ec3ccfc7ae68d800970e0e959e",
+      "sha256": "e4700985523a4d10b29d04e9202b15f7341eba279e15933f5a236278c655ab22",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Toallitas Húmedas",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM189058",
+      "category_name": "Leche para Bebés",
+      "category_path": "Bebés > Comida para Bebés > Leche para Bebés",
+      "source_sheet_name": "Leche para Bebés",
+      "filename": "MLM189058.xlsx",
+      "column_count": 42,
+      "required_field_count": 15,
+      "data_validation_count": 35,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "702897e510b3f5e5b8ae684331a87b14637c0c6f3d1c98f24d3be78a0e62e253",
+      "sha256": "6f33df4cd8d1e1e873b32b441be6bd2f4693919e5a1e70d94e203862d9c08c58",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Leche para Bebés",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM189205",
+      "category_name": "Enjuague Bucal",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Cuidado Bucal > Enjuague Bucal",
+      "source_sheet_name": "Enjuague Bucal",
+      "filename": "MLM189205.xlsx",
+      "column_count": 33,
+      "required_field_count": 10,
+      "data_validation_count": 26,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "63dfcd5541b47188592f7a9d4003dfbde2cee5905b384aad277478cf3e12bb6d",
+      "sha256": "315ee2fe25b12204068a19298cecbbd259ba09125c44aadcc5061739e52aa023",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Enjuague Bucal",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM189948",
+      "category_name": "Medidores de Glucosa",
+      "category_path": "Salud y Equipamiento Médico > Equipamiento Médico > Equipos de Monitoreo > Medidores de Glucosa",
+      "source_sheet_name": "Medidores de Glucosa",
+      "filename": "MLM189948.xlsx",
+      "column_count": 35,
+      "required_field_count": 14,
+      "data_validation_count": 28,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "5519b0cf17878d5fd817408d4a49a0acb7baf6bdd5aec84ce3af8fa7984a6783",
+      "sha256": "9a1fe3e8874cae0fc027163eee0576063c63de3287beaf8a62cd088e64016efc",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Medidores de Glucosa",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM191087",
+      "category_name": "Gasas",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Gasas",
+      "source_sheet_name": "Gasas",
+      "filename": "MLM191087.xlsx",
+      "column_count": 41,
+      "required_field_count": 14,
+      "data_validation_count": 34,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "eb5a7023d51aadbc0ff59f2f1aef2ac3d6238fb3a14550169a348b160c24bd5e",
+      "sha256": "5f6b1867607ce44edf8541228b34b8b957ba0f7166dd490ed7ef54dfde0ce7bc",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Gasas",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM191692",
+      "category_name": "Fijadores para el Cabello",
+      "category_path": "Belleza y Cuidado Personal > Cuidado del Cabello > Fijadores para el Cabello",
+      "source_sheet_name": "Fijadores para el Cabello",
+      "filename": "MLM191692.xlsx",
+      "column_count": 37,
+      "required_field_count": 12,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "430c4aa229ae4af19d259b42aec0645c575de3decb94eb1d6a4b8b9c867d5df8",
+      "sha256": "e986e43825f2572eebd4b7a3fe940ba78e1eb4bf584f153d2e5efbe409586fdc",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Fijadores para el Cabello",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM191698",
+      "category_name": "Alcohol Etílico",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcohol Etílico",
+      "source_sheet_name": "Alcohol Etílico",
+      "filename": "MLM191698.xlsx",
+      "column_count": 38,
+      "required_field_count": 11,
+      "data_validation_count": 31,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "4ee18ebfcaa621a1d5c2141714537d063e5591959d79393d1d01e41bb58a5146",
+      "sha256": "8a641503e1b318bab76ca538e388df77436b2b5b8d981847472f382463896fcb",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Alcohol Etílico",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM193807",
+      "category_name": "Cremas, Pomadas y Aceites",
+      "category_path": "Bebés > Higiene y Cuidado del Bebé > Cremas, Pomadas y Aceites",
+      "source_sheet_name": "Cremas, Pomadas y Aceites",
+      "filename": "MLM193807.xlsx",
+      "column_count": 36,
+      "required_field_count": 12,
+      "data_validation_count": 29,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "47d61968c3c43704ba893cf605cd58ac141b7e6ef0405f97f1017c3b81b1d2f0",
+      "sha256": "6750c8529aa1f2dd765af9bdf874f95adf33c2722b4bf65d89e5dede9e5a218c",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Cremas, Pomadas y Aceites",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM194011",
+      "category_name": "Rasuradoras Desechables",
+      "category_path": "Belleza y Cuidado Personal > Higiene Personal > Rasuradoras Desechables",
+      "source_sheet_name": "Rasuradoras Desechables",
+      "filename": "MLM194011.xlsx",
+      "column_count": 35,
+      "required_field_count": 11,
+      "data_validation_count": 28,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "262fd640e7345661537df50e2aae2954a24593144d9a64a0227b01d2ac6afa59",
+      "sha256": "b8cff6373c1ccefe552ff6f8a908945a8e1a612b3e766f8c45512fc46eb19607",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Rasuradoras Desechables",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM194260",
+      "category_name": "Tests de Embarazo y Ovulación",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Tests de Embarazo y Ovulación",
+      "source_sheet_name": "Tests de Embarazo y Ovulación",
+      "filename": "MLM194260.xlsx",
+      "column_count": 34,
+      "required_field_count": 12,
+      "data_validation_count": 27,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "14930838e048b25f42ff45264e67211224723b88b3074f9ad7f35c3974e32d29",
+      "sha256": "0d9cb07ad6f579cec58a6046bad9cd22de114302328b4b729ec4610c88c276ef",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Tests de Embarazo y Ovulación",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM194512",
+      "category_name": "Pañales para Adultos",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Protección para Incontinencia > Pañales para Adultos",
+      "source_sheet_name": "Pañales para Adultos",
+      "filename": "MLM194512.xlsx",
+      "column_count": 42,
+      "required_field_count": 12,
+      "data_validation_count": 35,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "d57c28afdb8211c9acfcc7c851bb58bb6b73155ba67491e04ef362294bfd50d5",
+      "sha256": "47394ed01b9639464a2066b2bcc35329cfc4a316f12eeae6b1d6d48d7e4ffc9d",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Pañales para Adultos",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM432657",
+      "category_name": "Shampoos y Acondicionadores",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Tratamientos para Piojos > Shampoos y Acondicionadores",
+      "source_sheet_name": "Shampoos y Acondicionadores",
+      "filename": "MLM432657.xlsx",
+      "column_count": 31,
+      "required_field_count": 13,
+      "data_validation_count": 25,
+      "formula_count": 2985,
+      "source_sheet_xml_sha256": "fec199346d31b59c0ddb0adabad73c588c4e894af7857519f82a68aa8aabe5eb",
+      "sha256": "05ace0643e4647446ce3c625596540b7c1be88d56d2702e57fb9f5bdbec459da",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Shampoos y Acondicionadores",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM438195",
+      "category_name": "Suplementos Alimenticios",
+      "category_path": "Salud y Equipamiento Médico > Suplementos Alimenticios",
+      "source_sheet_name": "Suplementos Alimenticios",
+      "filename": "MLM438195.xlsx",
+      "column_count": 50,
+      "required_field_count": 16,
+      "data_validation_count": 43,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "1d8d5d408729789e7cacbb060091a1452353f1ddf38fe595d3c7f8fa195babb0",
+      "sha256": "05017f14b92a5f6fdf023126cb18fddc558e42f7141fe30f94d089f4eb002bf6",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Suplementos Alimenticios",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457812",
+      "category_name": "Sistema Nervioso Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Sistema Nervioso Venta Libre",
+      "source_sheet_name": "Sistema Nervioso Venta Libre",
+      "filename": "MLM457812.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "7087a27068b762703a58642b0db198b2cc95a7d422e98327f671825c24c44eb2",
+      "sha256": "dd5749168133f651b9920b8cf902e928d4cf0de38c3eb666a19017d1b935b1d6",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Sistema Nervioso Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457813",
+      "category_name": "Hormonales Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Hormonales Venta Libre",
+      "source_sheet_name": "Hormonales Venta Libre",
+      "filename": "MLM457813.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "d410e8a9649794cc98d0c460f5e1bcf889508f823dd84c0cc8a5cbcb7566612d",
+      "sha256": "2f8d0c2da439fc335f32ae95427ab17a3553c41e2836aa6ac32e3f32768a0a10",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Hormonales Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457814",
+      "category_name": "Respiratorios Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Respiratorios Venta Libre",
+      "source_sheet_name": "Respiratorios Venta Libre",
+      "filename": "MLM457814.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "2e5e67195efa14bcad98696c938c08b8d8d69a6de5654f0c56e3588454eecd3a",
+      "sha256": "8c5e9c66700ed2516b67c5d582f48e3293f8dfebcf337a398238b45d98e15eb0",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Respiratorios Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457815",
+      "category_name": "Inmunomoduladores Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Inmunomoduladores Venta Libre",
+      "source_sheet_name": "Inmunomoduladores Venta Libre",
+      "filename": "MLM457815.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "3018c06f8b7b4392a4a23aade7ea5b0abe2ba649177c3b3f436ff59284a45acf",
+      "sha256": "1431f206a3a8272addc7ccbdb70ca0f92b190a4b828b815751638a382c0e1e15",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Inmunomoduladores Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457817",
+      "category_name": "Cardiovasculares Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Cardiovasculares Venta Libre",
+      "source_sheet_name": "Cardiovasculares Venta Libre",
+      "filename": "MLM457817.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "1d49a0eca05825d03c8c7d5a5a7287bc1a912d264d631d6af5fd6e53a63b2dee",
+      "sha256": "d8ea64ac2204e51dcc8046521b44ee6c321559c468dc823924ea579247e7a63e",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Cardiovasculares Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457818",
+      "category_name": "Uroginecológicos Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Uroginecológicos Venta Libre",
+      "source_sheet_name": "Uroginecológicos Venta Libre",
+      "filename": "MLM457818.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "aa79a4c8dc7741b540e2a72d3d30aa94f0402e965a15ea2cffa60960722c59ba",
+      "sha256": "4d700c1f7e6348543f92ac2964f2f3530844fc35af9006010afa2149da9fdd34",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Uroginecológicos Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457819",
+      "category_name": "Dermatológicos Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Dermatológicos Venta Libre",
+      "source_sheet_name": "Dermatológicos Venta Libre",
+      "filename": "MLM457819.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "4f19195dccf5c5cb59d9307347e0439afd860222d0d9080c702e87bad64489c3",
+      "sha256": "f359579305a7b4c89232cf014b06e9c4c2a4f51b325dc33757af757159868176",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Dermatológicos Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457820",
+      "category_name": "Para la Sangre Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para la Sangre Venta Libre",
+      "source_sheet_name": "Para la Sangre Venta Libre",
+      "filename": "MLM457820.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "989f97041de7c6f0bc1a68007b1b4babbcc1dd870c86f4b84d03c2f2676685ba",
+      "sha256": "cbe8113a873b2fa104ac9ddcda2ba8c8c38a39174af5fd359dac83e60a0c050f",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Para la Sangre Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457821",
+      "category_name": "Digestivos Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Digestivos Venta Libre",
+      "source_sheet_name": "Digestivos Venta Libre",
+      "filename": "MLM457821.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "94a809d471756650c28b214d4d5ed0bf9d9252e693e6adae6aa4fbf7dfdb4c8f",
+      "sha256": "99cd890b19d24e0c383ffe6f3b844ad6a83f25343df647a7a672fd64f63b988f",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Digestivos Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457822",
+      "category_name": "Musculoarticulares Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Musculoarticulares Venta Libre",
+      "source_sheet_name": "Musculoarticulares Venta Libre",
+      "filename": "MLM457822.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "8c586214e97d63b110af66cc21b433dee9e69723ee863bd8cf36210cf4dcca37",
+      "sha256": "e52d9387b9aa7c8379177aa12fe4794f31330f5c66b5b5fa67c7a01590bcded9",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Musculoarticulares Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457823",
+      "category_name": "Antiinfecciosos Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Antiinfecciosos Venta Libre",
+      "source_sheet_name": "Antiinfecciosos Venta Libre",
+      "filename": "MLM457823.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "1866a38f6ebface206d14591e0585fdd547a7865b319e17b5bfa23347064373b",
+      "sha256": "93b030d129488b95fe64caff7d374ececb8b6b4c4577a75a5ddecf4414b66ba1",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Antiinfecciosos Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM457824",
+      "category_name": "Para Ojos y Oídos Venta Libre",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Medicamentos de Venta Libre > Para Ojos y Oídos Venta Libre",
+      "source_sheet_name": "Para Ojos y Oídos Venta Libre",
+      "filename": "MLM457824.xlsx",
+      "column_count": 37,
+      "required_field_count": 19,
+      "data_validation_count": 30,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "8b0c937e6593d058bdf5a19872b1f7eebb8fd53b65e36b58a9cdbae6b8752214",
+      "sha256": "4a0217bf1122f7e9183d561b1a5008568b7634679fdd07e7463f7bb3609a35ab",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Para Ojos y Oídos Venta Libre",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM458019",
+      "category_name": "Alcoholes Líquidos",
+      "category_path": "Salud y Equipamiento Médico > Cuidado de la Salud > Farmacia > Alcoholes Líquidos",
+      "source_sheet_name": "Alcoholes Líquidos",
+      "filename": "MLM458019.xlsx",
+      "column_count": 41,
+      "required_field_count": 11,
+      "data_validation_count": 34,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "4c949d2efcfdba2e62832f89c8072e01607ab483ff3ae7f932ec79ec0c624324",
+      "sha256": "2fa77e9fd77d6c2ddb2e6265aeb27521378f49488db0cbc169e0a57f1cd0883d",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Alcoholes Líquidos",
+        "Legales"
+      ],
+      "reference_only": true
+    },
+    {
+      "category_id": "MLM7552",
+      "category_name": "Pilas",
+      "category_path": "Electrónica, Audio y Video > Pilas y Cargadores > Pilas",
+      "source_sheet_name": "Pilas",
+      "filename": "MLM7552.xlsx",
+      "column_count": 34,
+      "required_field_count": 14,
+      "data_validation_count": 27,
+      "formula_count": 3976,
+      "source_sheet_xml_sha256": "8a8e098b3d78e746892fbeff5d035eff18515e09773ede490d9d3057d7eebb61",
+      "sha256": "8ae3b18c38914a2d0d5b687e254e09beeaa89eb037fafc9c5acccb9bba1d93a6",
+      "sheets": [
+        "Ayuda",
+        "extra info",
+        "Pilas",
+        "Legales"
+      ],
+      "reference_only": true
+    }
+  ]
+}

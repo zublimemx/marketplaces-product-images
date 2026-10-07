@@ -53,6 +53,10 @@ def main():
         (f"Con {por_sesion} productos por sesión falta 1 sesión" if ses_faltan == 1 else f"Con {por_sesion} productos por sesión faltan {ses_faltan} sesiones")
         + f"; con las {hechas} ya hechas, el total estimado es de {hechas + ses_faltan} sesiones.",
         "",
+        "## Exportación de Mercado Libre",
+        "",
+        "El visor modifica una copia de la planilla operativa fresca que carga el usuario. Las plantillas de referencia por categoría se listan y administran desde Configuración del visor; el parser conserva sus esquemas en caché con invalidación por archivo, checksum, fecha de modificación y estado activo. Nginx debe reenviar `/api/meli/` al backend local (ver `docs/nginx-visor.conf`).",
+        "",
         "## Historial",
         "",
         "| Sesión | Fecha | Productos investigados | Fichas verificadas | Productos con fotos nuevas |",

@@ -388,6 +388,9 @@ button, input, select { font: inherit; color: inherit; }
 .pc-mejora { background: var(--accent-soft); color: var(--accent); }
 .pc-ok { background: var(--ok-soft); color: var(--ok); }
 .desc-badge { border: 1px dashed var(--muted); color: var(--muted); border-radius: 999px; padding: 0 8px; font-size: 0.74rem; line-height: 1.6; }
+.meli-published { display: inline-block; border-radius: 999px; padding: 1px 8px; background: var(--ok-soft); color: var(--ok); font-size: 0.74rem; line-height: 1.6; white-space: nowrap; }
+.aviso-publicado { background: var(--ok-soft); color: var(--ok); border-radius: 8px; padding: 8px 12px; font-size: 0.9rem; }
+.publication-message { min-height: 1.4em; margin: 0; color: var(--muted); font-size: 0.86rem; }
 .toggle.pt-error span::before, .toggle.pt-pendiente span::before, .toggle.pt-mejora span::before {
   content: ""; width: 7px; height: 7px; border-radius: 50%; flex: none;
 }

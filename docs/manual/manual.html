@@ -82,7 +82,7 @@
   <h2><span class="n">1</span>Abrir el visor</h2>
   <ol>
     <li>Descarga el repositorio completo desde GitHub: botón <span class="ui">Code → Download ZIP</span> (o <code>git clone https://github.com/zublimemx/marketplaces-product-images</code>) y descomprímelo. Si el repositorio está privado, entra con una cuenta de GitHub que tenga acceso.</li>
-    <li>Abre el archivo <code>visor/index.html</code> con doble clic, en Chrome o Edge. No hay que instalar nada; las fotos se leen de la carpeta <code>products/</code>, así que no muevas el archivo fuera del repositorio.</li>
+    <li>En el servidor de desarrollo, inicia <code>python3 scripts/visor_server.py</code> y accede al visor mediante la URL publicada por Nginx. Nginx reenvía las rutas relativas <code>/api/meli/</code> al backend local; el navegador no necesita conectarse a su propio <code>127.0.0.1</code>.</li>
     <li>Arriba a la izquierda aparece la fecha de los datos («datos del …»). Si la IA actualizó el repositorio, vuelve a descargarlo para ver los cambios.</li>
   </ol>
   <p>Para abrir un producto directo, agrega <code>#p</code> y su código al final de la dirección, por ejemplo <code>…/visor/index.html#p7501058623300</code>.</p>
@@ -161,13 +161,15 @@
   <ol>
     <li>Filtra los productos que quieres publicar (o limpia los filtros para todos).</li>
     <li>Selecciónalos: casilla en cada renglón o tarjeta; la casilla del encabezado de la lista marca todos los filtrados, igual que <span class="ui">Seleccionar los N filtrados</span>. <span class="ui">Deseleccionar los N filtrados</span> quita solo los del filtro actual. La selección se conserva al cambiar filtros.</li>
-    <li>Pulsa <span class="ui">Exportar layout Meli (N)</span>. Se descarga <code>layout_meli_AAAA-MM-DD_HHMM.xlsx</code> con tres hojas: <b>Layout Mercado Libre</b> (SKU, título, categoría, precio = Precio Meli final, cantidad, descripción, ficha técnica e Imagen 1 a 6 con las URLs de GitHub), <b>Precios</b> (desglose) e <b>Instrucciones</b>.</li>
-    <li>Revisa la columna gris <b>Errores a revisar</b> (por ejemplo, productos sin fotos). Las columnas grises son de control y no se suben.</li>
-    <li>Copia los datos a la plantilla de carga masiva que Mercado Libre da para cada categoría (o usa el archivo como hoja maestra).</li>
+    <li>En <span class="ui">Seleccionar planilla oficial de Mercado Libre</span>, elige la planilla fresca que acabas de descargar desde el Publicador masivo y pulsa <span class="ui">Validar planilla</span>.</li>
+    <li>Revisa categorías, referencias y vigencia que informa el visor. Después pulsa <span class="ui">Generar copia completada</span>; la copia conserva el archivo operativo original y su metadata de Mercado Libre.</li>
+    <li>Las categorías sin referencia o con cambios de esquema y los campos obligatorios pendientes se muestran en el visor. Corrige la selección/datos o incorpora posteriormente una referencia antes de exportar esos productos.</li>
+    <li>Sube el archivo descargado al Publicador masivo de Mercado Libre; ya conserva las hojas y el formato oficial.</li>
   </ol>
+  <p>En <span class="ui">Configuración · referencias de categorías de Mercado Libre</span> puedes listar referencias, cargar una nueva o reemplazar una anterior. El visor valida la categoría y presenta las diferencias del esquema. Estas referencias solo sirven para validar; siempre publicas usando la planilla operativa fresca.</p>
   <figure>
     <img src="img/03_lista.png" alt="Lista con productos seleccionados y precios editables">
-    <figcaption>Lista con tres productos seleccionados, un envío editado (naranja) y el botón «Exportar layout Meli».</figcaption>
+    <figcaption>Lista de productos seleccionados y controles para cargar, validar y completar la planilla operativa de Mercado Libre.</figcaption>
   </figure>
   <div class="nota alerta">
     <p><b>Fotos:</b> Mercado Libre descarga las imágenes de las URLs de GitHub, que solo funcionan mientras el repositorio es <b>público</b>. Antes de importar, en GitHub ve a <span class="ui">Settings → Danger Zone → Change repository visibility</span> y hazlo público; al terminar la importación, regrésalo a privado.</p>
