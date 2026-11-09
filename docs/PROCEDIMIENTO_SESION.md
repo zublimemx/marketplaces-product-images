@@ -93,6 +93,25 @@ python scripts/aplicar_revision_ml.py && python scripts/meli_precios.py --solo-c
 
 Luego §4 (regenerar). Detalle en `docs/MERCADOLIBRE_API.md`.
 
+## 4 quinquies. Catálogo Ecatepec: categoría y laboratorio para Odoo (fase 1)
+
+Productos nuevos del Excel `Catalogo_Ecatepec.xlsx` (exportación de productos de Odoo que entrega el dueño; va en `insumos/originales/`, no se versiona). Necesita acceso de red a `www.fahorro.com` (San Pablo y Guadalajara bloquean consultas automáticas).
+
+```bash
+python scripts/ecatepec_categorias.py candidatos insumos/originales/Catalogo_Ecatepec.xlsx   # nuevos, sin repetir los de products/
+python scripts/ecatepec_categorias.py ahorro      # GraphQL de Farmacias del Ahorro por GTIN (lotes de 50, pausas de 4 s)
+python scripts/ecatepec_categorias.py rutas       # ruta canónica del Ahorro por producto encontrado
+python scripts/ecatepec_categorias.py lotes       # lotes de los que el Ahorro no tiene (o cuyo laboratorio es distribuidor)
+```
+
+Cada lote `trabajo/ecatepec/lotes/cat_XX.json` lo clasifica un subagente con `docs/agentes/categorias.md` (sin búsquedas web; 15 lotes de ~470 en paralelo funcionan bien). Los laboratorios del ERP se normalizan una sola vez en `data/ecatepec/laboratorios.json` (tipo fabricante o distribuidor). Después:
+
+```bash
+python scripts/ecatepec_categorias.py excel       # data/ecatepec/catalogo.csv y layouts/odoo/categorias_laboratorios_ecatepec.xlsx
+```
+
+El Excel trae las hojas **Categorías** (importación de `product.category`: Nombre y Categoría padre, padres antes que hijos, dentro de las categorías existentes «Farmacia» y «Perfumería»), **Laboratorios** (Nombre), **Productos** (SKU, Nombre, Categoría y Laboratorio con el nombre del registro de Odoo) y **Rutas por nivel**. En `data/ecatepec/catalogo.csv` queda la fuente de cada categoría (`Farmacias del Ahorro` o `inferida`) y su confianza, para confirmar las inferidas después con búsqueda web.
+
 ## 5. Publicar cambios (siempre por PR)
 
 1. Actualiza `PENDIENTES.md` (estado, pendientes abiertos, próximas tareas).

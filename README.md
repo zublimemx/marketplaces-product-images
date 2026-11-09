@@ -58,6 +58,7 @@ scripts/preparar_revision_ml.py  Hojas de fotos y lotes de descripciones para re
 scripts/aplicar_revision_ml.py   Aplica la revisión (fotos, descripciones, GTIN confirmados, catálogos rechazados)
 scripts/otros_marketplaces.py    Precios en otros marketplaces (integra subagentes o el Excel del visor)
 scripts/build_db.py              Base de datos SQLite data/catalogo.db con todos los datos (--verificar en CI)
+scripts/ecatepec_categorias.py   Catálogo Ecatepec: categoría (Farmacias del Ahorro) y laboratorio, y Excel para Odoo
 scripts/pr.py                    Crea y fusiona PRs con la API de GitHub (si no hay gh)
 scripts/setup.sh                 Prepara el entorno (dependencias, carpetas locales, validación)
 ```

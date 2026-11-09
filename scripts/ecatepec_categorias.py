@@ -1,12 +1,18 @@
 #!/usr/bin/env python3
-"""Fase 1 del catálogo Ecatepec: categoría (árbol de Farmacias del Ahorro) y fabricante por producto.
+"""Catálogo Ecatepec, fase 1: categoría (árbol de Farmacias del Ahorro, dentro de «Farmacia» o «Perfumería» de Odoo)
+y laboratorio o fabricante de cada producto nuevo del Excel del ERP. Ver docs/PROCEDIMIENTO_SESION.md §4 quinquies.
 
-Pasos (desde la raíz del repositorio):
-  1. trabajo/ecatepec/candidatos.csv        productos nuevos del Excel (ver --candidatos)
-  2. trabajo/ecatepec/fahorro.jsonl         consulta GraphQL de fahorro.com por GTIN (lotes de 50)
-  3. trabajo/ecatepec/fahorro_arbol.json    árbol de categorías de fahorro.com
-  4. python scripts/ecatepec_categorias.py rutas     -> trabajo/ecatepec/rutas_ahorro.csv (ruta canónica por GTIN encontrado)
-                                                       y trabajo/ecatepec/rutas_permitidas.txt (para inferir los demás)
+Pasos (desde la raíz del repositorio; los intermedios van a trabajo/ecatepec/, que no se versiona):
+  python scripts/ecatepec_categorias.py candidatos insumos/originales/Catalogo_Ecatepec.xlsx
+        -> candidatos.csv (GTIN válido, vendible, que no esté ya en products/) y data/ecatepec/excluidos.csv
+  python scripts/ecatepec_categorias.py ahorro       -> fahorro.jsonl y fahorro_arbol.json (GraphQL de fahorro.com,
+        lotes de 50 GTIN con 4 s de pausa; se puede reanudar)
+  python scripts/ecatepec_categorias.py rutas        -> rutas_ahorro.csv (ruta canónica por GTIN) y rutas_permitidas.txt
+  (subagente) laboratorios del ERP normalizados      -> data/ecatepec/laboratorios.json
+  python scripts/ecatepec_categorias.py lotes        -> base.csv, rutas_odoo.txt y lotes/cat_XX.json
+  (subagentes con docs/agentes/categorias.md)        -> resultados/cat_XX.json
+  python scripts/ecatepec_categorias.py excel        -> data/ecatepec/catalogo.csv y
+        layouts/odoo/categorias_laboratorios_ecatepec.xlsx
 """
 import collections
 import csv
@@ -17,6 +23,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 T = os.path.join(ROOT, "trabajo", "ecatepec")
+LABS = os.path.join(ROOT, "data", "ecatepec", "laboratorios.json")
 
 # Departamentos reales de fahorro.com, en orden de preferencia, y la categoría principal de Odoo donde quedan.
 DEPTOS = {
@@ -97,6 +104,84 @@ def rutas():
     print(len(filas), "encontrados;", sum(1 for x in filas if x["ruta_ahorro"]), "con ruta;", len(perm), "rutas permitidas")
 
 
+def gtin_valido(s):
+    if not re.fullmatch(r"\d{8}|\d{12,14}", s):
+        return False
+    d = [int(c) for c in s]
+    t = sum(x * (3 if i % 2 == 0 else 1) for i, x in enumerate(d[:-1][::-1]))
+    return (10 - t % 10) % 10 == d[-1]
+
+
+def candidatos(xlsx):
+    import pandas as pd
+    norm = lambda s: re.sub(r"\s+", " ", str(s)).strip().upper()
+    df = pd.read_excel(xlsx, dtype={"Código de barras": str})
+    df["g"] = df["Código de barras"].fillna("").str.strip()
+    df["n"] = df.Nombre.map(norm)
+    pdir = os.path.join(ROOT, "products")
+    exist = set(os.listdir(pdir))
+    en = {e.lstrip("0") for e in exist}
+    exn = {norm(json.load(open(os.path.join(pdir, d, "product.json")))["nombre_sistema"]) for d in exist}
+    def motivo(r):
+        if r.g.lstrip("0") in en:
+            return "Ya está en el repositorio (mismo GTIN)"
+        if r.n in exn:
+            return "Ya está en el repositorio (mismo nombre)"
+        if not gtin_valido(r.g):
+            return "Código de barras no es GTIN válido (oferta o código interno)"
+        if not r["Se puede vender"]:
+            return "Marcado como no se puede vender"
+        return ""
+    df["motivo"] = df.apply(motivo, axis=1)
+    c = df[df.motivo == ""].copy()
+    c["descatalogado"] = c["Categoría de producto"].eq("DESCATALOGADO")
+    c["orden"] = range(1, len(c) + 1)
+    os.makedirs(T, exist_ok=True)
+    c[["orden", "g", "Nombre", "Laboratorio", "Categoría de producto", "Categoría de producto UNSPSC", "descatalogado"]].rename(
+        columns={"g": "gtin"}).to_csv(os.path.join(T, "candidatos.csv"), index=False)
+    df[df.motivo != ""][["g", "Nombre", "motivo"]].rename(columns={"g": "gtin", "Nombre": "nombre_erp"}).to_csv(
+        os.path.join(ROOT, "data", "ecatepec", "excluidos.csv"), index=False)
+    print(len(c), "candidatos;", df.motivo.value_counts().to_dict())
+
+
+def ahorro():
+    import time
+    import pandas as pd
+    import requests
+    url, H = "https://www.fahorro.com/graphql", {"User-Agent": "Mozilla/5.0", "Content-Type": "application/json"}
+    c = pd.read_csv(os.path.join(T, "candidatos.csv"), dtype={"gtin": str})
+    out = os.path.join(T, "fahorro.jsonl")
+    hechos = set()
+    if os.path.exists(out):
+        for l in open(out):
+            hechos.update(json.loads(l)["consultados"])
+    Q = ("{ products(filter: {sku: {in: %s}}, pageSize: 100) { items { sku name url_key brand "
+         "categories { uid name url_path level } } aggregations { attribute_code options { label value } } } }")
+    g = [x for x in c.gtin if x not in hechos]
+    for i in range(0, len(g), 50):
+        lote = g[i:i + 50]
+        for intento in range(4):
+            try:
+                d = requests.post(url, json={"query": Q % json.dumps(lote)}, headers=H, timeout=90).json()["data"]["products"]
+                break
+            except Exception as e:
+                print("error", i, e, flush=True)
+                time.sleep(30 * (intento + 1))
+        else:
+            sys.exit("falló el lote %d; vuelve a correr para reanudar" % i)
+        br = {o["value"]: o["label"] for a in d["aggregations"] if a["attribute_code"] == "brand" for o in a["options"]}
+        items = [dict(it, brand_label=br.get(str(it["brand"]))) for it in d["items"]]
+        with open(out, "a") as f:
+            f.write(json.dumps({"consultados": lote, "items": items}, ensure_ascii=False) + "\n")
+        time.sleep(4)
+    Qa = ("{ categoryList(filters: {parent_id: {eq: \"2\"}}) { name url_path level product_count children { name url_path "
+          "level product_count children { name url_path level product_count children { name url_path level product_count "
+          "children { name url_path level product_count } } } } } }")
+    arbol = requests.post(url, json={"query": Qa}, headers=H, timeout=90).json()
+    json.dump(arbol, open(os.path.join(T, "fahorro_arbol.json"), "w"), ensure_ascii=False)
+    print("listo:", sum(len(json.loads(l)["items"]) for l in open(out)), "productos encontrados")
+
+
 MALOS = ("plan de lealtad", "foundayz", "mounjaro", "ozempic", "rybelsus", "saxenda", "trulicity", "wegovy",
          "nuevos lanzamientos", "lanzamientos", "invernal", "catálogo extendido", "nan", "nido")
 
@@ -131,7 +216,7 @@ def lotes(n_lotes=15):
     import pandas as pd
     c = pd.read_csv(os.path.join(T, "candidatos.csv"), dtype={"gtin": str})
     r = pd.read_csv(os.path.join(T, "rutas_ahorro.csv"), dtype={"gtin": str}, keep_default_na=False)
-    labs = {x["laboratorio_excel"].strip(): x for x in json.load(open(os.path.join(T, "labs_salida.json")))}
+    labs = {x["laboratorio_excel"].strip(): x for x in json.load(open(LABS))}
     x = c.merge(r, on="gtin", how="left").fillna("")
     x["Laboratorio"] = x.Laboratorio.str.strip().replace("", "(vacío)")
     x["odoo"] = x.ruta_ahorro.map(odoo)
@@ -172,7 +257,7 @@ def lotes(n_lotes=15):
 
 def excel():
     """Une la categoría del Ahorro con las inferidas y escribe:
-    - data/catalogo_ecatepec.csv (versionado, sin precios): una fila por producto con fuente y confianza.
+    - data/ecatepec/catalogo.csv (versionado, sin precios): una fila por producto con fuente y confianza.
     - layouts/odoo/categorias_laboratorios_ecatepec.xlsx: hojas Categorías (importación de product.category),
       Laboratorios, Productos (SKU, Nombre, Categoría, Laboratorio) y Rutas por nivel."""
     import glob
@@ -185,7 +270,7 @@ def excel():
     for f in sorted(glob.glob(os.path.join(T, "resultados", "cat_*.json"))):
         for x in json.load(open(f)):
             inf[x["gtin"]] = x
-    labs = {x["laboratorio_excel"].strip(): x for x in json.load(open(os.path.join(T, "labs_salida.json")))}
+    labs = {x["laboratorio_excel"].strip(): x for x in json.load(open(LABS))}
     filas, malos = [], []
     for _, r in b.iterrows():
         i = inf.get(r.gtin, {})
@@ -197,20 +282,25 @@ def excel():
                 malos.append((r.gtin, cat))
                 cat, conf = "", ""
         lab = labs.get(r.Laboratorio, {})
-        if r.lab_tipo == "distribuidor":
+        if lab.get("tipo") == "distribuidor":
             fab, ffab = (i.get("fabricante") or "").strip(), "inferido por producto"
             if not fab:
                 fab, ffab = lab.get("fabricante", ""), "laboratorio del ERP (distribuidor)"
         else:
-            fab, ffab = r.fabricante_lab, "laboratorio del ERP normalizado (%s)" % lab.get("confianza", "")
+            fab, ffab = lab.get("fabricante", ""), "laboratorio del ERP normalizado (%s)" % lab.get("confianza", "")
         filas.append({"gtin": r.gtin, "nombre_erp": str(r.Nombre).strip(), "laboratorio_erp": r.Laboratorio,
                       "categoria_erp": r["Categoría de producto"], "categoria_odoo": cat, "fuente_categoria": fuente,
                       "confianza_categoria": conf, "fabricante": fab, "fuente_fabricante": ffab,
                       "nombre_ahorro": r.nombre_ahorro, "marca_ahorro": r.marca_ahorro, "ruta_ahorro": r.ruta_ahorro})
     df = pd.DataFrame(filas)
+    # Nodos comerciales o mal escritos del Ahorro que se ajustan en la ruta final.
+    ajustes = {"Perfumería / Higiene y Cuidado Personal / Incontinencia / Compra Más, Ahorra Más": "Perfumería / Higiene y Cuidado Personal / Incontinencia",
+               "Perfumería / Hogar / Ver Todo Hogar": "Perfumería / Hogar",
+               "Farmacia / Articulos de medición": "Farmacia / Artículos de medición"}
+    df["categoria_odoo"] = df.categoria_odoo.replace(ajustes)
     if malos:
         print("AVISO: %d categorías inferidas fuera de rutas_odoo.txt (quedan vacías): %s" % (len(malos), malos[:5]))
-    df.to_csv(os.path.join(ROOT, "data", "catalogo_ecatepec.csv"), index=False)
+    df.to_csv(os.path.join(ROOT, "data", "ecatepec", "catalogo.csv"), index=False)
 
     # Categorías: todos los nodos intermedios de las rutas usadas, padres antes que hijos. Las raíces ya existen en Odoo.
     usadas = df.categoria_odoo[df.categoria_odoo != ""].value_counts()
@@ -254,4 +344,7 @@ def excel():
 
 
 if __name__ == "__main__":
-    {"rutas": rutas, "lotes": lotes, "excel": excel}[sys.argv[1]]()
+    acciones = {"candidatos": candidatos, "ahorro": ahorro, "rutas": rutas, "lotes": lotes, "excel": excel}
+    if len(sys.argv) < 2 or sys.argv[1] not in acciones:
+        sys.exit(__doc__)
+    acciones[sys.argv[1]](*sys.argv[2:])

@@ -1,6 +1,6 @@
 # Pendientes y próximas tareas
 
-Última actualización: 2026-09-30, al terminar la búsqueda de precios en otros marketplaces de todo el catálogo que se publica (998 de 1,149 con precio) para la pantalla «Comparar precios» y la base de datos `data/catalogo.db`. Para continuar con otra IA, empieza por `AGENTS.md`.
+Última actualización: 2026-11-09, al terminar la fase 1 del **catálogo Ecatepec** (categoría y laboratorio de 9,793 productos nuevos, con Excel de importación a Odoo). Para continuar con otra IA, empieza por `AGENTS.md`.
 
 ## Estado
 
@@ -15,6 +15,21 @@
 | Faltan | Nada para publicar; los 14 descartados vuelven si el dueño consigue fotos o confirma el producto |
 
 El detalle vivo está en `PROGRESO.md`.
+
+### Catálogo Ecatepec (Excel de productos de Odoo, 9 nov 2026)
+
+| Concepto | Productos |
+|---|---|
+| Renglones del Excel | 11,476 |
+| Ya estaban en el repositorio (mismo GTIN o nombre) | 1,108 |
+| Excluidos: código que no es GTIN (ofertas, internos) / no vendibles | 537 / 38 (`data/ecatepec/excluidos.csv`) |
+| **Productos nuevos** (incluye 2,567 descatalogados) | **9,793** |
+| Categoría confirmada en Farmacias del Ahorro | 3,001 |
+| Categoría inferida del nombre (confianza media / baja) | 6,792 (6,309 / 483) |
+| Laboratorio o fabricante | 9,728 (65 sin laboratorio en el ERP); 340 laboratorios |
+| Categorías nuevas para Odoo (dentro de Farmacia y Perfumería) | 257 |
+
+Entrega: `layouts/odoo/categorias_laboratorios_ecatepec.xlsx`. Datos por producto (fuente y confianza): `data/ecatepec/catalogo.csv`. Los 9,793 aún **no** tienen `product.json` (se crean en la fase 2).
 
 Indicadores de calidad del visor (`visor/index.html`; reglas en `config/indicadores.json`):
 
@@ -45,10 +60,14 @@ Layout vigente: `layouts/mercadolibre/layout_mercadolibre.xlsx` (versionado, rec
 | 10 | Pasar el repositorio a privado cuando termine la importación | Dueño | Las URLs de fotos solo funcionan mientras es público. Desde que se versionan el layout y el visor, mientras el repositorio es público también quedan visibles precios y existencias |
 | 13 | Rotar el secreto de la aplicación de Mercado Libre | Dueño | Se compartió por chat; al rotarlo, actualizar `.env` (nunca se versiona) |
 | 11 | Revisar en el visor las 55 descripciones «regular» (54 por confianza media) | Dueño o agente | Filtro Descripción = Regular; confirmar presentación o completar secciones |
+| 14 | Catálogo Ecatepec: importar a Odoo las hojas Categorías y Laboratorios y luego Productos | Dueño | Para que la hoja Productos **actualice** productos existentes, Odoo necesita la columna «ID externo» (o exportar desde Odoo con «Quiero actualizar datos» y cruzar por código de barras). Confirmar en Odoo el modelo del campo Laboratorio. Revisar 232 laboratorios que solo se reformatearon (confianza baja en `data/ecatepec/laboratorios.json`) y los 10 distribuidores |
+| 15 | Catálogo Ecatepec: confirmar las 6,792 categorías inferidas | Agente | 1 búsqueda web por producto (200 por sesión, ~34 sesiones) en San Pablo o Guadalajara; primero las 483 de confianza baja. Actualizar `data/ecatepec/catalogo.csv` y regenerar el Excel |
+| 16 | Catálogo Ecatepec fase 2 (ficha, descripción, fotos) | Dueño autoriza | Pendiente hasta que el dueño la autorice; orden del Excel |
 | 12 | Decidir qué productos se descartan de Meli (p. ej. los 363 cuyo precio en Meli queda al doble o más del de tienda, o los que requieren receta) y revisar los 386 cuyo calculado queda arriba del mejor vendedor | Dueño | Sección Pendientes → seleccionar → acción «Descartar de Meli» → exportar y adjuntar el Excel |
 
 ## Próximas tareas (en orden)
 
+0. Catálogo Ecatepec: si el dueño reporta errores al importar el Excel en Odoo, corregir y regenerar (`python scripts/ecatepec_categorias.py excel`); confirmar categorías inferidas (pendiente 15); fase 2 cuando la autorice.
 1. Procesar el Excel de pendientes que adjunte el dueño (`python scripts/solicitudes.py <archivo.xlsx>`; ver `docs/PROCEDIMIENTO_SESION.md` §4 ter).
 2. Actualizar precios de competencia antes de publicar (cambian a diario): token nuevo del dueño y `docs/PROCEDIMIENTO_SESION.md` §4 bis. Para renovar solo, conviene el flujo de código de autorización (`scripts/meli_auth.py`).
 3. Resolver con el dueño los 7 productos sin fotos (fotos propias del empaque) y los 12 catálogos rechazados; versionar los descartes que haga en el visor (`python scripts/descartar.py --excel`).

@@ -1,0 +1,2508 @@
+[
+ {
+  "laboratorio_excel": "(vacío)",
+  "tipo": "distribuidor",
+  "fabricante": "",
+  "confianza": "baja",
+  "nota": "sin laboratorio en el ERP"
+ },
+ {
+  "laboratorio_excel": "3M MEXICO",
+  "tipo": "fabricante",
+  "fabricante": "3M",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ABBOTT",
+  "tipo": "fabricante",
+  "fabricante": "Abbott",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ABBVIE",
+  "tipo": "fabricante",
+  "fabricante": "AbbVie",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ACCORD",
+  "tipo": "fabricante",
+  "fabricante": "Accord",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ADN PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "ADN Pharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AJOLOTIUS",
+  "tipo": "fabricante",
+  "fabricante": "Ajolotius",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALBY",
+  "tipo": "fabricante",
+  "fabricante": "Alby",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALCOMEX",
+  "tipo": "fabricante",
+  "fabricante": "Alcomex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALCON",
+  "tipo": "fabricante",
+  "fabricante": "Alcon",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALFASIGMA",
+  "tipo": "fabricante",
+  "fabricante": "Alfasigma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALMIRALL",
+  "tipo": "fabricante",
+  "fabricante": "Almirall",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Alpharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALTERNAVID",
+  "tipo": "fabricante",
+  "fabricante": "Alternavid",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALTIA",
+  "tipo": "fabricante",
+  "fabricante": "Altia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ALVARTIS PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Alvartis Pharma",
+  "confianza": "baja",
+  "nota": "posible error de captura de Novartis; no confirmado"
+ },
+ {
+  "laboratorio_excel": "AMBIDERM",
+  "tipo": "fabricante",
+  "fabricante": "Ambiderm",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AMENARINIF",
+  "tipo": "fabricante",
+  "fabricante": "Amenarinif",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AMSA",
+  "tipo": "fabricante",
+  "fabricante": "AMSA",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ANDROMACO",
+  "tipo": "fabricante",
+  "fabricante": "Andrómaco",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ANLETT",
+  "tipo": "fabricante",
+  "fabricante": "Anlett",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ANTERA",
+  "tipo": "fabricante",
+  "fabricante": "Antera",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "APOTEX",
+  "tipo": "fabricante",
+  "fabricante": "Apotex",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AQUA BEAUTY",
+  "tipo": "fabricante",
+  "fabricante": "Aqua Beauty",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ARFAM",
+  "tipo": "fabricante",
+  "fabricante": "Arfam",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ARLEX",
+  "tipo": "fabricante",
+  "fabricante": "Arlex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ARMSTRONG",
+  "tipo": "fabricante",
+  "fabricante": "Armstrong",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ARTSANA",
+  "tipo": "fabricante",
+  "fabricante": "Artsana",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ASCENSIA",
+  "tipo": "fabricante",
+  "fabricante": "Ascensia",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ASOFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Asofarma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ASPID PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Aspid Pharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ASTRAZENECA",
+  "tipo": "fabricante",
+  "fabricante": "AstraZeneca",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ATLANTISPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Atlantispharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AVITUS",
+  "tipo": "fabricante",
+  "fabricante": "Avitus",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AVIVIA",
+  "tipo": "fabricante",
+  "fabricante": "Avivia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "AZTECA",
+  "tipo": "fabricante",
+  "fabricante": "Azteca",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BAUSCH L",
+  "tipo": "fabricante",
+  "fabricante": "Bausch Health",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BAXTER",
+  "tipo": "fabricante",
+  "fabricante": "Baxter",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BAYER",
+  "tipo": "fabricante",
+  "fabricante": "Bayer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BAYER FARM",
+  "tipo": "fabricante",
+  "fabricante": "Bayer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BAYER OTC",
+  "tipo": "fabricante",
+  "fabricante": "Bayer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BDF MEXICO",
+  "tipo": "fabricante",
+  "fabricante": "Beiersdorf",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BEADVANCED",
+  "tipo": "fabricante",
+  "fabricante": "Beadvanced",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BECKMAN",
+  "tipo": "fabricante",
+  "fabricante": "Beckman",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BECTON D",
+  "tipo": "fabricante",
+  "fabricante": "BD",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BESINS",
+  "tipo": "fabricante",
+  "fabricante": "Besins",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BETONE",
+  "tipo": "fabricante",
+  "fabricante": "Betone",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOCODEX",
+  "tipo": "fabricante",
+  "fabricante": "Biocodex",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOGALENIC",
+  "tipo": "fabricante",
+  "fabricante": "Biogalenic",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOINTELLIGENCIA",
+  "tipo": "fabricante",
+  "fabricante": "Biointelligencia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOMEP",
+  "tipo": "fabricante",
+  "fabricante": "Biomep",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOMIRAL",
+  "tipo": "fabricante",
+  "fabricante": "Biomiral",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOPHARMEX",
+  "tipo": "fabricante",
+  "fabricante": "Biopharmex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIORESEARCH",
+  "tipo": "fabricante",
+  "fabricante": "Bioresearch",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BIOSALUD",
+  "tipo": "fabricante",
+  "fabricante": "Biosalud",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BLENDS HEAKTH BEAUTY",
+  "tipo": "fabricante",
+  "fabricante": "Blends Health & Beauty",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BOEHRINGER",
+  "tipo": "fabricante",
+  "fabricante": "Boehringer Ingelheim",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BRANER",
+  "tipo": "fabricante",
+  "fabricante": "Braner",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BRONCOLIN",
+  "tipo": "fabricante",
+  "fabricante": "Broncolin",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BRULUAGSA",
+  "tipo": "fabricante",
+  "fabricante": "Bruluagsa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BRULUART",
+  "tipo": "fabricante",
+  "fabricante": "Bruluart",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BSN MED",
+  "tipo": "fabricante",
+  "fabricante": "BSN Medical",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "BUSLA",
+  "tipo": "fabricante",
+  "fabricante": "Busla",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CAMBER PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Camber Pharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CANCHOLA",
+  "tipo": "fabricante",
+  "fabricante": "Canchola",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CARNOT",
+  "tipo": "fabricante",
+  "fabricante": "Carnot",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CARTER",
+  "tipo": "fabricante",
+  "fabricante": "Carter",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CELLPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Cellpharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CENTRO INTERNACIONAL DE COSMIATRIA",
+  "tipo": "fabricante",
+  "fabricante": "Cosmiatría",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CETUS",
+  "tipo": "fabricante",
+  "fabricante": "Cetus",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CHEMICAL",
+  "tipo": "fabricante",
+  "fabricante": "Chemical",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CHINOIN",
+  "tipo": "fabricante",
+  "fabricante": "Chinoin",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CHURCH & D",
+  "tipo": "fabricante",
+  "fabricante": "Church & Dwight",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CLINIC",
+  "tipo": "fabricante",
+  "fabricante": "Clinic",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CMD",
+  "tipo": "fabricante",
+  "fabricante": "CMD",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "CODIFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Codifarma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COLGATE",
+  "tipo": "fabricante",
+  "fabricante": "Colgate-Palmolive",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COLLINS",
+  "tipo": "fabricante",
+  "fabricante": "Collins",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COLUMBIA",
+  "tipo": "fabricante",
+  "fabricante": "Columbia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COM BIOMEP",
+  "tipo": "fabricante",
+  "fabricante": "Biomep",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COMBEMEX",
+  "tipo": "fabricante",
+  "fabricante": "Combemex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COMER MEX",
+  "tipo": "distribuidor",
+  "fabricante": "Comer Mex",
+  "confianza": "baja",
+  "nota": "distribuidor: Playboy, Benzal"
+ },
+ {
+  "laboratorio_excel": "CORP OPERA",
+  "tipo": "fabricante",
+  "fabricante": "Corp Opera",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COSMIATRIA",
+  "tipo": "fabricante",
+  "fabricante": "Cosmiatría",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COTY",
+  "tipo": "fabricante",
+  "fabricante": "Coty",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COYOACAN",
+  "tipo": "fabricante",
+  "fabricante": "Coyoacan",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "COYOQUIMEX",
+  "tipo": "fabricante",
+  "fabricante": "Coyoquimex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "D LA VEGA",
+  "tipo": "fabricante",
+  "fabricante": "De la Vega",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DACLAF",
+  "tipo": "fabricante",
+  "fabricante": "Daclaf",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DANKEL",
+  "tipo": "fabricante",
+  "fabricante": "Dankel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DDI BAT",
+  "tipo": "fabricante",
+  "fabricante": "DDI BAT",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DE LA GARZA COSMETICS",
+  "tipo": "fabricante",
+  "fabricante": "De La Garza Cosmetics",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DEGASA",
+  "tipo": "fabricante",
+  "fabricante": "Degasa",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DEGORTS",
+  "tipo": "fabricante",
+  "fabricante": "Degorts",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DENTI-LAB",
+  "tipo": "fabricante",
+  "fabricante": "Denti-Lab",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DEPOFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Depofarma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DIBAR",
+  "tipo": "fabricante",
+  "fabricante": "Dibar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DIGRIFARSA",
+  "tipo": "fabricante",
+  "fabricante": "Digrifarsa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DISLIOMONT",
+  "tipo": "fabricante",
+  "fabricante": "Liomont",
+  "confianza": "media",
+  "nota": "Distribuidora de Liomont: Inhibitron, Lombrix, Nedento, Prazolan, Supradol, Macrozit"
+ },
+ {
+  "laboratorio_excel": "DKT MEXICO",
+  "tipo": "fabricante",
+  "fabricante": "DKT",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "DORALDENT",
+  "tipo": "fabricante",
+  "fabricante": "Doraldent",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "E MEDICAS",
+  "tipo": "fabricante",
+  "fabricante": "E Medicas",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EDGEWELL",
+  "tipo": "fabricante",
+  "fabricante": "Edgewell",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EDIGAR SA",
+  "tipo": "fabricante",
+  "fabricante": "Edigar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EL COYOTE",
+  "tipo": "fabricante",
+  "fabricante": "El Coyote",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EMBECTA",
+  "tipo": "fabricante",
+  "fabricante": "Embecta",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ENERGIA 5MAS1",
+  "tipo": "fabricante",
+  "fabricante": "Energía 5mas1",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ESSITY",
+  "tipo": "fabricante",
+  "fabricante": "Essity",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ESTERIPHAR",
+  "tipo": "fabricante",
+  "fabricante": "Esteriphar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EUROFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Eurofarma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EXAKTA",
+  "tipo": "fabricante",
+  "fabricante": "Exakta",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EXEA",
+  "tipo": "fabricante",
+  "fabricante": "Exea",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EXELTIS",
+  "tipo": "fabricante",
+  "fabricante": "Exeltis",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EXPANSCIENCE",
+  "tipo": "fabricante",
+  "fabricante": "Expanscience",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "EYPRO",
+  "tipo": "fabricante",
+  "fabricante": "Eypro",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FABRE DERM",
+  "tipo": "fabricante",
+  "fabricante": "Pierre Fabre",
+  "confianza": "media",
+  "nota": "Avène y Fabroven"
+ },
+ {
+  "laboratorio_excel": "FAES FARMA",
+  "tipo": "fabricante",
+  "fabricante": "Faes Farma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARM HISPA",
+  "tipo": "fabricante",
+  "fabricante": "Farmacéutica Hispanoamericana",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMA CONT",
+  "tipo": "fabricante",
+  "fabricante": "Farma Cont",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMACEUTICA HISPANOAMERICANA",
+  "tipo": "fabricante",
+  "fabricante": "Farmacéutica Hispanoamericana",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMACOS CONTINENTALES",
+  "tipo": "fabricante",
+  "fabricante": "Fármacos Continentales",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMAMEDICA",
+  "tipo": "fabricante",
+  "fabricante": "Farmamédica",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMAPIEL",
+  "tipo": "fabricante",
+  "fabricante": "Farmapiel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FARMCOS CONTINENTALES",
+  "tipo": "fabricante",
+  "fabricante": "Fármacos Continentales",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FASHION CLEAN",
+  "tipo": "fabricante",
+  "fabricante": "Fashion Clean",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FERRER",
+  "tipo": "fabricante",
+  "fabricante": "Ferrer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FRABEL",
+  "tipo": "fabricante",
+  "fabricante": "L'Oréal",
+  "confianza": "media",
+  "nota": "Garnier, L'Oréal Paris, Elvive, Fructis"
+ },
+ {
+  "laboratorio_excel": "FRANCO MEX",
+  "tipo": "fabricante",
+  "fabricante": "Franco Mex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "FREL",
+  "tipo": "fabricante",
+  "fabricante": "Frel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GABAME",
+  "tipo": "fabricante",
+  "fabricante": "Gabame",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GAL TEX",
+  "tipo": "fabricante",
+  "fabricante": "Gal Tex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GALDERMA",
+  "tipo": "fabricante",
+  "fabricante": "Galderma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GELCAPS",
+  "tipo": "fabricante",
+  "fabricante": "Gelcaps",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GELPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Gelpharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GENETICA LAB",
+  "tipo": "fabricante",
+  "fabricante": "Genetica Lab",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GENOMMALAB",
+  "tipo": "fabricante",
+  "fabricante": "Genomma Lab",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GIRARCAMPS",
+  "tipo": "fabricante",
+  "fabricante": "Girarcamps",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GLAXO FARM",
+  "tipo": "fabricante",
+  "fabricante": "GSK",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GLOBAL",
+  "tipo": "fabricante",
+  "fabricante": "Global",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GRIN",
+  "tipo": "fabricante",
+  "fabricante": "Grin",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GRISI",
+  "tipo": "fabricante",
+  "fabricante": "Grisi",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GROSSMAN",
+  "tipo": "fabricante",
+  "fabricante": "Grossman",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GRUNENTHAL",
+  "tipo": "fabricante",
+  "fabricante": "Grünenthal",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GRUPO AC",
+  "tipo": "fabricante",
+  "fabricante": "Grupo AC",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GRUPO GESBER",
+  "tipo": "fabricante",
+  "fabricante": "Grupo Gesber",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "GSK",
+  "tipo": "fabricante",
+  "fabricante": "GSK",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HALEON CON",
+  "tipo": "fabricante",
+  "fabricante": "Haleon",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HASBRO",
+  "tipo": "fabricante",
+  "fabricante": "Hasbro",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HELENTROY",
+  "tipo": "fabricante",
+  "fabricante": "Helentroy",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HENKELCAP",
+  "tipo": "fabricante",
+  "fabricante": "Henkel",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HENNIG ARZNEIMITTEL",
+  "tipo": "fabricante",
+  "fabricante": "Hennig Arzneimittel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HERBAMEDICA",
+  "tipo": "fabricante",
+  "fabricante": "Herbamedica",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HFC PREST",
+  "tipo": "fabricante",
+  "fabricante": "HFC Prestige",
+  "confianza": "media",
+  "nota": "Koleston (Wella)"
+ },
+ {
+  "laboratorio_excel": "HIDROCELL",
+  "tipo": "fabricante",
+  "fabricante": "Hidrocell",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HIGIA",
+  "tipo": "fabricante",
+  "fabricante": "Higia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HOME CARE",
+  "tipo": "fabricante",
+  "fabricante": "Home Care",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HORMONA",
+  "tipo": "fabricante",
+  "fabricante": "Hormona",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "HR BRANDS",
+  "tipo": "fabricante",
+  "fabricante": "HR Brands",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "IFA CELTICS",
+  "tipo": "fabricante",
+  "fabricante": "IFA Celtics",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "INCREDIBLE",
+  "tipo": "fabricante",
+  "fabricante": "Incredible",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "INDEX",
+  "tipo": "fabricante",
+  "fabricante": "Index",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "INOVAXA",
+  "tipo": "fabricante",
+  "fabricante": "Inovaxa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "INT COMER",
+  "tipo": "fabricante",
+  "fabricante": "Int Comer",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "INV FARMA",
+  "tipo": "fabricante",
+  "fabricante": "Inv Farma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "IPAL",
+  "tipo": "fabricante",
+  "fabricante": "Ipal",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "IPSEN",
+  "tipo": "fabricante",
+  "fabricante": "Ipsen",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "IQFA",
+  "tipo": "fabricante",
+  "fabricante": "IQFA",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ISDIN",
+  "tipo": "fabricante",
+  "fabricante": "Isdin",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ITALMEX",
+  "tipo": "fabricante",
+  "fabricante": "Italmex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ITRA",
+  "tipo": "fabricante",
+  "fabricante": "Itra",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "J&J CONSU",
+  "tipo": "fabricante",
+  "fabricante": "Johnson & Johnson",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "JAHVS",
+  "tipo": "fabricante",
+  "fabricante": "Jahvs",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "JALOMA",
+  "tipo": "fabricante",
+  "fabricante": "Jaloma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "JANSSEN",
+  "tipo": "fabricante",
+  "fabricante": "Janssen",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "JAYOR",
+  "tipo": "fabricante",
+  "fabricante": "Jayor",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "K CLARK",
+  "tipo": "fabricante",
+  "fabricante": "Kimberly-Clark",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "KENER",
+  "tipo": "fabricante",
+  "fabricante": "Kener",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "KIRU PHARM",
+  "tipo": "fabricante",
+  "fabricante": "Kiru Pharm",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "KOHN",
+  "tipo": "fabricante",
+  "fabricante": "Kohn",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "KSK",
+  "tipo": "fabricante",
+  "fabricante": "KSK",
+  "confianza": "media",
+  "nota": "Lactacyd, Vitacilina"
+ },
+ {
+  "laboratorio_excel": "LA FLOR",
+  "tipo": "fabricante",
+  "fabricante": "La Flor",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LA PASTORA",
+  "tipo": "fabricante",
+  "fabricante": "La Pastora",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB GLESOL",
+  "tipo": "fabricante",
+  "fabricante": "Lab Glesol",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB HD",
+  "tipo": "fabricante",
+  "fabricante": "Lab HD",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB SERRAL",
+  "tipo": "fabricante",
+  "fabricante": "Serral",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB SHELA",
+  "tipo": "fabricante",
+  "fabricante": "Shela",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB SIFI",
+  "tipo": "fabricante",
+  "fabricante": "SIFI",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAB SOPHIA",
+  "tipo": "fabricante",
+  "fabricante": "Lab Sophia",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LABJAYORSA",
+  "tipo": "fabricante",
+  "fabricante": "Jayor",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LABORATORIO Y DROGUERIA FARMAMEDICA",
+  "tipo": "fabricante",
+  "fabricante": "Farmamédica",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LACER",
+  "tipo": "fabricante",
+  "fabricante": "Lacer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAKESIDE",
+  "tipo": "fabricante",
+  "fabricante": "Lakeside",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAMBI",
+  "tipo": "fabricante",
+  "fabricante": "Lambi",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LANDSTEINE",
+  "tipo": "fabricante",
+  "fabricante": "Landsteine",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LAVIN MEX",
+  "tipo": "fabricante",
+  "fabricante": "Lavin Mex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LE ROY",
+  "tipo": "fabricante",
+  "fabricante": "Le Roy",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LETI",
+  "tipo": "fabricante",
+  "fabricante": "Leti",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LIDERNOVA",
+  "tipo": "fabricante",
+  "fabricante": "Lidernova",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LIFERPALMD",
+  "tipo": "fabricante",
+  "fabricante": "Liferpalmd",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LIFESCAN",
+  "tipo": "fabricante",
+  "fabricante": "LifeScan",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LILLY",
+  "tipo": "fabricante",
+  "fabricante": "Eli Lilly",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LOEFFLER",
+  "tipo": "fabricante",
+  "fabricante": "Loeffler",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LORE",
+  "tipo": "fabricante",
+  "fabricante": "Lore",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LOREAL",
+  "tipo": "fabricante",
+  "fabricante": "L'Oréal",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LOURDES",
+  "tipo": "fabricante",
+  "fabricante": "Lourdes",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "LUMAN",
+  "tipo": "fabricante",
+  "fabricante": "Luman",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MADRID",
+  "tipo": "fabricante",
+  "fabricante": "Madrid",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MANUELL CRUE",
+  "tipo": "fabricante",
+  "fabricante": "Manuell Crue",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MAVER",
+  "tipo": "fabricante",
+  "fabricante": "Maver",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MAVI",
+  "tipo": "fabricante",
+  "fabricante": "Mavi",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MAYOLY",
+  "tipo": "fabricante",
+  "fabricante": "Mayoly",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MDR PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "MDR Pharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEAD NUTRI",
+  "tipo": "fabricante",
+  "fabricante": "Mead Johnson",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDART",
+  "tipo": "fabricante",
+  "fabricante": "Medart",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDICAM",
+  "tipo": "fabricante",
+  "fabricante": "Medicam",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDIGEN",
+  "tipo": "fabricante",
+  "fabricante": "Medigen",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDIHEALTH",
+  "tipo": "fabricante",
+  "fabricante": "Medihealth",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDIKAVA",
+  "tipo": "fabricante",
+  "fabricante": "Medikava",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDIMETRICS",
+  "tipo": "fabricante",
+  "fabricante": "Medimetrics",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEDIPREV",
+  "tipo": "fabricante",
+  "fabricante": "Mediprev",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEGALABS",
+  "tipo": "fabricante",
+  "fabricante": "Megalabs",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MENTHOLATUM",
+  "tipo": "fabricante",
+  "fabricante": "Mentholatum",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MERCK BIO",
+  "tipo": "fabricante",
+  "fabricante": "Merck",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MERCK SHAR",
+  "tipo": "fabricante",
+  "fabricante": "MSD",
+  "confianza": "media",
+  "nota": "Merck Sharp & Dohme"
+ },
+ {
+  "laboratorio_excel": "MERCURIO",
+  "tipo": "fabricante",
+  "fabricante": "Mercurio",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEX AMER",
+  "tipo": "fabricante",
+  "fabricante": "Mex Amer",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MEXAR",
+  "tipo": "fabricante",
+  "fabricante": "Mexar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MICROGRP",
+  "tipo": "fabricante",
+  "fabricante": "Microgrp",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MIYAKO",
+  "tipo": "distribuidor",
+  "fabricante": "Miyako",
+  "confianza": "baja",
+  "nota": "distribuidor: 3M Micropore, Opticlude, Miyako, Nexcare"
+ },
+ {
+  "laboratorio_excel": "MOKSHA8",
+  "tipo": "fabricante",
+  "fabricante": "Moksha8",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MSD",
+  "tipo": "fabricante",
+  "fabricante": "MSD",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "MSN",
+  "tipo": "fabricante",
+  "fabricante": "MSN",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "N S FALLAR",
+  "tipo": "fabricante",
+  "fabricante": "N S Fallar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NAFAR LAB",
+  "tipo": "fabricante",
+  "fabricante": "Nafar Lab",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NANNA",
+  "tipo": "fabricante",
+  "fabricante": "Nanna",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NARTEX",
+  "tipo": "fabricante",
+  "fabricante": "Nartex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NATUREX",
+  "tipo": "fabricante",
+  "fabricante": "Naturex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NEBSA",
+  "tipo": "fabricante",
+  "fabricante": "Nebsa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NEBUCOR",
+  "tipo": "fabricante",
+  "fabricante": "Nebucor",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NENUCO",
+  "tipo": "fabricante",
+  "fabricante": "Nenuco",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NEOLPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Neolpharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NESTLELECH",
+  "tipo": "fabricante",
+  "fabricante": "Nestlé",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NITRAM",
+  "tipo": "fabricante",
+  "fabricante": "Nitram",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NOGAL",
+  "tipo": "fabricante",
+  "fabricante": "Nogal",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NORDIN",
+  "tipo": "fabricante",
+  "fabricante": "Nordin",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NOVAG",
+  "tipo": "fabricante",
+  "fabricante": "Novag",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NOVART FAR",
+  "tipo": "fabricante",
+  "fabricante": "Novartis",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "NUCITEC",
+  "tipo": "fabricante",
+  "fabricante": "Nucitec",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "OFFENBACH",
+  "tipo": "fabricante",
+  "fabricante": "Offenbach",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "OLEANDER",
+  "tipo": "fabricante",
+  "fabricante": "Oleander",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "OMRON",
+  "tipo": "fabricante",
+  "fabricante": "Omron",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ONNEA GELD",
+  "tipo": "fabricante",
+  "fabricante": "Onnea Geld",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "OPKO",
+  "tipo": "fabricante",
+  "fabricante": "Opko",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ORGANON",
+  "tipo": "fabricante",
+  "fabricante": "Organon",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "P.I.MABE",
+  "tipo": "fabricante",
+  "fabricante": "P.I. Mabe",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PAS",
+  "tipo": "fabricante",
+  "fabricante": "PAS",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PASTEUR",
+  "tipo": "fabricante",
+  "fabricante": "Sanofi",
+  "confianza": "media",
+  "nota": "Plavix, Aprovasc"
+ },
+ {
+  "laboratorio_excel": "PBA ELIM",
+  "tipo": "distribuidor",
+  "fabricante": "PBA Elim",
+  "confianza": "baja",
+  "nota": "distribuidor: Reebok, Blumen"
+ },
+ {
+  "laboratorio_excel": "PERRIGO",
+  "tipo": "fabricante",
+  "fabricante": "Perrigo",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PFIZER",
+  "tipo": "fabricante",
+  "fabricante": "Pfizer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PGAMBL INC",
+  "tipo": "fabricante",
+  "fabricante": "Procter & Gamble",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PGAMBLE",
+  "tipo": "fabricante",
+  "fabricante": "Procter & Gamble",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PHARMA & H",
+  "tipo": "fabricante",
+  "fabricante": "Pharma & H",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PHARMACAPS",
+  "tipo": "fabricante",
+  "fabricante": "Pharmacaps",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PHARMAGEN",
+  "tipo": "fabricante",
+  "fabricante": "Pharmagen",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PISA",
+  "tipo": "fabricante",
+  "fabricante": "PiSA",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "POEN",
+  "tipo": "fabricante",
+  "fabricante": "Poen",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PRO VENTAS",
+  "tipo": "fabricante",
+  "fabricante": "Pro Ventas",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PROD FCEUT",
+  "tipo": "distribuidor",
+  "fabricante": "Productos Farmacéuticos",
+  "confianza": "baja",
+  "nota": "distribuidor: Neoseverin, Norutec, Synalar, Anara"
+ },
+ {
+  "laboratorio_excel": "PROGELA",
+  "tipo": "fabricante",
+  "fabricante": "Progela",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PROTEIN",
+  "tipo": "fabricante",
+  "fabricante": "Protein",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PSICOFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Psicofarma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "PUIGMEXICO",
+  "tipo": "fabricante",
+  "fabricante": "Puig",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "QUALAMEX",
+  "tipo": "fabricante",
+  "fabricante": "Qualamex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "QUIFA",
+  "tipo": "fabricante",
+  "fabricante": "Quifa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "QUIMPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Quimpharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RAAM",
+  "tipo": "fabricante",
+  "fabricante": "Raam",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RACEL",
+  "tipo": "fabricante",
+  "fabricante": "Racel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RANDALL",
+  "tipo": "fabricante",
+  "fabricante": "Randall",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RAPIL",
+  "tipo": "fabricante",
+  "fabricante": "Rapil",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RAYERE",
+  "tipo": "fabricante",
+  "fabricante": "Rayere",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RB HEALTH",
+  "tipo": "fabricante",
+  "fabricante": "Reckitt",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RECKITT",
+  "tipo": "fabricante",
+  "fabricante": "Reckitt",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "REEBOK",
+  "tipo": "fabricante",
+  "fabricante": "Reebok",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "REINVEX",
+  "tipo": "fabricante",
+  "fabricante": "Reinvex",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "REMEXA",
+  "tipo": "fabricante",
+  "fabricante": "Remexa",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "REVLON",
+  "tipo": "fabricante",
+  "fabricante": "Revlon",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "RIMSA",
+  "tipo": "fabricante",
+  "fabricante": "Rimsa",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ROCHE",
+  "tipo": "fabricante",
+  "fabricante": "Roche",
+  "confianza": "media",
+  "nota": "incluye La Roche-Posay (L'Oréal)"
+ },
+ {
+  "laboratorio_excel": "SALUCOM",
+  "tipo": "fabricante",
+  "fabricante": "Salucom",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SALUD NATURAL",
+  "tipo": "fabricante",
+  "fabricante": "Salud Natural",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SANAX",
+  "tipo": "fabricante",
+  "fabricante": "Sanax",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SANDOZSACV",
+  "tipo": "distribuidor",
+  "fabricante": "Sandoz",
+  "confianza": "media",
+  "nota": "distribuidor: Zinnat (GSK), Nexium (AstraZeneca), Lopresor, Blodivit"
+ },
+ {
+  "laboratorio_excel": "SANFER",
+  "tipo": "fabricante",
+  "fabricante": "Sanfer",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SANOFI MEX",
+  "tipo": "fabricante",
+  "fabricante": "Sanofi",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SARACOSMET",
+  "tipo": "distribuidor",
+  "fabricante": "Saracosmet",
+  "confianza": "baja",
+  "nota": "distribuidor: tés, Poliyodine, Davenport"
+ },
+ {
+  "laboratorio_excel": "SBLPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "SBL Pharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SCHOEN",
+  "tipo": "fabricante",
+  "fabricante": "Schoen",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SCJOHNSON",
+  "tipo": "fabricante",
+  "fabricante": "SC Johnson",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SEABOND",
+  "tipo": "fabricante",
+  "fabricante": "Seabond",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SEDA PURE",
+  "tipo": "fabricante",
+  "fabricante": "Seda Pure",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SELDER",
+  "tipo": "fabricante",
+  "fabricante": "Selder",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SELECTA",
+  "tipo": "fabricante",
+  "fabricante": "Selecta",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SENOSIAIN",
+  "tipo": "fabricante",
+  "fabricante": "Senosiain",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SERRAL",
+  "tipo": "fabricante",
+  "fabricante": "Serral",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SHELA",
+  "tipo": "fabricante",
+  "fabricante": "Shela",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SIEGFRIED",
+  "tipo": "fabricante",
+  "fabricante": "Siegfried",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SILANES",
+  "tipo": "fabricante",
+  "fabricante": "Silanes",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SILAT",
+  "tipo": "fabricante",
+  "fabricante": "Bic",
+  "confianza": "media",
+  "nota": "Bic"
+ },
+ {
+  "laboratorio_excel": "SILICARE",
+  "tipo": "fabricante",
+  "fabricante": "Silicare",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SKN IMAGEN",
+  "tipo": "fabricante",
+  "fabricante": "Skn Imagen",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SMITH&NEPHEW",
+  "tipo": "fabricante",
+  "fabricante": "Smith & Nephew",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SOLAR",
+  "tipo": "fabricante",
+  "fabricante": "Solar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SOLFRAN",
+  "tipo": "fabricante",
+  "fabricante": "Solfran",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SONS",
+  "tipo": "fabricante",
+  "fabricante": "Sons",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SONSPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Sons",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "STENDHAL",
+  "tipo": "fabricante",
+  "fabricante": "Stendhal",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "STIEFEL",
+  "tipo": "fabricante",
+  "fabricante": "Stiefel",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "STREGER",
+  "tipo": "fabricante",
+  "fabricante": "Streger",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SUANCA",
+  "tipo": "fabricante",
+  "fabricante": "Suanca",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SUN PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Sun Pharma",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SUNSTAR A",
+  "tipo": "fabricante",
+  "fabricante": "Sunstar",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "SYNTHON",
+  "tipo": "fabricante",
+  "fabricante": "Synthon",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "T.TAIO",
+  "tipo": "fabricante",
+  "fabricante": "Taio",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TAIO",
+  "tipo": "fabricante",
+  "fabricante": "Taio",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TAKEDA",
+  "tipo": "fabricante",
+  "fabricante": "Takeda",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TANYS",
+  "tipo": "fabricante",
+  "fabricante": "Tanys",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TECHSPHERE",
+  "tipo": "distribuidor",
+  "fabricante": "Techsphere",
+  "confianza": "baja",
+  "nota": "distribuidor: Lacteol, Akabar, Solidenat, Liberan"
+ },
+ {
+  "laboratorio_excel": "TECNOFARMA",
+  "tipo": "fabricante",
+  "fabricante": "Tecnofarma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TEMPUSPHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Tempuspharma",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TEVA PHARM",
+  "tipo": "fabricante",
+  "fabricante": "Teva",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "THEA MEX",
+  "tipo": "fabricante",
+  "fabricante": "Théa",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "THERSO",
+  "tipo": "fabricante",
+  "fabricante": "Therso",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "TORRENT PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "Torrent",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "UCB PHARMA",
+  "tipo": "fabricante",
+  "fabricante": "UCB",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ULTRA LAB",
+  "tipo": "fabricante",
+  "fabricante": "Ultra Laboratorios",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "UNILEVER",
+  "tipo": "fabricante",
+  "fabricante": "Unilever",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "UNION KARGO",
+  "tipo": "fabricante",
+  "fabricante": "Union Kargo",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "UNIVERSAL",
+  "tipo": "distribuidor",
+  "fabricante": "Universal",
+  "confianza": "baja",
+  "nota": "distribuidor: algodón, body wash"
+ },
+ {
+  "laboratorio_excel": "UNIVERSAL WIPES",
+  "tipo": "fabricante",
+  "fabricante": "Universal Wipes",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VALDECASAS",
+  "tipo": "fabricante",
+  "fabricante": "Valdecasas",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VALEANT",
+  "tipo": "fabricante",
+  "fabricante": "Bausch Health",
+  "confianza": "media",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VELAZQUEZ",
+  "tipo": "distribuidor",
+  "fabricante": "Velázquez",
+  "confianza": "baja",
+  "nota": "distribuidor: tintura de violeta, arnica, pera de hule"
+ },
+ {
+  "laboratorio_excel": "VIATRIS",
+  "tipo": "fabricante",
+  "fabricante": "Viatris",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VICTORY",
+  "tipo": "fabricante",
+  "fabricante": "Victory",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VITAE",
+  "tipo": "fabricante",
+  "fabricante": "Vitae",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VITAFORTE",
+  "tipo": "fabricante",
+  "fabricante": "Vitaforte",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VITALCARE",
+  "tipo": "fabricante",
+  "fabricante": "Vitalcare",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VIVA FORTE",
+  "tipo": "fabricante",
+  "fabricante": "Viva Forte",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "VYCTORY",
+  "tipo": "fabricante",
+  "fabricante": "Victory",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "WANDEL",
+  "tipo": "fabricante",
+  "fabricante": "Wandel",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "WELLNESEUT",
+  "tipo": "fabricante",
+  "fabricante": "Wellneseut",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "WERMARPHAR",
+  "tipo": "fabricante",
+  "fabricante": "Wermarphar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "WESER PHAR",
+  "tipo": "fabricante",
+  "fabricante": "Weser Phar",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "WOGEN MEDICAL",
+  "tipo": "fabricante",
+  "fabricante": "Wogen Medical",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "XTRON",
+  "tipo": "fabricante",
+  "fabricante": "Xtron",
+  "confianza": "baja",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ZAMBON",
+  "tipo": "fabricante",
+  "fabricante": "Zambon",
+  "confianza": "alta",
+  "nota": ""
+ },
+ {
+  "laboratorio_excel": "ZELL",
+  "tipo": "fabricante",
+  "fabricante": "Zell",
+  "confianza": "baja",
+  "nota": "marca Xiomara"
+ }
+]

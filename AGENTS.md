@@ -32,6 +32,7 @@ Este repositorio es la **base de datos de productos** de una farmacia mexicana (
 | Precios en otros marketplaces (San Pablo, Del Ahorro, Benavides, Walmart…) | Subagentes con `docs/agentes/precios_otros.md` → `python scripts/otros_marketplaces.py integrar --sesion NN`; o el Excel «Exportar comparación» del visor (hoja Captura) → `python scripts/otros_marketplaces.py excel <archivo.xlsx>` (`docs/PROCEDIMIENTO_SESION.md` §4 quater) |
 | Consultar o entregar todos los datos en una base de datos | `data/catalogo.db` (SQLite); se regenera con `python scripts/build_db.py` después de `build_visor.py` (`docs/BASE_DE_DATOS.md`) |
 | Descartar o reactivar productos de Mercado Libre | Desde el visor (botón «Descartar de Meli»; el dueño adjunta el Excel «Exportar descartes») → `python scripts/descartar.py --excel <archivo.xlsx>`; o `python scripts/descartar.py --gtin … --motivo …` / `--reactivar` / `--lista` |
+| **Catálogo Ecatepec** (9,793 productos nuevos del Excel de Odoo): fase 1 hecha (categoría y laboratorio); confirmar las 6,792 categorías inferidas; fase 2 (ficha, fotos) espera autorización del dueño | `scripts/ecatepec_categorias.py` y `docs/PROCEDIMIENTO_SESION.md` §4 quinquies; subagentes con `docs/agentes/categorias.md`. Salidas: `data/ecatepec/` y `layouts/odoo/categorias_laboratorios_ecatepec.xlsx` |
 | Layouts de Odoo, Shopify y Amazon | Nuevos `scripts/build_<canal>.py` que lean `product.json` + `insumos/`; reglas en `config/<canal>.json`; ver `docs/CONTRATOS.md` §7 |
 
 ## Reglas de trabajo
@@ -71,10 +72,12 @@ data/catalogo_ml_rechazados.csv  Catálogos de Mercado Libre que no corresponden
 data/precios_otros_marketplaces.csv  Precio de venta de cada producto en otras tiendas en línea (uno por tienda)
 data/catalogo.db                 Base de datos SQLite con todos los datos (generada por scripts/build_db.py; docs/BASE_DE_DATOS.md)
 data/prioridad.csv               Orden de trabajo por ventas (sin montos)
+data/ecatepec/                   Catálogo Ecatepec: categoría y fabricante por producto (catalogo.csv), laboratorios normalizados y excluidos
 products/<GTIN>/product.json     Ficha del producto
 products/<GTIN>/images/          Fotos <GTIN>_<n>.jpg
 reference/mercadolibre/          Árbol de categorías MLM (todas las hojas, relevantes y con receta)
 layouts/mercadolibre/            Layout de importación de Mercado Libre (.xlsx recalculado, versionado)
+layouts/odoo/                    Excel de importación a Odoo de categorías y laboratorios (catálogo Ecatepec)
 visor/                           Visor web de productos (index.html, styles.css, app.js, precios.js, xlsx.js, data/productos.js)
 scripts/                         Herramientas (ver README.md)
 requirements.txt, .env.example   Dependencias y plantilla de credenciales
